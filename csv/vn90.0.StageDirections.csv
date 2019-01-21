@@ -1,0 +1,506 @@
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+qd,vn90.0,767,796,_Stage,_Stage,Halle,NE,halle,17876,,
+qd,vn90.0,767,796,_Stage,_Stage,im,APPRART,in,17876,,
+qd,vn90.0,767,796,_Stage,_Stage,herzoglichen,ADJA,herzoglich,17876,,
+qd,vn90.0,767,796,_Stage,_Stage,Palast,NN,palast,17876,,
+qd,vn90.0,767,796,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,800,875,_Stage,_Stage,Es,PPER,es,17876,,
+qd,vn90.0,800,875,_Stage,_Stage,treten,VVFIN,treten,17876,,
+qd,vn90.0,800,875,_Stage,_Stage,auf,APPR,auf,17876,,
+qd,vn90.0,800,875,_Stage,_Stage,der,ART,der,17876,,
+qd,vn90.0,800,875,_Stage,_Stage,Herzog,NE,herzog,17876,,(9)
+qd,vn90.0,800,875,_Stage,_Stage,von,APPR,von,17876,,
+qd,vn90.0,800,875,_Stage,_Stage,Ephesus,NE,ephesus,17876,,
+qd,vn90.0,800,875,_Stage,_Stage,",","$,",--,17876,,
+qd,vn90.0,800,875,_Stage,_Stage,Ägeon,NN,ägeon,17876,,(17)
+qd,vn90.0,800,875,_Stage,_Stage,",","$,",--,17876,,
+qd,vn90.0,800,875,_Stage,_Stage,der,ART,der,17876,,
+qd,vn90.0,800,875,_Stage,_Stage,Kerkermeister,NN,kerkermeister,17876,,
+qd,vn90.0,800,875,_Stage,_Stage,und,KON,und,17876,,
+qd,vn90.0,800,875,_Stage,_Stage,Gefolge,NN,gefolge,17876,,
+qd,vn90.0,800,875,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,7921,7934,ÄGEON,ägeon,Alle,PIDAT,alle,17876,,
+qd,vn90.0,7921,7934,ÄGEON,ägeon,gehn,CARD,gehn,17876,,
+qd,vn90.0,7921,7934,ÄGEON,ägeon,ab,PTKVZ,ab,17876,,
+qd,vn90.0,7921,7934,ÄGEON,ägeon,.,$.,--,17876,,
+qd,vn90.0,7982,7988,_Stage,_Stage,Markt,NN,markt,17876,,
+qd,vn90.0,7982,7988,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,7992,8066,_Stage,_Stage,Es,PPER,es,17876,,
+qd,vn90.0,7992,8066,_Stage,_Stage,treten,VVFIN,treten,17876,,
+qd,vn90.0,7992,8066,_Stage,_Stage,auf,APPR,auf,17876,,
+qd,vn90.0,7992,8066,_Stage,_Stage,Antipholus,NN,antipholus,17876,,(3|(3)
+qd,vn90.0,7992,8066,_Stage,_Stage,von,APPR,von,17876,,
+qd,vn90.0,7992,8066,_Stage,_Stage,Syrakus,NE,syrakus,17876,,3)
+qd,vn90.0,7992,8066,_Stage,_Stage,",","$,",--,17876,,
+qd,vn90.0,7992,8066,_Stage,_Stage,ein,ART,ein,17876,,
+qd,vn90.0,7992,8066,_Stage,_Stage,Kaufmann,NN,kaufmann,17876,,(10)
+qd,vn90.0,7992,8066,_Stage,_Stage,und,KON,und,17876,,
+qd,vn90.0,7992,8066,_Stage,_Stage,Dromio,NE,dromio,17876,,(7|(7)
+qd,vn90.0,7992,8066,_Stage,_Stage,von,APPR,von,17876,,
+qd,vn90.0,7992,8066,_Stage,_Stage,Syrakus,NE,syrakus,17876,,7)
+qd,vn90.0,7992,8066,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,8882,8885,DROMIO,dromio_von_syrakus,Ab,APPR,ab,17876,,
+qd,vn90.0,8882,8885,DROMIO,dromio_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,9618,9626,KAUFMANN,kaufmann,Geht,VVFIN,gehen,17876,,
+qd,vn90.0,9618,9626,KAUFMANN,kaufmann,ab,PTKVZ,ab,17876,,
+qd,vn90.0,9618,9626,KAUFMANN,kaufmann,.,$.,--,17876,,
+qd,vn90.0,10011,10036,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Dromio,NE,dromio,17876,,(6|(7)
+qd,vn90.0,10011,10036,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,von,APPR,von,17876,,
+qd,vn90.0,10011,10036,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Ephesus,NE,ephesus,17876,,6)
+qd,vn90.0,10011,10036,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,kommt,VVFIN,kommen,17876,,
+qd,vn90.0,10011,10036,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,12881,12896,DROMIO VON EPHESUS,dromio_von_ephesus,Er,PPER,er,17876,,
+qd,vn90.0,12881,12896,DROMIO VON EPHESUS,dromio_von_ephesus,läuft,VVFIN,laufen,17876,,
+qd,vn90.0,12881,12896,DROMIO VON EPHESUS,dromio_von_ephesus,davon,PROAV,davon,17876,,
+qd,vn90.0,12881,12896,DROMIO VON EPHESUS,dromio_von_ephesus,.,$.,--,17876,,
+qd,vn90.0,13426,13434,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Geht,VVFIN,gehen,17876,,
+qd,vn90.0,13426,13434,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,ab,PTKVZ,ab,17876,,
+qd,vn90.0,13426,13434,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,13505,13512,_Stage,_Stage,Zimmer,NN,zimmer,17876,,
+qd,vn90.0,13505,13512,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,13516,13547,_Stage,_Stage,Adriana,NE,adriana,17876,,(0)
+qd,vn90.0,13516,13547,_Stage,_Stage,und,KON,und,17876,,
+qd,vn90.0,13516,13547,_Stage,_Stage,Luciana,NE,luciana,17876,,(12)
+qd,vn90.0,13516,13547,_Stage,_Stage,treten,VVFIN,treten,17876,,
+qd,vn90.0,13516,13547,_Stage,_Stage,auf,PTKVZ,auf,17876,,
+qd,vn90.0,13516,13547,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,15749,15774,LUCIANA,luciana,Dromio,NE,dromio,17876,,(6|(7)
+qd,vn90.0,15749,15774,LUCIANA,luciana,von,APPR,von,17876,,
+qd,vn90.0,15749,15774,LUCIANA,luciana,Ephesus,NE,ephesus,17876,,6)
+qd,vn90.0,15749,15774,LUCIANA,luciana,kommt,VVFIN,kommen,17876,,
+qd,vn90.0,15749,15774,LUCIANA,luciana,.,$.,--,17876,,
+qd,vn90.0,18067,18075,DROMIO VON EPHESUS,dromio_von_ephesus,Geht,VVFIN,gehen,17876,,
+qd,vn90.0,18067,18075,DROMIO VON EPHESUS,dromio_von_ephesus,ab,PTKVZ,ab,17876,,
+qd,vn90.0,18067,18075,DROMIO VON EPHESUS,dromio_von_ephesus,.,$.,--,17876,,
+qd,vn90.0,19587,19600,LUCIANA,luciana,Sie,PPER,sie,17876,,
+qd,vn90.0,19587,19600,LUCIANA,luciana,gehen,VVFIN,gehen,17876,,
+qd,vn90.0,19587,19600,LUCIANA,luciana,ab,PTKVZ,ab,17876,,
+qd,vn90.0,19587,19600,LUCIANA,luciana,.,$.,--,17876,,
+qd,vn90.0,19648,19655,_Stage,_Stage,Straße,NN,straße,17876,,
+qd,vn90.0,19648,19655,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,19659,19692,_Stage,_Stage,Antipholus,NN,antipholus,17876,,(3|(3)
+qd,vn90.0,19659,19692,_Stage,_Stage,von,APPR,von,17876,,
+qd,vn90.0,19659,19692,_Stage,_Stage,Syrakus,NE,syrakus,17876,,3)
+qd,vn90.0,19659,19692,_Stage,_Stage,tritt,VVFIN,treten,17876,,
+qd,vn90.0,19659,19692,_Stage,_Stage,auf,PTKVZ,auf,17876,,
+qd,vn90.0,19659,19692,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,19990,20015,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Dromio,NE,dromio,17876,,(7|(7)
+qd,vn90.0,19990,20015,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,von,APPR,von,17876,,
+qd,vn90.0,19990,20015,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Syrakus,NE,syrakus,17876,,7)
+qd,vn90.0,19990,20015,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,kommt,VVFIN,kommen,17876,,
+qd,vn90.0,19990,20015,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,20949,20961,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Schlägt,VVFIN,schlägen,17876,,
+qd,vn90.0,20949,20961,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,ihn,PPER,ihn,17876,,
+qd,vn90.0,20949,20961,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,25574,25601,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Adriana,NE,adriana,17876,,(0)
+qd,vn90.0,25574,25601,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,und,KON,und,17876,,
+qd,vn90.0,25574,25601,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Luciana,NE,luciana,17876,,(12)
+qd,vn90.0,25574,25601,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,kommen,VVFIN,kommen,17876,,
+qd,vn90.0,25574,25601,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,31071,31083,LUCIANA,luciana,Sie,PPER,sie,17876,,
+qd,vn90.0,31071,31083,LUCIANA,luciana,gehn,VVFIN,gehn,17876,,
+qd,vn90.0,31071,31083,LUCIANA,luciana,ab,PTKVZ,ab,17876,,
+qd,vn90.0,31071,31083,LUCIANA,luciana,.,$.,--,17876,,
+qd,vn90.0,31154,31168,_Stage,_Stage,Vor,APPR,vor,17876,,
+qd,vn90.0,31154,31168,_Stage,_Stage,dem,ART,der,17876,,
+qd,vn90.0,31154,31168,_Stage,_Stage,Hause,NN,haus,17876,,
+qd,vn90.0,31154,31168,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,31172,31251,_Stage,_Stage,Es,PPER,es,17876,,
+qd,vn90.0,31172,31251,_Stage,_Stage,treten,VVFIN,treten,17876,,
+qd,vn90.0,31172,31251,_Stage,_Stage,auf,APPR,auf,17876,,
+qd,vn90.0,31172,31251,_Stage,_Stage,Antipholus,NN,antipholus,17876,,(2|(3)
+qd,vn90.0,31172,31251,_Stage,_Stage,von,APPR,von,17876,,
+qd,vn90.0,31172,31251,_Stage,_Stage,Ephesus,NE,ephesus,17876,,2)
+qd,vn90.0,31172,31251,_Stage,_Stage,",","$,",--,17876,,
+qd,vn90.0,31172,31251,_Stage,_Stage,Dromio,NE,dromio,17876,,(6|(7)
+qd,vn90.0,31172,31251,_Stage,_Stage,von,APPR,von,17876,,
+qd,vn90.0,31172,31251,_Stage,_Stage,Ephesus,NE,ephesus,17876,,6)
+qd,vn90.0,31172,31251,_Stage,_Stage,",","$,",--,17876,,
+qd,vn90.0,31172,31251,_Stage,_Stage,Angelo,NE,angelo,17876,,(1)
+qd,vn90.0,31172,31251,_Stage,_Stage,und,KON,und,17876,,
+qd,vn90.0,31172,31251,_Stage,_Stage,Balthasar,NN,balthasar,17876,,(4)
+qd,vn90.0,31172,31251,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,33263,33271,DROMIO,dromio_von_syrakus,drinnen,ADV,drinnen,17876,,
+qd,vn90.0,33263,33271,DROMIO,dromio_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,33460,33464,DROMIO,dromio_von_syrakus,eine,ART,ein,17876,,
+qd,vn90.0,33829,33833,DROMIO,dromio_von_syrakus,wann,ADV,wann,17876,,
+qd,vn90.0,33854,33862,DROMIO,dromio_von_syrakus,wofür,PWAV,wofür,17876,,
+qd,vn90.0,33854,33862,DROMIO,dromio_von_syrakus,"!",$.,--,17876,,
+qd,vn90.0,33854,33862,DROMIO,dromio_von_syrakus,–,XY,–,17876,,
+qd,vn90.0,34460,34468,LUCIE,lucie,drinnen,ADV,drinnen,17876,,
+qd,vn90.0,34460,34468,LUCIE,lucie,.,$.,--,17876,,
+qd,vn90.0,35557,35565,ADRIANA,adriana,drinnen,ADV,drinnen,17876,,
+qd,vn90.0,35557,35565,ADRIANA,adriana,.,$.,--,17876,,
+qd,vn90.0,38852,38862,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Zu,PTKZU,zu,17876,,
+qd,vn90.0,38852,38862,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Angelo,VVINF,angelo,17876,,(1)
+qd,vn90.0,38852,38862,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,.,$.,--,17876,,
+qd,vn90.0,39363,39375,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Sie,PPER,sie,17876,,
+qd,vn90.0,39363,39375,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,gehn,VVFIN,gehn,17876,,
+qd,vn90.0,39363,39375,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,ab,PTKVZ,ab,17876,,
+qd,vn90.0,39363,39375,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,.,$.,--,17876,,
+qd,vn90.0,39423,39443,_Stage,_Stage,Platz,NN,platz,17876,,
+qd,vn90.0,39423,39443,_Stage,_Stage,vor,APPR,vor,17876,,
+qd,vn90.0,39423,39443,_Stage,_Stage,dem,ART,der,17876,,
+qd,vn90.0,39423,39443,_Stage,_Stage,Hause,NN,haus,17876,,
+qd,vn90.0,39423,39443,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,39447,39496,_Stage,_Stage,Es,PPER,es,17876,,
+qd,vn90.0,39447,39496,_Stage,_Stage,treten,VVFIN,treten,17876,,
+qd,vn90.0,39447,39496,_Stage,_Stage,auf,APPR,auf,17876,,
+qd,vn90.0,39447,39496,_Stage,_Stage,Luciana,NE,luciana,17876,,(12)
+qd,vn90.0,39447,39496,_Stage,_Stage,und,KON,und,17876,,
+qd,vn90.0,39447,39496,_Stage,_Stage,Antipholus,NN,antipholus,17876,,(3|(3)
+qd,vn90.0,39447,39496,_Stage,_Stage,von,APPR,von,17876,,
+qd,vn90.0,39447,39496,_Stage,_Stage,Syrakus,NE,syrakus,17876,,3)
+qd,vn90.0,39447,39496,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,43035,43038,LUCIANA,luciana,Ab,APPR,ab,17876,,
+qd,vn90.0,43035,43038,LUCIANA,luciana,.,$.,--,17876,,
+qd,vn90.0,43042,43067,LUCIANA,luciana,Dromio,NE,dromio,17876,,(7|(7)
+qd,vn90.0,43042,43067,LUCIANA,luciana,von,APPR,von,17876,,
+qd,vn90.0,43042,43067,LUCIANA,luciana,Syrakus,NE,syrakus,17876,,7)
+qd,vn90.0,43042,43067,LUCIANA,luciana,kommt,VVFIN,kommen,17876,,
+qd,vn90.0,43042,43067,LUCIANA,luciana,.,$.,--,17876,,
+qd,vn90.0,47472,47477,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,einen,ART,ein,17876,,
+qd,vn90.0,47646,47649,DROMIO,dromio_von_syrakus,Ab,APPR,ab,17876,,
+qd,vn90.0,47646,47649,DROMIO,dromio_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,48084,48101,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Angelo,NE,angelo,17876,,(1)
+qd,vn90.0,48084,48101,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,tritt,VVFIN,treten,17876,,
+qd,vn90.0,48084,48101,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,auf,PTKVZ,auf,17876,,
+qd,vn90.0,48084,48101,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,48914,48919,ANGELO,angelo,Geht,VVFIN,gehen,17876,,
+qd,vn90.0,48914,48919,ANGELO,angelo,.,$.,--,17876,,
+qd,vn90.0,49285,49293,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Geht,VVFIN,gehen,17876,,
+qd,vn90.0,49285,49293,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,ab,PTKVZ,ab,17876,,
+qd,vn90.0,49285,49293,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,49364,49371,_Stage,_Stage,Straße,NN,straße,17876,,
+qd,vn90.0,49364,49371,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,49375,49430,_Stage,_Stage,Ein,ART,ein,17876,,
+qd,vn90.0,49375,49430,_Stage,_Stage,Kaufmann,NN,kaufmann,17876,,(10)
+qd,vn90.0,49375,49430,_Stage,_Stage,",","$,",--,17876,,
+qd,vn90.0,49375,49430,_Stage,_Stage,Angelo,NE,angelo,17876,,(1)
+qd,vn90.0,49375,49430,_Stage,_Stage,und,KON,und,17876,,
+qd,vn90.0,49375,49430,_Stage,_Stage,ein,ART,ein,17876,,
+qd,vn90.0,49375,49430,_Stage,_Stage,Gerichtsdiener,NN,gerichtsdiener,17876,,(8)
+qd,vn90.0,49375,49430,_Stage,_Stage,treten,VVFIN,treten,17876,,
+qd,vn90.0,49375,49430,_Stage,_Stage,auf,PTKVZ,auf,17876,,
+qd,vn90.0,49375,49430,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,50029,50074,ANGELO,angelo,Antipholus,NN,antipholus,17876,,(2|(3)
+qd,vn90.0,50029,50074,ANGELO,angelo,von,APPR,von,17876,,
+qd,vn90.0,50029,50074,ANGELO,angelo,Ephesus,NE,ephesus,17876,,2)
+qd,vn90.0,50029,50074,ANGELO,angelo,und,KON,und,17876,,
+qd,vn90.0,50029,50074,ANGELO,angelo,Dromio,NE,dromio,17876,,(6|(7)
+qd,vn90.0,50029,50074,ANGELO,angelo,von,APPR,von,17876,,
+qd,vn90.0,50029,50074,ANGELO,angelo,Ephesus,NE,ephesus,17876,,6)
+qd,vn90.0,50078,50113,ANGELO,angelo,kommen,VVFIN,kommen,17876,,
+qd,vn90.0,50078,50113,ANGELO,angelo,aus,APPR,aus,17876,,
+qd,vn90.0,50078,50113,ANGELO,angelo,dem,ART,der,17876,,
+qd,vn90.0,50078,50113,ANGELO,angelo,Hause,NN,haus,17876,,
+qd,vn90.0,50078,50113,ANGELO,angelo,der,ART,der,17876,,
+qd,vn90.0,50078,50113,ANGELO,angelo,Kurtisane,NN,kurtisane,17876,,(11)
+qd,vn90.0,50078,50113,ANGELO,angelo,.,$.,--,17876,,
+qd,vn90.0,50583,50591,DROMIO VON EPHESUS,dromio_von_ephesus,Geht,VVFIN,gehen,17876,,
+qd,vn90.0,50583,50591,DROMIO VON EPHESUS,dromio_von_ephesus,ab,PTKVZ,ab,17876,,
+qd,vn90.0,50583,50591,DROMIO VON EPHESUS,dromio_von_ephesus,.,$.,--,17876,,
+qd,vn90.0,52164,52167,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Ihr,PPOSAT,ihr,17876,,
+qd,vn90.0,54111,54146,ANGELO,angelo,Dromio,NE,dromio,17876,,(7|(7)
+qd,vn90.0,54111,54146,ANGELO,angelo,von,APPR,von,17876,,
+qd,vn90.0,54111,54146,ANGELO,angelo,Syrakus,NE,syrakus,17876,,7)
+qd,vn90.0,54111,54146,ANGELO,angelo,kommt,VVFIN,kommen,17876,,
+qd,vn90.0,54111,54146,ANGELO,angelo,vom,APPRART,von,17876,,
+qd,vn90.0,54111,54146,ANGELO,angelo,Hafen,NN,hafen,17876,,
+qd,vn90.0,54111,54146,ANGELO,angelo,.,$.,--,17876,,
+qd,vn90.0,55351,55379,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Alle,PIDAT,aller,17876,,
+qd,vn90.0,55351,55379,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,gehen,VVFIN,gehen,17876,,
+qd,vn90.0,55351,55379,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,ab,PTKVZ,ab,17876,,
+qd,vn90.0,55351,55379,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,",","$,",--,17876,,
+qd,vn90.0,55351,55379,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,außer,APPR,außer,17876,,
+qd,vn90.0,55351,55379,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Dromio,NE,dromio,17876,,(7)
+qd,vn90.0,55351,55379,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,.,$.,--,17876,,
+qd,vn90.0,55623,55631,DROMIO,dromio_von_syrakus,Geht,VVFIN,gehen,17876,,
+qd,vn90.0,55623,55631,DROMIO,dromio_von_syrakus,ab,PTKVZ,ab,17876,,
+qd,vn90.0,55623,55631,DROMIO,dromio_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,55680,55687,_Stage,_Stage,Zimmer,NN,zimmer,17876,,
+qd,vn90.0,55680,55687,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,55691,55723,_Stage,_Stage,Adriana,NE,adriana,17876,,(0)
+qd,vn90.0,55691,55723,_Stage,_Stage,und,KON,und,17876,,
+qd,vn90.0,55691,55723,_Stage,_Stage,Luciana,NE,luciana,17876,,(12)
+qd,vn90.0,55691,55723,_Stage,_Stage,",","$,",--,17876,,
+qd,vn90.0,55691,55723,_Stage,_Stage,treten,VVFIN,treten,17876,,
+qd,vn90.0,55691,55723,_Stage,_Stage,auf,PTKVZ,auf,17876,,
+qd,vn90.0,55691,55723,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,57213,57238,ADRIANA,adriana,Dromio,NE,dromio,17876,,(7|(7)
+qd,vn90.0,57213,57238,ADRIANA,adriana,von,APPR,von,17876,,
+qd,vn90.0,57213,57238,ADRIANA,adriana,Syrakus,NE,syrakus,17876,,7)
+qd,vn90.0,57213,57238,ADRIANA,adriana,kommt,VVFIN,kommen,17876,,
+qd,vn90.0,57213,57238,ADRIANA,adriana,.,$.,--,17876,,
+qd,vn90.0,58353,58366,ADRIANA,adriana,Luciana,NE,luciana,17876,,(12)
+qd,vn90.0,58353,58366,ADRIANA,adriana,geht,VVFIN,gehen,17876,,
+qd,vn90.0,58353,58366,ADRIANA,adriana,.,$.,--,17876,,
+qd,vn90.0,59418,59439,DROMIO,dromio_von_syrakus,Luciana,NE,luciana,17876,,(12)
+qd,vn90.0,59418,59439,DROMIO,dromio_von_syrakus,kommt,VVFIN,kommen,17876,,
+qd,vn90.0,59418,59439,DROMIO,dromio_von_syrakus,zurück,PTKVZ,zurück,17876,,
+qd,vn90.0,59418,59439,DROMIO,dromio_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,59645,59657,ADRIANA,adriana,Sie,PPER,sie,17876,,
+qd,vn90.0,59645,59657,ADRIANA,adriana,gehn,VVFIN,gehn,17876,,
+qd,vn90.0,59645,59657,ADRIANA,adriana,ab,PTKVZ,ab,17876,,
+qd,vn90.0,59645,59657,ADRIANA,adriana,.,$.,--,17876,,
+qd,vn90.0,59705,59712,_Stage,_Stage,Straße,NN,straße,17876,,
+qd,vn90.0,59705,59712,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,59716,59739,_Stage,_Stage,Antipholus,NN,antipholus,17876,,(3|(3)
+qd,vn90.0,59716,59739,_Stage,_Stage,von,APPR,von,17876,,
+qd,vn90.0,59716,59739,_Stage,_Stage,Syrakus,NE,syrakus,17876,,3)
+qd,vn90.0,59716,59739,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,60253,60278,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Dromio,NE,dromio,17876,,(7|(7)
+qd,vn90.0,60253,60278,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,von,APPR,von,17876,,
+qd,vn90.0,60253,60278,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Syrakus,NE,syrakus,17876,,7)
+qd,vn90.0,60253,60278,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,kommt,VVFIN,kommen,17876,,
+qd,vn90.0,60253,60278,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,62077,62102,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Eine,ART,ein,17876,,
+qd,vn90.0,62077,62102,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Kurtisane,NN,kurtisane,17876,,(11)
+qd,vn90.0,62077,62102,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,tritt,VVFIN,treten,17876,,
+qd,vn90.0,62077,62102,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,auf,PTKVZ,auf,17876,,
+qd,vn90.0,62077,62102,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,64239,64269,DROMIO,dromio_von_syrakus,Antipholus,NN,antipholus,17876,,(3)
+qd,vn90.0,64239,64269,DROMIO,dromio_von_syrakus,und,KON,und,17876,,
+qd,vn90.0,64239,64269,DROMIO,dromio_von_syrakus,Dromio,NE,dromio,17876,,(7)
+qd,vn90.0,64239,64269,DROMIO,dromio_von_syrakus,gehn,CARD,gehn,17876,,
+qd,vn90.0,64239,64269,DROMIO,dromio_von_syrakus,ab,PTKVZ,ab,17876,,
+qd,vn90.0,64239,64269,DROMIO,dromio_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,64980,64983,KURTISANE,kurtisane,Ab,APPR,ab,17876,,
+qd,vn90.0,64980,64983,KURTISANE,kurtisane,.,$.,--,17876,,
+qd,vn90.0,65031,65044,_Stage,_Stage,Andre,NE,andre,17876,,
+qd,vn90.0,65031,65044,_Stage,_Stage,Straße,NN,straße,17876,,
+qd,vn90.0,65031,65044,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,65048,65100,_Stage,_Stage,Antipholus,NN,antipholus,17876,,(2|(3)
+qd,vn90.0,65048,65100,_Stage,_Stage,von,APPR,von,17876,,
+qd,vn90.0,65048,65100,_Stage,_Stage,Ephesus,NE,ephesus,17876,,2)
+qd,vn90.0,65048,65100,_Stage,_Stage,und,KON,und,17876,,
+qd,vn90.0,65048,65100,_Stage,_Stage,der,ART,der,17876,,
+qd,vn90.0,65048,65100,_Stage,_Stage,Schließer,NN,schließer,17876,,
+qd,vn90.0,65048,65100,_Stage,_Stage,treten,VVFIN,treten,17876,,
+qd,vn90.0,65048,65100,_Stage,_Stage,auf,PTKVZ,auf,17876,,
+qd,vn90.0,65048,65100,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,65440,65482,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Dromio,NE,dromio,17876,,(6|(7)
+qd,vn90.0,65440,65482,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,von,APPR,von,17876,,
+qd,vn90.0,65440,65482,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Ephesus,NE,ephesus,17876,,6)
+qd,vn90.0,65440,65482,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,kommt,VVFIN,kommen,17876,,
+qd,vn90.0,65440,65482,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,mit,APPR,mit,17876,,
+qd,vn90.0,65440,65482,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,einem,ART,ein,17876,,
+qd,vn90.0,65440,65482,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Strick,NN,strick,17876,,
+qd,vn90.0,65440,65482,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,.,$.,--,17876,,
+qd,vn90.0,66174,66192,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Er,PPER,er,17876,,
+qd,vn90.0,66174,66192,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,schlägt,VVFIN,schlagen,17876,,
+qd,vn90.0,66174,66192,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Dromio,NE,dromio,17876,,(7)
+qd,vn90.0,66174,66192,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,.,$.,--,17876,,
+qd,vn90.0,66273,66276,DROMIO VON EPHESUS,dromio_von_ephesus,mir,PPER,sich,17876,,(6)
+qd,vn90.0,67339,67415,DROMIO VON EPHESUS,dromio_von_ephesus,Adriana,NE,adriana,17876,,(0)
+qd,vn90.0,67339,67415,DROMIO VON EPHESUS,dromio_von_ephesus,",","$,",--,17876,,
+qd,vn90.0,67339,67415,DROMIO VON EPHESUS,dromio_von_ephesus,Luciana,NE,luciana,17876,,(12)
+qd,vn90.0,67339,67415,DROMIO VON EPHESUS,dromio_von_ephesus,",","$,",--,17876,,
+qd,vn90.0,67339,67415,DROMIO VON EPHESUS,dromio_von_ephesus,die,ART,der,17876,,
+qd,vn90.0,67339,67415,DROMIO VON EPHESUS,dromio_von_ephesus,Kurtisane,NN,kurtisane,17876,,(11)
+qd,vn90.0,67339,67415,DROMIO VON EPHESUS,dromio_von_ephesus,",","$,",--,17876,,
+qd,vn90.0,67339,67415,DROMIO VON EPHESUS,dromio_von_ephesus,Zwick,NN,zwick,17876,,(15)
+qd,vn90.0,67339,67415,DROMIO VON EPHESUS,dromio_von_ephesus,der,ART,der,17876,,
+qd,vn90.0,67339,67415,DROMIO VON EPHESUS,dromio_von_ephesus,Schulmeister,NN,schulmeister,17876,,
+qd,vn90.0,67339,67415,DROMIO VON EPHESUS,dromio_von_ephesus,und,KON,und,17876,,
+qd,vn90.0,67339,67415,DROMIO VON EPHESUS,dromio_von_ephesus,Bediente,NN,bediente,17876,,
+qd,vn90.0,67339,67415,DROMIO VON EPHESUS,dromio_von_ephesus,kommen,VVFIN,kommen,17876,,
+qd,vn90.0,67339,67415,DROMIO VON EPHESUS,dromio_von_ephesus,.,$.,--,17876,,
+qd,vn90.0,67711,67723,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Schlägt,VVFIN,schlägen,17876,,
+qd,vn90.0,67711,67723,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,ihn,PPER,ihn,17876,,
+qd,vn90.0,67711,67723,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,.,$.,--,17876,,
+qd,vn90.0,70725,70735,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Zu,PTKZU,zu,17876,,
+qd,vn90.0,70725,70735,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Dromio,VVINF,dromio,17876,,(7)
+qd,vn90.0,70725,70735,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,.,$.,--,17876,,
+qd,vn90.0,71266,71334,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Mehrere,PIAT,mehrere,17876,,
+qd,vn90.0,71266,71334,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Diener,NN,diener,17876,,(5)
+qd,vn90.0,71266,71334,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,kommen,VVINF,kommen,17876,,
+qd,vn90.0,71266,71334,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,und,KON,und,17876,,
+qd,vn90.0,71266,71334,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,wollen,VMFIN,wollen,17876,,
+qd,vn90.0,71266,71334,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,Hand,NN,hand,17876,,
+qd,vn90.0,71266,71334,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,an,APPR,an,17876,,
+qd,vn90.0,71266,71334,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,ihn,PPER,ihn,17876,,
+qd,vn90.0,71266,71334,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,legen,VVFIN,legen,17876,,
+qd,vn90.0,71266,71334,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,;,$.,--,17876,,
+qd,vn90.0,71266,71334,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,er,PPER,er,17876,,
+qd,vn90.0,71266,71334,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,sträubt,VVFIN,sträuben,17876,,
+qd,vn90.0,71266,71334,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,sich,PRF,sich,17876,,
+qd,vn90.0,71266,71334,ANTIPHOLUS VON EPHESUS,antipholus_von_ephesus,.,$.,--,17876,,
+qd,vn90.0,72224,72262,ADRIANA,adriana,Antipholus,NN,antipholus,17876,,(3)
+qd,vn90.0,72224,72262,ADRIANA,adriana,und,KON,und,17876,,
+qd,vn90.0,72224,72262,ADRIANA,adriana,Dromio,NE,dromio,17876,,(7)
+qd,vn90.0,72224,72262,ADRIANA,adriana,werden,VAFIN,werden,17876,,
+qd,vn90.0,72224,72262,ADRIANA,adriana,gebunden,VVPP,binden,17876,,
+qd,vn90.0,72224,72262,ADRIANA,adriana,.,$.,--,17876,,
+qd,vn90.0,72804,72846,ADRIANA,adriana,Zwick,NE,zwick,17876,,(15)
+qd,vn90.0,72804,72846,ADRIANA,adriana,",","$,",--,17876,,
+qd,vn90.0,72804,72846,ADRIANA,adriana,Antipholus,NN,antipholus,17876,,(3)
+qd,vn90.0,72804,72846,ADRIANA,adriana,",","$,",--,17876,,
+qd,vn90.0,72804,72846,ADRIANA,adriana,Dromio,NE,dromio,17876,,(7)
+qd,vn90.0,72804,72846,ADRIANA,adriana,und,KON,und,17876,,
+qd,vn90.0,72804,72846,ADRIANA,adriana,Bediente,NN,bediente,17876,,
+qd,vn90.0,72804,72846,ADRIANA,adriana,ab,PTKVZ,ab,17876,,
+qd,vn90.0,72804,72846,ADRIANA,adriana,.,$.,--,17876,,
+qd,vn90.0,73565,73643,ADRIANA,adriana,Antipholus,NN,antipholus,17876,,(3|(3)
+qd,vn90.0,73565,73643,ADRIANA,adriana,von,APPR,von,17876,,
+qd,vn90.0,73565,73643,ADRIANA,adriana,Syrakus,NE,syrakus,17876,,3)
+qd,vn90.0,73565,73643,ADRIANA,adriana,kommt,VVFIN,kommen,17876,,
+qd,vn90.0,73565,73643,ADRIANA,adriana,mit,APPR,mit,17876,,
+qd,vn90.0,73565,73643,ADRIANA,adriana,gezognem,ADJA,gezogn,17876,,
+qd,vn90.0,73565,73643,ADRIANA,adriana,Degen,NN,degen,17876,,
+qd,vn90.0,73565,73643,ADRIANA,adriana,;,$.,--,17876,,
+qd,vn90.0,73565,73643,ADRIANA,adriana,ihm,PPER,ihm,17876,,
+qd,vn90.0,73565,73643,ADRIANA,adriana,folgt,VVFIN,folgen,17876,,
+qd,vn90.0,73565,73643,ADRIANA,adriana,Dromio,NE,dromio,17876,,(7|(7)
+qd,vn90.0,73565,73643,ADRIANA,adriana,von,APPR,von,17876,,
+qd,vn90.0,73565,73643,ADRIANA,adriana,Syrakus,NE,syrakus,17876,,7)
+qd,vn90.0,73565,73643,ADRIANA,adriana,.,$.,--,17876,,
+qd,vn90.0,73840,73860,SCHLIESSER,schliesser,Sie,PPER,sie,17876,,
+qd,vn90.0,73840,73860,SCHLIESSER,schliesser,entfliehn,VVFIN,entfliehn,17876,,
+qd,vn90.0,73840,73860,SCHLIESSER,schliesser,eilig,ADJD,eilig,17876,,
+qd,vn90.0,73840,73860,SCHLIESSER,schliesser,.,$.,--,17876,,
+qd,vn90.0,74619,74631,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Sie,PPER,sie,17876,,
+qd,vn90.0,74619,74631,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,gehn,VVFIN,gehn,17876,,
+qd,vn90.0,74619,74631,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,ab,PTKVZ,ab,17876,,
+qd,vn90.0,74619,74631,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,74699,74706,_Stage,_Stage,Straße,NN,straße,17876,,
+qd,vn90.0,74699,74706,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,74710,74745,_Stage,_Stage,Der,ART,der,17876,,
+qd,vn90.0,74710,74745,_Stage,_Stage,Kaufmann,NN,kaufmann,17876,,(10)
+qd,vn90.0,74710,74745,_Stage,_Stage,und,KON,und,17876,,
+qd,vn90.0,74710,74745,_Stage,_Stage,Angelo,NE,angelo,17876,,(1)
+qd,vn90.0,74710,74745,_Stage,_Stage,treten,VVFIN,treten,17876,,
+qd,vn90.0,74710,74745,_Stage,_Stage,auf,PTKVZ,auf,17876,,
+qd,vn90.0,74710,74745,_Stage,_Stage,.,$.,--,17876,,
+qd,vn90.0,75214,75267,KAUFMANN,kaufmann,Antipholus,NN,antipholus,17876,,(3|(3)
+qd,vn90.0,75214,75267,KAUFMANN,kaufmann,von,APPR,von,17876,,
+qd,vn90.0,75214,75267,KAUFMANN,kaufmann,Syrakus,NE,syrakus,17876,,3)
+qd,vn90.0,75214,75267,KAUFMANN,kaufmann,und,KON,und,17876,,
+qd,vn90.0,75214,75267,KAUFMANN,kaufmann,Dromio,NE,dromio,17876,,(7|(7)
+qd,vn90.0,75214,75267,KAUFMANN,kaufmann,von,APPR,von,17876,,
+qd,vn90.0,75214,75267,KAUFMANN,kaufmann,Syrakus,NE,syrakus,17876,,7)
+qd,vn90.0,75214,75267,KAUFMANN,kaufmann,kommen,VVFIN,kommen,17876,,
+qd,vn90.0,75214,75267,KAUFMANN,kaufmann,.,$.,--,17876,,
+qd,vn90.0,76451,76462,KAUFMANN,kaufmann,Sie,PPER,sie,17876,,
+qd,vn90.0,76451,76462,KAUFMANN,kaufmann,ziehen,VVFIN,ziehen,17876,,
+qd,vn90.0,76451,76462,KAUFMANN,kaufmann,.,$.,--,17876,,
+qd,vn90.0,76466,76516,KAUFMANN,kaufmann,Adriana,NE,adriana,17876,,(0)
+qd,vn90.0,76466,76516,KAUFMANN,kaufmann,",","$,",--,17876,,
+qd,vn90.0,76466,76516,KAUFMANN,kaufmann,Luciana,NE,luciana,17876,,(12)
+qd,vn90.0,76466,76516,KAUFMANN,kaufmann,",","$,",--,17876,,
+qd,vn90.0,76466,76516,KAUFMANN,kaufmann,die,ART,der,17876,,
+qd,vn90.0,76466,76516,KAUFMANN,kaufmann,Kurtisane,NN,kurtisane,17876,,(11)
+qd,vn90.0,76466,76516,KAUFMANN,kaufmann,und,KON,und,17876,,
+qd,vn90.0,76466,76516,KAUFMANN,kaufmann,Diener,NN,diener,17876,,(5)
+qd,vn90.0,76466,76516,KAUFMANN,kaufmann,kommen,VVFIN,kommen,17876,,
+qd,vn90.0,76466,76516,KAUFMANN,kaufmann,.,$.,--,17876,,
+qd,vn90.0,76799,76848,DROMIO,dromio_von_syrakus,Antipholus,NN,antipholus,17876,,(3)
+qd,vn90.0,76799,76848,DROMIO,dromio_von_syrakus,und,KON,und,17876,,
+qd,vn90.0,76799,76848,DROMIO,dromio_von_syrakus,Dromio,NE,dromio,17876,,(7)
+qd,vn90.0,76799,76848,DROMIO,dromio_von_syrakus,flüchten,VVFIN,flüchten,17876,,
+qd,vn90.0,76799,76848,DROMIO,dromio_von_syrakus,sich,PRF,sich,17876,,
+qd,vn90.0,76799,76848,DROMIO,dromio_von_syrakus,in,APPR,in,17876,,
+qd,vn90.0,76799,76848,DROMIO,dromio_von_syrakus,die,ART,der,17876,,
+qd,vn90.0,76799,76848,DROMIO,dromio_von_syrakus,Abtei,NN,abtei,17876,,
+qd,vn90.0,76799,76848,DROMIO,dromio_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,76852,76875,DROMIO,dromio_von_syrakus,Die,ART,der,17876,,
+qd,vn90.0,76852,76875,DROMIO,dromio_von_syrakus,Äbtissin,NN,äbtissin,17876,,(16)
+qd,vn90.0,76852,76875,DROMIO,dromio_von_syrakus,tritt,VVFIN,treten,17876,,
+qd,vn90.0,76852,76875,DROMIO,dromio_von_syrakus,auf,PTKVZ,auf,17876,,
+qd,vn90.0,76852,76875,DROMIO,dromio_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,80558,80575,ÄBTISSIN,äbtissin,Äbtissin,NN,äbtissin,17876,,(16)
+qd,vn90.0,80558,80575,ÄBTISSIN,äbtissin,geht,VVFIN,gehen,17876,,
+qd,vn90.0,80558,80575,ÄBTISSIN,äbtissin,ab,PTKVZ,ab,17876,,
+qd,vn90.0,80558,80575,ÄBTISSIN,äbtissin,.,$.,--,17876,,
+qd,vn90.0,81384,81479,LUCIANA,luciana,Der,ART,der,17876,,
+qd,vn90.0,81384,81479,LUCIANA,luciana,Herzog,NE,herzog,17876,,(9)
+qd,vn90.0,81384,81479,LUCIANA,luciana,tritt,VVFIN,treten,17876,,
+qd,vn90.0,81384,81479,LUCIANA,luciana,auf,APPR,auf,17876,,
+qd,vn90.0,81384,81479,LUCIANA,luciana,;,$.,--,17876,,
+qd,vn90.0,81384,81479,LUCIANA,luciana,ihm,PPER,ihm,17876,,
+qd,vn90.0,81384,81479,LUCIANA,luciana,folgen,VVFIN,folgen,17876,,
+qd,vn90.0,81384,81479,LUCIANA,luciana,Ägeon,NN,ägeon,17876,,(17)
+qd,vn90.0,81384,81479,LUCIANA,luciana,mit,APPR,mit,17876,,
+qd,vn90.0,81384,81479,LUCIANA,luciana,bloßem,ADJA,bloß,17876,,
+qd,vn90.0,81384,81479,LUCIANA,luciana,Haupte,NN,haupte,17876,,
+qd,vn90.0,81384,81479,LUCIANA,luciana,",","$,",--,17876,,
+qd,vn90.0,81384,81479,LUCIANA,luciana,der,ART,der,17876,,
+qd,vn90.0,81384,81479,LUCIANA,luciana,Scharfrichter,NN,scharfrichter,17876,,
+qd,vn90.0,81384,81479,LUCIANA,luciana,und,KON,und,17876,,
+qd,vn90.0,81384,81479,LUCIANA,luciana,Gerichtsdiener,NN,gerichtsdiener,17876,,(8)
+qd,vn90.0,81384,81479,LUCIANA,luciana,.,$.,--,17876,,
+qd,vn90.0,83233,83250,HERZOG,herzog,Ein,ART,ein,17876,,
+qd,vn90.0,83233,83250,HERZOG,herzog,Diener,NN,diener,17876,,(5)
+qd,vn90.0,83233,83250,HERZOG,herzog,kommt,VVFIN,kommen,17876,,
+qd,vn90.0,83233,83250,HERZOG,herzog,.,$.,--,17876,,
+qd,vn90.0,84067,84089,DIENER,diener,Lärm,NN,lärm,17876,,
+qd,vn90.0,84067,84089,DIENER,diener,hinter,APPR,hinter,17876,,
+qd,vn90.0,84067,84089,DIENER,diener,der,ART,der,17876,,
+qd,vn90.0,84067,84089,DIENER,diener,Szene,NN,szene,17876,,
+qd,vn90.0,84067,84089,DIENER,diener,.,$.,--,17876,,
+qd,vn90.0,84410,84467,ADRIANA,adriana,Antipholus,NN,antipholus,17876,,(2|(3)
+qd,vn90.0,84410,84467,ADRIANA,adriana,von,APPR,von,17876,,
+qd,vn90.0,84410,84467,ADRIANA,adriana,Ephesus,NE,ephesus,17876,,2)
+qd,vn90.0,84410,84467,ADRIANA,adriana,und,KON,und,17876,,
+qd,vn90.0,84410,84467,ADRIANA,adriana,Dromio,NE,dromio,17876,,(6|(7)
+qd,vn90.0,84410,84467,ADRIANA,adriana,von,APPR,von,17876,,
+qd,vn90.0,84410,84467,ADRIANA,adriana,Ephesus,NE,ephesus,17876,,6)
+qd,vn90.0,84410,84467,ADRIANA,adriana,treten,VVFIN,treten,17876,,
+qd,vn90.0,84410,84467,ADRIANA,adriana,auf,PTKVZ,auf,17876,,
+qd,vn90.0,84410,84467,ADRIANA,adriana,.,$.,--,17876,,
+qd,vn90.0,89028,89076,HERZOG,herzog,Einer,PIS,einer,17876,,
+qd,vn90.0,89028,89076,HERZOG,herzog,von,APPR,von,17876,,
+qd,vn90.0,89028,89076,HERZOG,herzog,des,ART,der,17876,,
+qd,vn90.0,89028,89076,HERZOG,herzog,Herzogs,NN,herzog,17876,,
+qd,vn90.0,89028,89076,HERZOG,herzog,Gefolge,NN,gefolge,17876,,
+qd,vn90.0,89028,89076,HERZOG,herzog,geht,VVFIN,gehen,17876,,
+qd,vn90.0,89028,89076,HERZOG,herzog,in,APPR,in,17876,,
+qd,vn90.0,89028,89076,HERZOG,herzog,die,ART,der,17876,,
+qd,vn90.0,89028,89076,HERZOG,herzog,Abtei,NN,abtei,17876,,
+qd,vn90.0,89028,89076,HERZOG,herzog,.,$.,--,17876,,
+qd,vn90.0,91523,91592,HERZOG,herzog,Die,ART,der,17876,,
+qd,vn90.0,91523,91592,HERZOG,herzog,Äbtissin,NN,äbtissin,17876,,(16)
+qd,vn90.0,91523,91592,HERZOG,herzog,kommt,VVFIN,kommen,17876,,
+qd,vn90.0,91523,91592,HERZOG,herzog,mit,APPR,mit,17876,,
+qd,vn90.0,91523,91592,HERZOG,herzog,Antipholus,NN,antipholus,17876,,(3|(3)
+qd,vn90.0,91523,91592,HERZOG,herzog,von,APPR,von,17876,,
+qd,vn90.0,91523,91592,HERZOG,herzog,Syrakus,NE,syrakus,17876,,3)
+qd,vn90.0,91523,91592,HERZOG,herzog,und,KON,und,17876,,
+qd,vn90.0,91523,91592,HERZOG,herzog,Dromio,NE,dromio,17876,,(7|(7)
+qd,vn90.0,91523,91592,HERZOG,herzog,von,APPR,von,17876,,
+qd,vn90.0,91523,91592,HERZOG,herzog,Syrakus,NE,syrakus,17876,,7)
+qd,vn90.0,91523,91592,HERZOG,herzog,.,$.,--,17876,,
+qd,vn90.0,91656,91688,ÄBTISSIN,äbtissin,Alle,PIDAT,aller,17876,,
+qd,vn90.0,91656,91688,ÄBTISSIN,äbtissin,drängen,VVFIN,drängen,17876,,
+qd,vn90.0,91656,91688,ÄBTISSIN,äbtissin,sich,PRF,sich,17876,,
+qd,vn90.0,91656,91688,ÄBTISSIN,äbtissin,",","$,",--,17876,,
+qd,vn90.0,91656,91688,ÄBTISSIN,äbtissin,ihn,PPER,ihn,17876,,
+qd,vn90.0,91656,91688,ÄBTISSIN,äbtissin,zu,PTKZU,zu,17876,,
+qd,vn90.0,91656,91688,ÄBTISSIN,äbtissin,sehen,VVINF,sehen,17876,,
+qd,vn90.0,91656,91688,ÄBTISSIN,äbtissin,.,$.,--,17876,,
+qd,vn90.0,93061,93065,HERZOG,herzog,eins,CARD,einer,17876,,
+qd,vn90.0,95229,95234,ÄBTISSIN,äbtissin,einen,PIS,ein,17876,,
+qd,vn90.0,95677,95746,HERZOG,herzog,Alle,PIDAT,alle,17876,,
+qd,vn90.0,95677,95746,HERZOG,herzog,gehn,CARD,gehn,17876,,
+qd,vn90.0,95677,95746,HERZOG,herzog,ab,PTKVZ,ab,17876,,
+qd,vn90.0,95677,95746,HERZOG,herzog,;,$.,--,17876,,
+qd,vn90.0,95677,95746,HERZOG,herzog,es,PPER,es,17876,,
+qd,vn90.0,95677,95746,HERZOG,herzog,bleiben,VVFIN,bleiben,17876,,
+qd,vn90.0,95677,95746,HERZOG,herzog,die,ART,der,17876,,
+qd,vn90.0,95677,95746,HERZOG,herzog,beiden,PIDAT,beide,17876,,
+qd,vn90.0,95677,95746,HERZOG,herzog,Antipholus,NN,antipholus,17876,,(3)
+qd,vn90.0,95677,95746,HERZOG,herzog,und,KON,und,17876,,
+qd,vn90.0,95677,95746,HERZOG,herzog,die,ART,der,17876,,
+qd,vn90.0,95677,95746,HERZOG,herzog,beiden,PIDAT,beide,17876,,
+qd,vn90.0,95677,95746,HERZOG,herzog,Dromio,NN,dromio,17876,,(7)
+qd,vn90.0,95677,95746,HERZOG,herzog,.,$.,--,17876,,
+qd,vn90.0,96119,96149,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Die,ART,der,17876,,
+qd,vn90.0,96119,96149,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,beiden,PIDAT,beide,17876,,
+qd,vn90.0,96119,96149,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,Antipholus,NN,antipholus,17876,,(3)
+qd,vn90.0,96119,96149,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,gehn,CARD,gehn,17876,,
+qd,vn90.0,96119,96149,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,ab,PTKVZ,ab,17876,,
+qd,vn90.0,96119,96149,ANTIPHOLUS VON SYRAKUS,antipholus_von_syrakus,.,$.,--,17876,,
+qd,vn90.0,96870,96882,DROMIO VON EPHESUS,dromio_von_ephesus,Sie,PPER,sie,17876,,
+qd,vn90.0,96870,96882,DROMIO VON EPHESUS,dromio_von_ephesus,gehn,VVFIN,gehn,17876,,
+qd,vn90.0,96870,96882,DROMIO VON EPHESUS,dromio_von_ephesus,ab,PTKVZ,ab,17876,,
+qd,vn90.0,96870,96882,DROMIO VON EPHESUS,dromio_von_ephesus,.,$.,--,17876,,
