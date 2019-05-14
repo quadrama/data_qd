@@ -1,0 +1,14 @@
+corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,tv5k.0,938,1551,knoblauch,1003,1007,mein,knoblauch
+qd,tv5k.0,938,1551,knoblauch,1030,1033,Ich,knoblauch
+qd,tv5k.0,3790,4158,knoblauch,4095,4098,Ich,knoblauch
+qd,tv5k.0,4163,4326,knoblauch,4316,4320,mein,knoblauch
+qd,tv5k.0,4513,4666,knoblauch,4637,4640,Ich,knoblauch
+qd,tv5k.0,4672,4849,knoblauch,4824,4827,ich,knoblauch
+qd,tv5k.0,5034,5152,knoblauch,5127,5131,mein,knoblauch
+qd,tv5k.0,5256,5619,knoblauch,5431,5435,Mein,knoblauch
+qd,tv5k.0,5624,5806,knoblauch,5747,5751,mein,knoblauch
+qd,tv5k.0,5624,5806,knoblauch,5767,5771,mich,knoblauch
+qd,tv5k.0,5954,6353,knoblauch,6328,6334,Meinen,knoblauch
+qd,tv5k.0,7112,7760,knoblauch,7172,7176,mich,knoblauch
+qd,tv5k.0,7907,8043,zweiter_strassenkehrer,8025,8028,mir,zweiter_strassenkehrer

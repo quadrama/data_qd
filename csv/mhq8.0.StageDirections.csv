@@ -1,0 +1,13 @@
+corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
+qd,mhq8.0,3280,3283,DER LAIENBRUDER,der_laienbruder,Eva,NE,eva,7848,,
+qd,mhq8.0,3313,3322,DER LAIENBRUDER,der_laienbruder,Magdalena,NE,magdalena,7848,,
+qd,mhq8.0,3446,3451,DER LAIENBRUDER,der_laienbruder,Maria,NE,maria,7848,,
+qd,mhq8.0,12867,12873,FRANCESCO,francesco,darum,PROAV,darum,7848,,
+qd,mhq8.0,12867,12873,FRANCESCO,francesco,.,$.,--,7848,,
+qd,mhq8.0,27269,27275,FRANCESCO,francesco,nicht,PTKNEG,nicht,7848,,
+qd,mhq8.0,27269,27275,FRANCESCO,francesco,",","$,",--,7848,,
+qd,mhq8.0,38916,38919,FRANCESCO,francesco,das,PDS,der,7848,,
+qd,mhq8.0,40697,40702,DIE FRAU,die_frau,armen,ADJA,arm,7848,,
+qd,mhq8.0,40736,40742,DER FREMDE,der_fremde,armen,ADJA,armen,7848,,
+qd,mhq8.0,40736,40742,DER FREMDE,der_fremde,?,$.,--,7848,,
+qd,mhq8.0,40883,40887,DER LAIENBRUDER,der_laienbruder,Ende,NN,ende,7848,,
