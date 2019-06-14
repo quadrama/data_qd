@@ -147,7 +147,9 @@ qd,q4j5.0,24957,25124,gefreiter,25071,25074,mir,gefreiter
 qd,q4j5.0,24957,25124,gefreiter,25093,25096,Ich,gefreiter
 qd,q4j5.0,25130,25328,nettelbeck,25149,25153,mein,nettelbeck
 qd,q4j5.0,25130,25328,nettelbeck,25161,25164,Ich,nettelbeck
+qd,q4j5.0,25130,25328,nettelbeck,25170,25173,mir,nettelbeck
 qd,q4j5.0,25373,25707,nettelbeck,25407,25410,Mir,nettelbeck
+qd,q4j5.0,25901,25997,würges,25917,25920,ich,würges
 qd,q4j5.0,26195,26309,nettelbeck,26240,26243,ich,nettelbeck
 qd,q4j5.0,26429,26572,nettelbeck,26459,26462,ich,nettelbeck
 qd,q4j5.0,26598,26751,nettelbeck,26628,26631,ich,nettelbeck
@@ -247,6 +249,7 @@ qd,q4j5.0,45732,45865,heinrich,45814,45817,ich,heinrich
 qd,q4j5.0,45871,45934,rector,45897,45901,Mein,rector
 qd,q4j5.0,45939,45989,heinrich,45949,45952,Ich,heinrich
 qd,q4j5.0,45939,45989,heinrich,45963,45966,ich,heinrich
+qd,q4j5.0,46050,46147,heinrich,46072,46075,mir,heinrich
 qd,q4j5.0,46614,47350,heinrich,46651,46654,ich,heinrich
 qd,q4j5.0,46614,47350,heinrich,46793,46796,Ich,heinrich
 qd,q4j5.0,47397,47560,heinrich,47424,47427,ich,heinrich
@@ -273,8 +276,10 @@ qd,q4j5.0,52546,52660,würges,52562,52565,mir,würges
 qd,q4j5.0,52666,52728,nettelbeck,52685,52688,ich,nettelbeck
 qd,q4j5.0,53178,53287,mutter,53272,53275,Mir,mutter
 qd,q4j5.0,53423,53734,nettelbeck,53485,53488,Ich,nettelbeck
+qd,q4j5.0,53423,53734,nettelbeck,53595,53598,mir,nettelbeck
 qd,q4j5.0,53740,53797,grüneberg,53760,53764,mein,grüneberg
 qd,q4j5.0,53847,54343,rose,53885,53889,mich,rose
+qd,q4j5.0,53847,54343,rose,53923,53926,ich,rose
 qd,q4j5.0,53847,54343,rose,54005,54008,ich,rose
 qd,q4j5.0,53847,54343,rose,54020,54024,mich,rose
 qd,q4j5.0,53847,54343,rose,54075,54078,mir,rose
@@ -314,6 +319,7 @@ qd,q4j5.0,56023,56344,rose,56125,56128,ich,rose
 qd,q4j5.0,56023,56344,rose,56145,56148,Ich,rose
 qd,q4j5.0,56023,56344,rose,56305,56309,mich,rose
 qd,q4j5.0,56413,58265,rose,56442,56446,mein,rose
+qd,q4j5.0,56413,58265,rose,56488,56491,ich,rose
 qd,q4j5.0,56413,58265,rose,56519,56522,mir,rose
 qd,q4j5.0,56413,58265,rose,56744,56747,Mir,rose
 qd,q4j5.0,56413,58265,rose,56753,56756,ich,rose
@@ -326,6 +332,7 @@ qd,q4j5.0,56413,58265,rose,57132,57136,mein,rose
 qd,q4j5.0,56413,58265,rose,57232,57235,mir,rose
 qd,q4j5.0,56413,58265,rose,57341,57344,mir,rose
 qd,q4j5.0,56413,58265,rose,57424,57427,ich,rose
+qd,q4j5.0,56413,58265,rose,57488,57491,mir,rose
 qd,q4j5.0,56413,58265,rose,57600,57603,ich,rose
 qd,q4j5.0,56413,58265,rose,57614,57617,ich,rose
 qd,q4j5.0,56413,58265,rose,57667,57671,mich,rose
@@ -349,10 +356,12 @@ qd,q4j5.0,58296,58677,rose,58665,58668,mir,rose
 qd,q4j5.0,59273,59618,nettelbeck,59296,59299,ich,nettelbeck
 qd,q4j5.0,59273,59618,nettelbeck,59309,59312,ich,nettelbeck
 qd,q4j5.0,59273,59618,nettelbeck,59329,59332,ich,nettelbeck
+qd,q4j5.0,59273,59618,nettelbeck,59349,59352,mir,nettelbeck
 qd,q4j5.0,59624,59734,würges,59695,59698,mir,würges
 qd,q4j5.0,59859,60059,nettelbeck,59895,59899,mein,nettelbeck
 qd,q4j5.0,60065,60583,gneisenau,60193,60196,ich,gneisenau
 qd,q4j5.0,60065,60583,gneisenau,60481,60484,ich,gneisenau
+qd,q4j5.0,60588,60678,heinrich,60624,60627,ich,heinrich
 qd,q4j5.0,60684,60829,nettelbeck,60778,60782,mein,nettelbeck
 qd,q4j5.0,60930,61658,nettelbeck,60980,60983,ich,nettelbeck
 qd,q4j5.0,60930,61658,nettelbeck,61214,61217,ich,nettelbeck
@@ -372,6 +381,7 @@ qd,q4j5.0,62454,62751,brünnow,62486,62489,ich,brünnow
 qd,q4j5.0,62756,63629,gneisenau,62772,62777,meine,gneisenau
 qd,q4j5.0,62756,63629,gneisenau,62788,62792,Mein,gneisenau
 qd,q4j5.0,62756,63629,gneisenau,62812,62816,mich,gneisenau
+qd,q4j5.0,62756,63629,gneisenau,62949,62952,ich,gneisenau
 qd,q4j5.0,62756,63629,gneisenau,62961,62964,Ich,gneisenau
 qd,q4j5.0,62756,63629,gneisenau,63185,63188,ich,gneisenau
 qd,q4j5.0,62756,63629,gneisenau,63204,63207,ich,gneisenau
@@ -395,6 +405,7 @@ qd,q4j5.0,64316,64478,nettelbeck,64351,64355,mein,nettelbeck
 qd,q4j5.0,64316,64478,nettelbeck,64372,64375,Ich,nettelbeck
 qd,q4j5.0,64316,64478,nettelbeck,64395,64401,meiner,nettelbeck
 qd,q4j5.0,64316,64478,nettelbeck,64413,64419,meines,nettelbeck
+qd,q4j5.0,64796,64862,heinrich,64835,64838,ich,heinrich
 qd,q4j5.0,64868,65617,schröder,65053,65056,ich,schröder
 qd,q4j5.0,64868,65617,schröder,65073,65076,ich,schröder
 qd,q4j5.0,64868,65617,schröder,65093,65097,Mein,schröder
@@ -409,6 +420,7 @@ qd,q4j5.0,65657,66668,schröder,66487,66492,meine,schröder
 qd,q4j5.0,66674,66978,heinrich,66807,66810,Ich,heinrich
 qd,q4j5.0,66674,66978,heinrich,66898,66901,mir,heinrich
 qd,q4j5.0,66984,67255,schröder,67115,67118,ich,schröder
+qd,q4j5.0,66984,67255,schröder,67119,67122,mir,schröder
 qd,q4j5.0,67261,67702,heinrich,67286,67289,ich,heinrich
 qd,q4j5.0,67708,67898,schröder,67745,67748,Ich,schröder
 qd,q4j5.0,67904,68250,heinrich,67982,67985,Ich,heinrich
@@ -616,6 +628,7 @@ qd,q4j5.0,101053,101565,rose,101256,101259,Ich,rose
 qd,q4j5.0,101684,101768,mutter,101764,101767,mir,mutter
 qd,q4j5.0,101774,102366,heinrich,101815,101819,Mein,heinrich
 qd,q4j5.0,101774,102366,heinrich,101853,101856,ich,heinrich
+qd,q4j5.0,101774,102366,heinrich,101870,101873,mir,heinrich
 qd,q4j5.0,101774,102366,heinrich,101896,101899,ich,heinrich
 qd,q4j5.0,101774,102366,heinrich,101906,101910,mich,heinrich
 qd,q4j5.0,101774,102366,heinrich,101941,101944,Ich,heinrich
@@ -627,6 +640,7 @@ qd,q4j5.0,102393,102510,heinrich,102408,102411,ich,heinrich
 qd,q4j5.0,102393,102510,heinrich,102458,102462,mich,heinrich
 qd,q4j5.0,102393,102510,heinrich,102484,102488,mich,heinrich
 qd,q4j5.0,102393,102510,heinrich,102499,102504,meine,heinrich
+qd,q4j5.0,102516,102557,gneisenau,102543,102546,ich,gneisenau
 qd,q4j5.0,102801,103074,gneisenau,102833,102838,Meine,gneisenau
 qd,q4j5.0,102801,103074,gneisenau,102900,102903,mir,gneisenau
 qd,q4j5.0,102801,103074,gneisenau,102947,102950,ich,gneisenau
@@ -635,6 +649,7 @@ qd,q4j5.0,103127,103754,gneisenau,103232,103235,ich,gneisenau
 qd,q4j5.0,103127,103754,gneisenau,103259,103263,mein,gneisenau
 qd,q4j5.0,103127,103754,gneisenau,103319,103322,ich,gneisenau
 qd,q4j5.0,103127,103754,gneisenau,103394,103397,mir,gneisenau
+qd,q4j5.0,103127,103754,gneisenau,103427,103430,ich,gneisenau
 qd,q4j5.0,103127,103754,gneisenau,103463,103466,ich,gneisenau
 qd,q4j5.0,103127,103754,gneisenau,103565,103568,ich,gneisenau
 qd,q4j5.0,103127,103754,gneisenau,103584,103588,mein,gneisenau
@@ -710,6 +725,7 @@ qd,q4j5.0,115968,116244,nettelbeck,116086,116092,meinen,nettelbeck
 qd,q4j5.0,115968,116244,nettelbeck,116123,116126,Mir,nettelbeck
 qd,q4j5.0,116250,116565,gneisenau,116275,116278,Ich,gneisenau
 qd,q4j5.0,116250,116565,gneisenau,116472,116475,ich,gneisenau
+qd,q4j5.0,116250,116565,gneisenau,116501,116504,mir,gneisenau
 qd,q4j5.0,116571,116655,nettelbeck,116630,116633,ich,nettelbeck
 qd,q4j5.0,116660,116836,weber,116680,116683,ich,weber
 qd,q4j5.0,116923,117198,nettelbeck,117004,117007,ich,nettelbeck
@@ -766,6 +782,7 @@ qd,q4j5.0,121807,122332,nettelbeck,122247,122251,mein,nettelbeck
 qd,q4j5.0,122337,122455,mutter,122370,122374,mich,mutter
 qd,q4j5.0,122337,122455,mutter,122406,122410,mich,mutter
 qd,q4j5.0,122878,122943,würges,122911,122914,ich,würges
+qd,q4j5.0,123018,123093,rector,123040,123043,mir,rector
 qd,q4j5.0,123018,123093,rector,123083,123087,mein,rector
 qd,q4j5.0,123345,123580,würges,123354,123357,Ich,würges
 qd,q4j5.0,123345,123580,würges,123366,123370,mich,würges
@@ -776,6 +793,7 @@ qd,q4j5.0,123345,123580,würges,123548,123551,mir,würges
 qd,q4j5.0,123608,123916,würges,123653,123656,Ich,würges
 qd,q4j5.0,123922,123974,rector,123930,123933,Ich,rector
 qd,q4j5.0,123979,124631,würges,123997,124000,ich,würges
+qd,q4j5.0,123979,124631,würges,124123,124126,ich,würges
 qd,q4j5.0,123979,124631,würges,124415,124418,ich,würges
 qd,q4j5.0,123979,124631,würges,124436,124439,ich,würges
 qd,q4j5.0,123979,124631,würges,124444,124447,mir,würges
@@ -804,6 +822,7 @@ qd,q4j5.0,126913,127087,heinrich,127015,127018,ich,heinrich
 qd,q4j5.0,127111,127458,heinrich,127127,127130,mir,heinrich
 qd,q4j5.0,127111,127458,heinrich,127160,127163,Ich,heinrich
 qd,q4j5.0,127111,127458,heinrich,127220,127223,ich,heinrich
+qd,q4j5.0,127111,127458,heinrich,127252,127255,ich,heinrich
 qd,q4j5.0,127111,127458,heinrich,127269,127272,mir,heinrich
 qd,q4j5.0,127111,127458,heinrich,127290,127293,ich,heinrich
 qd,q4j5.0,127111,127458,heinrich,127348,127351,Ich,heinrich
@@ -827,6 +846,7 @@ qd,q4j5.0,131402,132415,nettelbeck,131463,131466,Ich,nettelbeck
 qd,q4j5.0,131402,132415,nettelbeck,131530,131533,ich,nettelbeck
 qd,q4j5.0,131402,132415,nettelbeck,131572,131575,ich,nettelbeck
 qd,q4j5.0,131402,132415,nettelbeck,131907,131910,ich,nettelbeck
+qd,q4j5.0,132503,132596,mutter,132544,132547,ich,mutter
 qd,q4j5.0,132503,132596,mutter,132581,132584,ich,mutter
 qd,q4j5.0,132653,132870,mutter,132683,132686,ich,mutter
 qd,q4j5.0,132653,132870,mutter,132764,132767,ich,mutter
@@ -835,6 +855,7 @@ qd,q4j5.0,132893,133162,mutter,132950,132954,mich,mutter
 qd,q4j5.0,132893,133162,mutter,132971,132974,Ich,mutter
 qd,q4j5.0,132893,133162,mutter,132991,132996,meine,mutter
 qd,q4j5.0,132893,133162,mutter,133055,133058,ich,mutter
+qd,q4j5.0,132893,133162,mutter,133081,133084,mir,mutter
 qd,q4j5.0,132893,133162,mutter,133104,133107,ich,mutter
 qd,q4j5.0,133206,133321,mutter,133220,133223,mir,mutter
 qd,q4j5.0,133206,133321,mutter,133236,133239,Ich,mutter
@@ -857,3 +878,4 @@ qd,q4j5.0,136390,136579,mutter,136410,136413,ich,mutter
 qd,q4j5.0,136660,136868,erste_ordonnanz,136693,136696,ich,erste_ordonnanz
 qd,q4j5.0,137713,139254,nettelbeck,137743,137747,mein,nettelbeck
 qd,q4j5.0,137713,139254,nettelbeck,138542,138545,ich,nettelbeck
+qd,q4j5.0,137713,139254,nettelbeck,138896,138899,ich,nettelbeck

@@ -23,6 +23,7 @@ qd,wzgs.0,3711,3740,guttenberg,3723,3726,Ich,guttenberg
 qd,wzgs.0,3745,4047,faust,3872,3875,ich,faust
 qd,wzgs.0,3745,4047,faust,3905,3909,mich,faust
 qd,wzgs.0,3745,4047,faust,3952,3958,meiner,faust
+qd,wzgs.0,3745,4047,faust,3992,3996,mich,faust
 qd,wzgs.0,4374,4980,faust,4819,4822,mir,faust
 qd,wzgs.0,4374,4980,faust,4904,4908,mich,faust
 qd,wzgs.0,5074,5249,faust,5090,5093,ich,faust
@@ -37,6 +38,7 @@ qd,wzgs.0,5466,6774,faust,6506,6509,ich,faust
 qd,wzgs.0,7131,7239,weibliche_stimme,7218,7221,Ich,weibliche_stimme
 qd,wzgs.0,7245,7290,wandrer,7279,7283,Mich,wandrer
 qd,wzgs.0,7340,7367,weibliche_stimme,7363,7366,mir,weibliche_stimme
+qd,wzgs.0,7372,7415,wandrer,7403,7406,ich,wandrer
 qd,wzgs.0,7421,7579,weibliche_stimme,7449,7454,meine,weibliche_stimme
 qd,wzgs.0,7584,8439,plutus,7802,7808,meiner,plutus
 qd,wzgs.0,7584,8439,plutus,8392,8396,mich,plutus
@@ -55,6 +57,7 @@ qd,wzgs.0,10731,11475,faust,11309,11315,meiner,faust
 qd,wzgs.0,10731,11475,faust,11346,11349,mir,faust
 qd,wzgs.0,10731,11475,faust,11431,11434,ich,faust
 qd,wzgs.0,10731,11475,faust,11444,11448,mich,faust
+qd,wzgs.0,11580,11817,mönch,11636,11639,mir,mönch
 qd,wzgs.0,12104,12343,faust,12216,12219,ich,faust
 qd,wzgs.0,12397,12504,faust,12465,12471,meines,faust
 qd,wzgs.0,12606,12678,fausts_vater,12619,12623,mich,fausts_vater
@@ -144,6 +147,7 @@ qd,wzgs.0,28158,28649,faust,28378,28381,ich,faust
 qd,wzgs.0,28158,28649,faust,28434,28437,Ich,faust
 qd,wzgs.0,28158,28649,faust,28458,28462,mich,faust
 qd,wzgs.0,28655,28760,faust,28679,28682,Ich,faust
+qd,wzgs.0,29423,29620,faust,29522,29525,ich,faust
 qd,wzgs.0,29423,29620,faust,29573,29576,ich,faust
 qd,wzgs.0,29687,30111,doktor_robertus,29725,29729,mich,doktor_robertus
 qd,wzgs.0,29687,30111,doktor_robertus,30004,30008,mein,doktor_robertus
@@ -370,6 +374,7 @@ qd,wzgs.0,65655,65769,aurelia,65677,65680,ich,aurelia
 qd,wzgs.0,65655,65769,aurelia,65698,65702,mich,aurelia
 qd,wzgs.0,65776,65854,doktor_robertus,65792,65795,ich,doktor_robertus
 qd,wzgs.0,65776,65854,doktor_robertus,65827,65831,mein,doktor_robertus
+qd,wzgs.0,65776,65854,doktor_robertus,65834,65837,Ich,doktor_robertus
 qd,wzgs.0,65950,66038,doktor_robertus,66030,66033,ich,doktor_robertus
 qd,wzgs.0,66152,66272,doktor_robertus,66172,66175,ich,doktor_robertus
 qd,wzgs.0,66390,66515,erster_gelehrter,66435,66438,ich,erster_gelehrter
@@ -379,6 +384,7 @@ qd,wzgs.0,67238,67357,aurelia,67333,67339,meinen,aurelia
 qd,wzgs.0,67558,67615,aurelia,67597,67600,ich,aurelia
 qd,wzgs.0,67621,67709,zweiter_gelehrter,67669,67672,ich,zweiter_gelehrter
 qd,wzgs.0,67771,67859,erster_gelehrter,67795,67799,mein,erster_gelehrter
+qd,wzgs.0,67771,67859,erster_gelehrter,67820,67823,mir,erster_gelehrter
 qd,wzgs.0,68008,68048,doktor_robertus,68044,68047,mir,doktor_robertus
 qd,wzgs.0,68138,68232,aurelia,68166,68171,meine,aurelia
 qd,wzgs.0,68138,68232,aurelia,68228,68231,mir,aurelia

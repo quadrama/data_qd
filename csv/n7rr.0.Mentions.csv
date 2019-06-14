@@ -103,6 +103,7 @@ qd,n7rr.0,12931,13192,karl,12986,12990,mich,karl
 qd,n7rr.0,12931,13192,karl,13015,13019,mich,karl
 qd,n7rr.0,13285,13355,karl,13298,13301,ich,karl
 qd,n7rr.0,13285,13355,karl,13330,13336,meines,karl
+qd,n7rr.0,13409,13580,karl,13428,13431,ich,karl
 qd,n7rr.0,13409,13580,karl,13480,13483,ich,karl
 qd,n7rr.0,13409,13580,karl,13500,13506,meinen,karl
 qd,n7rr.0,13409,13580,karl,13558,13561,ich,karl
@@ -216,14 +217,17 @@ qd,n7rr.0,25099,25239,karl,25121,25126,meine,karl
 qd,n7rr.0,25099,25239,karl,25157,25161,mein,karl
 qd,n7rr.0,25514,25579,der_maler,25532,25537,meine,der_maler
 qd,n7rr.0,25584,25680,lottchen,25595,25598,Ich,lottchen
+qd,n7rr.0,25584,25680,lottchen,25660,25663,ich,lottchen
 qd,n7rr.0,25685,25957,der_maler,25889,25892,ich,der_maler
 qd,n7rr.0,25685,25957,der_maler,25893,25897,mich,der_maler
 qd,n7rr.0,26027,26451,der_maler,26037,26041,mein,der_maler
 qd,n7rr.0,26027,26451,der_maler,26101,26107,meiner,der_maler
+qd,n7rr.0,26027,26451,der_maler,26181,26184,ich,der_maler
 qd,n7rr.0,26027,26451,der_maler,26209,26212,ich,der_maler
 qd,n7rr.0,26027,26451,der_maler,26238,26241,mir,der_maler
 qd,n7rr.0,26027,26451,der_maler,26300,26303,ich,der_maler
 qd,n7rr.0,26027,26451,der_maler,26376,26379,ich,der_maler
+qd,n7rr.0,26456,26535,lottchen,26476,26479,ich,lottchen
 qd,n7rr.0,26456,26535,lottchen,26498,26501,ich,lottchen
 qd,n7rr.0,26540,26809,der_maler,26578,26581,ich,der_maler
 qd,n7rr.0,26540,26809,der_maler,26654,26658,mich,der_maler
@@ -242,6 +246,7 @@ qd,n7rr.0,27542,27746,anne,27569,27572,ich,anne
 qd,n7rr.0,27542,27746,anne,27690,27693,ich,anne
 qd,n7rr.0,27542,27746,anne,27709,27712,ich,anne
 qd,n7rr.0,27751,27865,der_maler,27809,27812,ich,der_maler
+qd,n7rr.0,27870,28358,anne,27965,27968,ich,anne
 qd,n7rr.0,27870,28358,anne,28014,28018,Mein,anne
 qd,n7rr.0,28398,28457,lottchen,28417,28420,ich,lottchen
 qd,n7rr.0,28398,28457,lottchen,28443,28446,ich,lottchen
@@ -276,6 +281,7 @@ qd,n7rr.0,30623,31066,lottchen,30745,30751,meines,lottchen
 qd,n7rr.0,30623,31066,lottchen,30850,30853,Ich,lottchen
 qd,n7rr.0,30623,31066,lottchen,30902,30906,mich,lottchen
 qd,n7rr.0,30623,31066,lottchen,30919,30922,ich,lottchen
+qd,n7rr.0,30623,31066,lottchen,30955,30958,mir,lottchen
 qd,n7rr.0,30623,31066,lottchen,30992,30997,meine,lottchen
 qd,n7rr.0,31071,31162,anne,31115,31118,ich,anne
 qd,n7rr.0,31071,31162,anne,31153,31156,ich,anne
@@ -312,6 +318,7 @@ qd,n7rr.0,35504,35623,graf_monheim,35525,35529,mich,graf_monheim
 qd,n7rr.0,36137,36219,graf_monheim,36202,36205,ich,graf_monheim
 qd,n7rr.0,36292,36388,ferdinand,36316,36319,ich,ferdinand
 qd,n7rr.0,36292,36388,ferdinand,36341,36344,ich,ferdinand
+qd,n7rr.0,36292,36388,ferdinand,36372,36375,ich,ferdinand
 qd,n7rr.0,36486,36534,karl,36513,36516,ich,karl
 qd,n7rr.0,36539,36600,ferdinand,36571,36574,mir,ferdinand
 qd,n7rr.0,36539,36600,ferdinand,36581,36584,ich,ferdinand
@@ -324,6 +331,7 @@ qd,n7rr.0,37249,37320,das_kind,37265,37268,ich,das_kind
 qd,n7rr.0,37886,38060,hauvater,37948,37951,Ich,hauvater
 qd,n7rr.0,38066,38106,das_kind,38088,38091,ich,das_kind
 qd,n7rr.0,38292,38386,hauvater,38345,38348,mir,hauvater
+qd,n7rr.0,38449,38701,hauvater,38608,38611,mir,hauvater
 qd,n7rr.0,38449,38701,hauvater,38651,38654,mir,hauvater
 qd,n7rr.0,38706,38823,sophie,38754,38757,mir,sophie
 qd,n7rr.0,38706,38823,sophie,38775,38778,Ich,sophie
@@ -357,6 +365,7 @@ qd,n7rr.0,43878,43925,bauer,43890,43893,Ich,bauer
 qd,n7rr.0,43930,44050,hauvater,44003,44006,ich,hauvater
 qd,n7rr.0,44055,44111,bauer,44067,44070,Ich,bauer
 qd,n7rr.0,44560,44694,bauer,44568,44571,Ich,bauer
+qd,n7rr.0,44560,44694,bauer,44591,44594,mir,bauer
 qd,n7rr.0,44560,44694,bauer,44624,44627,ich,bauer
 qd,n7rr.0,44699,44876,hauvater,44786,44790,mich,hauvater
 qd,n7rr.0,44993,45275,bauer,45195,45199,mein,bauer
@@ -864,6 +873,7 @@ qd,n7rr.0,105190,105278,lottchen,105209,105212,ich,lottchen
 qd,n7rr.0,105190,105278,lottchen,105228,105231,ich,lottchen
 qd,n7rr.0,105190,105278,lottchen,105254,105257,ich,lottchen
 qd,n7rr.0,105313,105444,lottchen,105329,105332,ich,lottchen
+qd,n7rr.0,105313,105444,lottchen,105368,105371,ich,lottchen
 qd,n7rr.0,105493,105659,lottchen,105511,105514,ich,lottchen
 qd,n7rr.0,105493,105659,lottchen,105635,105638,ich,lottchen
 qd,n7rr.0,105703,105863,lottchen,105767,105771,mein,lottchen

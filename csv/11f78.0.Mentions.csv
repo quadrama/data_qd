@@ -137,6 +137,7 @@ qd,11f78.0,20083,20564,iphigenie,20504,20508,mich,iphigenie
 qd,11f78.0,20083,20564,iphigenie,20538,20541,mir,iphigenie
 qd,11f78.0,21075,21208,iphigenie,21137,21141,mein,iphigenie
 qd,11f78.0,21214,21351,thoas,21242,21245,ich,thoas
+qd,11f78.0,21214,21351,thoas,21275,21278,ich,thoas
 qd,11f78.0,21214,21351,thoas,21302,21305,ich,thoas
 qd,11f78.0,21214,21351,thoas,21318,21321,ich,thoas
 qd,11f78.0,21357,21883,iphigenie,21516,21519,ich,iphigenie
@@ -164,6 +165,7 @@ qd,11f78.0,22419,23219,thoas,23044,23047,ich,thoas
 qd,11f78.0,22419,23219,thoas,23085,23091,meines,thoas
 qd,11f78.0,22419,23219,thoas,23130,23134,mich,thoas
 qd,11f78.0,22419,23219,thoas,23159,23162,ich,thoas
+qd,11f78.0,23225,23492,iphigenie,23258,23261,ich,iphigenie
 qd,11f78.0,23225,23492,iphigenie,23414,23418,mich,iphigenie
 qd,11f78.0,23225,23492,iphigenie,23455,23459,mein,iphigenie
 qd,11f78.0,23225,23492,iphigenie,23483,23487,mein,iphigenie
@@ -279,6 +281,7 @@ qd,11f78.0,38404,38548,iphigenie,38432,38438,meinem,iphigenie
 qd,11f78.0,38404,38548,iphigenie,38496,38499,mir,iphigenie
 qd,11f78.0,38404,38548,iphigenie,38507,38510,Ich,iphigenie
 qd,11f78.0,38554,39386,pylades,39144,39147,Ich,pylades
+qd,11f78.0,38554,39386,pylades,39332,39335,mir,pylades
 qd,11f78.0,38554,39386,pylades,39353,39356,ich,pylades
 qd,11f78.0,40635,40703,iphigenie,40687,40691,mich,iphigenie
 qd,11f78.0,41118,42100,iphigenie,41145,41148,ich,iphigenie
@@ -447,6 +450,8 @@ qd,11f78.0,60725,62714,iphigenie,62678,62681,ich,iphigenie
 qd,11f78.0,62876,63014,iphigenie,62888,62891,Ich,iphigenie
 qd,11f78.0,62876,63014,iphigenie,62899,62905,meiner,iphigenie
 qd,11f78.0,62876,63014,iphigenie,62983,62987,mich,iphigenie
+qd,11f78.0,63135,63232,arkas,63151,63154,mir,arkas
+qd,11f78.0,63135,63232,arkas,63162,63165,ich,arkas
 qd,11f78.0,63238,63683,iphigenie,63529,63532,ich,iphigenie
 qd,11f78.0,63238,63683,iphigenie,63537,63543,meinen,iphigenie
 qd,11f78.0,63689,63809,arkas,63697,63700,Ich,arkas
@@ -500,7 +505,9 @@ qd,11f78.0,68720,69794,pylades,69620,69623,mir,pylades
 qd,11f78.0,69800,70146,iphigenie,69812,69815,Ich,iphigenie
 qd,11f78.0,69800,70146,iphigenie,69889,69892,mir,iphigenie
 qd,11f78.0,69800,70146,iphigenie,69944,69947,Mir,iphigenie
+qd,11f78.0,69800,70146,iphigenie,69977,69980,ich,iphigenie
 qd,11f78.0,69800,70146,iphigenie,70125,70128,ich,iphigenie
+qd,11f78.0,70292,70343,iphigenie,70323,70326,ich,iphigenie
 qd,11f78.0,70348,70514,pylades,70429,70432,ich,pylades
 qd,11f78.0,70520,70730,iphigenie,70544,70548,mich,iphigenie
 qd,11f78.0,70520,70730,iphigenie,70565,70569,mein,iphigenie
@@ -544,6 +551,7 @@ qd,11f78.0,75343,77881,iphigenie,76362,76368,meinem,iphigenie
 qd,11f78.0,75343,77881,iphigenie,76534,76538,mich,iphigenie
 qd,11f78.0,75343,77881,iphigenie,76564,76570,meiner,iphigenie
 qd,11f78.0,75343,77881,iphigenie,76585,76591,meinen,iphigenie
+qd,11f78.0,75343,77881,iphigenie,76636,76639,ich,iphigenie
 qd,11f78.0,75343,77881,iphigenie,76870,76873,mir,iphigenie
 qd,11f78.0,75343,77881,iphigenie,76901,76904,ich,iphigenie
 qd,11f78.0,77963,78398,arkas,77984,77987,ich,arkas
@@ -596,6 +604,7 @@ qd,11f78.0,82998,83415,iphigenie,83395,83401,meiner,iphigenie
 qd,11f78.0,83568,83632,iphigenie,83624,83627,ich,iphigenie
 qd,11f78.0,83731,85630,iphigenie,84678,84681,Ich,iphigenie
 qd,11f78.0,83731,85630,iphigenie,84747,84750,mir,iphigenie
+qd,11f78.0,83731,85630,iphigenie,84779,84782,ich,iphigenie
 qd,11f78.0,83731,85630,iphigenie,84908,84912,mich,iphigenie
 qd,11f78.0,83731,85630,iphigenie,85200,85204,Mein,iphigenie
 qd,11f78.0,83731,85630,iphigenie,85533,85536,ich,iphigenie

@@ -23,6 +23,7 @@ qd,pkj2.0,6511,6658,viehhändler,6624,6628,mich,viehhändler
 qd,pkj2.0,6511,6658,viehhändler,6644,6648,mich,viehhändler
 qd,pkj2.0,6663,6758,bauer,6688,6691,ich,bauer
 qd,pkj2.0,6663,6758,bauer,6714,6717,ich,bauer
+qd,pkj2.0,6995,7238,bauer,7010,7013,ich,bauer
 qd,pkj2.0,7244,7614,bauer,7465,7468,Ich,bauer
 qd,pkj2.0,7244,7614,bauer,7490,7493,Ich,bauer
 qd,pkj2.0,7244,7614,bauer,7539,7542,mir,bauer
@@ -32,6 +33,7 @@ qd,pkj2.0,7700,7955,bauer,7837,7841,mich,bauer
 qd,pkj2.0,7700,7955,bauer,7932,7935,Ich,bauer
 qd,pkj2.0,7960,8019,bäuerin,7999,8002,ich,bäuerin
 qd,pkj2.0,8074,8378,viehhändler,8160,8163,ich,viehhändler
+qd,pkj2.0,8638,8739,ernsts_stimme,8665,8669,mich,ernsts_stimme
 qd,pkj2.0,8638,8739,ernsts_stimme,8712,8716,mich,ernsts_stimme
 qd,pkj2.0,8638,8739,ernsts_stimme,8734,8738,mich,ernsts_stimme
 qd,pkj2.0,8784,8875,ernsts_stimme,8807,8811,mich,ernsts_stimme
@@ -113,6 +115,7 @@ qd,pkj2.0,14563,14985,joseph_schindler,14829,14832,ich,joseph_schindler
 qd,pkj2.0,14991,15202,breite,15005,15008,ich,breite
 qd,pkj2.0,14991,15202,breite,15020,15023,ich,breite
 qd,pkj2.0,15342,15488,breite,15394,15397,mir,breite
+qd,pkj2.0,15342,15488,breite,15403,15406,ich,breite
 qd,pkj2.0,15342,15488,breite,15428,15431,ich,breite
 qd,pkj2.0,15746,15879,joseph_schindler,15804,15807,Ich,joseph_schindler
 qd,pkj2.0,15746,15879,joseph_schindler,15815,15818,ich,joseph_schindler
@@ -133,6 +136,7 @@ qd,pkj2.0,17840,17875,bäuerin,17850,17853,Ich,bäuerin
 qd,pkj2.0,17840,17875,bäuerin,17863,17866,ich,bäuerin
 qd,pkj2.0,17880,18164,viehhändler,17921,17924,Ich,viehhändler
 qd,pkj2.0,19034,19142,viehhändler,19081,19084,Ich,viehhändler
+qd,pkj2.0,19034,19142,viehhändler,19121,19124,ich,viehhändler
 qd,pkj2.0,19147,19382,bauer,19262,19265,ich,bauer
 qd,pkj2.0,19147,19382,bauer,19277,19280,ich,bauer
 qd,pkj2.0,19428,19466,viehhändler,19447,19450,ich,viehhändler
@@ -248,6 +252,7 @@ qd,pkj2.0,38350,38558,schindlern,38443,38447,mich,schindlern
 qd,pkj2.0,38916,39294,blumig,39131,39134,ich,blumig
 qd,pkj2.0,38916,39294,blumig,39192,39195,ich,blumig
 qd,pkj2.0,38916,39294,blumig,39231,39234,ich,blumig
+qd,pkj2.0,39299,39382,bauer_hildebrandt,39367,39370,ich,bauer_hildebrandt
 qd,pkj2.0,39860,40092,ernsts_stimme,40002,40005,ich,ernsts_stimme
 qd,pkj2.0,40239,40302,franzel,40276,40280,mich,franzel
 qd,pkj2.0,40307,40403,blumig,40316,40319,Ich,blumig
@@ -270,7 +275,9 @@ qd,pkj2.0,42280,42427,breite,42340,42343,ich,breite
 qd,pkj2.0,42280,42427,breite,42374,42377,ich,breite
 qd,pkj2.0,42432,42576,wirtin,42511,42514,ich,wirtin
 qd,pkj2.0,42581,43047,breite,42715,42718,ich,breite
+qd,pkj2.0,42581,43047,breite,42754,42757,ich,breite
 qd,pkj2.0,42581,43047,breite,42827,42830,ich,breite
+qd,pkj2.0,42581,43047,breite,42886,42889,ich,breite
 qd,pkj2.0,42581,43047,breite,42912,42915,ich,breite
 qd,pkj2.0,42581,43047,breite,42930,42933,mir,breite
 qd,pkj2.0,43323,43454,bauer,43368,43371,Ich,bauer
@@ -283,6 +290,7 @@ qd,pkj2.0,43595,43911,bauer,43703,43706,ich,bauer
 qd,pkj2.0,43595,43911,bauer,43794,43797,ich,bauer
 qd,pkj2.0,43916,44003,wirtin,43925,43928,Ich,wirtin
 qd,pkj2.0,44109,44285,wirtin,44177,44180,mir,wirtin
+qd,pkj2.0,44109,44285,wirtin,44201,44204,mir,wirtin
 qd,pkj2.0,44109,44285,wirtin,44266,44269,ich,wirtin
 qd,pkj2.0,44290,44408,bauer,44298,44301,Ich,bauer
 qd,pkj2.0,44290,44408,bauer,44313,44316,Ich,bauer
@@ -307,7 +315,6 @@ qd,pkj2.0,46353,46542,wirtin,46379,46382,ich,wirtin
 qd,pkj2.0,46353,46542,wirtin,46396,46399,ich,wirtin
 qd,pkj2.0,46353,46542,wirtin,46421,46424,ich,wirtin
 qd,pkj2.0,46353,46542,wirtin,46459,46462,ich,wirtin
-qd,pkj2.0,46691,47112,bauer,46884,46889,meine,bauer
 qd,pkj2.0,46691,47112,bauer,46989,46992,ich,bauer
 qd,pkj2.0,47212,47396,ernsts_stimme,47255,47258,ich,ernsts_stimme
 qd,pkj2.0,47212,47396,ernsts_stimme,47268,47271,mir,ernsts_stimme
@@ -315,7 +322,9 @@ qd,pkj2.0,47576,47700,ernsts_stimme,47606,47610,mich,ernsts_stimme
 qd,pkj2.0,47576,47700,ernsts_stimme,47629,47633,mich,ernsts_stimme
 qd,pkj2.0,47576,47700,ernsts_stimme,47642,47645,ich,ernsts_stimme
 qd,pkj2.0,47834,48262,bauer,47842,47845,Ich,bauer
+qd,pkj2.0,47834,48262,bauer,47852,47855,mir,bauer
 qd,pkj2.0,47834,48262,bauer,47876,47879,Ich,bauer
+qd,pkj2.0,47834,48262,bauer,47886,47889,mir,bauer
 qd,pkj2.0,48267,48359,bauer,48343,48346,Ich,bauer
 qd,pkj2.0,48389,48476,bauer,48425,48428,ich,bauer
 qd,pkj2.0,48969,49027,ernsts_stimme,49008,49011,Ich,ernsts_stimme
@@ -390,6 +399,7 @@ qd,pkj2.0,58217,58804,bäuerin,58304,58307,ich,bäuerin
 qd,pkj2.0,58217,58804,bäuerin,58728,58731,ich,bäuerin
 qd,pkj2.0,58217,58804,bäuerin,58736,58739,mir,bäuerin
 qd,pkj2.0,58982,59482,die_alte_mattern,59178,59181,ich,die_alte_mattern
+qd,pkj2.0,58982,59482,die_alte_mattern,59193,59196,mir,die_alte_mattern
 qd,pkj2.0,58982,59482,die_alte_mattern,59217,59220,Ich,die_alte_mattern
 qd,pkj2.0,58982,59482,die_alte_mattern,59260,59263,ich,die_alte_mattern
 qd,pkj2.0,58982,59482,die_alte_mattern,59378,59381,ich,die_alte_mattern
@@ -491,6 +501,7 @@ qd,pkj2.0,68429,69505,joseph_schindler,69186,69189,Ich,joseph_schindler
 qd,pkj2.0,68429,69505,joseph_schindler,69258,69261,ich,joseph_schindler
 qd,pkj2.0,68429,69505,joseph_schindler,69337,69340,Ich,joseph_schindler
 qd,pkj2.0,69510,69906,bauer,69539,69542,ich,bauer
+qd,pkj2.0,69510,69906,bauer,69723,69726,ich,bauer
 qd,pkj2.0,69912,70078,joseph_schindler,69982,69985,ich,joseph_schindler
 qd,pkj2.0,69912,70078,joseph_schindler,70008,70011,ich,joseph_schindler
 qd,pkj2.0,69912,70078,joseph_schindler,70036,70039,ich,joseph_schindler
@@ -574,18 +585,22 @@ qd,pkj2.0,77790,77904,bäuerin,77877,77880,mir,bäuerin
 qd,pkj2.0,77939,78016,bäuerin,77973,77977,mein,bäuerin
 qd,pkj2.0,77939,78016,bäuerin,77984,77988,mein,bäuerin
 qd,pkj2.0,78093,78132,breite,78113,78118,Meine,breite
+qd,pkj2.0,78392,78534,bäuerin,78410,78413,ich,bäuerin
 qd,pkj2.0,78539,78672,bauer,78614,78618,mich,bauer
 qd,pkj2.0,78677,78737,bäuerin,78689,78693,mein,bäuerin
 qd,pkj2.0,78742,78861,bauer,78840,78844,mich,bauer
 qd,pkj2.0,79044,79103,breite,79071,79074,ich,breite
 qd,pkj2.0,79108,79234,bauer,79159,79162,Ich,bauer
+qd,pkj2.0,79108,79234,bauer,79189,79192,ich,bauer
 qd,pkj2.0,79108,79234,bauer,79221,79224,ich,bauer
 qd,pkj2.0,79368,79469,bäuerin,79413,79416,Mir,bäuerin
+qd,pkj2.0,79474,79811,bauer,79548,79551,ich,bauer
 qd,pkj2.0,79474,79811,bauer,79729,79733,mich,bauer
 qd,pkj2.0,79474,79811,bauer,79776,79779,ich,bauer
 qd,pkj2.0,80995,81398,bauer,81032,81035,ich,bauer
 qd,pkj2.0,80995,81398,bauer,81046,81049,ich,bauer
 qd,pkj2.0,80995,81398,bauer,81074,81077,ich,bauer
+qd,pkj2.0,80995,81398,bauer,81105,81108,ich,bauer
 qd,pkj2.0,80995,81398,bauer,81136,81139,Ich,bauer
 qd,pkj2.0,80995,81398,bauer,81157,81160,mir,bauer
 qd,pkj2.0,80995,81398,bauer,81176,81179,Ich,bauer
@@ -644,6 +659,7 @@ qd,pkj2.0,89751,89914,bäuerin,89855,89858,ich,bäuerin
 qd,pkj2.0,89751,89914,bäuerin,89901,89904,ich,bäuerin
 qd,pkj2.0,89751,89914,bäuerin,89905,89909,mich,bäuerin
 qd,pkj2.0,89919,90132,bauer,89943,89947,mich,bauer
+qd,pkj2.0,89919,90132,bauer,90071,90074,ich,bauer
 qd,pkj2.0,89919,90132,bauer,90092,90095,ich,bauer
 qd,pkj2.0,90241,90665,bauer,90282,90285,ich,bauer
 qd,pkj2.0,90241,90665,bauer,90310,90313,mir,bauer
@@ -898,6 +914,7 @@ qd,pkj2.0,126328,126736,breite,126570,126573,Ich,breite
 qd,pkj2.0,126328,126736,breite,126631,126635,mich,breite
 qd,pkj2.0,126328,126736,breite,126653,126657,mich,breite
 qd,pkj2.0,126328,126736,breite,126715,126719,mich,breite
+qd,pkj2.0,126815,127073,breite,126929,126932,ich,breite
 qd,pkj2.0,126815,127073,breite,126954,126957,ich,breite
 qd,pkj2.0,126815,127073,breite,127002,127005,ich,breite
 qd,pkj2.0,126815,127073,breite,127035,127038,ich,breite

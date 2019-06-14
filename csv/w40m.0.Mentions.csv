@@ -44,6 +44,7 @@ qd,w40m.0,4878,4954,lykon,4918,4921,ich,lykon
 qd,w40m.0,4878,4954,lykon,4944,4947,mir,lykon
 qd,w40m.0,4960,5215,arratos,5019,5022,mir,arratos
 qd,w40m.0,4960,5215,arratos,5034,5038,mein,arratos
+qd,w40m.0,4960,5215,arratos,5040,5043,ich,arratos
 qd,w40m.0,5252,5305,arratos,5286,5289,ich,arratos
 qd,w40m.0,5503,5550,lykon,5532,5535,ich,lykon
 qd,w40m.0,5555,5694,arratos,5565,5568,Ich,arratos
@@ -213,6 +214,7 @@ qd,w40m.0,27527,28643,myrrha,28226,28229,Ich,myrrha
 qd,w40m.0,27527,28643,myrrha,28395,28398,ich,myrrha
 qd,w40m.0,27527,28643,myrrha,28433,28437,mich,myrrha
 qd,w40m.0,27527,28643,myrrha,28545,28548,mir,myrrha
+qd,w40m.0,27527,28643,myrrha,28599,28602,ich,myrrha
 qd,w40m.0,28649,29568,artemidor,29036,29040,mich,artemidor
 qd,w40m.0,28649,29568,artemidor,29081,29084,mir,artemidor
 qd,w40m.0,28649,29568,artemidor,29308,29311,mir,artemidor
@@ -492,6 +494,7 @@ qd,w40m.0,65612,65951,arratos,65767,65770,mir,arratos
 qd,w40m.0,65612,65951,arratos,65799,65803,Mich,arratos
 qd,w40m.0,65612,65951,arratos,65847,65850,Ich,arratos
 qd,w40m.0,65612,65951,arratos,65868,65872,mich,arratos
+qd,w40m.0,65612,65951,arratos,65915,65918,ich,arratos
 qd,w40m.0,65996,66366,arratos,66010,66013,ich,arratos
 qd,w40m.0,65996,66366,arratos,66089,66092,ich,arratos
 qd,w40m.0,65996,66366,arratos,66241,66244,ich,arratos
@@ -653,6 +656,7 @@ qd,w40m.0,86000,86125,arratos,86028,86031,mir,arratos
 qd,w40m.0,86000,86125,arratos,86079,86083,mich,arratos
 qd,w40m.0,86283,87073,der_blinde,86501,86504,ich,der_blinde
 qd,w40m.0,86283,87073,der_blinde,86523,86526,ich,der_blinde
+qd,w40m.0,86283,87073,der_blinde,86550,86553,ich,der_blinde
 qd,w40m.0,86283,87073,der_blinde,86627,86630,ich,der_blinde
 qd,w40m.0,87112,87551,der_blinde,87134,87137,Mir,der_blinde
 qd,w40m.0,87112,87551,der_blinde,87520,87523,Ich,der_blinde
@@ -861,6 +865,7 @@ qd,w40m.0,117160,117839,der_blinde,117189,117193,Mein,der_blinde
 qd,w40m.0,117160,117839,der_blinde,117307,117313,meinem,der_blinde
 qd,w40m.0,117160,117839,der_blinde,117568,117571,mir,der_blinde
 qd,w40m.0,117160,117839,der_blinde,117687,117690,ich,der_blinde
+qd,w40m.0,117160,117839,der_blinde,117703,117709,meinen,der_blinde
 qd,w40m.0,117844,117939,lysimachos,117897,117901,mich,lysimachos
 qd,w40m.0,118259,118797,der_blinde,118310,118313,ich,der_blinde
 qd,w40m.0,118259,118797,der_blinde,118454,118457,Mir,der_blinde
@@ -871,6 +876,7 @@ qd,w40m.0,118259,118797,der_blinde,118720,118726,meines,der_blinde
 qd,w40m.0,118837,118917,der_blinde,118888,118892,mich,der_blinde
 qd,w40m.0,119191,119774,der_blinde,119230,119233,mir,der_blinde
 qd,w40m.0,119191,119774,der_blinde,119621,119624,ich,der_blinde
+qd,w40m.0,119191,119774,der_blinde,119651,119654,Ich,der_blinde
 qd,w40m.0,119909,120145,artemidor,120072,120075,ich,artemidor
 qd,w40m.0,120151,120454,diokles,120198,120202,mein,diokles
 qd,w40m.0,120151,120454,diokles,120336,120340,mich,diokles
@@ -913,6 +919,7 @@ qd,w40m.0,130351,130420,diokles,130409,130413,mein,diokles
 qd,w40m.0,130426,130824,der_blinde,130507,130511,mich,der_blinde
 qd,w40m.0,130426,130824,der_blinde,130531,130534,ich,der_blinde
 qd,w40m.0,130426,130824,der_blinde,130552,130556,mich,der_blinde
+qd,w40m.0,130426,130824,der_blinde,130622,130625,ich,der_blinde
 qd,w40m.0,130426,130824,der_blinde,130818,130823,meine,der_blinde
 qd,w40m.0,132186,132205,diokles,132195,132198,Ich,diokles
 qd,w40m.0,132455,132777,mago,132544,132547,ich,mago
@@ -996,6 +1003,7 @@ qd,w40m.0,144461,145526,arratos,144905,144908,ich,arratos
 qd,w40m.0,144461,145526,arratos,145054,145057,mir,arratos
 qd,w40m.0,144461,145526,arratos,145224,145227,ich,arratos
 qd,w40m.0,144461,145526,arratos,145229,145232,ich,arratos
+qd,w40m.0,144461,145526,arratos,145279,145282,ich,arratos
 qd,w40m.0,144461,145526,arratos,145310,145314,mich,arratos
 qd,w40m.0,144461,145526,arratos,145414,145418,mich,arratos
 qd,w40m.0,145569,145695,arratos,145663,145666,Ich,arratos

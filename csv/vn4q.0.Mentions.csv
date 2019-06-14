@@ -57,6 +57,7 @@ qd,vn4q.0,6217,6478,pandarus,6434,6438,mich,pandarus
 qd,vn4q.0,6508,6529,pandarus,6519,6522,Ich,pandarus
 qd,vn4q.0,6566,6707,pandarus,6594,6598,mich,pandarus
 qd,vn4q.0,6566,6707,pandarus,6611,6614,Ich,pandarus
+qd,vn4q.0,6566,6707,pandarus,6632,6635,ich,pandarus
 qd,vn4q.0,6713,7497,troilus,6875,6879,mich,troilus
 qd,vn4q.0,6713,7497,troilus,6924,6928,mein,troilus
 qd,vn4q.0,6713,7497,troilus,6991,6995,mich,troilus
@@ -154,11 +155,13 @@ qd,vn4q.0,35406,35575,äneas,35539,35542,mir,äneas
 qd,vn4q.0,35406,35575,äneas,35565,35568,ich,äneas
 qd,vn4q.0,35734,36978,äneas,36469,36472,ich,äneas
 qd,vn4q.0,35734,36978,äneas,36965,36969,mein,äneas
+qd,vn4q.0,36984,37325,agamemnon,37016,37019,ich,agamemnon
 qd,vn4q.0,36984,37325,agamemnon,37305,37308,ich,agamemnon
 qd,vn4q.0,36984,37325,agamemnon,37316,37320,mich,agamemnon
 qd,vn4q.0,37331,37803,nestor,37578,37581,ich,nestor
 qd,vn4q.0,37331,37803,nestor,37645,37648,ich,nestor
 qd,vn4q.0,37331,37803,nestor,37667,37671,mein,nestor
+qd,vn4q.0,37331,37803,nestor,37766,37769,ich,nestor
 qd,vn4q.0,37331,37803,nestor,37776,37782,meinen,nestor
 qd,vn4q.0,37877,38202,agamemnon,37930,37933,Ich,agamemnon
 qd,vn4q.0,38260,38357,ulysses,38273,38279,meinem,ulysses
@@ -276,6 +279,7 @@ qd,vn4q.0,62380,62470,achilles,62402,62405,ich,achilles
 qd,vn4q.0,62380,62470,achilles,62439,62442,mir,achilles
 qd,vn4q.0,62862,62921,patroklus,62910,62914,mein,patroklus
 qd,vn4q.0,62926,63169,agamemnon,62957,62960,ich,agamemnon
+qd,vn4q.0,63175,63217,patroklus,63195,63198,ich,patroklus
 qd,vn4q.0,63302,63589,ajax,63446,63452,meinem,ajax
 qd,vn4q.0,63302,63589,ajax,63548,63552,mein,ajax
 qd,vn4q.0,64388,64648,patroklus,64413,64417,mich,patroklus
@@ -404,6 +408,7 @@ qd,vn4q.0,86203,86256,troilus,86225,86228,mir,troilus
 qd,vn4q.0,86261,87081,cressida,86304,86307,ich,cressida
 qd,vn4q.0,86261,87081,cressida,86374,86377,ich,cressida
 qd,vn4q.0,86261,87081,cressida,86416,86419,Ich,cressida
+qd,vn4q.0,86261,87081,cressida,86471,86474,ich,cressida
 qd,vn4q.0,86261,87081,cressida,86508,86511,ich,cressida
 qd,vn4q.0,86261,87081,cressida,86519,86523,Mein,cressida
 qd,vn4q.0,86261,87081,cressida,86618,86621,ich,cressida
@@ -427,6 +432,7 @@ qd,vn4q.0,87195,87395,cressida,87368,87371,ich,cressida
 qd,vn4q.0,87401,87440,troilus,87421,87425,mein,troilus
 qd,vn4q.0,87599,87637,cressida,87609,87613,Mein,cressida
 qd,vn4q.0,87702,87931,cressida,87718,87722,mich,cressida
+qd,vn4q.0,87702,87931,cressida,87728,87731,ich,cressida
 qd,vn4q.0,87702,87931,cressida,87764,87770,meinem,cressida
 qd,vn4q.0,87702,87931,cressida,87868,87872,mein,cressida
 qd,vn4q.0,87702,87931,cressida,87880,87883,Ich,cressida
@@ -436,8 +442,10 @@ qd,vn4q.0,87999,88248,cressida,88022,88026,mein,cressida
 qd,vn4q.0,87999,88248,cressida,88040,88043,ich,cressida
 qd,vn4q.0,87999,88248,cressida,88112,88115,Mir,cressida
 qd,vn4q.0,88254,88825,troilus,88272,88275,ich,troilus
+qd,vn4q.0,88254,88825,troilus,88336,88339,ich,troilus
 qd,vn4q.0,88254,88825,troilus,88559,88562,mir,troilus
 qd,vn4q.0,88254,88825,troilus,88587,88592,meine,troilus
+qd,vn4q.0,88254,88825,troilus,88703,88707,mich,troilus
 qd,vn4q.0,88254,88825,troilus,88731,88734,Ich,troilus
 qd,vn4q.0,88831,88868,cressida,88861,88864,ich,cressida
 qd,vn4q.0,89425,90053,cressida,89470,89473,ich,cressida
@@ -478,6 +486,7 @@ qd,vn4q.0,94351,95316,achilles,95030,95033,mir,achilles
 qd,vn4q.0,94351,95316,achilles,95050,95053,ich,achilles
 qd,vn4q.0,94351,95316,achilles,95081,95084,ich,achilles
 qd,vn4q.0,94351,95316,achilles,95108,95111,ich,achilles
+qd,vn4q.0,94351,95316,achilles,95168,95171,mir,achilles
 qd,vn4q.0,94351,95316,achilles,95179,95182,mir,achilles
 qd,vn4q.0,94351,95316,achilles,95265,95268,Ich,achilles
 qd,vn4q.0,96182,97477,ulysses,96213,96216,mir,ulysses
@@ -556,6 +565,7 @@ qd,vn4q.0,111133,111259,pandarus,111235,111240,meine,pandarus
 qd,vn4q.0,111264,111372,cressida,111341,111345,mich,cressida
 qd,vn4q.0,111264,111372,cressida,111367,111371,mich,cressida
 qd,vn4q.0,111378,111457,pandarus,111439,111442,ich,pandarus
+qd,vn4q.0,111774,111982,cressida,111791,111794,ich,cressida
 qd,vn4q.0,111774,111982,cressida,111916,111921,meine,cressida
 qd,vn4q.0,111774,111982,cressida,111968,111971,ich,cressida
 qd,vn4q.0,112009,112206,cressida,112056,112059,ich,cressida
@@ -660,6 +670,7 @@ qd,vn4q.0,122334,122740,troilus,122373,122377,mich,troilus
 qd,vn4q.0,122334,122740,troilus,122404,122410,meiner,troilus
 qd,vn4q.0,122334,122740,troilus,122455,122458,Ich,troilus
 qd,vn4q.0,122334,122740,troilus,122576,122579,Ich,troilus
+qd,vn4q.0,122334,122740,troilus,122611,122614,ich,troilus
 qd,vn4q.0,122746,123066,diomedes,122789,122792,mir,diomedes
 qd,vn4q.0,122746,123066,diomedes,122806,122812,meiner,diomedes
 qd,vn4q.0,122746,123066,diomedes,122827,122830,Ich,diomedes
@@ -738,6 +749,7 @@ qd,vn4q.0,134538,134637,ulysses,134548,134552,Mich,ulysses
 qd,vn4q.0,134643,134815,hektor,134662,134665,ich,hektor
 qd,vn4q.0,134643,134815,hektor,134746,134749,ich,hektor
 qd,vn4q.0,134821,135041,ulysses,134840,134843,ich,ulysses
+qd,vn4q.0,135047,135273,hektor,135069,135072,ich,hektor
 qd,vn4q.0,135047,135273,hektor,135107,135111,mein,hektor
 qd,vn4q.0,135047,135273,hektor,135113,135116,ich,hektor
 qd,vn4q.0,135279,135447,ulysses,135384,135387,ich,ulysses
@@ -780,6 +792,7 @@ qd,vn4q.0,138203,138313,troilus,138296,138300,Mich,troilus
 qd,vn4q.0,138319,138465,ulysses,138343,138347,mich,ulysses
 qd,vn4q.0,138319,138465,ulysses,138374,138378,mein,ulysses
 qd,vn4q.0,138825,138979,achilles,138869,138872,ich,achilles
+qd,vn4q.0,138825,138979,achilles,138917,138920,ich,achilles
 qd,vn4q.0,139391,139467,thersites,139408,139411,ich,thersites
 qd,vn4q.0,139540,139667,thersites,139552,139555,Ich,thersites
 qd,vn4q.0,139540,139667,thersites,139591,139594,ich,thersites
@@ -841,6 +854,7 @@ qd,vn4q.0,147845,148000,troilus,147939,147942,ich,troilus
 qd,vn4q.0,147845,148000,troilus,147953,147956,ich,troilus
 qd,vn4q.0,148165,148189,ulysses,148174,148178,Mein,ulysses
 qd,vn4q.0,148194,148248,troilus,148203,148206,Ich,troilus
+qd,vn4q.0,148194,148248,troilus,148242,148245,ich,troilus
 qd,vn4q.0,148253,148365,cressida,148323,148327,mich,cressida
 qd,vn4q.0,148398,148535,cressida,148425,148428,Ich,cressida
 qd,vn4q.0,148398,148535,cressida,148447,148450,Ich,cressida
@@ -866,10 +880,12 @@ qd,vn4q.0,149933,149967,diomedes,149943,149946,Ich,diomedes
 qd,vn4q.0,149972,150056,thersites,149984,149987,Ich,thersites
 qd,vn4q.0,149972,150056,thersites,150037,150040,mir,thersites
 qd,vn4q.0,150062,150099,diomedes,150082,150085,ich,diomedes
+qd,vn4q.0,150104,150168,cressida,150157,150160,mir,cressida
 qd,vn4q.0,150220,150571,cressida,150245,150248,ich,cressida
 qd,vn4q.0,150220,150571,cressida,150296,150300,mein,cressida
 qd,vn4q.0,150220,150571,cressida,150357,150361,mein,cressida
 qd,vn4q.0,150577,150672,thersites,150645,150650,meine,thersites
+qd,vn4q.0,150764,151198,troilus,150777,150780,mir,troilus
 qd,vn4q.0,150764,151198,troilus,150843,150846,ich,troilus
 qd,vn4q.0,150764,151198,troilus,150877,150880,ich,troilus
 qd,vn4q.0,150764,151198,troilus,150920,150923,ich,troilus
@@ -919,6 +935,7 @@ qd,vn4q.0,157620,157985,troilus,157848,157852,mein,troilus
 qd,vn4q.0,157620,157985,troilus,157861,157864,mir,troilus
 qd,vn4q.0,157620,157985,troilus,157913,157916,mir,troilus
 qd,vn4q.0,158172,158400,priamus,158284,158287,ich,priamus
+qd,vn4q.0,158406,158543,hektor,158463,158466,ich,hektor
 qd,vn4q.0,158406,158543,hektor,158523,158527,Mich,hektor
 qd,vn4q.0,158589,158820,hektor,158598,158601,Ich,hektor
 qd,vn4q.0,158589,158820,hektor,158607,158611,mein,hektor
@@ -928,6 +945,7 @@ qd,vn4q.0,158589,158820,hektor,158764,158768,mich,hektor
 qd,vn4q.0,158589,158820,hektor,158786,158789,mir,hektor
 qd,vn4q.0,158868,158903,andromache,158892,158896,mein,andromache
 qd,vn4q.0,158908,159016,hektor,158929,158932,ich,hektor
+qd,vn4q.0,158908,159016,hektor,158979,158982,ich,hektor
 qd,vn4q.0,159097,159452,kassandra,159119,159123,mein,kassandra
 qd,vn4q.0,159866,159990,troilus,159959,159963,mein,troilus
 qd,vn4q.0,159996,160049,pandarus,160018,160022,mein,pandarus
@@ -938,6 +956,7 @@ qd,vn4q.0,160161,160562,pandarus,160495,160498,ich,pandarus
 qd,vn4q.0,160161,160562,pandarus,160515,160518,ich,pandarus
 qd,vn4q.0,160567,160844,troilus,160765,160769,mein,troilus
 qd,vn4q.0,160944,162049,thersites,160994,160997,ich,thersites
+qd,vn4q.0,160944,162049,thersites,161003,161006,mir,thersites
 qd,vn4q.0,160944,162049,thersites,161171,161174,ich,thersites
 qd,vn4q.0,160944,162049,thersites,161988,161991,ich,thersites
 qd,vn4q.0,162055,162136,troilus,162118,162121,Ich,troilus

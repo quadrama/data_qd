@@ -42,6 +42,7 @@ qd,psxj.0,7384,7711,almansor,7680,7683,ich,almansor
 qd,psxj.0,7752,8172,almansor,7810,7814,mein,almansor
 qd,psxj.0,8178,8299,hassan,8239,8242,ich,hassan
 qd,psxj.0,8178,8299,hassan,8265,8271,meinem,hassan
+qd,psxj.0,8306,8581,almansor,8330,8333,mir,almansor
 qd,psxj.0,8306,8581,almansor,8448,8452,mein,almansor
 qd,psxj.0,8587,8642,hassan,8608,8614,meinem,hassan
 qd,psxj.0,8647,8829,almansor,8668,8672,mich,almansor
@@ -113,6 +114,7 @@ qd,psxj.0,20108,20243,alys_stimme,20175,20178,ich,alys_stimme
 qd,psxj.0,20108,20243,alys_stimme,20233,20236,ich,alys_stimme
 qd,psxj.0,20295,20572,alys_stimme,20381,20384,ich,alys_stimme
 qd,psxj.0,20578,20615,don_enrique,20610,20613,ich,don_enrique
+qd,psxj.0,20620,20843,alys_stimme,20645,20648,ich,alys_stimme
 qd,psxj.0,20620,20843,alys_stimme,20690,20693,mir,alys_stimme
 qd,psxj.0,20620,20843,alys_stimme,20749,20752,ich,alys_stimme
 qd,psxj.0,20849,20930,don_enrique,20892,20898,meinem,don_enrique
@@ -194,6 +196,7 @@ qd,psxj.0,31851,31998,der_alte,31963,31967,mich,der_alte
 qd,psxj.0,32004,32533,ein_junger_fiedler,32057,32060,mir,ein_junger_fiedler
 qd,psxj.0,32004,32533,ein_junger_fiedler,32321,32324,mir,ein_junger_fiedler
 qd,psxj.0,32539,32742,der_alte,32604,32607,ich,der_alte
+qd,psxj.0,32539,32742,der_alte,32623,32626,ich,der_alte
 qd,psxj.0,32747,33087,don_enrique,32761,32764,Ich,don_enrique
 qd,psxj.0,32747,33087,don_enrique,32799,32803,Mein,don_enrique
 qd,psxj.0,32747,33087,don_enrique,32830,32833,mir,don_enrique
@@ -212,6 +215,7 @@ qd,psxj.0,34515,34638,don_enrique,34633,34637,mich,don_enrique
 qd,psxj.0,34644,35807,don_diego,35235,35238,ich,don_diego
 qd,psxj.0,34644,35807,don_diego,35409,35412,mir,don_diego
 qd,psxj.0,34644,35807,don_diego,35414,35417,mir,don_diego
+qd,psxj.0,34644,35807,don_diego,35510,35513,ich,don_diego
 qd,psxj.0,35813,35961,don_enrique,35827,35830,Ich,don_enrique
 qd,psxj.0,35813,35961,don_enrique,35837,35841,mich,don_enrique
 qd,psxj.0,35813,35961,don_enrique,35879,35882,ich,don_enrique
@@ -396,6 +400,7 @@ qd,psxj.0,67645,68748,almansor,67723,67729,meinem,almansor
 qd,psxj.0,67645,68748,almansor,67792,67795,Ich,almansor
 qd,psxj.0,67645,68748,almansor,68262,68265,mir,almansor
 qd,psxj.0,67645,68748,almansor,68268,68272,Mein,almansor
+qd,psxj.0,67645,68748,almansor,68451,68454,mir,almansor
 qd,psxj.0,67645,68748,almansor,68458,68461,ich,almansor
 qd,psxj.0,67645,68748,almansor,68501,68506,meine,almansor
 qd,psxj.0,67645,68748,almansor,68725,68728,mir,almansor
@@ -528,6 +533,7 @@ qd,psxj.0,85986,86729,zuleimas_stimme,86630,86633,Ich,zuleimas_stimme
 qd,psxj.0,85986,86729,zuleimas_stimme,86646,86649,ich,zuleimas_stimme
 qd,psxj.0,86734,87006,almansor,86745,86748,Ich,almansor
 qd,psxj.0,86734,87006,almansor,86774,86778,mich,almansor
+qd,psxj.0,86734,87006,almansor,86833,86836,mir,almansor
 qd,psxj.0,86734,87006,almansor,86865,86868,mir,almansor
 qd,psxj.0,86734,87006,almansor,86902,86905,mir,almansor
 qd,psxj.0,86734,87006,almansor,86945,86948,ich,almansor

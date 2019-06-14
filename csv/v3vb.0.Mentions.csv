@@ -60,8 +60,11 @@ qd,v3vb.0,8390,8736,theodor,8590,8594,mein,theodor
 qd,v3vb.0,8390,8736,theodor,8647,8650,ich,theodor
 qd,v3vb.0,8938,9016,theodor,8948,8951,Ich,theodor
 qd,v3vb.0,8938,9016,theodor,8957,8960,mir,theodor
+qd,v3vb.0,9021,9130,fritz,9066,9069,mir,fritz
 qd,v3vb.0,9021,9130,fritz,9102,9105,ich,fritz
 qd,v3vb.0,9610,9758,theodor,9728,9731,ich,theodor
+qd,v3vb.0,9763,9818,mizi,9798,9801,ich,mizi
+qd,v3vb.0,9823,9898,fritz,9841,9844,mir,fritz
 qd,v3vb.0,9903,9982,mizi,9910,9913,Ich,mizi
 qd,v3vb.0,9987,10070,fritz,10005,10008,mir,fritz
 qd,v3vb.0,10940,11058,theodor,10962,10965,ich,theodor
@@ -111,6 +114,7 @@ qd,v3vb.0,17712,17981,fritz,17845,17848,ich,fritz
 qd,v3vb.0,17712,17981,fritz,17849,17853,mich,fritz
 qd,v3vb.0,17986,18027,christine,18007,18010,ich,christine
 qd,v3vb.0,18032,18151,fritz,18142,18145,ich,fritz
+qd,v3vb.0,18156,18204,christine,18189,18192,ich,christine
 qd,v3vb.0,18357,18408,christine,18403,18407,mich,christine
 qd,v3vb.0,18413,18451,fritz,18438,18442,mein,fritz
 qd,v3vb.0,18456,18598,christine,18486,18489,ich,christine
@@ -141,6 +145,7 @@ qd,v3vb.0,19803,19904,christine,19861,19864,ich,christine
 qd,v3vb.0,19909,20108,fritz,19930,19934,mich,fritz
 qd,v3vb.0,20434,20503,fritz,20450,20453,ich,fritz
 qd,v3vb.0,20817,21109,mizi,20854,20857,mir,mizi
+qd,v3vb.0,20817,21109,mizi,20887,20890,mir,mizi
 qd,v3vb.0,21870,21951,theodor,21933,21938,meine,theodor
 qd,v3vb.0,21984,22039,theodor,22003,22006,ich,theodor
 qd,v3vb.0,21984,22039,theodor,22007,22011,mich,theodor
@@ -148,6 +153,7 @@ qd,v3vb.0,22044,22094,fritz,22056,22059,ich,fritz
 qd,v3vb.0,22044,22094,fritz,22076,22079,mir,fritz
 qd,v3vb.0,22308,22389,theodor,22358,22361,ich,theodor
 qd,v3vb.0,23004,23067,fritz,23055,23059,mein,fritz
+qd,v3vb.0,23431,23481,christine,23463,23466,mir,christine
 qd,v3vb.0,23560,23807,fritz,23581,23585,mich,fritz
 qd,v3vb.0,23560,23807,fritz,23722,23725,ich,fritz
 qd,v3vb.0,23560,23807,fritz,23777,23780,Ich,fritz
@@ -163,6 +169,7 @@ qd,v3vb.0,25282,25357,christine,25333,25336,ich,christine
 qd,v3vb.0,25282,25357,christine,25337,25341,mich,christine
 qd,v3vb.0,25537,25589,fritz,25567,25570,mir,fritz
 qd,v3vb.0,25594,25635,christine,25614,25618,mich,christine
+qd,v3vb.0,25684,25935,christine,25709,25712,ich,christine
 qd,v3vb.0,25684,25935,christine,25747,25751,mich,christine
 qd,v3vb.0,25684,25935,christine,25783,25786,ich,christine
 qd,v3vb.0,25996,26041,christine,26017,26020,ich,christine
@@ -275,6 +282,7 @@ qd,v3vb.0,49369,49643,katharina,49568,49574,Meinem,katharina
 qd,v3vb.0,50331,50379,christine,50373,50376,mir,christine
 qd,v3vb.0,50484,50602,katharina,50539,50542,ich,katharina
 qd,v3vb.0,50830,51942,katharina,50842,50845,Ich,katharina
+qd,v3vb.0,50830,51942,katharina,50882,50885,mir,katharina
 qd,v3vb.0,50830,51942,katharina,50953,50956,ich,katharina
 qd,v3vb.0,52356,52398,christine,52378,52381,ich,christine
 qd,v3vb.0,52403,52693,weiring,52503,52506,Ich,weiring
@@ -287,6 +295,7 @@ qd,v3vb.0,53159,53232,christine,53179,53182,ich,christine
 qd,v3vb.0,53159,53232,christine,53214,53217,ich,christine
 qd,v3vb.0,53528,53693,weiring,53544,53547,Ich,weiring
 qd,v3vb.0,53727,53992,weiring,53737,53740,Ich,weiring
+qd,v3vb.0,53727,53992,weiring,53791,53794,mir,weiring
 qd,v3vb.0,53727,53992,weiring,53816,53819,ich,weiring
 qd,v3vb.0,54313,54486,weiring,54323,54326,Ich,weiring
 qd,v3vb.0,54313,54486,weiring,54459,54462,ich,weiring
@@ -356,6 +365,7 @@ qd,v3vb.0,63812,64269,mizi,63904,63908,mich,mizi
 qd,v3vb.0,63812,64269,mizi,63953,63956,ich,mizi
 qd,v3vb.0,63812,64269,mizi,64022,64025,ich,mizi
 qd,v3vb.0,63812,64269,mizi,64026,64029,mir,mizi
+qd,v3vb.0,64296,64612,mizi,64311,64314,mir,mizi
 qd,v3vb.0,64296,64612,mizi,64328,64331,ich,mizi
 qd,v3vb.0,64296,64612,mizi,64365,64368,ich,mizi
 qd,v3vb.0,64296,64612,mizi,64541,64544,Ich,mizi
@@ -383,6 +393,7 @@ qd,v3vb.0,66339,66614,fritz,66406,66409,ich,fritz
 qd,v3vb.0,66339,66614,fritz,66518,66522,mich,fritz
 qd,v3vb.0,66657,66913,fritz,66679,66682,ich,fritz
 qd,v3vb.0,66657,66913,fritz,66787,66790,ich,fritz
+qd,v3vb.0,66657,66913,fritz,66834,66837,ich,fritz
 qd,v3vb.0,66942,67033,fritz,66957,66961,mich,fritz
 qd,v3vb.0,66942,67033,fritz,67019,67022,ich,fritz
 qd,v3vb.0,67038,67078,christine,67060,67063,mir,christine
@@ -394,6 +405,7 @@ qd,v3vb.0,67677,67806,fritz,67740,67743,ich,fritz
 qd,v3vb.0,68105,68312,fritz,68142,68145,ich,fritz
 qd,v3vb.0,68105,68312,fritz,68184,68187,mir,fritz
 qd,v3vb.0,68105,68312,fritz,68228,68231,ich,fritz
+qd,v3vb.0,68105,68312,fritz,68232,68235,mir,fritz
 qd,v3vb.0,68447,68531,fritz,68470,68473,ich,fritz
 qd,v3vb.0,68447,68531,fritz,68474,68477,mir,fritz
 qd,v3vb.0,68626,68737,christine,68638,68641,Ich,christine
@@ -439,10 +451,12 @@ qd,v3vb.0,73151,73757,fritz,73700,73703,ich,fritz
 qd,v3vb.0,73151,73757,fritz,73704,73707,mir,fritz
 qd,v3vb.0,73762,73834,christine,73814,73817,ich,christine
 qd,v3vb.0,73867,74013,christine,73886,73890,mich,christine
+qd,v3vb.0,73867,74013,christine,73909,73912,ich,christine
 qd,v3vb.0,73867,74013,christine,73915,73918,mir,christine
 qd,v3vb.0,73867,74013,christine,73953,73956,mir,christine
 qd,v3vb.0,74018,74124,fritz,74045,74048,Ich,fritz
 qd,v3vb.0,74018,74124,fritz,74113,74117,mich,fritz
+qd,v3vb.0,74129,74643,christine,74179,74182,mir,christine
 qd,v3vb.0,74129,74643,christine,74244,74248,mich,christine
 qd,v3vb.0,74129,74643,christine,74295,74298,mir,christine
 qd,v3vb.0,74129,74643,christine,74324,74327,ich,christine
@@ -488,6 +502,7 @@ qd,v3vb.0,80691,80723,mizi,80712,80715,ich,mizi
 qd,v3vb.0,80891,81035,christine,80919,80922,ich,christine
 qd,v3vb.0,80891,81035,christine,80952,80955,ich,christine
 qd,v3vb.0,81040,81163,mizi,81058,81061,ich,mizi
+qd,v3vb.0,81385,81756,christine,81519,81522,ich,christine
 qd,v3vb.0,81385,81756,christine,81623,81627,mich,christine
 qd,v3vb.0,81385,81756,christine,81702,81705,ich,christine
 qd,v3vb.0,81761,81806,mizi,81768,81771,Ich,mizi
@@ -508,6 +523,7 @@ qd,v3vb.0,84275,84390,weiring,84349,84352,ich,weiring
 qd,v3vb.0,84441,84582,weiring,84461,84465,mein,weiring
 qd,v3vb.0,84441,84582,weiring,84480,84483,mir,weiring
 qd,v3vb.0,84441,84582,weiring,84501,84504,ich,weiring
+qd,v3vb.0,84441,84582,weiring,84545,84548,mir,weiring
 qd,v3vb.0,84587,84783,christine,84599,84602,Ich,christine
 qd,v3vb.0,84587,84783,christine,84634,84637,mir,christine
 qd,v3vb.0,84587,84783,christine,84710,84713,mir,christine
@@ -525,7 +541,9 @@ qd,v3vb.0,85263,86240,weiring,85751,85754,ich,weiring
 qd,v3vb.0,85263,86240,weiring,85755,85759,mich,weiring
 qd,v3vb.0,85263,86240,weiring,85784,85787,ich,weiring
 qd,v3vb.0,85263,86240,weiring,85860,85863,ich,weiring
+qd,v3vb.0,86245,86307,christine,86283,86286,ich,christine
 qd,v3vb.0,86312,86716,weiring,86424,86427,Ich,weiring
+qd,v3vb.0,86312,86716,weiring,86468,86471,mir,weiring
 qd,v3vb.0,86312,86716,weiring,86492,86495,ich,weiring
 qd,v3vb.0,86312,86716,weiring,86550,86553,ich,weiring
 qd,v3vb.0,86798,87124,weiring,86844,86847,mir,weiring
@@ -556,6 +574,7 @@ qd,v3vb.0,90017,90216,christine,90104,90107,ich,christine
 qd,v3vb.0,90533,90668,christine,90596,90599,ich,christine
 qd,v3vb.0,90533,90668,christine,90631,90634,mir,christine
 qd,v3vb.0,90770,90806,theodor,90780,90783,Ich,theodor
+qd,v3vb.0,91011,91185,christine,91036,91039,mir,christine
 qd,v3vb.0,91011,91185,christine,91117,91120,Ich,christine
 qd,v3vb.0,91510,91929,christine,91676,91679,ich,christine
 qd,v3vb.0,91510,91929,christine,91697,91700,ich,christine

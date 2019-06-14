@@ -15,6 +15,7 @@ qd,x8mw.0,2679,3065,euporus,2689,2693,Mein,euporus
 qd,x8mw.0,2679,3065,euporus,2709,2712,ich,euporus
 qd,x8mw.0,2679,3065,euporus,2827,2830,ich,euporus
 qd,x8mw.0,2679,3065,euporus,3009,3012,ich,euporus
+qd,x8mw.0,3175,3495,euporus,3190,3193,ich,euporus
 qd,x8mw.0,3175,3495,euporus,3293,3296,ich,euporus
 qd,x8mw.0,3175,3495,euporus,3400,3403,ich,euporus
 qd,x8mw.0,3175,3495,euporus,3437,3440,mir,euporus
@@ -66,8 +67,10 @@ qd,x8mw.0,10798,11021,kleon,10962,10965,mir,kleon
 qd,x8mw.0,11485,11991,metellus,11690,11693,ich,metellus
 qd,x8mw.0,11485,11991,metellus,11710,11713,ich,metellus
 qd,x8mw.0,11485,11991,metellus,11727,11730,ich,metellus
+qd,x8mw.0,11485,11991,metellus,11750,11753,mir,metellus
 qd,x8mw.0,11485,11991,metellus,11877,11880,ich,metellus
 qd,x8mw.0,12114,12328,metellus,12218,12221,ich,metellus
+qd,x8mw.0,12411,12658,metellus,12476,12480,mich,metellus
 qd,x8mw.0,12411,12658,metellus,12502,12505,ich,metellus
 qd,x8mw.0,12663,13013,opimius,12820,12823,Ich,opimius
 qd,x8mw.0,12663,13013,opimius,12888,12894,meiner,opimius
@@ -338,6 +341,7 @@ qd,x8mw.0,59444,59552,gracchus,59510,59513,Ich,gracchus
 qd,x8mw.0,59557,60307,cornelia,59723,59726,mir,cornelia
 qd,x8mw.0,59557,60307,cornelia,59744,59747,ich,cornelia
 qd,x8mw.0,59557,60307,cornelia,59780,59783,mir,cornelia
+qd,x8mw.0,59557,60307,cornelia,59902,59905,ich,cornelia
 qd,x8mw.0,59557,60307,cornelia,59931,59934,ich,cornelia
 qd,x8mw.0,59557,60307,cornelia,59995,59998,mir,cornelia
 qd,x8mw.0,59557,60307,cornelia,60120,60123,ich,cornelia
@@ -536,6 +540,7 @@ qd,x8mw.0,89735,90207,gracchus,89831,89834,ich,gracchus
 qd,x8mw.0,89735,90207,gracchus,89847,89853,meiner,gracchus
 qd,x8mw.0,89735,90207,gracchus,89907,89910,ich,gracchus
 qd,x8mw.0,89735,90207,gracchus,90168,90171,ich,gracchus
+qd,x8mw.0,90345,90611,scipio,90425,90428,ich,scipio
 qd,x8mw.0,90616,90828,gracchus,90771,90774,Ich,gracchus
 qd,x8mw.0,90616,90828,gracchus,90792,90795,ich,gracchus
 qd,x8mw.0,91115,91452,scipio,91196,91199,ich,scipio
@@ -561,6 +566,7 @@ qd,x8mw.0,96800,97208,cornelia,96859,96862,mir,cornelia
 qd,x8mw.0,96800,97208,cornelia,97081,97084,Ich,cornelia
 qd,x8mw.0,97250,97514,cornelia,97266,97269,ich,cornelia
 qd,x8mw.0,97250,97514,cornelia,97322,97325,Ich,cornelia
+qd,x8mw.0,97250,97514,cornelia,97346,97349,ich,cornelia
 qd,x8mw.0,97250,97514,cornelia,97356,97362,meinem,cornelia
 qd,x8mw.0,97730,97947,gracchus,97755,97759,mich,gracchus
 qd,x8mw.0,97730,97947,gracchus,97821,97824,Ich,gracchus
@@ -611,6 +617,7 @@ qd,x8mw.0,104138,104311,scipio,104178,104181,Ich,scipio
 qd,x8mw.0,104138,104311,scipio,104190,104193,ich,scipio
 qd,x8mw.0,104355,104596,scipio,104524,104530,meinem,scipio
 qd,x8mw.0,104602,104781,cornelia,104763,104766,mir,cornelia
+qd,x8mw.0,104786,105013,scipio,104834,104837,ich,scipio
 qd,x8mw.0,104786,105013,scipio,104868,104871,Ich,scipio
 qd,x8mw.0,104786,105013,scipio,104895,104898,ich,scipio
 qd,x8mw.0,105179,105460,cornelia,105249,105255,meinem,cornelia
@@ -657,6 +664,7 @@ qd,x8mw.0,113543,113843,metellus,113611,113614,ich,metellus
 qd,x8mw.0,113910,114026,gracchus,113995,113999,mich,gracchus
 qd,x8mw.0,114031,114321,metellus,114203,114206,ich,metellus
 qd,x8mw.0,114031,114321,metellus,114248,114251,mir,metellus
+qd,x8mw.0,114031,114321,metellus,114287,114290,ich,metellus
 qd,x8mw.0,114777,114829,gracchus,114793,114797,mich,gracchus
 qd,x8mw.0,114995,115057,gracchus,115018,115022,mich,gracchus
 qd,x8mw.0,115240,115314,licinnia,115276,115279,mir,licinnia
@@ -690,6 +698,7 @@ qd,x8mw.0,119947,120203,pomponius,120097,120100,ich,pomponius
 qd,x8mw.0,119947,120203,pomponius,120177,120180,ich,pomponius
 qd,x8mw.0,120235,120273,pomponius,120252,120256,mich,pomponius
 qd,x8mw.0,120278,120370,euporus,120340,120343,ich,euporus
+qd,x8mw.0,120436,120718,euporus,120540,120543,ich,euporus
 qd,x8mw.0,121017,121246,gracchus,121106,121109,ich,gracchus
 qd,x8mw.0,121017,121246,gracchus,121134,121138,mich,gracchus
 qd,x8mw.0,121017,121246,gracchus,121140,121143,ich,gracchus
@@ -788,6 +797,7 @@ qd,x8mw.0,136161,136387,gracchus,136205,136211,meinen,gracchus
 qd,x8mw.0,136161,136387,gracchus,136223,136228,meine,gracchus
 qd,x8mw.0,136469,136852,cornelia,136555,136561,meinen,cornelia
 qd,x8mw.0,136469,136852,cornelia,136579,136582,mir,cornelia
+qd,x8mw.0,136469,136852,cornelia,136619,136622,mir,cornelia
 qd,x8mw.0,136469,136852,cornelia,136629,136632,ich,cornelia
 qd,x8mw.0,136469,136852,cornelia,136793,136796,ich,cornelia
 qd,x8mw.0,137041,137358,cornelia,137079,137083,Mein,cornelia

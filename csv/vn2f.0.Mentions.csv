@@ -117,6 +117,7 @@ qd,vn2f.0,23881,23914,titus,23888,23892,Mein,titus
 qd,vn2f.0,24080,24111,titus,24106,24110,mein,titus
 qd,vn2f.0,24116,24144,marcius,24125,24128,Ich,marcius
 qd,vn2f.0,24149,24262,titus,24163,24166,ich,titus
+qd,vn2f.0,24149,24262,titus,24209,24212,ich,titus
 qd,vn2f.0,24338,24684,marcius,24415,24418,ich,marcius
 qd,vn2f.0,25248,25691,marcius,25476,25480,mich,marcius
 qd,vn2f.0,25248,25691,marcius,25539,25542,ich,marcius
@@ -153,6 +154,7 @@ qd,vn2f.0,31696,31833,marcius,31729,31732,Ich,marcius
 qd,vn2f.0,32028,32176,cominius,32039,32042,Ich,cominius
 qd,vn2f.0,32182,32499,marcius,32192,32195,Ich,marcius
 qd,vn2f.0,32182,32499,marcius,32337,32341,mich,marcius
+qd,vn2f.0,32505,32691,cominius,32524,32527,ich,cominius
 qd,vn2f.0,32505,32691,cominius,32607,32610,ich,cominius
 qd,vn2f.0,32697,33629,marcius,32833,32837,mich,marcius
 qd,vn2f.0,32697,33629,marcius,33056,33059,mir,marcius
@@ -162,6 +164,7 @@ qd,vn2f.0,32697,33629,marcius,33451,33454,ich,marcius
 qd,vn2f.0,32697,33629,marcius,33478,33481,ich,marcius
 qd,vn2f.0,32697,33629,marcius,33568,33574,meiner,marcius
 qd,vn2f.0,32697,33629,marcius,33606,33609,mir,marcius
+qd,vn2f.0,33966,34200,titus,34020,34023,ich,titus
 qd,vn2f.0,33966,34200,titus,34049,34052,ich,titus
 qd,vn2f.0,34456,34538,marcius,34483,34486,ich,marcius
 qd,vn2f.0,34456,34538,marcius,34512,34515,ich,marcius
@@ -175,6 +178,7 @@ qd,vn2f.0,34832,35038,marcius,34969,34973,mich,marcius
 qd,vn2f.0,35044,35309,aufidius,35121,35124,mir,aufidius
 qd,vn2f.0,35044,35309,aufidius,35253,35257,mich,aufidius
 qd,vn2f.0,35510,36062,cominius,35530,35533,ich,cominius
+qd,vn2f.0,35510,36062,cominius,35608,35611,ich,cominius
 qd,vn2f.0,36068,36161,titus,36078,36082,mein,titus
 qd,vn2f.0,36167,36458,marcius,36190,36193,ich,marcius
 qd,vn2f.0,36167,36458,marcius,36195,36200,Meine,marcius
@@ -361,9 +365,11 @@ qd,vn2f.0,68556,68599,coriolanus,68580,68584,Mein,coriolanus
 qd,vn2f.0,68655,68749,coriolanus,68692,68696,mein,coriolanus
 qd,vn2f.0,68870,68925,coriolanus,68892,68895,mir,coriolanus
 qd,vn2f.0,68991,69123,coriolanus,69017,69020,Ich,coriolanus
+qd,vn2f.0,68991,69123,coriolanus,69034,69037,mir,coriolanus
 qd,vn2f.0,68991,69123,coriolanus,69053,69056,ich,coriolanus
 qd,vn2f.0,69185,69289,coriolanus,69277,69280,ich,coriolanus
 qd,vn2f.0,69336,69444,zweiter_bürger_3,69358,69361,ich,zweiter_bürger_3
+qd,vn2f.0,69336,69444,zweiter_bürger_3,69391,69395,mein,zweiter_bürger_3
 qd,vn2f.0,69450,69584,coriolanus,69463,69466,Ich,coriolanus
 qd,vn2f.0,69450,69584,coriolanus,69531,69534,ich,coriolanus
 qd,vn2f.0,69450,69584,coriolanus,69549,69552,ich,coriolanus
@@ -471,6 +477,8 @@ qd,vn2f.0,98147,98297,volumnia,98248,98254,meines,volumnia
 qd,vn2f.0,98303,98505,menenius,98459,98462,ich,menenius
 qd,vn2f.0,98303,98505,menenius,98484,98487,ich,menenius
 qd,vn2f.0,98511,98539,coriolanus,98531,98534,ich,coriolanus
+qd,vn2f.0,98657,98762,coriolanus,98698,98701,ich,coriolanus
+qd,vn2f.0,98657,98762,coriolanus,98735,98738,ich,coriolanus
 qd,vn2f.0,99408,100213,volumnia,99866,99869,Ich,volumnia
 qd,vn2f.0,99408,100213,volumnia,99877,99882,meine,volumnia
 qd,vn2f.0,99408,100213,volumnia,99977,99980,Ich,volumnia
@@ -532,12 +540,14 @@ qd,vn2f.0,107807,108116,coriolanus,108024,108027,Ich,coriolanus
 qd,vn2f.0,107807,108116,coriolanus,108029,108032,ich,coriolanus
 qd,vn2f.0,107807,108116,coriolanus,108092,108095,ich,coriolanus
 qd,vn2f.0,108623,108659,brutus,108631,108634,Ich,brutus
+qd,vn2f.0,108623,108659,brutus,108648,108651,ich,brutus
 qd,vn2f.0,108749,108784,cominius,108769,108772,Ich,cominius
 qd,vn2f.0,108790,109120,coriolanus,108809,108812,ich,coriolanus
 qd,vn2f.0,108790,109120,coriolanus,108977,108980,ich,coriolanus
 qd,vn2f.0,108790,109120,coriolanus,109007,109010,mir,coriolanus
 qd,vn2f.0,108790,109120,coriolanus,109037,109040,ich,coriolanus
 qd,vn2f.0,108790,109120,coriolanus,109041,109045,mich,coriolanus
+qd,vn2f.0,108790,109120,coriolanus,109084,109087,ich,coriolanus
 qd,vn2f.0,109126,109607,sicinius,109587,109590,ich,sicinius
 qd,vn2f.0,109719,109773,cominius,109734,109738,mich,cominius
 qd,vn2f.0,109825,110123,cominius,109841,109845,mich,cominius
@@ -753,6 +763,7 @@ qd,vn2f.0,142690,142786,brutus,142713,142717,Mein,brutus
 qd,vn2f.0,142690,142786,brutus,142737,142740,ich,brutus
 qd,vn2f.0,142690,142786,brutus,142750,142753,ich,brutus
 qd,vn2f.0,142976,143192,hauptmann,142988,142991,Ich,hauptmann
+qd,vn2f.0,143198,143496,aufidius,143220,143223,ich,aufidius
 qd,vn2f.0,143198,143496,aufidius,143346,143350,mich,aufidius
 qd,vn2f.0,143198,143496,aufidius,143356,143359,ich,aufidius
 qd,vn2f.0,143198,143496,aufidius,143380,143383,ich,aufidius

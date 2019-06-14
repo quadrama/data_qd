@@ -36,6 +36,7 @@ qd,str4.0,5854,6018,ottilie,5979,5982,ich,ottilie
 qd,str4.0,6074,6538,puffmann,6127,6130,mir,puffmann
 qd,str4.0,6074,6538,puffmann,6151,6155,mich,puffmann
 qd,str4.0,6074,6538,puffmann,6177,6180,ich,puffmann
+qd,str4.0,6074,6538,puffmann,6397,6400,ich,puffmann
 qd,str4.0,6074,6538,puffmann,6413,6416,ich,puffmann
 qd,str4.0,7126,7276,thomas,7145,7149,mich,thomas
 qd,str4.0,7126,7276,thomas,7212,7215,ich,thomas
@@ -54,12 +55,14 @@ qd,str4.0,9127,9200,thomas,9178,9181,ich,thomas
 qd,str4.0,9205,9252,puffmann,9247,9251,mich,puffmann
 qd,str4.0,9429,9516,thomas,9470,9474,mich,thomas
 qd,str4.0,9429,9516,thomas,9491,9494,ich,thomas
+qd,str4.0,9715,9769,thomas,9751,9754,mir,thomas
 qd,str4.0,9826,9870,thomas,9865,9869,mich,thomas
 qd,str4.0,9875,10090,puffmann,9891,9894,mir,puffmann
 qd,str4.0,10578,10670,friedrich,10599,10602,ich,friedrich
 qd,str4.0,10578,10670,friedrich,10606,10612,meinem,friedrich
 qd,str4.0,10781,10954,franz,10867,10871,Mich,franz
 qd,str4.0,10781,10954,franz,10923,10926,ich,franz
+qd,str4.0,11428,11597,tupper,11538,11541,mir,tupper
 qd,str4.0,12531,12587,massengold,12555,12558,ich,massengold
 qd,str4.0,12695,12736,massengold,12717,12721,mein,massengold
 qd,str4.0,12741,12809,packendorf,12754,12757,Ich,packendorf
@@ -221,6 +224,7 @@ qd,str4.0,35819,36043,hansi,35880,35883,ich,hansi
 qd,str4.0,35819,36043,hansi,35908,35911,ich,hansi
 qd,str4.0,35819,36043,hansi,35953,35956,ich,hansi
 qd,str4.0,35819,36043,hansi,36009,36012,ich,hansi
+qd,str4.0,36603,36640,hansi,36628,36631,mir,hansi
 qd,str4.0,36707,36754,hansi,36720,36723,ich,hansi
 qd,str4.0,36831,36861,hansi,36839,36842,Ich,hansi
 qd,str4.0,37025,37114,hansi,37058,37061,ich,hansi
@@ -229,6 +233,7 @@ qd,str4.0,37148,37262,hansi,37216,37219,mir,hansi
 qd,str4.0,37356,37664,frau_hussbergerin,37390,37394,mich,frau_hussbergerin
 qd,str4.0,37356,37664,frau_hussbergerin,37445,37448,ich,frau_hussbergerin
 qd,str4.0,38324,38414,frau_hussbergerin,38344,38350,Meinem,frau_hussbergerin
+qd,str4.0,38419,38739,frau_flachsin,38485,38488,ich,frau_flachsin
 qd,str4.0,38419,38739,frau_flachsin,38713,38716,ich,frau_flachsin
 qd,str4.0,39987,40132,frau_schmalzerin,40006,40009,Mir,frau_schmalzerin
 qd,str4.0,39987,40132,frau_schmalzerin,40052,40055,Ich,frau_schmalzerin
@@ -302,6 +307,7 @@ qd,str4.0,50885,51280,thomas,50947,50951,Mich,thomas
 qd,str4.0,50885,51280,thomas,51040,51043,ich,thomas
 qd,str4.0,50885,51280,thomas,51090,51093,ich,thomas
 qd,str4.0,50885,51280,thomas,51099,51102,ich,thomas
+qd,str4.0,50885,51280,thomas,51130,51133,ich,thomas
 qd,str4.0,50885,51280,thomas,51193,51197,mein,thomas
 qd,str4.0,51285,51386,puffmann,51354,51357,ich,puffmann
 qd,str4.0,51502,51551,thomas,51519,51523,mich,thomas
@@ -338,6 +344,7 @@ qd,str4.0,59787,59818,klara,59800,59803,ich,klara
 qd,str4.0,61572,61639,netti,61602,61606,mich,netti
 qd,str4.0,61645,61738,klara,61710,61713,Ich,klara
 qd,str4.0,61743,61859,spring,61793,61798,Meine,spring
+qd,str4.0,61970,62029,susi,62014,62017,mir,susi
 qd,str4.0,62051,62176,susi,62058,62061,Ich,susi
 qd,str4.0,62051,62176,susi,62086,62089,ich,susi
 qd,str4.0,62182,62339,klara,62217,62220,Ich,klara
@@ -424,6 +431,7 @@ qd,str4.0,78680,78916,seewald,78771,78774,ich,seewald
 qd,str4.0,79123,79205,peter,79149,79152,ich,peter
 qd,str4.0,79211,79465,puffmann,79281,79284,ich,puffmann
 qd,str4.0,79211,79465,puffmann,79332,79335,ich,puffmann
+qd,str4.0,79634,79690,hansi,79652,79655,mir,hansi
 qd,str4.0,79779,79835,hansi,79799,79803,mein,hansi
 qd,str4.0,80580,80632,hansi,80621,80624,ich,hansi
 qd,str4.0,80637,80709,peter,80698,80702,mich,peter
@@ -667,6 +675,7 @@ qd,str4.0,125927,126022,klara,125964,125967,ich,klara
 qd,str4.0,126356,126473,massengold,126387,126390,ich,massengold
 qd,str4.0,126478,126649,puffmann,126616,126620,mich,puffmann
 qd,str4.0,126478,126649,puffmann,126645,126648,ich,puffmann
+qd,str4.0,126654,126764,ottilie,126689,126692,ich,ottilie
 qd,str4.0,126769,126810,puffmann,126793,126796,ich,puffmann
 qd,str4.0,126868,127177,massengold,126925,126931,meiner,massengold
 qd,str4.0,126868,127177,massengold,127030,127033,ich,massengold

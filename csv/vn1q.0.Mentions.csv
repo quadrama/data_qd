@@ -55,6 +55,7 @@ qd,vn1q.0,8900,9012,timon,8948,8951,mir,timon
 qd,vn1q.0,8900,9012,timon,9000,9004,mein,timon
 qd,vn1q.0,9018,9091,maler,9052,9056,mein,maler
 qd,vn1q.0,9097,9401,timon,9285,9288,Mir,timon
+qd,vn1q.0,9097,9401,timon,9330,9333,mir,timon
 qd,vn1q.0,9097,9401,timon,9391,9394,mir,timon
 qd,vn1q.0,9443,9565,timon,9480,9483,mir,timon
 qd,vn1q.0,9620,9738,timon,9675,9678,ich,timon
@@ -79,6 +80,7 @@ qd,vn1q.0,13228,13551,timon,13370,13373,ich,timon
 qd,vn1q.0,13788,13874,alcibiades,13814,13819,meine,alcibiades
 qd,vn1q.0,13788,13874,alcibiades,13835,13838,ich,alcibiades
 qd,vn1q.0,13880,14054,timon,13972,13975,Ich,timon
+qd,vn1q.0,14416,14473,apemantus,14453,14456,mir,apemantus
 qd,vn1q.0,14515,14608,apemantus,14578,14581,ich,apemantus
 qd,vn1q.0,14653,14748,apemantus,14671,14674,ich,apemantus
 qd,vn1q.0,14753,14833,zweiter_lord,14799,14802,ich,zweiter_lord
@@ -138,6 +140,7 @@ qd,vn1q.0,22575,23390,apemantus,23062,23065,mir,apemantus
 qd,vn1q.0,22575,23390,apemantus,23080,23083,ich,apemantus
 qd,vn1q.0,22575,23390,apemantus,23124,23128,mich,apemantus
 qd,vn1q.0,23396,23675,timon,23615,23619,mich,timon
+qd,vn1q.0,23396,23675,timon,23625,23628,ich,timon
 qd,vn1q.0,23396,23675,timon,23652,23655,ich,timon
 qd,vn1q.0,23743,23852,apemantus,23848,23851,ich,apemantus
 qd,vn1q.0,24084,24122,timon,24098,24101,mir,timon
@@ -192,6 +195,8 @@ qd,vn1q.0,29120,29799,senator,29418,29421,ich,senator
 qd,vn1q.0,29120,29799,senator,29428,29434,meines,senator
 qd,vn1q.0,29120,29799,senator,29476,29480,mein,senator
 qd,vn1q.0,29120,29799,senator,29495,29498,ich,senator
+qd,vn1q.0,29120,29799,senator,29530,29533,ich,senator
+qd,vn1q.0,29120,29799,senator,29554,29557,mir,senator
 qd,vn1q.0,29120,29799,senator,29773,29776,ich,senator
 qd,vn1q.0,29833,30697,senator,29901,29905,mein,senator
 qd,vn1q.0,29833,30697,senator,29999,30003,mich,senator
@@ -256,6 +261,7 @@ qd,vn1q.0,37531,37691,timon,37591,37594,mir,timon
 qd,vn1q.0,37531,37691,timon,37595,37599,mein,timon
 qd,vn1q.0,37531,37691,timon,37630,37633,ich,timon
 qd,vn1q.0,37531,37691,timon,37678,37681,mir,timon
+qd,vn1q.0,37697,37768,flavius,37741,37744,ich,flavius
 qd,vn1q.0,37945,38558,flavius,37959,37963,mein,flavius
 qd,vn1q.0,37945,38558,flavius,37987,37990,ich,flavius
 qd,vn1q.0,37945,38558,flavius,37991,37996,meine,flavius
@@ -264,6 +270,7 @@ qd,vn1q.0,37945,38558,flavius,38175,38178,ich,flavius
 qd,vn1q.0,37945,38558,flavius,38272,38275,ich,flavius
 qd,vn1q.0,37945,38558,flavius,38333,38336,ich,flavius
 qd,vn1q.0,37945,38558,flavius,38436,38440,mich,flavius
+qd,vn1q.0,37945,38558,flavius,38464,38467,ich,flavius
 qd,vn1q.0,38564,38599,timon,38579,38583,mein,timon
 qd,vn1q.0,38847,38889,timon,38877,38882,meine,timon
 qd,vn1q.0,39059,39458,flavius,39082,39088,meinem,flavius
@@ -299,6 +306,7 @@ qd,vn1q.0,41249,41454,flavius,41409,41412,ich,flavius
 qd,vn1q.0,41249,41454,flavius,41445,41448,ich,flavius
 qd,vn1q.0,41500,41971,flavius,41953,41956,mir,flavius
 qd,vn1q.0,41977,42917,timon,42019,42022,Ich,timon
+qd,vn1q.0,41977,42917,timon,42428,42431,ich,timon
 qd,vn1q.0,41977,42917,timon,42633,42636,ich,timon
 qd,vn1q.0,42923,43040,flavius,42943,42947,mein,flavius
 qd,vn1q.0,43180,43268,diener_4,43189,43192,Ich,diener_4
@@ -406,6 +414,7 @@ qd,vn1q.0,51964,52848,sempronius,52796,52801,meine,sempronius
 qd,vn1q.0,51964,52848,sempronius,52825,52829,mein,sempronius
 qd,vn1q.0,52855,53746,diener_6,53039,53042,ich,diener_6
 qd,vn1q.0,54106,54200,lucius_diener,54132,54135,ich,lucius_diener
+qd,vn1q.0,54106,54200,lucius_diener,54183,54187,mein,lucius_diener
 qd,vn1q.0,54547,54607,philotus,54557,54561,Mich,philotus
 qd,vn1q.0,54612,54883,lucius_diener,54770,54773,Ich,lucius_diener
 qd,vn1q.0,54889,54924,philotus,54915,54918,ich,philotus
@@ -425,6 +434,7 @@ qd,vn1q.0,56520,56956,flavius,56861,56865,Mein,flavius
 qd,vn1q.0,56520,56956,flavius,56888,56891,mir,flavius
 qd,vn1q.0,56520,56956,flavius,56913,56916,Ich,flavius
 qd,vn1q.0,57512,57796,servilius,57529,57532,ich,servilius
+qd,vn1q.0,57512,57796,servilius,57617,57620,ich,servilius
 qd,vn1q.0,57512,57796,servilius,57649,57655,meinem,servilius
 qd,vn1q.0,57512,57796,servilius,57663,57667,Mein,servilius
 qd,vn1q.0,57802,58002,lucius_diener,57907,57911,mein,lucius_diener
@@ -601,10 +611,12 @@ qd,vn1q.0,91494,91716,timon,91506,91509,ich,timon
 qd,vn1q.0,91494,91716,timon,91517,91520,ich,timon
 qd,vn1q.0,91494,91716,timon,91550,91554,mein,timon
 qd,vn1q.0,91494,91716,timon,91596,91599,ich,timon
+qd,vn1q.0,91494,91716,timon,91687,91690,ich,timon
 qd,vn1q.0,91722,91796,apemantus,91739,91742,ich,apemantus
 qd,vn1q.0,91802,91852,timon,91820,91826,meinen,timon
 qd,vn1q.0,91857,91911,apemantus,91877,91880,ich,apemantus
 qd,vn1q.0,91857,91911,apemantus,91881,91887,meinen,apemantus
+qd,vn1q.0,91916,91993,timon,91987,91990,ich,timon
 qd,vn1q.0,92038,92136,timon,92111,92114,ich,timon
 qd,vn1q.0,92320,92381,timon,92344,92348,mich,timon
 qd,vn1q.0,92387,92466,apemantus,92402,92406,mein,apemantus
@@ -698,9 +710,11 @@ qd,vn1q.0,106568,106840,dichter,106629,106632,ich,dichter
 qd,vn1q.0,106845,107001,timon,106978,106981,ich,timon
 qd,vn1q.0,107254,107646,timon,107277,107280,ich,timon
 qd,vn1q.0,107254,107646,timon,107613,107616,ich,timon
+qd,vn1q.0,107722,107777,timon,107737,107740,ich,timon
 qd,vn1q.0,107783,108176,dichter,108071,108075,mich,dichter
 qd,vn1q.0,107783,108176,dichter,108097,108100,ich,dichter
 qd,vn1q.0,108313,108396,maler,108328,108331,ich,maler
+qd,vn1q.0,108491,108589,timon,108531,108534,ich,timon
 qd,vn1q.0,108650,108751,timon,108682,108685,ich,timon
 qd,vn1q.0,108757,108852,maler,108814,108817,ich,maler
 qd,vn1q.0,108757,108852,maler,108840,108844,mein,maler

@@ -70,6 +70,7 @@ qd,wzph.0,16132,16449,wotan,16346,16349,ich,wotan
 qd,wzph.0,16132,16449,wotan,16365,16369,mein,wotan
 qd,wzph.0,16455,16686,fricka,16492,16496,mich,fricka
 qd,wzph.0,16455,16686,fricka,16532,16535,mir,fricka
+qd,wzph.0,16692,16921,wotan,16711,16715,mich,wotan
 qd,wzph.0,16692,16921,wotan,16756,16759,mir,wotan
 qd,wzph.0,16692,16921,wotan,16789,16792,ich,wotan
 qd,wzph.0,16692,16921,wotan,16841,16844,mir,wotan
@@ -164,6 +165,7 @@ qd,wzph.0,30725,31733,loge,31402,31406,mich,loge
 qd,wzph.0,30725,31733,loge,31541,31545,mein,loge
 qd,wzph.0,31784,31811,donner,31792,31795,Mir,donner
 qd,wzph.0,31816,31842,froh,31822,31825,Mir,froh
+qd,wzph.0,31847,32584,loge,31865,31868,ich,loge
 qd,wzph.0,31847,32584,loge,32158,32162,Mich,loge
 qd,wzph.0,31847,32584,loge,32185,32188,mir,loge
 qd,wzph.0,31847,32584,loge,32274,32277,ich,loge
@@ -173,8 +175,10 @@ qd,wzph.0,33026,33119,loge,33057,33060,ich,loge
 qd,wzph.0,33159,33358,loge,33232,33235,mir,loge
 qd,wzph.0,33363,33658,wotan,33431,33434,ich,wotan
 qd,wzph.0,34513,34689,alberich,34600,34603,mir,alberich
+qd,wzph.0,34513,34689,alberich,34642,34645,ich,alberich
 qd,wzph.0,34695,34863,mime,34736,34740,mich,mime
 qd,wzph.0,34927,34971,mime,34934,34937,Ich,mime
+qd,wzph.0,35055,35794,alberich,35357,35360,ich,alberich
 qd,wzph.0,35055,35794,alberich,35400,35404,mich,alberich
 qd,wzph.0,35055,35794,alberich,35461,35466,meine,alberich
 qd,wzph.0,35055,35794,alberich,35505,35508,ich,alberich
@@ -202,6 +206,7 @@ qd,wzph.0,38108,38626,mime,38594,38597,mir,mime
 qd,wzph.0,38684,39118,mime,38709,38712,ich,mime
 qd,wzph.0,38684,39118,mime,38771,38774,ich,mime
 qd,wzph.0,38684,39118,mime,38802,38805,mir,mime
+qd,wzph.0,38684,39118,mime,38816,38819,mir,mime
 qd,wzph.0,38684,39118,mime,38842,38846,mich,mime
 qd,wzph.0,38684,39118,mime,38908,38914,Meinem,mime
 qd,wzph.0,38684,39118,mime,39033,39036,ich,mime
@@ -258,12 +263,14 @@ qd,wzph.0,44736,44923,loge,44775,44778,ich,loge
 qd,wzph.0,44736,44923,loge,44810,44813,ich,loge
 qd,wzph.0,44736,44923,loge,44849,44852,ich,loge
 qd,wzph.0,44929,44980,alberich,44951,44954,ich,alberich
+qd,wzph.0,44986,45045,loge,44997,45000,ich,loge
 qd,wzph.0,44986,45045,loge,45023,45026,ich,loge
 qd,wzph.0,45051,45190,alberich,45167,45170,ich,alberich
 qd,wzph.0,45196,45258,loge,45247,45251,mich,loge
 qd,wzph.0,45503,45628,loge,45592,45596,mich,loge
 qd,wzph.0,45853,45902,alberich,45894,45897,mir,alberich
 qd,wzph.0,45908,46234,loge,45939,45943,Mein,loge
+qd,wzph.0,45908,46234,loge,46025,46028,ich,loge
 qd,wzph.0,45908,46234,loge,46054,46057,ich,loge
 qd,wzph.0,45908,46234,loge,46163,46166,mir,loge
 qd,wzph.0,45908,46234,loge,46219,46223,mich,loge
@@ -290,6 +297,7 @@ qd,wzph.0,49030,49360,alberich,49240,49243,mir,alberich
 qd,wzph.0,49030,49360,alberich,49278,49281,ich,alberich
 qd,wzph.0,49030,49360,alberich,49337,49341,mich,alberich
 qd,wzph.0,49556,50261,alberich,49633,49637,mich,alberich
+qd,wzph.0,49556,50261,alberich,49697,49700,ich,alberich
 qd,wzph.0,49556,50261,alberich,49751,49754,ich,alberich
 qd,wzph.0,49556,50261,alberich,49852,49855,mir,alberich
 qd,wzph.0,49556,50261,alberich,49906,49909,ich,alberich
@@ -324,9 +332,12 @@ qd,wzph.0,52816,53841,alberich,53541,53547,meiner,alberich
 qd,wzph.0,52816,53841,alberich,53575,53578,ich,alberich
 qd,wzph.0,52816,53841,alberich,53702,53708,Meinem,alberich
 qd,wzph.0,54983,55095,fricka,55075,55078,mir,fricka
+qd,wzph.0,55101,55356,fasolt,55281,55285,mich,fasolt
+qd,wzph.0,55101,55356,fasolt,55313,55316,ich,fasolt
 qd,wzph.0,55443,55623,fasolt,55488,55492,mich,fasolt
 qd,wzph.0,55443,55623,fasolt,55521,55524,mir,fasolt
 qd,wzph.0,55443,55623,fasolt,55580,55586,meinem,fasolt
+qd,wzph.0,55960,56008,wotan,56002,56005,mir,wotan
 qd,wzph.0,56014,56035,loge,56025,56028,mir,loge
 qd,wzph.0,56040,56148,froh,56067,56070,ich,froh
 qd,wzph.0,56153,56392,fafner,56350,56353,ich,fafner
@@ -343,12 +354,14 @@ qd,wzph.0,57522,57864,fasolt,57557,57560,ich,fasolt
 qd,wzph.0,57522,57864,fasolt,57600,57603,ich,fasolt
 qd,wzph.0,57522,57864,fasolt,57698,57701,mir,fasolt
 qd,wzph.0,57522,57864,fasolt,57733,57737,mich,fasolt
+qd,wzph.0,57522,57864,fasolt,57771,57774,ich,fasolt
 qd,wzph.0,57522,57864,fasolt,57809,57812,ich,fasolt
 qd,wzph.0,57522,57864,fasolt,57851,57854,ich,fasolt
 qd,wzph.0,57870,57922,fafner,57892,57895,ich,fafner
 qd,wzph.0,57870,57922,fafner,57908,57911,mir,fafner
 qd,wzph.0,58245,58338,wotan,58287,58290,ich,wotan
 qd,wzph.0,58245,58338,wotan,58291,58294,mir,wotan
+qd,wzph.0,58245,58338,wotan,58323,58326,ich,wotan
 qd,wzph.0,58245,58338,wotan,58333,58337,mich,wotan
 qd,wzph.0,58344,58422,loge,58377,58381,mein,loge
 qd,wzph.0,58344,58422,loge,58400,58403,ich,loge
@@ -407,5 +420,6 @@ qd,wzph.0,65800,66313,loge,65997,66001,mich,loge
 qd,wzph.0,65800,66313,loge,66027,66030,ich,loge
 qd,wzph.0,65800,66313,loge,66075,66079,mich,loge
 qd,wzph.0,65800,66313,loge,66185,66189,mich,loge
+qd,wzph.0,65800,66313,loge,66210,66213,ich,loge
 qd,wzph.0,65800,66313,loge,66234,66237,ich,loge
 qd,wzph.0,66576,66689,wotan,66681,66684,mir,wotan

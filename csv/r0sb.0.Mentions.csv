@@ -12,9 +12,11 @@ qd,r0sb.0,1279,1503,adam,1423,1426,ich,adam
 qd,r0sb.0,1279,1503,adam,1481,1484,mir,adam
 qd,r0sb.0,2089,2111,adam,2095,2098,Mir,adam
 qd,r0sb.0,2155,2209,adam,2161,2164,Ich,adam
+qd,r0sb.0,2328,2453,licht,2438,2441,ich,licht
 qd,r0sb.0,2848,2967,licht,2912,2916,mich,licht
 qd,r0sb.0,2973,3063,adam,3038,3041,ich,adam
 qd,r0sb.0,3121,3667,adam,3191,3194,ich,adam
+qd,r0sb.0,3121,3667,adam,3223,3226,ich,adam
 qd,r0sb.0,3121,3667,adam,3234,3237,ich,adam
 qd,r0sb.0,3121,3667,adam,3307,3311,mich,adam
 qd,r0sb.0,3121,3667,adam,3325,3328,ich,adam
@@ -26,6 +28,7 @@ qd,r0sb.0,3121,3667,adam,3523,3526,ich,adam
 qd,r0sb.0,3121,3667,adam,3586,3589,ich,adam
 qd,r0sb.0,3794,3858,adam,3800,3804,Mein,adam
 qd,r0sb.0,3794,3858,adam,3823,3826,ich,adam
+qd,r0sb.0,3863,3944,licht,3918,3921,ich,licht
 qd,r0sb.0,4296,4495,licht,4312,4315,ich,licht
 qd,r0sb.0,4796,4819,licht,4803,4806,Ich,licht
 qd,r0sb.0,4824,4871,adam,4835,4838,mir,adam
@@ -81,6 +84,7 @@ qd,r0sb.0,11862,11933,der_bediente,11896,11899,Ich,der_bediente
 qd,r0sb.0,11938,11967,licht,11963,11966,ich,licht
 qd,r0sb.0,12230,12251,licht,12237,12240,Ich,licht
 qd,r0sb.0,12410,12500,zweite_magd,12478,12481,ich,zweite_magd
+qd,r0sb.0,12625,12653,adam,12641,12644,ich,adam
 qd,r0sb.0,12735,12763,adam,12741,12744,Ich,adam
 qd,r0sb.0,12880,12896,adam,12886,12889,Ich,adam
 qd,r0sb.0,12901,13088,die_magd,12918,12924,meiner,die_magd
@@ -127,6 +131,7 @@ qd,r0sb.0,16362,17004,walter,16495,16499,mich,walter
 qd,r0sb.0,16362,17004,walter,16556,16559,ich,walter
 qd,r0sb.0,16362,17004,walter,16565,16571,meinen,walter
 qd,r0sb.0,16362,17004,walter,16588,16591,Ich,walter
+qd,r0sb.0,16362,17004,walter,16592,16596,mein,walter
 qd,r0sb.0,16362,17004,walter,16626,16629,ich,walter
 qd,r0sb.0,16362,17004,walter,16822,16826,mein,walter
 qd,r0sb.0,16362,17004,walter,16892,16895,ich,walter
@@ -240,6 +245,7 @@ qd,r0sb.0,28663,28735,adam,28721,28724,ich,adam
 qd,r0sb.0,28864,28912,eve,28869,28872,Ich,eve
 qd,r0sb.0,28864,28912,eve,28897,28901,mich,eve
 qd,r0sb.0,28917,28966,adam,28951,28954,ich,adam
+qd,r0sb.0,28999,29396,adam,29087,29090,ich,adam
 qd,r0sb.0,28999,29396,adam,29180,29185,meine,adam
 qd,r0sb.0,28999,29396,adam,29314,29317,ich,adam
 qd,r0sb.0,29570,29797,walter,29583,29586,ich,walter
@@ -270,6 +276,7 @@ qd,r0sb.0,31828,31917,frau_marthe,31853,31856,Mir,frau_marthe
 qd,r0sb.0,32467,32490,adam,32484,32487,ich,adam
 qd,r0sb.0,32717,32785,licht,32729,32734,meine,licht
 qd,r0sb.0,32791,32889,adam,32798,32802,Mein,adam
+qd,r0sb.0,32791,32889,adam,32814,32817,ich,adam
 qd,r0sb.0,33029,33051,licht,33036,33039,Ich,licht
 qd,r0sb.0,33162,33201,adam,33191,33194,ich,adam
 qd,r0sb.0,33690,33752,adam,33707,33710,ich,adam
@@ -352,6 +359,7 @@ qd,r0sb.0,43176,43548,frau_marthe,43541,43544,ich,frau_marthe
 qd,r0sb.0,43691,43794,frau_marthe,43729,43732,mir,frau_marthe
 qd,r0sb.0,43691,43794,frau_marthe,43758,43761,mir,frau_marthe
 qd,r0sb.0,43691,43794,frau_marthe,43777,43780,mir,frau_marthe
+qd,r0sb.0,43800,43841,eve,43827,43830,ich,eve
 qd,r0sb.0,43957,44379,walter,44013,44016,ich,walter
 qd,r0sb.0,43957,44379,walter,44028,44031,ich,walter
 qd,r0sb.0,43957,44379,walter,44283,44286,ich,walter
@@ -448,6 +456,7 @@ qd,r0sb.0,52623,52715,ruprecht,52705,52708,ich,ruprecht
 qd,r0sb.0,52750,52857,licht,52848,52851,ich,licht
 qd,r0sb.0,52982,53465,ruprecht,53020,53023,ich,ruprecht
 qd,r0sb.0,52982,53465,ruprecht,53035,53039,mich,ruprecht
+qd,r0sb.0,52982,53465,ruprecht,53053,53056,ich,ruprecht
 qd,r0sb.0,52982,53465,ruprecht,53094,53097,Ich,ruprecht
 qd,r0sb.0,52982,53465,ruprecht,53211,53214,ich,ruprecht
 qd,r0sb.0,52982,53465,ruprecht,53240,53243,Mir,ruprecht
@@ -479,6 +488,7 @@ qd,r0sb.0,54261,54786,ruprecht,54668,54671,ich,ruprecht
 qd,r0sb.0,54261,54786,ruprecht,54675,54678,mir,ruprecht
 qd,r0sb.0,54261,54786,ruprecht,54708,54711,Ich,ruprecht
 qd,r0sb.0,54261,54786,ruprecht,54718,54723,meine,ruprecht
+qd,r0sb.0,54928,55412,ruprecht,55251,55254,ich,ruprecht
 qd,r0sb.0,54928,55412,ruprecht,55267,55271,Mein,ruprecht
 qd,r0sb.0,54928,55412,ruprecht,55361,55364,ich,ruprecht
 qd,r0sb.0,55481,55703,frau_marthe,55499,55502,ich,frau_marthe
@@ -545,14 +555,18 @@ qd,r0sb.0,62333,62431,ruprecht,62366,62369,mir,ruprecht
 qd,r0sb.0,62333,62431,ruprecht,62393,62396,ich,ruprecht
 qd,r0sb.0,62333,62431,ruprecht,62422,62425,ich,ruprecht
 qd,r0sb.0,62438,62813,eve,62507,62510,ich,eve
+qd,r0sb.0,62438,62813,eve,62531,62534,ich,eve
 qd,r0sb.0,62438,62813,eve,62632,62635,ich,eve
 qd,r0sb.0,62438,62813,eve,62712,62715,ich,eve
+qd,r0sb.0,62438,62813,eve,62782,62785,ich,eve
+qd,r0sb.0,62438,62813,eve,62801,62804,ich,eve
 qd,r0sb.0,62819,62914,ruprecht,62863,62866,mir,ruprecht
 qd,r0sb.0,62920,63081,eve,62973,62976,ich,eve
 qd,r0sb.0,62920,63081,eve,62977,62980,mir,eve
 qd,r0sb.0,62920,63081,eve,63010,63013,ich,eve
 qd,r0sb.0,62920,63081,eve,63038,63042,mich,eve
 qd,r0sb.0,63186,63383,eve,63276,63279,ich,eve
+qd,r0sb.0,63431,63502,eve,63467,63470,ich,eve
 qd,r0sb.0,63508,63586,frau_marthe,63540,63543,ich,frau_marthe
 qd,r0sb.0,63655,63912,adam,63832,63835,ich,adam
 qd,r0sb.0,63655,63912,adam,63861,63864,Ich,adam
@@ -574,6 +588,7 @@ qd,r0sb.0,66400,67206,eve,66792,66796,mein,eve
 qd,r0sb.0,66400,67206,eve,66936,66939,Ich,eve
 qd,r0sb.0,66400,67206,eve,67013,67017,mein,eve
 qd,r0sb.0,66400,67206,eve,67034,67037,ich,eve
+qd,r0sb.0,66400,67206,eve,67094,67097,ich,eve
 qd,r0sb.0,66400,67206,eve,67183,67187,mich,eve
 qd,r0sb.0,67212,67429,adam,67245,67250,meine,adam
 qd,r0sb.0,67491,68338,frau_marthe,67510,67513,ich,frau_marthe
@@ -603,6 +618,7 @@ qd,r0sb.0,70345,70378,ruprecht,70355,70359,Mich,ruprecht
 qd,r0sb.0,70613,70664,adam,70656,70659,mir,adam
 qd,r0sb.0,70708,70794,ruprecht,70730,70733,ich,ruprecht
 qd,r0sb.0,70963,71053,veit,71031,71034,ich,veit
+qd,r0sb.0,71218,71397,ruprecht,71235,71238,ich,ruprecht
 qd,r0sb.0,71218,71397,ruprecht,71352,71356,mich,ruprecht
 qd,r0sb.0,71932,72042,ruprecht,71948,71951,ich,ruprecht
 qd,r0sb.0,71932,72042,ruprecht,71978,71981,ich,ruprecht
@@ -703,11 +719,13 @@ qd,r0sb.0,84725,85026,frau_marthe,84978,84981,ich,frau_marthe
 qd,r0sb.0,84725,85026,frau_marthe,84998,85004,meinem,frau_marthe
 qd,r0sb.0,85455,85718,adam,85506,85509,mir,adam
 qd,r0sb.0,85455,85718,adam,85564,85567,ich,adam
+qd,r0sb.0,85957,85985,walter,85970,85973,ich,walter
 qd,r0sb.0,85991,86160,licht,86141,86144,ich,licht
 qd,r0sb.0,86166,86258,walter,86177,86180,Ich,walter
 qd,r0sb.0,86458,86496,frau_marthe,86480,86483,mir,frau_marthe
 qd,r0sb.0,86501,86650,walter,86550,86553,mir,walter
 qd,r0sb.0,86501,86650,walter,86582,86585,ich,walter
+qd,r0sb.0,86501,86650,walter,86641,86644,mir,walter
 qd,r0sb.0,86656,86673,adam,86662,86665,Ich,adam
 qd,r0sb.0,86715,86764,adam,86725,86730,meine,adam
 qd,r0sb.0,86818,86997,adam,86861,86866,meine,adam
@@ -828,6 +846,7 @@ qd,r0sb.0,101243,101393,walter,101289,101292,mir,walter
 qd,r0sb.0,101574,101778,ruprecht,101606,101609,ich,ruprecht
 qd,r0sb.0,101574,101778,ruprecht,101699,101703,mein,ruprecht
 qd,r0sb.0,101574,101778,ruprecht,101758,101761,mir,ruprecht
+qd,r0sb.0,101954,102172,eve,102049,102052,mir,eve
 qd,r0sb.0,102231,102451,eve,102420,102423,ich,eve
 qd,r0sb.0,102577,102710,walter,102602,102605,ich,walter
 qd,r0sb.0,102982,103100,walter,102995,103001,meiner,walter

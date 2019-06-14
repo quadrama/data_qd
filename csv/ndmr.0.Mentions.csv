@@ -82,6 +82,7 @@ qd,ndmr.0,23690,23993,könig,23825,23829,mich,könig
 qd,ndmr.0,23690,23993,könig,23937,23940,ich,könig
 qd,ndmr.0,24092,24290,könig,24135,24139,mich,könig
 qd,ndmr.0,24092,24290,könig,24140,24144,mein,könig
+qd,ndmr.0,24295,24348,teut,24332,24335,mir,teut
 qd,ndmr.0,24353,24425,könig,24398,24404,meinen,könig
 qd,ndmr.0,24431,24516,teut,24464,24467,ich,teut
 qd,ndmr.0,24522,24875,könig,24556,24560,Mein,könig
@@ -115,6 +116,7 @@ qd,ndmr.0,27482,27527,teut,27507,27510,Ich,teut
 qd,ndmr.0,27532,27560,theoda,27550,27554,mich,theoda
 qd,ndmr.0,27624,27667,theoda,27658,27661,ich,theoda
 qd,ndmr.0,27673,27718,teut,27707,27710,ich,teut
+qd,ndmr.0,27724,27773,theoda,27757,27760,ich,theoda
 qd,ndmr.0,27779,27804,teut,27785,27788,Ich,teut
 qd,ndmr.0,28017,28402,teut,28078,28082,mich,teut
 qd,ndmr.0,28017,28402,teut,28172,28176,mein,teut
@@ -195,6 +197,7 @@ qd,ndmr.0,45021,45062,theoda,45057,45061,mich,theoda
 qd,ndmr.0,45067,45407,teut,45080,45084,mich,teut
 qd,ndmr.0,45412,45460,theoda,45429,45432,mir,theoda
 qd,ndmr.0,45465,45695,teut,45600,45603,Ich,teut
+qd,ndmr.0,45465,45695,teut,45616,45619,mir,teut
 qd,ndmr.0,45790,45846,teut,45805,45808,Ich,teut
 qd,ndmr.0,45852,46352,theoda,45910,45913,Ich,theoda
 qd,ndmr.0,45852,46352,theoda,45957,45960,Ich,theoda

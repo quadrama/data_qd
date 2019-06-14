@@ -142,6 +142,7 @@ qd,rfcn.0,91541,92744,guldberg,92386,92391,meine,guldberg
 qd,rfcn.0,91541,92744,guldberg,92429,92432,ich,guldberg
 qd,rfcn.0,92749,92827,kölner,92763,92766,ich,kölner
 qd,rfcn.0,92749,92827,kölner,92794,92798,mich,kölner
+qd,rfcn.0,92881,93005,ranzau,92897,92900,mir,ranzau
 qd,rfcn.0,93552,93615,guldberg,93563,93566,Ich,guldberg
 qd,rfcn.0,93552,93615,guldberg,93584,93587,ich,guldberg
 qd,rfcn.0,94076,94099,kölner,94095,94098,ich,kölner
@@ -163,6 +164,7 @@ qd,rfcn.0,98333,98465,guldberg,98344,98347,Ich,guldberg
 qd,rfcn.0,98495,98608,guldberg,98506,98509,Ich,guldberg
 qd,rfcn.0,98495,98608,guldberg,98538,98541,ich,guldberg
 qd,rfcn.0,98962,99601,guldberg,99031,99034,Ich,guldberg
+qd,rfcn.0,98962,99601,guldberg,99078,99081,ich,guldberg
 qd,rfcn.0,98962,99601,guldberg,99315,99320,meine,guldberg
 qd,rfcn.0,98962,99601,guldberg,99567,99570,ich,guldberg
 qd,rfcn.0,99810,100336,ranzau,100037,100040,Ich,ranzau
@@ -374,6 +376,7 @@ qd,rfcn.0,130902,131426,gräfin,131149,131154,meine,gräfin
 qd,rfcn.0,131479,131985,gräfin,131678,131681,Ich,gräfin
 qd,rfcn.0,131479,131985,gräfin,131720,131723,ich,gräfin
 qd,rfcn.0,132691,132993,könige,132699,132702,Ich,könige
+qd,rfcn.0,132691,132993,könige,132779,132782,ich,könige
 qd,rfcn.0,132691,132993,könige,132812,132815,Ich,könige
 qd,rfcn.0,132691,132993,könige,132853,132856,mir,könige
 qd,rfcn.0,132691,132993,könige,132947,132950,mir,könige
@@ -621,6 +624,7 @@ qd,rfcn.0,165583,167448,struensee,167184,167188,mein,struensee
 qd,rfcn.0,165583,167448,struensee,167275,167278,ich,struensee
 qd,rfcn.0,165583,167448,struensee,167289,167295,meines,struensee
 qd,rfcn.0,165583,167448,struensee,167312,167315,Mir,struensee
+qd,rfcn.0,165583,167448,struensee,167338,167341,ich,struensee
 qd,rfcn.0,167453,167576,gräfin,167490,167493,ich,gräfin
 qd,rfcn.0,167453,167576,gräfin,167507,167511,mich,gräfin
 qd,rfcn.0,167581,167700,struensee,167649,167655,Meinen,struensee
@@ -699,6 +703,7 @@ qd,rfcn.0,175002,175424,kölner,175114,175119,Meine,kölner
 qd,rfcn.0,175002,175424,kölner,175156,175159,ich,kölner
 qd,rfcn.0,175509,175689,kölner,175608,175611,ich,kölner
 qd,rfcn.0,175509,175689,kölner,175659,175663,mich,kölner
+qd,rfcn.0,175890,175910,kölner,175904,175907,ich,kölner
 qd,rfcn.0,176285,177127,guldberg,176630,176633,Ich,guldberg
 qd,rfcn.0,176285,177127,guldberg,176645,176648,ich,guldberg
 qd,rfcn.0,176285,177127,guldberg,176680,176683,ich,guldberg
@@ -778,6 +783,7 @@ qd,rfcn.0,186603,188233,struensee,187235,187238,ich,struensee
 qd,rfcn.0,186603,188233,struensee,187551,187554,ich,struensee
 qd,rfcn.0,186603,188233,struensee,187603,187609,meines,struensee
 qd,rfcn.0,186603,188233,struensee,187636,187642,meines,struensee
+qd,rfcn.0,186603,188233,struensee,187914,187917,mir,struensee
 qd,rfcn.0,186603,188233,struensee,187980,187984,mich,struensee
 qd,rfcn.0,186603,188233,struensee,187999,188002,Ich,struensee
 qd,rfcn.0,186603,188233,struensee,188016,188019,ich,struensee

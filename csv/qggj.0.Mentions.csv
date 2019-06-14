@@ -76,6 +76,7 @@ qd,qggj.0,26144,26343,wendt,26305,26308,ich,wendt
 qd,qggj.0,26348,26384,toni,26379,26383,mich,toni
 qd,qggj.0,26579,26652,toni,26610,26613,ich,toni
 qd,qggj.0,26579,26652,toni,26641,26644,mir,toni
+qd,qggj.0,26657,26686,wendt,26674,26677,ich,wendt
 qd,qggj.0,27138,27420,frau_selicke,27332,27335,Ich,frau_selicke
 qd,qggj.0,27834,28068,frau_selicke,27994,27997,Ich,frau_selicke
 qd,qggj.0,28263,28542,frau_selicke,28464,28467,ich,frau_selicke
@@ -103,6 +104,7 @@ qd,qggj.0,34473,34812,frau_selicke,34749,34752,mir,frau_selicke
 qd,qggj.0,34473,34812,frau_selicke,34784,34787,mir,frau_selicke
 qd,qggj.0,34817,35138,toni,35023,35027,mich,toni
 qd,qggj.0,34817,35138,toni,35056,35059,ich,toni
+qd,qggj.0,35237,35286,toni,35265,35268,ich,toni
 qd,qggj.0,35291,35604,frau_selicke,35561,35564,ich,frau_selicke
 qd,qggj.0,35291,35604,frau_selicke,35589,35592,ich,frau_selicke
 qd,qggj.0,35785,35915,frau_selicke,35807,35811,mich,frau_selicke
@@ -319,6 +321,7 @@ qd,qggj.0,69300,69397,frau_selicke,69384,69388,mein,frau_selicke
 qd,qggj.0,70364,70803,linchen,70399,70403,mich,linchen
 qd,qggj.0,70364,70803,linchen,70432,70436,mich,linchen
 qd,qggj.0,70364,70803,linchen,70486,70489,Ich,linchen
+qd,qggj.0,70364,70803,linchen,70584,70587,ich,linchen
 qd,qggj.0,70364,70803,linchen,70676,70680,mich,linchen
 qd,qggj.0,70364,70803,linchen,70717,70720,ich,linchen
 qd,qggj.0,70364,70803,linchen,70761,70764,Ich,linchen
@@ -335,6 +338,7 @@ qd,qggj.0,71767,71905,linchen,71875,71878,Ich,linchen
 qd,qggj.0,71910,71992,frau_selicke,71933,71937,mein,frau_selicke
 qd,qggj.0,72051,72149,frau_selicke,72114,72118,mein,frau_selicke
 qd,qggj.0,72051,72149,frau_selicke,72124,72128,Mein,frau_selicke
+qd,qggj.0,72350,72476,albert,72425,72428,ich,albert
 qd,qggj.0,72556,73775,frau_selicke,72755,72758,Ich,frau_selicke
 qd,qggj.0,72556,73775,frau_selicke,72838,72842,mich,frau_selicke
 qd,qggj.0,72556,73775,frau_selicke,72877,72880,Ich,frau_selicke
@@ -541,7 +545,6 @@ qd,qggj.0,112796,112908,wendt,112841,112844,ich,wendt
 qd,qggj.0,112796,112908,wendt,112885,112888,ich,wendt
 qd,qggj.0,112913,113030,toni,112993,112997,mich,toni
 qd,qggj.0,113062,113430,toni,113069,113072,Ich,toni
-qd,qggj.0,113062,113430,toni,113073,113078,meine,toni
 qd,qggj.0,113062,113430,toni,113088,113092,mich,toni
 qd,qggj.0,113062,113430,toni,113282,113285,ich,toni
 qd,qggj.0,113469,113894,toni,113517,113520,ich,toni
@@ -552,7 +555,6 @@ qd,qggj.0,114060,114271,toni,114201,114204,mir,toni
 qd,qggj.0,114060,114271,toni,114230,114233,Ich,toni
 qd,qggj.0,114060,114271,toni,114252,114255,Ich,toni
 qd,qggj.0,114276,114359,wendt,114284,114287,Ich,wendt
-qd,qggj.0,114276,114359,wendt,114288,114293,meine,wendt
 qd,qggj.0,114460,114637,wendt,114486,114489,Ich,wendt
 qd,qggj.0,114460,114637,wendt,114534,114538,mich,wendt
 qd,qggj.0,114460,114637,wendt,114584,114588,mich,wendt

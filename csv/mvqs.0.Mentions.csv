@@ -46,6 +46,7 @@ qd,mvqs.0,16863,16991,kurakin,16938,16941,ich,kurakin
 qd,mvqs.0,16996,17123,wolinski,17096,17099,mir,wolinski
 qd,mvqs.0,17129,17252,kurakin,17156,17159,Ich,kurakin
 qd,mvqs.0,17129,17252,kurakin,17204,17207,ich,kurakin
+qd,mvqs.0,17129,17252,kurakin,17240,17243,ich,kurakin
 qd,mvqs.0,17257,17543,wolinski,17521,17524,mir,wolinski
 qd,mvqs.0,17257,17543,wolinski,17537,17540,mir,wolinski
 qd,mvqs.0,17705,17775,biron,17727,17730,Ich,biron
@@ -126,6 +127,7 @@ qd,mvqs.0,31294,32007,anna,31365,31369,mich,anna
 qd,mvqs.0,31294,32007,anna,31378,31381,mir,anna
 qd,mvqs.0,31294,32007,anna,31411,31414,Ich,anna
 qd,mvqs.0,31294,32007,anna,31645,31648,ich,anna
+qd,mvqs.0,31294,32007,anna,31670,31673,ich,anna
 qd,mvqs.0,31294,32007,anna,31698,31701,ich,anna
 qd,mvqs.0,31294,32007,anna,31782,31785,Ich,anna
 qd,mvqs.0,31294,32007,anna,31831,31834,ich,anna
@@ -408,6 +410,7 @@ qd,mvqs.0,86553,87672,kurakin,87325,87328,ich,kurakin
 qd,mvqs.0,87722,87832,kurakin,87751,87754,Ich,kurakin
 qd,mvqs.0,87722,87832,kurakin,87782,87786,mich,kurakin
 qd,mvqs.0,87837,87916,ostermann,87849,87852,Ich,ostermann
+qd,mvqs.0,87921,88755,kurakin,88488,88491,ich,kurakin
 qd,mvqs.0,87921,88755,kurakin,88515,88518,ich,kurakin
 qd,mvqs.0,87921,88755,kurakin,88594,88598,mich,kurakin
 qd,mvqs.0,87921,88755,kurakin,88667,88671,mich,kurakin
@@ -436,6 +439,7 @@ qd,mvqs.0,95120,95168,anna,95148,95151,ich,anna
 qd,mvqs.0,95234,95264,anna,95247,95250,mir,anna
 qd,mvqs.0,95269,95672,biron,95405,95408,Mir,biron
 qd,mvqs.0,95269,95672,biron,95479,95482,mir,biron
+qd,mvqs.0,96252,96304,ostermann,96285,96288,ich,ostermann
 qd,mvqs.0,96309,96390,anna,96379,96382,mir,anna
 qd,mvqs.0,96395,96464,ostermann,96407,96410,Ich,ostermann
 qd,mvqs.0,96395,96464,ostermann,96447,96450,ich,ostermann
@@ -567,6 +571,7 @@ qd,mvqs.0,118746,118805,anatol_galizyn,118766,118769,mir,anatol_galizyn
 qd,mvqs.0,118810,119046,ostermann,118832,118838,meinem,ostermann
 qd,mvqs.0,119355,120397,ostermann,119445,119448,ich,ostermann
 qd,mvqs.0,119355,120397,ostermann,119935,119938,Ich,ostermann
+qd,mvqs.0,120563,120679,wolinski,120657,120660,ich,wolinski
 qd,mvqs.0,121155,121242,anna,121206,121209,Ich,anna
 qd,mvqs.0,121155,121242,anna,121229,121232,mir,anna
 qd,mvqs.0,121283,121361,anna,121336,121340,Mein,anna
@@ -601,6 +606,7 @@ qd,mvqs.0,126959,127191,wolinski,127022,127026,mich,wolinski
 qd,mvqs.0,126959,127191,wolinski,127038,127041,Ich,wolinski
 qd,mvqs.0,127196,127260,eichler,127206,127209,Ich,eichler
 qd,mvqs.0,127265,127307,puschkin,127276,127279,Ich,puschkin
+qd,mvqs.0,127942,127977,wolinski,127962,127965,ich,wolinski
 qd,mvqs.0,128184,128492,wolinski,128284,128287,ich,wolinski
 qd,mvqs.0,128184,128492,wolinski,128303,128306,ich,wolinski
 qd,mvqs.0,128184,128492,wolinski,128335,128338,Ich,wolinski
@@ -615,6 +621,7 @@ qd,mvqs.0,130672,130963,kurakin,130746,130750,mich,kurakin
 qd,mvqs.0,131053,131140,kurakin,131130,131134,mich,kurakin
 qd,mvqs.0,131982,132554,anatol_galizyn,132388,132391,Mir,anatol_galizyn
 qd,mvqs.0,131982,132554,anatol_galizyn,132473,132476,mir,anatol_galizyn
+qd,mvqs.0,132605,133112,anatol_galizyn,132619,132622,ich,anatol_galizyn
 qd,mvqs.0,132605,133112,anatol_galizyn,132855,132858,mir,anatol_galizyn
 qd,mvqs.0,132605,133112,anatol_galizyn,132998,133002,mich,anatol_galizyn
 qd,mvqs.0,132605,133112,anatol_galizyn,133055,133061,meiner,anatol_galizyn
@@ -666,6 +673,7 @@ qd,mvqs.0,141745,141799,anatol_galizyn,141764,141767,ich,anatol_galizyn
 qd,mvqs.0,141949,142141,wolinski,141965,141968,ich,wolinski
 qd,mvqs.0,141949,142141,wolinski,142007,142010,Ich,wolinski
 qd,mvqs.0,141949,142141,wolinski,142079,142082,Ich,wolinski
+qd,mvqs.0,141949,142141,wolinski,142090,142093,mir,wolinski
 qd,mvqs.0,142193,142309,wolinski,142236,142239,Ich,wolinski
 qd,mvqs.0,142193,142309,wolinski,142285,142289,mich,wolinski
 qd,mvqs.0,144701,144808,kurakin,144773,144777,mich,kurakin
@@ -682,6 +690,7 @@ qd,mvqs.0,146506,146541,maria,146514,146517,Ich,maria
 qd,mvqs.0,146723,146925,maria,146759,146762,Ich,maria
 qd,mvqs.0,146723,146925,maria,146893,146896,Ich,maria
 qd,mvqs.0,147001,147102,maria,147034,147037,Ich,maria
+qd,mvqs.0,147001,147102,maria,147088,147091,mir,maria
 qd,mvqs.0,147107,147234,anna,147143,147147,mich,anna
 qd,mvqs.0,147609,147977,anna,147672,147675,Ich,anna
 qd,mvqs.0,147609,147977,anna,147702,147706,mich,anna
@@ -704,6 +713,7 @@ qd,mvqs.0,151451,151477,anna,151461,151466,meine,anna
 qd,mvqs.0,151512,151561,anna,151522,151527,meine,anna
 qd,mvqs.0,151512,151561,anna,151549,151553,mich,anna
 qd,mvqs.0,151566,151618,anatol_galizyn,151575,151578,Ich,anatol_galizyn
+qd,mvqs.0,151623,151678,anna,151661,151664,ich,anna
 qd,mvqs.0,151713,151862,anna,151791,151795,mich,anna
 qd,mvqs.0,151713,151862,anna,151812,151816,mich,anna
 qd,mvqs.0,151713,151862,anna,151841,151844,mir,anna

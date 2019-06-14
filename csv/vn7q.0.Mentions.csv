@@ -11,6 +11,7 @@ qd,vn7q.0,952,2140,jago,1067,1071,mich,jago
 qd,vn7q.0,952,2140,jago,1123,1126,Ich,jago
 qd,vn7q.0,952,2140,jago,1133,1139,meinen,jago
 qd,vn7q.0,952,2140,jago,1159,1162,mir,jago
+qd,vn7q.0,952,2140,jago,1341,1347,meinen,jago
 qd,vn7q.0,952,2140,jago,1413,1416,ich,jago
 qd,vn7q.0,952,2140,jago,1417,1423,meinen,jago
 qd,vn7q.0,952,2140,jago,1462,1465,mir,jago
@@ -20,6 +21,7 @@ qd,vn7q.0,2146,2201,rodrigo,2183,2186,ich,rodrigo
 qd,vn7q.0,2206,2484,jago,2413,2417,mich,jago
 qd,vn7q.0,2490,2528,rodrigo,2509,2512,ich,rodrigo
 qd,vn7q.0,2533,3673,jago,2562,2565,Ich,jago
+qd,vn7q.0,2533,3673,jago,2580,2583,mir,jago
 qd,vn7q.0,2533,3673,jago,2885,2888,mir,jago
 qd,vn7q.0,2533,3673,jago,3198,3202,mein,jago
 qd,vn7q.0,2533,3673,jago,3272,3275,ich,jago
@@ -84,6 +86,7 @@ qd,vn7q.0,9456,9663,brabantio,9510,9513,ich,brabantio
 qd,vn7q.0,9456,9663,brabantio,9534,9537,ich,brabantio
 qd,vn7q.0,9456,9663,brabantio,9641,9644,ich,brabantio
 qd,vn7q.0,9766,10002,jago,9799,9802,ich,jago
+qd,vn7q.0,9766,10002,jago,9828,9831,ich,jago
 qd,vn7q.0,9766,10002,jago,9892,9895,mir,jago
 qd,vn7q.0,9766,10002,jago,9928,9934,meinem,jago
 qd,vn7q.0,9766,10002,jago,9963,9966,ich,jago
@@ -135,6 +138,7 @@ qd,vn7q.0,15460,15633,herzog,15597,15600,ich,herzog
 qd,vn7q.0,15460,15633,herzog,15628,15632,mich,herzog
 qd,vn7q.0,15802,15917,matrose,15864,15867,mir,matrose
 qd,vn7q.0,16829,16894,erster_senator,16863,16866,ich,erster_senator
+qd,vn7q.0,16829,16894,erster_senator,16867,16870,mir,erster_senator
 qd,vn7q.0,17486,17692,herzog,17602,17605,Ich,herzog
 qd,vn7q.0,17698,18019,brabantio,17720,17723,mir,brabantio
 qd,vn7q.0,17698,18019,brabantio,17725,17729,mein,brabantio
@@ -232,6 +236,7 @@ qd,vn7q.0,26211,26661,othello,26339,26343,mich,othello
 qd,vn7q.0,26211,26661,othello,26476,26480,mich,othello
 qd,vn7q.0,26211,26661,othello,26510,26513,ich,othello
 qd,vn7q.0,26211,26661,othello,26535,26539,mein,othello
+qd,vn7q.0,26719,26751,brabantio,26742,26745,ich,brabantio
 qd,vn7q.0,26756,26774,othello,26770,26773,ich,othello
 qd,vn7q.0,26779,27038,desdemona,26796,26799,ich,desdemona
 qd,vn7q.0,26779,27038,desdemona,26822,26825,ich,desdemona
@@ -251,6 +256,7 @@ qd,vn7q.0,27084,27616,desdemona,27496,27502,meiner,desdemona
 qd,vn7q.0,27084,27616,desdemona,27536,27539,mir,desdemona
 qd,vn7q.0,27084,27616,desdemona,27597,27601,mich,desdemona
 qd,vn7q.0,27622,28343,othello,27655,27658,ich,othello
+qd,vn7q.0,27622,28343,othello,27722,27725,mir,othello
 qd,vn7q.0,27622,28343,othello,27740,27743,ich,othello
 qd,vn7q.0,27622,28343,othello,27771,27777,meiner,othello
 qd,vn7q.0,27622,28343,othello,27978,27981,Ich,othello
@@ -296,6 +302,7 @@ qd,vn7q.0,31646,33265,jago,32056,32059,ich,jago
 qd,vn7q.0,31646,33265,jago,32975,32981,meinen,jago
 qd,vn7q.0,33270,33344,rodrigo,33285,33288,ich,rodrigo
 qd,vn7q.0,33270,33344,rodrigo,33289,33294,meine,rodrigo
+qd,vn7q.0,33270,33344,rodrigo,33325,33328,ich,rodrigo
 qd,vn7q.0,33349,33836,jago,33360,33364,mich,jago
 qd,vn7q.0,33349,33836,jago,33410,33413,ich,jago
 qd,vn7q.0,33349,33836,jago,33474,33477,ich,jago
@@ -340,6 +347,7 @@ qd,vn7q.0,40258,40525,cassio,40449,40454,meine,cassio
 qd,vn7q.0,40531,40637,jago,40585,40588,mir,jago
 qd,vn7q.0,40684,40873,jago,40720,40723,ich,jago
 qd,vn7q.0,40684,40873,jago,40736,40739,ich,jago
+qd,vn7q.0,40684,40873,jago,40791,40794,ich,jago
 qd,vn7q.0,41150,41262,jago,41188,41191,ich,jago
 qd,vn7q.0,41268,41311,emilia,41286,41290,mein,emilia
 qd,vn7q.0,41345,41410,desdemona,41382,41385,mir,desdemona
@@ -366,9 +374,11 @@ qd,vn7q.0,43966,44659,jago,44552,44555,ich,jago
 qd,vn7q.0,43966,44659,jago,44635,44638,Ich,jago
 qd,vn7q.0,44804,44837,othello,44815,44820,meine,othello
 qd,vn7q.0,44842,44866,desdemona,44853,44857,Mein,desdemona
+qd,vn7q.0,44871,45366,othello,44898,44902,mich,othello
 qd,vn7q.0,44871,45366,othello,44915,44920,meine,othello
 qd,vn7q.0,44871,45366,othello,44952,44955,mir,othello
 qd,vn7q.0,44871,45366,othello,44959,44963,mein,othello
+qd,vn7q.0,44871,45366,othello,45210,45213,mir,othello
 qd,vn7q.0,44871,45366,othello,45236,45239,ich,othello
 qd,vn7q.0,44871,45366,othello,45281,45285,mein,othello
 qd,vn7q.0,44871,45366,othello,45318,45321,mir,othello
@@ -413,6 +423,7 @@ qd,vn7q.0,50351,51579,jago,51155,51158,mir,jago
 qd,vn7q.0,50351,51579,jago,51196,51199,ich,jago
 qd,vn7q.0,50351,51579,jago,51304,51307,ich,jago
 qd,vn7q.0,50351,51579,jago,51317,51321,mein,jago
+qd,vn7q.0,50351,51579,jago,51349,51352,mir,jago
 qd,vn7q.0,50351,51579,jago,51362,51366,mich,jago
 qd,vn7q.0,50351,51579,jago,51376,51380,mich,jago
 qd,vn7q.0,50351,51579,jago,51387,51390,ich,jago
@@ -500,6 +511,7 @@ qd,vn7q.0,62202,62823,othello,62447,62450,mir,othello
 qd,vn7q.0,62202,62823,othello,62557,62560,mir,othello
 qd,vn7q.0,62202,62823,othello,62576,62580,mein,othello
 qd,vn7q.0,62202,62823,othello,62609,62613,mich,othello
+qd,vn7q.0,62948,64116,jago,62964,62967,mir,jago
 qd,vn7q.0,62948,64116,jago,62987,62990,Ich,jago
 qd,vn7q.0,62948,64116,jago,63077,63080,ich,jago
 qd,vn7q.0,62948,64116,jago,63151,63155,mein,jago
@@ -583,6 +595,7 @@ qd,vn7q.0,72476,72518,cassio,72495,72499,mein,cassio
 qd,vn7q.0,72523,72587,narr,72562,72565,ich,narr
 qd,vn7q.0,72523,72587,narr,72573,72576,ich,narr
 qd,vn7q.0,72592,72854,cassio,72601,72604,Ich,cassio
+qd,vn7q.0,72860,72986,narr,72936,72939,ich,narr
 qd,vn7q.0,73088,73281,cassio,73097,73100,Ich,cassio
 qd,vn7q.0,73088,73281,cassio,73162,73166,mein,cassio
 qd,vn7q.0,73088,73281,cassio,73183,73186,ich,cassio
@@ -655,6 +668,7 @@ qd,vn7q.0,78983,79107,othello,79038,79041,ich,othello
 qd,vn7q.0,78983,79107,othello,79056,79059,mir,othello
 qd,vn7q.0,78983,79107,othello,79073,79077,mich,othello
 qd,vn7q.0,78983,79107,othello,79096,79099,mir,othello
+qd,vn7q.0,79113,79172,desdemona,79129,79132,ich,desdemona
 qd,vn7q.0,79113,79172,desdemona,79161,79165,mein,desdemona
 qd,vn7q.0,79177,79233,othello,79196,79200,mein,othello
 qd,vn7q.0,79177,79233,othello,79207,79210,Ich,othello
@@ -685,6 +699,7 @@ qd,vn7q.0,81371,81424,jago,81396,81399,ich,jago
 qd,vn7q.0,81429,81592,othello,81468,81471,Ich,othello
 qd,vn7q.0,81429,81592,othello,81491,81494,mir,othello
 qd,vn7q.0,81598,82000,jago,81605,81609,Mein,jago
+qd,vn7q.0,81598,82000,jago,81689,81692,ich,jago
 qd,vn7q.0,82148,82624,jago,82155,82158,Ich,jago
 qd,vn7q.0,82148,82624,jago,82209,82212,ich,jago
 qd,vn7q.0,82148,82624,jago,82230,82233,ich,jago
@@ -707,6 +722,7 @@ qd,vn7q.0,83730,84562,othello,83770,83774,Mein,othello
 qd,vn7q.0,83730,84562,othello,83943,83947,mich,othello
 qd,vn7q.0,83730,84562,othello,83969,83972,ich,othello
 qd,vn7q.0,83730,84562,othello,83984,83990,meiner,othello
+qd,vn7q.0,83730,84562,othello,84084,84087,mir,othello
 qd,vn7q.0,83730,84562,othello,84113,84117,mein,othello
 qd,vn7q.0,83730,84562,othello,84281,84284,ich,othello
 qd,vn7q.0,83730,84562,othello,84292,84298,meinen,othello
@@ -747,6 +763,7 @@ qd,vn7q.0,87076,87641,jago,87099,87103,Mein,jago
 qd,vn7q.0,87076,87641,jago,87113,87116,ich,jago
 qd,vn7q.0,87076,87641,jago,87513,87516,ich,jago
 qd,vn7q.0,87076,87641,jago,87563,87566,ich,jago
+qd,vn7q.0,87076,87641,jago,87581,87584,ich,jago
 qd,vn7q.0,87076,87641,jago,87621,87625,mein,jago
 qd,vn7q.0,87647,87685,othello,87671,87676,meine,othello
 qd,vn7q.0,87690,87734,jago,87714,87717,ich,jago
@@ -779,7 +796,9 @@ qd,vn7q.0,90006,90032,emilia,90023,90026,mir,emilia
 qd,vn7q.0,90075,90159,emilia,90131,90134,mir,emilia
 qd,vn7q.0,90196,90307,emilia,90282,90285,mir,emilia
 qd,vn7q.0,90344,90462,emilia,90401,90404,ich,emilia
+qd,vn7q.0,90643,90769,emilia,90689,90692,mir,emilia
 qd,vn7q.0,90775,91490,jago,90811,90814,ich,jago
+qd,vn7q.0,90775,91490,jago,90867,90870,ich,jago
 qd,vn7q.0,90775,91490,jago,90890,90894,mich,jago
 qd,vn7q.0,90775,91490,jago,90914,90917,Ich,jago
 qd,vn7q.0,90775,91490,jago,91119,91125,meinem,jago
@@ -895,11 +914,13 @@ qd,vn7q.0,101619,102205,othello,101637,101640,ich,othello
 qd,vn7q.0,101619,102205,othello,101666,101672,meiner,othello
 qd,vn7q.0,101619,102205,othello,101816,101822,meinen,othello
 qd,vn7q.0,101619,102205,othello,101995,101998,mir,othello
+qd,vn7q.0,101619,102205,othello,102010,102013,mir,othello
 qd,vn7q.0,101619,102205,othello,102022,102026,mein,othello
 qd,vn7q.0,101619,102205,othello,102037,102041,mich,othello
 qd,vn7q.0,102616,102669,desdemona,102645,102648,ich,desdemona
 qd,vn7q.0,102831,102857,desdemona,102853,102856,mir,desdemona
 qd,vn7q.0,102959,102995,desdemona,102970,102973,Ich,desdemona
+qd,vn7q.0,103000,103035,othello,103029,103032,mir,othello
 qd,vn7q.0,103040,103195,desdemona,103063,103066,ich,desdemona
 qd,vn7q.0,103040,103195,desdemona,103081,103084,ich,desdemona
 qd,vn7q.0,103040,103195,desdemona,103135,103138,mir,desdemona
@@ -916,6 +937,7 @@ qd,vn7q.0,104096,104651,cassio,104251,104254,ich,cassio
 qd,vn7q.0,104096,104651,cassio,104272,104278,meines,cassio
 qd,vn7q.0,104096,104651,cassio,104336,104340,mein,cassio
 qd,vn7q.0,104096,104651,cassio,104464,104467,Mir,cassio
+qd,vn7q.0,104096,104651,cassio,104513,104516,mir,cassio
 qd,vn7q.0,104096,104651,cassio,104563,104566,ich,cassio
 qd,vn7q.0,104096,104651,cassio,104567,104570,mir,cassio
 qd,vn7q.0,104657,105110,desdemona,104674,104678,mein,desdemona
@@ -925,6 +947,7 @@ qd,vn7q.0,104657,105110,desdemona,104755,104759,mein,desdemona
 qd,vn7q.0,104657,105110,desdemona,104766,104769,ich,desdemona
 qd,vn7q.0,104657,105110,desdemona,104846,104849,mir,desdemona
 qd,vn7q.0,104657,105110,desdemona,104882,104885,ich,desdemona
+qd,vn7q.0,104657,105110,desdemona,104956,104959,ich,desdemona
 qd,vn7q.0,104657,105110,desdemona,105025,105028,ich,desdemona
 qd,vn7q.0,104657,105110,desdemona,105045,105048,ich,desdemona
 qd,vn7q.0,104657,105110,desdemona,105070,105073,ich,desdemona
@@ -948,12 +971,15 @@ qd,vn7q.0,107317,107540,cassio,107339,107343,mein,cassio
 qd,vn7q.0,107317,107540,cassio,107351,107355,Mich,cassio
 qd,vn7q.0,107317,107540,cassio,107408,107411,ich,cassio
 qd,vn7q.0,107714,107899,cassio,107853,107856,mir,cassio
+qd,vn7q.0,107714,107899,cassio,107884,107887,mir,cassio
 qd,vn7q.0,107936,108148,cassio,107945,107948,Ich,cassio
 qd,vn7q.0,107936,108148,cassio,107967,107970,ich,cassio
 qd,vn7q.0,107936,108148,cassio,107982,107988,meinem,cassio
 qd,vn7q.0,107936,108148,cassio,108020,108023,mir,cassio
+qd,vn7q.0,107936,108148,cassio,108079,108082,ich,cassio
 qd,vn7q.0,107936,108148,cassio,108130,108134,mich,cassio
 qd,vn7q.0,108197,108321,cassio,108206,108209,Ich,cassio
+qd,vn7q.0,108197,108321,cassio,108270,108273,mir,cassio
 qd,vn7q.0,108197,108321,cassio,108303,108307,mich,cassio
 qd,vn7q.0,108356,108397,cassio,108375,108378,ich,cassio
 qd,vn7q.0,108402,108537,bianca,108423,108427,mich,bianca
@@ -1000,6 +1026,7 @@ qd,vn7q.0,115103,115139,cassio,115122,115125,mir,cassio
 qd,vn7q.0,115144,115178,jago,115151,115154,Ich,jago
 qd,vn7q.0,115183,115241,othello,115203,115206,Ich,othello
 qd,vn7q.0,115246,115414,cassio,115356,115359,ich,cassio
+qd,vn7q.0,115246,115414,cassio,115391,115394,ich,cassio
 qd,vn7q.0,115419,115487,othello,115451,115454,mir,othello
 qd,vn7q.0,115492,115699,cassio,115533,115537,mich,cassio
 qd,vn7q.0,115492,115699,cassio,115561,115564,ich,cassio
@@ -1015,6 +1042,7 @@ qd,vn7q.0,116103,116165,jago,116110,116114,Mein,jago
 qd,vn7q.0,116171,116256,cassio,116238,116241,mir,cassio
 qd,vn7q.0,116261,116749,bianca,116368,116371,mir,bianca
 qd,vn7q.0,116261,116749,bianca,116390,116393,Ich,bianca
+qd,vn7q.0,116261,116749,bianca,116422,116425,ich,bianca
 qd,vn7q.0,116261,116749,bianca,116434,116437,Ich,bianca
 qd,vn7q.0,116261,116749,bianca,116623,116626,ich,bianca
 qd,vn7q.0,116261,116749,bianca,116708,116711,ich,bianca
@@ -1160,6 +1188,7 @@ qd,vn7q.0,132336,132396,rodrigo,132346,132349,Ich,rodrigo
 qd,vn7q.0,132336,132396,rodrigo,132385,132388,mir,rodrigo
 qd,vn7q.0,132438,132800,rodrigo,132470,132474,mich,rodrigo
 qd,vn7q.0,132438,132800,rodrigo,132514,132518,mich,rodrigo
+qd,vn7q.0,132438,132800,rodrigo,132533,132536,mir,rodrigo
 qd,vn7q.0,132438,132800,rodrigo,132594,132600,meiner,rodrigo
 qd,vn7q.0,132438,132800,rodrigo,132646,132649,Ich,rodrigo
 qd,vn7q.0,132438,132800,rodrigo,132701,132705,mich,rodrigo
@@ -1244,6 +1273,7 @@ qd,vn7q.0,139329,139499,desdemona,139341,139344,Ich,desdemona
 qd,vn7q.0,139686,139770,emilia,139695,139698,Ich,emilia
 qd,vn7q.0,139686,139770,emilia,139742,139745,Ich,emilia
 qd,vn7q.0,139959,140346,emilia,139975,139978,ich,emilia
+qd,vn7q.0,139959,140346,emilia,140023,140026,ich,emilia
 qd,vn7q.0,139959,140346,emilia,140060,140063,ich,emilia
 qd,vn7q.0,139959,140346,emilia,140326,140329,ich,emilia
 qd,vn7q.0,140351,140435,desdemona,140363,140366,Ich,desdemona
@@ -1280,6 +1310,7 @@ qd,vn7q.0,144877,144955,cassio,144943,144946,mir,cassio
 qd,vn7q.0,145018,145093,cassio,145043,145046,ich,cassio
 qd,vn7q.0,145213,145241,rodrigo,145232,145235,mir,rodrigo
 qd,vn7q.0,145774,145812,cassio,145782,145785,Ich,cassio
+qd,vn7q.0,145817,145918,jago,145880,145883,ich,jago
 qd,vn7q.0,146014,146089,bianca,146044,146048,mein,bianca
 qd,vn7q.0,146205,146268,gratiano,146215,146219,Mich,gratiano
 qd,vn7q.0,146205,146268,gratiano,146247,146250,ich,gratiano
@@ -1310,6 +1341,7 @@ qd,vn7q.0,148956,150067,othello,149115,149118,ich,othello
 qd,vn7q.0,148956,150067,othello,149132,149135,ich,othello
 qd,vn7q.0,148956,150067,othello,149352,149355,ich,othello
 qd,vn7q.0,148956,150067,othello,149397,149400,ich,othello
+qd,vn7q.0,148956,150067,othello,149443,149446,ich,othello
 qd,vn7q.0,148956,150067,othello,149535,149538,ich,othello
 qd,vn7q.0,148956,150067,othello,149600,149603,ich,othello
 qd,vn7q.0,148956,150067,othello,149626,149629,ich,othello
@@ -1346,7 +1378,9 @@ qd,vn7q.0,152246,152437,othello,152337,152341,mein,othello
 qd,vn7q.0,152246,152437,othello,152373,152376,ich,othello
 qd,vn7q.0,152246,152437,othello,152397,152400,ich,othello
 qd,vn7q.0,152246,152437,othello,152420,152423,Ich,othello
+qd,vn7q.0,152443,152552,desdemona,152492,152495,ich,desdemona
 qd,vn7q.0,152829,152884,desdemona,152844,152849,meine,desdemona
+qd,vn7q.0,152829,152884,desdemona,152865,152868,mir,desdemona
 qd,vn7q.0,152889,152960,othello,152928,152932,mein,othello
 qd,vn7q.0,152966,153015,desdemona,153002,153005,ich,desdemona
 qd,vn7q.0,153020,153073,othello,153058,153064,meinen,othello
@@ -1375,6 +1409,7 @@ qd,vn7q.0,155492,155588,desdemona,155514,155517,ich,desdemona
 qd,vn7q.0,155492,155588,desdemona,155548,155552,mich,desdemona
 qd,vn7q.0,155492,155588,desdemona,155553,155559,meinem,desdemona
 qd,vn7q.0,155666,155722,othello,155705,155708,ich,othello
+qd,vn7q.0,155728,155778,emilia,155757,155760,ich,emilia
 qd,vn7q.0,155783,155853,othello,155834,155837,Ich,othello
 qd,vn7q.0,156183,156373,othello,156249,156252,ich,othello
 qd,vn7q.0,156183,156373,othello,156287,156290,ich,othello
@@ -1388,6 +1423,7 @@ qd,vn7q.0,156804,156868,othello,156844,156847,Ich,othello
 qd,vn7q.0,156874,156965,emilia,156930,156934,Mein,emilia
 qd,vn7q.0,156971,157084,othello,157036,157040,Mein,othello
 qd,vn7q.0,157390,157723,emilia,157429,157432,mir,emilia
+qd,vn7q.0,157390,157723,emilia,157450,157453,ich,emilia
 qd,vn7q.0,157390,157723,emilia,157547,157551,mich,emilia
 qd,vn7q.0,157390,157723,emilia,157566,157569,Ich,emilia
 qd,vn7q.0,157390,157723,emilia,157649,157654,meine,emilia

@@ -5,6 +5,7 @@ qd,r10b.0,3525,3622,kurfürstin,3570,3574,mich,kurfürstin
 qd,r10b.0,3628,3910,hohenzollern,3733,3736,ich,hohenzollern
 qd,r10b.0,3628,3910,hohenzollern,3854,3857,mir,hohenzollern
 qd,r10b.0,3628,3910,hohenzollern,3862,3866,mein,hohenzollern
+qd,r10b.0,3916,4065,der_kurfürst,3959,3962,ich,der_kurfürst
 qd,r10b.0,3916,4065,der_kurfürst,3974,3977,mir,der_kurfürst
 qd,r10b.0,4584,4641,der_kurfürst,4618,4624,meinem,der_kurfürst
 qd,r10b.0,4814,4916,der_kurfürst,4868,4871,ich,der_kurfürst
@@ -146,6 +147,7 @@ qd,r10b.0,30398,30586,kottwitz,30545,30548,Ich,kottwitz
 qd,r10b.0,30398,30586,kottwitz,30567,30570,mir,kottwitz
 qd,r10b.0,30592,30706,der_prinz_von_homburg,30678,30681,ich,der_prinz_von_homburg
 qd,r10b.0,30799,31014,der_prinz_von_homburg,30823,30826,Ich,der_prinz_von_homburg
+qd,r10b.0,30799,31014,der_prinz_von_homburg,30964,30968,mich,der_prinz_von_homburg
 qd,r10b.0,30799,31014,der_prinz_von_homburg,30990,30994,mich,der_prinz_von_homburg
 qd,r10b.0,31020,31177,kottwitz,31071,31074,ich,kottwitz
 qd,r10b.0,31020,31177,kottwitz,31100,31103,mir,kottwitz
@@ -236,6 +238,7 @@ qd,r10b.0,46717,47815,graf_sparren,46817,46820,mir,graf_sparren
 qd,r10b.0,46717,47815,graf_sparren,46847,46850,mir,graf_sparren
 qd,r10b.0,46717,47815,graf_sparren,46926,46929,ich,graf_sparren
 qd,r10b.0,46717,47815,graf_sparren,46971,46974,ich,graf_sparren
+qd,r10b.0,46717,47815,graf_sparren,47114,47117,ich,graf_sparren
 qd,r10b.0,46717,47815,graf_sparren,47399,47402,ich,graf_sparren
 qd,r10b.0,47820,47934,der_prinz_von_homburg,47867,47870,ich,der_prinz_von_homburg
 qd,r10b.0,47820,47934,der_prinz_von_homburg,47896,47899,ich,der_prinz_von_homburg
@@ -250,6 +253,7 @@ qd,r10b.0,49410,49481,prinzessin_natalie,49457,49461,Mein,prinzessin_natalie
 qd,r10b.0,49410,49481,prinzessin_natalie,49477,49480,ich,prinzessin_natalie
 qd,r10b.0,49486,49519,kurfürstin,49515,49518,mir,kurfürstin
 qd,r10b.0,49732,49903,kurfürstin,49813,49816,ich,kurfürstin
+qd,r10b.0,49909,50014,der_prinz_von_homburg,49977,49980,ich,der_prinz_von_homburg
 qd,r10b.0,49909,50014,der_prinz_von_homburg,49983,49986,mir,der_prinz_von_homburg
 qd,r10b.0,49909,50014,der_prinz_von_homburg,50002,50005,mir,der_prinz_von_homburg
 qd,r10b.0,50020,50069,kurfürstin,50044,50047,ich,kurfürstin
@@ -260,6 +264,7 @@ qd,r10b.0,50772,51141,der_kurfürst,51045,51048,ich,der_kurfürst
 qd,r10b.0,50772,51141,der_kurfürst,51085,51088,ich,der_kurfürst
 qd,r10b.0,51147,51188,truchss,51167,51171,mein,truchss
 qd,r10b.0,51193,51224,der_kurfürst,51216,51219,mir,der_kurfürst
+qd,r10b.0,51229,51462,truchss,51284,51287,mir,truchss
 qd,r10b.0,51468,51940,der_kurfürst,51562,51565,ich,der_kurfürst
 qd,r10b.0,51468,51940,der_kurfürst,51651,51654,mir,der_kurfürst
 qd,r10b.0,51468,51940,der_kurfürst,51704,51707,ich,der_kurfürst
@@ -304,6 +309,7 @@ qd,r10b.0,57208,57241,der_prinz_von_homburg,57231,57234,Mir,der_prinz_von_hombur
 qd,r10b.0,57345,57436,der_prinz_von_homburg,57387,57390,Ich,der_prinz_von_homburg
 qd,r10b.0,57345,57436,der_prinz_von_homburg,57418,57421,mir,der_prinz_von_homburg
 qd,r10b.0,57441,57477,hohenzollern,57457,57460,Ich,hohenzollern
+qd,r10b.0,57482,57714,der_prinz_von_homburg,57573,57576,mir,der_prinz_von_homburg
 qd,r10b.0,57482,57714,der_prinz_von_homburg,57646,57649,mir,der_prinz_von_homburg
 qd,r10b.0,58303,58441,der_prinz_von_homburg,58336,58339,ich,der_prinz_von_homburg
 qd,r10b.0,58303,58441,der_prinz_von_homburg,58408,58412,mich,der_prinz_von_homburg
@@ -496,6 +502,7 @@ qd,r10b.0,80598,80901,prinzessin_natalie,80836,80839,Ich,prinzessin_natalie
 qd,r10b.0,80598,80901,prinzessin_natalie,80861,80864,ich,prinzessin_natalie
 qd,r10b.0,80906,81046,der_kurfürst,80928,80932,mein,der_kurfürst
 qd,r10b.0,81184,81297,prinzessin_natalie,81234,81240,meinem,prinzessin_natalie
+qd,r10b.0,81184,81297,prinzessin_natalie,81278,81281,ich,prinzessin_natalie
 qd,r10b.0,82096,82151,prinzessin_natalie,82109,82112,mir,prinzessin_natalie
 qd,r10b.0,82096,82151,prinzessin_natalie,82114,82117,mir,prinzessin_natalie
 qd,r10b.0,82156,82313,graf_reuss,82169,82173,Mein,graf_reuss
@@ -615,9 +622,11 @@ qd,r10b.0,96075,96235,der_kurfürst,96183,96187,mein,der_kurfürst
 qd,r10b.0,96241,96536,feldmarschall,96320,96324,mich,feldmarschall
 qd,r10b.0,96542,96681,der_kurfürst,96564,96567,mir,der_kurfürst
 qd,r10b.0,96757,96814,der_kurfürst,96789,96793,mein,der_kurfürst
+qd,r10b.0,96819,97064,feldmarschall,97001,97004,ich,feldmarschall
 qd,r10b.0,97123,97361,feldmarschall,97143,97146,mir,feldmarschall
 qd,r10b.0,97123,97361,feldmarschall,97208,97214,meiner,feldmarschall
 qd,r10b.0,97367,97512,der_kurfürst,97399,97402,mir,der_kurfürst
+qd,r10b.0,97367,97512,der_kurfürst,97413,97416,ich,der_kurfürst
 qd,r10b.0,97367,97512,der_kurfürst,97432,97438,meinem,der_kurfürst
 qd,r10b.0,97367,97512,der_kurfürst,97479,97482,ich,der_kurfürst
 qd,r10b.0,97518,98082,feldmarschall,97540,97543,ich,feldmarschall
@@ -630,6 +639,7 @@ qd,r10b.0,98877,99217,der_kurfürst,99119,99122,ich,der_kurfürst
 qd,r10b.0,99458,99613,kottwitz,99508,99512,mein,kottwitz
 qd,r10b.0,99458,99613,kottwitz,99532,99535,mir,kottwitz
 qd,r10b.0,99458,99613,kottwitz,99542,99545,ich,kottwitz
+qd,r10b.0,99619,99719,der_kurfürst,99650,99653,ich,der_kurfürst
 qd,r10b.0,99619,99719,der_kurfürst,99667,99670,mir,der_kurfürst
 qd,r10b.0,99773,99851,der_kurfürst,99823,99826,ich,der_kurfürst
 qd,r10b.0,99857,99905,kottwitz,99889,99893,mich,kottwitz
@@ -700,6 +710,7 @@ qd,r10b.0,108327,109056,hohenzollern,108778,108781,mir,hohenzollern
 qd,r10b.0,109120,109605,hohenzollern,109474,109477,mir,hohenzollern
 qd,r10b.0,109641,110260,hohenzollern,110091,110095,mein,hohenzollern
 qd,r10b.0,110379,110787,hohenzollern,110675,110679,mich,hohenzollern
+qd,r10b.0,110379,110787,hohenzollern,110723,110726,mir,hohenzollern
 qd,r10b.0,110379,110787,hohenzollern,110760,110764,mich,hohenzollern
 qd,r10b.0,110793,111032,feldmarschall,110853,110856,ich,feldmarschall
 qd,r10b.0,110793,111032,feldmarschall,110877,110880,ich,feldmarschall
@@ -770,6 +781,7 @@ qd,r10b.0,117007,117184,der_prinz_von_homburg,117086,117090,mich,der_prinz_von_h
 qd,r10b.0,117007,117184,der_prinz_von_homburg,117146,117149,ich,der_prinz_von_homburg
 qd,r10b.0,117189,117323,prinzessin_natalie,117273,117277,mich,prinzessin_natalie
 qd,r10b.0,117552,117638,kottwitz,117570,117574,Mein,kottwitz
+qd,r10b.0,117644,118395,der_kurfürst,117696,117699,ich,der_kurfürst
 qd,r10b.0,117644,118395,der_kurfürst,117957,117963,meines,der_kurfürst
 qd,r10b.0,117644,118395,der_kurfürst,117984,117987,ich,der_kurfürst
 qd,r10b.0,117644,118395,der_kurfürst,118251,118255,mich,der_kurfürst

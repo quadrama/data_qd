@@ -14,6 +14,7 @@ qd,kjfc.0,5961,6058,detlev,6042,6045,Ich,detlev
 qd,kjfc.0,6147,6289,detlev,6168,6171,Ich,detlev
 qd,kjfc.0,6147,6289,detlev,6196,6201,meine,detlev
 qd,kjfc.0,6147,6289,detlev,6244,6247,ich,detlev
+qd,kjfc.0,6294,6376,dritter_diener,6359,6362,ich,dritter_diener
 qd,kjfc.0,6472,6807,dritter_diener,6489,6492,Ich,dritter_diener
 qd,kjfc.0,6846,7528,dritter_diener,6891,6894,mir,dritter_diener
 qd,kjfc.0,7533,7632,erster_diener,7553,7556,ich,erster_diener
@@ -88,6 +89,7 @@ qd,kjfc.0,21896,22003,ranzau,21927,21930,ich,ranzau
 qd,kjfc.0,22009,22888,köller,22069,22072,ich,köller
 qd,kjfc.0,22009,22888,köller,22153,22156,mir,köller
 qd,kjfc.0,22009,22888,köller,22343,22346,ich,köller
+qd,kjfc.0,22009,22888,köller,22347,22350,mir,köller
 qd,kjfc.0,22009,22888,köller,22362,22366,mich,köller
 qd,kjfc.0,22009,22888,köller,22416,22419,ich,köller
 qd,kjfc.0,22009,22888,köller,22453,22456,ich,köller
@@ -96,6 +98,7 @@ qd,kjfc.0,23147,23205,ranzau,23186,23189,Ich,ranzau
 qd,kjfc.0,23403,23512,köller,23421,23424,Ich,köller
 qd,kjfc.0,23518,23692,ranzau,23595,23598,mir,ranzau
 qd,kjfc.0,23518,23692,ranzau,23656,23659,ich,ranzau
+qd,kjfc.0,23698,23988,köller,23711,23714,ich,köller
 qd,kjfc.0,23698,23988,köller,23743,23746,ich,köller
 qd,kjfc.0,23994,24079,ranzau,24003,24006,Ich,ranzau
 qd,kjfc.0,23994,24079,ranzau,24057,24061,mich,ranzau
@@ -170,6 +173,7 @@ qd,kjfc.0,33744,34255,struensee,33852,33855,ich,struensee
 qd,kjfc.0,33744,34255,struensee,33879,33882,ich,struensee
 qd,kjfc.0,33744,34255,struensee,34007,34010,Ich,struensee
 qd,kjfc.0,33744,34255,struensee,34033,34036,ich,struensee
+qd,kjfc.0,33744,34255,struensee,34046,34049,mir,struensee
 qd,kjfc.0,33744,34255,struensee,34060,34064,Mich,struensee
 qd,kjfc.0,33744,34255,struensee,34131,34134,ich,struensee
 qd,kjfc.0,33744,34255,struensee,34139,34143,mein,struensee
@@ -184,12 +188,15 @@ qd,kjfc.0,34625,34684,struensee,34641,34644,ich,struensee
 qd,kjfc.0,34625,34684,struensee,34662,34665,ich,struensee
 qd,kjfc.0,34689,34747,ranzau,34697,34701,Mich,ranzau
 qd,kjfc.0,34813,34875,ranzau,34833,34837,Mich,ranzau
+qd,kjfc.0,34880,34979,struensee,34933,34936,ich,struensee
+qd,kjfc.0,34880,34979,struensee,34945,34948,mir,struensee
 qd,kjfc.0,34984,35182,ranzau,35167,35173,meinem,ranzau
 qd,kjfc.0,35188,35345,struensee,35335,35339,mein,struensee
 qd,kjfc.0,35351,35801,ranzau,35575,35578,Ich,ranzau
 qd,kjfc.0,35351,35801,ranzau,35603,35606,ich,ranzau
 qd,kjfc.0,35351,35801,ranzau,35627,35630,ich,ranzau
 qd,kjfc.0,35351,35801,ranzau,35680,35683,ich,ranzau
+qd,kjfc.0,35351,35801,ranzau,35693,35696,mir,ranzau
 qd,kjfc.0,35807,35904,struensee,35846,35849,mir,struensee
 qd,kjfc.0,35910,36863,ranzau,36121,36124,ich,ranzau
 qd,kjfc.0,36869,38423,struensee,36898,36901,ich,struensee
@@ -210,6 +217,7 @@ qd,kjfc.0,38482,39426,struensee,38687,38690,ich,struensee
 qd,kjfc.0,39585,41057,struensee,39597,39600,Ich,struensee
 qd,kjfc.0,39585,41057,struensee,39611,39615,mich,struensee
 qd,kjfc.0,39585,41057,struensee,39814,39818,mich,struensee
+qd,kjfc.0,39585,41057,struensee,39831,39834,ich,struensee
 qd,kjfc.0,39585,41057,struensee,40356,40359,ich,struensee
 qd,kjfc.0,41064,41327,ranzau,41073,41076,Ich,ranzau
 qd,kjfc.0,41064,41327,ranzau,41083,41086,ich,ranzau
@@ -217,6 +225,7 @@ qd,kjfc.0,41333,41430,struensee,41345,41348,Ich,struensee
 qd,kjfc.0,41632,41908,struensee,41788,41791,ich,struensee
 qd,kjfc.0,41914,42179,ranzau,41974,41977,mir,ranzau
 qd,kjfc.0,41914,42179,ranzau,42103,42106,Ich,ranzau
+qd,kjfc.0,42424,42769,ranzau,42446,42449,ich,ranzau
 qd,kjfc.0,42424,42769,ranzau,42469,42472,mir,ranzau
 qd,kjfc.0,42424,42769,ranzau,42574,42577,mir,ranzau
 qd,kjfc.0,42775,43338,struensee,42870,42873,ich,struensee
@@ -272,6 +281,7 @@ qd,kjfc.0,48190,49925,struensee,49402,49407,meine,struensee
 qd,kjfc.0,48190,49925,struensee,49794,49800,meinem,struensee
 qd,kjfc.0,48190,49925,struensee,49815,49818,mir,struensee
 qd,kjfc.0,48190,49925,struensee,49882,49885,ich,struensee
+qd,kjfc.0,48190,49925,struensee,49910,49913,ich,struensee
 qd,kjfc.0,49931,51518,pfarrer_struensee,49970,49974,mein,pfarrer_struensee
 qd,kjfc.0,49931,51518,pfarrer_struensee,50996,50999,ich,pfarrer_struensee
 qd,kjfc.0,49931,51518,pfarrer_struensee,51239,51242,mir,pfarrer_struensee
@@ -291,6 +301,7 @@ qd,kjfc.0,51781,54184,struensee,52468,52472,Mein,struensee
 qd,kjfc.0,51781,54184,struensee,52640,52644,mich,struensee
 qd,kjfc.0,51781,54184,struensee,52799,52802,ich,struensee
 qd,kjfc.0,51781,54184,struensee,52848,52851,ich,struensee
+qd,kjfc.0,51781,54184,struensee,52876,52879,ich,struensee
 qd,kjfc.0,51781,54184,struensee,52940,52946,meinem,struensee
 qd,kjfc.0,51781,54184,struensee,53120,53124,mich,struensee
 qd,kjfc.0,51781,54184,struensee,53164,53168,mich,struensee
@@ -314,6 +325,7 @@ qd,kjfc.0,54190,54573,pfarrer_struensee,54344,54347,Ich,pfarrer_struensee
 qd,kjfc.0,54190,54573,pfarrer_struensee,54394,54397,mir,pfarrer_struensee
 qd,kjfc.0,54190,54573,pfarrer_struensee,54525,54528,mir,pfarrer_struensee
 qd,kjfc.0,54579,54810,struensee,54605,54609,mein,struensee
+qd,kjfc.0,54579,54810,struensee,54631,54634,ich,struensee
 qd,kjfc.0,54579,54810,struensee,54646,54649,Ich,struensee
 qd,kjfc.0,54579,54810,struensee,54685,54689,mich,struensee
 qd,kjfc.0,54579,54810,struensee,54702,54708,meiner,struensee
@@ -352,17 +364,23 @@ qd,kjfc.0,57595,59123,mathilde,57647,57650,Ich,mathilde
 qd,kjfc.0,57595,59123,mathilde,57681,57687,meines,mathilde
 qd,kjfc.0,57595,59123,mathilde,57827,57831,mich,mathilde
 qd,kjfc.0,57595,59123,mathilde,57909,57915,meinem,mathilde
+qd,kjfc.0,57595,59123,mathilde,57952,57955,ich,mathilde
+qd,kjfc.0,57595,59123,mathilde,57985,57988,ich,mathilde
 qd,kjfc.0,57595,59123,mathilde,57999,58004,meine,mathilde
 qd,kjfc.0,57595,59123,mathilde,58036,58039,mir,mathilde
 qd,kjfc.0,59381,59690,mathilde,59505,59509,Mich,mathilde
 qd,kjfc.0,59381,59690,mathilde,59563,59566,ich,mathilde
 qd,kjfc.0,59381,59690,mathilde,59573,59578,meine,mathilde
+qd,kjfc.0,59733,60985,mathilde,59764,59767,mir,mathilde
 qd,kjfc.0,59733,60985,mathilde,59830,59833,ich,mathilde
+qd,kjfc.0,59733,60985,mathilde,59943,59946,ich,mathilde
 qd,kjfc.0,59733,60985,mathilde,59955,59958,ich,mathilde
 qd,kjfc.0,59733,60985,mathilde,60006,60010,mich,mathilde
 qd,kjfc.0,59733,60985,mathilde,60295,60299,mich,mathilde
 qd,kjfc.0,59733,60985,mathilde,60391,60394,ich,mathilde
 qd,kjfc.0,59733,60985,mathilde,60422,60426,mich,mathilde
+qd,kjfc.0,59733,60985,mathilde,60561,60564,ich,mathilde
+qd,kjfc.0,59733,60985,mathilde,60623,60626,ich,mathilde
 qd,kjfc.0,59733,60985,mathilde,60678,60681,mir,mathilde
 qd,kjfc.0,59733,60985,mathilde,60682,60686,mein,mathilde
 qd,kjfc.0,60991,61045,struensee,61002,61005,Mir,struensee
@@ -406,13 +424,16 @@ qd,kjfc.0,67047,67082,struensee,67058,67061,Ich,struensee
 qd,kjfc.0,67087,67114,hauptmann,67098,67101,Ich,hauptmann
 qd,kjfc.0,67163,67249,hauptmann,67220,67223,Ich,hauptmann
 qd,kjfc.0,67382,67526,mathilde,67437,67440,Ich,mathilde
+qd,kjfc.0,67382,67526,mathilde,67468,67471,mir,mathilde
 qd,kjfc.0,67382,67526,mathilde,67482,67485,Ich,mathilde
 qd,kjfc.0,67532,67556,hauptmann,67543,67546,Ich,hauptmann
 qd,kjfc.0,69827,70052,hauptmann,69877,69880,ich,hauptmann
 qd,kjfc.0,71303,71890,struensee,71428,71432,mich,struensee
+qd,kjfc.0,71303,71890,struensee,71449,71452,ich,struensee
 qd,kjfc.0,72011,72477,struensee,72027,72030,ich,struensee
 qd,kjfc.0,72011,72477,struensee,72087,72090,ich,struensee
 qd,kjfc.0,72011,72477,struensee,72091,72095,mich,struensee
+qd,kjfc.0,72011,72477,struensee,72140,72143,ich,struensee
 qd,kjfc.0,72011,72477,struensee,72371,72374,ich,struensee
 qd,kjfc.0,72518,72797,struensee,72549,72553,Mein,struensee
 qd,kjfc.0,72518,72797,struensee,72561,72564,ich,struensee
@@ -420,6 +441,7 @@ qd,kjfc.0,72518,72797,struensee,72648,72651,ich,struensee
 qd,kjfc.0,72518,72797,struensee,72690,72696,meinem,struensee
 qd,kjfc.0,72887,73007,struensee,72923,72927,mein,struensee
 qd,kjfc.0,73013,73097,mathilde,73069,73073,mich,mathilde
+qd,kjfc.0,73104,73282,struensee,73149,73152,ich,struensee
 qd,kjfc.0,73104,73282,struensee,73204,73210,meinen,struensee
 qd,kjfc.0,73387,73458,keith,73425,73428,ich,keith
 qd,kjfc.0,73523,74036,keith,73531,73534,Ich,keith
@@ -435,6 +457,7 @@ qd,kjfc.0,74208,74423,mathilde,74319,74322,Ich,mathilde
 qd,kjfc.0,74582,74800,hauptmann,74736,74739,ich,hauptmann
 qd,kjfc.0,75694,76251,struensee,75890,75893,ich,struensee
 qd,kjfc.0,75694,76251,struensee,76211,76214,Ich,struensee
+qd,kjfc.0,76292,76700,mathilde,76397,76400,ich,mathilde
 qd,kjfc.0,76706,76789,struensee,76729,76732,ich,struensee
 qd,kjfc.0,76706,76789,struensee,76778,76783,meine,struensee
 qd,kjfc.0,76795,77417,mathilde,76930,76933,mir,mathilde
@@ -480,9 +503,11 @@ qd,kjfc.0,83231,83702,struensee,83354,83357,mir,struensee
 qd,kjfc.0,83231,83702,struensee,83369,83372,ich,struensee
 qd,kjfc.0,83231,83702,struensee,83464,83467,Ich,struensee
 qd,kjfc.0,83231,83702,struensee,83612,83615,ich,struensee
+qd,kjfc.0,83231,83702,struensee,83636,83639,ich,struensee
 qd,kjfc.0,83231,83702,struensee,83681,83684,mir,struensee
 qd,kjfc.0,83742,84376,struensee,83790,83793,ich,struensee
 qd,kjfc.0,83742,84376,struensee,83851,83857,meines,struensee
+qd,kjfc.0,83742,84376,struensee,83881,83884,ich,struensee
 qd,kjfc.0,83742,84376,struensee,83972,83975,Ich,struensee
 qd,kjfc.0,83742,84376,struensee,84027,84030,ich,struensee
 qd,kjfc.0,83742,84376,struensee,84130,84134,mich,struensee
@@ -575,9 +600,11 @@ qd,kjfc.0,96158,96985,juliane,96838,96841,ich,juliane
 qd,kjfc.0,96158,96985,juliane,96895,96898,ich,juliane
 qd,kjfc.0,96158,96985,juliane,96912,96915,ich,juliane
 qd,kjfc.0,96158,96985,juliane,96974,96977,ich,juliane
+qd,kjfc.0,97150,97460,juliane,97299,97302,ich,juliane
 qd,kjfc.0,97150,97460,juliane,97329,97333,mein,juliane
 qd,kjfc.0,97466,97534,ein_kammerdiener,97501,97504,Ich,ein_kammerdiener
 qd,kjfc.0,97620,97864,kammerdiener,97664,97668,Mein,kammerdiener
+qd,kjfc.0,97620,97864,kammerdiener,97712,97715,mir,kammerdiener
 qd,kjfc.0,97903,97983,ranzau,97911,97914,Ich,ranzau
 qd,kjfc.0,98039,98076,juliane,98051,98054,mir,juliane
 qd,kjfc.0,98388,98646,juliane,98465,98468,mir,juliane
@@ -611,6 +638,7 @@ qd,kjfc.0,101657,102032,struensee,101816,101819,Ich,struensee
 qd,kjfc.0,101657,102032,struensee,101953,101956,Mir,struensee
 qd,kjfc.0,102562,102607,struensee,102583,102587,mein,struensee
 qd,kjfc.0,102612,102708,graf_brandt,102621,102624,Ich,graf_brandt
+qd,kjfc.0,102759,103032,graf_brandt,102773,102776,ich,graf_brandt
 qd,kjfc.0,102759,103032,graf_brandt,102822,102826,mich,graf_brandt
 qd,kjfc.0,102759,103032,graf_brandt,102872,102876,Mich,graf_brandt
 qd,kjfc.0,103038,103177,struensee,103050,103053,Ich,struensee
@@ -628,6 +656,7 @@ qd,kjfc.0,103484,104123,struensee,103766,103769,ich,struensee
 qd,kjfc.0,103484,104123,struensee,103839,103842,ich,struensee
 qd,kjfc.0,103484,104123,struensee,103869,103872,mir,struensee
 qd,kjfc.0,103484,104123,struensee,103917,103920,Ich,struensee
+qd,kjfc.0,103484,104123,struensee,103967,103970,ich,struensee
 qd,kjfc.0,103484,104123,struensee,104037,104041,mich,struensee
 qd,kjfc.0,103484,104123,struensee,104069,104072,mir,struensee
 qd,kjfc.0,103484,104123,struensee,104093,104097,mich,struensee
@@ -682,6 +711,7 @@ qd,kjfc.0,108168,109189,detlev,108926,108929,ich,detlev
 qd,kjfc.0,108168,109189,detlev,109066,109069,Ich,detlev
 qd,kjfc.0,108168,109189,detlev,109091,109094,mir,detlev
 qd,kjfc.0,109228,109970,detlev,109237,109240,Ich,detlev
+qd,kjfc.0,109228,109970,detlev,109283,109286,mir,detlev
 qd,kjfc.0,109228,109970,detlev,109302,109305,ich,detlev
 qd,kjfc.0,109228,109970,detlev,109527,109530,Ich,detlev
 qd,kjfc.0,109228,109970,detlev,109549,109552,ich,detlev
@@ -707,6 +737,7 @@ qd,kjfc.0,110818,110856,struensee,110834,110837,ich,struensee
 qd,kjfc.0,110861,110961,detlev,110887,110890,ich,detlev
 qd,kjfc.0,110967,111066,struensee,111006,111009,mir,struensee
 qd,kjfc.0,110967,111066,struensee,111026,111029,Mir,struensee
+qd,kjfc.0,111181,111347,struensee,111235,111238,ich,struensee
 qd,kjfc.0,111181,111347,struensee,111254,111257,ich,struensee
 qd,kjfc.0,111352,111405,detlev,111360,111363,Ich,detlev
 qd,kjfc.0,111352,111405,detlev,111379,111382,Ich,detlev
@@ -731,6 +762,7 @@ qd,kjfc.0,117225,118107,mathilde,117760,117763,ich,mathilde
 qd,kjfc.0,118203,118464,juliane,118213,118216,Ich,juliane
 qd,kjfc.0,118203,118464,juliane,118289,118293,Mich,juliane
 qd,kjfc.0,118203,118464,juliane,118373,118376,Mir,juliane
+qd,kjfc.0,118203,118464,juliane,118388,118391,ich,juliane
 qd,kjfc.0,118471,118703,mathilde,118482,118485,Ich,mathilde
 qd,kjfc.0,118471,118703,mathilde,118586,118592,meinem,mathilde
 qd,kjfc.0,118709,119198,juliane,118923,118926,Ich,juliane
@@ -777,6 +809,7 @@ qd,kjfc.0,123662,124248,mathilde,123814,123817,ich,mathilde
 qd,kjfc.0,123662,124248,mathilde,123899,123903,Mein,mathilde
 qd,kjfc.0,123662,124248,mathilde,123936,123939,ich,mathilde
 qd,kjfc.0,123662,124248,mathilde,123996,123999,ich,mathilde
+qd,kjfc.0,123662,124248,mathilde,124109,124112,ich,mathilde
 qd,kjfc.0,123662,124248,mathilde,124152,124155,mir,mathilde
 qd,kjfc.0,123662,124248,mathilde,124173,124176,ich,mathilde
 qd,kjfc.0,123662,124248,mathilde,124195,124198,ich,mathilde
@@ -801,6 +834,7 @@ qd,kjfc.0,126086,126290,struensee,126277,126280,mir,struensee
 qd,kjfc.0,126296,127081,mathilde,126307,126310,Ich,mathilde
 qd,kjfc.0,126296,127081,mathilde,126344,126347,ich,mathilde
 qd,kjfc.0,126296,127081,mathilde,126356,126359,Ich,mathilde
+qd,kjfc.0,126296,127081,mathilde,126382,126385,ich,mathilde
 qd,kjfc.0,126296,127081,mathilde,126403,126406,Ich,mathilde
 qd,kjfc.0,126296,127081,mathilde,126440,126443,ich,mathilde
 qd,kjfc.0,126296,127081,mathilde,126451,126455,Mein,mathilde
@@ -810,6 +844,7 @@ qd,kjfc.0,126296,127081,mathilde,126667,126670,mir,mathilde
 qd,kjfc.0,126296,127081,mathilde,126683,126686,ich,mathilde
 qd,kjfc.0,126296,127081,mathilde,126799,126802,ich,mathilde
 qd,kjfc.0,126296,127081,mathilde,126832,126835,ich,mathilde
+qd,kjfc.0,126296,127081,mathilde,126851,126854,ich,mathilde
 qd,kjfc.0,127127,127532,struensee,127344,127347,ich,struensee
 qd,kjfc.0,127127,127532,struensee,127351,127354,ich,struensee
 qd,kjfc.0,127127,127532,struensee,127364,127367,Mir,struensee
@@ -876,6 +911,7 @@ qd,kjfc.0,135793,135986,juliane,135909,135913,mein,juliane
 qd,kjfc.0,136029,136785,juliane,136051,136054,ich,juliane
 qd,kjfc.0,136029,136785,juliane,136069,136072,ich,juliane
 qd,kjfc.0,136029,136785,juliane,136522,136525,ich,juliane
+qd,kjfc.0,136029,136785,juliane,136564,136567,ich,juliane
 qd,kjfc.0,136029,136785,juliane,136697,136700,Ich,juliane
 qd,kjfc.0,136029,136785,juliane,136774,136777,ich,juliane
 qd,kjfc.0,137297,137770,köller,137351,137354,Ich,köller
@@ -914,6 +950,7 @@ qd,kjfc.0,142384,142862,schulmeister,142715,142718,Ich,schulmeister
 qd,kjfc.0,143045,144017,schulmeister,143082,143085,ich,schulmeister
 qd,kjfc.0,144023,144069,babe,144048,144051,ich,babe
 qd,kjfc.0,144613,145054,schulmeister,144754,144757,ich,schulmeister
+qd,kjfc.0,145059,145235,babe,145152,145155,ich,babe
 qd,kjfc.0,145059,145235,babe,145201,145205,mein,babe
 qd,kjfc.0,145287,145405,babe,145350,145353,ich,babe
 qd,kjfc.0,145410,145566,schulmeister,145465,145468,mir,schulmeister
@@ -944,6 +981,7 @@ qd,kjfc.0,149336,149758,flyns,149579,149583,mich,flyns
 qd,kjfc.0,149336,149758,flyns,149599,149603,mich,flyns
 qd,kjfc.0,149336,149758,flyns,149634,149637,ich,flyns
 qd,kjfc.0,149886,149954,flyns,149923,149927,mich,flyns
+qd,kjfc.0,149886,149954,flyns,149939,149942,mir,flyns
 qd,kjfc.0,149959,150127,schulmeister,150028,150031,ich,schulmeister
 qd,kjfc.0,150132,150368,babe,150195,150198,ich,babe
 qd,kjfc.0,150132,150368,babe,150327,150330,ich,babe
@@ -975,6 +1013,7 @@ qd,kjfc.0,158527,159940,ranzau,158914,158917,Ich,ranzau
 qd,kjfc.0,158527,159940,ranzau,158965,158969,mich,ranzau
 qd,kjfc.0,158527,159940,ranzau,158998,159001,Mir,ranzau
 qd,kjfc.0,158527,159940,ranzau,159068,159072,mich,ranzau
+qd,kjfc.0,158527,159940,ranzau,159219,159222,ich,ranzau
 qd,kjfc.0,158527,159940,ranzau,159293,159296,Ich,ranzau
 qd,kjfc.0,158527,159940,ranzau,159326,159330,mich,ranzau
 qd,kjfc.0,158527,159940,ranzau,159380,159383,mir,ranzau
@@ -1000,6 +1039,7 @@ qd,kjfc.0,165737,165899,schack,165819,165822,ich,schack
 qd,kjfc.0,165905,165994,juliane,165964,165967,mir,juliane
 qd,kjfc.0,166000,166063,schack,166018,166021,ich,schack
 qd,kjfc.0,166000,166063,schack,166034,166038,mich,schack
+qd,kjfc.0,166227,167769,juliane,166335,166338,ich,juliane
 qd,kjfc.0,166227,167769,juliane,166355,166358,ich,juliane
 qd,kjfc.0,166227,167769,juliane,166380,166383,Ich,juliane
 qd,kjfc.0,166227,167769,juliane,166514,166518,mein,juliane
@@ -1041,6 +1081,7 @@ qd,kjfc.0,172007,172788,keith,172210,172214,mein,keith
 qd,kjfc.0,172007,172788,keith,172339,172343,mich,keith
 qd,kjfc.0,172007,172788,keith,172386,172390,mich,keith
 qd,kjfc.0,172007,172788,keith,172456,172459,ich,keith
+qd,kjfc.0,172857,173490,juliane,172953,172956,ich,juliane
 qd,kjfc.0,172857,173490,juliane,172961,172964,Ich,juliane
 qd,kjfc.0,172857,173490,juliane,173026,173029,ich,juliane
 qd,kjfc.0,172857,173490,juliane,173054,173057,Ich,juliane
@@ -1088,6 +1129,7 @@ qd,kjfc.0,176699,176796,schack,176738,176741,ich,schack
 qd,kjfc.0,176802,177488,mathilde,176999,177002,Ich,mathilde
 qd,kjfc.0,176802,177488,mathilde,177032,177035,ich,mathilde
 qd,kjfc.0,176802,177488,mathilde,177054,177060,meines,mathilde
+qd,kjfc.0,176802,177488,mathilde,177133,177136,mir,mathilde
 qd,kjfc.0,176802,177488,mathilde,177140,177144,mein,mathilde
 qd,kjfc.0,176802,177488,mathilde,177201,177204,ich,mathilde
 qd,kjfc.0,176802,177488,mathilde,177233,177236,mir,mathilde
@@ -1096,6 +1138,7 @@ qd,kjfc.0,176802,177488,mathilde,177305,177308,ich,mathilde
 qd,kjfc.0,176802,177488,mathilde,177369,177372,mir,mathilde
 qd,kjfc.0,176802,177488,mathilde,177407,177412,meine,mathilde
 qd,kjfc.0,176802,177488,mathilde,177476,177479,mir,mathilde
+qd,kjfc.0,177525,177587,mathilde,177547,177550,mir,mathilde
 qd,kjfc.0,177593,177640,schack,177627,177630,ich,schack
 qd,kjfc.0,178221,178362,schack,178247,178250,ich,schack
 qd,kjfc.0,178514,178533,mathilde,178529,178532,mir,mathilde
@@ -1144,6 +1187,7 @@ qd,kjfc.0,182333,182568,mathilde,182450,182453,mir,mathilde
 qd,kjfc.0,182333,182568,mathilde,182469,182473,mein,mathilde
 qd,kjfc.0,182333,182568,mathilde,182481,182484,ich,mathilde
 qd,kjfc.0,182573,182964,schack,182802,182805,ich,schack
+qd,kjfc.0,182573,182964,schack,182815,182818,ich,schack
 qd,kjfc.0,183023,183970,juliane,183091,183094,Ich,juliane
 qd,kjfc.0,183023,183970,juliane,183127,183130,ich,juliane
 qd,kjfc.0,183023,183970,juliane,183142,183148,meines,juliane
@@ -1170,12 +1214,14 @@ qd,kjfc.0,185471,185684,köller,185505,185508,ich,köller
 qd,kjfc.0,185471,185684,köller,185554,185558,mich,köller
 qd,kjfc.0,185471,185684,köller,185608,185611,mir,köller
 qd,kjfc.0,185471,185684,köller,185672,185677,meine,köller
+qd,kjfc.0,185690,186135,juliane,185861,185864,ich,juliane
 qd,kjfc.0,185690,186135,juliane,185895,185899,mein,juliane
 qd,kjfc.0,185690,186135,juliane,186016,186019,mir,juliane
 qd,kjfc.0,186506,186646,ranzau,186626,186630,mich,ranzau
 qd,kjfc.0,186652,186986,kerkermeister,186696,186699,mir,kerkermeister
 qd,kjfc.0,186652,186986,kerkermeister,186712,186715,Ich,kerkermeister
 qd,kjfc.0,186652,186986,kerkermeister,186779,186783,Mein,kerkermeister
+qd,kjfc.0,186652,186986,kerkermeister,186821,186824,mir,kerkermeister
 qd,kjfc.0,186652,186986,kerkermeister,186859,186862,ich,kerkermeister
 qd,kjfc.0,186652,186986,kerkermeister,186957,186960,ich,kerkermeister
 qd,kjfc.0,186992,187387,ranzau,187040,187043,Ich,ranzau
@@ -1185,6 +1231,7 @@ qd,kjfc.0,187863,188062,kerkermeister,187949,187954,meine,kerkermeister
 qd,kjfc.0,187863,188062,kerkermeister,187987,187991,mich,kerkermeister
 qd,kjfc.0,188138,188425,ranzau,188353,188357,mich,ranzau
 qd,kjfc.0,188138,188425,ranzau,188391,188394,ich,ranzau
+qd,kjfc.0,188431,188535,struensee,188495,188498,mir,struensee
 qd,kjfc.0,188431,188535,struensee,188516,188519,ich,struensee
 qd,kjfc.0,188569,188844,struensee,188581,188584,Ich,struensee
 qd,kjfc.0,188569,188844,struensee,188653,188659,meinen,struensee
@@ -1196,6 +1243,7 @@ qd,kjfc.0,188926,189066,struensee,188994,188997,ich,struensee
 qd,kjfc.0,188926,189066,struensee,189058,189061,ich,struensee
 qd,kjfc.0,189424,189516,struensee,189436,189440,Mich,struensee
 qd,kjfc.0,189424,189516,struensee,189501,189505,mich,struensee
+qd,kjfc.0,189755,189813,struensee,189777,189780,ich,struensee
 qd,kjfc.0,189755,189813,struensee,189790,189793,ich,struensee
 qd,kjfc.0,189755,189813,struensee,189800,189805,meine,struensee
 qd,kjfc.0,189881,189937,struensee,189892,189895,Ich,struensee
@@ -1207,6 +1255,7 @@ qd,kjfc.0,190159,190525,struensee,190346,190349,mir,struensee
 qd,kjfc.0,190159,190525,struensee,190419,190424,meine,struensee
 qd,kjfc.0,190676,191565,struensee,190688,190691,Ich,struensee
 qd,kjfc.0,190676,191565,struensee,190742,190746,mich,struensee
+qd,kjfc.0,190676,191565,struensee,190857,190860,ich,struensee
 qd,kjfc.0,190676,191565,struensee,190912,190916,mich,struensee
 qd,kjfc.0,190676,191565,struensee,190927,190930,Ich,struensee
 qd,kjfc.0,190676,191565,struensee,191023,191026,ich,struensee
@@ -1232,6 +1281,7 @@ qd,kjfc.0,192371,192775,struensee,192480,192483,mir,struensee
 qd,kjfc.0,192371,192775,struensee,192511,192514,ich,struensee
 qd,kjfc.0,192371,192775,struensee,192515,192519,mich,struensee
 qd,kjfc.0,192371,192775,struensee,192528,192531,mir,struensee
+qd,kjfc.0,192371,192775,struensee,192561,192564,ich,struensee
 qd,kjfc.0,192833,193077,struensee,192853,192856,mir,struensee
 qd,kjfc.0,192833,193077,struensee,192863,192866,ich,struensee
 qd,kjfc.0,192833,193077,struensee,192882,192885,Ich,struensee
@@ -1271,6 +1321,8 @@ qd,kjfc.0,196295,196993,struensee,196416,196419,Ich,struensee
 qd,kjfc.0,196295,196993,struensee,196458,196464,meiner,struensee
 qd,kjfc.0,196295,196993,struensee,196478,196482,mein,struensee
 qd,kjfc.0,196295,196993,struensee,196578,196581,ich,struensee
+qd,kjfc.0,196295,196993,struensee,196620,196623,ich,struensee
+qd,kjfc.0,196295,196993,struensee,196641,196644,ich,struensee
 qd,kjfc.0,197042,197648,struensee,197054,197057,Ich,struensee
 qd,kjfc.0,197042,197648,struensee,197157,197160,ich,struensee
 qd,kjfc.0,197042,197648,struensee,197182,197185,ich,struensee
@@ -1343,6 +1395,8 @@ qd,kjfc.0,205415,205831,struensee,205506,205512,meines,struensee
 qd,kjfc.0,205415,205831,struensee,205589,205595,meiner,struensee
 qd,kjfc.0,205415,205831,struensee,205642,205646,Mich,struensee
 qd,kjfc.0,205415,205831,struensee,205688,205691,Ich,struensee
+qd,kjfc.0,205415,205831,struensee,205784,205787,ich,struensee
+qd,kjfc.0,205415,205831,struensee,205810,205813,ich,struensee
 qd,kjfc.0,205953,207743,struensee,206032,206037,meine,struensee
 qd,kjfc.0,205953,207743,struensee,206112,206117,meine,struensee
 qd,kjfc.0,205953,207743,struensee,206238,206241,ich,struensee

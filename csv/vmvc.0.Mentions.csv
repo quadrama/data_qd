@@ -319,6 +319,7 @@ qd,vmvc.0,47279,47445,cäsar,47351,47354,ich,cäsar
 qd,vmvc.0,47450,47538,decius,47503,47506,Ich,decius
 qd,vmvc.0,47544,47774,cäsar,47604,47610,meinen,cäsar
 qd,vmvc.0,47544,47774,cäsar,47645,47648,ich,cäsar
+qd,vmvc.0,47544,47774,cäsar,47702,47705,ich,cäsar
 qd,vmvc.0,47544,47774,cäsar,47731,47734,Ich,cäsar
 qd,vmvc.0,47815,47989,cäsar,47861,47864,ich,cäsar
 qd,vmvc.0,47815,47989,cäsar,47882,47888,meinen,cäsar
@@ -328,6 +329,7 @@ qd,vmvc.0,47995,48095,decius,48083,48086,ich,decius
 qd,vmvc.0,48101,48649,cäsar,48127,48131,mein,cäsar
 qd,vmvc.0,48101,48649,cäsar,48139,48142,ich,cäsar
 qd,vmvc.0,48101,48649,cäsar,48249,48252,ich,cäsar
+qd,vmvc.0,48101,48649,cäsar,48270,48273,ich,cäsar
 qd,vmvc.0,48101,48649,cäsar,48308,48312,mein,cäsar
 qd,vmvc.0,48101,48649,cäsar,48324,48328,mich,cäsar
 qd,vmvc.0,48101,48649,cäsar,48373,48377,mein,cäsar
@@ -527,11 +529,13 @@ qd,vmvc.0,76080,76933,antonius,76672,76675,mir,antonius
 qd,vmvc.0,77090,77443,antonius,77129,77132,Ich,antonius
 qd,vmvc.0,77554,77756,antonius,77614,77617,Ich,antonius
 qd,vmvc.0,77554,77756,antonius,77628,77632,mich,antonius
+qd,vmvc.0,77554,77756,antonius,77637,77640,ich,antonius
 qd,vmvc.0,77554,77756,antonius,77656,77659,Ich,antonius
 qd,vmvc.0,77554,77756,antonius,77669,77672,ich,antonius
 qd,vmvc.0,77554,77756,antonius,77741,77744,Ich,antonius
 qd,vmvc.0,77950,78142,antonius,77975,77979,mich,antonius
 qd,vmvc.0,77950,78142,antonius,78051,78054,Ich,antonius
+qd,vmvc.0,77950,78142,antonius,78110,78113,mir,antonius
 qd,vmvc.0,77950,78142,antonius,78122,78125,ich,antonius
 qd,vmvc.0,78555,79875,antonius,78679,78682,ich,antonius
 qd,vmvc.0,78555,79875,antonius,78683,78687,mich,antonius
@@ -593,6 +597,7 @@ qd,vmvc.0,90096,90145,cassius,90115,90118,mir,cassius
 qd,vmvc.0,90096,90145,cassius,90127,90131,mein,cassius
 qd,vmvc.0,90150,90247,brutus,90184,90187,ich,brutus
 qd,vmvc.0,90150,90247,brutus,90188,90194,meinen,brutus
+qd,vmvc.0,90150,90247,brutus,90223,90226,ich,brutus
 qd,vmvc.0,90150,90247,brutus,90229,90235,meinem,brutus
 qd,vmvc.0,90350,90649,brutus,90431,90434,Ich,brutus
 qd,vmvc.0,90350,90649,brutus,90609,90615,meinem,brutus
@@ -648,6 +653,7 @@ qd,vmvc.0,94317,95139,brutus,94695,94699,mein,brutus
 qd,vmvc.0,94317,95139,brutus,94732,94735,ich,brutus
 qd,vmvc.0,94317,95139,brutus,94831,94834,Ich,brutus
 qd,vmvc.0,94317,95139,brutus,94862,94867,meine,brutus
+qd,vmvc.0,94317,95139,brutus,94903,94906,mir,brutus
 qd,vmvc.0,94317,95139,brutus,94949,94952,ich,brutus
 qd,vmvc.0,95145,95182,cassius,95154,95157,Ich,cassius
 qd,vmvc.0,95213,95413,cassius,95223,95226,Ich,cassius
@@ -813,6 +819,7 @@ qd,vmvc.0,115845,116533,cassius,116060,116063,Ich,cassius
 qd,vmvc.0,115845,116533,cassius,116157,116160,ich,cassius
 qd,vmvc.0,115845,116533,cassius,116388,116392,mein,cassius
 qd,vmvc.0,116539,116756,pindarus,116557,116560,ich,pindarus
+qd,vmvc.0,116539,116756,pindarus,116577,116580,ich,pindarus
 qd,vmvc.0,116539,116756,pindarus,116611,116614,mir,pindarus
 qd,vmvc.0,117128,117182,titinius,117172,117176,mein,titinius
 qd,vmvc.0,117223,117546,titinius,117517,117521,mein,titinius
@@ -881,6 +888,7 @@ qd,vmvc.0,124986,125047,messala,125007,125013,meines,messala
 qd,vmvc.0,125344,125442,octavius,125378,125381,ich,octavius
 qd,vmvc.0,125344,125442,octavius,125424,125427,mir,octavius
 qd,vmvc.0,125448,125492,strato,125473,125477,mich,strato
+qd,vmvc.0,125497,125534,octavius,125511,125514,mir,octavius
 qd,vmvc.0,125539,125576,messala,125566,125570,mein,messala
 qd,vmvc.0,125581,125638,strato,125589,125592,Ich,strato
 qd,vmvc.0,125643,125740,messala,125701,125707,meinem,messala

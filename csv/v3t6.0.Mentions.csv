@@ -50,6 +50,7 @@ qd,v3t6.0,10845,10917,ernster,10900,10903,ich,ernster
 qd,v3t6.0,11090,11132,der_bissige,11113,11116,mir,der_bissige
 qd,v3t6.0,11244,11314,der_dichter,11273,11276,Mir,der_dichter
 qd,v3t6.0,11319,11436,der_direktor,11330,11333,Ich,der_direktor
+qd,v3t6.0,11319,11436,der_direktor,11417,11420,ich,der_direktor
 qd,v3t6.0,11441,11546,der_dichter,11501,11504,Ich,der_dichter
 qd,v3t6.0,11706,11786,held,11713,11716,Ich,held
 qd,v3t6.0,11706,11786,held,11736,11739,mir,held
@@ -68,6 +69,7 @@ qd,v3t6.0,12885,13206,held,13172,13175,ich,held
 qd,v3t6.0,14415,14659,held,14422,14425,Ich,held
 qd,v3t6.0,14415,14659,held,14467,14470,mir,held
 qd,v3t6.0,14415,14659,held,14498,14502,Mich,held
+qd,v3t6.0,14415,14659,held,14516,14519,ich,held
 qd,v3t6.0,14415,14659,held,14583,14586,mir,held
 qd,v3t6.0,14415,14659,held,14625,14628,ich,held
 qd,v3t6.0,14415,14659,held,14649,14652,ich,held
@@ -129,6 +131,7 @@ qd,v3t6.0,21831,22001,held,21890,21894,mich,held
 qd,v3t6.0,21831,22001,held,21903,21906,ich,held
 qd,v3t6.0,22006,22279,herzog,22024,22027,ich,herzog
 qd,v3t6.0,22006,22279,herzog,22091,22094,ich,herzog
+qd,v3t6.0,22006,22279,herzog,22124,22127,ich,herzog
 qd,v3t6.0,22006,22279,herzog,22167,22170,ich,herzog
 qd,v3t6.0,22006,22279,herzog,22190,22193,mir,herzog
 qd,v3t6.0,22006,22279,herzog,22194,22198,mein,herzog
@@ -152,6 +155,7 @@ qd,v3t6.0,23765,23806,held,23796,23800,mich,held
 qd,v3t6.0,23839,23870,held,23845,23848,Ich,held
 qd,v3t6.0,23875,23929,herzogin,23885,23888,Ich,herzogin
 qd,v3t6.0,24101,24154,der_direktor,24112,24115,Ich,der_direktor
+qd,v3t6.0,24532,24775,held,24615,24618,ich,held
 qd,v3t6.0,24532,24775,held,24664,24667,Ich,held
 qd,v3t6.0,24532,24775,held,24708,24711,ich,held
 qd,v3t6.0,24532,24775,held,24743,24746,ich,held

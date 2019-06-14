@@ -285,6 +285,7 @@ qd,qkmx.0,32412,32501,christian,32440,32444,mich,christian
 qd,qkmx.0,32412,32501,christian,32463,32466,ich,christian
 qd,qkmx.0,32506,32583,salomon,32525,32528,Ich,salomon
 qd,qkmx.0,32506,32583,salomon,32537,32541,mein,salomon
+qd,qkmx.0,32589,32775,christian,32694,32697,ich,christian
 qd,qkmx.0,32862,33041,salomon,32931,32934,ich,salomon
 qd,qkmx.0,32862,33041,salomon,33009,33013,Mein,salomon
 qd,qkmx.0,33067,33252,salomon,33114,33117,ich,salomon
@@ -759,6 +760,7 @@ qd,qkmx.0,91826,91947,oberkommissär,91842,91845,Ich,oberkommissär
 qd,qkmx.0,91826,91947,oberkommissär,91917,91920,ich,oberkommissär
 qd,qkmx.0,91952,92055,madame_ruhberg,91969,91972,Ich,madame_ruhberg
 qd,qkmx.0,91952,92055,madame_ruhberg,92004,92009,meine,madame_ruhberg
+qd,qkmx.0,92060,92157,oberkommissär,92102,92105,mir,oberkommissär
 qd,qkmx.0,92060,92157,oberkommissär,92145,92148,ich,oberkommissär
 qd,qkmx.0,92208,92280,madame_ruhberg,92248,92251,ich,madame_ruhberg
 qd,qkmx.0,92285,92352,oberkommissär,92324,92327,ich,oberkommissär
@@ -871,6 +873,8 @@ qd,qkmx.0,99439,100079,oberkommissär,99581,99585,mein,oberkommissär
 qd,qkmx.0,99439,100079,oberkommissär,99604,99607,mir,oberkommissär
 qd,qkmx.0,99439,100079,oberkommissär,99708,99711,mir,oberkommissär
 qd,qkmx.0,99439,100079,oberkommissär,99890,99895,Meine,oberkommissär
+qd,qkmx.0,99439,100079,oberkommissär,99959,99962,mir,oberkommissär
+qd,qkmx.0,99439,100079,oberkommissär,99989,99992,mir,oberkommissär
 qd,qkmx.0,99439,100079,oberkommissär,100008,100011,ich,oberkommissär
 qd,qkmx.0,99439,100079,oberkommissär,100030,100033,ich,oberkommissär
 qd,qkmx.0,100296,100437,louise,100318,100321,mir,louise
@@ -1089,6 +1093,7 @@ qd,qkmx.0,127355,127384,baron,127379,127382,ich,baron
 qd,qkmx.0,127428,127463,baron,127449,127452,ich,baron
 qd,qkmx.0,127544,127566,baron,127556,127559,ich,baron
 qd,qkmx.0,127571,127669,ruhberg_der_sohn,127639,127643,mein,ruhberg_der_sohn
+qd,qkmx.0,127571,127669,ruhberg_der_sohn,127655,127658,mir,ruhberg_der_sohn
 qd,qkmx.0,127674,127707,baron,127693,127697,mich,baron
 qd,qkmx.0,127761,127915,baron,127819,127822,ich,baron
 qd,qkmx.0,127975,128030,baron,128019,128022,mir,baron

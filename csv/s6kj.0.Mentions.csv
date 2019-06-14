@@ -122,6 +122,7 @@ qd,s6kj.0,17233,18911,irmentraut,18086,18089,mir,irmentraut
 qd,s6kj.0,17233,18911,irmentraut,18185,18188,mir,irmentraut
 qd,s6kj.0,17233,18911,irmentraut,18800,18803,mir,irmentraut
 qd,s6kj.0,19023,19069,irmentraut,19045,19049,mein,irmentraut
+qd,s6kj.0,19118,19230,irmentraut,19211,19214,mir,irmentraut
 qd,s6kj.0,19235,19283,marie,19243,19246,Ich,marie
 qd,s6kj.0,19288,19456,irmentraut,19334,19337,ich,irmentraut
 qd,s6kj.0,19288,19456,irmentraut,19346,19349,Ich,irmentraut
@@ -133,6 +134,7 @@ qd,s6kj.0,19735,19862,marie,19773,19776,ich,marie
 qd,s6kj.0,19974,20080,marie,19982,19986,Mein,marie
 qd,s6kj.0,19974,20080,marie,19998,20002,mich,marie
 qd,s6kj.0,19974,20080,marie,20030,20033,ich,marie
+qd,s6kj.0,19974,20080,marie,20039,20042,mir,marie
 qd,s6kj.0,20152,20215,marie,20185,20188,ich,marie
 qd,s6kj.0,20349,20399,marie,20375,20378,mir,marie
 qd,s6kj.0,20526,20706,graf,20564,20567,ich,graf
@@ -313,6 +315,7 @@ qd,s6kj.0,42815,43055,adelhof,42865,42868,ich,adelhof
 qd,s6kj.0,42815,43055,adelhof,42876,42879,mir,adelhof
 qd,s6kj.0,42815,43055,adelhof,43041,43044,ich,adelhof
 qd,s6kj.0,43061,43311,stadinger,43084,43090,Meinen,stadinger
+qd,s6kj.0,43061,43311,stadinger,43209,43212,ich,stadinger
 qd,s6kj.0,43317,43344,adelhof,43331,43335,mich,adelhof
 qd,s6kj.0,43349,43381,stadinger,43360,43363,Ich,stadinger
 qd,s6kj.0,43495,43557,stadinger,43521,43525,mein,stadinger
@@ -383,6 +386,7 @@ qd,s6kj.0,49194,49318,stadinger,49263,49266,ich,stadinger
 qd,s6kj.0,49194,49318,stadinger,49267,49270,mir,stadinger
 qd,s6kj.0,49194,49318,stadinger,49284,49288,mein,stadinger
 qd,s6kj.0,49367,49444,stadinger,49389,49393,mich,stadinger
+qd,s6kj.0,49367,49444,stadinger,49427,49430,ich,stadinger
 qd,s6kj.0,49555,49717,stadinger,49628,49631,mir,stadinger
 qd,s6kj.0,49555,49717,stadinger,49643,49646,ich,stadinger
 qd,s6kj.0,49722,49852,stadinger,49805,49808,ich,stadinger
@@ -449,6 +453,7 @@ qd,s6kj.0,54622,54685,stadinger,54670,54676,meiner,stadinger
 qd,s6kj.0,54690,54734,irmentraut,54703,54706,Ich,irmentraut
 qd,s6kj.0,54739,54827,stadinger,54776,54779,ich,stadinger
 qd,s6kj.0,54739,54827,stadinger,54801,54804,ich,stadinger
+qd,s6kj.0,54875,54974,stadinger,54925,54928,mir,stadinger
 qd,s6kj.0,55146,55318,stadinger,55190,55193,ich,stadinger
 qd,s6kj.0,55146,55318,stadinger,55227,55230,mir,stadinger
 qd,s6kj.0,55146,55318,stadinger,55247,55251,mich,stadinger
@@ -500,6 +505,7 @@ qd,s6kj.0,60466,60865,stadinger,60686,60690,mein,stadinger
 qd,s6kj.0,60466,60865,stadinger,60716,60721,meine,stadinger
 qd,s6kj.0,60466,60865,stadinger,60813,60816,ich,stadinger
 qd,s6kj.0,61043,61195,adelhof,61107,61110,ich,adelhof
+qd,s6kj.0,61200,61243,stadinger,61224,61227,ich,stadinger
 qd,s6kj.0,61469,61514,adelhof,61479,61483,Mein,adelhof
 qd,s6kj.0,61693,61844,stadinger,61801,61804,ich,stadinger
 qd,s6kj.0,61850,61895,adelhof,61865,61869,mein,adelhof
@@ -520,6 +526,7 @@ qd,s6kj.0,63450,63581,graf,63496,63500,mich,graf
 qd,s6kj.0,63450,63581,graf,63542,63546,mein,graf
 qd,s6kj.0,63450,63581,graf,63566,63569,ich,graf
 qd,s6kj.0,63635,64009,stadinger,63780,63784,mein,stadinger
+qd,s6kj.0,63635,64009,stadinger,63870,63873,ich,stadinger
 qd,s6kj.0,63635,64009,stadinger,63951,63954,ich,stadinger
 qd,s6kj.0,64305,64531,stadinger,64330,64334,mein,stadinger
 qd,s6kj.0,64305,64531,stadinger,64394,64397,ich,stadinger
@@ -632,6 +639,7 @@ qd,s6kj.0,75524,75742,stadinger,75567,75570,Ich,stadinger
 qd,s6kj.0,75814,75853,stadinger,75834,75837,ich,stadinger
 qd,s6kj.0,75858,76001,adelhof,75907,75910,Ich,adelhof
 qd,s6kj.0,75858,76001,adelhof,75917,75921,mich,adelhof
+qd,s6kj.0,76259,76354,stadinger,76278,76281,ich,stadinger
 qd,s6kj.0,76259,76354,stadinger,76333,76336,mir,stadinger
 qd,s6kj.0,76614,76748,georg,76655,76659,mich,georg
 qd,s6kj.0,76614,76748,georg,76692,76695,ich,georg
@@ -654,6 +662,7 @@ qd,s6kj.0,78127,78170,marie,78135,78138,Ich,marie
 qd,s6kj.0,78127,78170,marie,78144,78150,meinen,marie
 qd,s6kj.0,78231,78270,marie,78239,78242,Ich,marie
 qd,s6kj.0,78231,78270,marie,78250,78254,mich,marie
+qd,s6kj.0,78583,78734,brenner,78605,78608,ich,brenner
 qd,s6kj.0,79280,79369,stadinger,79336,79339,mir,stadinger
 qd,s6kj.0,80174,80217,graf,80199,80203,mein,graf
 qd,s6kj.0,80247,80303,irmentraut,80273,80276,Ich,irmentraut

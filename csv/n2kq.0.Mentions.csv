@@ -91,6 +91,7 @@ qd,n2kq.0,9929,10342,waldemar,10090,10094,mein,waldemar
 qd,n2kq.0,9929,10342,waldemar,10204,10208,mein,waldemar
 qd,n2kq.0,9929,10342,waldemar,10221,10224,Ich,waldemar
 qd,n2kq.0,9929,10342,waldemar,10267,10270,ich,waldemar
+qd,n2kq.0,9929,10342,waldemar,10295,10298,mir,waldemar
 qd,n2kq.0,10347,10499,hugo,10393,10396,ich,hugo
 qd,n2kq.0,10861,11756,waldemar,10872,10875,Ich,waldemar
 qd,n2kq.0,10861,11756,waldemar,11027,11030,ich,waldemar
@@ -472,6 +473,7 @@ qd,n2kq.0,49720,50007,hans,49944,49947,mir,hans
 qd,n2kq.0,49720,50007,hans,49985,49988,ich,hans
 qd,n2kq.0,50012,50060,waldemar,50042,50047,meine,waldemar
 qd,n2kq.0,50065,50378,hans,50083,50086,ich,hans
+qd,n2kq.0,50065,50378,hans,50125,50129,mich,hans
 qd,n2kq.0,50065,50378,hans,50184,50187,ich,hans
 qd,n2kq.0,50065,50378,hans,50229,50232,mir,hans
 qd,n2kq.0,50065,50378,hans,50299,50302,ich,hans
@@ -621,6 +623,7 @@ qd,n2kq.0,61421,61676,hiller,61502,61505,Ich,hiller
 qd,n2kq.0,61713,62133,hiller,62075,62078,mir,hiller
 qd,n2kq.0,61713,62133,hiller,62108,62111,ich,hiller
 qd,n2kq.0,62268,62477,hiller,62426,62430,mein,hiller
+qd,n2kq.0,62483,63268,gertrud,62827,62830,ich,gertrud
 qd,n2kq.0,63413,63476,waldemar,63442,63445,ich,waldemar
 qd,n2kq.0,63413,63476,waldemar,63456,63461,meine,waldemar
 qd,n2kq.0,63552,63714,waldemar,63587,63590,ich,waldemar
@@ -857,6 +860,8 @@ qd,n2kq.0,86538,86836,waldemar,86609,86612,mir,waldemar
 qd,n2kq.0,86538,86836,waldemar,86698,86701,mir,waldemar
 qd,n2kq.0,86842,87128,gertrud,86895,86899,mein,gertrud
 qd,n2kq.0,86842,87128,gertrud,86917,86920,mir,gertrud
+qd,n2kq.0,86842,87128,gertrud,86958,86961,ich,gertrud
+qd,n2kq.0,86842,87128,gertrud,86991,86994,ich,gertrud
 qd,n2kq.0,86842,87128,gertrud,87017,87021,mein,gertrud
 qd,n2kq.0,86842,87128,gertrud,87053,87056,ich,gertrud
 qd,n2kq.0,87283,87753,frau_box,87298,87301,ich,frau_box
@@ -941,6 +946,7 @@ qd,n2kq.0,96093,96333,gertrud,96254,96257,ich,gertrud
 qd,n2kq.0,96093,96333,gertrud,96264,96268,mein,gertrud
 qd,n2kq.0,96338,96479,hiller,96388,96391,ich,hiller
 qd,n2kq.0,96338,96479,hiller,96418,96422,mein,hiller
+qd,n2kq.0,96484,96700,gertrud,96503,96506,ich,gertrud
 qd,n2kq.0,96484,96700,gertrud,96524,96527,ich,gertrud
 qd,n2kq.0,96484,96700,gertrud,96543,96547,mich,gertrud
 qd,n2kq.0,96484,96700,gertrud,96579,96582,ich,gertrud
@@ -1327,6 +1333,7 @@ qd,n2kq.0,127856,128568,gertrud,127930,127933,Ich,gertrud
 qd,n2kq.0,127856,128568,gertrud,127978,127981,mir,gertrud
 qd,n2kq.0,127856,128568,gertrud,128026,128029,Ich,gertrud
 qd,n2kq.0,127856,128568,gertrud,128084,128088,mich,gertrud
+qd,n2kq.0,127856,128568,gertrud,128117,128120,mir,gertrud
 qd,n2kq.0,127856,128568,gertrud,128169,128172,mir,gertrud
 qd,n2kq.0,127856,128568,gertrud,128188,128191,mir,gertrud
 qd,n2kq.0,127856,128568,gertrud,128211,128214,mir,gertrud

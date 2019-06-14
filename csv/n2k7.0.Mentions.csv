@@ -1,6 +1,7 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
 qd,n2k7.0,1347,1606,oberst,1550,1553,ich,oberst
 qd,n2k7.0,2087,2354,oberst,2326,2329,ich,oberst
+qd,n2k7.0,2389,2558,oberst,2419,2422,mir,oberst
 qd,n2k7.0,2389,2558,oberst,2475,2478,ich,oberst
 qd,n2k7.0,2389,2558,oberst,2482,2486,mich,oberst
 qd,n2k7.0,2389,2558,oberst,2499,2502,ich,oberst
@@ -56,6 +57,7 @@ qd,n2k7.0,8469,8528,blumenberg,8482,8485,Ich,blumenberg
 qd,n2k7.0,8533,8683,senden,8554,8557,ich,senden
 qd,n2k7.0,8688,8925,blumenberg,8701,8704,Ich,blumenberg
 qd,n2k7.0,8688,8925,blumenberg,8887,8891,mich,blumenberg
+qd,n2k7.0,8990,9087,blumenberg,9069,9072,ich,blumenberg
 qd,n2k7.0,9178,9254,senden,9215,9218,Ich,senden
 qd,n2k7.0,9259,9413,blumenberg,9301,9304,ich,blumenberg
 qd,n2k7.0,9782,9944,oberst,9805,9810,meine,oberst
@@ -234,6 +236,7 @@ qd,n2k7.0,40979,41081,bolz,41017,41020,mir,bolz
 qd,n2k7.0,41283,41680,korb,41483,41486,ich,korb
 qd,n2k7.0,41865,41920,korb,41880,41883,ich,korb
 qd,n2k7.0,41865,41920,korb,41890,41893,ich,korb
+qd,n2k7.0,42043,42271,korb,42070,42073,ich,korb
 qd,n2k7.0,42043,42271,korb,42088,42091,ich,korb
 qd,n2k7.0,42043,42271,korb,42249,42253,mich,korb
 qd,n2k7.0,42276,42300,bolz,42289,42293,mein,bolz
@@ -410,6 +413,7 @@ qd,n2k7.0,69044,69594,schmock,69400,69403,mir,schmock
 qd,n2k7.0,69044,69594,schmock,69418,69424,meiner,schmock
 qd,n2k7.0,69044,69594,schmock,69444,69447,ich,schmock
 qd,n2k7.0,69044,69594,schmock,69475,69478,Ich,schmock
+qd,n2k7.0,69044,69594,schmock,69494,69497,ich,schmock
 qd,n2k7.0,69599,70151,bolz,69819,69822,mir,bolz
 qd,n2k7.0,69599,70151,bolz,70054,70057,ich,bolz
 qd,n2k7.0,70262,70511,bolz,70283,70286,ich,bolz
@@ -589,6 +593,7 @@ qd,n2k7.0,88788,89315,bolz,89034,89038,mein,bolz
 qd,n2k7.0,88788,89315,bolz,89101,89104,ich,bolz
 qd,n2k7.0,89320,89403,piepenbrink,89341,89346,meine,piepenbrink
 qd,n2k7.0,89320,89403,piepenbrink,89367,89370,ich,piepenbrink
+qd,n2k7.0,89320,89403,piepenbrink,89376,89379,mir,piepenbrink
 qd,n2k7.0,90106,90266,bolz,90145,90148,ich,bolz
 qd,n2k7.0,90333,90428,bolz,90411,90417,meinem,bolz
 qd,n2k7.0,90529,90749,bolz,90564,90567,ich,bolz
@@ -619,6 +624,7 @@ qd,n2k7.0,93269,93435,bolz,93365,93368,ich,bolz
 qd,n2k7.0,93501,93841,bolz,93544,93548,mich,bolz
 qd,n2k7.0,93501,93841,bolz,93579,93582,ich,bolz
 qd,n2k7.0,93933,94292,bolz,93964,93967,ich,bolz
+qd,n2k7.0,93933,94292,bolz,94007,94010,ich,bolz
 qd,n2k7.0,93933,94292,bolz,94014,94017,Ich,bolz
 qd,n2k7.0,93933,94292,bolz,94099,94102,mir,bolz
 qd,n2k7.0,93933,94292,bolz,94114,94117,Ich,bolz
@@ -908,6 +914,7 @@ qd,n2k7.0,127251,127335,ida,127257,127260,Ich,ida
 qd,n2k7.0,127251,127335,ida,127301,127305,mich,ida
 qd,n2k7.0,127340,127703,adelheid,127359,127363,mein,adelheid
 qd,n2k7.0,127751,128029,adelheid,127784,127787,ich,adelheid
+qd,n2k7.0,128034,128068,ida,128062,128065,mir,ida
 qd,n2k7.0,128073,128179,adelheid,128084,128087,Ich,adelheid
 qd,n2k7.0,128184,128226,ida,128190,128193,Ich,ida
 qd,n2k7.0,128413,128472,ida,128419,128422,Ich,ida
@@ -1157,10 +1164,13 @@ qd,n2k7.0,159207,159260,oberst,159228,159231,mir,oberst
 qd,n2k7.0,159266,159380,schmock,159284,159287,ich,schmock
 qd,n2k7.0,159266,159380,schmock,159336,159339,mir,schmock
 qd,n2k7.0,159385,159481,oberst,159436,159439,ich,oberst
+qd,n2k7.0,159486,159592,schmock,159541,159544,ich,schmock
+qd,n2k7.0,159486,159592,schmock,159581,159584,mir,schmock
 qd,n2k7.0,159645,159883,schmock,159666,159669,mir,schmock
 qd,n2k7.0,159645,159883,schmock,159735,159738,ich,schmock
 qd,n2k7.0,159645,159883,schmock,159795,159798,ich,schmock
 qd,n2k7.0,159645,159883,schmock,159799,159802,mir,schmock
+qd,n2k7.0,159645,159883,schmock,159828,159831,ich,schmock
 qd,n2k7.0,159645,159883,schmock,159848,159851,Ich,schmock
 qd,n2k7.0,159645,159883,schmock,159859,159862,ich,schmock
 qd,n2k7.0,159645,159883,schmock,159869,159872,mir,schmock
@@ -1182,6 +1192,7 @@ qd,n2k7.0,161159,161260,oberst,161206,161212,meinen,oberst
 qd,n2k7.0,161159,161260,oberst,161237,161243,meinen,oberst
 qd,n2k7.0,161386,161519,oberst,161403,161406,ich,oberst
 qd,n2k7.0,161386,161519,oberst,161439,161442,ich,oberst
+qd,n2k7.0,161386,161519,oberst,161482,161485,ich,oberst
 qd,n2k7.0,161386,161519,oberst,161505,161509,mich,oberst
 qd,n2k7.0,161742,162083,oberst,161751,161754,Ich,oberst
 qd,n2k7.0,161742,162083,oberst,161760,161763,mir,oberst
@@ -1192,6 +1203,7 @@ qd,n2k7.0,161742,162083,oberst,162029,162032,ich,oberst
 qd,n2k7.0,162140,162625,oberst,162162,162166,mich,oberst
 qd,n2k7.0,162140,162625,oberst,162205,162209,mein,oberst
 qd,n2k7.0,162140,162625,oberst,162264,162267,ich,oberst
+qd,n2k7.0,162140,162625,oberst,162279,162282,ich,oberst
 qd,n2k7.0,162140,162625,oberst,162356,162362,meinen,oberst
 qd,n2k7.0,162140,162625,oberst,162408,162411,ich,oberst
 qd,n2k7.0,162140,162625,oberst,162457,162461,mein,oberst

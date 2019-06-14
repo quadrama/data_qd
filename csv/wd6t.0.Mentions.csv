@@ -83,6 +83,7 @@ qd,wd6t.0,15201,15601,anne,15213,15216,mir,anne
 qd,wd6t.0,15713,15961,anton,15876,15879,ich,anton
 qd,wd6t.0,16209,16323,agnes,16227,16231,mich,agnes
 qd,wd6t.0,16329,16415,leopold,16374,16377,ich,leopold
+qd,wd6t.0,16455,16782,leopold,16476,16479,ich,leopold
 qd,wd6t.0,16455,16782,leopold,16518,16521,ich,leopold
 qd,wd6t.0,16849,17720,leopold,17325,17328,mir,leopold
 qd,wd6t.0,16849,17720,leopold,17356,17359,ich,leopold
@@ -182,6 +183,7 @@ qd,wd6t.0,34882,35030,peter,34967,34970,ich,peter
 qd,wd6t.0,35069,35407,peter,35108,35111,ich,peter
 qd,wd6t.0,35069,35407,peter,35128,35134,meiner,peter
 qd,wd6t.0,35069,35407,peter,35206,35209,ich,peter
+qd,wd6t.0,35069,35407,peter,35241,35244,ich,peter
 qd,wd6t.0,35069,35407,peter,35334,35337,ich,peter
 qd,wd6t.0,35552,35642,peter,35570,35573,ich,peter
 qd,wd6t.0,35647,35714,klaus,35666,35669,ich,klaus
@@ -585,6 +587,7 @@ qd,wd6t.0,72428,72969,mechthilde,72669,72672,ich,mechthilde
 qd,wd6t.0,72428,72969,mechthilde,72830,72833,ich,mechthilde
 qd,wd6t.0,72428,72969,mechthilde,72931,72935,mein,mechthilde
 qd,wd6t.0,72974,72986,agnes,72982,72985,Mir,agnes
+qd,wd6t.0,72991,73517,mechthilde,73423,73426,ich,mechthilde
 qd,wd6t.0,72991,73517,mechthilde,73463,73466,mir,mechthilde
 qd,wd6t.0,72991,73517,mechthilde,73479,73482,ich,mechthilde
 qd,wd6t.0,73580,73997,mechthilde,73627,73633,meiner,mechthilde
@@ -629,6 +632,7 @@ qd,wd6t.0,76950,77024,ratgeber,76961,76964,Ich,ratgeber
 qd,wd6t.0,76950,77024,ratgeber,77011,77015,mich,ratgeber
 qd,wd6t.0,77029,77072,peter,77047,77050,ich,peter
 qd,wd6t.0,77473,77526,peter,77486,77489,mir,peter
+qd,wd6t.0,77531,77829,ratgeber,77630,77633,ich,ratgeber
 qd,wd6t.0,77531,77829,ratgeber,77681,77684,mir,ratgeber
 qd,wd6t.0,77531,77829,ratgeber,77688,77694,meiner,ratgeber
 qd,wd6t.0,77531,77829,ratgeber,77798,77801,ich,ratgeber
@@ -1182,6 +1186,7 @@ qd,wd6t.0,131347,131632,reinhold,131514,131518,mich,reinhold
 qd,wd6t.0,131347,131632,reinhold,131579,131582,ich,reinhold
 qd,wd6t.0,131750,131882,hans,131790,131793,ich,hans
 qd,wd6t.0,131750,131882,hans,131842,131845,ich,hans
+qd,wd6t.0,131750,131882,hans,131852,131855,mir,hans
 qd,wd6t.0,131928,132100,hans,132051,132055,mein,hans
 qd,wd6t.0,131928,132100,hans,132089,132092,mir,hans
 qd,wd6t.0,132176,132401,simon,132194,132197,ich,simon

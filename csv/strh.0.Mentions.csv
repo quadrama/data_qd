@@ -23,6 +23,7 @@ qd,strh.0,4855,5162,holofernes,4952,4956,Mein,holofernes
 qd,strh.0,5424,5845,holofernes,5476,5479,mir,holofernes
 qd,strh.0,5424,5845,holofernes,5539,5542,Ich,holofernes
 qd,strh.0,5424,5845,holofernes,5646,5649,mir,holofernes
+qd,strh.0,6086,6211,holofernes,6128,6131,ich,holofernes
 qd,strh.0,6249,6541,holofernes,6351,6354,mir,holofernes
 qd,strh.0,6249,6541,holofernes,6380,6383,Ich,holofernes
 qd,strh.0,6249,6541,holofernes,6512,6515,Ich,holofernes
@@ -102,10 +103,12 @@ qd,strh.0,28763,28841,holofernes,28814,28817,ich,holofernes
 qd,strh.0,28846,28869,idun,28853,28856,Ich,idun
 qd,strh.0,28874,29223,holofernes,28912,28915,ich,holofernes
 qd,strh.0,28874,29223,holofernes,28989,28995,meinen,holofernes
+qd,strh.0,28874,29223,holofernes,29066,29069,ich,holofernes
 qd,strh.0,28874,29223,holofernes,29080,29083,ich,holofernes
 qd,strh.0,28874,29223,holofernes,29155,29159,mich,holofernes
 qd,strh.0,29229,29285,achior,29249,29252,ich,achior
 qd,strh.0,29229,29285,achior,29258,29261,mir,achior
+qd,strh.0,29738,29809,chalkol,29786,29789,mir,chalkol
 qd,strh.0,29929,30136,holofernes,29942,29945,Ich,holofernes
 qd,strh.0,30188,30268,holofernes,30211,30215,mich,holofernes
 qd,strh.0,30416,30540,idun,30445,30448,ich,idun
@@ -117,6 +120,7 @@ qd,strh.0,31693,31900,holofernes,31711,31714,mir,holofernes
 qd,strh.0,31693,31900,holofernes,31740,31743,mir,holofernes
 qd,strh.0,31693,31900,holofernes,31762,31765,Ich,holofernes
 qd,strh.0,31693,31900,holofernes,31827,31831,mein,holofernes
+qd,strh.0,33352,33480,holofernes,33408,33411,ich,holofernes
 qd,strh.0,33352,33480,holofernes,33442,33445,ich,holofernes
 qd,strh.0,34111,34196,holofernes,34159,34162,ich,holofernes
 qd,strh.0,35181,35540,holofernes,35249,35252,ich,holofernes
@@ -149,6 +153,7 @@ qd,strh.0,39416,39820,holofernes,39712,39715,mir,holofernes
 qd,strh.0,39416,39820,holofernes,39752,39755,ich,holofernes
 qd,strh.0,39826,39934,mirza,39850,39853,Ich,mirza
 qd,strh.0,40107,40148,mirza,40126,40129,Mir,mirza
+qd,strh.0,40393,40532,mirza,40412,40415,ich,mirza
 qd,strh.0,40393,40532,mirza,40440,40443,ich,mirza
 qd,strh.0,40393,40532,mirza,40468,40472,mich,mirza
 qd,strh.0,40393,40532,mirza,40513,40516,ich,mirza

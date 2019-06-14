@@ -78,6 +78,8 @@ qd,k1ff.0,13430,13489,lysistrate,13473,13477,mich,lysistrate
 qd,k1ff.0,13494,13551,kalonike,13510,13513,ich,kalonike
 qd,k1ff.0,13494,13551,kalonike,13514,13518,mein,kalonike
 qd,k1ff.0,13494,13551,kalonike,13535,13539,mich,kalonike
+qd,k1ff.0,13556,13618,lysistrate,13579,13582,ich,lysistrate
+qd,k1ff.0,13623,13683,kalonike,13644,13647,ich,kalonike
 qd,k1ff.0,13845,13983,kalonike,13865,13868,mir,kalonike
 qd,k1ff.0,14022,14376,lysistrate,14039,14042,ich,lysistrate
 qd,k1ff.0,15773,16110,zweiter_halbchor,15826,15832,Meiner,zweiter_halbchor
@@ -88,6 +90,7 @@ qd,k1ff.0,16116,16421,chorführer,16391,16394,mir,chorführer
 qd,k1ff.0,16427,16836,erster_halbchor,16493,16496,ich,erster_halbchor
 qd,k1ff.0,16427,16836,erster_halbchor,16535,16538,ich,erster_halbchor
 qd,k1ff.0,16427,16836,erster_halbchor,16641,16644,mir,erster_halbchor
+qd,k1ff.0,16842,17278,zweiter_halbchor,16960,16964,mich,zweiter_halbchor
 qd,k1ff.0,16842,17278,zweiter_halbchor,16986,16992,meiner,zweiter_halbchor
 qd,k1ff.0,16842,17278,zweiter_halbchor,17098,17101,mir,zweiter_halbchor
 qd,k1ff.0,17284,18276,chorführer,17364,17367,Ich,chorführer
@@ -151,7 +154,6 @@ qd,k1ff.0,29913,29994,lysistrate,29930,29934,mich,lysistrate
 qd,k1ff.0,30000,30076,ratsherr,30011,30014,Ich,ratsherr
 qd,k1ff.0,30134,30237,ratsherr,30233,30236,mir,ratsherr
 qd,k1ff.0,30242,30990,lysistrate,30265,30268,ich,lysistrate
-qd,k1ff.0,30242,30990,lysistrate,30948,30951,Ich,lysistrate
 qd,k1ff.0,30242,30990,lysistrate,30978,30981,ich,lysistrate
 qd,k1ff.0,30996,31044,frau_2,31010,31013,Ich,frau_2
 qd,k1ff.0,31118,31522,lysistrate,31142,31145,ich,lysistrate
@@ -293,12 +295,14 @@ qd,k1ff.0,53253,53467,kinesias,53282,53286,Mich,kinesias
 qd,k1ff.0,53253,53467,kinesias,53366,53369,mir,kinesias
 qd,k1ff.0,53253,53467,kinesias,53401,53404,mir,kinesias
 qd,k1ff.0,53253,53467,kinesias,53445,53448,ich,kinesias
+qd,k1ff.0,53607,53747,kinesias,53635,53638,mir,kinesias
 qd,k1ff.0,53607,53747,kinesias,53692,53696,mich,kinesias
 qd,k1ff.0,53753,53790,myrrhine,53781,53784,mir,myrrhine
 qd,k1ff.0,53795,53877,kinesias,53857,53861,mein,kinesias
 qd,k1ff.0,53883,53912,myrrhine,53901,53905,mich,myrrhine
 qd,k1ff.0,54000,54027,myrrhine,54010,54013,Mir,myrrhine
 qd,k1ff.0,54297,54394,myrrhine,54350,54353,ich,myrrhine
+qd,k1ff.0,54297,54394,myrrhine,54376,54379,ich,myrrhine
 qd,k1ff.0,54400,54453,kinesias,54449,54452,mir,kinesias
 qd,k1ff.0,54458,54526,myrrhine,54480,54483,ich,myrrhine
 qd,k1ff.0,54458,54526,myrrhine,54501,54504,ich,myrrhine
@@ -351,8 +355,10 @@ qd,k1ff.0,61049,61199,chorführerin,61118,61121,mir,chorführerin
 qd,k1ff.0,61049,61199,chorführerin,61152,61156,mich,chorführerin
 qd,k1ff.0,61205,61283,chorführer,61258,61261,ich,chorführer
 qd,k1ff.0,61205,61283,chorführer,61266,61270,mein,chorführer
+qd,k1ff.0,61288,61545,chorführerin,61342,61345,ich,chorführerin
 qd,k1ff.0,61288,61545,chorführerin,61450,61453,ich,chorführerin
 qd,k1ff.0,61551,61688,chorführer,61564,61570,Meiner,chorführer
+qd,k1ff.0,61551,61688,chorführer,61666,61669,ich,chorführer
 qd,k1ff.0,61694,61901,chorführerin,61790,61794,mich,chorführerin
 qd,k1ff.0,61694,61901,chorführerin,61821,61824,ich,chorführerin
 qd,k1ff.0,61907,62131,chorführer,61939,61943,mich,chorführer
@@ -382,6 +388,7 @@ qd,k1ff.0,67887,67936,athener_1,67915,67919,mein,athener_1
 qd,k1ff.0,67941,68422,lysistrate,68025,68028,ich,lysistrate
 qd,k1ff.0,67941,68422,lysistrate,68029,68033,mich,lysistrate
 qd,k1ff.0,68548,68943,lysistrate,68611,68614,ich,lysistrate
+qd,k1ff.0,69004,69059,athener_1,69042,69045,ich,athener_1
 qd,k1ff.0,69218,69288,spartaner_1,69234,69237,Mir,spartaner_1
 qd,k1ff.0,69861,69912,athener_1,69880,69883,ich,athener_1
 qd,k1ff.0,70749,71275,chor_der_frauen_eine_hälfte,70868,70872,Mein,chor_der_frauen_eine_hälfte

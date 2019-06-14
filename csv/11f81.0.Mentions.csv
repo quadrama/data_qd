@@ -8,6 +8,7 @@ qd,11f81.0,720,1079,clavigo,908,914,meinen,clavigo
 qd,11f81.0,720,1079,clavigo,950,955,meine,clavigo
 qd,11f81.0,720,1079,clavigo,993,998,meine,clavigo
 qd,11f81.0,720,1079,clavigo,1032,1036,mein,clavigo
+qd,11f81.0,1084,1381,carlos,1120,1123,mir,carlos
 qd,11f81.0,1084,1381,carlos,1161,1164,mir,carlos
 qd,11f81.0,1084,1381,carlos,1308,1311,Ich,carlos
 qd,11f81.0,1386,1774,clavigo,1447,1450,Ich,clavigo
@@ -18,6 +19,7 @@ qd,11f81.0,1386,1774,clavigo,1740,1743,ich,clavigo
 qd,11f81.0,1386,1774,clavigo,1744,1747,mir,clavigo
 qd,11f81.0,1779,1972,carlos,1846,1850,mich,carlos
 qd,11f81.0,1977,2654,clavigo,1987,1991,Mein,clavigo
+qd,11f81.0,1977,2654,clavigo,2039,2042,ich,clavigo
 qd,11f81.0,1977,2654,clavigo,2244,2247,Mir,clavigo
 qd,11f81.0,1977,2654,clavigo,2268,2271,ich,clavigo
 qd,11f81.0,1977,2654,clavigo,2292,2295,ich,clavigo
@@ -53,6 +55,7 @@ qd,11f81.0,4665,4982,carlos,4709,4713,mich,carlos
 qd,11f81.0,4665,4982,carlos,4928,4931,ich,carlos
 qd,11f81.0,4987,5132,clavigo,5007,5010,ich,clavigo
 qd,11f81.0,4987,5132,clavigo,5115,5119,mich,clavigo
+qd,11f81.0,5176,5518,clavigo,5398,5401,mir,clavigo
 qd,11f81.0,5769,5924,carlos,5778,5781,Ich,carlos
 qd,11f81.0,5769,5924,carlos,5833,5836,mir,carlos
 qd,11f81.0,5769,5924,carlos,5856,5859,ich,carlos
@@ -175,6 +178,7 @@ qd,11f81.0,14236,14784,beaumarchais,14660,14663,mir,beaumarchais
 qd,11f81.0,14236,14784,beaumarchais,14701,14704,ich,beaumarchais
 qd,11f81.0,14789,15145,saint_george,14830,14834,mein,saint_george
 qd,11f81.0,14789,15145,saint_george,14895,14898,ich,saint_george
+qd,11f81.0,14789,15145,saint_george,14922,14925,mir,saint_george
 qd,11f81.0,14789,15145,saint_george,14932,14936,mein,saint_george
 qd,11f81.0,15150,15399,beaumarchais,15275,15278,Ich,beaumarchais
 qd,11f81.0,15150,15399,beaumarchais,15300,15303,ich,beaumarchais
@@ -341,6 +345,7 @@ qd,11f81.0,33435,33674,beaumarchais,33506,33509,Ich,beaumarchais
 qd,11f81.0,33435,33674,beaumarchais,33530,33533,ich,beaumarchais
 qd,11f81.0,33435,33674,beaumarchais,33541,33544,ich,beaumarchais
 qd,11f81.0,33435,33674,beaumarchais,33589,33592,ich,beaumarchais
+qd,11f81.0,33435,33674,beaumarchais,33609,33612,ich,beaumarchais
 qd,11f81.0,33729,33784,beaumarchais,33744,33748,Mein,beaumarchais
 qd,11f81.0,33813,33948,beaumarchais,33925,33928,ich,beaumarchais
 qd,11f81.0,33992,34053,beaumarchais,34007,34010,Ich,beaumarchais
@@ -348,6 +353,7 @@ qd,11f81.0,34058,34236,clavigo,34111,34116,meine,clavigo
 qd,11f81.0,34242,34299,clavigo,34267,34270,mir,clavigo
 qd,11f81.0,34304,34398,beaumarchais,34325,34329,mein,beaumarchais
 qd,11f81.0,34304,34398,beaumarchais,34351,34354,ich,beaumarchais
+qd,11f81.0,34304,34398,beaumarchais,34381,34384,ich,beaumarchais
 qd,11f81.0,34426,34502,beaumarchais,34441,34444,Ich,beaumarchais
 qd,11f81.0,34533,34646,beaumarchais,34572,34575,ich,beaumarchais
 qd,11f81.0,34673,34826,beaumarchais,34690,34693,ich,beaumarchais
@@ -374,6 +380,7 @@ qd,11f81.0,35975,36498,clavigo,36422,36425,mir,clavigo
 qd,11f81.0,35975,36498,clavigo,36457,36461,mich,clavigo
 qd,11f81.0,36553,36876,clavigo,36627,36630,mir,clavigo
 qd,11f81.0,36553,36876,clavigo,36673,36676,ich,clavigo
+qd,11f81.0,36553,36876,clavigo,36701,36704,mir,clavigo
 qd,11f81.0,36553,36876,clavigo,36717,36720,ich,clavigo
 qd,11f81.0,36553,36876,clavigo,36856,36860,mich,clavigo
 qd,11f81.0,36881,36942,beaumarchais,36910,36913,ich,beaumarchais
@@ -385,6 +392,7 @@ qd,11f81.0,37375,37595,carlos,37556,37560,mich,carlos
 qd,11f81.0,37640,37815,carlos,37679,37682,Ich,carlos
 qd,11f81.0,37820,37925,clavigo,37879,37882,mir,clavigo
 qd,11f81.0,37972,38006,clavigo,37982,37985,Ich,clavigo
+qd,11f81.0,38277,38356,clavigo,38300,38303,mir,clavigo
 qd,11f81.0,38277,38356,clavigo,38311,38314,ich,clavigo
 qd,11f81.0,38361,38568,carlos,38370,38373,Ich,carlos
 qd,11f81.0,38361,38568,carlos,38395,38398,ich,carlos
@@ -395,6 +403,7 @@ qd,11f81.0,38658,38780,clavigo,38710,38714,mein,clavigo
 qd,11f81.0,38807,38975,clavigo,38817,38820,Ich,clavigo
 qd,11f81.0,38807,38975,clavigo,38903,38909,meinen,clavigo
 qd,11f81.0,39207,39305,clavigo,39295,39298,mir,clavigo
+qd,11f81.0,39310,39462,carlos,39369,39372,mir,carlos
 qd,11f81.0,39310,39462,carlos,39387,39390,ich,carlos
 qd,11f81.0,39467,40051,clavigo,39491,39495,mich,clavigo
 qd,11f81.0,39467,40051,clavigo,39497,39500,Ich,clavigo
@@ -421,6 +430,7 @@ qd,11f81.0,40559,40900,sophie,40582,40585,mir,sophie
 qd,11f81.0,40559,40900,sophie,40622,40625,ich,sophie
 qd,11f81.0,40559,40900,sophie,40703,40707,mich,sophie
 qd,11f81.0,40559,40900,sophie,40797,40803,meinen,sophie
+qd,11f81.0,41538,41977,sophie,41579,41582,ich,sophie
 qd,11f81.0,41538,41977,sophie,41601,41606,meine,sophie
 qd,11f81.0,41538,41977,sophie,41618,41621,ich,sophie
 qd,11f81.0,41982,42013,marie,41990,41994,Mein,marie
@@ -473,6 +483,7 @@ qd,11f81.0,46422,48945,clavigo,47806,47809,ich,clavigo
 qd,11f81.0,46422,48945,clavigo,47969,47972,mir,clavigo
 qd,11f81.0,46422,48945,clavigo,48141,48146,meine,clavigo
 qd,11f81.0,46422,48945,clavigo,48631,48636,Meine,clavigo
+qd,11f81.0,46422,48945,clavigo,48652,48655,ich,clavigo
 qd,11f81.0,46422,48945,clavigo,48679,48684,meine,clavigo
 qd,11f81.0,46422,48945,clavigo,48755,48758,ich,clavigo
 qd,11f81.0,46422,48945,clavigo,48859,48864,meine,clavigo
@@ -481,6 +492,7 @@ qd,11f81.0,48973,49582,clavigo,49050,49053,mir,clavigo
 qd,11f81.0,48973,49582,clavigo,49065,49069,mich,clavigo
 qd,11f81.0,48973,49582,clavigo,49117,49121,mich,clavigo
 qd,11f81.0,48973,49582,clavigo,49137,49141,mein,clavigo
+qd,11f81.0,48973,49582,clavigo,49153,49156,mir,clavigo
 qd,11f81.0,48973,49582,clavigo,49160,49163,Ich,clavigo
 qd,11f81.0,48973,49582,clavigo,49170,49174,mich,clavigo
 qd,11f81.0,48973,49582,clavigo,49205,49211,meinen,clavigo
@@ -491,6 +503,7 @@ qd,11f81.0,48973,49582,clavigo,49308,49313,meine,clavigo
 qd,11f81.0,49610,49656,clavigo,49644,49648,Mein,clavigo
 qd,11f81.0,49697,49761,marie,49716,49720,mich,marie
 qd,11f81.0,49697,49761,marie,49722,49727,Meine,marie
+qd,11f81.0,49888,49922,clavigo,49910,49913,ich,clavigo
 qd,11f81.0,49927,50187,sophie,50065,50068,ich,sophie
 qd,11f81.0,49927,50187,sophie,50069,50073,mich,sophie
 qd,11f81.0,49927,50187,sophie,50082,50085,Ich,sophie
@@ -505,6 +518,7 @@ qd,11f81.0,50567,50613,clavigo,50577,50580,Ich,clavigo
 qd,11f81.0,50618,50707,sophie,50627,50630,Ich,sophie
 qd,11f81.0,50801,51137,beaumarchais,50841,50844,ich,beaumarchais
 qd,11f81.0,50801,51137,beaumarchais,50948,50953,meine,beaumarchais
+qd,11f81.0,50801,51137,beaumarchais,50972,50975,ich,beaumarchais
 qd,11f81.0,51142,51183,guilbert,51153,51156,Mir,guilbert
 qd,11f81.0,51188,51275,buenco,51242,51246,mich,buenco
 qd,11f81.0,51280,51305,beaumarchais,51295,51299,Mein,beaumarchais
@@ -610,6 +624,7 @@ qd,11f81.0,68782,68838,clavigo,68792,68795,Ich,clavigo
 qd,11f81.0,68782,68838,clavigo,68830,68833,mir,clavigo
 qd,11f81.0,68843,69308,carlos,68912,68916,mich,carlos
 qd,11f81.0,68843,69308,carlos,69246,69249,Ich,carlos
+qd,11f81.0,69348,70046,carlos,69378,69381,ich,carlos
 qd,11f81.0,69348,70046,carlos,69613,69617,mich,carlos
 qd,11f81.0,69348,70046,carlos,69624,69627,ich,carlos
 qd,11f81.0,70279,70352,clavigo,70289,70292,Ich,clavigo
@@ -651,7 +666,9 @@ qd,11f81.0,73873,74584,marie,73994,73997,mir,marie
 qd,11f81.0,73873,74584,marie,74075,74080,Meine,marie
 qd,11f81.0,73873,74584,marie,74122,74125,ich,marie
 qd,11f81.0,73873,74584,marie,74150,74153,ich,marie
+qd,11f81.0,73873,74584,marie,74170,74173,ich,marie
 qd,11f81.0,73873,74584,marie,74523,74526,ich,marie
+qd,11f81.0,73873,74584,marie,74565,74568,ich,marie
 qd,11f81.0,74589,74677,sophie,74632,74635,Ich,sophie
 qd,11f81.0,74901,74946,beaumarchais,74928,74932,mich,beaumarchais
 qd,11f81.0,74901,74946,beaumarchais,74934,74939,meine,beaumarchais
@@ -699,6 +716,7 @@ qd,11f81.0,79162,79888,beaumarchais,79642,79648,meiner,beaumarchais
 qd,11f81.0,79162,79888,beaumarchais,79693,79697,mich,beaumarchais
 qd,11f81.0,79162,79888,beaumarchais,79762,79766,mich,beaumarchais
 qd,11f81.0,79162,79888,beaumarchais,79772,79776,mich,beaumarchais
+qd,11f81.0,79162,79888,beaumarchais,79802,79805,mir,beaumarchais
 qd,11f81.0,79162,79888,beaumarchais,79831,79834,mir,beaumarchais
 qd,11f81.0,79936,80116,beaumarchais,80023,80026,ich,beaumarchais
 qd,11f81.0,79936,80116,beaumarchais,80045,80049,mein,beaumarchais
@@ -723,6 +741,7 @@ qd,11f81.0,80807,80972,buenco,80833,80836,Ich,buenco
 qd,11f81.0,80807,80972,buenco,80851,80854,Ich,buenco
 qd,11f81.0,81024,81048,buenco,81033,81036,Ich,buenco
 qd,11f81.0,81053,81116,beaumarchais,81080,81083,Ich,beaumarchais
+qd,11f81.0,81053,81116,beaumarchais,81110,81113,mir,beaumarchais
 qd,11f81.0,81248,81317,sophie,81299,81303,mein,sophie
 qd,11f81.0,81461,81602,sophie,81545,81550,meine,sophie
 qd,11f81.0,81704,81735,beaumarchais,81727,81730,ich,beaumarchais
@@ -758,6 +777,7 @@ qd,11f81.0,83952,86051,clavigo,84756,84759,ich,clavigo
 qd,11f81.0,83952,86051,clavigo,85241,85245,mich,clavigo
 qd,11f81.0,83952,86051,clavigo,85260,85264,mich,clavigo
 qd,11f81.0,83952,86051,clavigo,85401,85405,mich,clavigo
+qd,11f81.0,83952,86051,clavigo,85469,85472,ich,clavigo
 qd,11f81.0,83952,86051,clavigo,85657,85660,mir,clavigo
 qd,11f81.0,83952,86051,clavigo,85671,85674,mir,clavigo
 qd,11f81.0,83952,86051,clavigo,85676,85679,Ich,clavigo

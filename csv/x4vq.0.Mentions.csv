@@ -65,6 +65,7 @@ qd,x4vq.0,12564,12773,jöran,12655,12658,Mir,jöran
 qd,x4vq.0,12564,12773,jöran,12688,12691,mir,jöran
 qd,x4vq.0,12778,12956,richers,12882,12885,ich,richers
 qd,x4vq.0,12778,12956,richers,12886,12890,mich,richers
+qd,x4vq.0,13115,13434,richers,13218,13221,mir,richers
 qd,x4vq.0,13115,13434,richers,13244,13248,mich,richers
 qd,x4vq.0,13793,13867,struen,13816,13820,mich,struen
 qd,x4vq.0,14142,14370,richers,14360,14363,ich,richers
@@ -296,6 +297,7 @@ qd,x4vq.0,51189,51655,richers,51388,51391,ich,richers
 qd,x4vq.0,51189,51655,richers,51410,51414,mich,richers
 qd,x4vq.0,51189,51655,richers,51620,51624,mein,richers
 qd,x4vq.0,51189,51655,richers,51642,51646,mich,richers
+qd,x4vq.0,51929,52117,richers,51966,51969,ich,richers
 qd,x4vq.0,51929,52117,richers,52089,52092,ich,richers
 qd,x4vq.0,51929,52117,richers,52101,52107,meinen,richers
 qd,x4vq.0,52210,52233,richers,52220,52223,Ich,richers
@@ -368,6 +370,7 @@ qd,x4vq.0,61666,61851,gruskel,61722,61725,ich,gruskel
 qd,x4vq.0,61856,61942,johann,61879,61884,meine,johann
 qd,x4vq.0,61856,61942,johann,61929,61933,mein,johann
 qd,x4vq.0,61947,62480,gruskel,61989,61993,mich,gruskel
+qd,x4vq.0,61947,62480,gruskel,62106,62109,mir,gruskel
 qd,x4vq.0,61947,62480,gruskel,62297,62300,Ich,gruskel
 qd,x4vq.0,61947,62480,gruskel,62307,62311,mich,gruskel
 qd,x4vq.0,61947,62480,gruskel,62329,62333,mich,gruskel
@@ -565,7 +568,6 @@ qd,x4vq.0,84605,85065,richers,84618,84621,mir,richers
 qd,x4vq.0,84605,85065,richers,84839,84842,Ich,richers
 qd,x4vq.0,84605,85065,richers,84935,84939,mich,richers
 qd,x4vq.0,84605,85065,richers,85027,85030,ich,richers
-qd,x4vq.0,85070,85098,jöran,85086,85092,meinen,jöran
 qd,x4vq.0,85552,85584,jöran,85564,85570,meinen,jöran
 qd,x4vq.0,85589,85930,richers,85626,85629,ich,richers
 qd,x4vq.0,85589,85930,richers,85671,85676,meine,richers

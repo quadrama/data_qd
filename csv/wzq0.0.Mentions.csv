@@ -62,6 +62,7 @@ qd,wzq0.0,7465,8082,holländer,7476,7480,Mein,holländer
 qd,wzq0.0,7465,8082,holländer,7629,7632,ich,holländer
 qd,wzq0.0,7465,8082,holländer,7657,7660,ich,holländer
 qd,wzq0.0,7465,8082,holländer,7688,7691,ich,holländer
+qd,wzq0.0,7465,8082,holländer,7731,7735,mich,holländer
 qd,wzq0.0,7465,8082,holländer,7743,7746,ich,holländer
 qd,wzq0.0,7465,8082,holländer,7775,7778,ich,holländer
 qd,wzq0.0,7465,8082,holländer,7811,7814,ich,holländer
@@ -109,6 +110,7 @@ qd,wzq0.0,10268,10325,holländer,10294,10297,ich,holländer
 qd,wzq0.0,10443,10873,holländer,10466,10470,mein,holländer
 qd,wzq0.0,10443,10873,holländer,10484,10488,mein,holländer
 qd,wzq0.0,10443,10873,holländer,10567,10571,mich,holländer
+qd,wzq0.0,10443,10873,holländer,10585,10588,mir,holländer
 qd,wzq0.0,10443,10873,holländer,10600,10604,mich,holländer
 qd,wzq0.0,10443,10873,holländer,10642,10645,mir,holländer
 qd,wzq0.0,10443,10873,holländer,10660,10663,ich,holländer
@@ -149,6 +151,7 @@ qd,wzq0.0,16022,16097,mary,16054,16057,mir,mary
 qd,wzq0.0,16103,16144,senta,16128,16131,ich,senta
 qd,wzq0.0,16149,16184,mary,16180,16183,mir,mary
 qd,wzq0.0,16189,16318,senta,16197,16200,Ich,senta
+qd,wzq0.0,16189,16318,senta,16243,16247,mich,senta
 qd,wzq0.0,16417,16641,mary,16435,16438,Ich,mary
 qd,wzq0.0,16646,18392,senta,17472,17475,ich,senta
 qd,wzq0.0,18534,18730,senta,18609,18612,Ich,senta
@@ -191,6 +194,7 @@ qd,wzq0.0,21651,21700,senta,21663,21669,meinem,senta
 qd,wzq0.0,21651,21700,senta,21686,21689,ich,senta
 qd,wzq0.0,21760,21863,senta,21768,21771,Ich,senta
 qd,wzq0.0,21760,21863,senta,21806,21809,ich,senta
+qd,wzq0.0,21869,21930,erik,21909,21912,ich,erik
 qd,wzq0.0,21935,21991,senta,21947,21951,mich,senta
 qd,wzq0.0,21996,22047,erik,22002,22006,Mein,erik
 qd,wzq0.0,22052,22331,senta,22236,22240,mich,senta
@@ -230,7 +234,9 @@ qd,wzq0.0,25093,26843,daland,26582,26585,mir,daland
 qd,wzq0.0,25093,26843,daland,26656,26659,Ich,daland
 qd,wzq0.0,25093,26843,daland,26687,26690,mir,daland
 qd,wzq0.0,26848,27388,holländer,26954,26957,mir,holländer
+qd,wzq0.0,26848,27388,holländer,26964,26967,ich,holländer
 qd,wzq0.0,26848,27388,holländer,27008,27014,meinen,holländer
+qd,wzq0.0,26848,27388,holländer,27025,27028,ich,holländer
 qd,wzq0.0,26848,27388,holländer,27052,27055,ich,holländer
 qd,wzq0.0,26848,27388,holländer,27071,27076,meine,holländer
 qd,wzq0.0,26848,27388,holländer,27156,27159,mir,holländer
@@ -276,11 +282,13 @@ qd,wzq0.0,29896,30198,senta,30073,30076,mir,senta
 qd,wzq0.0,29896,30198,senta,30108,30112,mein,senta
 qd,wzq0.0,29896,30198,senta,30151,30155,mich,senta
 qd,wzq0.0,30204,30535,daland,30242,30246,Mein,daland
+qd,wzq0.0,30204,30535,daland,30354,30357,ich,daland
 qd,wzq0.0,30204,30535,daland,30444,30447,Ich,daland
 qd,wzq0.0,30204,30535,daland,30499,30503,mein,daland
 qd,wzq0.0,30541,30645,senta,30589,30594,meine,senta
 qd,wzq0.0,30541,30645,senta,30636,30639,ich,senta
 qd,wzq0.0,32271,32410,die_mädchen,32290,32294,Mein,die_mädchen
+qd,wzq0.0,38252,38570,chor_der_norwegischen_matrosen,38316,38320,mich,chor_der_norwegischen_matrosen
 qd,wzq0.0,39353,39442,erik,39368,39371,ich,erik
 qd,wzq0.0,39353,39442,erik,39393,39396,ich,erik
 qd,wzq0.0,39448,39499,senta,39483,39486,ich,senta

@@ -8,6 +8,8 @@ qd,sttf.0,1168,1264,phillis,1241,1244,ich,phillis
 qd,sttf.0,1506,1570,phillis,1545,1548,ich,phillis
 qd,sttf.0,1754,1874,phillis,1764,1768,Mein,phillis
 qd,sttf.0,1754,1874,phillis,1776,1779,ich,phillis
+qd,sttf.0,1754,1874,phillis,1824,1827,mir,phillis
+qd,sttf.0,1754,1874,phillis,1835,1838,ich,phillis
 qd,sttf.0,1754,1874,phillis,1855,1859,mich,phillis
 qd,sttf.0,1880,2463,philemon,1891,1895,Mein,philemon
 qd,sttf.0,1880,2463,philemon,1923,1926,ich,philemon
@@ -244,6 +246,7 @@ qd,sttf.0,32404,32422,mops,32410,32413,Ich,mops
 qd,sttf.0,32427,32484,mirtillo,32438,32441,Ich,mirtillo
 qd,sttf.0,32514,32607,mirtillo,32537,32540,mir,mirtillo
 qd,sttf.0,32613,32643,mops,32628,32631,ich,mops
+qd,sttf.0,32717,32818,mirtillo,32749,32752,ich,mirtillo
 qd,sttf.0,33047,33228,mirtillo,33066,33069,Ich,mirtillo
 qd,sttf.0,33047,33228,mirtillo,33171,33174,Ich,mirtillo
 qd,sttf.0,33047,33228,mirtillo,33204,33207,ich,mirtillo
@@ -322,6 +325,7 @@ qd,sttf.0,40960,41422,sylvan,41031,41034,mir,sylvan
 qd,sttf.0,41428,41646,mirta,41461,41464,Ich,mirta
 qd,sttf.0,41428,41646,mirta,41506,41510,mich,mirta
 qd,sttf.0,41428,41646,mirta,41544,41548,mich,mirta
+qd,sttf.0,41428,41646,mirta,41602,41605,ich,mirta
 qd,sttf.0,41428,41646,mirta,41608,41614,meinen,mirta
 qd,sttf.0,41428,41646,mirta,41636,41639,ich,mirta
 qd,sttf.0,41652,41888,sylvan,41677,41680,ich,sylvan
@@ -349,6 +353,7 @@ qd,sttf.0,42961,43334,sylvan,43243,43246,Ich,sylvan
 qd,sttf.0,42961,43334,sylvan,43281,43284,ich,sylvan
 qd,sttf.0,43526,43558,seladon,43535,43538,Ich,seladon
 qd,sttf.0,43629,43665,seladon,43647,43650,ich,seladon
+qd,sttf.0,43670,43757,sylvan,43688,43691,ich,sylvan
 qd,sttf.0,43763,43827,seladon,43780,43783,ich,seladon
 qd,sttf.0,43763,43827,seladon,43806,43810,mich,seladon
 qd,sttf.0,43877,43938,seladon,43887,43890,Ich,seladon
@@ -387,6 +392,7 @@ qd,sttf.0,46991,47053,phillis,47019,47023,mich,phillis
 qd,sttf.0,47093,47128,phillis,47123,47127,mich,phillis
 qd,sttf.0,47133,47198,sylvan,47171,47174,Ich,sylvan
 qd,sttf.0,47133,47198,sylvan,47184,47187,ich,sylvan
+qd,sttf.0,47503,47562,sylvia,47546,47549,mir,sylvia
 qd,sttf.0,47703,47739,mirtillo,47713,47716,Ich,mirtillo
 qd,sttf.0,47785,47845,mirtillo,47820,47823,ich,mirtillo
 qd,sttf.0,47912,47981,mirtillo,47942,47946,mein,mirtillo
@@ -501,6 +507,7 @@ qd,sttf.0,56793,58323,philemon,57250,57253,mir,philemon
 qd,sttf.0,56793,58323,philemon,57264,57267,Ich,philemon
 qd,sttf.0,56793,58323,philemon,57276,57279,Ich,philemon
 qd,sttf.0,56793,58323,philemon,57310,57313,ich,philemon
+qd,sttf.0,56793,58323,philemon,57344,57347,mir,philemon
 qd,sttf.0,56793,58323,philemon,57364,57370,meines,philemon
 qd,sttf.0,56793,58323,philemon,57397,57400,mir,philemon
 qd,sttf.0,56793,58323,philemon,57423,57428,meine,philemon
@@ -654,6 +661,7 @@ qd,sttf.0,67828,68153,doris,68094,68097,ich,doris
 qd,sttf.0,68227,68336,silen,68308,68312,mich,silen
 qd,sttf.0,68425,68628,silen,68442,68445,mir,silen
 qd,sttf.0,68425,68628,silen,68449,68455,meinem,silen
+qd,sttf.0,68425,68628,silen,68559,68562,ich,silen
 qd,sttf.0,68425,68628,silen,68584,68588,mich,silen
 qd,sttf.0,68425,68628,silen,68601,68604,ich,silen
 qd,sttf.0,68969,69129,philemon,68987,68990,mir,philemon
@@ -664,6 +672,7 @@ qd,sttf.0,69135,69242,doris,69199,69202,ich,doris
 qd,sttf.0,69248,69312,philemon,69258,69261,Ich,philemon
 qd,sttf.0,69317,69433,doris,69335,69339,mein,doris
 qd,sttf.0,69317,69433,doris,69360,69363,ich,doris
+qd,sttf.0,69317,69433,doris,69416,69419,mir,doris
 qd,sttf.0,69536,69591,philemon,69549,69555,meinen,philemon
 qd,sttf.0,69596,69646,doris,69626,69630,mein,doris
 qd,sttf.0,69651,69817,philemon,69662,69665,Ich,philemon
@@ -784,6 +793,7 @@ qd,sttf.0,79028,79059,damon,79035,79038,Ich,damon
 qd,sttf.0,79064,79280,galathe,79190,79193,ich,galathe
 qd,sttf.0,79323,79531,galathe,79376,79379,Ich,galathe
 qd,sttf.0,79323,79531,galathe,79451,79454,ich,galathe
+qd,sttf.0,79667,79863,damon,79709,79712,mir,damon
 qd,sttf.0,79667,79863,damon,79733,79736,ich,damon
 qd,sttf.0,79667,79863,damon,79755,79758,Ich,damon
 qd,sttf.0,79667,79863,damon,79800,79803,ich,damon
@@ -884,6 +894,7 @@ qd,sttf.0,86695,86957,sylvan,86724,86728,mich,sylvan
 qd,sttf.0,86963,87047,doris,86985,86988,ich,doris
 qd,sttf.0,86963,87047,doris,86995,86998,Ich,doris
 qd,sttf.0,87053,87357,sylvan,87173,87176,mir,sylvan
+qd,sttf.0,87053,87357,sylvan,87339,87342,mir,sylvan
 qd,sttf.0,87363,87397,doris,87381,87384,mir,doris
 qd,sttf.0,87443,87478,doris,87450,87453,Ich,doris
 qd,sttf.0,87483,87503,sylvan,87491,87494,Ich,sylvan
@@ -1018,6 +1029,7 @@ qd,sttf.0,98497,98849,galathe,98658,98662,mich,galathe
 qd,sttf.0,98497,98849,galathe,98700,98704,mich,galathe
 qd,sttf.0,98497,98849,galathe,98795,98798,Ich,galathe
 qd,sttf.0,98855,98995,sylvan,98874,98877,Ich,sylvan
+qd,sttf.0,99001,99096,galathe,99028,99031,ich,galathe
 qd,sttf.0,99001,99096,galathe,99046,99049,mir,galathe
 qd,sttf.0,99102,99138,mirtillo,99112,99115,Ich,mirtillo
 qd,sttf.0,99143,99176,sylvan,99151,99154,Ich,sylvan
@@ -1098,6 +1110,8 @@ qd,sttf.0,106285,106353,seladon,106306,106310,mich,seladon
 qd,sttf.0,106359,106381,philemon,106377,106380,mir,philemon
 qd,sttf.0,106455,106534,philemon,106470,106474,mein,philemon
 qd,sttf.0,107336,107501,sylvan,107345,107348,Ich,sylvan
+qd,sttf.0,107336,107501,sylvan,107466,107469,ich,sylvan
+qd,sttf.0,107336,107501,sylvan,107483,107486,ich,sylvan
 qd,sttf.0,107808,107873,philemon,107837,107840,ich,philemon
 qd,sttf.0,108252,108294,phillis,108271,108274,ich,phillis
 qd,sttf.0,108299,108357,sylvia,108307,108310,Ich,sylvia
@@ -1105,6 +1119,7 @@ qd,sttf.0,108455,108506,philemon,108465,108468,Ich,philemon
 qd,sttf.0,108578,108687,sylvia,108647,108650,mir,sylvia
 qd,sttf.0,108693,108752,phillis,108702,108705,Ich,phillis
 qd,sttf.0,108757,108865,sylvia,108770,108773,ich,sylvia
+qd,sttf.0,108757,108865,sylvia,108834,108837,mir,sylvia
 qd,sttf.0,108871,108908,phillis,108884,108887,mir,phillis
 qd,sttf.0,109242,109395,sylvan,109290,109293,mir,sylvan
 qd,sttf.0,109561,109667,sylvan,109578,109581,ich,sylvan

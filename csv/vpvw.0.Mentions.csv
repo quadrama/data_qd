@@ -152,6 +152,7 @@ qd,vpvw.0,20682,20791,der_bruder_leo,20731,20734,mir,der_bruder_leo
 qd,vpvw.0,20682,20791,der_bruder_leo,20743,20747,mein,der_bruder_leo
 qd,vpvw.0,20682,20791,der_bruder_leo,20779,20782,ich,der_bruder_leo
 qd,vpvw.0,21264,21522,franziskus,21302,21305,ich,franziskus
+qd,vpvw.0,21564,21783,franziskus,21585,21588,ich,franziskus
 qd,vpvw.0,21789,21929,der_bruder_leo,21813,21816,ich,der_bruder_leo
 qd,vpvw.0,21789,21929,der_bruder_leo,21831,21834,Ich,der_bruder_leo
 qd,vpvw.0,21789,21929,der_bruder_leo,21850,21853,Ich,der_bruder_leo
@@ -281,6 +282,7 @@ qd,vpvw.0,47838,48340,der_bruder_martin,48158,48161,ich,der_bruder_martin
 qd,vpvw.0,47838,48340,der_bruder_martin,48263,48266,mir,der_bruder_martin
 qd,vpvw.0,47838,48340,der_bruder_martin,48329,48333,mich,der_bruder_martin
 qd,vpvw.0,48587,48674,bruder_johannes,48670,48673,mir,bruder_johannes
+qd,vpvw.0,49470,50426,bruder_peter,49539,49542,ich,bruder_peter
 qd,vpvw.0,49470,50426,bruder_peter,49850,49853,Ich,bruder_peter
 qd,vpvw.0,49470,50426,bruder_peter,49868,49871,Ich,bruder_peter
 qd,vpvw.0,49470,50426,bruder_peter,49885,49888,Ich,bruder_peter
@@ -328,6 +330,7 @@ qd,vpvw.0,58938,60374,luthers_stimme,58953,58956,ich,luthers_stimme
 qd,vpvw.0,58938,60374,luthers_stimme,59206,59209,ich,luthers_stimme
 qd,vpvw.0,58938,60374,luthers_stimme,59220,59224,mich,luthers_stimme
 qd,vpvw.0,58938,60374,luthers_stimme,59285,59288,ich,luthers_stimme
+qd,vpvw.0,58938,60374,luthers_stimme,59347,59350,ich,luthers_stimme
 qd,vpvw.0,58938,60374,luthers_stimme,59474,59477,ich,luthers_stimme
 qd,vpvw.0,58938,60374,luthers_stimme,59642,59645,ich,luthers_stimme
 qd,vpvw.0,58938,60374,luthers_stimme,59672,59675,ich,luthers_stimme
@@ -389,6 +392,7 @@ qd,vpvw.0,64254,72763,luthers_stimme,69800,69803,ich,luthers_stimme
 qd,vpvw.0,64254,72763,luthers_stimme,69829,69832,mir,luthers_stimme
 qd,vpvw.0,64254,72763,luthers_stimme,69915,69918,ich,luthers_stimme
 qd,vpvw.0,64254,72763,luthers_stimme,69997,70001,mich,luthers_stimme
+qd,vpvw.0,64254,72763,luthers_stimme,70835,70838,ich,luthers_stimme
 qd,vpvw.0,64254,72763,luthers_stimme,70842,70845,Ich,luthers_stimme
 qd,vpvw.0,64254,72763,luthers_stimme,71422,71426,mein,luthers_stimme
 qd,vpvw.0,64254,72763,luthers_stimme,71447,71451,mein,luthers_stimme
@@ -454,6 +458,7 @@ qd,vpvw.0,76474,78640,luthers_stimme,77559,77562,ich,luthers_stimme
 qd,vpvw.0,76474,78640,luthers_stimme,77603,77606,ich,luthers_stimme
 qd,vpvw.0,76474,78640,luthers_stimme,77787,77790,ich,luthers_stimme
 qd,vpvw.0,76474,78640,luthers_stimme,77903,77908,meine,luthers_stimme
+qd,vpvw.0,76474,78640,luthers_stimme,77926,77929,ich,luthers_stimme
 qd,vpvw.0,76474,78640,luthers_stimme,78013,78017,mich,luthers_stimme
 qd,vpvw.0,76474,78640,luthers_stimme,78115,78119,mich,luthers_stimme
 qd,vpvw.0,76474,78640,luthers_stimme,78200,78203,Ich,luthers_stimme
@@ -511,6 +516,8 @@ qd,vpvw.0,91139,91784,vierter_teufel,91381,91384,Ich,vierter_teufel
 qd,vpvw.0,91139,91784,vierter_teufel,91392,91395,ich,vierter_teufel
 qd,vpvw.0,91139,91784,vierter_teufel,91413,91419,meiner,vierter_teufel
 qd,vpvw.0,91139,91784,vierter_teufel,91434,91437,ich,vierter_teufel
+qd,vpvw.0,91139,91784,vierter_teufel,91496,91499,ich,vierter_teufel
+qd,vpvw.0,91139,91784,vierter_teufel,91511,91514,ich,vierter_teufel
 qd,vpvw.0,92320,92499,zweite_gestalt,92351,92354,Ich,zweite_gestalt
 qd,vpvw.0,92320,92499,zweite_gestalt,92399,92403,Mein,zweite_gestalt
 qd,vpvw.0,92320,92499,zweite_gestalt,92428,92432,mein,zweite_gestalt
@@ -527,6 +534,7 @@ qd,vpvw.0,92730,98550,luthers_stimme,93445,93448,Ich,luthers_stimme
 qd,vpvw.0,92730,98550,luthers_stimme,93479,93482,ich,luthers_stimme
 qd,vpvw.0,92730,98550,luthers_stimme,93511,93515,mein,luthers_stimme
 qd,vpvw.0,92730,98550,luthers_stimme,93538,93542,mich,luthers_stimme
+qd,vpvw.0,92730,98550,luthers_stimme,93585,93588,ich,luthers_stimme
 qd,vpvw.0,92730,98550,luthers_stimme,93651,93654,ich,luthers_stimme
 qd,vpvw.0,92730,98550,luthers_stimme,93661,93666,meine,luthers_stimme
 qd,vpvw.0,92730,98550,luthers_stimme,94045,94048,ich,luthers_stimme
@@ -554,6 +562,7 @@ qd,vpvw.0,92730,98550,luthers_stimme,97144,97147,ich,luthers_stimme
 qd,vpvw.0,92730,98550,luthers_stimme,97148,97152,mich,luthers_stimme
 qd,vpvw.0,92730,98550,luthers_stimme,97177,97180,ich,luthers_stimme
 qd,vpvw.0,92730,98550,luthers_stimme,97324,97327,ich,luthers_stimme
+qd,vpvw.0,92730,98550,luthers_stimme,97466,97469,ich,luthers_stimme
 qd,vpvw.0,92730,98550,luthers_stimme,97615,97618,Ich,luthers_stimme
 qd,vpvw.0,92730,98550,luthers_stimme,98043,98046,Ich,luthers_stimme
 qd,vpvw.0,92730,98550,luthers_stimme,98095,98099,mich,luthers_stimme

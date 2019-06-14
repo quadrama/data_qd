@@ -33,6 +33,8 @@ qd,qkp7.0,9139,9362,peter,9197,9200,ich,peter
 qd,qkp7.0,9139,9362,peter,9223,9227,Mein,peter
 qd,qkp7.0,9139,9362,peter,9246,9249,mir,peter
 qd,qkp7.0,9139,9362,peter,9281,9284,Ich,peter
+qd,qkp7.0,9139,9362,peter,9316,9319,ich,peter
+qd,qkp7.0,9900,9922,peter,9916,9919,ich,peter
 qd,qkp7.0,10335,10621,schaphirow,10380,10383,Ich,schaphirow
 qd,qkp7.0,10335,10621,schaphirow,10421,10425,Mein,schaphirow
 qd,qkp7.0,10335,10621,schaphirow,10431,10434,ich,schaphirow
@@ -43,13 +45,16 @@ qd,qkp7.0,10736,11517,ostermann,10945,10948,ich,ostermann
 qd,qkp7.0,10736,11517,ostermann,11303,11306,ich,ostermann
 qd,qkp7.0,10736,11517,ostermann,11423,11426,ich,ostermann
 qd,qkp7.0,11522,13013,peter,11556,11561,meine,peter
+qd,qkp7.0,11522,13013,peter,11594,11597,ich,peter
 qd,qkp7.0,11522,13013,peter,11682,11685,ich,peter
 qd,qkp7.0,11522,13013,peter,11690,11696,meinem,peter
 qd,qkp7.0,11522,13013,peter,12871,12877,meiner,peter
+qd,qkp7.0,11522,13013,peter,12948,12951,mir,peter
 qd,qkp7.0,13019,13243,menzikof,13098,13102,mich,menzikof
 qd,qkp7.0,13601,13653,peter,13632,13635,mir,peter
 qd,qkp7.0,14238,14297,peter,14281,14284,Ich,peter
 qd,qkp7.0,14490,14654,peter,14498,14501,Ich,peter
+qd,qkp7.0,14826,15211,tolstoi,15189,15192,ich,tolstoi
 qd,qkp7.0,15217,15277,peter,15265,15270,meine,peter
 qd,qkp7.0,15496,16280,tolstoi,15917,15920,ich,tolstoi
 qd,qkp7.0,15496,16280,tolstoi,16261,16264,ich,tolstoi
@@ -59,7 +64,6 @@ qd,qkp7.0,16411,17090,tolstoi,16469,16473,mich,tolstoi
 qd,qkp7.0,16411,17090,tolstoi,16542,16545,ich,tolstoi
 qd,qkp7.0,16411,17090,tolstoi,16580,16583,ich,tolstoi
 qd,qkp7.0,16411,17090,tolstoi,16589,16592,ich,tolstoi
-qd,qkp7.0,16411,17090,tolstoi,16914,16919,meine,tolstoi
 qd,qkp7.0,16411,17090,tolstoi,16941,16944,ich,tolstoi
 qd,qkp7.0,16411,17090,tolstoi,16973,16977,Mein,tolstoi
 qd,qkp7.0,16411,17090,tolstoi,16979,16982,ich,tolstoi
@@ -95,6 +99,7 @@ qd,qkp7.0,19899,21351,tolstoi,20496,20499,ich,tolstoi
 qd,qkp7.0,19899,21351,tolstoi,20512,20515,mir,tolstoi
 qd,qkp7.0,19899,21351,tolstoi,20660,20663,mir,tolstoi
 qd,qkp7.0,19899,21351,tolstoi,20994,20999,meine,tolstoi
+qd,qkp7.0,19899,21351,tolstoi,21251,21254,ich,tolstoi
 qd,qkp7.0,19899,21351,tolstoi,21318,21321,ich,tolstoi
 qd,qkp7.0,21724,21949,anna,21731,21734,Ich,anna
 qd,qkp7.0,21724,21949,anna,21797,21800,ich,anna
@@ -211,6 +216,7 @@ qd,qkp7.0,35741,35804,katharina,35785,35788,ich,katharina
 qd,qkp7.0,35810,36013,peter,35852,35855,Ich,peter
 qd,qkp7.0,36040,36534,peter,36131,36134,ich,peter
 qd,qkp7.0,36040,36534,peter,36269,36274,meine,peter
+qd,qkp7.0,36040,36534,peter,36362,36365,ich,peter
 qd,qkp7.0,36040,36534,peter,36451,36454,ich,peter
 qd,qkp7.0,36040,36534,peter,36483,36486,Ich,peter
 qd,qkp7.0,36541,36572,katharina,36558,36561,ich,katharina
@@ -227,6 +233,7 @@ qd,qkp7.0,37536,37882,peter,37668,37671,ich,peter
 qd,qkp7.0,37536,37882,peter,37690,37696,meinen,peter
 qd,qkp7.0,37536,37882,peter,37711,37714,ich,peter
 qd,qkp7.0,37536,37882,peter,37734,37737,ich,peter
+qd,qkp7.0,37536,37882,peter,37770,37773,ich,peter
 qd,qkp7.0,37536,37882,peter,37837,37840,Ich,peter
 qd,qkp7.0,38008,38039,peter,38027,38033,meinem,peter
 qd,qkp7.0,38182,38355,peter,38207,38210,mir,peter
@@ -308,6 +315,7 @@ qd,qkp7.0,44934,48156,katharina,45722,45726,mich,katharina
 qd,qkp7.0,44934,48156,katharina,45750,45753,Mir,katharina
 qd,qkp7.0,44934,48156,katharina,45786,45789,ich,katharina
 qd,qkp7.0,44934,48156,katharina,45949,45952,mir,katharina
+qd,qkp7.0,44934,48156,katharina,46117,46120,ich,katharina
 qd,qkp7.0,44934,48156,katharina,46139,46143,mich,katharina
 qd,qkp7.0,44934,48156,katharina,46250,46253,Ich,katharina
 qd,qkp7.0,44934,48156,katharina,46272,46275,Ich,katharina
@@ -381,6 +389,7 @@ qd,qkp7.0,51295,52082,costa,51403,51407,mich,costa
 qd,qkp7.0,51295,52082,costa,51423,51427,mich,costa
 qd,qkp7.0,51295,52082,costa,51500,51503,ich,costa
 qd,qkp7.0,51295,52082,costa,51552,51555,Ich,costa
+qd,qkp7.0,51295,52082,costa,51566,51569,ich,costa
 qd,qkp7.0,51295,52082,costa,51825,51828,ich,costa
 qd,qkp7.0,51295,52082,costa,51990,51993,ich,costa
 qd,qkp7.0,52236,52281,menzikof,52254,52257,Ich,menzikof
@@ -481,6 +490,7 @@ qd,qkp7.0,65198,65363,alexis,65207,65210,Ich,alexis
 qd,qkp7.0,65198,65363,alexis,65313,65316,Ich,alexis
 qd,qkp7.0,65369,65541,costa,65390,65393,ich,costa
 qd,qkp7.0,65546,65648,alexis,65575,65578,Ich,alexis
+qd,qkp7.0,65546,65648,alexis,65604,65607,ich,alexis
 qd,qkp7.0,65653,65816,costa,65661,65664,Ich,costa
 qd,qkp7.0,66012,66183,costa,66089,66092,ich,costa
 qd,qkp7.0,66012,66183,costa,66172,66176,mich,costa
@@ -515,15 +525,19 @@ qd,qkp7.0,69770,70074,alexis,69985,69990,meine,alexis
 qd,qkp7.0,70080,70783,katharina,70126,70130,mich,katharina
 qd,qkp7.0,70080,70783,katharina,70314,70317,ich,katharina
 qd,qkp7.0,70080,70783,katharina,70361,70364,ich,katharina
+qd,qkp7.0,70080,70783,katharina,70398,70401,ich,katharina
 qd,qkp7.0,70080,70783,katharina,70420,70423,mir,katharina
 qd,qkp7.0,70080,70783,katharina,70476,70479,Ich,katharina
 qd,qkp7.0,70788,71014,alexis,70894,70898,mich,alexis
 qd,qkp7.0,70788,71014,alexis,70993,70996,Ich,alexis
+qd,qkp7.0,71020,71130,katharina,71075,71078,ich,katharina
 qd,qkp7.0,71020,71130,katharina,71097,71100,Ich,katharina
 qd,qkp7.0,71020,71130,katharina,71126,71129,mir,katharina
 qd,qkp7.0,71137,72118,alexis,71237,71240,ich,alexis
+qd,qkp7.0,71137,72118,alexis,71285,71288,ich,alexis
 qd,qkp7.0,71137,72118,alexis,71333,71336,ich,alexis
 qd,qkp7.0,71137,72118,alexis,71375,71379,mein,alexis
+qd,qkp7.0,71137,72118,alexis,71381,71384,ich,alexis
 qd,qkp7.0,71137,72118,alexis,71525,71529,mich,alexis
 qd,qkp7.0,71137,72118,alexis,71697,71700,Mir,alexis
 qd,qkp7.0,71137,72118,alexis,71728,71731,ich,alexis
@@ -549,6 +563,7 @@ qd,qkp7.0,74777,74953,menzikof,74922,74926,mein,menzikof
 qd,qkp7.0,76066,76116,peter,76102,76108,meinem,peter
 qd,qkp7.0,76121,76295,euphrosyne,76150,76153,mir,euphrosyne
 qd,qkp7.0,76344,76777,euphrosyne,76366,76372,meiner,euphrosyne
+qd,qkp7.0,76344,76777,euphrosyne,76585,76588,ich,euphrosyne
 qd,qkp7.0,76344,76777,euphrosyne,76723,76726,ich,euphrosyne
 qd,qkp7.0,76782,76877,peter,76817,76820,ich,peter
 qd,qkp7.0,76782,76877,peter,76842,76848,meiner,peter
@@ -556,7 +571,9 @@ qd,qkp7.0,76882,77341,euphrosyne,77096,77100,mich,euphrosyne
 qd,qkp7.0,76882,77341,euphrosyne,77314,77318,mein,euphrosyne
 qd,qkp7.0,77699,77900,euphrosyne,77835,77838,Mir,euphrosyne
 qd,qkp7.0,77699,77900,euphrosyne,77862,77865,mir,euphrosyne
+qd,qkp7.0,77699,77900,euphrosyne,77882,77885,mir,euphrosyne
 qd,qkp7.0,77905,78751,peter,77932,77935,ich,peter
+qd,qkp7.0,77905,78751,peter,78037,78040,ich,peter
 qd,qkp7.0,77905,78751,peter,78220,78223,ich,peter
 qd,qkp7.0,77905,78751,peter,78506,78509,ich,peter
 qd,qkp7.0,78812,78825,tolstoi,78821,78824,Ich,tolstoi
@@ -565,6 +582,7 @@ qd,qkp7.0,79043,79124,tolstoi,79111,79114,mir,tolstoi
 qd,qkp7.0,79129,79162,peter,79145,79148,ich,peter
 qd,qkp7.0,79202,79265,peter,79237,79240,ich,peter
 qd,qkp7.0,79270,79321,tolstoi,79279,79282,Ich,tolstoi
+qd,qkp7.0,79492,79523,peter,79517,79520,ich,peter
 qd,qkp7.0,79888,80041,tolstoi,79977,79980,Ich,tolstoi
 qd,qkp7.0,80063,80107,tolstoi,80090,80093,Mir,tolstoi
 qd,qkp7.0,80156,80324,tolstoi,80212,80216,Mein,tolstoi
@@ -575,11 +593,13 @@ qd,qkp7.0,80808,80929,peter,80839,80845,meiner,peter
 qd,qkp7.0,80935,81256,tolstoi,81237,81240,ich,tolstoi
 qd,qkp7.0,81262,81284,peter,81269,81272,Ich,peter
 qd,qkp7.0,81289,81380,tolstoi,81322,81325,Ich,tolstoi
+qd,qkp7.0,81289,81380,tolstoi,81374,81377,mir,tolstoi
 qd,qkp7.0,81386,81661,peter,81399,81402,ich,peter
 qd,qkp7.0,81386,81661,peter,81474,81477,mir,peter
 qd,qkp7.0,81386,81661,peter,81490,81493,mir,peter
 qd,qkp7.0,81386,81661,peter,81538,81541,mir,peter
 qd,qkp7.0,81386,81661,peter,81565,81568,mir,peter
+qd,qkp7.0,81386,81661,peter,81652,81655,mir,peter
 qd,qkp7.0,81667,81702,tolstoi,81676,81679,Mir,tolstoi
 qd,qkp7.0,81707,81734,peter,81730,81733,mir,peter
 qd,qkp7.0,81740,82149,tolstoi,81781,81784,ich,tolstoi
@@ -607,6 +627,7 @@ qd,qkp7.0,84004,84253,tolstoi,84218,84221,ich,tolstoi
 qd,qkp7.0,84259,84816,peter,84302,84305,ich,peter
 qd,qkp7.0,84259,84816,peter,84321,84324,mir,peter
 qd,qkp7.0,84259,84816,peter,84386,84389,ich,peter
+qd,qkp7.0,84259,84816,peter,84467,84470,mir,peter
 qd,qkp7.0,84259,84816,peter,84546,84549,ich,peter
 qd,qkp7.0,84259,84816,peter,84590,84593,ich,peter
 qd,qkp7.0,84259,84816,peter,84657,84661,mein,peter
@@ -778,6 +799,7 @@ qd,qkp7.0,109484,109508,katharina,109499,109503,mich,katharina
 qd,qkp7.0,109514,109889,peter,109594,109597,ich,peter
 qd,qkp7.0,109514,109889,peter,109611,109615,mein,peter
 qd,qkp7.0,109514,109889,peter,109651,109657,meinem,peter
+qd,qkp7.0,109514,109889,peter,109702,109705,ich,peter
 qd,qkp7.0,109514,109889,peter,109795,109798,ich,peter
 qd,qkp7.0,109514,109889,peter,109870,109873,mir,peter
 qd,qkp7.0,109895,109951,katharina,109922,109925,mir,katharina
@@ -794,7 +816,9 @@ qd,qkp7.0,110438,110520,peter,110479,110482,ich,peter
 qd,qkp7.0,110566,110942,katharina,110741,110744,ich,katharina
 qd,qkp7.0,110566,110942,katharina,110786,110789,Ich,katharina
 qd,qkp7.0,110566,110942,katharina,110798,110804,meinen,katharina
+qd,qkp7.0,111457,111662,schaphirow,111506,111509,ich,schaphirow
 qd,qkp7.0,111887,112117,schaphirow,111900,111904,Mein,schaphirow
+qd,qkp7.0,112124,112535,jaguschinsky,112152,112155,ich,jaguschinsky
 qd,qkp7.0,112727,112910,danilow,112882,112886,mich,danilow
 qd,qkp7.0,112959,113510,peter,113420,113423,Mir,peter
 qd,qkp7.0,112959,113510,peter,113483,113486,Ich,peter
@@ -876,7 +900,6 @@ qd,qkp7.0,126187,126443,alexis,126324,126327,ich,alexis
 qd,qkp7.0,126187,126443,alexis,126364,126367,mir,alexis
 qd,qkp7.0,126187,126443,alexis,126384,126388,Mein,alexis
 qd,qkp7.0,126187,126443,alexis,126409,126412,ich,alexis
-qd,qkp7.0,126488,126538,alexis,126502,126508,meinen,alexis
 qd,qkp7.0,126543,127197,peter,126586,126589,ich,peter
 qd,qkp7.0,126543,127197,peter,126627,126632,meine,peter
 qd,qkp7.0,126543,127197,peter,126695,126698,Ich,peter
@@ -896,6 +919,7 @@ qd,qkp7.0,127203,128278,alexis,127431,127434,ich,alexis
 qd,qkp7.0,127203,128278,alexis,127471,127475,mich,alexis
 qd,qkp7.0,127203,128278,alexis,127542,127545,Ich,alexis
 qd,qkp7.0,127203,128278,alexis,127595,127598,ich,alexis
+qd,qkp7.0,127203,128278,alexis,127599,127602,mir,alexis
 qd,qkp7.0,127203,128278,alexis,127635,127638,ich,alexis
 qd,qkp7.0,127203,128278,alexis,127656,127660,mich,alexis
 qd,qkp7.0,127203,128278,alexis,127732,127735,mir,alexis
@@ -936,6 +960,7 @@ qd,qkp7.0,129730,130037,alexis,129978,129981,ich,alexis
 qd,qkp7.0,129730,130037,alexis,130000,130003,ich,alexis
 qd,qkp7.0,130043,130325,peter,130232,130235,Ich,peter
 qd,qkp7.0,130541,130835,jaguschinsky,130823,130827,mein,jaguschinsky
+qd,qkp7.0,130541,130835,jaguschinsky,130829,130832,ich,jaguschinsky
 qd,qkp7.0,130871,131677,peter,130966,130969,ich,peter
 qd,qkp7.0,130871,131677,peter,131004,131007,Ich,peter
 qd,qkp7.0,130871,131677,peter,131091,131094,ich,peter

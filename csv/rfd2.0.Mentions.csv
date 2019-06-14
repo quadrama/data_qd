@@ -3,6 +3,7 @@ qd,rfd2.0,78278,79708,gräfin,78621,78624,Ich,gräfin
 qd,rfd2.0,78278,79708,gräfin,78670,78673,mir,gräfin
 qd,rfd2.0,78278,79708,gräfin,78708,78714,meinen,gräfin
 qd,rfd2.0,78278,79708,gräfin,78830,78836,meinen,gräfin
+qd,rfd2.0,78278,79708,gräfin,78933,78936,mir,gräfin
 qd,rfd2.0,78278,79708,gräfin,78955,78958,ich,gräfin
 qd,rfd2.0,78278,79708,gräfin,79106,79110,mich,gräfin
 qd,rfd2.0,78278,79708,gräfin,79519,79522,Ich,gräfin
@@ -71,6 +72,7 @@ qd,rfd2.0,94765,95112,gräfin,95068,95071,mir,gräfin
 qd,rfd2.0,95277,95457,generalin,95310,95314,mein,generalin
 qd,rfd2.0,95277,95457,generalin,95323,95326,ich,generalin
 qd,rfd2.0,95277,95457,generalin,95350,95353,ich,generalin
+qd,rfd2.0,95815,95845,generalin,95834,95837,ich,generalin
 qd,rfd2.0,95850,96063,gräfin,95983,95987,Mich,gräfin
 qd,rfd2.0,96265,96542,gräfin,96303,96306,Ich,gräfin
 qd,rfd2.0,96265,96542,gräfin,96337,96340,ich,gräfin
@@ -121,6 +123,7 @@ qd,rfd2.0,110370,110480,schiller,110386,110391,meine,schiller
 qd,rfd2.0,110486,110785,herzog,110502,110506,mich,herzog
 qd,rfd2.0,110486,110785,herzog,110566,110569,ich,herzog
 qd,rfd2.0,110486,110785,herzog,110671,110674,ich,herzog
+qd,rfd2.0,110829,111219,herzog,110845,110848,ich,herzog
 qd,rfd2.0,110829,111219,herzog,110870,110873,ich,herzog
 qd,rfd2.0,110829,111219,herzog,111118,111124,meiner,herzog
 qd,rfd2.0,111672,112042,generalin,111934,111937,ich,generalin
@@ -226,6 +229,7 @@ qd,rfd2.0,127365,128633,bleistift,128286,128289,ich,bleistift
 qd,rfd2.0,127365,128633,bleistift,128392,128396,mich,bleistift
 qd,rfd2.0,127365,128633,bleistift,128444,128447,mir,bleistift
 qd,rfd2.0,127365,128633,bleistift,128472,128475,ich,bleistift
+qd,rfd2.0,127365,128633,bleistift,128480,128483,mir,bleistift
 qd,rfd2.0,127365,128633,bleistift,128501,128505,mein,bleistift
 qd,rfd2.0,127365,128633,bleistift,128558,128562,mich,bleistift
 qd,rfd2.0,127365,128633,bleistift,128589,128592,Ich,bleistift
@@ -260,7 +264,9 @@ qd,rfd2.0,135221,135559,laura,135409,135412,ich,laura
 qd,rfd2.0,135783,135995,schiller,135912,135917,meine,schiller
 qd,rfd2.0,135783,135995,schiller,135951,135954,ich,schiller
 qd,rfd2.0,136050,136403,schiller,136068,136071,ich,schiller
+qd,rfd2.0,136556,136619,schiller,136578,136581,ich,schiller
 qd,rfd2.0,136624,136757,koch,136721,136724,ich,koch
+qd,rfd2.0,136762,136869,schiller,136787,136790,ich,schiller
 qd,rfd2.0,136762,136869,schiller,136846,136849,ich,schiller
 qd,rfd2.0,136900,136997,schiller,136924,136927,ich,schiller
 qd,rfd2.0,137063,137122,schiller,137110,137114,mich,schiller
@@ -397,6 +403,7 @@ qd,rfd2.0,165638,165702,bleistift,165694,165698,mich,bleistift
 qd,rfd2.0,165950,166219,laura,165982,165985,mir,laura
 qd,rfd2.0,166663,166803,generalin,166767,166771,Mein,generalin
 qd,rfd2.0,166808,166945,herzog,166874,166878,mein,herzog
+qd,rfd2.0,166950,167197,generalin,167154,167157,ich,generalin
 qd,rfd2.0,167728,167803,laura,167750,167756,meinen,laura
 qd,rfd2.0,167728,167803,laura,167779,167783,mein,laura
 qd,rfd2.0,168031,168120,laura,168061,168065,mein,laura
@@ -464,6 +471,7 @@ qd,rfd2.0,179327,179858,schiller,179718,179724,meiner,schiller
 qd,rfd2.0,179327,179858,schiller,179777,179782,meine,schiller
 qd,rfd2.0,179888,180245,schiller,179914,179917,ich,schiller
 qd,rfd2.0,179888,180245,schiller,180024,180030,meines,schiller
+qd,rfd2.0,179888,180245,schiller,180124,180127,ich,schiller
 qd,rfd2.0,179888,180245,schiller,180186,180189,ich,schiller
 qd,rfd2.0,180360,180848,schiller,180389,180395,meines,schiller
 qd,rfd2.0,180360,180848,schiller,180418,180421,ich,schiller
@@ -562,7 +570,6 @@ qd,rfd2.0,199732,199899,hauptmaun,199761,199764,mir,hauptmaun
 qd,rfd2.0,200562,200592,laura,200572,200576,mein,laura
 qd,rfd2.0,200696,200724,laura,200713,200716,ich,laura
 qd,rfd2.0,200729,200788,hauptmaun,200741,200744,Ich,hauptmaun
-qd,rfd2.0,200838,200877,laura,200846,200852,Meinen,laura
 qd,rfd2.0,200882,200961,hauptmaun,200914,200917,ich,hauptmaun
 qd,rfd2.0,200882,200961,hauptmaun,200918,200922,mich,hauptmaun
 qd,rfd2.0,200966,201066,laura,201042,201045,Ich,laura
@@ -629,6 +636,7 @@ qd,rfd2.0,210476,211450,herzog,211382,211385,ich,herzog
 qd,rfd2.0,210476,211450,herzog,211386,211390,mich,herzog
 qd,rfd2.0,211455,211504,schiller,211466,211469,Ich,schiller
 qd,rfd2.0,211509,211930,herzog,211585,211591,meinen,herzog
+qd,rfd2.0,211509,211930,herzog,211608,211611,ich,herzog
 qd,rfd2.0,211509,211930,herzog,211643,211648,meine,herzog
 qd,rfd2.0,211509,211930,herzog,211701,211704,ich,herzog
 qd,rfd2.0,212247,212387,schiller,212314,212318,mich,schiller
@@ -674,6 +682,7 @@ qd,rfd2.0,215557,215747,schiller,215712,215715,mir,schiller
 qd,rfd2.0,215752,216015,laura,215814,215817,ich,laura
 qd,rfd2.0,215752,216015,laura,215894,215897,ich,laura
 qd,rfd2.0,215752,216015,laura,215924,215927,ich,laura
+qd,rfd2.0,215752,216015,laura,215954,215957,ich,laura
 qd,rfd2.0,215752,216015,laura,216006,216009,mir,laura
 qd,rfd2.0,216056,216215,laura,216069,216072,ich,laura
 qd,rfd2.0,216056,216215,laura,216177,216180,ich,laura
@@ -771,6 +780,7 @@ qd,rfd2.0,231167,231488,gräfin,231176,231179,Ich,gräfin
 qd,rfd2.0,231167,231488,gräfin,231224,231227,ich,gräfin
 qd,rfd2.0,231167,231488,gräfin,231263,231266,ich,gräfin
 qd,rfd2.0,231167,231488,gräfin,231393,231396,ich,gräfin
+qd,rfd2.0,231493,232665,herzog,231604,231607,mir,herzog
 qd,rfd2.0,231493,232665,herzog,232279,232282,ich,herzog
 qd,rfd2.0,231493,232665,herzog,232283,232287,mich,herzog
 qd,rfd2.0,231493,232665,herzog,232463,232468,meine,herzog
@@ -1026,6 +1036,7 @@ qd,rfd2.0,265169,265348,herzog,265302,265305,ich,herzog
 qd,rfd2.0,265169,265348,herzog,265336,265339,mir,herzog
 qd,rfd2.0,265673,266304,herzog,265818,265821,Ich,herzog
 qd,rfd2.0,265673,266304,herzog,266000,266003,Ich,herzog
+qd,rfd2.0,265673,266304,herzog,266062,266065,ich,herzog
 qd,rfd2.0,265673,266304,herzog,266101,266104,ich,herzog
 qd,rfd2.0,265673,266304,herzog,266177,266180,ich,herzog
 qd,rfd2.0,265673,266304,herzog,266215,266220,meine,herzog
@@ -1096,6 +1107,7 @@ qd,rfd2.0,274977,275532,koch,275046,275052,meinen,koch
 qd,rfd2.0,274977,275532,koch,275084,275087,Ich,koch
 qd,rfd2.0,275539,275756,generalin,275688,275692,mich,generalin
 qd,rfd2.0,275539,275756,generalin,275694,275697,ich,generalin
+qd,rfd2.0,275539,275756,generalin,275717,275720,ich,generalin
 qd,rfd2.0,275539,275756,generalin,275734,275740,meines,generalin
 qd,rfd2.0,276477,277107,schiller,276899,276902,Ich,schiller
 qd,rfd2.0,276477,277107,schiller,276942,276945,ich,schiller

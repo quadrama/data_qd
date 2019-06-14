@@ -275,7 +275,9 @@ qd,nkdq.0,42206,42590,romanze,42391,42394,ich,romanze
 qd,nkdq.0,42595,42671,romanze,42658,42661,mir,romanze
 qd,nkdq.0,42677,42758,oronzio,42694,42697,ich,oronzio
 qd,nkdq.0,42677,42758,oronzio,42698,42702,mich,oronzio
+qd,nkdq.0,42677,42758,oronzio,42743,42746,ich,oronzio
 qd,nkdq.0,42835,43010,oronzio,42911,42914,ich,oronzio
+qd,nkdq.0,42835,43010,oronzio,42928,42931,ich,oronzio
 qd,nkdq.0,44003,44164,romanze,44063,44066,ich,romanze
 qd,nkdq.0,44364,44481,stefano,44382,44386,mein,stefano
 qd,nkdq.0,44486,44630,romanze,44551,44554,Ich,romanze
@@ -384,6 +386,7 @@ qd,nkdq.0,60400,60552,fernando,60518,60522,mich,fernando
 qd,nkdq.0,60558,60728,miranda,60636,60642,meiner,miranda
 qd,nkdq.0,60558,60728,miranda,60658,60661,ich,miranda
 qd,nkdq.0,60558,60728,miranda,60695,60699,mein,miranda
+qd,nkdq.0,60733,60824,fernando,60776,60779,ich,fernando
 qd,nkdq.0,60733,60824,fernando,60800,60804,mein,fernando
 qd,nkdq.0,60912,61567,fernando,61008,61012,mein,fernando
 qd,nkdq.0,60912,61567,fernando,61053,61056,ich,fernando
@@ -413,6 +416,7 @@ qd,nkdq.0,68245,68491,miranda,68412,68415,ich,miranda
 qd,nkdq.0,69190,69209,miranda,69199,69202,Ich,miranda
 qd,nkdq.0,69214,69237,fernando,69233,69236,mir,fernando
 qd,nkdq.0,69427,69503,miranda,69448,69451,ich,miranda
+qd,nkdq.0,69643,69856,miranda,69719,69722,ich,miranda
 qd,nkdq.0,69643,69856,miranda,69739,69743,mich,miranda
 qd,nkdq.0,71312,71390,prospero,71370,71374,mein,prospero
 qd,nkdq.0,71654,71763,prospero,71687,71691,mich,prospero

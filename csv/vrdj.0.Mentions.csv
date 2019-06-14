@@ -27,6 +27,7 @@ qd,vrdj.0,4955,5293,claudia_zu_rosalie,5261,5264,ich,claudia_zu_rosalie
 qd,vrdj.0,4955,5293,claudia_zu_rosalie,5271,5276,meine,claudia_zu_rosalie
 qd,vrdj.0,5298,5539,claudia_zu_rosalie,5325,5328,ich,claudia_zu_rosalie
 qd,vrdj.0,5298,5539,claudia_zu_rosalie,5382,5385,ich,claudia_zu_rosalie
+qd,vrdj.0,5298,5539,claudia_zu_rosalie,5425,5428,ich,claudia_zu_rosalie
 qd,vrdj.0,5298,5539,claudia_zu_rosalie,5460,5463,ich,claudia_zu_rosalie
 qd,vrdj.0,5298,5539,claudia_zu_rosalie,5470,5474,mich,claudia_zu_rosalie
 qd,vrdj.0,5544,5712,sturmwald_steht_auf,5628,5631,ich,sturmwald_steht_auf
@@ -74,6 +75,7 @@ qd,vrdj.0,11850,12490,sturmwald_steht_auf,12040,12045,meine,sturmwald_steht_auf
 qd,vrdj.0,11850,12490,sturmwald_steht_auf,12073,12076,mir,sturmwald_steht_auf
 qd,vrdj.0,11850,12490,sturmwald_steht_auf,12150,12153,ich,sturmwald_steht_auf
 qd,vrdj.0,11850,12490,sturmwald_steht_auf,12159,12165,meinen,sturmwald_steht_auf
+qd,vrdj.0,11850,12490,sturmwald_steht_auf,12194,12197,mir,sturmwald_steht_auf
 qd,vrdj.0,11850,12490,sturmwald_steht_auf,12209,12212,ich,sturmwald_steht_auf
 qd,vrdj.0,11850,12490,sturmwald_steht_auf,12265,12269,mein,sturmwald_steht_auf
 qd,vrdj.0,12575,13109,gotthold,12624,12630,meinem,gotthold
@@ -108,6 +110,7 @@ qd,vrdj.0,16492,16723,sichel,16603,16606,ich,sichel
 qd,vrdj.0,16492,16723,sichel,16708,16711,ich,sichel
 qd,vrdj.0,16788,17182,sichel,16826,16829,ich,sichel
 qd,vrdj.0,16788,17182,sichel,16919,16922,ich,sichel
+qd,vrdj.0,16788,17182,sichel,16973,16976,mir,sichel
 qd,vrdj.0,16788,17182,sichel,17008,17011,ich,sichel
 qd,vrdj.0,16788,17182,sichel,17043,17046,ich,sichel
 qd,vrdj.0,16788,17182,sichel,17100,17105,meine,sichel
@@ -208,6 +211,7 @@ qd,vrdj.0,35415,35729,leonore,35562,35565,Ich,leonore
 qd,vrdj.0,35415,35729,leonore,35710,35713,ich,leonore
 qd,vrdj.0,36340,36432,rosalie_für_sich,36386,36389,mir,rosalie_für_sich
 qd,vrdj.0,36340,36432,rosalie_für_sich,36414,36417,ich,rosalie_für_sich
+qd,vrdj.0,36340,36432,rosalie_für_sich,36418,36422,mich,rosalie_für_sich
 qd,vrdj.0,36732,36936,claudia_zu_rosalie,36833,36836,ich,claudia_zu_rosalie
 qd,vrdj.0,37005,37055,leonore,37029,37033,Mein,leonore
 qd,vrdj.0,37060,37120,rosalie_für_sich,37116,37119,mir,rosalie_für_sich
@@ -241,6 +245,7 @@ qd,vrdj.0,40582,40916,rosalie_für_sich,40834,40837,ich,rosalie_für_sich
 qd,vrdj.0,40995,41040,rosalie_für_sich,41030,41034,mein,rosalie_für_sich
 qd,vrdj.0,41674,41757,claudia_zu_rosalie,41731,41734,Ich,claudia_zu_rosalie
 qd,vrdj.0,43364,43426,claudia_zu_rosalie,43408,43411,ich,claudia_zu_rosalie
+qd,vrdj.0,43432,43502,leonore,43483,43486,ich,leonore
 qd,vrdj.0,43630,43694,leonore,43666,43669,Ich,leonore
 qd,vrdj.0,43630,43694,leonore,43682,43686,mich,leonore
 qd,vrdj.0,43994,44024,leonore,44014,44017,Ich,leonore
@@ -335,6 +340,7 @@ qd,vrdj.0,67909,68277,sichel,68139,68143,mein,sichel
 qd,vrdj.0,67909,68277,sichel,68180,68185,meine,sichel
 qd,vrdj.0,67909,68277,sichel,68199,68204,meine,sichel
 qd,vrdj.0,69097,69195,sichel,69118,69121,ich,sichel
+qd,vrdj.0,69097,69195,sichel,69153,69156,ich,sichel
 qd,vrdj.0,69312,69557,sichel,69449,69452,ich,sichel
 qd,vrdj.0,69562,69759,gotthold,69712,69715,mir,gotthold
 qd,vrdj.0,69764,70471,sichel,69922,69925,ich,sichel
@@ -461,11 +467,13 @@ qd,vrdj.0,90097,90257,sichel,90174,90178,mich,sichel
 qd,vrdj.0,90263,90515,sichel,90315,90318,Ich,sichel
 qd,vrdj.0,90263,90515,sichel,90327,90331,mich,sichel
 qd,vrdj.0,90263,90515,sichel,90423,90426,mir,sichel
+qd,vrdj.0,90263,90515,sichel,90470,90473,mir,sichel
 qd,vrdj.0,90263,90515,sichel,90499,90502,ich,sichel
 qd,vrdj.0,90520,90745,sichel,90546,90549,ich,sichel
 qd,vrdj.0,90520,90745,sichel,90599,90602,ich,sichel
 qd,vrdj.0,90750,90921,sichel,90852,90855,mir,sichel
 qd,vrdj.0,91028,91174,sturmwald_steht_auf,91093,91096,ich,sturmwald_steht_auf
+qd,vrdj.0,91364,91725,sichel,91378,91381,ich,sichel
 qd,vrdj.0,91364,91725,sichel,91512,91515,ich,sichel
 qd,vrdj.0,91364,91725,sichel,91689,91692,Ich,sichel
 qd,vrdj.0,91730,91817,sturmwald_steht_auf,91799,91803,mich,sturmwald_steht_auf
@@ -497,6 +505,7 @@ qd,vrdj.0,94637,94973,sturmwald_steht_auf,94940,94943,Ich,sturmwald_steht_auf
 qd,vrdj.0,94979,95278,sturmwald_steht_auf,95063,95067,mich,sturmwald_steht_auf
 qd,vrdj.0,94979,95278,sturmwald_steht_auf,95084,95087,ich,sturmwald_steht_auf
 qd,vrdj.0,95283,95498,sturmwald_steht_auf,95295,95298,Ich,sturmwald_steht_auf
+qd,vrdj.0,95283,95498,sturmwald_steht_auf,95349,95352,ich,sturmwald_steht_auf
 qd,vrdj.0,95283,95498,sturmwald_steht_auf,95419,95423,mich,sturmwald_steht_auf
 qd,vrdj.0,95503,96972,sturmwald_steht_auf,95699,95702,ich,sturmwald_steht_auf
 qd,vrdj.0,95503,96972,sturmwald_steht_auf,95848,95851,Ich,sturmwald_steht_auf

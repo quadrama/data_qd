@@ -145,6 +145,7 @@ qd,rfcv.0,110315,110800,monaldeschi,110764,110768,mein,monaldeschi
 qd,rfcv.0,110315,110800,monaldeschi,110781,110786,meine,monaldeschi
 qd,rfcv.0,110805,110931,santinelli,110862,110867,meine,santinelli
 qd,rfcv.0,110805,110931,santinelli,110888,110891,mir,santinelli
+qd,rfcv.0,110936,111436,monaldeschi,111025,111028,ich,monaldeschi
 qd,rfcv.0,110936,111436,monaldeschi,111078,111081,ich,monaldeschi
 qd,rfcv.0,110936,111436,monaldeschi,111131,111134,ich,monaldeschi
 qd,rfcv.0,111474,111573,monaldeschi,111517,111520,Ich,monaldeschi
@@ -260,6 +261,7 @@ qd,rfcv.0,134223,134367,monaldeschi,134245,134248,mir,monaldeschi
 qd,rfcv.0,134223,134367,monaldeschi,134275,134278,ich,monaldeschi
 qd,rfcv.0,134372,134424,christine,134406,134409,ich,christine
 qd,rfcv.0,134429,134458,monaldeschi,134443,134446,Ich,monaldeschi
+qd,rfcv.0,135386,135437,sylva,135416,135419,mir,sylva
 qd,rfcv.0,135988,136137,brahe,136012,136016,mein,brahe
 qd,rfcv.0,137753,138004,sylva,137774,137777,ich,sylva
 qd,rfcv.0,137753,138004,sylva,137870,137874,mich,sylva
@@ -276,7 +278,6 @@ qd,rfcv.0,141266,141529,sylva,141409,141412,ich,sylva
 qd,rfcv.0,141266,141529,sylva,141481,141485,mich,sylva
 qd,rfcv.0,141266,141529,sylva,141513,141516,mir,sylva
 qd,rfcv.0,141653,141671,brahe,141661,141665,Mein,brahe
-qd,rfcv.0,142977,143277,brahe,142989,142995,meinen,brahe
 qd,rfcv.0,142977,143277,brahe,143020,143024,mich,brahe
 qd,rfcv.0,142977,143277,brahe,143038,143041,Ich,brahe
 qd,rfcv.0,142977,143277,brahe,143101,143104,ich,brahe
@@ -316,6 +317,7 @@ qd,rfcv.0,147111,147250,malström,147135,147139,mich,malström
 qd,rfcv.0,147255,147502,monaldeschi,147298,147301,ich,monaldeschi
 qd,rfcv.0,147255,147502,monaldeschi,147350,147353,mir,monaldeschi
 qd,rfcv.0,147255,147502,monaldeschi,147375,147378,ich,monaldeschi
+qd,rfcv.0,147255,147502,monaldeschi,147406,147409,ich,monaldeschi
 qd,rfcv.0,147609,148221,monaldeschi,147823,147826,ich,monaldeschi
 qd,rfcv.0,147609,148221,monaldeschi,147889,147893,mein,monaldeschi
 qd,rfcv.0,147609,148221,monaldeschi,147916,147920,mich,monaldeschi
@@ -437,6 +439,7 @@ qd,rfcv.0,162401,162494,malström,162433,162437,mein,malström
 qd,rfcv.0,162401,162494,malström,162465,162468,ich,malström
 qd,rfcv.0,162499,162844,schnüre,162692,162695,ich,schnüre
 qd,rfcv.0,162499,162844,schnüre,162768,162771,ich,schnüre
+qd,rfcv.0,162499,162844,schnüre,162838,162841,ich,schnüre
 qd,rfcv.0,162849,162887,malström,162869,162873,mein,malström
 qd,rfcv.0,163004,163097,schnüre,163036,163040,Mein,schnüre
 qd,rfcv.0,163220,163276,monaldeschi,163249,163253,mich,monaldeschi
@@ -533,6 +536,7 @@ qd,rfcv.0,181149,182522,christine,182278,182281,mir,christine
 qd,rfcv.0,181149,182522,christine,182384,182387,ich,christine
 qd,rfcv.0,181149,182522,christine,182413,182416,Ich,christine
 qd,rfcv.0,181149,182522,christine,182421,182426,meine,christine
+qd,rfcv.0,181149,182522,christine,182506,182509,mir,christine
 qd,rfcv.0,182575,182698,christine,182587,182590,Ich,christine
 qd,rfcv.0,182575,182698,christine,182667,182670,ich,christine
 qd,rfcv.0,182740,182832,christine,182756,182759,ich,christine
@@ -714,6 +718,8 @@ qd,rfcv.0,208799,209111,monaldeschi,208820,208823,mir,monaldeschi
 qd,rfcv.0,208799,209111,monaldeschi,208859,208865,meiner,monaldeschi
 qd,rfcv.0,208799,209111,monaldeschi,208897,208900,Ich,monaldeschi
 qd,rfcv.0,208799,209111,monaldeschi,208948,208952,mich,monaldeschi
+qd,rfcv.0,208799,209111,monaldeschi,209030,209033,mir,monaldeschi
+qd,rfcv.0,208799,209111,monaldeschi,209092,209095,ich,monaldeschi
 qd,rfcv.0,209117,209493,sylva,209170,209174,mein,sylva
 qd,rfcv.0,209117,209493,sylva,209191,209194,Mir,sylva
 qd,rfcv.0,209117,209493,sylva,209367,209370,Ich,sylva
@@ -787,6 +793,7 @@ qd,rfcv.0,217887,218830,christine,218304,218310,meinem,christine
 qd,rfcv.0,217887,218830,christine,218345,218348,ich,christine
 qd,rfcv.0,217887,218830,christine,218400,218403,ich,christine
 qd,rfcv.0,217887,218830,christine,218420,218424,Mein,christine
+qd,rfcv.0,217887,218830,christine,218460,218463,ich,christine
 qd,rfcv.0,217887,218830,christine,218494,218498,mein,christine
 qd,rfcv.0,217887,218830,christine,218578,218583,meine,christine
 qd,rfcv.0,218903,219017,brahe,219001,219005,Mein,brahe
@@ -986,6 +993,7 @@ qd,rfcv.0,247312,247630,christine,247520,247524,mich,christine
 qd,rfcv.0,247312,247630,christine,247600,247603,ich,christine
 qd,rfcv.0,247683,247885,christine,247742,247745,Ich,christine
 qd,rfcv.0,247683,247885,christine,247769,247773,mich,christine
+qd,rfcv.0,247683,247885,christine,247792,247795,ich,christine
 qd,rfcv.0,247683,247885,christine,247852,247855,mir,christine
 qd,rfcv.0,247914,248537,christine,247926,247929,Ich,christine
 qd,rfcv.0,247914,248537,christine,247951,247954,mir,christine

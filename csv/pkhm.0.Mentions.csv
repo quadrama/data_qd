@@ -261,6 +261,7 @@ qd,pkhm.0,59990,60075,die_wirtin,60023,60026,ich,die_wirtin
 qd,pkhm.0,59990,60075,die_wirtin,60054,60058,mein,die_wirtin
 qd,pkhm.0,60420,60625,rapunzel,60446,60449,ich,rapunzel
 qd,pkhm.0,60420,60625,rapunzel,60465,60468,mir,rapunzel
+qd,pkhm.0,60630,61932,der_wirt,60692,60695,ich,der_wirt
 qd,pkhm.0,60630,61932,der_wirt,60728,60731,ich,der_wirt
 qd,pkhm.0,60630,61932,der_wirt,60828,60832,mein,der_wirt
 qd,pkhm.0,62017,62195,rapunzel,62082,62085,ich,rapunzel
@@ -295,6 +296,7 @@ qd,pkhm.0,67697,67733,rapunzel,67708,67711,Ich,rapunzel
 qd,pkhm.0,67784,68054,rapunzel,67828,67831,ich,rapunzel
 qd,pkhm.0,67784,68054,rapunzel,67942,67945,ich,rapunzel
 qd,pkhm.0,67784,68054,rapunzel,67961,67964,ich,rapunzel
+qd,pkhm.0,67784,68054,rapunzel,68034,68037,ich,rapunzel
 qd,pkhm.0,68113,68166,rapunzel,68124,68127,Mir,rapunzel
 qd,pkhm.0,68460,68509,rapunzel,68482,68486,mich,rapunzel
 qd,pkhm.0,68620,69470,rapunzel,68652,68656,mich,rapunzel
@@ -357,6 +359,7 @@ qd,pkhm.0,79992,81623,der_alte_raschke,80586,80589,ich,der_alte_raschke
 qd,pkhm.0,79992,81623,der_alte_raschke,80617,80620,mir,der_alte_raschke
 qd,pkhm.0,79992,81623,der_alte_raschke,80866,80869,ich,der_alte_raschke
 qd,pkhm.0,79992,81623,der_alte_raschke,80880,80886,meinen,der_alte_raschke
+qd,pkhm.0,79992,81623,der_alte_raschke,80946,80949,mir,der_alte_raschke
 qd,pkhm.0,79992,81623,der_alte_raschke,81117,81120,ich,der_alte_raschke
 qd,pkhm.0,79992,81623,der_alte_raschke,81371,81374,ich,der_alte_raschke
 qd,pkhm.0,79992,81623,der_alte_raschke,81560,81564,mich,der_alte_raschke
@@ -431,7 +434,9 @@ qd,pkhm.0,91948,92478,rapunzel,91959,91962,Ich,rapunzel
 qd,pkhm.0,91948,92478,rapunzel,91986,91989,ich,rapunzel
 qd,pkhm.0,91948,92478,rapunzel,92234,92237,mir,rapunzel
 qd,pkhm.0,91948,92478,rapunzel,92333,92336,ich,rapunzel
+qd,pkhm.0,91948,92478,rapunzel,92457,92460,ich,rapunzel
 qd,pkhm.0,92483,92588,der_amtssekretär,92511,92514,ich,der_amtssekretär
+qd,pkhm.0,92593,92691,rapunzel,92670,92673,ich,rapunzel
 qd,pkhm.0,92696,92776,der_gendarm,92710,92713,Ich,der_gendarm
 qd,pkhm.0,93161,93559,der_gendarm,93523,93526,ich,der_gendarm
 qd,pkhm.0,93619,93723,der_gendarm,93640,93643,ich,der_gendarm
@@ -516,8 +521,10 @@ qd,pkhm.0,108345,108838,die_alte_raschke,108487,108490,ich,die_alte_raschke
 qd,pkhm.0,108345,108838,die_alte_raschke,108703,108706,ich,die_alte_raschke
 qd,pkhm.0,108916,109485,die_junge_raschke,109130,109135,meine,die_junge_raschke
 qd,pkhm.0,108916,109485,die_junge_raschke,109161,109164,ich,die_junge_raschke
+qd,pkhm.0,108916,109485,die_junge_raschke,109264,109267,mir,die_junge_raschke
 qd,pkhm.0,108916,109485,die_junge_raschke,109309,109312,ich,die_junge_raschke
 qd,pkhm.0,108916,109485,die_junge_raschke,109466,109469,ich,die_junge_raschke
+qd,pkhm.0,109894,111515,der_alte_raschke,110133,110136,ich,der_alte_raschke
 qd,pkhm.0,109894,111515,der_alte_raschke,110154,110157,ich,der_alte_raschke
 qd,pkhm.0,109894,111515,der_alte_raschke,110188,110191,ich,der_alte_raschke
 qd,pkhm.0,109894,111515,der_alte_raschke,111140,111143,mir,der_alte_raschke
@@ -534,6 +541,7 @@ qd,pkhm.0,113061,113475,der_alte_raschke,113221,113224,Ich,der_alte_raschke
 qd,pkhm.0,113061,113475,der_alte_raschke,113233,113237,mich,der_alte_raschke
 qd,pkhm.0,113796,113880,rapunzel,113827,113830,mir,rapunzel
 qd,pkhm.0,113796,113880,rapunzel,113868,113871,ich,rapunzel
+qd,pkhm.0,113885,114568,der_alte_raschke,114046,114049,ich,der_alte_raschke
 qd,pkhm.0,113885,114568,der_alte_raschke,114154,114157,ich,der_alte_raschke
 qd,pkhm.0,113885,114568,der_alte_raschke,114204,114207,ich,der_alte_raschke
 qd,pkhm.0,113885,114568,der_alte_raschke,114219,114225,meinem,der_alte_raschke
@@ -571,6 +579,7 @@ qd,pkhm.0,116660,119040,der_alte_raschke,117918,117921,ich,der_alte_raschke
 qd,pkhm.0,116660,119040,der_alte_raschke,117990,117993,ich,der_alte_raschke
 qd,pkhm.0,116660,119040,der_alte_raschke,118026,118029,ich,der_alte_raschke
 qd,pkhm.0,116660,119040,der_alte_raschke,118030,118034,mich,der_alte_raschke
+qd,pkhm.0,116660,119040,der_alte_raschke,118073,118076,ich,der_alte_raschke
 qd,pkhm.0,116660,119040,der_alte_raschke,118107,118110,ich,der_alte_raschke
 qd,pkhm.0,116660,119040,der_alte_raschke,118168,118172,mein,der_alte_raschke
 qd,pkhm.0,116660,119040,der_alte_raschke,118252,118255,ich,der_alte_raschke

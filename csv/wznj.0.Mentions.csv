@@ -8,6 +8,7 @@ qd,wznj.0,1058,1401,von_gröningseck,1393,1396,ich,von_gröningseck
 qd,wznj.0,1406,1489,frau_humbrecht,1467,1470,mir,frau_humbrecht
 qd,wznj.0,1741,1825,von_gröningseck,1786,1790,mein,von_gröningseck
 qd,wznj.0,1741,1825,von_gröningseck,1797,1800,ich,von_gröningseck
+qd,wznj.0,1891,1971,von_gröningseck,1942,1945,mir,von_gröningseck
 qd,wznj.0,2016,2143,von_gröningseck,2071,2074,mir,von_gröningseck
 qd,wznj.0,2016,2143,von_gröningseck,2109,2112,ich,von_gröningseck
 qd,wznj.0,2148,2265,frau_humbrecht,2169,2172,ich,frau_humbrecht
@@ -29,6 +30,7 @@ qd,wznj.0,5124,5257,von_gröningseck,5196,5199,ich,von_gröningseck
 qd,wznj.0,5124,5257,von_gröningseck,5227,5230,ich,von_gröningseck
 qd,wznj.0,5262,5354,frau_humbrecht,5294,5297,mir,frau_humbrecht
 qd,wznj.0,5647,5813,marianel,5732,5735,mir,marianel
+qd,wznj.0,5647,5813,marianel,5783,5786,mir,marianel
 qd,wznj.0,5647,5813,marianel,5795,5798,ich,marianel
 qd,wznj.0,5818,5919,von_gröningseck,5836,5839,Ich,von_gröningseck
 qd,wznj.0,5818,5919,von_gröningseck,5860,5863,ich,von_gröningseck
@@ -53,6 +55,8 @@ qd,wznj.0,8353,8433,frau_humbrecht,8403,8406,ich,frau_humbrecht
 qd,wznj.0,8640,8881,von_gröningseck,8708,8712,mein,von_gröningseck
 qd,wznj.0,8640,8881,von_gröningseck,8728,8732,mich,von_gröningseck
 qd,wznj.0,8886,9110,frau_humbrecht,8959,8962,ich,frau_humbrecht
+qd,wznj.0,8886,9110,frau_humbrecht,9015,9018,ich,frau_humbrecht
+qd,wznj.0,8886,9110,frau_humbrecht,9045,9048,ich,frau_humbrecht
 qd,wznj.0,8886,9110,frau_humbrecht,9070,9074,mein,frau_humbrecht
 qd,wznj.0,9192,9279,von_gröningseck,9275,9278,ich,von_gröningseck
 qd,wznj.0,9284,9552,frau_humbrecht,9391,9394,ich,frau_humbrecht
@@ -84,6 +88,7 @@ qd,wznj.0,12224,12375,frau_humbrecht,12270,12273,mir,frau_humbrecht
 qd,wznj.0,12380,12861,von_gröningseck,12745,12748,mir,von_gröningseck
 qd,wznj.0,12380,12861,von_gröningseck,12831,12834,ich,von_gröningseck
 qd,wznj.0,12918,13138,frau_humbrecht,12952,12955,ich,frau_humbrecht
+qd,wznj.0,12918,13138,frau_humbrecht,13057,13060,ich,frau_humbrecht
 qd,wznj.0,13143,13507,von_gröningseck,13170,13173,ich,von_gröningseck
 qd,wznj.0,13586,13634,frau_humbrecht,13603,13606,Ich,frau_humbrecht
 qd,wznj.0,13639,14291,von_gröningseck,13960,13963,ich,von_gröningseck
@@ -93,6 +98,7 @@ qd,wznj.0,13639,14291,von_gröningseck,14081,14085,mein,von_gröningseck
 qd,wznj.0,13639,14291,von_gröningseck,14105,14108,ich,von_gröningseck
 qd,wznj.0,14563,14788,frau_humbrecht,14625,14628,mir,frau_humbrecht
 qd,wznj.0,14563,14788,frau_humbrecht,14659,14662,ich,frau_humbrecht
+qd,wznj.0,14563,14788,frau_humbrecht,14719,14722,mir,frau_humbrecht
 qd,wznj.0,14793,15092,von_gröningseck,14865,14868,ich,von_gröningseck
 qd,wznj.0,14793,15092,von_gröningseck,14879,14884,meine,von_gröningseck
 qd,wznj.0,14793,15092,von_gröningseck,14914,14919,meine,von_gröningseck
@@ -138,9 +144,13 @@ qd,wznj.0,20291,20337,marianel,20324,20327,Ich,marianel
 qd,wznj.0,20482,20596,marianel,20523,20527,mich,marianel
 qd,wznj.0,21384,21630,evchen,21435,21438,ich,evchen
 qd,wznj.0,21384,21630,evchen,21503,21507,mich,evchen
+qd,wznj.0,21384,21630,evchen,21622,21625,ich,evchen
+qd,wznj.0,21729,21829,evchen,21774,21777,ich,evchen
+qd,wznj.0,21729,21829,evchen,21811,21814,mir,evchen
 qd,wznj.0,21834,22190,von_gröningseck,21873,21876,ich,von_gröningseck
 qd,wznj.0,21834,22190,von_gröningseck,21968,21971,ich,von_gröningseck
 qd,wznj.0,21834,22190,von_gröningseck,22056,22062,meinen,von_gröningseck
+qd,wznj.0,21834,22190,von_gröningseck,22080,22083,ich,von_gröningseck
 qd,wznj.0,21834,22190,von_gröningseck,22109,22112,ich,von_gröningseck
 qd,wznj.0,21834,22190,von_gröningseck,22133,22136,ich,von_gröningseck
 qd,wznj.0,21834,22190,von_gröningseck,22184,22189,Meine,von_gröningseck
@@ -171,6 +181,7 @@ qd,wznj.0,23890,24074,evchen,23927,23931,mich,evchen
 qd,wznj.0,24310,24479,frau_humbrecht,24327,24330,Ich,frau_humbrecht
 qd,wznj.0,24310,24479,frau_humbrecht,24359,24362,mir,frau_humbrecht
 qd,wznj.0,24745,24950,humbrecht,24800,24803,ich,humbrecht
+qd,wznj.0,24745,24950,humbrecht,24871,24874,ich,humbrecht
 qd,wznj.0,24955,25113,frau_humbrecht,25017,25021,mich,frau_humbrecht
 qd,wznj.0,24955,25113,frau_humbrecht,25033,25036,ich,frau_humbrecht
 qd,wznj.0,24955,25113,frau_humbrecht,25060,25063,ich,frau_humbrecht
@@ -206,6 +217,7 @@ qd,wznj.0,29319,30484,humbrecht,29615,29620,meine,humbrecht
 qd,wznj.0,29319,30484,humbrecht,29666,29669,ich,humbrecht
 qd,wznj.0,30597,30824,humbrecht,30686,30689,ich,humbrecht
 qd,wznj.0,30597,30824,humbrecht,30705,30708,ich,humbrecht
+qd,wznj.0,30597,30824,humbrecht,30721,30724,ich,humbrecht
 qd,wznj.0,30597,30824,humbrecht,30798,30801,ich,humbrecht
 qd,wznj.0,30829,31093,magister,30885,30888,ich,magister
 qd,wznj.0,31169,31351,magister,31244,31247,ich,magister
@@ -217,13 +229,16 @@ qd,wznj.0,31592,31743,frau_humbrecht,31666,31669,ich,frau_humbrecht
 qd,wznj.0,31592,31743,frau_humbrecht,31720,31726,meinem,frau_humbrecht
 qd,wznj.0,31792,32484,frau_humbrecht,31902,31905,ich,frau_humbrecht
 qd,wznj.0,31792,32484,frau_humbrecht,31906,31910,mein,frau_humbrecht
+qd,wznj.0,31792,32484,frau_humbrecht,32033,32036,mir,frau_humbrecht
 qd,wznj.0,31792,32484,frau_humbrecht,32057,32060,ich,frau_humbrecht
 qd,wznj.0,31792,32484,frau_humbrecht,32061,32065,mein,frau_humbrecht
 qd,wznj.0,31792,32484,frau_humbrecht,32199,32203,mein,frau_humbrecht
 qd,wznj.0,32489,33098,magister,32507,32510,ich,magister
 qd,wznj.0,32489,33098,magister,32511,32514,mir,magister
+qd,wznj.0,32489,33098,magister,32566,32569,ich,magister
 qd,wznj.0,32489,33098,magister,32610,32616,meinen,magister
 qd,wznj.0,32489,33098,magister,32853,32856,ich,magister
+qd,wznj.0,32489,33098,magister,32892,32895,ich,magister
 qd,wznj.0,33103,33252,von_gröningseck,33166,33169,ich,von_gröningseck
 qd,wznj.0,33103,33252,von_gröningseck,33218,33221,mir,von_gröningseck
 qd,wznj.0,33257,33354,frau_humbrecht,33304,33308,mein,frau_humbrecht
@@ -301,6 +316,7 @@ qd,wznj.0,41787,41953,frau_humbrecht,41831,41834,ich,frau_humbrecht
 qd,wznj.0,41958,42006,evchen,41979,41982,ich,evchen
 qd,wznj.0,42012,42435,frau_humbrecht,42210,42213,ich,frau_humbrecht
 qd,wznj.0,42012,42435,frau_humbrecht,42330,42333,ich,frau_humbrecht
+qd,wznj.0,42012,42435,frau_humbrecht,42390,42393,mir,frau_humbrecht
 qd,wznj.0,42440,42476,evchen,42449,42452,Ich,evchen
 qd,wznj.0,42440,42476,evchen,42467,42470,ich,evchen
 qd,wznj.0,42481,42576,frau_humbrecht,42542,42547,meine,frau_humbrecht
@@ -319,6 +335,7 @@ qd,wznj.0,43032,43742,evchen,43272,43275,ich,evchen
 qd,wznj.0,43032,43742,evchen,43276,43280,mich,evchen
 qd,wznj.0,43032,43742,evchen,43324,43327,ich,evchen
 qd,wznj.0,43032,43742,evchen,43354,43357,mir,evchen
+qd,wznj.0,43032,43742,evchen,43453,43456,mir,evchen
 qd,wznj.0,43032,43742,evchen,43487,43491,mein,evchen
 qd,wznj.0,43032,43742,evchen,43521,43524,ich,evchen
 qd,wznj.0,43032,43742,evchen,43529,43535,meinen,evchen
@@ -328,12 +345,14 @@ qd,wznj.0,43748,44189,humbrecht,43868,43871,mir,humbrecht
 qd,wznj.0,43748,44189,humbrecht,43927,43930,ich,humbrecht
 qd,wznj.0,43748,44189,humbrecht,43951,43954,ich,humbrecht
 qd,wznj.0,43748,44189,humbrecht,44014,44017,mir,humbrecht
+qd,wznj.0,43748,44189,humbrecht,44070,44073,ich,humbrecht
 qd,wznj.0,43748,44189,humbrecht,44106,44109,ich,humbrecht
 qd,wznj.0,43748,44189,humbrecht,44127,44130,ich,humbrecht
 qd,wznj.0,44194,44222,evchen,44218,44221,mir,evchen
 qd,wznj.0,44227,44387,frau_humbrecht,44251,44254,mir,frau_humbrecht
 qd,wznj.0,44227,44387,frau_humbrecht,44267,44270,ich,frau_humbrecht
 qd,wznj.0,44392,44598,humbrecht,44422,44425,ich,humbrecht
+qd,wznj.0,44603,44806,evchen,44639,44642,ich,evchen
 qd,wznj.0,44811,44962,frau_humbrecht,44909,44912,Ich,frau_humbrecht
 qd,wznj.0,44967,45613,humbrecht,44998,45002,mich,humbrecht
 qd,wznj.0,44967,45613,humbrecht,45027,45030,mir,humbrecht
@@ -346,12 +365,14 @@ qd,wznj.0,44967,45613,humbrecht,45368,45371,mir,humbrecht
 qd,wznj.0,44967,45613,humbrecht,45389,45394,meine,humbrecht
 qd,wznj.0,44967,45613,humbrecht,45527,45530,ich,humbrecht
 qd,wznj.0,45618,45698,evchen,45627,45630,Ich,evchen
+qd,wznj.0,45618,45698,evchen,45657,45660,ich,evchen
 qd,wznj.0,45618,45698,evchen,45676,45679,ich,evchen
 qd,wznj.0,45703,46054,humbrecht,45754,45757,mir,humbrecht
 qd,wznj.0,45703,46054,humbrecht,45816,45819,ich,humbrecht
 qd,wznj.0,45703,46054,humbrecht,45929,45932,ich,humbrecht
 qd,wznj.0,46182,47164,humbrecht,46247,46252,meine,humbrecht
 qd,wznj.0,46182,47164,humbrecht,46272,46276,mich,humbrecht
+qd,wznj.0,46182,47164,humbrecht,46409,46412,ich,humbrecht
 qd,wznj.0,46182,47164,humbrecht,46800,46803,ich,humbrecht
 qd,wznj.0,46182,47164,humbrecht,46846,46851,Meine,humbrecht
 qd,wznj.0,46182,47164,humbrecht,46871,46874,ich,humbrecht
@@ -362,6 +383,7 @@ qd,wznj.0,47875,48143,von_hasenpoth,48057,48060,ich,von_hasenpoth
 qd,wznj.0,48199,48518,von_hasenpoth,48345,48348,ich,von_hasenpoth
 qd,wznj.0,48199,48518,von_hasenpoth,48437,48440,ich,von_hasenpoth
 qd,wznj.0,48199,48518,von_hasenpoth,48455,48458,ich,von_hasenpoth
+qd,wznj.0,48573,49136,von_hasenpoth,48673,48676,ich,von_hasenpoth
 qd,wznj.0,48573,49136,von_hasenpoth,48734,48737,ich,von_hasenpoth
 qd,wznj.0,48573,49136,von_hasenpoth,48801,48804,ich,von_hasenpoth
 qd,wznj.0,48573,49136,von_hasenpoth,49064,49067,ich,von_hasenpoth
@@ -378,12 +400,15 @@ qd,wznj.0,49744,50000,von_hasenpoth,49857,49860,mir,von_hasenpoth
 qd,wznj.0,49744,50000,von_hasenpoth,49970,49973,ich,von_hasenpoth
 qd,wznj.0,50005,50066,von_gröningseck,50056,50059,ich,von_gröningseck
 qd,wznj.0,50071,50237,von_hasenpoth,50117,50120,ich,von_hasenpoth
+qd,wznj.0,50071,50237,von_hasenpoth,50188,50191,ich,von_hasenpoth
+qd,wznj.0,50242,50405,von_gröningseck,50272,50275,ich,von_gröningseck
 qd,wznj.0,50410,50533,von_hasenpoth,50426,50429,Ich,von_hasenpoth
 qd,wznj.0,50538,50575,von_gröningseck,50565,50569,mein,von_gröningseck
 qd,wznj.0,50580,51233,von_hasenpoth,50605,50608,mir,von_hasenpoth
 qd,wznj.0,50580,51233,von_hasenpoth,50672,50676,mich,von_hasenpoth
 qd,wznj.0,50580,51233,von_hasenpoth,50694,50697,ich,von_hasenpoth
 qd,wznj.0,50580,51233,von_hasenpoth,50821,50825,mich,von_hasenpoth
+qd,wznj.0,50580,51233,von_hasenpoth,50890,50893,ich,von_hasenpoth
 qd,wznj.0,50580,51233,von_hasenpoth,51001,51005,mich,von_hasenpoth
 qd,wznj.0,50580,51233,von_hasenpoth,51173,51176,ich,von_hasenpoth
 qd,wznj.0,50580,51233,von_hasenpoth,51214,51217,ich,von_hasenpoth
@@ -391,6 +416,7 @@ qd,wznj.0,51238,51286,von_gröningseck,51282,51285,ich,von_gröningseck
 qd,wznj.0,51417,51635,von_gröningseck,51483,51486,ich,von_gröningseck
 qd,wznj.0,51417,51635,von_gröningseck,51544,51547,mir,von_gröningseck
 qd,wznj.0,51417,51635,von_gröningseck,51584,51587,ich,von_gröningseck
+qd,wznj.0,51417,51635,von_gröningseck,51616,51619,ich,von_gröningseck
 qd,wznj.0,51753,51963,von_gröningseck,51787,51790,ich,von_gröningseck
 qd,wznj.0,51753,51963,von_gröningseck,51926,51930,mich,von_gröningseck
 qd,wznj.0,51753,51963,von_gröningseck,51931,51934,mir,von_gröningseck
@@ -403,6 +429,7 @@ qd,wznj.0,53414,53765,von_gröningseck,53486,53492,meinem,von_gröningseck
 qd,wznj.0,53414,53765,von_gröningseck,53513,53516,ich,von_gröningseck
 qd,wznj.0,53414,53765,von_gröningseck,53552,53556,mich,von_gröningseck
 qd,wznj.0,53414,53765,von_gröningseck,53596,53599,ich,von_gröningseck
+qd,wznj.0,53414,53765,von_gröningseck,53617,53620,ich,von_gröningseck
 qd,wznj.0,53414,53765,von_gröningseck,53646,53649,ich,von_gröningseck
 qd,wznj.0,53414,53765,von_gröningseck,53714,53718,mich,von_gröningseck
 qd,wznj.0,53414,53765,von_gröningseck,53758,53762,mich,von_gröningseck
@@ -429,6 +456,7 @@ qd,wznj.0,55534,55904,von_gröningseck,55694,55698,mein,von_gröningseck
 qd,wznj.0,55534,55904,von_gröningseck,55830,55833,ich,von_gröningseck
 qd,wznj.0,55909,55987,magister,55974,55979,meine,magister
 qd,wznj.0,55992,56258,von_gröningseck,56015,56018,mir,von_gröningseck
+qd,wznj.0,55992,56258,von_gröningseck,56090,56093,ich,von_gröningseck
 qd,wznj.0,55992,56258,von_gröningseck,56124,56127,ich,von_gröningseck
 qd,wznj.0,56263,56399,magister,56394,56397,mir,magister
 qd,wznj.0,56457,56717,magister,56508,56511,ich,magister
@@ -436,6 +464,7 @@ qd,wznj.0,56457,56717,magister,56586,56589,ich,magister
 qd,wznj.0,56722,56771,von_gröningseck,56758,56761,ich,von_gröningseck
 qd,wznj.0,56722,56771,von_gröningseck,56765,56768,ich,von_gröningseck
 qd,wznj.0,56776,56876,magister,56826,56829,ich,magister
+qd,wznj.0,56881,57014,von_gröningseck,56942,56945,mir,von_gröningseck
 qd,wznj.0,56881,57014,von_gröningseck,56992,56996,mein,von_gröningseck
 qd,wznj.0,57396,57564,von_hasenpoth,57443,57446,ich,von_hasenpoth
 qd,wznj.0,57396,57564,von_hasenpoth,57491,57494,ich,von_hasenpoth
@@ -490,6 +519,7 @@ qd,wznj.0,61216,64159,major,62912,62915,ich,major
 qd,wznj.0,61216,64159,major,62941,62947,meinem,major
 qd,wznj.0,61216,64159,major,63834,63837,ich,major
 qd,wznj.0,61216,64159,major,63845,63848,mir,major
+qd,wznj.0,64366,65143,major,64552,64555,ich,major
 qd,wznj.0,64366,65143,major,64972,64975,ich,major
 qd,wznj.0,64366,65143,major,64976,64980,mich,major
 qd,wznj.0,64366,65143,major,65064,65067,ich,major
@@ -523,6 +553,7 @@ qd,wznj.0,68955,69285,von_gröningseck,69078,69081,ich,von_gröningseck
 qd,wznj.0,68955,69285,von_gröningseck,69227,69230,ich,von_gröningseck
 qd,wznj.0,69349,69507,von_gröningseck,69378,69381,ich,von_gröningseck
 qd,wznj.0,69349,69507,von_gröningseck,69395,69398,ich,von_gröningseck
+qd,wznj.0,69349,69507,von_gröningseck,69477,69480,ich,von_gröningseck
 qd,wznj.0,69512,69654,von_hasenpoth,69535,69538,mir,von_hasenpoth
 qd,wznj.0,69512,69654,von_hasenpoth,69591,69594,ich,von_hasenpoth
 qd,wznj.0,69659,70050,von_gröningseck,69717,69720,Ich,von_gröningseck
@@ -534,6 +565,7 @@ qd,wznj.0,69659,70050,von_gröningseck,70004,70007,ich,von_gröningseck
 qd,wznj.0,69659,70050,von_gröningseck,70028,70031,Ich,von_gröningseck
 qd,wznj.0,70079,70162,von_gröningseck,70097,70100,Ich,von_gröningseck
 qd,wznj.0,70079,70162,von_gröningseck,70143,70146,ich,von_gröningseck
+qd,wznj.0,70248,70320,von_gröningseck,70278,70281,ich,von_gröningseck
 qd,wznj.0,70373,70899,von_gröningseck,70391,70394,Ich,von_gröningseck
 qd,wznj.0,70373,70899,von_gröningseck,70489,70492,mir,von_gröningseck
 qd,wznj.0,70373,70899,von_gröningseck,70514,70517,ich,von_gröningseck
@@ -618,6 +650,7 @@ qd,wznj.0,76956,77027,frau_humbrecht,76993,76996,ich,frau_humbrecht
 qd,wznj.0,77295,77370,humbrecht,77348,77353,meine,humbrecht
 qd,wznj.0,77481,77713,humbrecht,77507,77510,mir,humbrecht
 qd,wznj.0,77481,77713,humbrecht,77535,77538,ich,humbrecht
+qd,wznj.0,77481,77713,humbrecht,77572,77575,ich,humbrecht
 qd,wznj.0,77481,77713,humbrecht,77590,77593,ich,humbrecht
 qd,wznj.0,77481,77713,humbrecht,77605,77608,ich,humbrecht
 qd,wznj.0,77481,77713,humbrecht,77613,77619,meinem,humbrecht
@@ -671,6 +704,7 @@ qd,wznj.0,81466,81784,von_gröningseck,81711,81714,mir,von_gröningseck
 qd,wznj.0,81466,81784,von_gröningseck,81764,81767,ich,von_gröningseck
 qd,wznj.0,81817,81934,von_gröningseck,81904,81909,meine,von_gröningseck
 qd,wznj.0,81940,82047,evchen,82002,82006,mich,evchen
+qd,wznj.0,81940,82047,evchen,82028,82031,mir,evchen
 qd,wznj.0,82052,82525,von_gröningseck,82142,82145,mir,von_gröningseck
 qd,wznj.0,82052,82525,von_gröningseck,82188,82191,ich,von_gröningseck
 qd,wznj.0,82052,82525,von_gröningseck,82231,82234,ich,von_gröningseck
@@ -685,10 +719,12 @@ qd,wznj.0,82650,82737,evchen,82687,82690,mir,evchen
 qd,wznj.0,82742,82881,von_gröningseck,82773,82776,ich,von_gröningseck
 qd,wznj.0,82886,83295,evchen,82925,82928,ich,evchen
 qd,wznj.0,82886,83295,evchen,82948,82951,ich,evchen
+qd,wznj.0,82886,83295,evchen,82981,82984,ich,evchen
 qd,wznj.0,82886,83295,evchen,83018,83022,mich,evchen
 qd,wznj.0,82886,83295,evchen,83093,83096,ich,evchen
 qd,wznj.0,82886,83295,evchen,83178,83181,mir,evchen
 qd,wznj.0,82886,83295,evchen,83216,83219,ich,evchen
+qd,wznj.0,82886,83295,evchen,83247,83250,ich,evchen
 qd,wznj.0,82886,83295,evchen,83267,83270,ich,evchen
 qd,wznj.0,82886,83295,evchen,83283,83286,mir,evchen
 qd,wznj.0,83391,83488,evchen,83427,83430,Ich,evchen
@@ -700,6 +736,7 @@ qd,wznj.0,83728,84184,evchen,83934,83937,ich,evchen
 qd,wznj.0,83728,84184,evchen,83982,83985,Ich,evchen
 qd,wznj.0,84260,84499,evchen,84291,84294,mir,evchen
 qd,wznj.0,84260,84499,evchen,84366,84369,ich,evchen
+qd,wznj.0,84260,84499,evchen,84370,84373,mir,evchen
 qd,wznj.0,84260,84499,evchen,84400,84403,Ich,evchen
 qd,wznj.0,84260,84499,evchen,84476,84479,ich,evchen
 qd,wznj.0,84543,84876,evchen,84586,84589,ich,evchen
@@ -740,6 +777,7 @@ qd,wznj.0,87138,87425,evchen,87152,87155,ich,evchen
 qd,wznj.0,87138,87425,evchen,87156,87160,mich,evchen
 qd,wznj.0,87138,87425,evchen,87188,87193,meine,evchen
 qd,wznj.0,87138,87425,evchen,87237,87240,ich,evchen
+qd,wznj.0,87138,87425,evchen,87287,87290,mir,evchen
 qd,wznj.0,87138,87425,evchen,87320,87323,mir,evchen
 qd,wznj.0,87138,87425,evchen,87368,87371,mir,evchen
 qd,wznj.0,87430,87670,von_gröningseck,87476,87479,ich,von_gröningseck
@@ -801,6 +839,7 @@ qd,wznj.0,92463,92832,magister,92674,92680,meinem,magister
 qd,wznj.0,92978,93055,magister,92999,93002,ich,magister
 qd,wznj.0,93126,93190,magister,93137,93140,Ich,magister
 qd,wznj.0,93195,93249,humbrecht,93207,93213,Meiner,humbrecht
+qd,wznj.0,93195,93249,humbrecht,93234,93237,ich,humbrecht
 qd,wznj.0,93254,93341,magister,93286,93289,ich,magister
 qd,wznj.0,93346,93460,humbrecht,93358,93364,Meinen,humbrecht
 qd,wznj.0,93346,93460,humbrecht,93451,93454,ich,humbrecht
@@ -837,6 +876,7 @@ qd,wznj.0,96476,96570,magister,96508,96511,mir,magister
 qd,wznj.0,96476,96570,magister,96522,96525,ich,magister
 qd,wznj.0,96575,96960,humbrecht,96601,96604,ich,humbrecht
 qd,wznj.0,96575,96960,humbrecht,96847,96850,ich,humbrecht
+qd,wznj.0,97022,97419,humbrecht,97084,97087,mir,humbrecht
 qd,wznj.0,97523,97774,humbrecht,97582,97585,mir,humbrecht
 qd,wznj.0,97523,97774,humbrecht,97646,97649,mir,humbrecht
 qd,wznj.0,97523,97774,humbrecht,97753,97756,ich,humbrecht
@@ -847,6 +887,7 @@ qd,wznj.0,97946,98338,magister,98101,98104,ich,magister
 qd,wznj.0,97946,98338,magister,98149,98152,mir,magister
 qd,wznj.0,97946,98338,magister,98222,98228,meinem,magister
 qd,wznj.0,97946,98338,magister,98285,98288,ich,magister
+qd,wznj.0,98433,98578,humbrecht,98450,98453,ich,humbrecht
 qd,wznj.0,98433,98578,humbrecht,98466,98469,mir,humbrecht
 qd,wznj.0,98623,99442,frau_humbrecht,98645,98649,mein,frau_humbrecht
 qd,wznj.0,98623,99442,frau_humbrecht,98725,98728,mir,frau_humbrecht
@@ -881,9 +922,11 @@ qd,wznj.0,101071,101215,magister,101097,101100,ich,magister
 qd,wznj.0,101071,101215,magister,101175,101179,mich,magister
 qd,wznj.0,101291,102115,magister,101416,101420,Mein,magister
 qd,wznj.0,101291,102115,magister,101624,101627,ich,magister
+qd,wznj.0,101291,102115,magister,101762,101765,mir,magister
 qd,wznj.0,101291,102115,magister,101882,101885,ich,magister
 qd,wznj.0,101291,102115,magister,102024,102028,mich,magister
 qd,wznj.0,102250,102545,frau_humbrecht,102405,102408,ich,frau_humbrecht
+qd,wznj.0,102250,102545,frau_humbrecht,102500,102503,ich,frau_humbrecht
 qd,wznj.0,102250,102545,frau_humbrecht,102523,102526,ich,frau_humbrecht
 qd,wznj.0,102550,102746,humbrecht,102625,102629,mich,humbrecht
 qd,wznj.0,102751,103007,frau_humbrecht,102825,102828,ich,frau_humbrecht
@@ -892,12 +935,15 @@ qd,wznj.0,103012,103421,humbrecht,103053,103056,ich,humbrecht
 qd,wznj.0,103012,103421,humbrecht,103063,103066,ich,humbrecht
 qd,wznj.0,103012,103421,humbrecht,103189,103195,meiner,humbrecht
 qd,wznj.0,103012,103421,humbrecht,103207,103210,ich,humbrecht
+qd,wznj.0,103012,103421,humbrecht,103211,103215,mich,humbrecht
+qd,wznj.0,103012,103421,humbrecht,103274,103277,mir,humbrecht
 qd,wznj.0,103012,103421,humbrecht,103308,103311,mir,humbrecht
 qd,wznj.0,103012,103421,humbrecht,103381,103384,ich,humbrecht
 qd,wznj.0,103426,103899,magister,103526,103529,Ich,magister
 qd,wznj.0,103426,103899,magister,103647,103651,mein,magister
 qd,wznj.0,103426,103899,magister,103710,103713,mir,magister
 qd,wznj.0,103974,103997,humbrecht,103986,103989,Ich,humbrecht
+qd,wznj.0,103974,103997,humbrecht,103990,103994,mein,humbrecht
 qd,wznj.0,104106,104215,humbrecht,104128,104131,ich,humbrecht
 qd,wznj.0,104305,104515,humbrecht,104345,104348,ich,humbrecht
 qd,wznj.0,104620,104894,humbrecht,104645,104648,ich,humbrecht
@@ -906,6 +952,7 @@ qd,wznj.0,104620,104894,humbrecht,104855,104858,mir,humbrecht
 qd,wznj.0,105059,105263,humbrecht,105195,105198,ich,humbrecht
 qd,wznj.0,105358,105729,humbrecht,105408,105411,mir,humbrecht
 qd,wznj.0,105358,105729,humbrecht,105697,105700,ich,humbrecht
+qd,wznj.0,105834,105974,humbrecht,105855,105859,mich,humbrecht
 qd,wznj.0,105834,105974,humbrecht,105908,105911,ich,humbrecht
 qd,wznj.0,105834,105974,humbrecht,105928,105931,ich,humbrecht
 qd,wznj.0,105834,105974,humbrecht,105951,105955,mein,humbrecht
@@ -924,6 +971,7 @@ qd,wznj.0,107461,107849,humbrecht,107771,107774,ich,humbrecht
 qd,wznj.0,107461,107849,humbrecht,107823,107826,ich,humbrecht
 qd,wznj.0,107855,108007,frau_humbrecht,107943,107948,meine,frau_humbrecht
 qd,wznj.0,107855,108007,frau_humbrecht,107967,107970,ich,frau_humbrecht
+qd,wznj.0,108211,108678,frau_humbrecht,108358,108361,ich,frau_humbrecht
 qd,wznj.0,108211,108678,frau_humbrecht,108552,108555,mir,frau_humbrecht
 qd,wznj.0,108211,108678,frau_humbrecht,108633,108636,mir,frau_humbrecht
 qd,wznj.0,108211,108678,frau_humbrecht,108662,108666,mich,frau_humbrecht
@@ -1007,11 +1055,13 @@ qd,wznj.0,116013,116871,lissel,116602,116606,mein,lissel
 qd,wznj.0,116013,116871,lissel,116645,116648,ich,lissel
 qd,wznj.0,116013,116871,lissel,116670,116673,ich,lissel
 qd,wznj.0,116013,116871,lissel,116688,116693,meine,lissel
+qd,wznj.0,116013,116871,lissel,116720,116724,mich,lissel
 qd,wznj.0,116013,116871,lissel,116750,116754,mein,lissel
 qd,wznj.0,116013,116871,lissel,116771,116774,ich,lissel
 qd,wznj.0,116013,116871,lissel,116810,116814,mich,lissel
 qd,wznj.0,116013,116871,lissel,116832,116835,ich,lissel
 qd,wznj.0,117773,118177,fiskal,117974,117977,ich,fiskal
+qd,wznj.0,118453,118741,evchen,118503,118506,ich,evchen
 qd,wznj.0,118453,118741,evchen,118560,118563,ich,evchen
 qd,wznj.0,118453,118741,evchen,118652,118655,mir,evchen
 qd,wznj.0,118453,118741,evchen,118688,118691,ich,evchen
@@ -1024,10 +1074,12 @@ qd,wznj.0,119086,119285,evchen,119269,119272,ich,evchen
 qd,wznj.0,119382,119425,evchen,119407,119410,mir,evchen
 qd,wznj.0,119430,120068,frau_marthan,119467,119470,ich,frau_marthan
 qd,wznj.0,119430,120068,frau_marthan,119749,119752,Ich,frau_marthan
+qd,wznj.0,119430,120068,frau_marthan,119778,119781,mir,frau_marthan
 qd,wznj.0,119430,120068,frau_marthan,119913,119916,ich,frau_marthan
 qd,wznj.0,119430,120068,frau_marthan,120033,120036,ich,frau_marthan
 qd,wznj.0,120073,120110,evchen,120087,120090,ich,evchen
 qd,wznj.0,120115,121036,frau_marthan,120206,120209,mir,frau_marthan
+qd,wznj.0,120115,121036,frau_marthan,120237,120240,mir,frau_marthan
 qd,wznj.0,120115,121036,frau_marthan,120250,120253,ich,frau_marthan
 qd,wznj.0,120115,121036,frau_marthan,120344,120347,ich,frau_marthan
 qd,wznj.0,120115,121036,frau_marthan,120502,120505,ich,frau_marthan
@@ -1060,6 +1112,7 @@ qd,wznj.0,124454,124929,frau_marthan,124649,124652,ich,frau_marthan
 qd,wznj.0,125142,125357,evchen,125159,125162,ich,evchen
 qd,wznj.0,125142,125357,evchen,125170,125174,mich,evchen
 qd,wznj.0,125142,125357,evchen,125329,125332,ich,evchen
+qd,wznj.0,125142,125357,evchen,125341,125345,mich,evchen
 qd,wznj.0,125685,128542,frau_marthan,125732,125735,ich,frau_marthan
 qd,wznj.0,125685,128542,frau_marthan,125736,125740,mich,frau_marthan
 qd,wznj.0,125685,128542,frau_marthan,125770,125773,Ich,frau_marthan
@@ -1079,6 +1132,7 @@ qd,wznj.0,129111,129242,evchen,129151,129154,ich,evchen
 qd,wznj.0,129247,129950,frau_marthan,129322,129325,mir,frau_marthan
 qd,wznj.0,129247,129950,frau_marthan,129432,129435,ich,frau_marthan
 qd,wznj.0,129247,129950,frau_marthan,129480,129483,mir,frau_marthan
+qd,wznj.0,129247,129950,frau_marthan,129577,129580,ich,frau_marthan
 qd,wznj.0,129247,129950,frau_marthan,129603,129606,ich,frau_marthan
 qd,wznj.0,129247,129950,frau_marthan,129716,129719,ich,frau_marthan
 qd,wznj.0,129955,130304,evchen,130180,130183,ich,evchen
@@ -1089,6 +1143,7 @@ qd,wznj.0,130346,131247,evchen,130363,130366,Ich,evchen
 qd,wznj.0,130346,131247,evchen,130369,130372,Ich,evchen
 qd,wznj.0,130346,131247,evchen,130374,130377,ich,evchen
 qd,wznj.0,130346,131247,evchen,130623,130626,ich,evchen
+qd,wznj.0,130346,131247,evchen,130644,130647,ich,evchen
 qd,wznj.0,130346,131247,evchen,130679,130682,ich,evchen
 qd,wznj.0,130346,131247,evchen,130692,130695,Ich,evchen
 qd,wznj.0,130346,131247,evchen,130720,130723,ich,evchen
@@ -1102,6 +1157,7 @@ qd,wznj.0,131252,131468,frau_marthan,131379,131382,mir,frau_marthan
 qd,wznj.0,131252,131468,frau_marthan,131397,131400,ich,frau_marthan
 qd,wznj.0,131473,132109,evchen,131490,131493,ich,evchen
 qd,wznj.0,131473,132109,evchen,131532,131535,ich,evchen
+qd,wznj.0,131473,132109,evchen,131536,131539,mir,evchen
 qd,wznj.0,131473,132109,evchen,131649,131652,ich,evchen
 qd,wznj.0,131473,132109,evchen,131673,131676,ich,evchen
 qd,wznj.0,131473,132109,evchen,131747,131750,ich,evchen
@@ -1142,6 +1198,7 @@ qd,wznj.0,133795,135872,evchen,133996,133999,ich,evchen
 qd,wznj.0,133795,135872,evchen,134011,134015,Mein,evchen
 qd,wznj.0,133795,135872,evchen,134050,134053,ich,evchen
 qd,wznj.0,133795,135872,evchen,134308,134311,mir,evchen
+qd,wznj.0,133795,135872,evchen,134346,134349,mir,evchen
 qd,wznj.0,133795,135872,evchen,134467,134471,mich,evchen
 qd,wznj.0,133795,135872,evchen,134481,134484,ich,evchen
 qd,wznj.0,133795,135872,evchen,134632,134635,ich,evchen
@@ -1151,6 +1208,7 @@ qd,wznj.0,133795,135872,evchen,135162,135165,ich,evchen
 qd,wznj.0,133795,135872,evchen,135210,135214,mein,evchen
 qd,wznj.0,133795,135872,evchen,135245,135249,mich,evchen
 qd,wznj.0,133795,135872,evchen,135313,135316,ich,evchen
+qd,wznj.0,133795,135872,evchen,135467,135470,ich,evchen
 qd,wznj.0,133795,135872,evchen,135480,135486,meines,evchen
 qd,wznj.0,133795,135872,evchen,135517,135520,ich,evchen
 qd,wznj.0,133795,135872,evchen,135606,135609,ich,evchen
@@ -1159,6 +1217,7 @@ qd,wznj.0,135878,136486,humbrecht,135921,135926,meine,humbrecht
 qd,wznj.0,135878,136486,humbrecht,135936,135941,meine,humbrecht
 qd,wznj.0,135878,136486,humbrecht,136227,136230,ich,humbrecht
 qd,wznj.0,135878,136486,humbrecht,136456,136459,ich,humbrecht
+qd,wznj.0,136659,137088,humbrecht,136722,136725,ich,humbrecht
 qd,wznj.0,136659,137088,humbrecht,137009,137012,ich,humbrecht
 qd,wznj.0,136659,137088,humbrecht,137047,137050,mir,humbrecht
 qd,wznj.0,136659,137088,humbrecht,137069,137072,mir,humbrecht
@@ -1182,6 +1241,7 @@ qd,wznj.0,138269,138356,evchen,138343,138346,ich,evchen
 qd,wznj.0,138361,138565,humbrecht,138408,138413,meine,humbrecht
 qd,wznj.0,138361,138565,humbrecht,138432,138435,ich,humbrecht
 qd,wznj.0,138361,138565,humbrecht,138498,138501,ich,humbrecht
+qd,wznj.0,138361,138565,humbrecht,138542,138545,ich,humbrecht
 qd,wznj.0,138570,138684,magister,138589,138592,ich,magister
 qd,wznj.0,138689,138793,evchen,138706,138709,ich,evchen
 qd,wznj.0,138689,138793,evchen,138731,138735,mich,evchen

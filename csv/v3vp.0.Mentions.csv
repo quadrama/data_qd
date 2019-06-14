@@ -32,6 +32,7 @@ qd,v3vp.0,5182,5242,anatol,5207,5210,ich,anatol
 qd,v3vp.0,5182,5242,anatol,5235,5238,ich,anatol
 qd,v3vp.0,5275,5493,anatol,5393,5396,ich,anatol
 qd,v3vp.0,5529,5598,anatol,5587,5590,mir,anatol
+qd,v3vp.0,5626,5840,anatol,5640,5643,ich,anatol
 qd,v3vp.0,5873,6414,anatol,5917,5920,mir,anatol
 qd,v3vp.0,5873,6414,anatol,6006,6009,ich,anatol
 qd,v3vp.0,5873,6414,anatol,6031,6035,mich,anatol
@@ -206,6 +207,7 @@ qd,v3vp.0,24198,24335,anatol,24314,24317,mir,anatol
 qd,v3vp.0,24340,24403,gabriele,24363,24366,ich,gabriele
 qd,v3vp.0,24340,24403,gabriele,24376,24379,Ich,gabriele
 qd,v3vp.0,24408,24528,anatol,24422,24425,ich,anatol
+qd,v3vp.0,24408,24528,anatol,24462,24465,mir,anatol
 qd,v3vp.0,24408,24528,anatol,24499,24502,ich,anatol
 qd,v3vp.0,25030,25132,anatol,25066,25069,ich,anatol
 qd,v3vp.0,25030,25132,anatol,25094,25100,meinen,anatol
@@ -404,10 +406,12 @@ qd,v3vp.0,50112,50356,anatol,50322,50326,mich,anatol
 qd,v3vp.0,50393,50482,anatol,50457,50460,ich,anatol
 qd,v3vp.0,50393,50482,anatol,50465,50471,meinem,anatol
 qd,v3vp.0,50512,50597,anatol,50530,50533,ich,anatol
+qd,v3vp.0,50512,50597,anatol,50534,50537,mir,anatol
 qd,v3vp.0,50512,50597,anatol,50561,50564,mir,anatol
 qd,v3vp.0,50512,50597,anatol,50575,50578,ich,anatol
 qd,v3vp.0,50616,50740,anatol,50685,50688,ich,anatol
 qd,v3vp.0,50616,50740,anatol,50705,50708,Ich,anatol
+qd,v3vp.0,50762,50952,anatol,50934,50937,ich,anatol
 qd,v3vp.0,50974,51211,anatol,50997,51000,ich,anatol
 qd,v3vp.0,50974,51211,anatol,51005,51011,meinem,anatol
 qd,v3vp.0,50974,51211,anatol,51058,51061,ich,anatol
@@ -437,6 +441,7 @@ qd,v3vp.0,51556,53037,anatol,52345,52348,ich,anatol
 qd,v3vp.0,51556,53037,anatol,52384,52387,mir,anatol
 qd,v3vp.0,51556,53037,anatol,52432,52435,ich,anatol
 qd,v3vp.0,51556,53037,anatol,52467,52470,Ich,anatol
+qd,v3vp.0,51556,53037,anatol,52577,52580,ich,anatol
 qd,v3vp.0,51556,53037,anatol,52621,52624,ich,anatol
 qd,v3vp.0,51556,53037,anatol,52687,52693,meinen,anatol
 qd,v3vp.0,51556,53037,anatol,52715,52718,ich,anatol
@@ -602,6 +607,7 @@ qd,v3vp.0,71845,71960,emllie,71854,71857,Ich,emllie
 qd,v3vp.0,71845,71960,emllie,71863,71867,mich,emllie
 qd,v3vp.0,71845,71960,emllie,71913,71916,ich,emllie
 qd,v3vp.0,71965,72581,anatol,72251,72255,mich,anatol
+qd,v3vp.0,71965,72581,anatol,72391,72394,ich,anatol
 qd,v3vp.0,71965,72581,anatol,72463,72469,meinen,anatol
 qd,v3vp.0,71965,72581,anatol,72498,72504,meinen,anatol
 qd,v3vp.0,71965,72581,anatol,72575,72580,meine,anatol
@@ -811,6 +817,7 @@ qd,v3vp.0,96400,96475,anatol,96445,96449,mich,anatol
 qd,v3vp.0,96497,96601,anatol,96511,96514,ich,anatol
 qd,v3vp.0,96629,96717,anatol,96670,96673,ich,anatol
 qd,v3vp.0,96629,96717,anatol,96695,96698,Ich,anatol
+qd,v3vp.0,96752,96851,anatol,96833,96836,ich,anatol
 qd,v3vp.0,97004,97111,anatol,97044,97047,ich,anatol
 qd,v3vp.0,97178,97246,annie,97212,97215,Mir,annie
 qd,v3vp.0,97251,97526,anatol,97278,97281,ich,anatol
@@ -854,7 +861,6 @@ qd,v3vp.0,101337,101562,max,101343,101346,Ich,max
 qd,v3vp.0,101567,101616,anatol,101587,101590,ich,anatol
 qd,v3vp.0,102143,102207,anatol,102188,102191,mir,anatol
 qd,v3vp.0,102212,102369,max,102218,102221,Ich,max
-qd,v3vp.0,102212,102369,max,102222,102227,meine,max
 qd,v3vp.0,102212,102369,max,102243,102246,ich,max
 qd,v3vp.0,102588,102809,anatol,102635,102638,mir,anatol
 qd,v3vp.0,102588,102809,anatol,102674,102677,mir,anatol

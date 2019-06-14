@@ -1,5 +1,6 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
 qd,xknr.0,6849,6944,matteo,6920,6923,ich,matteo
+qd,xknr.0,6950,7496,abellino,7030,7033,ich,abellino
 qd,xknr.0,6950,7496,abellino,7117,7123,meiner,abellino
 qd,xknr.0,6950,7496,abellino,7226,7230,mich,abellino
 qd,xknr.0,6950,7496,abellino,7304,7307,ich,abellino
@@ -64,6 +65,7 @@ qd,xknr.0,20145,20451,doge,20152,20155,Ich,doge
 qd,xknr.0,21683,21801,doge,21712,21715,mir,doge
 qd,xknr.0,23172,23592,dandolo,23197,23200,ich,dandolo
 qd,xknr.0,23695,24068,dandolo,23713,23719,meiner,dandolo
+qd,xknr.0,24276,24436,canari,24305,24309,mein,canari
 qd,xknr.0,24276,24436,canari,24361,24364,ich,canari
 qd,xknr.0,24551,24738,canari,24596,24599,ich,canari
 qd,xknr.0,24744,24822,dandolo,24794,24797,ich,dandolo
@@ -75,6 +77,7 @@ qd,xknr.0,25672,25746,dandolo,25713,25716,Ich,dandolo
 qd,xknr.0,25821,25855,canari,25847,25850,ich,canari
 qd,xknr.0,26126,26271,canari,26141,26144,ich,canari
 qd,xknr.0,26277,26320,doge,26284,26287,Ich,doge
+qd,xknr.0,26672,27054,rosamunde,26689,26692,ich,rosamunde
 qd,xknr.0,26672,27054,rosamunde,26753,26757,mich,rosamunde
 qd,xknr.0,26672,27054,rosamunde,26805,26808,ich,rosamunde
 qd,xknr.0,26672,27054,rosamunde,26810,26814,mich,rosamunde
@@ -100,6 +103,7 @@ qd,xknr.0,28200,28476,rosamunde,28367,28371,mich,rosamunde
 qd,xknr.0,28200,28476,rosamunde,28418,28421,Ich,rosamunde
 qd,xknr.0,28200,28476,rosamunde,28458,28463,meine,rosamunde
 qd,xknr.0,28687,28746,rosamunde,28715,28719,mich,rosamunde
+qd,xknr.0,28796,28825,rosamunde,28812,28815,ich,rosamunde
 qd,xknr.0,28830,28992,iduella,28866,28869,ich,iduella
 qd,xknr.0,28998,29135,rosamunde,29029,29034,meine,rosamunde
 qd,xknr.0,28998,29135,rosamunde,29102,29105,ich,rosamunde
@@ -131,6 +135,7 @@ qd,xknr.0,33425,33965,rosamunde,33484,33487,ich,rosamunde
 qd,xknr.0,33425,33965,rosamunde,33501,33504,ich,rosamunde
 qd,xknr.0,34191,34251,rosamunde,34230,34234,mich,rosamunde
 qd,xknr.0,34761,34857,abellino,34782,34786,mich,abellino
+qd,xknr.0,34864,35039,rosamunde,34896,34899,ich,rosamunde
 qd,xknr.0,34864,35039,rosamunde,34929,34933,mich,rosamunde
 qd,xknr.0,34864,35039,rosamunde,34990,34993,mir,rosamunde
 qd,xknr.0,34864,35039,rosamunde,35015,35019,mein,rosamunde
@@ -198,6 +203,7 @@ qd,xknr.0,46651,46959,canari,46833,46836,ich,canari
 qd,xknr.0,46651,46959,canari,46848,46851,ich,canari
 qd,xknr.0,46965,47013,flodoardo,46983,46987,Mich,flodoardo
 qd,xknr.0,47018,47513,canari,47213,47216,mir,canari
+qd,xknr.0,47018,47513,canari,47234,47238,mich,canari
 qd,xknr.0,47018,47513,canari,47301,47304,ich,canari
 qd,xknr.0,47519,47652,flodoardo,47549,47553,mich,flodoardo
 qd,xknr.0,47519,47652,flodoardo,47572,47575,ich,flodoardo
@@ -214,6 +220,7 @@ qd,xknr.0,49464,50006,flodoardo,49837,49841,mich,flodoardo
 qd,xknr.0,49464,50006,flodoardo,49857,49861,mich,flodoardo
 qd,xknr.0,49464,50006,flodoardo,49876,49879,ich,flodoardo
 qd,xknr.0,49464,50006,flodoardo,49885,49889,mein,flodoardo
+qd,xknr.0,49464,50006,flodoardo,49910,49913,ich,flodoardo
 qd,xknr.0,49464,50006,flodoardo,49954,49957,mir,flodoardo
 qd,xknr.0,50175,50420,doge,50257,50263,meinen,doge
 qd,xknr.0,50426,50568,flodoardo,50512,50515,ich,flodoardo
@@ -249,9 +256,12 @@ qd,xknr.0,56323,56410,flodoardo,56361,56365,mich,flodoardo
 qd,xknr.0,56416,56974,rosamunde,56456,56460,Mein,rosamunde
 qd,xknr.0,56416,56974,rosamunde,56556,56559,ich,rosamunde
 qd,xknr.0,56416,56974,rosamunde,56581,56584,ich,rosamunde
+qd,xknr.0,56980,57125,flodoardo,57013,57016,mir,flodoardo
 qd,xknr.0,57328,57925,flodoardo,57785,57788,ich,flodoardo
 qd,xknr.0,57931,58191,rosamunde,58015,58018,ich,rosamunde
 qd,xknr.0,57931,58191,rosamunde,58025,58028,ich,rosamunde
+qd,xknr.0,57931,58191,rosamunde,58058,58061,ich,rosamunde
+qd,xknr.0,57931,58191,rosamunde,58077,58080,ich,rosamunde
 qd,xknr.0,58197,58516,flodoardo,58377,58380,ich,flodoardo
 qd,xknr.0,58197,58516,flodoardo,58421,58425,mich,flodoardo
 qd,xknr.0,58523,58829,rosamunde,58643,58646,ich,rosamunde
@@ -292,6 +302,7 @@ qd,xknr.0,60540,60713,rosamunde,60637,60640,mir,rosamunde
 qd,xknr.0,60540,60713,rosamunde,60654,60657,ich,rosamunde
 qd,xknr.0,60540,60713,rosamunde,60686,60689,ich,rosamunde
 qd,xknr.0,60719,61137,flodoardo,60749,60752,ich,flodoardo
+qd,xknr.0,60719,61137,flodoardo,60907,60910,ich,flodoardo
 qd,xknr.0,60719,61137,flodoardo,61003,61006,ich,flodoardo
 qd,xknr.0,60719,61137,flodoardo,61013,61016,ich,flodoardo
 qd,xknr.0,60719,61137,flodoardo,61060,61066,Meinen,flodoardo
@@ -343,6 +354,7 @@ qd,xknr.0,66744,66869,memmo,66851,66854,ich,memmo
 qd,xknr.0,66934,66971,memmo,66945,66948,ich,memmo
 qd,xknr.0,66934,66971,memmo,66967,66970,mir,memmo
 qd,xknr.0,67164,67357,parozzi,67196,67199,ich,parozzi
+qd,xknr.0,67164,67357,parozzi,67244,67247,ich,parozzi
 qd,xknr.0,67164,67357,parozzi,67292,67295,ich,parozzi
 qd,xknr.0,67363,67404,memmo,67382,67385,ich,memmo
 qd,xknr.0,67702,67739,memmo,67722,67725,ich,memmo
@@ -404,6 +416,7 @@ qd,xknr.0,81297,82065,abellino,81608,81611,mir,abellino
 qd,xknr.0,81297,82065,abellino,81632,81638,meiner,abellino
 qd,xknr.0,81297,82065,abellino,81730,81733,ich,abellino
 qd,xknr.0,81297,82065,abellino,81834,81837,ich,abellino
+qd,xknr.0,82257,82397,abellino,82318,82322,mich,abellino
 qd,xknr.0,82257,82397,abellino,82363,82366,ich,abellino
 qd,xknr.0,82486,83066,abellino,82553,82556,ich,abellino
 qd,xknr.0,82486,83066,abellino,82652,82658,meinen,abellino
@@ -442,6 +455,7 @@ qd,xknr.0,88320,88392,flodoardo,88334,88338,mein,flodoardo
 qd,xknr.0,88320,88392,flodoardo,88351,88354,ich,flodoardo
 qd,xknr.0,88320,88392,flodoardo,88355,88359,mich,flodoardo
 qd,xknr.0,88398,88524,doge,88448,88454,meines,doge
+qd,xknr.0,88530,88865,flodoardo,88553,88556,ich,flodoardo
 qd,xknr.0,88530,88865,flodoardo,88672,88677,meine,flodoardo
 qd,xknr.0,88530,88865,flodoardo,88716,88720,mich,flodoardo
 qd,xknr.0,88871,89040,doge,88895,88898,mir,doge
@@ -451,6 +465,7 @@ qd,xknr.0,89046,89145,flodoardo,89081,89084,ich,flodoardo
 qd,xknr.0,89151,89777,doge,89251,89254,ich,doge
 qd,xknr.0,89151,89777,doge,89665,89668,ich,doge
 qd,xknr.0,89151,89777,doge,89728,89732,mein,doge
+qd,xknr.0,89783,89995,flodoardo,89906,89909,ich,flodoardo
 qd,xknr.0,89783,89995,flodoardo,89934,89938,mein,flodoardo
 qd,xknr.0,89783,89995,flodoardo,89959,89962,Ich,flodoardo
 qd,xknr.0,90001,90078,doge,90008,90011,Ich,doge
@@ -552,7 +567,6 @@ qd,xknr.0,107212,107718,doge,107631,107634,ich,doge
 qd,xknr.0,107212,107718,doge,107635,107638,mir,doge
 qd,xknr.0,107724,108173,tolomeo,107899,107902,mir,tolomeo
 qd,xknr.0,107724,108173,tolomeo,108109,108112,ich,tolomeo
-qd,xknr.0,107724,108173,tolomeo,108151,108157,Meinen,tolomeo
 qd,xknr.0,108180,108332,doge,108293,108296,ich,doge
 qd,xknr.0,108180,108332,doge,108297,108300,mir,doge
 qd,xknr.0,108180,108332,doge,108315,108318,ich,doge
@@ -635,6 +649,7 @@ qd,xknr.0,121818,121882,doge,121860,121863,ich,doge
 qd,xknr.0,121888,122600,abellino,121968,121971,ich,abellino
 qd,xknr.0,121888,122600,abellino,122016,122019,ich,abellino
 qd,xknr.0,122606,123156,doge,122627,122631,mich,doge
+qd,xknr.0,122606,123156,doge,122947,122951,mich,doge
 qd,xknr.0,123161,123424,abellino,123221,123224,ich,abellino
 qd,xknr.0,123476,124258,abellino,123500,123504,mich,abellino
 qd,xknr.0,123476,124258,abellino,123511,123515,mein,abellino
@@ -733,6 +748,7 @@ qd,xknr.0,137026,137251,doge,137123,137127,mich,doge
 qd,xknr.0,137026,137251,doge,137159,137163,mich,doge
 qd,xknr.0,137258,137432,parozzi,137273,137276,ich,parozzi
 qd,xknr.0,137258,137432,parozzi,137282,137285,ich,parozzi
+qd,xknr.0,137258,137432,parozzi,137325,137328,mir,parozzi
 qd,xknr.0,137438,137517,doge,137470,137474,mich,doge
 qd,xknr.0,137438,137517,doge,137489,137494,Meine,doge
 qd,xknr.0,137669,138475,paroli,137736,137739,ich,paroli
@@ -758,6 +774,7 @@ qd,xknr.0,141124,141174,flodoardo,141135,141139,Mein,flodoardo
 qd,xknr.0,141124,141174,flodoardo,141160,141163,ich,flodoardo
 qd,xknr.0,141269,141292,flodoardo,141280,141285,Meine,flodoardo
 qd,xknr.0,141360,141411,flodoardo,141376,141379,ich,flodoardo
+qd,xknr.0,141360,141411,flodoardo,141398,141401,ich,flodoardo
 qd,xknr.0,141549,141593,flodoardo,141572,141575,ich,flodoardo
 qd,xknr.0,141656,141756,doge,141668,141671,mir,doge
 qd,xknr.0,141762,141861,flodoardo,141774,141777,Ich,flodoardo
@@ -788,6 +805,7 @@ qd,xknr.0,145410,146341,rosamunde,145775,145778,mir,rosamunde
 qd,xknr.0,145410,146341,rosamunde,145896,145899,ich,rosamunde
 qd,xknr.0,145410,146341,rosamunde,145970,145973,mir,rosamunde
 qd,xknr.0,145410,146341,rosamunde,146022,146025,ich,rosamunde
+qd,xknr.0,145410,146341,rosamunde,146087,146090,mir,rosamunde
 qd,xknr.0,145410,146341,rosamunde,146139,146143,mein,rosamunde
 qd,xknr.0,145410,146341,rosamunde,146160,146166,meines,rosamunde
 qd,xknr.0,145410,146341,rosamunde,146188,146191,mir,rosamunde
@@ -893,6 +911,7 @@ qd,xknr.0,161987,162148,contarino,162032,162036,mich,contarino
 qd,xknr.0,162386,162495,parozzi,162420,162423,ich,parozzi
 qd,xknr.0,162578,162713,contarino,162625,162628,Mir,contarino
 qd,xknr.0,163742,164098,abellino,163757,163760,ich,abellino
+qd,xknr.0,163742,164098,abellino,163953,163956,ich,abellino
 qd,xknr.0,163742,164098,abellino,163974,163978,mich,abellino
 qd,xknr.0,163742,164098,abellino,164041,164044,ich,abellino
 qd,xknr.0,163742,164098,abellino,164083,164086,ich,abellino
@@ -921,6 +940,8 @@ qd,xknr.0,175494,175597,doge,175542,175546,mich,doge
 qd,xknr.0,176607,177276,doge,176718,176721,ich,doge
 qd,xknr.0,177429,177563,falieri,177439,177442,Ich,falieri
 qd,xknr.0,177429,177563,falieri,177448,177453,meine,falieri
+qd,xknr.0,177569,177653,memmo,177583,177586,ich,memmo
+qd,xknr.0,177569,177653,memmo,177597,177600,ich,memmo
 qd,xknr.0,178127,178253,flodoardo,178154,178157,mir,flodoardo
 qd,xknr.0,178620,178955,flodoardo,178632,178635,Ich,flodoardo
 qd,xknr.0,178620,178955,flodoardo,178846,178849,ich,flodoardo
@@ -943,6 +964,7 @@ qd,xknr.0,181721,182102,flodoardo,182082,182086,mich,flodoardo
 qd,xknr.0,182108,182233,parozzi,182180,182183,ich,parozzi
 qd,xknr.0,182518,182679,flodoardo,182632,182638,meinen,flodoardo
 qd,xknr.0,182876,183264,flodoardo,183211,183214,ich,flodoardo
+qd,xknr.0,183455,184046,doge,183493,183496,ich,doge
 qd,xknr.0,183455,184046,doge,183637,183642,meine,doge
 qd,xknr.0,184861,185856,abellino,185251,185254,ich,abellino
 qd,xknr.0,184861,185856,abellino,185373,185376,ich,abellino

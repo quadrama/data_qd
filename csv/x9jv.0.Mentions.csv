@@ -204,6 +204,7 @@ qd,x9jv.0,30536,30681,malwina,30658,30661,ich,malwina
 qd,x9jv.0,30687,30734,dauvenaut,30711,30714,ich,dauvenaut
 qd,x9jv.0,30850,30933,malwina,30865,30868,ich,malwina
 qd,x9jv.0,30850,30933,malwina,30877,30880,ich,malwina
+qd,x9jv.0,30850,30933,malwina,30900,30903,ich,malwina
 qd,x9jv.0,31036,31148,dauvenaut,31071,31074,ich,dauvenaut
 qd,x9jv.0,31036,31148,dauvenaut,31075,31079,mich,dauvenaut
 qd,x9jv.0,31036,31148,dauvenaut,31135,31138,mir,dauvenaut
@@ -291,10 +292,14 @@ qd,x9jv.0,55234,55525,green,55317,55320,ich,green
 qd,x9jv.0,55234,55525,green,55326,55329,mir,green
 qd,x9jv.0,55530,55703,emmy,55538,55543,Meine,emmy
 qd,x9jv.0,55530,55703,emmy,55566,55569,mir,emmy
+qd,x9jv.0,55900,56338,emmy,56235,56238,ich,emmy
 qd,x9jv.0,56489,56922,emmy,56533,56536,Mir,emmy
+qd,x9jv.0,56489,56922,emmy,56819,56822,ich,emmy
 qd,x9jv.0,57115,57547,emmy,57133,57137,mich,emmy
+qd,x9jv.0,57115,57547,emmy,57444,57447,ich,emmy
 qd,x9jv.0,57698,58136,emmy,57714,57718,mich,emmy
 qd,x9jv.0,57698,58136,emmy,57810,57813,mir,emmy
+qd,x9jv.0,57698,58136,emmy,58033,58036,ich,emmy
 qd,x9jv.0,58288,58703,emmy,58611,58614,mir,emmy
 qd,x9jv.0,59336,59384,perth,59353,59356,ich,perth
 qd,x9jv.0,59389,59430,ruthwen,59409,59413,mich,ruthwen
@@ -626,5 +631,7 @@ qd,x9jv.0,109545,109835,dauvenaut,109646,109649,ich,dauvenaut
 qd,x9jv.0,109545,109835,dauvenaut,109683,109686,ich,dauvenaut
 qd,x9jv.0,109545,109835,dauvenaut,109767,109771,mein,dauvenaut
 qd,x9jv.0,109545,109835,dauvenaut,109781,109787,meines,dauvenaut
+qd,x9jv.0,109951,110319,aubry,109973,109976,ich,aubry
+qd,x9jv.0,109951,110319,aubry,109993,109996,ich,aubry
 qd,x9jv.0,109951,110319,aubry,110029,110032,ich,aubry
 qd,x9jv.0,109951,110319,aubry,110059,110062,ich,aubry

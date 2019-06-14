@@ -92,6 +92,7 @@ qd,kd4c.0,8662,12143,staberl,8714,8717,ich,staberl
 qd,kd4c.0,8662,12143,staberl,8747,8750,ich,staberl
 qd,kd4c.0,8662,12143,staberl,9020,9023,ich,staberl
 qd,kd4c.0,8662,12143,staberl,9044,9047,ich,staberl
+qd,kd4c.0,8662,12143,staberl,9071,9074,mir,staberl
 qd,kd4c.0,8662,12143,staberl,9235,9239,mich,staberl
 qd,kd4c.0,8662,12143,staberl,9301,9304,Ich,staberl
 qd,kd4c.0,8662,12143,staberl,9537,9540,Ich,staberl
@@ -253,11 +254,13 @@ qd,kd4c.0,23593,23741,redlich,23607,23611,Mein,redlich
 qd,kd4c.0,23746,23889,hans,23753,23757,Mich,hans
 qd,kd4c.0,23746,23889,hans,23783,23786,ich,hans
 qd,kd4c.0,23746,23889,hans,23819,23822,Ich,hans
+qd,kd4c.0,23746,23889,hans,23868,23871,ich,hans
 qd,kd4c.0,23894,24013,redlich,23904,23907,Mir,redlich
 qd,kd4c.0,24148,24378,redlich,24278,24281,ich,redlich
 qd,kd4c.0,24148,24378,redlich,24337,24342,meine,redlich
 qd,kd4c.0,24383,24453,müller,24420,24423,ich,müller
 qd,kd4c.0,24458,24693,redlich,24507,24511,mein,redlich
+qd,kd4c.0,24458,24693,redlich,24529,24532,mir,redlich
 qd,kd4c.0,24458,24693,redlich,24558,24561,ich,redlich
 qd,kd4c.0,24458,24693,redlich,24600,24603,mir,redlich
 qd,kd4c.0,24698,24733,müller,24716,24719,mir,müller
@@ -325,6 +328,7 @@ qd,kd4c.0,32145,32450,staberl,32166,32169,ich,staberl
 qd,kd4c.0,32145,32450,staberl,32170,32174,mich,staberl
 qd,kd4c.0,32145,32450,staberl,32183,32186,Ich,staberl
 qd,kd4c.0,32145,32450,staberl,32206,32210,mein,staberl
+qd,kd4c.0,32145,32450,staberl,32243,32246,ich,staberl
 qd,kd4c.0,32145,32450,staberl,32335,32338,ich,staberl
 qd,kd4c.0,32489,32618,staberl,32599,32602,mir,staberl
 qd,kd4c.0,32777,32845,müller,32808,32811,ich,müller
@@ -361,6 +365,8 @@ qd,kd4c.0,35886,36637,staberl,36266,36269,ich,staberl
 qd,kd4c.0,35886,36637,staberl,36324,36327,ich,staberl
 qd,kd4c.0,35886,36637,staberl,36349,36353,mich,staberl
 qd,kd4c.0,35886,36637,staberl,36421,36425,mich,staberl
+qd,kd4c.0,35886,36637,staberl,36450,36453,ich,staberl
+qd,kd4c.0,35886,36637,staberl,36583,36586,mir,staberl
 qd,kd4c.0,35886,36637,staberl,36620,36623,ich,staberl
 qd,kd4c.0,36642,36728,redlich,36684,36687,Ich,redlich
 qd,kd4c.0,36642,36728,redlich,36692,36698,meiner,redlich
@@ -377,6 +383,7 @@ qd,kd4c.0,37276,37350,redlich,37323,37326,ich,redlich
 qd,kd4c.0,37276,37350,redlich,37327,37331,mich,redlich
 qd,kd4c.0,37355,37591,staberl,37505,37508,ich,staberl
 qd,kd4c.0,37596,37703,redlich,37606,37609,Mir,redlich
+qd,kd4c.0,37596,37703,redlich,37651,37654,ich,redlich
 qd,kd4c.0,37708,38308,staberl,37751,37754,Ich,staberl
 qd,kd4c.0,37708,38308,staberl,37915,37921,meinem,staberl
 qd,kd4c.0,37708,38308,staberl,37940,37944,mich,staberl
@@ -439,6 +446,7 @@ qd,kd4c.0,41736,42040,hans,41820,41823,ich,hans
 qd,kd4c.0,41736,42040,hans,41952,41955,ich,hans
 qd,kd4c.0,41736,42040,hans,41956,41961,meine,hans
 qd,kd4c.0,41736,42040,hans,41983,41986,ich,hans
+qd,kd4c.0,41736,42040,hans,42025,42028,ich,hans
 qd,kd4c.0,42045,42138,staberl,42097,42100,mir,staberl
 qd,kd4c.0,42143,42194,hans,42156,42159,mir,hans
 qd,kd4c.0,42199,42307,staberl,42263,42266,ich,staberl
@@ -492,6 +500,7 @@ qd,kd4c.0,45956,46059,redlich,46037,46040,ich,redlich
 qd,kd4c.0,46064,46162,therese,46079,46082,ich,therese
 qd,kd4c.0,46064,46162,therese,46121,46124,mir,therese
 qd,kd4c.0,46167,46314,redlich,46177,46180,Ich,redlich
+qd,kd4c.0,46167,46314,redlich,46201,46204,ich,redlich
 qd,kd4c.0,46319,46471,therese,46334,46337,ich,therese
 qd,kd4c.0,46319,46471,therese,46382,46385,ich,therese
 qd,kd4c.0,46319,46471,therese,46436,46440,mich,therese
@@ -625,6 +634,7 @@ qd,kd4c.0,57222,57948,staberl,57780,57784,mich,staberl
 qd,kd4c.0,57222,57948,staberl,57799,57803,Mich,staberl
 qd,kd4c.0,57222,57948,staberl,57809,57812,ich,staberl
 qd,kd4c.0,57987,58154,staberl,57997,58000,Ich,staberl
+qd,kd4c.0,57987,58154,staberl,58005,58008,mir,staberl
 qd,kd4c.0,57987,58154,staberl,58074,58077,ich,staberl
 qd,kd4c.0,57987,58154,staberl,58103,58107,mich,staberl
 qd,kd4c.0,57987,58154,staberl,58134,58137,ich,staberl
@@ -771,6 +781,7 @@ qd,kd4c.0,69844,69904,karl,69873,69876,ich,karl
 qd,kd4c.0,69910,70039,therese,70006,70010,Mein,therese
 qd,kd4c.0,69910,70039,therese,70023,70027,Mein,therese
 qd,kd4c.0,70378,70853,staberl,70676,70679,Ich,staberl
+qd,kd4c.0,70378,70853,staberl,70700,70703,mir,staberl
 qd,kd4c.0,70378,70853,staberl,70775,70778,Ich,staberl
 qd,kd4c.0,70378,70853,staberl,70830,70833,ich,staberl
 qd,kd4c.0,70947,71130,toloysky,70958,70961,Ich,toloysky

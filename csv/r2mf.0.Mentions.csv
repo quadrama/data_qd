@@ -123,6 +123,7 @@ qd,r2mf.0,16471,16816,greis,16691,16695,mich,greis
 qd,r2mf.0,16471,16816,greis,16745,16748,ich,greis
 qd,r2mf.0,16471,16816,greis,16771,16774,ich,greis
 qd,r2mf.0,16471,16816,greis,16799,16803,mich,greis
+qd,r2mf.0,16822,16927,franz,16862,16865,mir,franz
 qd,r2mf.0,16822,16927,franz,16895,16898,ich,franz
 qd,r2mf.0,16932,16959,unbekannte,16955,16958,ich,unbekannte
 qd,r2mf.0,16964,17031,franz,16986,16989,ich,franz
@@ -130,6 +131,7 @@ qd,r2mf.0,17036,17135,unbekannte,17105,17111,meinen,unbekannte
 qd,r2mf.0,17189,17307,greis,17232,17235,mir,greis
 qd,r2mf.0,17189,17307,greis,17257,17260,ich,greis
 qd,r2mf.0,17342,17489,greis,17381,17387,meinen,greis
+qd,r2mf.0,17342,17489,greis,17413,17416,ich,greis
 qd,r2mf.0,18094,18223,franz,18151,18154,ich,franz
 qd,r2mf.0,18228,18332,greis,18264,18270,meinen,greis
 qd,r2mf.0,18228,18332,greis,18310,18313,ich,greis
@@ -626,6 +628,7 @@ qd,r2mf.0,82497,82566,der_graf,82515,82518,ich,der_graf
 qd,r2mf.0,82497,82566,der_graf,82530,82536,meinen,der_graf
 qd,r2mf.0,82615,82738,der_graf,82649,82653,mein,der_graf
 qd,r2mf.0,82743,82898,eulalia,82753,82756,Ich,eulalia
+qd,r2mf.0,82903,83265,der_graf,83116,83119,mir,der_graf
 qd,r2mf.0,82903,83265,der_graf,83134,83138,mich,der_graf
 qd,r2mf.0,82903,83265,der_graf,83177,83182,Meine,der_graf
 qd,r2mf.0,83358,83684,der_graf,83404,83407,ich,der_graf
@@ -634,6 +637,7 @@ qd,r2mf.0,83358,83684,der_graf,83478,83484,meinen,der_graf
 qd,r2mf.0,83796,83840,major,83817,83820,Ich,major
 qd,r2mf.0,83845,84247,der_graf,83912,83915,Ich,der_graf
 qd,r2mf.0,83845,84247,der_graf,84009,84012,mir,der_graf
+qd,r2mf.0,83845,84247,der_graf,84041,84044,mir,der_graf
 qd,r2mf.0,83845,84247,der_graf,84063,84066,ich,der_graf
 qd,r2mf.0,84340,84373,peter,84363,84366,ich,peter
 qd,r2mf.0,84511,84561,peter,84546,84549,ich,peter
@@ -754,6 +758,7 @@ qd,r2mf.0,94965,95203,der_graf,95031,95034,ich,der_graf
 qd,r2mf.0,94965,95203,der_graf,95058,95061,ich,der_graf
 qd,r2mf.0,95339,95401,peter,95365,95368,ich,peter
 qd,r2mf.0,95339,95401,peter,95385,95388,mir,peter
+qd,r2mf.0,95448,95489,peter,95474,95477,mir,peter
 qd,r2mf.0,95494,95505,der_graf,95501,95504,Ich,der_graf
 qd,r2mf.0,95510,95573,peter,95540,95543,ich,peter
 qd,r2mf.0,95578,95608,der_graf,95589,95593,mich,der_graf
@@ -859,6 +864,7 @@ qd,r2mf.0,104437,108175,unbekannte,105047,105050,ich,unbekannte
 qd,r2mf.0,104437,108175,unbekannte,105270,105273,Ich,unbekannte
 qd,r2mf.0,104437,108175,unbekannte,105418,105422,mich,unbekannte
 qd,r2mf.0,104437,108175,unbekannte,105424,105427,Ich,unbekannte
+qd,r2mf.0,104437,108175,unbekannte,105532,105535,mir,unbekannte
 qd,r2mf.0,104437,108175,unbekannte,105557,105560,ich,unbekannte
 qd,r2mf.0,104437,108175,unbekannte,105602,105605,Ich,unbekannte
 qd,r2mf.0,104437,108175,unbekannte,105610,105614,mich,unbekannte
@@ -955,6 +961,7 @@ qd,r2mf.0,110751,111518,unbekannte,111207,111213,meinen,unbekannte
 qd,r2mf.0,110751,111518,unbekannte,111238,111242,mich,unbekannte
 qd,r2mf.0,110751,111518,unbekannte,111248,111252,mich,unbekannte
 qd,r2mf.0,110751,111518,unbekannte,111370,111373,ich,unbekannte
+qd,r2mf.0,110751,111518,unbekannte,111483,111486,mir,unbekannte
 qd,r2mf.0,111523,111613,major,111609,111612,mir,major
 qd,r2mf.0,111843,111899,major,111861,111865,mein,major
 qd,r2mf.0,111904,112031,unbekannte,111918,111921,Ich,unbekannte
@@ -1329,6 +1336,7 @@ qd,r2mf.0,154183,155214,eulalia,155003,155006,ich,eulalia
 qd,r2mf.0,154183,155214,eulalia,155058,155061,mir,eulalia
 qd,r2mf.0,155380,155457,eulalia,155410,155413,mir,eulalia
 qd,r2mf.0,155380,155457,eulalia,155441,155447,meines,eulalia
+qd,r2mf.0,155462,155670,unbekannte,155506,155509,ich,unbekannte
 qd,r2mf.0,155675,155800,eulalia,155782,155787,meine,eulalia
 qd,r2mf.0,155891,155966,eulalia,155918,155922,Mein,eulalia
 qd,r2mf.0,155971,155997,unbekannte,155985,155988,Ich,unbekannte

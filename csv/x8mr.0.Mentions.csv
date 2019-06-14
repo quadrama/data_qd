@@ -6,6 +6,7 @@ qd,x8mr.0,1019,2041,zoe,1598,1601,mir,zoe
 qd,x8mr.0,1019,2041,zoe,1630,1633,mir,zoe
 qd,x8mr.0,1019,2041,zoe,1654,1657,mir,zoe
 qd,x8mr.0,1019,2041,zoe,1658,1664,meinen,zoe
+qd,x8mr.0,2135,2249,frau,2147,2150,ich,frau
 qd,x8mr.0,3578,3726,frau,3629,3632,mir,frau
 qd,x8mr.0,3578,3726,frau,3678,3681,ich,frau
 qd,x8mr.0,3732,3755,pausanias,3743,3746,Ich,pausanias
@@ -29,6 +30,7 @@ qd,x8mr.0,7714,8216,zoe,7992,7995,mir,zoe
 qd,x8mr.0,7714,8216,zoe,8005,8009,Mein,zoe
 qd,x8mr.0,7714,8216,zoe,8199,8202,mir,zoe
 qd,x8mr.0,8221,8363,der_greis,8233,8236,ich,der_greis
+qd,x8mr.0,8221,8363,der_greis,8255,8258,ich,der_greis
 qd,x8mr.0,8402,8452,zoe,8447,8450,ich,zoe
 qd,x8mr.0,9263,9433,der_greis,9428,9432,mich,der_greis
 qd,x8mr.0,9840,9980,apelles,9918,9922,mich,apelles
@@ -98,7 +100,9 @@ qd,x8mr.0,19820,19863,bolana,19833,19837,mein,bolana
 qd,x8mr.0,20082,20155,bolana,20115,20119,Mein,bolana
 qd,x8mr.0,20160,20335,timolaos,20237,20240,Ich,timolaos
 qd,x8mr.0,20160,20335,timolaos,20278,20281,ich,timolaos
+qd,x8mr.0,20376,20810,timolaos,20610,20613,ich,timolaos
 qd,x8mr.0,20376,20810,timolaos,20652,20655,ich,timolaos
+qd,x8mr.0,20875,21136,timolaos,20900,20903,ich,timolaos
 qd,x8mr.0,20875,21136,timolaos,20938,20941,ich,timolaos
 qd,x8mr.0,22388,23426,saturninus,22674,22677,Ich,saturninus
 qd,x8mr.0,22388,23426,saturninus,23262,23265,ich,saturninus
@@ -191,6 +195,7 @@ qd,x8mr.0,37762,37893,zoe,37879,37883,mich,zoe
 qd,x8mr.0,38863,38896,erste_bürger,38891,38894,ich,erste_bürger
 qd,x8mr.0,38938,39171,zoe,39116,39119,ich,zoe
 qd,x8mr.0,38938,39171,zoe,39142,39145,mir,zoe
+qd,x8mr.0,38938,39171,zoe,39158,39161,mir,zoe
 qd,x8mr.0,39177,39348,apelles,39295,39298,ich,apelles
 qd,x8mr.0,39354,39559,zoe,39381,39384,ich,zoe
 qd,x8mr.0,39354,39559,zoe,39530,39534,mich,zoe
@@ -342,6 +347,7 @@ qd,x8mr.0,65851,66295,septimius,65956,65960,mich,septimius
 qd,x8mr.0,65851,66295,septimius,65983,65986,ich,septimius
 qd,x8mr.0,65851,66295,septimius,66019,66022,ich,septimius
 qd,x8mr.0,65851,66295,septimius,66052,66055,ich,septimius
+qd,x8mr.0,65851,66295,septimius,66102,66105,mir,septimius
 qd,x8mr.0,65851,66295,septimius,66137,66140,ich,septimius
 qd,x8mr.0,65851,66295,septimius,66187,66191,mich,septimius
 qd,x8mr.0,65851,66295,septimius,66206,66209,ich,septimius
@@ -394,6 +400,7 @@ qd,x8mr.0,70297,70679,apelles,70615,70618,ich,apelles
 qd,x8mr.0,70685,71075,phöbe,70722,70725,Ich,phöbe
 qd,x8mr.0,70685,71075,phöbe,70752,70755,ich,phöbe
 qd,x8mr.0,70685,71075,phöbe,70813,70817,mich,phöbe
+qd,x8mr.0,70685,71075,phöbe,70825,70828,ich,phöbe
 qd,x8mr.0,70685,71075,phöbe,70855,70858,ich,phöbe
 qd,x8mr.0,70685,71075,phöbe,70871,70874,Ich,phöbe
 qd,x8mr.0,70685,71075,phöbe,70942,70945,ich,phöbe
@@ -421,6 +428,7 @@ qd,x8mr.0,72278,73136,phöbe,72530,72533,ich,phöbe
 qd,x8mr.0,72278,73136,phöbe,72733,72736,ich,phöbe
 qd,x8mr.0,72278,73136,phöbe,72774,72777,ich,phöbe
 qd,x8mr.0,72278,73136,phöbe,72860,72866,meinem,phöbe
+qd,x8mr.0,72278,73136,phöbe,73000,73003,ich,phöbe
 qd,x8mr.0,72278,73136,phöbe,73078,73082,mich,phöbe
 qd,x8mr.0,72278,73136,phöbe,73091,73094,mir,phöbe
 qd,x8mr.0,72278,73136,phöbe,73101,73104,ich,phöbe
@@ -449,6 +457,7 @@ qd,x8mr.0,75346,75798,apelles,75607,75610,ich,apelles
 qd,x8mr.0,75805,75949,bolana,75916,75919,ich,bolana
 qd,x8mr.0,76007,76033,bolana,76021,76024,ich,bolana
 qd,x8mr.0,76064,76179,bolana,76121,76124,ich,bolana
+qd,x8mr.0,76064,76179,bolana,76144,76147,ich,bolana
 qd,x8mr.0,76243,76540,bolana,76331,76334,ich,bolana
 qd,x8mr.0,76243,76540,bolana,76403,76406,mir,bolana
 qd,x8mr.0,76243,76540,bolana,76437,76443,meinem,bolana
@@ -473,6 +482,7 @@ qd,x8mr.0,78958,79625,phöbe,79160,79163,ich,phöbe
 qd,x8mr.0,78958,79625,phöbe,79288,79291,mir,phöbe
 qd,x8mr.0,78958,79625,phöbe,79570,79574,mein,phöbe
 qd,x8mr.0,78958,79625,phöbe,79594,79597,ich,phöbe
+qd,x8mr.0,80078,80140,longinus,80118,80122,mich,longinus
 qd,x8mr.0,80146,80211,phöbe,80175,80178,Mir,phöbe
 qd,x8mr.0,80146,80211,phöbe,80192,80195,mir,phöbe
 qd,x8mr.0,80146,80211,phöbe,80207,80210,mir,phöbe
@@ -553,6 +563,7 @@ qd,x8mr.0,91282,92228,herennianos,91514,91520,meiner,herennianos
 qd,x8mr.0,91282,92228,herennianos,92219,92222,ich,herennianos
 qd,x8mr.0,92234,92472,apelles,92250,92253,mir,apelles
 qd,x8mr.0,92234,92472,apelles,92298,92303,meine,apelles
+qd,x8mr.0,92234,92472,apelles,92318,92321,ich,apelles
 qd,x8mr.0,92234,92472,apelles,92370,92373,ich,apelles
 qd,x8mr.0,92968,93372,apelles,93013,93016,Ich,apelles
 qd,x8mr.0,92968,93372,apelles,93048,93051,ich,apelles
@@ -567,6 +578,7 @@ qd,x8mr.0,93900,94396,aurelius,93995,93998,mir,aurelius
 qd,x8mr.0,93900,94396,aurelius,94037,94040,ich,aurelius
 qd,x8mr.0,94598,94943,apelles,94607,94610,Ich,apelles
 qd,x8mr.0,94598,94943,apelles,94701,94705,Mein,apelles
+qd,x8mr.0,94598,94943,apelles,94728,94731,ich,apelles
 qd,x8mr.0,94948,95002,herennianos,94998,95001,ich,herennianos
 qd,x8mr.0,95008,95055,tryphena,95044,95048,mein,tryphena
 qd,x8mr.0,95060,95420,herennianos,95380,95383,ich,herennianos
@@ -590,6 +602,7 @@ qd,x8mr.0,98488,100111,apelles,99144,99148,mich,apelles
 qd,x8mr.0,98488,100111,apelles,99159,99162,ich,apelles
 qd,x8mr.0,98488,100111,apelles,99226,99229,Mir,apelles
 qd,x8mr.0,98488,100111,apelles,99286,99289,ich,apelles
+qd,x8mr.0,98488,100111,apelles,99306,99309,ich,apelles
 qd,x8mr.0,98488,100111,apelles,99333,99337,mich,apelles
 qd,x8mr.0,98488,100111,apelles,99501,99506,meine,apelles
 qd,x8mr.0,98488,100111,apelles,99669,99675,meinen,apelles
@@ -780,7 +793,9 @@ qd,x8mr.0,126630,127065,apelles,126757,126760,mir,apelles
 qd,x8mr.0,126630,127065,apelles,126808,126811,ich,apelles
 qd,x8mr.0,126630,127065,apelles,127032,127035,mir,apelles
 qd,x8mr.0,127071,127116,nymphas,127088,127091,mir,nymphas
+qd,x8mr.0,127122,127370,apelles,127136,127139,ich,apelles
 qd,x8mr.0,127122,127370,apelles,127162,127165,mir,apelles
+qd,x8mr.0,127122,127370,apelles,127188,127191,mir,apelles
 qd,x8mr.0,127428,127449,nymphas,127442,127445,ich,nymphas
 qd,x8mr.0,127454,127727,apelles,127476,127479,Ich,apelles
 qd,x8mr.0,128400,128460,nymphas,128428,128431,mir,nymphas
@@ -802,6 +817,7 @@ qd,x8mr.0,130060,131244,pausanias,130093,130096,ich,pausanias
 qd,x8mr.0,130060,131244,pausanias,130107,130110,Ich,pausanias
 qd,x8mr.0,130060,131244,pausanias,130665,130668,Ich,pausanias
 qd,x8mr.0,130060,131244,pausanias,130686,130689,ich,pausanias
+qd,x8mr.0,130060,131244,pausanias,131111,131114,ich,pausanias
 qd,x8mr.0,131549,131767,nymphas,131599,131602,Mir,nymphas
 qd,x8mr.0,131549,131767,nymphas,131666,131669,Ich,nymphas
 qd,x8mr.0,131774,131924,pausanias,131841,131845,mich,pausanias
@@ -838,6 +854,7 @@ qd,x8mr.0,136926,136974,nymphas,136955,136958,mir,nymphas
 qd,x8mr.0,137030,137082,nymphas,137062,137065,mir,nymphas
 qd,x8mr.0,137088,137236,apelles,137158,137161,mir,apelles
 qd,x8mr.0,137306,137524,apelles,137357,137361,mich,apelles
+qd,x8mr.0,137306,137524,apelles,137392,137395,ich,apelles
 qd,x8mr.0,137796,138028,nymphas,137818,137821,ich,nymphas
 qd,x8mr.0,137796,138028,nymphas,137828,137831,ich,nymphas
 qd,x8mr.0,137796,138028,nymphas,137856,137862,meines,nymphas
@@ -1036,6 +1053,7 @@ qd,x8mr.0,164528,165249,zenobia,165033,165037,mich,zenobia
 qd,x8mr.0,164528,165249,zenobia,165051,165055,mich,zenobia
 qd,x8mr.0,164528,165249,zenobia,165186,165190,mich,zenobia
 qd,x8mr.0,164528,165249,zenobia,165219,165222,mir,zenobia
+qd,x8mr.0,165255,166201,apelles,165320,165323,ich,apelles
 qd,x8mr.0,165255,166201,apelles,165351,165357,meinen,apelles
 qd,x8mr.0,165255,166201,apelles,165444,165447,ich,apelles
 qd,x8mr.0,165255,166201,apelles,165561,165564,Ich,apelles
@@ -1046,6 +1064,7 @@ qd,x8mr.0,165255,166201,apelles,166020,166023,Ich,apelles
 qd,x8mr.0,165255,166201,apelles,166031,166037,meines,apelles
 qd,x8mr.0,166295,166353,apelles,166330,166334,mich,apelles
 qd,x8mr.0,166295,166353,apelles,166340,166346,meinem,apelles
+qd,x8mr.0,166359,166794,zenobia,166391,166394,ich,zenobia
 qd,x8mr.0,166359,166794,zenobia,166403,166406,mir,zenobia
 qd,x8mr.0,166359,166794,zenobia,166451,166454,ich,zenobia
 qd,x8mr.0,166359,166794,zenobia,166611,166614,mir,zenobia

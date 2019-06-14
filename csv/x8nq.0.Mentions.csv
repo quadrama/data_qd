@@ -46,6 +46,7 @@ qd,x8nq.0,8860,9039,hamatelliwa,8921,8924,mir,hamatelliwa
 qd,x8nq.0,8860,9039,hamatelliwa,9028,9031,ich,hamatelliwa
 qd,x8nq.0,9077,9220,hamatelliwa,9139,9143,Mein,hamatelliwa
 qd,x8nq.0,9225,9677,bernhard,9312,9316,mein,bernhard
+qd,x8nq.0,9225,9677,bernhard,9373,9376,ich,bernhard
 qd,x8nq.0,9225,9677,bernhard,9410,9414,Mein,bernhard
 qd,x8nq.0,9225,9677,bernhard,9425,9429,mein,bernhard
 qd,x8nq.0,9225,9677,bernhard,9435,9438,ich,bernhard
@@ -112,6 +113,7 @@ qd,x8nq.0,20994,21322,judith,21005,21009,mein,judith
 qd,x8nq.0,20994,21322,judith,21019,21022,Ich,judith
 qd,x8nq.0,20994,21322,judith,21107,21111,mein,judith
 qd,x8nq.0,21584,21789,ludwig,21722,21726,mein,ludwig
+qd,x8nq.0,21794,21976,judith,21812,21815,ich,judith
 qd,x8nq.0,21794,21976,judith,21836,21840,mich,judith
 qd,x8nq.0,21982,22194,wala,22032,22035,ich,wala
 qd,x8nq.0,22216,22253,ludwig,22243,22246,ich,ludwig
@@ -200,6 +202,7 @@ qd,x8nq.0,35494,35589,abdallah,35508,35514,meinem,abdallah
 qd,x8nq.0,35793,35834,bernhard,35814,35817,ich,bernhard
 qd,x8nq.0,35977,36015,satilatlas,35999,36003,mich,satilatlas
 qd,x8nq.0,35977,36015,satilatlas,36004,36008,mein,satilatlas
+qd,x8nq.0,36162,36261,bernhard,36180,36183,ich,bernhard
 qd,x8nq.0,36162,36261,bernhard,36202,36205,ich,bernhard
 qd,x8nq.0,36418,36513,bernhard,36458,36461,mir,bernhard
 qd,x8nq.0,36620,36806,bernhard,36645,36648,ich,bernhard
@@ -393,6 +396,7 @@ qd,x8nq.0,67206,67326,karl,67222,67225,ich,karl
 qd,x8nq.0,67206,67326,karl,67233,67236,ich,karl
 qd,x8nq.0,67206,67326,karl,67266,67271,meine,karl
 qd,x8nq.0,67206,67326,karl,67286,67289,ich,karl
+qd,x8nq.0,67331,68213,bernhard,67376,67379,ich,bernhard
 qd,x8nq.0,67331,68213,bernhard,67610,67613,ich,bernhard
 qd,x8nq.0,67331,68213,bernhard,67635,67638,ich,bernhard
 qd,x8nq.0,67331,68213,bernhard,67639,67642,mir,bernhard
@@ -477,6 +481,7 @@ qd,x8nq.0,80912,81592,bernhard,81239,81242,ich,bernhard
 qd,x8nq.0,80912,81592,bernhard,81568,81571,mir,bernhard
 qd,x8nq.0,81980,82142,ludwig,82000,82003,mir,ludwig
 qd,x8nq.0,81980,82142,ludwig,82048,82051,ich,ludwig
+qd,x8nq.0,82148,82266,matfried,82240,82243,ich,matfried
 qd,x8nq.0,82522,82576,lothar,82531,82534,Ich,lothar
 qd,x8nq.0,83374,83473,lothar,83445,83448,ich,lothar
 qd,x8nq.0,83741,83813,matfried,83768,83771,Ich,matfried
@@ -499,6 +504,7 @@ qd,x8nq.0,88344,88395,lothar,88360,88363,ich,lothar
 qd,x8nq.0,88484,88670,ludwig,88493,88496,Ich,ludwig
 qd,x8nq.0,88484,88670,ludwig,88552,88555,ich,ludwig
 qd,x8nq.0,88484,88670,ludwig,88573,88579,meinen,ludwig
+qd,x8nq.0,88484,88670,ludwig,88611,88614,ich,ludwig
 qd,x8nq.0,88676,88926,abdallah,88709,88712,Ich,abdallah
 qd,x8nq.0,88676,88926,abdallah,88895,88898,ich,abdallah
 qd,x8nq.0,89172,89396,ludwig,89278,89282,mich,ludwig
@@ -636,6 +642,7 @@ qd,x8nq.0,106476,106559,karl,106548,106551,mir,karl
 qd,x8nq.0,106564,106587,judith,106583,106586,mir,judith
 qd,x8nq.0,106592,106904,karl,106616,106619,mir,karl
 qd,x8nq.0,106592,106904,karl,106658,106661,mir,karl
+qd,x8nq.0,106592,106904,karl,106787,106793,meinen,karl
 qd,x8nq.0,106592,106904,karl,106805,106808,ich,karl
 qd,x8nq.0,106592,106904,karl,106893,106896,mir,karl
 qd,x8nq.0,106945,107085,karl,106957,106960,mir,karl

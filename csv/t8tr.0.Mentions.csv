@@ -20,6 +20,7 @@ qd,t8tr.0,2510,2616,kilian,2578,2581,ich,kilian
 qd,t8tr.0,2707,2756,kilian,2720,2723,mir,kilian
 qd,t8tr.0,3014,3168,kilian,3123,3126,Ich,kilian
 qd,t8tr.0,3014,3168,kilian,3150,3156,meinen,kilian
+qd,t8tr.0,3335,3535,kilian,3381,3384,ich,kilian
 qd,t8tr.0,3541,4717,doctor,3875,3878,mir,doctor
 qd,t8tr.0,4723,4874,kilian,4732,4735,Ich,kilian
 qd,t8tr.0,4723,4874,kilian,4784,4787,ich,kilian
@@ -92,9 +93,11 @@ qd,t8tr.0,13095,18146,doctor,13703,13706,ich,doctor
 qd,t8tr.0,13095,18146,doctor,13707,13711,mich,doctor
 qd,t8tr.0,13095,18146,doctor,13771,13774,ich,doctor
 qd,t8tr.0,13095,18146,doctor,13874,13877,Ich,doctor
+qd,t8tr.0,13095,18146,doctor,13942,13945,mir,doctor
 qd,t8tr.0,13095,18146,doctor,13954,13957,ich,doctor
 qd,t8tr.0,13095,18146,doctor,13990,13993,mir,doctor
 qd,t8tr.0,13095,18146,doctor,14018,14021,ich,doctor
+qd,t8tr.0,13095,18146,doctor,14053,14056,ich,doctor
 qd,t8tr.0,13095,18146,doctor,14101,14105,mein,doctor
 qd,t8tr.0,13095,18146,doctor,14149,14153,mich,doctor
 qd,t8tr.0,13095,18146,doctor,14348,14354,meines,doctor
@@ -337,6 +340,7 @@ qd,t8tr.0,55268,55977,schlaukopf,55606,55610,mich,schlaukopf
 qd,t8tr.0,55268,55977,schlaukopf,55656,55660,mich,schlaukopf
 qd,t8tr.0,55268,55977,schlaukopf,55685,55688,ich,schlaukopf
 qd,t8tr.0,55268,55977,schlaukopf,55689,55693,mein,schlaukopf
+qd,t8tr.0,55268,55977,schlaukopf,55745,55748,ich,schlaukopf
 qd,t8tr.0,55268,55977,schlaukopf,55808,55811,ich,schlaukopf
 qd,t8tr.0,55268,55977,schlaukopf,55894,55897,mir,schlaukopf
 qd,t8tr.0,55268,55977,schlaukopf,55913,55917,mich,schlaukopf
@@ -503,6 +507,7 @@ qd,t8tr.0,77376,77783,philosoph,77627,77630,ich,philosoph
 qd,t8tr.0,77376,77783,philosoph,77731,77734,ich,philosoph
 qd,t8tr.0,77789,77850,doctor,77839,77842,ich,doctor
 qd,t8tr.0,77855,78211,philosoph,77875,77879,mein,philosoph
+qd,t8tr.0,77855,78211,philosoph,78010,78013,ich,philosoph
 qd,t8tr.0,78217,78336,doctor,78289,78292,mir,doctor
 qd,t8tr.0,78342,78544,philosoph,78427,78430,mir,philosoph
 qd,t8tr.0,78342,78544,philosoph,78461,78464,ich,philosoph
@@ -510,6 +515,7 @@ qd,t8tr.0,78342,78544,philosoph,78465,78469,mich,philosoph
 qd,t8tr.0,78342,78544,philosoph,78496,78499,ich,philosoph
 qd,t8tr.0,78342,78544,philosoph,78525,78528,mir,philosoph
 qd,t8tr.0,78615,78689,philosoph,78677,78680,mir,philosoph
+qd,t8tr.0,79216,79247,doctor,79241,79244,ich,doctor
 qd,t8tr.0,79252,81341,philosoph,79276,79279,mir,philosoph
 qd,t8tr.0,79252,81341,philosoph,79405,79408,ich,philosoph
 qd,t8tr.0,79252,81341,philosoph,79446,79449,ich,philosoph
@@ -575,6 +581,7 @@ qd,t8tr.0,86235,86297,philosoph,86288,86292,mich,philosoph
 qd,t8tr.0,86336,86378,philosoph,86360,86364,mein,philosoph
 qd,t8tr.0,86412,86473,philosoph,86449,86452,mir,philosoph
 qd,t8tr.0,86412,86473,philosoph,86464,86468,mich,philosoph
+qd,t8tr.0,86516,86596,philosoph,86532,86535,ich,philosoph
 qd,t8tr.0,86516,86596,philosoph,86592,86595,ich,philosoph
 qd,t8tr.0,86649,86723,philosoph,86665,86669,mich,philosoph
 qd,t8tr.0,86761,86800,philosoph,86788,86791,ich,philosoph
@@ -729,6 +736,7 @@ qd,t8tr.0,106241,106649,die_fremde,106308,106311,ich,die_fremde
 qd,t8tr.0,106241,106649,die_fremde,106381,106384,mir,die_fremde
 qd,t8tr.0,106241,106649,die_fremde,106607,106610,Ich,die_fremde
 qd,t8tr.0,106241,106649,die_fremde,106634,106637,ich,die_fremde
+qd,t8tr.0,106655,106748,germania,106711,106714,ich,germania
 qd,t8tr.0,106655,106748,germania,106734,106738,mich,germania
 qd,t8tr.0,106821,106891,kilian,106871,106874,mir,kilian
 qd,t8tr.0,107124,108093,schlaukopf,107190,107193,ich,schlaukopf
@@ -745,6 +753,7 @@ qd,t8tr.0,108099,109821,die_fremde,108208,108213,meine,die_fremde
 qd,t8tr.0,108099,109821,die_fremde,108252,108255,ich,die_fremde
 qd,t8tr.0,108099,109821,die_fremde,108329,108333,mein,die_fremde
 qd,t8tr.0,108099,109821,die_fremde,108375,108378,mir,die_fremde
+qd,t8tr.0,108099,109821,die_fremde,108434,108437,ich,die_fremde
 qd,t8tr.0,108099,109821,die_fremde,108603,108609,meinem,die_fremde
 qd,t8tr.0,108099,109821,die_fremde,108633,108637,mich,die_fremde
 qd,t8tr.0,108099,109821,die_fremde,108654,108660,meiner,die_fremde

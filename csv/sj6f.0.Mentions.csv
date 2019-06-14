@@ -51,11 +51,13 @@ qd,sj6f.0,7156,7489,gontran,7184,7188,Mein,gontran
 qd,sj6f.0,7156,7489,gontran,7207,7210,ich,gontran
 qd,sj6f.0,7156,7489,gontran,7234,7237,ich,gontran
 qd,sj6f.0,7156,7489,gontran,7449,7452,ich,gontran
+qd,sj6f.0,7495,7716,bombardon,7548,7551,ich,bombardon
 qd,sj6f.0,7722,8042,gontran,7749,7753,mein,gontran
 qd,sj6f.0,7722,8042,gontran,7782,7786,mich,gontran
 qd,sj6f.0,7722,8042,gontran,7814,7817,ich,gontran
 qd,sj6f.0,7722,8042,gontran,7875,7878,mir,gontran
 qd,sj6f.0,8443,8655,therese,8503,8506,Ich,therese
+qd,sj6f.0,8443,8655,therese,8512,8515,mir,therese
 qd,sj6f.0,8443,8655,therese,8613,8616,ich,therese
 qd,sj6f.0,8750,8841,therese,8800,8803,ich,therese
 qd,sj6f.0,8750,8841,therese,8811,8816,meine,therese
@@ -185,6 +187,8 @@ qd,sj6f.0,24972,25249,bombardon,25058,25062,mich,bombardon
 qd,sj6f.0,25254,25314,christine,25303,25307,mein,christine
 qd,sj6f.0,25320,25388,therese,25341,25344,mir,therese
 qd,sj6f.0,25320,25388,therese,25346,25350,mein,therese
+qd,sj6f.0,25395,25462,colas,25414,25417,ich,colas
+qd,sj6f.0,25395,25462,colas,25433,25436,ich,colas
 qd,sj6f.0,25468,25632,christine,25480,25483,Ich,christine
 qd,sj6f.0,25468,25632,christine,25606,25610,mein,christine
 qd,sj6f.0,25638,25784,bombardon,25685,25688,ich,bombardon
@@ -197,6 +201,7 @@ qd,sj6f.0,26017,26355,christine,26117,26121,mich,christine
 qd,sj6f.0,26017,26355,christine,26154,26159,meine,christine
 qd,sj6f.0,26017,26355,christine,26258,26264,meines,christine
 qd,sj6f.0,26017,26355,christine,26329,26332,ich,christine
+qd,sj6f.0,26361,26700,bombardon,26395,26398,ich,bombardon
 qd,sj6f.0,26705,26876,therese,26763,26767,mein,therese
 qd,sj6f.0,27094,27345,bombardon,27106,27109,Ich,bombardon
 qd,sj6f.0,27094,27345,bombardon,27162,27165,ich,bombardon
@@ -211,6 +216,7 @@ qd,sj6f.0,30627,30932,colas,30673,30677,Mein,colas
 qd,sj6f.0,30627,30932,colas,30716,30720,mich,colas
 qd,sj6f.0,30627,30932,colas,30735,30739,Mein,colas
 qd,sj6f.0,30627,30932,colas,30779,30783,mich,colas
+qd,sj6f.0,30627,30932,colas,30847,30850,mir,colas
 qd,sj6f.0,31023,31257,colas,31048,31052,mich,colas
 qd,sj6f.0,31023,31257,colas,31136,31140,mein,colas
 qd,sj6f.0,31023,31257,colas,31162,31166,mich,colas
@@ -241,6 +247,7 @@ qd,sj6f.0,34134,34272,therese,34199,34202,Ich,therese
 qd,sj6f.0,34277,34508,colas,34288,34293,meine,colas
 qd,sj6f.0,34277,34508,colas,34305,34311,Meiner,colas
 qd,sj6f.0,34277,34508,colas,34319,34322,Ich,colas
+qd,sj6f.0,34277,34508,colas,34328,34331,mir,colas
 qd,sj6f.0,34277,34508,colas,34359,34362,ich,colas
 qd,sj6f.0,34277,34508,colas,34382,34388,meinen,colas
 qd,sj6f.0,34277,34508,colas,34398,34404,meinen,colas
@@ -315,6 +322,7 @@ qd,sj6f.0,42497,42537,colas,42504,42507,Ich,colas
 qd,sj6f.0,42542,42669,gontran,42596,42599,Ich,gontran
 qd,sj6f.0,43075,43345,christine,43102,43106,mein,christine
 qd,sj6f.0,43598,43909,colas,43769,43772,Mir,colas
+qd,sj6f.0,44079,44227,gontran,44094,44097,ich,gontran
 qd,sj6f.0,44079,44227,gontran,44114,44117,ich,gontran
 qd,sj6f.0,44079,44227,gontran,44200,44203,mir,gontran
 qd,sj6f.0,44233,44380,christine,44297,44300,ich,christine

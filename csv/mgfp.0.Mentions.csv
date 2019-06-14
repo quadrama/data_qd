@@ -50,7 +50,6 @@ qd,mgfp.0,6967,7092,herr_von_kiel,7016,7019,ich,herr_von_kiel
 qd,mgfp.0,6967,7092,herr_von_kiel,7044,7050,meiner,herr_von_kiel
 qd,mgfp.0,6967,7092,herr_von_kiel,7068,7074,meiner,herr_von_kiel
 qd,mgfp.0,7569,7823,landrath,7580,7583,Ich,landrath
-qd,mgfp.0,7569,7823,landrath,7584,7589,meine,landrath
 qd,mgfp.0,8051,8234,landrath,8062,8065,Ich,landrath
 qd,mgfp.0,8051,8234,landrath,8084,8090,meinem,landrath
 qd,mgfp.0,8051,8234,landrath,8188,8194,meiner,landrath
@@ -62,6 +61,7 @@ qd,mgfp.0,8358,8915,landrath,8391,8395,mich,landrath
 qd,mgfp.0,8358,8915,landrath,8456,8460,mich,landrath
 qd,mgfp.0,8358,8915,landrath,8502,8505,Ich,landrath
 qd,mgfp.0,8358,8915,landrath,8584,8589,meine,landrath
+qd,mgfp.0,8358,8915,landrath,8822,8825,mir,landrath
 qd,mgfp.0,8358,8915,landrath,8874,8878,mich,landrath
 qd,mgfp.0,8980,9098,landrath,9033,9037,mich,landrath
 qd,mgfp.0,8980,9098,landrath,9059,9062,mir,landrath
@@ -92,6 +92,7 @@ qd,mgfp.0,12676,12711,landrath,12707,12710,mir,landrath
 qd,mgfp.0,12799,12839,landrath,12817,12820,ich,landrath
 qd,mgfp.0,13345,13413,herr_von_kiel,13399,13402,ich,herr_von_kiel
 qd,mgfp.0,13590,13639,kommerzienrath,13607,13610,Ich,kommerzienrath
+qd,mgfp.0,13590,13639,kommerzienrath,13618,13621,mir,kommerzienrath
 qd,mgfp.0,13796,13948,landrath,13807,13812,Meine,landrath
 qd,mgfp.0,14009,14209,kommerzienrath,14136,14139,ich,kommerzienrath
 qd,mgfp.0,14259,14585,kommerzienrath,14298,14301,ich,kommerzienrath
@@ -336,6 +337,7 @@ qd,mgfp.0,43929,43986,herr_von_kiel,43950,43953,ich,herr_von_kiel
 qd,mgfp.0,44102,44142,elise,44125,44129,mich,elise
 qd,mgfp.0,44147,44750,herr_von_kiel,44188,44191,ich,herr_von_kiel
 qd,mgfp.0,44756,44880,elise,44790,44794,mich,elise
+qd,mgfp.0,44756,44880,elise,44821,44824,mir,elise
 qd,mgfp.0,44756,44880,elise,44854,44857,ich,elise
 qd,mgfp.0,44885,44976,herr_von_kiel,44901,44904,Ich,herr_von_kiel
 qd,mgfp.0,44885,44976,herr_von_kiel,44905,44908,mir,herr_von_kiel
@@ -398,6 +400,7 @@ qd,mgfp.0,52167,53267,herr_von_kiel,52790,52794,mich,herr_von_kiel
 qd,mgfp.0,52167,53267,herr_von_kiel,52896,52899,ich,herr_von_kiel
 qd,mgfp.0,52167,53267,herr_von_kiel,52903,52909,meinem,herr_von_kiel
 qd,mgfp.0,53416,53574,herr_von_kiel,53543,53546,Ich,herr_von_kiel
+qd,mgfp.0,53579,53664,landrath,53603,53606,mir,landrath
 qd,mgfp.0,53579,53664,landrath,53625,53628,ich,landrath
 qd,mgfp.0,53669,53736,herr_von_kiel,53718,53722,mich,herr_von_kiel
 qd,mgfp.0,53741,53813,landrath,53763,53766,ich,landrath
@@ -412,6 +415,7 @@ qd,mgfp.0,54544,54678,landrath,54622,54625,ich,landrath
 qd,mgfp.0,54544,54678,landrath,54631,54634,mir,landrath
 qd,mgfp.0,54544,54678,landrath,54659,54662,ich,landrath
 qd,mgfp.0,54683,54876,herr_von_kiel,54767,54770,ich,herr_von_kiel
+qd,mgfp.0,54961,55224,landrath,55059,55062,mir,landrath
 qd,mgfp.0,54961,55224,landrath,55077,55080,ich,landrath
 qd,mgfp.0,54961,55224,landrath,55169,55172,ich,landrath
 qd,mgfp.0,55366,55409,landrath,55388,55391,ich,landrath
@@ -599,6 +603,7 @@ qd,mgfp.0,78659,79629,herr_von_kiel,79061,79066,meine,herr_von_kiel
 qd,mgfp.0,78659,79629,herr_von_kiel,79087,79090,ich,herr_von_kiel
 qd,mgfp.0,78659,79629,herr_von_kiel,79232,79235,ich,herr_von_kiel
 qd,mgfp.0,80846,81039,kommerzienrath,80890,80893,ich,kommerzienrath
+qd,mgfp.0,81100,81305,kommerzienrath,81187,81190,ich,kommerzienrath
 qd,mgfp.0,81100,81305,kommerzienrath,81215,81218,ich,kommerzienrath
 qd,mgfp.0,81100,81305,kommerzienrath,81253,81256,mir,kommerzienrath
 qd,mgfp.0,81100,81305,kommerzienrath,81294,81297,ich,kommerzienrath
@@ -643,6 +648,7 @@ qd,mgfp.0,85062,85627,ernestine,85439,85442,ich,ernestine
 qd,mgfp.0,85062,85627,ernestine,85451,85454,ich,ernestine
 qd,mgfp.0,85062,85627,ernestine,85537,85540,ich,ernestine
 qd,mgfp.0,85679,87340,landrath,85815,85818,Ich,landrath
+qd,mgfp.0,85679,87340,landrath,85932,85935,ich,landrath
 qd,mgfp.0,85679,87340,landrath,85997,86001,mich,landrath
 qd,mgfp.0,85679,87340,landrath,86048,86051,mir,landrath
 qd,mgfp.0,85679,87340,landrath,86068,86071,mir,landrath
@@ -938,6 +944,7 @@ qd,mgfp.0,114524,114769,kommerzienrath,114567,114571,mein,kommerzienrath
 qd,mgfp.0,114524,114769,kommerzienrath,114587,114590,ich,kommerzienrath
 qd,mgfp.0,114524,114769,kommerzienrath,114591,114595,mich,kommerzienrath
 qd,mgfp.0,114811,114851,herr_von_kiel,114827,114830,Ich,herr_von_kiel
+qd,mgfp.0,114985,115070,elise,115046,115049,ich,elise
 qd,mgfp.0,115507,115612,landrath,115574,115577,ich,landrath
 qd,mgfp.0,115507,115612,landrath,115600,115603,mir,landrath
 qd,mgfp.0,115617,115663,kommerzienrath,115646,115650,mein,kommerzienrath

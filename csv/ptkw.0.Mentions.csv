@@ -19,6 +19,7 @@ qd,ptkw.0,6175,6934,douglas,6328,6332,Mich,douglas
 qd,ptkw.0,6175,6934,douglas,6371,6374,Ich,douglas
 qd,ptkw.0,6175,6934,douglas,6457,6461,mich,douglas
 qd,ptkw.0,6175,6934,douglas,6462,6466,mein,douglas
+qd,ptkw.0,6175,6934,douglas,6498,6501,mir,douglas
 qd,ptkw.0,6175,6934,douglas,6533,6536,ich,douglas
 qd,ptkw.0,6175,6934,douglas,6578,6582,mich,douglas
 qd,ptkw.0,6175,6934,douglas,6587,6593,meinen,douglas
@@ -44,6 +45,7 @@ qd,ptkw.0,8197,8356,maria,8311,8315,mich,maria
 qd,ptkw.0,8197,8356,maria,8337,8343,meiner,maria
 qd,ptkw.0,8564,9067,douglas,8574,8577,Ich,douglas
 qd,ptkw.0,8564,9067,douglas,8726,8729,ich,douglas
+qd,ptkw.0,8564,9067,douglas,8825,8828,ich,douglas
 qd,ptkw.0,8564,9067,douglas,8904,8907,ich,douglas
 qd,ptkw.0,9073,10062,douglas,9323,9326,ich,douglas
 qd,ptkw.0,9073,10062,douglas,9426,9429,ich,douglas
@@ -73,15 +75,18 @@ qd,ptkw.0,12215,12818,douglas,12685,12688,Ich,douglas
 qd,ptkw.0,12858,12896,douglas,12871,12874,ich,douglas
 qd,ptkw.0,12978,13077,douglas,13032,13035,ich,douglas
 qd,ptkw.0,13503,13573,tom,13546,13549,mir,tom
+qd,ptkw.0,14501,14674,willie,14545,14548,mir,willie
 qd,ptkw.0,14501,14674,willie,14640,14644,mich,willie
 qd,ptkw.0,14679,14792,tom,14765,14768,mir,tom
 qd,ptkw.0,14874,15019,ratcliff,14915,14918,ich,ratcliff
+qd,ptkw.0,15024,15160,tom,15039,15042,mir,tom
 qd,ptkw.0,15329,15416,tom,15400,15403,ich,tom
 qd,ptkw.0,15480,16780,tom,15505,15508,ich,tom
 qd,ptkw.0,15480,16780,tom,15563,15567,mein,tom
 qd,ptkw.0,15480,16780,tom,15620,15623,ich,tom
 qd,ptkw.0,15480,16780,tom,15728,15731,Ich,tom
 qd,ptkw.0,15480,16780,tom,15796,15799,ich,tom
+qd,ptkw.0,15480,16780,tom,15905,15908,ich,tom
 qd,ptkw.0,15480,16780,tom,16448,16451,ich,tom
 qd,ptkw.0,16786,17769,ratcliff,17474,17477,mir,ratcliff
 qd,ptkw.0,17775,18695,tom,17790,17793,ich,tom
@@ -142,7 +147,9 @@ qd,ptkw.0,21000,23542,ratcliff,23445,23448,ich,ratcliff
 qd,ptkw.0,21000,23542,ratcliff,23510,23514,mich,ratcliff
 qd,ptkw.0,23547,23801,lesley,23564,23567,ich,lesley
 qd,ptkw.0,23807,24114,ratcliff,23916,23920,mich,ratcliff
+qd,ptkw.0,23807,24114,ratcliff,23987,23990,ich,ratcliff
 qd,ptkw.0,23807,24114,ratcliff,24006,24009,mir,ratcliff
+qd,ptkw.0,23807,24114,ratcliff,24033,24036,ich,ratcliff
 qd,ptkw.0,23807,24114,ratcliff,24052,24055,mir,ratcliff
 qd,ptkw.0,24174,25004,ratcliff,24212,24215,ich,ratcliff
 qd,ptkw.0,24174,25004,ratcliff,24221,24224,ich,ratcliff
@@ -175,6 +182,7 @@ qd,ptkw.0,25403,26136,ratcliff,26058,26061,mir,ratcliff
 qd,ptkw.0,25403,26136,ratcliff,26075,26078,ich,ratcliff
 qd,ptkw.0,26142,26202,lesley,26169,26172,ich,lesley
 qd,ptkw.0,26142,26202,lesley,26191,26194,ich,lesley
+qd,ptkw.0,26207,26731,ratcliff,26225,26228,ich,ratcliff
 qd,ptkw.0,26207,26731,ratcliff,26361,26364,ich,ratcliff
 qd,ptkw.0,26736,26793,lesley,26777,26780,Ich,lesley
 qd,ptkw.0,26989,27025,ratcliff,27011,27014,ich,ratcliff
@@ -283,6 +291,7 @@ qd,ptkw.0,41740,42186,maria,41836,41839,ich,maria
 qd,ptkw.0,41740,42186,maria,41933,41936,ich,maria
 qd,ptkw.0,41740,42186,maria,41977,41980,ich,maria
 qd,ptkw.0,41740,42186,maria,41982,41985,ich,maria
+qd,ptkw.0,41740,42186,maria,42041,42045,mein,maria
 qd,ptkw.0,41740,42186,maria,42068,42071,Ich,maria
 qd,ptkw.0,41740,42186,maria,42088,42091,ich,maria
 qd,ptkw.0,41740,42186,maria,42116,42120,mich,maria
@@ -296,8 +305,10 @@ qd,ptkw.0,42671,42761,ratcliff,42737,42740,ich,ratcliff
 qd,ptkw.0,42949,43465,ratcliff,42993,42996,Ich,ratcliff
 qd,ptkw.0,42949,43465,ratcliff,43011,43014,Ich,ratcliff
 qd,ptkw.0,42949,43465,ratcliff,43105,43108,Mir,ratcliff
+qd,ptkw.0,42949,43465,ratcliff,43302,43306,mein,ratcliff
 qd,ptkw.0,43472,43515,maria,43500,43504,mich,maria
 qd,ptkw.0,43472,43515,maria,43510,43514,mich,maria
+qd,ptkw.0,43520,43836,ratcliff,43568,43572,mein,ratcliff
 qd,ptkw.0,43842,43930,maria,43856,43860,mich,maria
 qd,ptkw.0,43936,44196,ratcliff,43998,44001,mir,ratcliff
 qd,ptkw.0,43936,44196,ratcliff,44003,44007,mein,ratcliff
@@ -332,6 +343,7 @@ qd,ptkw.0,46231,46445,ratcliff,46268,46271,ich,ratcliff
 qd,ptkw.0,46231,46445,ratcliff,46290,46293,mir,ratcliff
 qd,ptkw.0,46231,46445,ratcliff,46335,46338,mir,ratcliff
 qd,ptkw.0,46231,46445,ratcliff,46373,46376,ich,ratcliff
+qd,ptkw.0,46620,47193,ratcliff,46682,46685,mir,ratcliff
 qd,ptkw.0,46620,47193,ratcliff,46739,46742,ich,ratcliff
 qd,ptkw.0,46620,47193,ratcliff,46760,46764,mein,ratcliff
 qd,ptkw.0,46620,47193,ratcliff,46767,46771,Mein,ratcliff

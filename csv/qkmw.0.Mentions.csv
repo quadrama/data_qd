@@ -88,6 +88,7 @@ qd,qkmw.0,24200,24509,baronesse,24486,24489,ich,baronesse
 qd,qkmw.0,24538,24742,baronesse,24600,24604,mein,baronesse
 qd,qkmw.0,24538,24742,baronesse,24697,24700,ich,baronesse
 qd,qkmw.0,24775,25087,baronesse,24815,24819,mich,baronesse
+qd,qkmw.0,24775,25087,baronesse,24975,24978,ich,baronesse
 qd,qkmw.0,25115,25430,baronesse,25135,25138,mir,baronesse
 qd,qkmw.0,25115,25430,baronesse,25204,25207,ich,baronesse
 qd,qkmw.0,25115,25430,baronesse,25329,25332,ich,baronesse
@@ -163,6 +164,7 @@ qd,qkmw.0,40173,40323,figaro,40289,40292,ich,figaro
 qd,qkmw.0,40429,40766,figaro,40740,40743,mir,figaro
 qd,qkmw.0,40814,41092,figaro,40823,40826,Ich,figaro
 qd,qkmw.0,40814,41092,figaro,40940,40943,ich,figaro
+qd,qkmw.0,40814,41092,figaro,40979,40982,ich,figaro
 qd,qkmw.0,40814,41092,figaro,41081,41084,mir,figaro
 qd,qkmw.0,41178,41337,figaro,41195,41198,mir,figaro
 qd,qkmw.0,41178,41337,figaro,41236,41239,ich,figaro
@@ -191,6 +193,7 @@ qd,qkmw.0,44824,45120,figaro,44869,44872,mir,figaro
 qd,qkmw.0,44824,45120,figaro,45106,45109,ich,figaro
 qd,qkmw.0,45391,45428,baronesse,45417,45421,Mein,baronesse
 qd,qkmw.0,45433,45492,figaro,45442,45445,Ich,figaro
+qd,qkmw.0,45977,46073,baronesse,46035,46038,ich,baronesse
 qd,qkmw.0,46156,46231,baronesse,46181,46184,Ich,baronesse
 qd,qkmw.0,46506,46585,figaro,46515,46518,Ich,figaro
 qd,qkmw.0,46506,46585,figaro,46564,46567,ich,figaro
@@ -223,6 +226,7 @@ qd,qkmw.0,50831,51238,figaro,51190,51194,mein,figaro
 qd,qkmw.0,51332,51424,hyazinthe,51360,51363,ich,hyazinthe
 qd,qkmw.0,51615,51732,hyazinthe,51633,51636,mir,hyazinthe
 qd,qkmw.0,51770,51916,hyazinthe,51902,51907,meine,hyazinthe
+qd,qkmw.0,51956,52056,hyazinthe,51978,51981,mir,hyazinthe
 qd,qkmw.0,52312,52391,baronesse,52324,52328,Mein,baronesse
 qd,qkmw.0,52444,52475,baronesse,52462,52465,ich,baronesse
 qd,qkmw.0,52444,52475,baronesse,52470,52474,mich,baronesse
@@ -436,6 +440,7 @@ qd,qkmw.0,80281,80341,christoph,80314,80318,mich,christoph
 qd,qkmw.0,80455,80503,hyazinthe,80481,80484,Ich,hyazinthe
 qd,qkmw.0,80455,80503,hyazinthe,80491,80495,mein,hyazinthe
 qd,qkmw.0,80738,80805,hyazinthe,80760,80763,ich,hyazinthe
+qd,qkmw.0,80916,80991,figaro,80946,80949,mir,figaro
 qd,qkmw.0,81083,81126,figaro,81117,81120,ich,figaro
 qd,qkmw.0,81300,81560,figaro,81309,81312,Ich,figaro
 qd,qkmw.0,81300,81560,figaro,81464,81468,mich,figaro
@@ -529,6 +534,7 @@ qd,qkmw.0,96238,96295,leopoldine,96256,96261,meine,leopoldine
 qd,qkmw.0,96300,96585,baronesse,96329,96332,ich,baronesse
 qd,qkmw.0,96828,97111,baronesse,96849,96852,mir,baronesse
 qd,qkmw.0,96828,97111,baronesse,96882,96885,mir,baronesse
+qd,qkmw.0,96828,97111,baronesse,97055,97058,mir,baronesse
 qd,qkmw.0,97117,97171,leopoldine,97130,97134,Mein,leopoldine
 qd,qkmw.0,97176,97851,baronesse,97188,97192,Mich,baronesse
 qd,qkmw.0,97176,97851,baronesse,97733,97737,mich,baronesse
@@ -555,8 +561,8 @@ qd,qkmw.0,99510,99595,christoph,99543,99547,mich,christoph
 qd,qkmw.0,99510,99595,christoph,99549,99552,ich,christoph
 qd,qkmw.0,99881,99948,christoph,99922,99925,Ich,christoph
 qd,qkmw.0,99953,99989,leopoldine,99978,99981,Ich,leopoldine
-qd,qkmw.0,99953,99989,leopoldine,99982,99987,meine,leopoldine
 qd,qkmw.0,99994,100504,christoph,100042,100045,ich,christoph
+qd,qkmw.0,99994,100504,christoph,100308,100311,ich,christoph
 qd,qkmw.0,100540,101074,christoph,101029,101032,Ich,christoph
 qd,qkmw.0,101154,101233,christoph,101225,101228,ich,christoph
 qd,qkmw.0,101154,101233,christoph,101229,101232,mir,christoph
@@ -671,6 +677,7 @@ qd,qkmw.0,120278,120338,stock,120315,120318,Ich,stock
 qd,qkmw.0,120492,120604,stock,120500,120503,Ich,stock
 qd,qkmw.0,120831,120869,stock,120850,120854,mich,stock
 qd,qkmw.0,120996,121112,stock,121022,121026,mein,stock
+qd,qkmw.0,120996,121112,stock,121076,121079,ich,stock
 qd,qkmw.0,121308,121509,stock,121369,121372,ich,stock
 qd,qkmw.0,121538,121789,stock,121582,121585,Ich,stock
 qd,qkmw.0,121795,121981,figaro,121817,121820,ich,figaro
@@ -707,6 +714,7 @@ qd,qkmw.0,130672,130855,figaro,130771,130776,meine,figaro
 qd,qkmw.0,130672,130855,figaro,130798,130802,mich,figaro
 qd,qkmw.0,130672,130855,figaro,130842,130846,mich,figaro
 qd,qkmw.0,130860,130910,bardenrode,130884,130887,mir,bardenrode
+qd,qkmw.0,131059,131165,figaro,131117,131120,mir,figaro
 qd,qkmw.0,131233,131505,figaro,131292,131295,Ich,figaro
 qd,qkmw.0,131233,131505,figaro,131319,131322,mir,figaro
 qd,qkmw.0,131233,131505,figaro,131355,131359,mich,figaro
@@ -716,6 +724,7 @@ qd,qkmw.0,131780,131950,christoph,131792,131795,Ich,christoph
 qd,qkmw.0,131780,131950,christoph,131810,131813,ich,christoph
 qd,qkmw.0,131986,132224,christoph,132048,132051,ich,christoph
 qd,qkmw.0,131986,132224,christoph,132052,132056,mich,christoph
+qd,qkmw.0,131986,132224,christoph,132082,132085,ich,christoph
 qd,qkmw.0,131986,132224,christoph,132117,132120,ich,christoph
 qd,qkmw.0,131986,132224,christoph,132213,132217,mich,christoph
 qd,qkmw.0,132737,132957,christoph,132884,132887,ich,christoph
@@ -726,6 +735,7 @@ qd,qkmw.0,133517,133553,figaro,133540,133543,ich,figaro
 qd,qkmw.0,133588,133616,figaro,133605,133608,ich,figaro
 qd,qkmw.0,133621,133731,christoph,133709,133712,mir,christoph
 qd,qkmw.0,133835,133906,figaro,133872,133875,ich,figaro
+qd,qkmw.0,134318,134358,christoph,134335,134338,mir,christoph
 qd,qkmw.0,134441,134520,christoph,134484,134490,meinem,christoph
 qd,qkmw.0,134441,134520,christoph,134505,134511,meinem,christoph
 qd,qkmw.0,135332,135486,ludwig,135344,135347,mir,ludwig
@@ -851,6 +861,7 @@ qd,qkmw.0,147989,148022,leopoldine,148012,148015,ich,leopoldine
 qd,qkmw.0,148079,148120,figaro,148106,148110,mein,figaro
 qd,qkmw.0,148192,148210,leopoldine,148205,148208,Ich,leopoldine
 qd,qkmw.0,148588,148948,stock,148650,148653,mir,stock
+qd,qkmw.0,148588,148948,stock,148863,148866,ich,stock
 qd,qkmw.0,149033,149153,figaro,149076,149079,ich,figaro
 qd,qkmw.0,149033,149153,figaro,149105,149108,ich,figaro
 qd,qkmw.0,149307,149487,figaro,149320,149323,ich,figaro
@@ -874,6 +885,7 @@ qd,qkmw.0,155014,155089,baronesse,155054,155057,ich,baronesse
 qd,qkmw.0,155116,155162,baronesse,155144,155150,meiner,baronesse
 qd,qkmw.0,155472,155517,baronesse,155484,155487,Ich,baronesse
 qd,qkmw.0,155522,155742,bardenrode,155556,155559,Ich,bardenrode
+qd,qkmw.0,155522,155742,bardenrode,155621,155624,mir,bardenrode
 qd,qkmw.0,155522,155742,bardenrode,155677,155682,meine,bardenrode
 qd,qkmw.0,155906,155967,figaro,155915,155918,Ich,figaro
 qd,qkmw.0,156682,156970,baronesse,156702,156705,ich,baronesse
@@ -943,6 +955,7 @@ qd,qkmw.0,166324,166451,greif,166398,166401,ich,greif
 qd,qkmw.0,166870,166953,hyazinthe,166908,166912,mein,hyazinthe
 qd,qkmw.0,167108,167148,figaro,167142,167145,mir,figaro
 qd,qkmw.0,167153,167252,baronesse,167205,167209,mich,baronesse
+qd,qkmw.0,168154,168286,baronesse,168191,168194,ich,baronesse
 qd,qkmw.0,168595,168649,baronesse,168620,168623,ich,baronesse
 qd,qkmw.0,168595,168649,baronesse,168624,168627,mir,baronesse
 qd,qkmw.0,168938,169048,baronesse,169002,169005,mir,baronesse
@@ -1027,7 +1040,9 @@ qd,qkmw.0,180004,180126,greif,180101,180104,Ich,greif
 qd,qkmw.0,180341,180401,christoph,180374,180377,ich,christoph
 qd,qkmw.0,180406,180492,figaro,180461,180464,ich,figaro
 qd,qkmw.0,180497,180601,christoph,180520,180523,ich,christoph
+qd,qkmw.0,180606,180638,figaro,180626,180629,ich,figaro
 qd,qkmw.0,180643,180806,christoph,180681,180684,ich,christoph
+qd,qkmw.0,180846,181272,christoph,181039,181042,ich,christoph
 qd,qkmw.0,181277,181330,figaro,181310,181313,ich,figaro
 qd,qkmw.0,181335,181429,christoph,181360,181363,ich,christoph
 qd,qkmw.0,181527,181740,christoph,181553,181557,mich,christoph
@@ -1139,9 +1154,11 @@ qd,qkmw.0,199036,199097,hyazinthe,199057,199060,mir,hyazinthe
 qd,qkmw.0,199102,199173,baronesse,199130,199133,ich,baronesse
 qd,qkmw.0,199102,199173,baronesse,199146,199151,meine,baronesse
 qd,qkmw.0,199178,199244,christoph,199223,199226,ich,christoph
+qd,qkmw.0,199249,199313,hyazinthe,199301,199304,ich,hyazinthe
 qd,qkmw.0,199425,199498,hyazinthe,199458,199462,mich,hyazinthe
 qd,qkmw.0,199425,199498,hyazinthe,199468,199471,ich,hyazinthe
 qd,qkmw.0,199503,199749,baptist,199534,199537,ich,baptist
+qd,qkmw.0,199503,199749,baptist,199581,199584,ich,baptist
 qd,qkmw.0,199503,199749,baptist,199615,199618,mir,baptist
 qd,qkmw.0,199503,199749,baptist,199718,199722,mich,baptist
 qd,qkmw.0,200193,200327,hyazinthe,200297,200300,mir,hyazinthe
@@ -1153,6 +1170,7 @@ qd,qkmw.0,200753,200799,hyazinthe,200764,200767,Ich,hyazinthe
 qd,qkmw.0,200891,200981,hyazinthe,200933,200937,mich,hyazinthe
 qd,qkmw.0,200891,200981,hyazinthe,200956,200960,mich,hyazinthe
 qd,qkmw.0,202059,202117,baronesse,202101,202105,Mich,baronesse
+qd,qkmw.0,202169,202278,stock,202205,202208,ich,stock
 qd,qkmw.0,202169,202278,stock,202214,202219,meine,stock
 qd,qkmw.0,202283,202361,baronesse,202325,202329,mein,baronesse
 qd,qkmw.0,202668,202756,figaro,202692,202695,ich,figaro

@@ -47,6 +47,7 @@ qd,wzq9.0,6131,6350,brangänes_stimme,6274,6277,ich,brangänes_stimme
 qd,wzq9.0,6356,6408,kurwenal,6386,6389,ich,kurwenal
 qd,wzq9.0,6459,7370,kurwenal,6675,6678,Ich,kurwenal
 qd,wzq9.0,6459,7370,kurwenal,6710,6713,mir,kurwenal
+qd,wzq9.0,7766,7891,isolde,7875,7878,ich,isolde
 qd,wzq9.0,8059,8287,brangänes_stimme,8073,8076,ich,brangänes_stimme
 qd,wzq9.0,8456,8547,brangänes_stimme,8497,8500,ich,brangänes_stimme
 qd,wzq9.0,8553,9725,isolde,8570,8573,ich,isolde
@@ -68,6 +69,7 @@ qd,wzq9.0,9820,10537,isolde,9947,9950,mir,isolde
 qd,wzq9.0,9820,10537,isolde,10036,10039,ich,isolde
 qd,wzq9.0,9820,10537,isolde,10368,10371,mir,isolde
 qd,wzq9.0,9820,10537,isolde,10374,10377,Ich,isolde
+qd,wzq9.0,9820,10537,isolde,10496,10499,ich,isolde
 qd,wzq9.0,9820,10537,isolde,10520,10523,ich,isolde
 qd,wzq9.0,10543,10690,brangänes_stimme,10656,10659,mir,brangänes_stimme
 qd,wzq9.0,10696,11353,isolde,10810,10813,ich,isolde
@@ -119,6 +121,7 @@ qd,wzq9.0,16108,16460,isolde,16281,16285,mich,isolde
 qd,wzq9.0,16517,16546,isolde,16538,16541,mir,isolde
 qd,wzq9.0,16582,16607,isolde,16598,16601,mir,isolde
 qd,wzq9.0,17340,17456,isolde,17372,17375,ich,isolde
+qd,wzq9.0,17340,17456,isolde,17407,17410,mir,isolde
 qd,wzq9.0,17340,17456,isolde,17432,17438,meinem,isolde
 qd,wzq9.0,17462,17502,tristan,17489,17493,mich,tristan
 qd,wzq9.0,17508,17604,isolde,17543,17546,mir,isolde
@@ -151,9 +154,11 @@ qd,wzq9.0,18849,19453,isolde,19244,19247,Ich,isolde
 qd,wzq9.0,19650,20424,isolde,19670,19673,ich,isolde
 qd,wzq9.0,19650,20424,isolde,19743,19746,ich,isolde
 qd,wzq9.0,19650,20424,isolde,19937,19940,ich,isolde
+qd,wzq9.0,19650,20424,isolde,20034,20037,ich,isolde
 qd,wzq9.0,19650,20424,isolde,20054,20057,mir,isolde
 qd,wzq9.0,19650,20424,isolde,20113,20117,mein,isolde
 qd,wzq9.0,19650,20424,isolde,20139,20142,ich,isolde
+qd,wzq9.0,19650,20424,isolde,20198,20201,ich,isolde
 qd,wzq9.0,20596,20673,isolde,20636,20639,ich,isolde
 qd,wzq9.0,20596,20673,isolde,20660,20663,mir,isolde
 qd,wzq9.0,20679,20812,tristan,20728,20732,mich,tristan
@@ -208,6 +213,7 @@ qd,wzq9.0,29105,29437,brangänes_stimme,29238,29241,ich,brangänes_stimme
 qd,wzq9.0,29105,29437,brangänes_stimme,29297,29300,ich,brangänes_stimme
 qd,wzq9.0,29105,29437,brangänes_stimme,29398,29402,mein,brangänes_stimme
 qd,wzq9.0,29105,29437,brangänes_stimme,29413,29416,ich,brangänes_stimme
+qd,wzq9.0,29443,29989,isolde,29719,29722,ich,isolde
 qd,wzq9.0,29443,29989,isolde,29767,29773,meiner,isolde
 qd,wzq9.0,29443,29989,isolde,29906,29909,mir,isolde
 qd,wzq9.0,29443,29989,isolde,29923,29927,mich,isolde
@@ -228,7 +234,9 @@ qd,wzq9.0,31674,31703,tristan,31692,31695,mir,tristan
 qd,wzq9.0,31738,31763,tristan,31750,31756,meiner,tristan
 qd,wzq9.0,31768,31799,isolde,31781,31784,ich,isolde
 qd,wzq9.0,31804,31833,tristan,31817,31820,ich,tristan
+qd,wzq9.0,31955,32006,isolde,31968,31971,ich,isolde
 qd,wzq9.0,31955,32006,isolde,31992,31995,ich,isolde
+qd,wzq9.0,32013,32063,tristan,32027,32030,ich,tristan
 qd,wzq9.0,32481,32502,isolde,32497,32501,mein,isolde
 qd,wzq9.0,32507,32528,tristan,32523,32527,mein,tristan
 qd,wzq9.0,32559,32606,isolde,32582,32586,mein,isolde
@@ -252,6 +260,7 @@ qd,wzq9.0,34459,35435,tristan,34643,34646,mir,tristan
 qd,wzq9.0,34459,35435,tristan,34783,34786,mir,tristan
 qd,wzq9.0,34459,35435,tristan,34913,34916,ich,tristan
 qd,wzq9.0,34459,35435,tristan,34956,34961,meine,tristan
+qd,wzq9.0,34459,35435,tristan,35036,35039,mir,tristan
 qd,wzq9.0,34459,35435,tristan,35068,35071,mir,tristan
 qd,wzq9.0,34459,35435,tristan,35113,35116,ich,tristan
 qd,wzq9.0,34459,35435,tristan,35163,35166,ich,tristan
@@ -281,6 +290,8 @@ qd,wzq9.0,36624,36994,tristan,36737,36740,mir,tristan
 qd,wzq9.0,36624,36994,tristan,36767,36770,mir,tristan
 qd,wzq9.0,36624,36994,tristan,36788,36791,ich,tristan
 qd,wzq9.0,36624,36994,tristan,36960,36964,mein,tristan
+qd,wzq9.0,37000,37291,isolde,37256,37259,ich,isolde
+qd,wzq9.0,37000,37291,isolde,37280,37283,ich,isolde
 qd,wzq9.0,39523,39549,tristan,39536,39540,mich,tristan
 qd,wzq9.0,39882,40449,tristan,39956,39960,mein,tristan
 qd,wzq9.0,39882,40449,tristan,40042,40045,mir,tristan
@@ -367,6 +378,7 @@ qd,wzq9.0,52272,52301,tristan,52285,52288,ich,tristan
 qd,wzq9.0,52343,52368,tristan,52360,52363,ich,tristan
 qd,wzq9.0,52373,52800,kurwenal,52520,52523,ich,kurwenal
 qd,wzq9.0,52805,54538,tristan,52832,52835,Ich,tristan
+qd,wzq9.0,52805,54538,tristan,52863,52866,ich,tristan
 qd,wzq9.0,52805,54538,tristan,52890,52893,ich,tristan
 qd,wzq9.0,52805,54538,tristan,52911,52914,ich,tristan
 qd,wzq9.0,52805,54538,tristan,52932,52935,ich,tristan
@@ -423,6 +435,7 @@ qd,wzq9.0,56988,59253,tristan,57363,57367,mich,tristan
 qd,wzq9.0,56988,59253,tristan,57455,57459,mich,tristan
 qd,wzq9.0,56988,59253,tristan,57477,57481,mich,tristan
 qd,wzq9.0,56988,59253,tristan,57515,57518,ich,tristan
+qd,wzq9.0,56988,59253,tristan,57579,57582,mir,tristan
 qd,wzq9.0,56988,59253,tristan,57596,57600,mich,tristan
 qd,wzq9.0,56988,59253,tristan,57690,57694,mich,tristan
 qd,wzq9.0,56988,59253,tristan,57838,57841,ich,tristan
@@ -451,6 +464,9 @@ qd,wzq9.0,59942,60782,tristan,60218,60221,mir,tristan
 qd,wzq9.0,59942,60782,tristan,60254,60257,mir,tristan
 qd,wzq9.0,59942,60782,tristan,60420,60423,ich,tristan
 qd,wzq9.0,59942,60782,tristan,60468,60472,mich,tristan
+qd,wzq9.0,60787,60901,kurwenal,60889,60892,ich,kurwenal
+qd,wzq9.0,60907,61065,tristan,60922,60925,ich,tristan
+qd,wzq9.0,60907,61065,tristan,60941,60944,ich,tristan
 qd,wzq9.0,60907,61065,tristan,60986,60989,mir,tristan
 qd,wzq9.0,60907,61065,tristan,61001,61004,mir,tristan
 qd,wzq9.0,60907,61065,tristan,61048,61051,mir,tristan

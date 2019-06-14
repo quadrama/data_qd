@@ -1,7 +1,10 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,vn3b.0,1190,1283,schaal,1218,1221,ich,schaal
+qd,vn3b.0,1190,1283,schaal,1237,1240,ich,schaal
 qd,vn3b.0,1819,1886,schmächtig,1832,1835,Ich,schmächtig
 qd,vn3b.0,1819,1886,schmächtig,1843,1846,mir,schmächtig
 qd,vn3b.0,1949,2279,evans,2135,2138,ich,evans
+qd,vn3b.0,1949,2279,evans,2160,2163,mir,evans
 qd,vn3b.0,2652,2741,schaal,2669,2675,meinem,schaal
 qd,vn3b.0,2652,2741,schaal,2688,2691,ich,schaal
 qd,vn3b.0,2746,3019,evans,2824,2827,mir,evans
@@ -28,6 +31,7 @@ qd,vn3b.0,5788,5830,schaal,5804,5808,mich,schaal
 qd,vn3b.0,5890,6115,schaal,5926,5929,ich,schaal
 qd,vn3b.0,5890,6115,schaal,5990,5994,mich,schaal
 qd,vn3b.0,5890,6115,schaal,6025,6029,mein,schaal
+qd,vn3b.0,5890,6115,schaal,6055,6058,mir,schaal
 qd,vn3b.0,6215,6280,falstaff,6254,6258,mich,falstaff
 qd,vn3b.0,6285,6381,schaal,6311,6316,meine,schaal
 qd,vn3b.0,6285,6381,schaal,6334,6338,mein,schaal
@@ -45,10 +49,12 @@ qd,vn3b.0,7332,7388,nym,7350,7353,ich,nym
 qd,vn3b.0,7332,7388,nym,7377,7381,mein,nym
 qd,vn3b.0,7393,7457,schmächtig,7421,7425,mein,schmächtig
 qd,vn3b.0,7463,7763,evans,7478,7481,ich,evans
+qd,vn3b.0,7463,7763,evans,7573,7576,ich,evans
 qd,vn3b.0,7463,7763,evans,7643,7646,ich,evans
 qd,vn3b.0,7463,7763,evans,7665,7668,ich,evans
 qd,vn3b.0,7463,7763,evans,7735,7739,mein,evans
 qd,vn3b.0,7832,7982,evans,7851,7854,ich,evans
+qd,vn3b.0,7832,7982,evans,7860,7863,mir,evans
 qd,vn3b.0,7832,7982,evans,7877,7883,meiner,evans
 qd,vn3b.0,8262,8555,schmächtig,8320,8323,ich,schmächtig
 qd,vn3b.0,8262,8555,schmächtig,8329,8333,mein,schmächtig
@@ -71,6 +77,7 @@ qd,vn3b.0,9732,10083,schmächtig,9837,9841,mich,schmächtig
 qd,vn3b.0,9732,10083,schmächtig,9930,9933,mir,schmächtig
 qd,vn3b.0,9732,10083,schmächtig,9959,9962,ich,schmächtig
 qd,vn3b.0,9732,10083,schmächtig,9963,9967,mich,schmächtig
+qd,vn3b.0,9732,10083,schmächtig,9999,10002,ich,schmächtig
 qd,vn3b.0,10153,10289,falstaff,10201,10206,meine,falstaff
 qd,vn3b.0,10486,10605,falstaff,10513,10519,meiner,falstaff
 qd,vn3b.0,10611,10827,page,10725,10728,ich,page
@@ -86,12 +93,14 @@ qd,vn3b.0,11627,11662,schmächtig,11648,11651,ich,schmächtig
 qd,vn3b.0,11667,11802,evans,11720,11723,ich,evans
 qd,vn3b.0,11807,11986,schmächtig,11826,11829,ich,schmächtig
 qd,vn3b.0,11807,11986,schmächtig,11851,11855,mein,schmächtig
+qd,vn3b.0,11807,11986,schmächtig,11882,11885,mir,schmächtig
 qd,vn3b.0,11807,11986,schmächtig,11914,11918,mein,schmächtig
 qd,vn3b.0,12115,12212,evans,12127,12131,mein,evans
 qd,vn3b.0,12217,12308,schmächtig,12259,12262,ich,schmächtig
 qd,vn3b.0,12313,12633,evans,12393,12397,mich,evans
 qd,vn3b.0,12700,12835,schmächtig,12713,12716,Ich,schmächtig
 qd,vn3b.0,12700,12835,schmächtig,12732,12735,ich,schmächtig
+qd,vn3b.0,13071,13206,schmächtig,13093,13096,mir,schmächtig
 qd,vn3b.0,13071,13206,schmächtig,13128,13132,mich,schmächtig
 qd,vn3b.0,13211,13368,schaal,13235,13239,mich,schaal
 qd,vn3b.0,13211,13368,schaal,13256,13260,mich,schaal
@@ -127,6 +136,7 @@ qd,vn3b.0,15189,15290,anne,15196,15199,Ich,anne
 qd,vn3b.0,15295,15391,schmächtig,15308,15314,Meiner,schmächtig
 qd,vn3b.0,15295,15391,schmächtig,15321,15324,ich,schmächtig
 qd,vn3b.0,15295,15391,schmächtig,15343,15346,ich,schmächtig
+qd,vn3b.0,15295,15391,schmächtig,15376,15379,ich,schmächtig
 qd,vn3b.0,15449,15796,schmächtig,15462,15465,Ich,schmächtig
 qd,vn3b.0,15449,15796,schmächtig,15496,15499,ich,schmächtig
 qd,vn3b.0,15449,15796,schmächtig,15512,15515,ich,schmächtig
@@ -161,6 +171,7 @@ qd,vn3b.0,18488,18524,falstaff,18508,18512,mein,falstaff
 qd,vn3b.0,18529,18654,wirt,18536,18539,Ich,wirt
 qd,vn3b.0,18529,18654,wirt,18578,18582,mich,wirt
 qd,vn3b.0,18837,18932,bardolph,18870,18873,ich,bardolph
+qd,vn3b.0,18837,18932,bardolph,18874,18877,mir,bardolph
 qd,vn3b.0,18837,18932,bardolph,18896,18899,ich,bardolph
 qd,vn3b.0,19093,19266,falstaff,19104,19107,Ich,falstaff
 qd,vn3b.0,19093,19266,falstaff,19122,19125,ich,falstaff
@@ -263,6 +274,7 @@ qd,vn3b.0,29970,30145,cajus,30099,30103,mein,cajus
 qd,vn3b.0,30151,30357,frau_hurtig,30219,30222,ich,frau_hurtig
 qd,vn3b.0,30151,30357,frau_hurtig,30301,30304,ich,frau_hurtig
 qd,vn3b.0,30688,30855,frau_hurtig,30805,30808,ich,frau_hurtig
+qd,vn3b.0,30860,30940,fenton,30874,30877,mir,fenton
 qd,vn3b.0,30860,30940,fenton,30912,30915,ich,fenton
 qd,vn3b.0,30945,31150,frau_hurtig,31052,31055,ich,frau_hurtig
 qd,vn3b.0,31155,31208,fenton,31186,31189,ich,fenton
@@ -298,6 +310,7 @@ qd,vn3b.0,32428,34033,frau_page,33662,33668,meiner,frau_page
 qd,vn3b.0,32428,34033,frau_page,33704,33707,ich,frau_page
 qd,vn3b.0,32428,34033,frau_page,33719,33722,Ich,frau_page
 qd,vn3b.0,32428,34033,frau_page,33751,33757,meiner,frau_page
+qd,vn3b.0,32428,34033,frau_page,33790,33793,mir,frau_page
 qd,vn3b.0,32428,34033,frau_page,33811,33814,ich,frau_page
 qd,vn3b.0,32428,34033,frau_page,33895,33898,ich,frau_page
 qd,vn3b.0,32428,34033,frau_page,33899,33903,mich,frau_page
@@ -362,6 +375,7 @@ qd,vn3b.0,39543,39649,page,39579,39582,mir,page
 qd,vn3b.0,39654,39690,fluth,39662,39665,Ich,fluth
 qd,vn3b.0,39695,39771,page,39705,39711,meinem,page
 qd,vn3b.0,39695,39771,page,39724,39727,ich,page
+qd,vn3b.0,39776,39806,fluth,39790,39793,ich,fluth
 qd,vn3b.0,39811,39924,page,39818,39821,Ich,page
 qd,vn3b.0,40186,40280,fluth,40194,40197,Ich,fluth
 qd,vn3b.0,40186,40280,fluth,40213,40216,Ich,fluth
@@ -423,7 +437,9 @@ qd,vn3b.0,44855,45409,falstaff,44963,44966,ich,falstaff
 qd,vn3b.0,44855,45409,falstaff,44972,44977,meine,falstaff
 qd,vn3b.0,44855,45409,falstaff,45162,45165,Ich,falstaff
 qd,vn3b.0,44855,45409,falstaff,45201,45204,ich,falstaff
+qd,vn3b.0,44855,45409,falstaff,45366,45369,ich,falstaff
 qd,vn3b.0,44855,45409,falstaff,45376,45381,meine,falstaff
+qd,vn3b.0,45414,45477,pistol,45433,45436,ich,pistol
 qd,vn3b.0,45482,46367,falstaff,45551,45554,ich,falstaff
 qd,vn3b.0,45482,46367,falstaff,45561,45566,meine,falstaff
 qd,vn3b.0,45482,46367,falstaff,45638,45642,mich,falstaff
@@ -566,12 +582,14 @@ qd,vn3b.0,58342,58540,falstaff,58431,58434,mir,falstaff
 qd,vn3b.0,58342,58540,falstaff,58467,58470,ich,falstaff
 qd,vn3b.0,58575,58617,falstaff,58597,58600,ich,falstaff
 qd,vn3b.0,58684,59136,falstaff,58772,58776,mich,falstaff
+qd,vn3b.0,58684,59136,falstaff,58789,58792,ich,falstaff
 qd,vn3b.0,58684,59136,falstaff,58850,58853,mir,falstaff
 qd,vn3b.0,58684,59136,falstaff,58907,58910,mir,falstaff
 qd,vn3b.0,58684,59136,falstaff,58916,58919,ich,falstaff
 qd,vn3b.0,58684,59136,falstaff,58931,58934,ich,falstaff
 qd,vn3b.0,58684,59136,falstaff,58941,58945,mich,falstaff
 qd,vn3b.0,58684,59136,falstaff,59096,59099,mir,falstaff
+qd,vn3b.0,58684,59136,falstaff,59122,59125,mir,falstaff
 qd,vn3b.0,59141,59227,fluth,59193,59197,mich,fluth
 qd,vn3b.0,59232,59571,falstaff,59288,59291,Ich,falstaff
 qd,vn3b.0,59232,59571,falstaff,59316,59319,ich,falstaff
@@ -876,6 +894,7 @@ qd,vn3b.0,90496,90597,fenton,90584,90588,mein,fenton
 qd,vn3b.0,90633,90990,fenton,90685,90688,ich,fenton
 qd,vn3b.0,90633,90990,fenton,90738,90741,mir,fenton
 qd,vn3b.0,90633,90990,fenton,90742,90746,mein,fenton
+qd,vn3b.0,90633,90990,fenton,90773,90776,ich,fenton
 qd,vn3b.0,90633,90990,fenton,90841,90844,mir,fenton
 qd,vn3b.0,90633,90990,fenton,90856,90860,Mein,fenton
 qd,vn3b.0,90633,90990,fenton,90878,90883,meine,fenton
@@ -939,6 +958,7 @@ qd,vn3b.0,95009,95087,anne,95034,95038,mich,anne
 qd,vn3b.0,95009,95087,anne,95068,95072,mich,anne
 qd,vn3b.0,95093,95401,frau_page,95153,95156,Ich,frau_page
 qd,vn3b.0,95093,95401,frau_page,95220,95223,ich,frau_page
+qd,vn3b.0,95093,95401,frau_page,95259,95262,ich,frau_page
 qd,vn3b.0,95093,95401,frau_page,95278,95281,ich,frau_page
 qd,vn3b.0,95093,95401,frau_page,95282,95288,meinen,frau_page
 qd,vn3b.0,95093,95401,frau_page,95311,95314,mir,frau_page
@@ -969,6 +989,7 @@ qd,vn3b.0,96616,97635,falstaff,96849,96855,Meiner,falstaff
 qd,vn3b.0,96616,97635,falstaff,96867,96870,mir,falstaff
 qd,vn3b.0,96616,97635,falstaff,96916,96919,mir,falstaff
 qd,vn3b.0,96616,97635,falstaff,97037,97041,mich,falstaff
+qd,vn3b.0,96616,97635,falstaff,97181,97184,mir,falstaff
 qd,vn3b.0,96616,97635,falstaff,97190,97196,meiner,falstaff
 qd,vn3b.0,96616,97635,falstaff,97216,97219,ich,falstaff
 qd,vn3b.0,96616,97635,falstaff,97305,97308,ich,falstaff
@@ -1345,6 +1366,7 @@ qd,vn3b.0,146949,147263,falstaff,147096,147100,mich,falstaff
 qd,vn3b.0,146949,147263,falstaff,147148,147151,ich,falstaff
 qd,vn3b.0,146949,147263,falstaff,147202,147205,mir,falstaff
 qd,vn3b.0,146949,147263,falstaff,147216,147219,ich,falstaff
+qd,vn3b.0,147351,147559,falstaff,147384,147387,ich,falstaff
 qd,vn3b.0,147351,147559,falstaff,147399,147403,mich,falstaff
 qd,vn3b.0,148230,148467,falstaff,148249,148252,ich,falstaff
 qd,vn3b.0,148230,148467,falstaff,148295,148298,ich,falstaff
@@ -1368,6 +1390,7 @@ qd,vn3b.0,149884,150110,schmächtig,149964,149968,mich,schmächtig
 qd,vn3b.0,149884,150110,schmächtig,149974,149977,ich,schmächtig
 qd,vn3b.0,149884,150110,schmächtig,150018,150021,ich,schmächtig
 qd,vn3b.0,149884,150110,schmächtig,150079,150082,ich,schmächtig
+qd,vn3b.0,150115,150249,page,150169,150172,ich,page
 qd,vn3b.0,150115,150249,page,150200,150205,meine,page
 qd,vn3b.0,150254,150439,schmächtig,150267,150270,Ich,schmächtig
 qd,vn3b.0,150254,150439,schmächtig,150353,150356,ich,schmächtig

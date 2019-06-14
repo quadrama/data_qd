@@ -1,5 +1,6 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
 qd,wznq.0,1361,1585,voltaire,1391,1394,ich,voltaire
+qd,wznq.0,1590,6004,amme,1733,1736,mir,amme
 qd,wznq.0,1590,6004,amme,1974,1977,mir,amme
 qd,wznq.0,1590,6004,amme,2389,2392,ich,amme
 qd,wznq.0,1590,6004,amme,2406,2409,mir,amme
@@ -28,14 +29,17 @@ qd,wznq.0,1590,6004,amme,4776,4780,mich,amme
 qd,wznq.0,1590,6004,amme,4805,4808,ich,amme
 qd,wznq.0,1590,6004,amme,4917,4921,mich,amme
 qd,wznq.0,1590,6004,amme,4940,4943,Ich,amme
+qd,wznq.0,1590,6004,amme,5085,5088,mir,amme
 qd,wznq.0,1590,6004,amme,5129,5132,ich,amme
 qd,wznq.0,1590,6004,amme,5306,5309,ich,amme
 qd,wznq.0,1590,6004,amme,5397,5400,ich,amme
+qd,wznq.0,1590,6004,amme,5654,5657,ich,amme
 qd,wznq.0,1590,6004,amme,5705,5708,ich,amme
 qd,wznq.0,1590,6004,amme,5920,5923,ich,amme
 qd,wznq.0,6078,6459,amme,6094,6097,ich,amme
 qd,wznq.0,6464,6543,voltaire,6513,6518,meine,voltaire
 qd,wznq.0,6464,6543,voltaire,6527,6530,ich,voltaire
+qd,wznq.0,6548,7189,amme,6560,6563,ich,amme
 qd,wznq.0,7195,7272,voltaire,7235,7239,mich,voltaire
 qd,wznq.0,7451,7758,voltaire,7721,7725,mich,voltaire
 qd,wznq.0,7763,7824,amme,7801,7804,ich,amme
@@ -92,7 +96,9 @@ qd,wznq.0,15243,15761,voltaire,15515,15518,mir,voltaire
 qd,wznq.0,15243,15761,voltaire,15568,15572,mich,voltaire
 qd,wznq.0,15766,17272,amme,15850,15853,ich,amme
 qd,wznq.0,15766,17272,amme,15871,15876,meine,amme
+qd,wznq.0,15766,17272,amme,15941,15944,ich,amme
 qd,wznq.0,15766,17272,amme,15952,15956,mein,amme
+qd,wznq.0,15766,17272,amme,16060,16063,mir,amme
 qd,wznq.0,15766,17272,amme,16140,16144,mich,amme
 qd,wznq.0,15766,17272,amme,16169,16172,mir,amme
 qd,wznq.0,15766,17272,amme,16184,16187,ich,amme
@@ -119,6 +125,7 @@ qd,wznq.0,19199,19297,voltaire,19292,19296,mich,voltaire
 qd,wznq.0,19427,19537,voltaire,19445,19449,mich,voltaire
 qd,wznq.0,19427,19537,voltaire,19515,19519,mich,voltaire
 qd,wznq.0,19427,19537,voltaire,19526,19529,ich,voltaire
+qd,wznq.0,19580,19654,voltaire,19596,19599,ich,voltaire
 qd,wznq.0,19580,19654,voltaire,19625,19631,meinen,voltaire
 qd,wznq.0,19659,19774,gespenst,19703,19706,ich,gespenst
 qd,wznq.0,19779,19899,voltaire,19868,19871,mir,voltaire

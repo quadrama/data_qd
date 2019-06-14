@@ -89,8 +89,10 @@ qd,x90m.0,21008,21305,gottfried,21227,21230,ich,gottfried
 qd,x90m.0,21310,21459,spuller,21354,21357,Ich,spuller
 qd,x90m.0,21658,21734,mutter,21674,21677,Ich,mutter
 qd,x90m.0,21658,21734,mutter,21685,21688,Ich,mutter
+qd,x90m.0,21807,21953,marie,21937,21940,ich,marie
 qd,x90m.0,22079,22414,spuller,22133,22136,ich,spuller
 qd,x90m.0,22079,22414,spuller,22173,22177,mich,spuller
+qd,x90m.0,22818,22876,spuller,22857,22860,mir,spuller
 qd,x90m.0,22881,23252,gottfried,22926,22929,ich,gottfried
 qd,x90m.0,23257,23354,spuller,23282,23285,ich,spuller
 qd,x90m.0,23904,23954,gottfried,23937,23940,Ich,gottfried
@@ -100,6 +102,7 @@ qd,x90m.0,24577,24718,marie,24648,24651,mir,marie
 qd,x90m.0,25131,25262,spuller,25170,25173,Mir,spuller
 qd,x90m.0,25131,25262,spuller,25211,25214,Mir,spuller
 qd,x90m.0,25369,25471,mutter,25448,25451,ich,mutter
+qd,x90m.0,25369,25471,mutter,25452,25455,mir,mutter
 qd,x90m.0,25476,25616,spuller,25524,25527,mir,spuller
 qd,x90m.0,25476,25616,spuller,25552,25555,mir,spuller
 qd,x90m.0,25476,25616,spuller,25568,25571,ich,spuller
@@ -111,6 +114,7 @@ qd,x90m.0,27642,27695,mutter,27676,27679,mir,mutter
 qd,x90m.0,27879,28005,marie,27887,27890,Ich,marie
 qd,x90m.0,27879,28005,marie,27966,27969,ich,marie
 qd,x90m.0,28062,28122,marie,28117,28120,ich,marie
+qd,x90m.0,28127,28231,mutter,28156,28159,mir,mutter
 qd,x90m.0,28236,28275,marie,28254,28257,mir,marie
 qd,x90m.0,28280,28402,mutter,28300,28303,ich,mutter
 qd,x90m.0,28280,28402,mutter,28356,28362,meinen,mutter

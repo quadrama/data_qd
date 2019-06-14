@@ -169,6 +169,7 @@ qd,wz0s.0,29184,31174,faust,30407,30410,ich,faust
 qd,wz0s.0,29184,31174,faust,30429,30432,ich,faust
 qd,wz0s.0,29184,31174,faust,30608,30614,meiner,faust
 qd,wz0s.0,29184,31174,faust,30645,30648,mir,faust
+qd,wz0s.0,29184,31174,faust,30735,30739,mein,faust
 qd,wz0s.0,29184,31174,faust,30770,30773,mir,faust
 qd,wz0s.0,29184,31174,faust,30807,30810,ich,faust
 qd,wz0s.0,29184,31174,faust,30949,30952,ich,faust
@@ -178,6 +179,7 @@ qd,wz0s.0,31380,31801,mephistopheles,31548,31551,ich,mephistopheles
 qd,wz0s.0,31380,31801,mephistopheles,31559,31562,mir,mephistopheles
 qd,wz0s.0,31380,31801,mephistopheles,31601,31607,meinen,mephistopheles
 qd,wz0s.0,31380,31801,mephistopheles,31626,31629,Ich,mephistopheles
+qd,wz0s.0,31380,31801,mephistopheles,31709,31712,mir,mephistopheles
 qd,wz0s.0,31380,31801,mephistopheles,31721,31724,ich,mephistopheles
 qd,wz0s.0,32782,32990,faust,32916,32920,mich,faust
 qd,wz0s.0,32782,32990,faust,32982,32985,ich,faust
@@ -202,6 +204,7 @@ qd,wz0s.0,37110,37201,valentin,37187,37190,mir,valentin
 qd,wz0s.0,37849,38247,faust,37873,37876,ich,faust
 qd,wz0s.0,37849,38247,faust,38129,38132,Ich,faust
 qd,wz0s.0,38539,38672,lieschen,38595,38598,ich,lieschen
+qd,wz0s.0,38539,38672,lieschen,38646,38649,ich,lieschen
 qd,wz0s.0,38789,38985,faust,38797,38800,Ich,faust
 qd,wz0s.0,38789,38985,faust,38909,38912,Mir,faust
 qd,wz0s.0,38789,38985,faust,38940,38943,Ich,faust
@@ -297,6 +300,8 @@ qd,wz0s.0,58081,58534,helena,58143,58147,Mich,helena
 qd,wz0s.0,58081,58534,helena,58319,58322,Ich,helena
 qd,wz0s.0,58081,58534,helena,58503,58506,ich,helena
 qd,wz0s.0,58540,58739,faust,58593,58596,Mir,faust
+qd,wz0s.0,58540,58739,faust,58652,58655,mir,faust
+qd,wz0s.0,58540,58739,faust,58699,58702,ich,faust
 qd,wz0s.0,58746,58960,helena,58829,58833,mich,helena
 qd,wz0s.0,58966,59209,faust,58989,58992,ich,faust
 qd,wz0s.0,58966,59209,faust,59022,59026,mich,faust
@@ -469,6 +474,7 @@ qd,wz0s.0,91197,91708,faust,91521,91524,ich,faust
 qd,wz0s.0,92722,92991,faust,92740,92744,mich,faust
 qd,wz0s.0,92722,92991,faust,92759,92765,meiner,faust
 qd,wz0s.0,92722,92991,faust,92819,92822,Ich,faust
+qd,wz0s.0,92722,92991,faust,92916,92920,mich,faust
 qd,wz0s.0,92722,92991,faust,92928,92931,mir,faust
 qd,wz0s.0,92997,93613,valentin,93039,93042,ich,valentin
 qd,wz0s.0,92997,93613,valentin,93074,93077,ich,valentin
@@ -496,6 +502,7 @@ qd,wz0s.0,97501,97851,mephistopheles,97732,97735,mir,mephistopheles
 qd,wz0s.0,97501,97851,mephistopheles,97765,97768,ich,mephistopheles
 qd,wz0s.0,97501,97851,mephistopheles,97790,97796,meinen,mephistopheles
 qd,wz0s.0,97933,98049,mephistopheles,98044,98048,mein,mephistopheles
+qd,wz0s.0,98283,99081,mephistopheles,98323,98326,mir,mephistopheles
 qd,wz0s.0,98283,99081,mephistopheles,98399,98402,Mir,mephistopheles
 qd,wz0s.0,98283,99081,mephistopheles,98451,98454,mir,mephistopheles
 qd,wz0s.0,98283,99081,mephistopheles,98474,98477,mir,mephistopheles
@@ -512,6 +519,7 @@ qd,wz0s.0,100092,100187,stimme_des_herrn,100135,100138,ich,stimme_des_herrn
 qd,wz0s.0,100702,101028,mephistopheles,100792,100795,Ich,mephistopheles
 qd,wz0s.0,100702,101028,mephistopheles,100816,100819,ich,mephistopheles
 qd,wz0s.0,100702,101028,mephistopheles,100820,100826,meinem,mephistopheles
+qd,wz0s.0,100702,101028,mephistopheles,100842,100845,mir,mephistopheles
 qd,wz0s.0,101034,102228,erzengel_michael,101156,101159,mir,erzengel_michael
 qd,wz0s.0,102233,103089,mephistopheles,102371,102374,ich,mephistopheles
 qd,wz0s.0,102233,103089,mephistopheles,102383,102386,Ich,mephistopheles
@@ -520,6 +528,7 @@ qd,wz0s.0,102233,103089,mephistopheles,102431,102434,ich,mephistopheles
 qd,wz0s.0,102233,103089,mephistopheles,102547,102550,ich,mephistopheles
 qd,wz0s.0,102233,103089,mephistopheles,102566,102569,ich,mephistopheles
 qd,wz0s.0,102233,103089,mephistopheles,102702,102705,mir,mephistopheles
+qd,wz0s.0,102233,103089,mephistopheles,102724,102727,mir,mephistopheles
 qd,wz0s.0,102233,103089,mephistopheles,102770,102773,ich,mephistopheles
 qd,wz0s.0,102233,103089,mephistopheles,102788,102791,Ich,mephistopheles
 qd,wz0s.0,102233,103089,mephistopheles,102921,102924,ich,mephistopheles
@@ -604,6 +613,7 @@ qd,wz0s.0,117517,117695,faust,117539,117542,ich,faust
 qd,wz0s.0,117517,117695,faust,117587,117590,mir,faust
 qd,wz0s.0,118210,118297,faust,118234,118237,ich,faust
 qd,wz0s.0,118210,118297,faust,118274,118277,mir,faust
+qd,wz0s.0,118303,118633,dr,118537,118540,ich,dr
 qd,wz0s.0,118801,118883,lieschen,118818,118821,ich,lieschen
 qd,wz0s.0,118801,118883,lieschen,118865,118869,mich,lieschen
 qd,wz0s.0,119984,120115,faust,120004,120009,meine,faust
@@ -625,6 +635,7 @@ qd,wz0s.0,125474,125565,faust,125490,125494,mich,faust
 qd,wz0s.0,125474,125565,faust,125521,125524,Mir,faust
 qd,wz0s.0,126005,126170,faust,126030,126033,Ich,faust
 qd,wz0s.0,126358,126558,faust,126381,126384,ich,faust
+qd,wz0s.0,126358,126558,faust,126385,126388,mir,faust
 qd,wz0s.0,127663,127830,faust,127715,127718,ich,faust
 qd,wz0s.0,127663,127830,faust,127818,127821,ich,faust
 qd,wz0s.0,127836,128070,lyell,127968,127971,ich,lyell
@@ -668,6 +679,7 @@ qd,wz0s.0,136892,137064,bärbelchen,136942,136948,meinen,bärbelchen
 qd,wz0s.0,136892,137064,bärbelchen,137029,137032,ich,bärbelchen
 qd,wz0s.0,137129,137224,bärbelchen,137210,137214,mich,bärbelchen
 qd,wz0s.0,137230,137326,valentin,137246,137249,mir,valentin
+qd,wz0s.0,137774,138068,valentin,137804,137807,mir,valentin
 qd,wz0s.0,137774,138068,valentin,137816,137819,ich,valentin
 qd,wz0s.0,137774,138068,valentin,137825,137829,mich,valentin
 qd,wz0s.0,137774,138068,valentin,137861,137864,ich,valentin
@@ -822,6 +834,7 @@ qd,wz0s.0,194431,194663,steinzänger,194446,194449,Ich,steinzänger
 qd,wz0s.0,194431,194663,steinzänger,194460,194463,Mir,steinzänger
 qd,wz0s.0,194752,194795,bärbel,194781,194784,mir,bärbel
 qd,wz0s.0,194853,194983,steinzänger,194907,194912,meine,steinzänger
+qd,wz0s.0,195980,196264,valentin,196112,196115,mir,valentin
 qd,wz0s.0,195980,196264,valentin,196150,196153,ich,valentin
 qd,wz0s.0,195980,196264,valentin,196189,196192,ich,valentin
 qd,wz0s.0,196368,196502,bärbel,196403,196406,Ich,bärbel
@@ -878,12 +891,14 @@ qd,wz0s.0,204985,205487,valentin,205327,205331,mich,valentin
 qd,wz0s.0,205774,205952,unbekannter,205936,205939,Ich,unbekannter
 qd,wz0s.0,205774,205952,unbekannter,205947,205951,mich,unbekannter
 qd,wz0s.0,206171,206313,alter_herr,206204,206208,mich,alter_herr
+qd,wz0s.0,206319,206413,unbekannter,206347,206350,ich,unbekannter
 qd,wz0s.0,206319,206413,unbekannter,206365,206368,ich,unbekannter
 qd,wz0s.0,206319,206413,unbekannter,206377,206380,Ich,unbekannter
 qd,wz0s.0,206419,206444,alter_herr,206440,206443,ich,alter_herr
 qd,wz0s.0,206449,206551,unbekannter,206478,206481,ich,unbekannter
 qd,wz0s.0,206449,206551,unbekannter,206484,206487,Ich,unbekannter
 qd,wz0s.0,206449,206551,unbekannter,206494,206497,ich,unbekannter
+qd,wz0s.0,206449,206551,unbekannter,206533,206536,mir,unbekannter
 qd,wz0s.0,206610,207340,unbekannter,206649,206652,mir,unbekannter
 qd,wz0s.0,206610,207340,unbekannter,206696,206699,ich,unbekannter
 qd,wz0s.0,206610,207340,unbekannter,206700,206704,mich,unbekannter
@@ -905,13 +920,16 @@ qd,wz0s.0,208104,208545,unbekannter,208138,208141,ich,unbekannter
 qd,wz0s.0,208104,208545,unbekannter,208161,208164,Ich,unbekannter
 qd,wz0s.0,208104,208545,unbekannter,208285,208288,mir,unbekannter
 qd,wz0s.0,208104,208545,unbekannter,208364,208367,Ich,unbekannter
+qd,wz0s.0,208104,208545,unbekannter,208398,208401,ich,unbekannter
 qd,wz0s.0,208104,208545,unbekannter,208441,208444,mir,unbekannter
 qd,wz0s.0,208551,209017,alter_herr,208625,208628,ich,alter_herr
 qd,wz0s.0,208551,209017,alter_herr,208629,208632,mir,alter_herr
+qd,wz0s.0,208551,209017,alter_herr,208667,208670,mir,alter_herr
 qd,wz0s.0,208551,209017,alter_herr,208744,208747,ich,alter_herr
 qd,wz0s.0,208551,209017,alter_herr,208803,208806,mir,alter_herr
 qd,wz0s.0,208551,209017,alter_herr,208889,208892,ich,alter_herr
 qd,wz0s.0,208551,209017,alter_herr,208906,208909,mir,alter_herr
+qd,wz0s.0,209023,209536,unbekannter,209043,209046,ich,unbekannter
 qd,wz0s.0,209023,209536,unbekannter,209079,209082,ich,unbekannter
 qd,wz0s.0,209023,209536,unbekannter,209422,209426,mein,unbekannter
 qd,wz0s.0,209023,209536,unbekannter,209467,209470,ich,unbekannter
@@ -969,6 +987,7 @@ qd,wz0s.0,223610,223972,bärbel,223883,223886,mir,bärbel
 qd,wz0s.0,223610,223972,bärbel,223934,223937,Ich,bärbel
 qd,wz0s.0,223978,224193,valentin,223989,223992,Ich,valentin
 qd,wz0s.0,223978,224193,valentin,224077,224080,mir,valentin
+qd,wz0s.0,223978,224193,valentin,224122,224125,ich,valentin
 qd,wz0s.0,223978,224193,valentin,224174,224177,mir,valentin
 qd,wz0s.0,224310,224562,unbekannter,224372,224375,mir,unbekannter
 qd,wz0s.0,224310,224562,unbekannter,224382,224385,ich,unbekannter

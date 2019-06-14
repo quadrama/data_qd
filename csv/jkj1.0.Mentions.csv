@@ -95,6 +95,7 @@ qd,jkj1.0,23678,23743,chor,23691,23694,mir,chor
 qd,jkj1.0,23678,23743,chor,23713,23716,ich,chor
 qd,jkj1.0,23748,25301,herold,23976,23979,ich,herold
 qd,jkj1.0,23748,25301,herold,24348,24351,ich,herold
+qd,jkj1.0,23748,25301,herold,24551,24554,ich,herold
 qd,jkj1.0,23748,25301,herold,24685,24688,ich,herold
 qd,jkj1.0,23748,25301,herold,24725,24729,Mich,herold
 qd,jkj1.0,23748,25301,herold,24735,24738,ich,herold
@@ -219,6 +220,7 @@ qd,jkj1.0,43491,45451,chor,44015,44018,mir,chor
 qd,jkj1.0,43491,45451,chor,44031,44034,mir,chor
 qd,jkj1.0,43491,45451,chor,44065,44070,Meine,chor
 qd,jkj1.0,43491,45451,chor,44186,44190,Mein,chor
+qd,jkj1.0,43491,45451,chor,44260,44263,ich,chor
 qd,jkj1.0,43491,45451,chor,45231,45235,mein,chor
 qd,jkj1.0,46225,46392,klytaimestra,46332,46335,ich,klytaimestra
 qd,jkj1.0,46502,46853,klytaimestra,46527,46530,ich,klytaimestra
@@ -236,6 +238,7 @@ qd,jkj1.0,48196,48320,chor,48251,48254,Ich,chor
 qd,jkj1.0,48611,48752,kassandra,48642,48646,mich,kassandra
 qd,jkj1.0,49101,49231,chor,49108,49111,Mir,chor
 qd,jkj1.0,49101,49231,chor,49165,49168,mir,chor
+qd,jkj1.0,49237,49460,kassandra,49364,49367,ich,kassandra
 qd,jkj1.0,49466,49586,chor,49473,49476,Ich,chor
 qd,jkj1.0,49466,49586,chor,49519,49522,Mir,chor
 qd,jkj1.0,49592,49818,kassandra,49648,49651,ich,kassandra
@@ -264,6 +267,9 @@ qd,jkj1.0,52146,52428,kassandra,52387,52390,Ich,kassandra
 qd,jkj1.0,52650,53677,kassandra,52936,52939,ich,kassandra
 qd,jkj1.0,52650,53677,kassandra,52973,52976,mir,kassandra
 qd,jkj1.0,52650,53677,kassandra,52988,52991,ich,kassandra
+qd,jkj1.0,52650,53677,kassandra,53485,53488,ich,kassandra
+qd,jkj1.0,52650,53677,kassandra,53498,53501,ich,kassandra
+qd,jkj1.0,52650,53677,kassandra,53579,53582,ich,kassandra
 qd,jkj1.0,52650,53677,kassandra,53598,53601,mir,kassandra
 qd,jkj1.0,52650,53677,kassandra,53617,53620,ich,kassandra
 qd,jkj1.0,53684,53884,chor,53771,53774,ich,chor
@@ -272,6 +278,7 @@ qd,jkj1.0,54010,54070,kassandra,54036,54039,ich,kassandra
 qd,jkj1.0,54010,54070,kassandra,54040,54044,mich,kassandra
 qd,jkj1.0,54132,54191,kassandra,54143,54147,Mein,kassandra
 qd,jkj1.0,54132,54191,kassandra,54173,54177,mich,kassandra
+qd,jkj1.0,54253,54309,kassandra,54281,54284,ich,kassandra
 qd,jkj1.0,54375,54432,kassandra,54404,54407,ich,kassandra
 qd,jkj1.0,54375,54432,kassandra,54408,54414,meinem,kassandra
 qd,jkj1.0,54490,54551,kassandra,54527,54530,mir,kassandra
@@ -419,8 +426,10 @@ qd,jkj1.0,70476,71234,chor,70813,70816,ich,chor
 qd,jkj1.0,71240,71612,klytaimestra,71317,71321,mich,klytaimestra
 qd,jkj1.0,71240,71612,klytaimestra,71345,71348,ich,klytaimestra
 qd,jkj1.0,71958,72425,klytaimestra,72029,72032,ich,klytaimestra
+qd,jkj1.0,71958,72425,klytaimestra,72085,72088,ich,klytaimestra
 qd,jkj1.0,71958,72425,klytaimestra,72124,72127,Ich,klytaimestra
 qd,jkj1.0,71958,72425,klytaimestra,72261,72264,ich,klytaimestra
+qd,jkj1.0,71958,72425,klytaimestra,72309,72312,mir,klytaimestra
 qd,jkj1.0,72431,74252,aigisthos,72500,72503,ich,aigisthos
 qd,jkj1.0,72431,74252,aigisthos,72629,72632,ich,aigisthos
 qd,jkj1.0,72431,74252,aigisthos,72662,72665,mir,aigisthos

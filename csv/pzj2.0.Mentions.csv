@@ -179,6 +179,7 @@ qd,pzj2.0,26117,26871,hanns_von_stauffen,26204,26207,ich,hanns_von_stauffen
 qd,pzj2.0,26117,26871,hanns_von_stauffen,26226,26229,ich,hanns_von_stauffen
 qd,pzj2.0,26117,26871,hanns_von_stauffen,26681,26684,ich,hanns_von_stauffen
 qd,pzj2.0,26117,26871,hanns_von_stauffen,26725,26728,Ich,hanns_von_stauffen
+qd,pzj2.0,26117,26871,hanns_von_stauffen,26738,26742,mein,hanns_von_stauffen
 qd,pzj2.0,26963,27096,käsperle,27009,27013,mein,käsperle
 qd,pzj2.0,26963,27096,käsperle,27039,27042,ich,käsperle
 qd,pzj2.0,27238,27526,käsperle,27262,27265,ich,käsperle
@@ -452,6 +453,7 @@ qd,pzj2.0,62028,62212,käsperle,62039,62042,Ich,käsperle
 qd,pzj2.0,62028,62212,käsperle,62139,62142,ich,käsperle
 qd,pzj2.0,62028,62212,käsperle,62155,62159,mich,käsperle
 qd,pzj2.0,62217,62298,mädchen,62254,62257,ich,mädchen
+qd,pzj2.0,62303,62524,käsperle,62331,62334,ich,käsperle
 qd,pzj2.0,62303,62524,käsperle,62338,62342,mein,käsperle
 qd,pzj2.0,62303,62524,käsperle,62400,62403,ich,käsperle
 qd,pzj2.0,62529,62606,mädchen,62551,62557,meiner,mädchen
@@ -578,11 +580,13 @@ qd,pzj2.0,78370,78417,otto,78385,78390,Meine,otto
 qd,pzj2.0,78423,78611,geist,78544,78550,meiner,geist
 qd,pzj2.0,78760,78983,käsperle,78836,78840,mein,käsperle
 qd,pzj2.0,78760,78983,käsperle,78928,78931,ich,käsperle
+qd,pzj2.0,78760,78983,käsperle,78963,78966,mir,käsperle
 qd,pzj2.0,79077,79159,frowald,79094,79097,ich,frowald
 qd,pzj2.0,79164,79280,käsperle,79182,79185,mir,käsperle
 qd,pzj2.0,79164,79280,käsperle,79213,79216,ich,käsperle
 qd,pzj2.0,79164,79280,käsperle,79231,79234,ich,käsperle
 qd,pzj2.0,79368,79420,käsperle,79387,79390,mir,käsperle
+qd,pzj2.0,79368,79420,käsperle,79406,79409,ich,käsperle
 qd,pzj2.0,79536,79678,käsperle,79567,79570,ich,käsperle
 qd,pzj2.0,79536,79678,käsperle,79582,79585,ich,käsperle
 qd,pzj2.0,79536,79678,käsperle,79644,79648,Mein,käsperle
@@ -740,6 +744,7 @@ qd,pzj2.0,97913,98652,jeriel,98084,98087,ich,jeriel
 qd,pzj2.0,97913,98652,jeriel,98116,98119,ich,jeriel
 qd,pzj2.0,97913,98652,jeriel,98178,98181,mir,jeriel
 qd,pzj2.0,97913,98652,jeriel,98196,98200,Mein,jeriel
+qd,pzj2.0,97913,98652,jeriel,98380,98383,mir,jeriel
 qd,pzj2.0,97913,98652,jeriel,98399,98402,mir,jeriel
 qd,pzj2.0,97913,98652,jeriel,98415,98419,mich,jeriel
 qd,pzj2.0,97913,98652,jeriel,98605,98608,ich,jeriel

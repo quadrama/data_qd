@@ -267,6 +267,7 @@ qd,r0hz.0,35724,36134,thusnelda,35749,35752,mir,thusnelda
 qd,r0hz.0,35724,36134,thusnelda,35754,35757,ich,thusnelda
 qd,r0hz.0,35724,36134,thusnelda,35795,35798,ich,thusnelda
 qd,r0hz.0,35724,36134,thusnelda,35934,35938,mich,thusnelda
+qd,r0hz.0,35724,36134,thusnelda,36121,36124,ich,thusnelda
 qd,r0hz.0,36140,36453,hermann,36165,36168,ich,hermann
 qd,r0hz.0,36140,36453,hermann,36186,36189,Ich,hermann
 qd,r0hz.0,36140,36453,hermann,36196,36202,meinen,hermann
@@ -427,6 +428,7 @@ qd,r0hz.0,57985,58062,hermann,58002,58006,mein,hermann
 qd,r0hz.0,58067,58186,thusnelda,58107,58110,ich,thusnelda
 qd,r0hz.0,58067,58186,thusnelda,58128,58132,mich,thusnelda
 qd,r0hz.0,58067,58186,thusnelda,58158,58161,mir,thusnelda
+qd,r0hz.0,58192,58485,hermann,58377,58380,ich,hermann
 qd,r0hz.0,58490,58665,thusnelda,58507,58512,meine,thusnelda
 qd,r0hz.0,58490,58665,thusnelda,58572,58575,mir,thusnelda
 qd,r0hz.0,58490,58665,thusnelda,58602,58608,meiner,thusnelda
@@ -592,6 +594,7 @@ qd,r0hz.0,84793,84932,teuthold,84835,84838,Ich,teuthold
 qd,r0hz.0,84793,84932,teuthold,84907,84912,meine,teuthold
 qd,r0hz.0,84793,84932,teuthold,84928,84931,mir,teuthold
 qd,r0hz.0,85675,85769,teuthold,85730,85734,Mein,teuthold
+qd,r0hz.0,85675,85769,teuthold,85749,85752,ich,teuthold
 qd,r0hz.0,85870,85936,der_zweite_cherusker,85902,85906,mein,der_zweite_cherusker
 qd,r0hz.0,86033,86091,hermann,86050,86055,meine,hermann
 qd,r0hz.0,86033,86091,hermann,86065,86068,ich,hermann
@@ -824,6 +827,7 @@ qd,r0hz.0,115514,115684,hermann,115536,115539,ich,hermann
 qd,r0hz.0,115514,115684,hermann,115642,115645,Ich,hermann
 qd,r0hz.0,115690,115834,egbert,115719,115723,Mein,egbert
 qd,r0hz.0,115690,115834,egbert,115830,115833,mir,egbert
+qd,r0hz.0,115866,116648,egbert,116474,116477,ich,egbert
 qd,r0hz.0,116654,116698,hermann,116688,116691,ich,hermann
 qd,r0hz.0,116740,116791,hermann,116776,116779,mir,hermann
 qd,r0hz.0,116908,117142,hermann,117102,117105,mir,hermann
@@ -951,6 +955,7 @@ qd,r0hz.0,136781,136996,varus,136919,136923,mich,varus
 qd,r0hz.0,137082,137119,gueltar,137115,137118,ich,gueltar
 qd,r0hz.0,137124,137192,fust,137153,137156,mir,fust
 qd,r0hz.0,137124,137192,fust,137167,137170,ich,fust
+qd,r0hz.0,137261,137649,fust,137329,137332,ich,fust
 qd,r0hz.0,137261,137649,fust,137390,137394,mich,fust
 qd,r0hz.0,137261,137649,fust,137422,137428,meinem,fust
 qd,r0hz.0,137261,137649,fust,137471,137475,mich,fust

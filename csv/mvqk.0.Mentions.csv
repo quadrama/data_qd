@@ -124,6 +124,7 @@ qd,mvqk.0,17278,17736,mephistopheles,17559,17562,ich,mephistopheles
 qd,mvqk.0,17278,17736,mephistopheles,17577,17580,ich,mephistopheles
 qd,mvqk.0,17278,17736,mephistopheles,17642,17645,ich,mephistopheles
 qd,mvqk.0,17951,17977,wagner,17959,17962,Ich,wagner
+qd,mvqk.0,18082,18342,wagner,18183,18186,ich,wagner
 qd,mvqk.0,18082,18342,wagner,18206,18209,ich,wagner
 qd,mvqk.0,18082,18342,wagner,18315,18318,mir,wagner
 qd,mvqk.0,18515,18853,faust,18546,18549,mir,faust
@@ -334,15 +335,18 @@ qd,mvqk.0,43870,45326,die_königin,44541,44544,ich,die_königin
 qd,mvqk.0,43870,45326,die_königin,44640,44643,ich,die_königin
 qd,mvqk.0,43870,45326,die_königin,44689,44692,ich,die_königin
 qd,mvqk.0,43870,45326,die_königin,44708,44711,mir,die_königin
+qd,mvqk.0,43870,45326,die_königin,44729,44732,mir,die_königin
 qd,mvqk.0,43870,45326,die_königin,44747,44750,ich,die_königin
 qd,mvqk.0,43870,45326,die_königin,44791,44794,mir,die_königin
 qd,mvqk.0,43870,45326,die_königin,44945,44948,ich,die_königin
 qd,mvqk.0,43870,45326,die_königin,44965,44969,mich,die_königin
 qd,mvqk.0,43870,45326,die_königin,45217,45221,mein,die_königin
+qd,mvqk.0,43870,45326,die_königin,45267,45270,ich,die_königin
 qd,mvqk.0,43870,45326,die_königin,45288,45292,mich,die_königin
 qd,mvqk.0,45389,45489,faust,45431,45434,mir,faust
 qd,mvqk.0,45389,45489,faust,45451,45454,ich,faust
 qd,mvqk.0,45495,45705,die_königin,45563,45567,mich,die_königin
+qd,mvqk.0,45495,45705,die_königin,45608,45611,mir,die_königin
 qd,mvqk.0,45495,45705,die_königin,45673,45676,mir,die_königin
 qd,mvqk.0,45711,45791,faust,45756,45759,ich,faust
 qd,mvqk.0,45797,45961,die_königin,45832,45835,ich,die_königin
@@ -423,6 +427,7 @@ qd,mvqk.0,54906,55136,hanswurst,54945,54949,mein,hanswurst
 qd,mvqk.0,55142,55267,könig,55226,55229,mir,könig
 qd,mvqk.0,55446,55562,hanswurst,55536,55540,mein,hanswurst
 qd,mvqk.0,55617,55675,hanswurst,55628,55631,Ich,hanswurst
+qd,mvqk.0,55680,55792,könig,55722,55725,mir,könig
 qd,mvqk.0,55875,56024,hanswurst,55900,55904,mich,hanswurst
 qd,mvqk.0,56407,56566,hanswurst,56491,56494,mir,hanswurst
 qd,mvqk.0,56625,57114,könig,57072,57075,mir,könig
@@ -451,6 +456,7 @@ qd,mvqk.0,58448,59246,faust,58904,58907,mir,faust
 qd,mvqk.0,58448,59246,faust,59123,59127,mich,faust
 qd,mvqk.0,59252,59567,könig,59307,59310,mir,könig
 qd,mvqk.0,59252,59567,könig,59349,59352,Ich,könig
+qd,mvqk.0,59252,59567,könig,59378,59381,ich,könig
 qd,mvqk.0,59252,59567,könig,59482,59485,Ich,könig
 qd,mvqk.0,59640,60867,faust,60085,60088,mir,faust
 qd,mvqk.0,59640,60867,faust,60119,60122,mir,faust
@@ -470,6 +476,7 @@ qd,mvqk.0,59640,60867,faust,60828,60831,Ich,faust
 qd,mvqk.0,59640,60867,faust,60851,60854,ich,faust
 qd,mvqk.0,60957,61263,mephistopheles,61197,61200,Ich,mephistopheles
 qd,mvqk.0,61306,61587,mephistopheles,61340,61343,Ich,mephistopheles
+qd,mvqk.0,61306,61587,mephistopheles,61427,61430,mir,mephistopheles
 qd,mvqk.0,61306,61587,mephistopheles,61454,61457,ich,mephistopheles
 qd,mvqk.0,61306,61587,mephistopheles,61494,61497,mir,mephistopheles
 qd,mvqk.0,61306,61587,mephistopheles,61512,61515,ich,mephistopheles
@@ -690,6 +697,7 @@ qd,mvqk.0,90459,91123,hanswurst,90622,90625,Ich,hanswurst
 qd,mvqk.0,90459,91123,hanswurst,90819,90823,mein,hanswurst
 qd,mvqk.0,91129,91316,faust,91137,91140,Ich,faust
 qd,mvqk.0,91129,91316,faust,91195,91198,ich,faust
+qd,mvqk.0,91772,91871,faust,91818,91821,ich,faust
 qd,mvqk.0,92057,92104,faust,92096,92099,ich,faust
 qd,mvqk.0,92109,92284,hanswurst,92251,92254,Ich,hanswurst
 qd,mvqk.0,92404,92569,mephistopheles,92556,92559,mir,mephistopheles

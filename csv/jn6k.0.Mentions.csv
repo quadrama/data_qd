@@ -84,6 +84,7 @@ qd,jn6k.0,12752,12929,dusterer,12853,12856,ich,dusterer
 qd,jn6k.0,12752,12929,dusterer,12894,12898,mich,dusterer
 qd,jn6k.0,12989,13054,dusterer,13044,13047,ich,dusterer
 qd,jn6k.0,13109,13252,dusterer,13244,13247,ich,dusterer
+qd,jn6k.0,13258,13361,grillhofer,13342,13345,mir,grillhofer
 qd,jn6k.0,13833,13933,dusterer,13870,13873,ich,dusterer
 qd,jn6k.0,14169,14423,dusterer,14349,14352,mir,dusterer
 qd,jn6k.0,14711,15117,dusterer,14795,14798,ich,dusterer
@@ -95,6 +96,8 @@ qd,jn6k.0,15159,15442,dusterer,15222,15225,ich,dusterer
 qd,jn6k.0,15159,15442,dusterer,15238,15241,ich,dusterer
 qd,jn6k.0,15159,15442,dusterer,15261,15264,ich,dusterer
 qd,jn6k.0,15159,15442,dusterer,15304,15307,Ich,dusterer
+qd,jn6k.0,15447,15662,grillhofer,15469,15472,ich,grillhofer
+qd,jn6k.0,15447,15662,grillhofer,15562,15565,ich,grillhofer
 qd,jn6k.0,15447,15662,grillhofer,15580,15583,ich,grillhofer
 qd,jn6k.0,15447,15662,grillhofer,15602,15605,mir,grillhofer
 qd,jn6k.0,15447,15662,grillhofer,15640,15643,mir,grillhofer
@@ -105,6 +108,7 @@ qd,jn6k.0,16592,16786,dusterer,16649,16653,mein,dusterer
 qd,jn6k.0,16592,16786,dusterer,16654,16657,ich,dusterer
 qd,jn6k.0,16592,16786,dusterer,16736,16739,mir,dusterer
 qd,jn6k.0,16791,16852,grillhofer,16814,16818,mein,grillhofer
+qd,jn6k.0,17009,17087,grillhofer,17027,17030,ich,grillhofer
 qd,jn6k.0,17220,17312,dusterer,17264,17267,mir,dusterer
 qd,jn6k.0,17220,17312,dusterer,17274,17277,ich,dusterer
 qd,jn6k.0,17317,17393,grillhofer,17368,17371,ich,grillhofer
@@ -130,7 +134,9 @@ qd,jn6k.0,21433,21770,dusterer,21508,21511,Ich,dusterer
 qd,jn6k.0,21433,21770,dusterer,21562,21565,mir,dusterer
 qd,jn6k.0,21433,21770,dusterer,21697,21700,ich,dusterer
 qd,jn6k.0,21433,21770,dusterer,21709,21715,meiner,dusterer
+qd,jn6k.0,22081,22138,dusterer,22108,22111,ich,dusterer
 qd,jn6k.0,22143,22460,grillhofer,22187,22190,mir,grillhofer
+qd,jn6k.0,22143,22460,grillhofer,22314,22317,mir,grillhofer
 qd,jn6k.0,22143,22460,grillhofer,22404,22407,ich,grillhofer
 qd,jn6k.0,22465,23749,dusterer,22538,22542,mich,dusterer
 qd,jn6k.0,22465,23749,dusterer,22576,22582,Meiner,dusterer
@@ -145,12 +151,14 @@ qd,jn6k.0,22465,23749,dusterer,23593,23599,meiner,dusterer
 qd,jn6k.0,22465,23749,dusterer,23641,23644,mir,dusterer
 qd,jn6k.0,22465,23749,dusterer,23681,23684,ich,dusterer
 qd,jn6k.0,22465,23749,dusterer,23727,23731,mein,dusterer
+qd,jn6k.0,23754,23906,grillhofer,23875,23878,ich,grillhofer
 qd,jn6k.0,23911,24816,dusterer,23963,23966,Ich,dusterer
 qd,jn6k.0,23911,24816,dusterer,23973,23976,ich,dusterer
 qd,jn6k.0,26328,26474,wastl,26452,26455,ich,wastl
 qd,jn6k.0,26479,26565,liesel,26518,26521,ich,liesel
 qd,jn6k.0,26479,26565,liesel,26556,26559,mir,liesel
 qd,jn6k.0,26570,26706,wastl,26631,26634,mir,wastl
+qd,jn6k.0,26744,26896,wastl,26830,26833,mir,wastl
 qd,jn6k.0,26744,26896,wastl,26847,26850,ich,wastl
 qd,jn6k.0,26988,27228,wastl,27045,27048,ich,wastl
 qd,jn6k.0,26988,27228,wastl,27091,27094,ich,wastl
@@ -204,6 +212,7 @@ qd,jn6k.0,33029,33677,wastl,33101,33105,mich,wastl
 qd,jn6k.0,33029,33677,wastl,33262,33265,ich,wastl
 qd,jn6k.0,33029,33677,wastl,33303,33306,ich,wastl
 qd,jn6k.0,33029,33677,wastl,33307,33310,mir,wastl
+qd,jn6k.0,33029,33677,wastl,33661,33664,ich,wastl
 qd,jn6k.0,33844,33945,liesel,33913,33916,mir,liesel
 qd,jn6k.0,34054,34114,liesel,34079,34082,Ich,liesel
 qd,jn6k.0,34054,34114,liesel,34087,34090,mir,liesel
@@ -256,6 +265,7 @@ qd,jn6k.0,41369,42104,dusterer,41646,41649,mir,dusterer
 qd,jn6k.0,41369,42104,dusterer,41755,41758,mir,dusterer
 qd,jn6k.0,42392,42637,dusterer,42541,42544,mir,dusterer
 qd,jn6k.0,42392,42637,dusterer,42551,42554,ich,dusterer
+qd,jn6k.0,42695,42750,dusterer,42732,42735,ich,dusterer
 qd,jn6k.0,42810,42941,dusterer,42912,42915,mir,dusterer
 qd,jn6k.0,43396,43594,liesel,43407,43411,mein,liesel
 qd,jn6k.0,43396,43594,liesel,43432,43435,ich,liesel
@@ -319,6 +329,7 @@ qd,jn6k.0,52849,53716,grillhofer,53021,53025,mein,grillhofer
 qd,jn6k.0,52849,53716,grillhofer,53069,53073,mich,grillhofer
 qd,jn6k.0,52849,53716,grillhofer,53106,53109,ich,grillhofer
 qd,jn6k.0,52849,53716,grillhofer,53209,53212,mir,grillhofer
+qd,jn6k.0,52849,53716,grillhofer,53687,53690,mir,grillhofer
 qd,jn6k.0,53877,55156,grillhofer,53929,53933,mein,grillhofer
 qd,jn6k.0,53877,55156,grillhofer,53980,53983,ich,grillhofer
 qd,jn6k.0,53877,55156,grillhofer,54031,54034,ich,grillhofer
@@ -355,13 +366,16 @@ qd,jn6k.0,58859,59222,liesel,58969,58972,mir,liesel
 qd,jn6k.0,58859,59222,liesel,59077,59080,mir,liesel
 qd,jn6k.0,58859,59222,liesel,59092,59095,ich,liesel
 qd,jn6k.0,58859,59222,liesel,59131,59134,ich,liesel
+qd,jn6k.0,58859,59222,liesel,59168,59171,ich,liesel
 qd,jn6k.0,59228,59343,wastl,59300,59303,mir,wastl
 qd,jn6k.0,59425,59741,wastl,59562,59565,ich,wastl
 qd,jn6k.0,59425,59741,wastl,59609,59612,ich,wastl
 qd,jn6k.0,59811,60021,dusterer,59825,59828,ich,dusterer
+qd,jn6k.0,59811,60021,dusterer,59829,59832,mir,dusterer
 qd,jn6k.0,59811,60021,dusterer,59862,59865,Ich,dusterer
 qd,jn6k.0,60026,60185,grillhofer,60144,60148,mich,grillhofer
 qd,jn6k.0,60190,60727,dusterer,60250,60254,mein,dusterer
+qd,jn6k.0,60190,60727,dusterer,60322,60325,ich,dusterer
 qd,jn6k.0,60190,60727,dusterer,60504,60507,mir,dusterer
 qd,jn6k.0,60190,60727,dusterer,60612,60615,mir,dusterer
 qd,jn6k.0,60190,60727,dusterer,60645,60648,mir,dusterer
@@ -411,6 +425,7 @@ qd,jn6k.0,67407,68373,dusterer,67590,67593,ich,dusterer
 qd,jn6k.0,67407,68373,dusterer,67691,67695,mich,dusterer
 qd,jn6k.0,67407,68373,dusterer,67748,67751,mir,dusterer
 qd,jn6k.0,67407,68373,dusterer,67767,67770,ich,dusterer
+qd,jn6k.0,67407,68373,dusterer,67890,67893,ich,dusterer
 qd,jn6k.0,67407,68373,dusterer,67905,67908,ich,dusterer
 qd,jn6k.0,67407,68373,dusterer,67927,67930,ich,dusterer
 qd,jn6k.0,67407,68373,dusterer,67974,67978,mich,dusterer
@@ -453,6 +468,7 @@ qd,jn6k.0,70775,70894,wastl,70862,70866,mein,wastl
 qd,jn6k.0,72795,72847,natzl,72827,72830,mir,natzl
 qd,jn6k.0,72852,72971,bauer,72898,72901,ich,bauer
 qd,jn6k.0,72852,72971,bauer,72935,72938,mir,bauer
+qd,jn6k.0,73124,73233,bauer,73180,73183,ich,bauer
 qd,jn6k.0,73390,73444,natzl,73412,73415,mir,natzl
 qd,jn6k.0,73780,73903,bauer,73842,73845,ich,bauer
 qd,jn6k.0,73780,73903,bauer,73875,73878,ich,bauer
@@ -474,8 +490,10 @@ qd,jn6k.0,78216,78848,bäuerin,78707,78710,mir,bäuerin
 qd,jn6k.0,78853,78938,grillhofer,78926,78930,mich,grillhofer
 qd,jn6k.0,78943,78983,bäuerin,78964,78967,ich,bäuerin
 qd,jn6k.0,79028,79892,bäuerin,79215,79218,ich,bäuerin
+qd,jn6k.0,79028,79892,bäuerin,79297,79300,mir,bäuerin
 qd,jn6k.0,79028,79892,bäuerin,79350,79353,ich,bäuerin
 qd,jn6k.0,79028,79892,bäuerin,79476,79479,ich,bäuerin
+qd,jn6k.0,79028,79892,bäuerin,79501,79504,ich,bäuerin
 qd,jn6k.0,79028,79892,bäuerin,79543,79547,mich,bäuerin
 qd,jn6k.0,79028,79892,bäuerin,79572,79575,ich,bäuerin
 qd,jn6k.0,79028,79892,bäuerin,79664,79667,ich,bäuerin
@@ -533,6 +551,7 @@ qd,jn6k.0,87848,87993,dusterer,87920,87924,mein,dusterer
 qd,jn6k.0,88820,88922,grillhofer,88882,88886,mich,grillhofer
 qd,jn6k.0,88927,89029,dusterer,89022,89025,ich,dusterer
 qd,jn6k.0,89195,89244,grillhofer,89219,89222,ich,grillhofer
+qd,jn6k.0,89249,89345,dusterer,89321,89324,ich,dusterer
 qd,jn6k.0,89447,89606,dusterer,89593,89596,ich,dusterer
 qd,jn6k.0,89611,89692,grillhofer,89645,89648,ich,grillhofer
 qd,jn6k.0,89611,89692,grillhofer,89683,89687,mein,grillhofer
@@ -553,6 +572,7 @@ qd,jn6k.0,91087,91863,grillhofer,91213,91217,mein,grillhofer
 qd,jn6k.0,91087,91863,grillhofer,91265,91268,ich,grillhofer
 qd,jn6k.0,91087,91863,grillhofer,91379,91383,mich,grillhofer
 qd,jn6k.0,91087,91863,grillhofer,91469,91472,ich,grillhofer
+qd,jn6k.0,91087,91863,grillhofer,91486,91490,mich,grillhofer
 qd,jn6k.0,91087,91863,grillhofer,91526,91529,ich,grillhofer
 qd,jn6k.0,91087,91863,grillhofer,91538,91542,mich,grillhofer
 qd,jn6k.0,91087,91863,grillhofer,91571,91574,mir,grillhofer
@@ -579,6 +599,7 @@ qd,jn6k.0,94439,95066,liesel,94953,94957,mich,liesel
 qd,jn6k.0,94439,95066,liesel,95052,95055,mir,liesel
 qd,jn6k.0,95188,95348,liesel,95235,95238,ich,liesel
 qd,jn6k.0,95484,96627,grillhofer,95576,95579,ich,grillhofer
+qd,jn6k.0,95484,96627,grillhofer,95709,95712,ich,grillhofer
 qd,jn6k.0,95484,96627,grillhofer,95737,95741,mich,grillhofer
 qd,jn6k.0,95484,96627,grillhofer,95743,95746,Ich,grillhofer
 qd,jn6k.0,95484,96627,grillhofer,95747,95751,mein,grillhofer
@@ -599,6 +620,7 @@ qd,jn6k.0,96731,96917,grillhofer,96796,96799,mir,grillhofer
 qd,jn6k.0,96731,96917,grillhofer,96810,96813,mir,grillhofer
 qd,jn6k.0,96731,96917,grillhofer,96815,96819,mein,grillhofer
 qd,jn6k.0,96922,97608,grillhofer,96971,96974,ich,grillhofer
+qd,jn6k.0,96922,97608,grillhofer,97103,97106,ich,grillhofer
 qd,jn6k.0,96922,97608,grillhofer,97131,97135,mich,grillhofer
 qd,jn6k.0,96922,97608,grillhofer,97139,97143,mein,grillhofer
 qd,jn6k.0,96922,97608,grillhofer,97145,97148,ich,grillhofer

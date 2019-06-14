@@ -2,6 +2,7 @@ corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mention
 qd,wzps.0,716,1540,gurnemanz,1288,1291,ich,gurnemanz
 qd,wzps.0,716,1540,gurnemanz,1505,1508,ich,gurnemanz
 qd,wzps.0,3071,3484,kundry,3215,3218,Ich,kundry
+qd,wzps.0,3489,4039,gurnemanz,3556,3559,ich,gurnemanz
 qd,wzps.0,3489,4039,gurnemanz,3958,3962,mich,gurnemanz
 qd,wzps.0,4226,4497,amfortas,4399,4402,mir,amfortas
 qd,wzps.0,4226,4497,amfortas,4417,4420,Ich,amfortas
@@ -69,6 +70,7 @@ qd,wzps.0,21494,21640,titurel,21567,21570,ich,titurel
 qd,wzps.0,21646,23397,amfortas,21767,21770,mir,amfortas
 qd,wzps.0,21646,23397,amfortas,21938,21941,ich,amfortas
 qd,wzps.0,21646,23397,amfortas,21954,21957,ich,amfortas
+qd,wzps.0,21646,23397,amfortas,22192,22196,mich,amfortas
 qd,wzps.0,21646,23397,amfortas,22253,22256,ich,amfortas
 qd,wzps.0,21646,23397,amfortas,22529,22532,ich,amfortas
 qd,wzps.0,21646,23397,amfortas,22548,22552,mein,amfortas

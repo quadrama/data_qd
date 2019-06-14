@@ -426,6 +426,7 @@ qd,r0gb.0,59259,59286,köhlerjunge,59273,59276,Ich,köhlerjunge
 qd,r0gb.0,59348,59792,köhlerjunge,59620,59623,mir,köhlerjunge
 qd,r0gb.0,59348,59792,köhlerjunge,59701,59705,mich,köhlerjunge
 qd,r0gb.0,59348,59792,köhlerjunge,59728,59732,mich,köhlerjunge
+qd,r0gb.0,59348,59792,köhlerjunge,59742,59745,ich,köhlerjunge
 qd,r0gb.0,59962,60144,köhlerjunge,59997,60000,ich,köhlerjunge
 qd,r0gb.0,59962,60144,köhlerjunge,60004,60007,Ich,köhlerjunge
 qd,r0gb.0,60335,60389,köhlerjunge,60375,60379,mich,köhlerjunge
@@ -461,6 +462,7 @@ qd,r0gb.0,63684,63848,der_graf_vom_strahl,63762,63765,mir,der_graf_vom_strahl
 qd,r0gb.0,63684,63848,der_graf_vom_strahl,63782,63785,ich,der_graf_vom_strahl
 qd,r0gb.0,64050,64209,der_graf_vom_strahl,64086,64089,mir,der_graf_vom_strahl
 qd,r0gb.0,64537,64635,der_graf_vom_strahl,64594,64597,ich,der_graf_vom_strahl
+qd,r0gb.0,64921,65049,der_graf_vom_strahl,64963,64966,mir,der_graf_vom_strahl
 qd,r0gb.0,65302,65332,kunigunde,65313,65316,Ich,kunigunde
 qd,r0gb.0,65389,65485,kunigunde,65467,65470,mir,kunigunde
 qd,r0gb.0,65689,65745,kunigunde,65716,65722,meinen,kunigunde
@@ -587,6 +589,7 @@ qd,r0gb.0,79644,79842,der_graf_vom_strahl,79817,79822,meine,der_graf_vom_strahl
 qd,r0gb.0,79848,80093,kunigunde,79929,79932,ich,kunigunde
 qd,r0gb.0,79848,80093,kunigunde,79966,79970,mich,kunigunde
 qd,r0gb.0,79848,80093,kunigunde,80004,80008,mein,kunigunde
+qd,r0gb.0,79848,80093,kunigunde,80072,80075,ich,kunigunde
 qd,r0gb.0,80099,80443,der_graf_vom_strahl,80130,80134,mein,der_graf_vom_strahl
 qd,r0gb.0,80099,80443,der_graf_vom_strahl,80184,80187,ich,der_graf_vom_strahl
 qd,r0gb.0,80099,80443,der_graf_vom_strahl,80199,80202,mir,der_graf_vom_strahl
@@ -628,6 +631,7 @@ qd,r0gb.0,82670,82786,der_graf_vom_strahl,82724,82727,mir,der_graf_vom_strahl
 qd,r0gb.0,82792,82860,gräfin,82817,82820,Ich,gräfin
 qd,r0gb.0,82792,82860,gräfin,82842,82845,mir,gräfin
 qd,r0gb.0,82866,82987,der_graf_vom_strahl,82888,82891,Ich,der_graf_vom_strahl
+qd,r0gb.0,83077,83124,der_graf_vom_strahl,83107,83110,ich,der_graf_vom_strahl
 qd,r0gb.0,83326,83569,theobald_friedeborn,83356,83360,mein,theobald_friedeborn
 qd,r0gb.0,83326,83569,theobald_friedeborn,83506,83509,ich,theobald_friedeborn
 qd,r0gb.0,83326,83569,theobald_friedeborn,83546,83549,ich,theobald_friedeborn
@@ -803,6 +807,7 @@ qd,r0gb.0,109806,109890,der_graf_vom_strahl,109844,109847,Ich,der_graf_vom_strah
 qd,r0gb.0,109896,110116,kunigunde,109938,109941,ich,kunigunde
 qd,r0gb.0,109896,110116,kunigunde,109971,109974,mir,kunigunde
 qd,r0gb.0,109896,110116,kunigunde,110063,110066,mir,kunigunde
+qd,r0gb.0,109896,110116,kunigunde,110106,110109,ich,kunigunde
 qd,r0gb.0,110487,110551,käthchen,110527,110530,Ich,käthchen
 qd,r0gb.0,110906,110971,der_graf_vom_strahl,110927,110931,Mein,der_graf_vom_strahl
 qd,r0gb.0,110906,110971,der_graf_vom_strahl,110954,110957,ich,der_graf_vom_strahl
@@ -811,6 +816,7 @@ qd,r0gb.0,111457,111600,käthchen,111557,111561,mich,käthchen
 qd,r0gb.0,111811,111854,der_graf_vom_strahl,111844,111848,mein,der_graf_vom_strahl
 qd,r0gb.0,111886,111976,der_graf_vom_strahl,111924,111927,ich,der_graf_vom_strahl
 qd,r0gb.0,112069,112222,kunigunde,112147,112150,ich,kunigunde
+qd,r0gb.0,112069,112222,kunigunde,112151,112155,mich,kunigunde
 qd,r0gb.0,112259,112407,der_graf_vom_strahl,112301,112304,Ich,der_graf_vom_strahl
 qd,r0gb.0,112259,112407,der_graf_vom_strahl,112339,112343,mich,der_graf_vom_strahl
 qd,r0gb.0,112259,112407,der_graf_vom_strahl,112369,112373,mich,der_graf_vom_strahl
@@ -853,6 +859,7 @@ qd,r0gb.0,117790,117847,der_graf_vom_strahl,117837,117841,mein,der_graf_vom_stra
 qd,r0gb.0,117905,118051,käthchen,117916,117919,Ich,käthchen
 qd,r0gb.0,117905,118051,käthchen,117942,117946,mein,käthchen
 qd,r0gb.0,117905,118051,käthchen,118015,118018,ich,käthchen
+qd,r0gb.0,118141,118211,käthchen,118157,118160,ich,käthchen
 qd,r0gb.0,118217,118359,der_graf_vom_strahl,118251,118255,mein,der_graf_vom_strahl
 qd,r0gb.0,118217,118359,der_graf_vom_strahl,118275,118278,Ich,der_graf_vom_strahl
 qd,r0gb.0,118501,118634,käthchen,118519,118523,mich,käthchen
@@ -1087,6 +1094,7 @@ qd,r0gb.0,145573,146172,der_graf_vom_strahl,145651,145657,meiner,der_graf_vom_st
 qd,r0gb.0,145573,146172,der_graf_vom_strahl,145788,145791,mir,der_graf_vom_strahl
 qd,r0gb.0,145573,146172,der_graf_vom_strahl,145836,145839,ich,der_graf_vom_strahl
 qd,r0gb.0,145573,146172,der_graf_vom_strahl,145858,145861,mir,der_graf_vom_strahl
+qd,r0gb.0,145573,146172,der_graf_vom_strahl,145873,145876,ich,der_graf_vom_strahl
 qd,r0gb.0,145573,146172,der_graf_vom_strahl,145989,145992,ich,der_graf_vom_strahl
 qd,r0gb.0,145573,146172,der_graf_vom_strahl,146023,146026,ich,der_graf_vom_strahl
 qd,r0gb.0,145573,146172,der_graf_vom_strahl,146094,146100,meines,der_graf_vom_strahl

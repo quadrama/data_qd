@@ -74,6 +74,7 @@ qd,vn3v.0,13822,15451,falstaff,15342,15345,ich,falstaff
 qd,vn3v.0,13822,15451,falstaff,15414,15420,meinem,falstaff
 qd,vn3v.0,15635,16540,falstaff,16085,16088,Ich,falstaff
 qd,vn3v.0,15635,16540,falstaff,16095,16098,mir,falstaff
+qd,vn3v.0,15635,16540,falstaff,16155,16158,mir,falstaff
 qd,vn3v.0,15635,16540,falstaff,16192,16195,Ich,falstaff
 qd,vn3v.0,15635,16540,falstaff,16214,16217,mir,falstaff
 qd,vn3v.0,15635,16540,falstaff,16263,16266,ich,falstaff
@@ -391,6 +392,7 @@ qd,vn3v.0,56616,56962,zweiter_küfer,56825,56829,mich,zweiter_küfer
 qd,vn3v.0,57509,57619,zweiter_küfer,57525,57528,Ich,zweiter_küfer
 qd,vn3v.0,57509,57619,zweiter_küfer,57544,57547,ich,zweiter_küfer
 qd,vn3v.0,57625,58051,wirtin,57656,57660,mich,wirtin
+qd,vn3v.0,57625,58051,wirtin,57815,57818,mir,wirtin
 qd,vn3v.0,58368,58440,wirtin,58427,58433,meiner,wirtin
 qd,vn3v.0,58543,58619,dortchen,58601,58604,ich,dortchen
 qd,vn3v.0,58686,58760,dortchen,58697,58700,Ich,dortchen
@@ -421,6 +423,9 @@ qd,vn3v.0,61969,62265,wirtin,62115,62118,ich,wirtin
 qd,vn3v.0,61969,62265,wirtin,62133,62139,meiner,wirtin
 qd,vn3v.0,61969,62265,wirtin,62146,62149,mir,wirtin
 qd,vn3v.0,61969,62265,wirtin,62223,62226,ich,wirtin
+qd,vn3v.0,61969,62265,wirtin,62251,62254,mir,wirtin
+qd,vn3v.0,62311,62459,wirtin,62324,62327,ich,wirtin
+qd,vn3v.0,62311,62459,wirtin,62356,62359,ich,wirtin
 qd,vn3v.0,62311,62459,wirtin,62382,62385,ich,wirtin
 qd,vn3v.0,62505,62635,falstaff,62560,62563,ich,falstaff
 qd,vn3v.0,62640,62706,pistol,62649,62652,Ich,pistol
@@ -465,6 +470,7 @@ qd,vn3v.0,66945,67006,dortchen,66978,66981,ich,dortchen
 qd,vn3v.0,67092,67376,wirtin,67109,67112,mir,wirtin
 qd,vn3v.0,67092,67376,wirtin,67134,67137,Ich,wirtin
 qd,vn3v.0,67092,67376,wirtin,67191,67194,ich,wirtin
+qd,vn3v.0,67092,67376,wirtin,67261,67264,mir,wirtin
 qd,vn3v.0,67382,67485,dortchen,67393,67396,Ich,dortchen
 qd,vn3v.0,67490,67626,wirtin,67539,67543,Mich,wirtin
 qd,vn3v.0,67775,67817,falstaff,67802,67805,Mir,falstaff
@@ -595,6 +601,8 @@ qd,vn3v.0,87834,87880,falstaff,87850,87854,mich,falstaff
 qd,vn3v.0,87834,87880,falstaff,87865,87868,ich,falstaff
 qd,vn3v.0,87885,88169,schaal,88016,88019,ich,schaal
 qd,vn3v.0,87885,88169,schaal,88077,88080,ich,schaal
+qd,vn3v.0,87885,88169,schaal,88102,88105,mir,schaal
+qd,vn3v.0,87885,88169,schaal,88124,88127,mir,schaal
 qd,vn3v.0,88669,88983,schimmelig,88698,88701,mir,schimmelig
 qd,vn3v.0,88669,88983,schimmelig,88746,88750,mich,schimmelig
 qd,vn3v.0,88669,88983,schimmelig,88772,88777,Meine,schimmelig
@@ -714,6 +722,7 @@ qd,vn3v.0,103369,104972,erzbischof,104127,104130,ich,erzbischof
 qd,vn3v.0,105257,105389,erzbischof,105355,105361,meinem,erzbischof
 qd,vn3v.0,105257,105389,erzbischof,105385,105388,mir,erzbischof
 qd,vn3v.0,105713,106102,westmoreland,105730,105734,mein,westmoreland
+qd,vn3v.0,105713,106102,westmoreland,105913,105916,mir,westmoreland
 qd,vn3v.0,106108,106840,mowbray,106141,106145,mein,mowbray
 qd,vn3v.0,106108,106840,mowbray,106169,106172,mir,mowbray
 qd,vn3v.0,106108,106840,mowbray,106575,106581,meinen,mowbray
@@ -959,6 +968,7 @@ qd,vn3v.0,143454,143682,könig_heinrich,143619,143624,meine,könig_heinrich
 qd,vn3v.0,143728,143822,könig_heinrich,143796,143799,ich,könig_heinrich
 qd,vn3v.0,143828,143873,warwick,143857,143861,mein,warwick
 qd,vn3v.0,143878,144159,könig_heinrich,143923,143927,mein,könig_heinrich
+qd,vn3v.0,143878,144159,könig_heinrich,143965,143968,mir,könig_heinrich
 qd,vn3v.0,143878,144159,könig_heinrich,143984,143987,Ich,könig_heinrich
 qd,vn3v.0,143878,144159,könig_heinrich,144032,144035,ich,könig_heinrich
 qd,vn3v.0,143878,144159,könig_heinrich,144074,144078,mich,könig_heinrich
@@ -1153,6 +1163,7 @@ qd,vn3v.0,167644,167690,falstaff,167654,167657,Ich,falstaff
 qd,vn3v.0,167817,167869,falstaff,167846,167850,Mein,falstaff
 qd,vn3v.0,168097,168157,falstaff,168107,168111,Mein,falstaff
 qd,vn3v.0,168097,168157,falstaff,168119,168123,Mein,falstaff
+qd,vn3v.0,168097,168157,falstaff,168139,168142,ich,falstaff
 qd,vn3v.0,168097,168157,falstaff,168147,168151,mein,falstaff
 qd,vn3v.0,168162,169340,prinz_heinrich,168170,168173,Ich,prinz_heinrich
 qd,vn3v.0,168162,169340,prinz_heinrich,168268,168271,Ich,prinz_heinrich

@@ -1,6 +1,7 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
 qd,pvxf.0,1018,1298,diener,1047,1051,mich,diener
 qd,pvxf.0,1018,1298,diener,1065,1068,ich,diener
+qd,pvxf.0,1018,1298,diener,1087,1090,ich,diener
 qd,pvxf.0,1018,1298,diener,1117,1121,mich,diener
 qd,pvxf.0,1018,1298,diener,1178,1181,Ich,diener
 qd,pvxf.0,1018,1298,diener,1208,1211,ich,diener
@@ -85,6 +86,7 @@ qd,pvxf.0,11594,11761,borís,11707,11710,ich,borís
 qd,pvxf.0,11766,12532,borís,11790,11793,Ich,borís
 qd,pvxf.0,11766,12532,borís,11810,11813,mir,borís
 qd,pvxf.0,11766,12532,borís,11882,11885,ich,borís
+qd,pvxf.0,11766,12532,borís,11897,11900,ich,borís
 qd,pvxf.0,11766,12532,borís,11926,11929,mir,borís
 qd,pvxf.0,11766,12532,borís,11979,11982,Ich,borís
 qd,pvxf.0,11766,12532,borís,12126,12129,mir,borís
@@ -95,6 +97,7 @@ qd,pvxf.0,11766,12532,borís,12476,12482,meiner,borís
 qd,pvxf.0,12597,12713,borís,12640,12643,Ich,borís
 qd,pvxf.0,12597,12713,borís,12651,12654,mir,borís
 qd,pvxf.0,12597,12713,borís,12685,12688,Ich,borís
+qd,pvxf.0,12753,13078,borís,12774,12777,ich,borís
 qd,pvxf.0,12753,13078,borís,12811,12815,mich,borís
 qd,pvxf.0,12753,13078,borís,12916,12919,ich,borís
 qd,pvxf.0,13084,13170,maria,13106,13109,Ich,maria
@@ -135,6 +138,7 @@ qd,pvxf.0,15709,16611,borís,16233,16236,ich,borís
 qd,pvxf.0,15709,16611,borís,16296,16301,meine,borís
 qd,pvxf.0,15709,16611,borís,16382,16386,mein,borís
 qd,pvxf.0,16617,16668,repnín,16649,16652,Ich,repnín
+qd,pvxf.0,16674,16927,borís,16753,16756,ich,borís
 qd,pvxf.0,16674,16927,borís,16807,16810,ich,borís
 qd,pvxf.0,16674,16927,borís,16874,16877,mir,borís
 qd,pvxf.0,16963,17129,borís,16991,16994,Ich,borís
@@ -454,6 +458,7 @@ qd,pvxf.0,54139,56589,borís,55202,55205,ich,borís
 qd,pvxf.0,54139,56589,borís,55213,55217,Mein,borís
 qd,pvxf.0,54139,56589,borís,55450,55453,mir,borís
 qd,pvxf.0,54139,56589,borís,55584,55587,ich,borís
+qd,pvxf.0,54139,56589,borís,55912,55915,ich,borís
 qd,pvxf.0,54139,56589,borís,55981,55984,ich,borís
 qd,pvxf.0,54139,56589,borís,55993,55996,ich,borís
 qd,pvxf.0,54139,56589,borís,56082,56086,mich,borís
@@ -519,6 +524,7 @@ qd,pvxf.0,61280,62188,borís,61400,61403,mir,borís
 qd,pvxf.0,61280,62188,borís,61422,61425,Mir,borís
 qd,pvxf.0,61280,62188,borís,61430,61434,mein,borís
 qd,pvxf.0,61280,62188,borís,61479,61482,ich,borís
+qd,pvxf.0,61280,62188,borís,61493,61496,ich,borís
 qd,pvxf.0,61280,62188,borís,61531,61534,ich,borís
 qd,pvxf.0,61280,62188,borís,61671,61674,ich,borís
 qd,pvxf.0,61280,62188,borís,61705,61709,Mich,borís
@@ -555,6 +561,7 @@ qd,pvxf.0,67339,67428,borís,67353,67356,ich,borís
 qd,pvxf.0,68093,69221,der_rotbart,68962,68965,Ich,der_rotbart
 qd,pvxf.0,69606,69922,borís,69620,69623,ich,borís
 qd,pvxf.0,69606,69922,borís,69666,69669,ich,borís
+qd,pvxf.0,69606,69922,borís,69736,69739,ich,borís
 qd,pvxf.0,69606,69922,borís,69756,69760,mich,borís
 qd,pvxf.0,69606,69922,borís,69787,69791,mich,borís
 qd,pvxf.0,69606,69922,borís,69830,69833,mir,borís
@@ -625,12 +632,14 @@ qd,pvxf.0,77666,77958,borís,77922,77925,ich,borís
 qd,pvxf.0,77964,78168,ksénja,77977,77980,mir,ksénja
 qd,pvxf.0,77964,78168,ksénja,77990,77993,Ich,ksénja
 qd,pvxf.0,77964,78168,ksénja,78015,78018,ich,ksénja
+qd,pvxf.0,77964,78168,ksénja,78039,78042,ich,ksénja
 qd,pvxf.0,77964,78168,ksénja,78092,78095,ich,ksénja
 qd,pvxf.0,77964,78168,ksénja,78116,78119,ich,ksénja
 qd,pvxf.0,78214,78284,borís,78269,78273,mich,borís
 qd,pvxf.0,78361,78378,ksénja,78369,78372,Ich,ksénja
 qd,pvxf.0,78383,78443,borís,78417,78420,mir,borís
 qd,pvxf.0,78727,79538,ksénja,78736,78739,Ich,ksénja
+qd,pvxf.0,78727,79538,ksénja,78761,78764,ich,ksénja
 qd,pvxf.0,78727,79538,ksénja,78795,78798,ich,ksénja
 qd,pvxf.0,78727,79538,ksénja,78817,78820,mir,ksénja
 qd,pvxf.0,78727,79538,ksénja,78854,78857,ich,ksénja
@@ -659,6 +668,8 @@ qd,pvxf.0,79936,80131,borís,80038,80041,ich,borís
 qd,pvxf.0,79936,80131,borís,80092,80095,ich,borís
 qd,pvxf.0,79936,80131,borís,80126,80129,ich,borís
 qd,pvxf.0,80168,81249,borís,80187,80190,mir,borís
+qd,pvxf.0,80168,81249,borís,80504,80507,ich,borís
+qd,pvxf.0,80168,81249,borís,80523,80526,ich,borís
 qd,pvxf.0,80168,81249,borís,80897,80900,Ich,borís
 qd,pvxf.0,80168,81249,borís,80913,80916,ich,borís
 qd,pvxf.0,80168,81249,borís,80940,80943,Ich,borís

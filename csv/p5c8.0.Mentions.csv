@@ -195,6 +195,7 @@ qd,p5c8.0,28614,28925,lady,28730,28733,ich,lady
 qd,p5c8.0,28614,28925,lady,28859,28865,meiner,lady
 qd,p5c8.0,29071,29088,lady,29078,29082,Mein,lady
 qd,p5c8.0,29161,29326,savage,29262,29265,ich,savage
+qd,p5c8.0,29161,29326,savage,29317,29320,ich,savage
 qd,p5c8.0,29331,29358,lady,29348,29352,mein,lady
 qd,p5c8.0,29392,29423,lady,29409,29413,mich,lady
 qd,p5c8.0,29508,29753,lady,29542,29545,Ich,lady
@@ -295,6 +296,7 @@ qd,p5c8.0,47159,49493,savage,47707,47710,ich,savage
 qd,p5c8.0,47159,49493,savage,47897,47903,meiner,savage
 qd,p5c8.0,47159,49493,savage,48023,48026,ich,savage
 qd,p5c8.0,47159,49493,savage,48290,48293,ich,savage
+qd,p5c8.0,47159,49493,savage,48300,48303,mir,savage
 qd,p5c8.0,47159,49493,savage,48476,48480,mich,savage
 qd,p5c8.0,47159,49493,savage,48503,48507,mich,savage
 qd,p5c8.0,47159,49493,savage,48560,48563,ich,savage
@@ -399,6 +401,7 @@ qd,p5c8.0,61548,63727,lady,63358,63362,mein,lady
 qd,p5c8.0,61548,63727,lady,63485,63489,mein,lady
 qd,p5c8.0,61548,63727,lady,63541,63544,ich,lady
 qd,p5c8.0,61548,63727,lady,63590,63593,ich,lady
+qd,p5c8.0,61548,63727,lady,63624,63627,ich,lady
 qd,p5c8.0,61548,63727,lady,63682,63685,ich,lady
 qd,p5c8.0,64110,64225,savage,64143,64146,ich,savage
 qd,p5c8.0,64110,64225,savage,64182,64185,mir,savage
@@ -448,6 +451,7 @@ qd,p5c8.0,74343,74599,lady,74350,74353,Ich,lady
 qd,p5c8.0,74604,74791,weibliche_stimme_miss_ellen,74662,74665,ich,weibliche_stimme_miss_ellen
 qd,p5c8.0,74604,74791,weibliche_stimme_miss_ellen,74667,74670,Ich,weibliche_stimme_miss_ellen
 qd,p5c8.0,74797,74997,lady,74804,74807,Ich,lady
+qd,p5c8.0,74797,74997,lady,74826,74829,ich,lady
 qd,p5c8.0,74797,74997,lady,74875,74879,mein,lady
 qd,p5c8.0,74797,74997,lady,74923,74927,mich,lady
 qd,p5c8.0,74797,74997,lady,74960,74963,ich,lady
@@ -731,6 +735,7 @@ qd,p5c8.0,121994,122142,kitty,122062,122065,mir,kitty
 qd,p5c8.0,122147,122687,toms,122357,122360,ich,toms
 qd,p5c8.0,122763,123295,toms,123102,123105,mir,toms
 qd,p5c8.0,122763,123295,toms,123235,123238,mir,toms
+qd,p5c8.0,122763,123295,toms,123250,123253,ich,toms
 qd,p5c8.0,123627,124077,toms,123677,123680,ich,toms
 qd,p5c8.0,123627,124077,toms,123958,123961,ich,toms
 qd,p5c8.0,124169,124254,bursche,124184,124187,ich,bursche
@@ -785,6 +790,7 @@ qd,p5c8.0,132105,132549,kitty,132157,132160,ich,kitty
 qd,p5c8.0,132105,132549,kitty,132169,132172,mir,kitty
 qd,p5c8.0,132105,132549,kitty,132209,132212,ich,kitty
 qd,p5c8.0,132105,132549,kitty,132345,132348,ich,kitty
+qd,p5c8.0,132105,132549,kitty,132425,132428,ich,kitty
 qd,p5c8.0,132585,133256,kitty,132844,132847,ich,kitty
 qd,p5c8.0,132585,133256,kitty,132887,132890,ich,kitty
 qd,p5c8.0,132585,133256,kitty,132901,132906,meine,kitty

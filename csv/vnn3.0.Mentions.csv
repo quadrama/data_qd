@@ -45,6 +45,7 @@ qd,vnn3.0,7570,8037,doktor_faust,7961,7964,mir,doktor_faust
 qd,vnn3.0,8121,8259,doktor_faust,8163,8168,meine,doktor_faust
 qd,vnn3.0,8121,8259,doktor_faust,8194,8197,mir,doktor_faust
 qd,vnn3.0,8616,9001,doktor_faust,8642,8645,Ich,doktor_faust
+qd,vnn3.0,8616,9001,doktor_faust,8721,8724,ich,doktor_faust
 qd,vnn3.0,8616,9001,doktor_faust,8744,8747,Ich,doktor_faust
 qd,vnn3.0,8616,9001,doktor_faust,8756,8761,meine,doktor_faust
 qd,vnn3.0,8616,9001,doktor_faust,8769,8774,meine,doktor_faust
@@ -54,6 +55,7 @@ qd,vnn3.0,8616,9001,doktor_faust,8967,8970,ich,doktor_faust
 qd,vnn3.0,9054,9391,doktor_faust,9151,9154,ich,doktor_faust
 qd,vnn3.0,9054,9391,doktor_faust,9160,9165,meine,doktor_faust
 qd,vnn3.0,9054,9391,doktor_faust,9189,9192,ich,doktor_faust
+qd,vnn3.0,9054,9391,doktor_faust,9344,9347,mir,doktor_faust
 qd,vnn3.0,9054,9391,doktor_faust,9374,9377,ich,doktor_faust
 qd,vnn3.0,10075,10907,doktor_faust,10234,10237,ich,doktor_faust
 qd,vnn3.0,10075,10907,doktor_faust,10283,10286,mir,doktor_faust
@@ -466,6 +468,7 @@ qd,vnn3.0,66323,66375,doktor_faust,66366,66369,ich,doktor_faust
 qd,vnn3.0,66454,66499,doktor_faust,66476,66479,ich,doktor_faust
 qd,vnn3.0,66504,66571,fausts_vater,66529,66532,ich,fausts_vater
 qd,vnn3.0,66504,66571,fausts_vater,66538,66543,meine,fausts_vater
+qd,vnn3.0,66627,66761,fausts_vater,66657,66660,mir,fausts_vater
 qd,vnn3.0,66627,66761,fausts_vater,66674,66677,ich,fausts_vater
 qd,vnn3.0,66944,67024,fausts_vater,67013,67016,ich,fausts_vater
 qd,vnn3.0,67224,67354,doktor_faust,67244,67247,mir,doktor_faust
@@ -623,6 +626,7 @@ qd,vnn3.0,89169,89496,doktor_faust,89184,89187,Ich,doktor_faust
 qd,vnn3.0,89169,89496,doktor_faust,89294,89298,mich,doktor_faust
 qd,vnn3.0,89169,89496,doktor_faust,89326,89329,ich,doktor_faust
 qd,vnn3.0,89169,89496,doktor_faust,89378,89384,meiner,doktor_faust
+qd,vnn3.0,89803,89855,doktor_faust,89827,89830,ich,doktor_faust
 qd,vnn3.0,89929,90162,doktor_faust,89979,89984,meine,doktor_faust
 qd,vnn3.0,89929,90162,doktor_faust,90049,90052,mir,doktor_faust
 qd,vnn3.0,89929,90162,doktor_faust,90138,90141,Ich,doktor_faust
@@ -715,6 +719,7 @@ qd,vnn3.0,107119,107283,doktor_faust,107184,107187,mir,doktor_faust
 qd,vnn3.0,107119,107283,doktor_faust,107254,107258,mein,doktor_faust
 qd,vnn3.0,107330,107430,doktor_faust,107345,107349,Mein,doktor_faust
 qd,vnn3.0,107435,107933,mephistopheles,107459,107462,mir,mephistopheles
+qd,vnn3.0,107435,107933,mephistopheles,107524,107527,mir,mephistopheles
 qd,vnn3.0,107938,107989,doktor_faust,107985,107988,mir,doktor_faust
 qd,vnn3.0,108288,108721,doktor_faust,108332,108335,ich,doktor_faust
 qd,vnn3.0,108288,108721,doktor_faust,108345,108349,mich,doktor_faust
@@ -791,6 +796,7 @@ qd,vnn3.0,123709,123941,fausts_vater,123818,123821,mir,fausts_vater
 qd,vnn3.0,123709,123941,fausts_vater,123874,123877,ich,fausts_vater
 qd,vnn3.0,124461,124483,reisender,124473,124476,Ich,reisender
 qd,vnn3.0,124691,124742,reisender,124728,124731,ich,reisender
+qd,vnn3.0,125847,125880,fausts_vater,125869,125872,ich,fausts_vater
 qd,vnn3.0,126046,126071,doktor_faust,126061,126064,Ich,doktor_faust
 qd,vnn3.0,126188,126227,fausts_mutter,126217,126221,Mein,fausts_mutter
 qd,vnn3.0,126283,126318,fausts_vater,126298,126302,Mein,fausts_vater
@@ -846,9 +852,11 @@ qd,vnn3.0,133374,133507,doktor_faust,133390,133393,Ich,doktor_faust
 qd,vnn3.0,133374,133507,doktor_faust,133416,133419,ich,doktor_faust
 qd,vnn3.0,133374,133507,doktor_faust,133496,133500,mich,doktor_faust
 qd,vnn3.0,134151,134176,doktor_faust,134172,134175,mir,doktor_faust
+qd,vnn3.0,134268,134303,doktor_faust,134287,134290,ich,doktor_faust
 qd,vnn3.0,134711,134763,doktor_faust,134726,134729,Ich,doktor_faust
 qd,vnn3.0,134711,134763,doktor_faust,134758,134762,mich,doktor_faust
 qd,vnn3.0,134916,134952,liese,134930,134933,ich,liese
+qd,vnn3.0,135017,135176,doktor_faust,135162,135166,mich,doktor_faust
 qd,vnn3.0,135247,135318,doktor_faust,135262,135265,Ich,doktor_faust
 qd,vnn3.0,135247,135318,doktor_faust,135278,135281,Ich,doktor_faust
 qd,vnn3.0,135358,135521,doktor_faust,135373,135376,Ich,doktor_faust
@@ -865,6 +873,7 @@ qd,vnn3.0,136219,136349,doktor_faust,136251,136254,Ich,doktor_faust
 qd,vnn3.0,136219,136349,doktor_faust,136288,136291,mir,doktor_faust
 qd,vnn3.0,137233,137289,doktor_faust,137248,137251,Ich,doktor_faust
 qd,vnn3.0,137233,137289,doktor_faust,137284,137288,mich,doktor_faust
+qd,vnn3.0,137495,137524,doktor_faust,137518,137521,mir,doktor_faust
 qd,vnn3.0,137554,137735,doktor_faust,137592,137595,ich,doktor_faust
 qd,vnn3.0,137554,137735,doktor_faust,137646,137652,meinem,doktor_faust
 qd,vnn3.0,137808,138082,doktor_faust,137828,137832,mich,doktor_faust

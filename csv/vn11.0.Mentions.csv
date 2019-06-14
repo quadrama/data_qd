@@ -110,6 +110,7 @@ qd,vn11.0,11604,12750,helena,12680,12685,meine,helena
 qd,vn11.0,13503,13670,zettel,13541,13544,ich,zettel
 qd,vn11.0,13675,13740,squenz,13699,13702,ich,squenz
 qd,vn11.0,13746,13812,zettel,13771,13774,ich,zettel
+qd,vn11.0,14025,14718,zettel,14105,14108,ich,zettel
 qd,vn11.0,14025,14718,zettel,14158,14161,Ich,zettel
 qd,vn11.0,14025,14718,zettel,14182,14185,ich,zettel
 qd,vn11.0,14025,14718,zettel,14255,14258,ich,zettel
@@ -188,6 +189,7 @@ qd,vn11.0,26262,26343,droll,26293,26296,ich,droll
 qd,vn11.0,26349,26877,oberon,26363,26366,ich,oberon
 qd,vn11.0,26349,26877,oberon,26400,26403,ich,oberon
 qd,vn11.0,26349,26877,oberon,26641,26644,ich,oberon
+qd,vn11.0,26349,26877,oberon,26678,26681,ich,oberon
 qd,vn11.0,26349,26877,oberon,26724,26727,mir,oberon
 qd,vn11.0,26349,26877,oberon,26782,26785,Ich,oberon
 qd,vn11.0,26883,27204,demetrius,26895,26898,Ich,demetrius
@@ -455,6 +457,7 @@ qd,vn11.0,54316,54607,lysander,54436,54439,ich,lysander
 qd,vn11.0,54316,54607,lysander,54455,54458,ich,lysander
 qd,vn11.0,54614,54908,helena,54838,54842,mich,helena
 qd,vn11.0,54914,54972,lysander,54943,54947,mein,lysander
+qd,vn11.0,54977,55038,helena,55003,55006,ich,helena
 qd,vn11.0,55099,55472,demetrius,55150,55156,meiner,demetrius
 qd,vn11.0,55099,55472,demetrius,55181,55184,ich,demetrius
 qd,vn11.0,55099,55472,demetrius,55413,55417,mich,demetrius
@@ -480,6 +483,7 @@ qd,vn11.0,57351,57411,hermia,57396,57399,mir,hermia
 qd,vn11.0,57416,57669,lysander,57590,57594,mich,lysander
 qd,vn11.0,57416,57669,lysander,57627,57631,Mein,lysander
 qd,vn11.0,57416,57669,lysander,57647,57653,meines,lysander
+qd,vn11.0,57741,59008,helena,57806,57809,ich,helena
 qd,vn11.0,57741,59008,helena,57870,57874,mich,helena
 qd,vn11.0,57741,59008,helena,57968,57972,mich,helena
 qd,vn11.0,57741,59008,helena,58902,58906,mein,helena
@@ -726,7 +730,6 @@ qd,vn11.0,80460,80488,hermia,80477,80481,mein,hermia
 qd,vn11.0,80728,81960,zettel,80742,80746,mein,zettel
 qd,vn11.0,80728,81960,zettel,80769,80773,mich,zettel
 qd,vn11.0,80728,81960,zettel,80779,80782,ich,zettel
-qd,vn11.0,80728,81960,zettel,80800,80804,Mein,zettel
 qd,vn11.0,80728,81960,zettel,80985,80989,mich,zettel
 qd,vn11.0,80728,81960,zettel,81007,81010,Ich,zettel
 qd,vn11.0,80728,81960,zettel,81050,81053,Ich,zettel
@@ -737,6 +740,7 @@ qd,vn11.0,80728,81960,zettel,81296,81299,ich,zettel
 qd,vn11.0,80728,81960,zettel,81305,81308,mir,zettel
 qd,vn11.0,80728,81960,zettel,81324,81327,ich,zettel
 qd,vn11.0,80728,81960,zettel,81417,81420,mir,zettel
+qd,vn11.0,80728,81960,zettel,81436,81439,ich,zettel
 qd,vn11.0,80728,81960,zettel,81635,81639,mein,zettel
 qd,vn11.0,80728,81960,zettel,81653,81656,Ich,zettel
 qd,vn11.0,80728,81960,zettel,81693,81696,mir,zettel
@@ -746,6 +750,7 @@ qd,vn11.0,83032,83393,flaut,83273,83276,ich,flaut
 qd,vn11.0,83032,83393,flaut,83277,83281,mich,flaut
 qd,vn11.0,83527,83710,zettel,83546,83549,ich,zettel
 qd,vn11.0,83527,83710,zettel,83584,83588,mich,zettel
+qd,vn11.0,83527,83710,zettel,83611,83614,ich,zettel
 qd,vn11.0,83527,83710,zettel,83631,83634,ich,zettel
 qd,vn11.0,83527,83710,zettel,83659,83662,Ich,zettel
 qd,vn11.0,83759,84490,zettel,83803,83806,ich,zettel
@@ -760,6 +765,7 @@ qd,vn11.0,86816,87586,theseus,87132,87135,ich,theseus
 qd,vn11.0,86816,87586,theseus,87550,87553,mir,theseus
 qd,vn11.0,87592,88043,philostrat,87667,87670,ich,philostrat
 qd,vn11.0,87592,88043,philostrat,87856,87860,mein,philostrat
+qd,vn11.0,87592,88043,philostrat,87921,87924,ich,philostrat
 qd,vn11.0,87592,88043,philostrat,87942,87945,ich,philostrat
 qd,vn11.0,87592,88043,philostrat,87970,87973,mir,philostrat
 qd,vn11.0,88322,88570,philostrat,88392,88395,Ich,philostrat
@@ -791,6 +797,7 @@ qd,vn11.0,94325,94580,pyramus,94382,94386,mich,pyramus
 qd,vn11.0,94325,94580,pyramus,94437,94440,ich,pyramus
 qd,vn11.0,94325,94580,pyramus,94529,94532,ich,pyramus
 qd,vn11.0,94586,94803,thisbe,94641,94645,mein,thisbe
+qd,vn11.0,94586,94803,thisbe,94648,94652,Mein,thisbe
 qd,vn11.0,94586,94803,thisbe,94696,94699,mir,thisbe
 qd,vn11.0,94586,94803,thisbe,94702,94706,Mein,thisbe
 qd,vn11.0,94809,94942,pyramus,94832,94835,ich,pyramus
@@ -831,6 +838,7 @@ qd,vn11.0,98303,98477,mond,98467,98471,mein,mond
 qd,vn11.0,98626,98688,thisbe,98668,98672,mein,thisbe
 qd,vn11.0,99100,99596,pyramus,99111,99114,Ich,pyramus
 qd,vn11.0,99100,99596,pyramus,99273,99276,ich,pyramus
+qd,vn11.0,99100,99596,pyramus,99286,99290,mein,pyramus
 qd,vn11.0,99100,99596,pyramus,99431,99435,Mein,pyramus
 qd,vn11.0,99100,99596,pyramus,99442,99446,mein,pyramus
 qd,vn11.0,99715,99766,hippolyta,99731,99737,meiner,hippolyta

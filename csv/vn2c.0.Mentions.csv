@@ -31,6 +31,7 @@ qd,vn2c.0,4385,4779,polyxenes,4693,4696,mir,polyxenes
 qd,vn2c.0,4385,4779,polyxenes,4698,4702,mein,polyxenes
 qd,vn2c.0,4385,4779,polyxenes,4767,4771,mein,polyxenes
 qd,vn2c.0,4838,5115,hermione,4849,4852,Ich,hermione
+qd,vn2c.0,5154,5658,hermione,5366,5369,ich,hermione
 qd,vn2c.0,5154,5658,hermione,5439,5443,mein,hermione
 qd,vn2c.0,5154,5658,hermione,5465,5468,ich,hermione
 qd,vn2c.0,5154,5658,hermione,5600,5603,ich,hermione
@@ -53,6 +54,7 @@ qd,vn2c.0,7990,8557,hermione,8403,8406,ich,hermione
 qd,vn2c.0,7990,8557,hermione,8495,8498,ich,hermione
 qd,vn2c.0,7990,8557,hermione,8529,8533,Mich,hermione
 qd,vn2c.0,7990,8557,hermione,8541,8545,mich,hermione
+qd,vn2c.0,8563,8750,leontes,8639,8642,ich,leontes
 qd,vn2c.0,8563,8750,leontes,8677,8680,Mir,leontes
 qd,vn2c.0,8563,8750,leontes,8727,8730,Ich,leontes
 qd,vn2c.0,8756,8957,hermione,8806,8809,ich,hermione
@@ -116,6 +118,7 @@ qd,vn2c.0,12574,14043,leontes,13365,13368,ich,leontes
 qd,vn2c.0,12574,14043,leontes,13583,13586,ich,leontes
 qd,vn2c.0,14049,14087,mamillius,14070,14073,ich,mamillius
 qd,vn2c.0,14517,14712,leontes,14559,14562,mir,leontes
+qd,vn2c.0,14517,14712,leontes,14646,14649,mir,leontes
 qd,vn2c.0,15134,15214,camillo,15176,15179,ich,camillo
 qd,vn2c.0,15380,15756,leontes,15492,15495,ich,leontes
 qd,vn2c.0,15380,15756,leontes,15502,15505,mir,leontes
@@ -149,6 +152,7 @@ qd,vn2c.0,18883,19410,leontes,19287,19290,ich,leontes
 qd,vn2c.0,18883,19410,leontes,19338,19344,meinem,leontes
 qd,vn2c.0,18883,19410,leontes,19382,19385,Mir,leontes
 qd,vn2c.0,19416,19700,camillo,19432,19436,mein,camillo
+qd,vn2c.0,19416,19700,camillo,19456,19459,ich,camillo
 qd,vn2c.0,19416,19700,camillo,19580,19583,ich,camillo
 qd,vn2c.0,19416,19700,camillo,19621,19626,meine,camillo
 qd,vn2c.0,19416,19700,camillo,19683,19686,Ich,camillo
@@ -182,6 +186,7 @@ qd,vn2c.0,21054,21703,camillo,21133,21136,Ich,camillo
 qd,vn2c.0,21054,21703,camillo,21203,21209,meines,camillo
 qd,vn2c.0,21054,21703,camillo,21339,21343,mich,camillo
 qd,vn2c.0,21054,21703,camillo,21350,21353,ich,camillo
+qd,vn2c.0,21054,21703,camillo,21441,21444,ich,camillo
 qd,vn2c.0,21054,21703,camillo,21566,21569,ich,camillo
 qd,vn2c.0,21054,21703,camillo,21618,21621,mir,camillo
 qd,vn2c.0,21054,21703,camillo,21647,21650,mir,camillo
@@ -191,6 +196,7 @@ qd,vn2c.0,21922,22271,polyxenes,22047,22050,ich,polyxenes
 qd,vn2c.0,21922,22271,polyxenes,22193,22197,Mich,polyxenes
 qd,vn2c.0,22277,22323,camillo,22305,22308,ich,camillo
 qd,vn2c.0,22329,22696,polyxenes,22396,22399,Mir,polyxenes
+qd,vn2c.0,22329,22696,polyxenes,22496,22499,ich,polyxenes
 qd,vn2c.0,22329,22696,polyxenes,22566,22569,mir,polyxenes
 qd,vn2c.0,22329,22696,polyxenes,22588,22591,mir,polyxenes
 qd,vn2c.0,22329,22696,polyxenes,22596,22602,meinen,polyxenes
@@ -360,6 +366,7 @@ qd,vn2c.0,38926,39524,paulina,39153,39159,meines,paulina
 qd,vn2c.0,38926,39524,paulina,39200,39203,Ich,paulina
 qd,vn2c.0,38926,39524,paulina,39246,39252,meinen,paulina
 qd,vn2c.0,38926,39524,paulina,39282,39285,mir,paulina
+qd,vn2c.0,38926,39524,paulina,39321,39324,ich,paulina
 qd,vn2c.0,39530,39936,emilia,39767,39770,ich,emilia
 qd,vn2c.0,39942,40097,paulina,39985,39988,ich,paulina
 qd,vn2c.0,39942,40097,paulina,40000,40003,ich,paulina
@@ -368,6 +375,7 @@ qd,vn2c.0,39942,40097,paulina,40074,40077,ich,paulina
 qd,vn2c.0,40103,40172,emilia,40130,40133,Ich,emilia
 qd,vn2c.0,40178,40322,kerkermeister,40242,40245,Ich,kerkermeister
 qd,vn2c.0,40178,40322,kerkermeister,40262,40265,ich,kerkermeister
+qd,vn2c.0,40178,40322,kerkermeister,40278,40281,ich,kerkermeister
 qd,vn2c.0,40178,40322,kerkermeister,40318,40321,ich,kerkermeister
 qd,vn2c.0,40569,40604,kerkermeister,40595,40598,ich,kerkermeister
 qd,vn2c.0,40609,40703,paulina,40651,40654,Ich,paulina
@@ -491,6 +499,7 @@ qd,vn2c.0,55545,56345,hermione,55657,55660,Ich,hermione
 qd,vn2c.0,55545,56345,hermione,55687,55691,mich,hermione
 qd,vn2c.0,55545,56345,hermione,55713,55716,ich,hermione
 qd,vn2c.0,55545,56345,hermione,55814,55817,mir,hermione
+qd,vn2c.0,55545,56345,hermione,55894,55897,ich,hermione
 qd,vn2c.0,55545,56345,hermione,55916,55919,ich,hermione
 qd,vn2c.0,55545,56345,hermione,55920,55924,mich,hermione
 qd,vn2c.0,55545,56345,hermione,56109,56112,Ich,hermione
@@ -499,6 +508,7 @@ qd,vn2c.0,55545,56345,hermione,56204,56207,ich,hermione
 qd,vn2c.0,55545,56345,hermione,56322,56325,ich,hermione
 qd,vn2c.0,56452,56586,hermione,56509,56512,ich,hermione
 qd,vn2c.0,56452,56586,hermione,56521,56525,Mein,hermione
+qd,vn2c.0,56452,56586,hermione,56577,56580,ich,hermione
 qd,vn2c.0,56592,57030,leontes,56625,56628,ich,leontes
 qd,vn2c.0,56592,57030,leontes,56668,56671,Ich,leontes
 qd,vn2c.0,57036,58223,hermione,57113,57116,ich,hermione
@@ -550,6 +560,7 @@ qd,vn2c.0,61363,62598,paulina,61412,61415,mir,paulina
 qd,vn2c.0,61363,62598,paulina,61526,61529,mir,paulina
 qd,vn2c.0,61363,62598,paulina,61540,61546,meiner,paulina
 qd,vn2c.0,61363,62598,paulina,62065,62068,ich,paulina
+qd,vn2c.0,61363,62598,paulina,62475,62478,ich,paulina
 qd,vn2c.0,62654,63200,paulina,62664,62667,Ich,paulina
 qd,vn2c.0,62654,63200,paulina,62687,62690,ich,paulina
 qd,vn2c.0,62654,63200,paulina,62850,62853,ich,paulina
@@ -567,6 +578,7 @@ qd,vn2c.0,63421,64070,paulina,63921,63924,ich,paulina
 qd,vn2c.0,63421,64070,paulina,63960,63963,Ich,paulina
 qd,vn2c.0,63421,64070,paulina,63981,63987,meinen,paulina
 qd,vn2c.0,63421,64070,paulina,64054,64057,ich,paulina
+qd,vn2c.0,64076,64624,leontes,64159,64162,mir,leontes
 qd,vn2c.0,64076,64624,leontes,64202,64206,mich,leontes
 qd,vn2c.0,64076,64624,leontes,64238,64244,meines,leontes
 qd,vn2c.0,64076,64624,leontes,64376,64379,ich,leontes
@@ -580,6 +592,7 @@ qd,vn2c.0,65352,65395,antigonus,65378,65381,Ich,antigonus
 qd,vn2c.0,65401,65482,matrose,65411,65414,Ich,matrose
 qd,vn2c.0,65401,65482,matrose,65452,65456,mein,matrose
 qd,vn2c.0,65488,67637,antigonus,65521,65524,Ich,antigonus
+qd,vn2c.0,65488,67637,antigonus,65550,65553,ich,antigonus
 qd,vn2c.0,65488,67637,antigonus,65621,65624,mir,antigonus
 qd,vn2c.0,65488,67637,antigonus,65699,65702,mir,antigonus
 qd,vn2c.0,65488,67637,antigonus,65779,65782,ich,antigonus
@@ -624,6 +637,7 @@ qd,vn2c.0,70600,71061,der_alte_schäfer,70743,70746,ich,der_alte_schäfer
 qd,vn2c.0,70600,71061,der_alte_schäfer,70943,70946,mir,der_alte_schäfer
 qd,vn2c.0,70600,71061,der_alte_schäfer,70959,70962,ich,der_alte_schäfer
 qd,vn2c.0,71541,71800,der_junge_schäfer,71603,71606,ich,der_junge_schäfer
+qd,vn2c.0,71541,71800,der_junge_schäfer,71785,71788,ich,der_junge_schäfer
 qd,vn2c.0,71805,71960,der_alte_schäfer,71938,71942,mich,der_alte_schäfer
 qd,vn2c.0,71965,72059,der_junge_schäfer,72005,72008,ich,der_junge_schäfer
 qd,vn2c.0,72203,73647,zeit,72210,72213,Ich,zeit
@@ -807,6 +821,7 @@ qd,vn2c.0,89687,90533,perdita,90448,90451,ich,perdita
 qd,vn2c.0,90571,90845,perdita,90691,90694,mir,perdita
 qd,vn2c.0,90571,90845,perdita,90729,90733,Mich,perdita
 qd,vn2c.0,90571,90845,perdita,90741,90744,ich,perdita
+qd,vn2c.0,90571,90845,perdita,90760,90763,ich,perdita
 qd,vn2c.0,90571,90845,perdita,90833,90839,meinen,perdita
 qd,vn2c.0,90852,91357,florizel,90938,90941,ich,florizel
 qd,vn2c.0,90852,91357,florizel,90989,90992,ich,florizel
@@ -822,6 +837,7 @@ qd,vn2c.0,92515,92947,der_alte_schäfer,92621,92624,ich,der_alte_schäfer
 qd,vn2c.0,92515,92947,der_alte_schäfer,92722,92726,mein,der_alte_schäfer
 qd,vn2c.0,92515,92947,der_alte_schäfer,92737,92740,Ich,der_alte_schäfer
 qd,vn2c.0,92515,92947,der_alte_schäfer,92865,92871,meiner,der_alte_schäfer
+qd,vn2c.0,92993,93214,der_alte_schäfer,93033,93036,ich,der_alte_schäfer
 qd,vn2c.0,93575,93806,der_junge_schäfer,93669,93672,ich,der_junge_schäfer
 qd,vn2c.0,93811,94373,knecht_1,94265,94268,mir,knecht_1
 qd,vn2c.0,93811,94373,knecht_1,94278,94282,mein,knecht_1
@@ -923,6 +939,7 @@ qd,vn2c.0,107738,108329,der_alte_schäfer,107960,107964,mein,der_alte_schäfer
 qd,vn2c.0,107738,108329,der_alte_schäfer,108049,108053,mich,der_alte_schäfer
 qd,vn2c.0,107738,108329,der_alte_schäfer,108082,108086,mich,der_alte_schäfer
 qd,vn2c.0,107738,108329,der_alte_schäfer,108245,108248,ich,der_alte_schäfer
+qd,vn2c.0,107738,108329,der_alte_schäfer,108270,108273,ich,der_alte_schäfer
 qd,vn2c.0,108335,108563,florizel,108359,108363,mich,florizel
 qd,vn2c.0,108335,108563,florizel,108372,108375,Ich,florizel
 qd,vn2c.0,108335,108563,florizel,108449,108452,ich,florizel
@@ -1050,6 +1067,7 @@ qd,vn2c.0,121045,121214,der_junge_schäfer,121176,121179,ich,der_junge_schäfer
 qd,vn2c.0,121401,121484,autolycus,121413,121416,Ich,autolycus
 qd,vn2c.0,121401,121484,autolycus,121456,121462,meines,autolycus
 qd,vn2c.0,121552,121768,autolycus,121568,121571,ich,autolycus
+qd,vn2c.0,121552,121768,autolycus,121609,121612,ich,autolycus
 qd,vn2c.0,121552,121768,autolycus,121645,121648,ich,autolycus
 qd,vn2c.0,121552,121768,autolycus,121654,121660,meinen,autolycus
 qd,vn2c.0,122083,122361,autolycus,122136,122140,mich,autolycus
@@ -1110,6 +1128,7 @@ qd,vn2c.0,129837,130040,paulina,129865,129869,mein,paulina
 qd,vn2c.0,130046,130253,leontes,130081,130084,ich,leontes
 qd,vn2c.0,130046,130253,leontes,130097,130100,Ich,leontes
 qd,vn2c.0,130046,130253,leontes,130128,130132,Mich,leontes
+qd,vn2c.0,130046,130253,leontes,130209,130212,ich,leontes
 qd,vn2c.0,130945,131619,paulina,131333,131336,mir,paulina
 qd,vn2c.0,131625,131847,leontes,131650,131653,Ich,leontes
 qd,vn2c.0,131625,131847,leontes,131718,131721,ich,leontes
@@ -1188,6 +1207,7 @@ qd,vn2c.0,140586,140903,leontes,140696,140699,ich,leontes
 qd,vn2c.0,140586,140903,leontes,140743,140746,ich,leontes
 qd,vn2c.0,140586,140903,leontes,140802,140805,ich,leontes
 qd,vn2c.0,140586,140903,leontes,140832,140835,mir,leontes
+qd,vn2c.0,140586,140903,leontes,140856,140859,mir,leontes
 qd,vn2c.0,141012,141089,autolycus,141024,141027,Ich,autolycus
 qd,vn2c.0,141094,141364,erster_edelmann,141112,141115,Ich,erster_edelmann
 qd,vn2c.0,141094,141364,erster_edelmann,141298,141302,mich,erster_edelmann
@@ -1255,6 +1275,7 @@ qd,vn2c.0,151646,151932,paulina,151838,151842,mein,paulina
 qd,vn2c.0,151646,151932,paulina,151893,151897,mein,paulina
 qd,vn2c.0,151938,152202,leontes,152143,152148,meine,leontes
 qd,vn2c.0,152208,152715,paulina,152271,152274,ich,paulina
+qd,vn2c.0,152208,152715,paulina,152363,152366,ich,paulina
 qd,vn2c.0,152208,152715,paulina,152670,152674,mein,paulina
 qd,vn2c.0,152721,153002,leontes,152760,152764,mich,leontes
 qd,vn2c.0,152721,153002,leontes,152792,152795,ich,leontes

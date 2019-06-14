@@ -150,6 +150,7 @@ qd,vmw0.0,16705,17059,bolingbroke,17039,17042,ich,bolingbroke
 qd,vmw0.0,17251,17530,bolingbroke,17303,17307,mich,bolingbroke
 qd,vmw0.0,17251,17530,bolingbroke,17360,17363,ich,bolingbroke
 qd,vmw0.0,17649,17885,könig_richard,17800,17804,mein,könig_richard
+qd,vmw0.0,17649,17885,könig_richard,17845,17848,ich,könig_richard
 qd,vmw0.0,17891,18769,bolingbroke,17941,17945,mich,bolingbroke
 qd,vmw0.0,17891,18769,bolingbroke,17962,17965,ich,bolingbroke
 qd,vmw0.0,17891,18769,bolingbroke,18058,18061,ich,bolingbroke
@@ -228,6 +229,7 @@ qd,vmw0.0,26625,27107,gaunt,27078,27082,mich,gaunt
 qd,vmw0.0,27383,27498,lord_marschall,27435,27438,ich,lord_marschall
 qd,vmw0.0,27601,27745,bolingbroke,27630,27633,ich,bolingbroke
 qd,vmw0.0,28038,28138,bolingbroke,28052,28056,Mein,bolingbroke
+qd,vmw0.0,28038,28138,bolingbroke,28081,28084,ich,bolingbroke
 qd,vmw0.0,28285,28597,bolingbroke,28315,28319,mich,bolingbroke
 qd,vmw0.0,28285,28597,bolingbroke,28376,28379,ich,bolingbroke
 qd,vmw0.0,28285,28597,bolingbroke,28407,28413,meiner,bolingbroke
@@ -257,6 +259,7 @@ qd,vmw0.0,33764,34290,gaunt,34218,34224,meines,gaunt
 qd,vmw0.0,34939,36713,gaunt,34947,34950,Ich,gaunt
 qd,vmw0.0,34939,36713,gaunt,35002,35005,ich,gaunt
 qd,vmw0.0,34939,36713,gaunt,36185,36188,ich,gaunt
+qd,vmw0.0,34939,36713,gaunt,36200,36203,ich,gaunt
 qd,vmw0.0,34939,36713,gaunt,36570,36576,meinem,gaunt
 qd,vmw0.0,34939,36713,gaunt,36609,36613,mein,gaunt
 qd,vmw0.0,36860,36906,königin,36879,36883,mein,königin
@@ -294,6 +297,7 @@ qd,vmw0.0,41305,42305,york,41635,41641,meinen,york
 qd,vmw0.0,41305,42305,york,41671,41674,Ich,york
 qd,vmw0.0,42358,43418,york,42367,42371,mein,york
 qd,vmw0.0,42358,43418,york,42389,42392,mir,york
+qd,vmw0.0,42358,43418,york,42443,42446,mir,york
 qd,vmw0.0,42358,43418,york,43336,43340,mein,york
 qd,vmw0.0,43424,43534,könig_richard,43476,43481,meine,könig_richard
 qd,vmw0.0,43540,43733,york,43558,43562,mein,york
@@ -310,7 +314,9 @@ qd,vmw0.0,46917,47937,northumberland,47807,47810,mir,northumberland
 qd,vmw0.0,46917,47937,northumberland,47921,47924,ich,northumberland
 qd,vmw0.0,47998,48066,willoughby,48019,48023,mein,willoughby
 qd,vmw0.0,47998,48066,willoughby,48035,48038,ich,willoughby
+qd,vmw0.0,48361,48760,königin,48393,48396,ich,königin
 qd,vmw0.0,48361,48760,königin,48400,48403,mir,königin
+qd,vmw0.0,48361,48760,königin,48418,48421,ich,königin
 qd,vmw0.0,48361,48760,königin,48445,48448,ich,königin
 qd,vmw0.0,48361,48760,königin,48470,48473,ich,königin
 qd,vmw0.0,48361,48760,königin,48515,48518,ich,königin
@@ -322,6 +328,7 @@ qd,vmw0.0,49449,49688,königin,49496,49500,Mein,königin
 qd,vmw0.0,49449,49688,königin,49547,49550,Ich,königin
 qd,vmw0.0,49449,49688,königin,49597,49600,ich,königin
 qd,vmw0.0,49449,49688,königin,49608,49611,ich,königin
+qd,vmw0.0,49449,49688,königin,49631,49634,ich,königin
 qd,vmw0.0,49449,49688,königin,49676,49680,mich,königin
 qd,vmw0.0,49747,50071,königin,49836,49839,mir,königin
 qd,vmw0.0,49747,50071,königin,49863,49869,meinen,königin
@@ -334,6 +341,7 @@ qd,vmw0.0,50077,50197,green,50151,50154,ich,green
 qd,vmw0.0,51138,51362,königin,51177,51183,meines,königin
 qd,vmw0.0,51138,51362,königin,51211,51217,meines,königin
 qd,vmw0.0,51138,51362,königin,51277,51280,Mir,königin
+qd,vmw0.0,51407,51680,königin,51426,51429,mir,königin
 qd,vmw0.0,51407,51680,königin,51441,51444,Ich,königin
 qd,vmw0.0,51875,52319,york,51887,51890,ich,york
 qd,vmw0.0,51875,52319,york,51905,51908,ich,york
@@ -467,6 +475,7 @@ qd,vmw0.0,63032,63489,york,63132,63137,meine,york
 qd,vmw0.0,63032,63489,york,63193,63196,ich,york
 qd,vmw0.0,63032,63489,york,63214,63218,mich,york
 qd,vmw0.0,63032,63489,york,63232,63235,Ich,york
+qd,vmw0.0,63032,63489,york,63318,63321,ich,york
 qd,vmw0.0,63032,63489,york,63357,63360,Ich,york
 qd,vmw0.0,63495,63755,bolingbroke,63735,63738,ich,bolingbroke
 qd,vmw0.0,63761,63978,york,63788,63791,ich,york
@@ -684,6 +693,7 @@ qd,vmw0.0,95924,96295,fitzwater,96275,96281,meines,fitzwater
 qd,vmw0.0,96355,96414,fitzwater,96376,96379,ich,fitzwater
 qd,vmw0.0,96473,96699,percy,96589,96592,ich,percy
 qd,vmw0.0,96473,96699,percy,96593,96597,mein,percy
+qd,vmw0.0,96705,96839,aumerle,96723,96726,ich,aumerle
 qd,vmw0.0,96705,96839,aumerle,96745,96750,meine,aumerle
 qd,vmw0.0,96705,96839,aumerle,96802,96808,meines,aumerle
 qd,vmw0.0,96845,97104,ein_lord,96879,96882,ich,ein_lord
@@ -700,6 +710,7 @@ qd,vmw0.0,97856,98355,fitzwater,97968,97971,ich,fitzwater
 qd,vmw0.0,97856,98355,fitzwater,98027,98030,ich,fitzwater
 qd,vmw0.0,97856,98355,fitzwater,98074,98078,mein,fitzwater
 qd,vmw0.0,97856,98355,fitzwater,98099,98104,meine,fitzwater
+qd,vmw0.0,97856,98355,fitzwater,98149,98152,mir,fitzwater
 qd,vmw0.0,97856,98355,fitzwater,98195,98201,meiner,fitzwater
 qd,vmw0.0,97856,98355,fitzwater,98237,98240,ich,fitzwater
 qd,vmw0.0,98361,98506,aumerle,98399,98402,mir,aumerle
@@ -726,6 +737,8 @@ qd,vmw0.0,102117,102848,könig_richard,102433,102437,mein,könig_richard
 qd,vmw0.0,102117,102848,könig_richard,102478,102481,mir,könig_richard
 qd,vmw0.0,102117,102848,könig_richard,102582,102585,ich,könig_richard
 qd,vmw0.0,102117,102848,könig_richard,102667,102670,ich,könig_richard
+qd,vmw0.0,102117,102848,könig_richard,102739,102742,ich,könig_richard
+qd,vmw0.0,102117,102848,könig_richard,102784,102787,ich,könig_richard
 qd,vmw0.0,102117,102848,könig_richard,102834,102837,ich,könig_richard
 qd,vmw0.0,103010,103355,könig_richard,103031,103034,mir,könig_richard
 qd,vmw0.0,103010,103355,könig_richard,103097,103100,ich,könig_richard
@@ -807,6 +820,7 @@ qd,vmw0.0,108450,108962,könig_richard,108792,108795,Mir,könig_richard
 qd,vmw0.0,108450,108962,könig_richard,108830,108834,mich,könig_richard
 qd,vmw0.0,108450,108962,könig_richard,108886,108889,ich,könig_richard
 qd,vmw0.0,108450,108962,könig_richard,108902,108905,ich,könig_richard
+qd,vmw0.0,108450,108962,könig_richard,108947,108950,ich,könig_richard
 qd,vmw0.0,109011,109253,könig_richard,109047,109050,ich,könig_richard
 qd,vmw0.0,109011,109253,könig_richard,109081,109084,ich,könig_richard
 qd,vmw0.0,109011,109253,könig_richard,109102,109105,ich,könig_richard
@@ -964,6 +978,7 @@ qd,vmw0.0,130062,133064,könig_richard,130078,130081,Ich,könig_richard
 qd,vmw0.0,130062,133064,könig_richard,130104,130107,ich,könig_richard
 qd,vmw0.0,130062,133064,könig_richard,130133,130136,ich,könig_richard
 qd,vmw0.0,130062,133064,könig_richard,130234,130237,ich,könig_richard
+qd,vmw0.0,130062,133064,könig_richard,130248,130251,ich,könig_richard
 qd,vmw0.0,130062,133064,könig_richard,130275,130278,ich,könig_richard
 qd,vmw0.0,130062,133064,könig_richard,130291,130295,Mein,könig_richard
 qd,vmw0.0,130062,133064,könig_richard,130306,130312,meines,könig_richard
@@ -972,6 +987,7 @@ qd,vmw0.0,130062,133064,könig_richard,131380,131383,ich,könig_richard
 qd,vmw0.0,130062,133064,könig_richard,131442,131445,ich,könig_richard
 qd,vmw0.0,130062,133064,könig_richard,131472,131476,mich,könig_richard
 qd,vmw0.0,130062,133064,könig_richard,131487,131490,ich,könig_richard
+qd,vmw0.0,130062,133064,könig_richard,131520,131523,ich,könig_richard
 qd,vmw0.0,130062,133064,könig_richard,131553,131557,Mich,könig_richard
 qd,vmw0.0,130062,133064,könig_richard,131572,131575,mir,könig_richard
 qd,vmw0.0,130062,133064,könig_richard,131610,131613,ich,könig_richard
@@ -994,6 +1010,7 @@ qd,vmw0.0,130062,133064,könig_richard,132791,132795,mich,könig_richard
 qd,vmw0.0,130062,133064,könig_richard,132852,132855,mir,könig_richard
 qd,vmw0.0,130062,133064,könig_richard,132927,132930,mir,könig_richard
 qd,vmw0.0,133324,133727,stallknecht,133338,133341,Ich,stallknecht
+qd,vmw0.0,133324,133727,stallknecht,133444,133447,ich,stallknecht
 qd,vmw0.0,133324,133727,stallknecht,133490,133496,meines,stallknecht
 qd,vmw0.0,133324,133727,stallknecht,133539,133542,mir,stallknecht
 qd,vmw0.0,133324,133727,stallknecht,133699,133702,ich,stallknecht

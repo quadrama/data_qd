@@ -106,6 +106,7 @@ qd,k4xx.0,10018,10431,caboga,10199,10203,mich,caboga
 qd,k4xx.0,10018,10431,caboga,10221,10224,ich,caboga
 qd,k4xx.0,10018,10431,caboga,10275,10278,ich,caboga
 qd,k4xx.0,10436,10829,procoli,10516,10521,meine,procoli
+qd,k4xx.0,10834,11493,caboga,10866,10869,mir,caboga
 qd,k4xx.0,10834,11493,caboga,10878,10881,ich,caboga
 qd,k4xx.0,10834,11493,caboga,10888,10893,meine,caboga
 qd,k4xx.0,10834,11493,caboga,11317,11320,ich,caboga
@@ -123,6 +124,7 @@ qd,k4xx.0,12081,12526,procoli,12351,12356,meine,procoli
 qd,k4xx.0,12081,12526,procoli,12400,12404,mich,procoli
 qd,k4xx.0,12081,12526,procoli,12457,12462,meine,procoli
 qd,k4xx.0,12531,12678,caboga,12574,12577,mir,caboga
+qd,k4xx.0,12683,13788,procoli,12906,12909,ich,procoli
 qd,k4xx.0,12683,13788,procoli,12942,12945,mir,procoli
 qd,k4xx.0,12683,13788,procoli,13086,13092,meinem,procoli
 qd,k4xx.0,12683,13788,procoli,13117,13120,ich,procoli
@@ -149,6 +151,7 @@ qd,k4xx.0,15258,15711,caboga,15626,15630,mein,caboga
 qd,k4xx.0,15258,15711,caboga,15682,15685,ich,caboga
 qd,k4xx.0,15258,15711,caboga,15700,15704,mich,caboga
 qd,k4xx.0,15716,16440,procoli,15789,15792,mir,procoli
+qd,k4xx.0,15716,16440,procoli,16089,16092,ich,procoli
 qd,k4xx.0,15716,16440,procoli,16105,16108,ich,procoli
 qd,k4xx.0,15716,16440,procoli,16201,16204,ich,procoli
 qd,k4xx.0,15716,16440,procoli,16230,16233,ich,procoli
@@ -425,6 +428,7 @@ qd,k4xx.0,45539,47087,herzog,45624,45628,mein,herzog
 qd,k4xx.0,45539,47087,herzog,45652,45655,mir,herzog
 qd,k4xx.0,45539,47087,herzog,45902,45908,meinem,herzog
 qd,k4xx.0,45539,47087,herzog,45922,45925,ich,herzog
+qd,k4xx.0,45539,47087,herzog,46027,46030,ich,herzog
 qd,k4xx.0,45539,47087,herzog,46074,46078,mich,herzog
 qd,k4xx.0,45539,47087,herzog,46130,46133,ich,herzog
 qd,k4xx.0,47187,50763,caboga,47211,47214,ich,caboga
@@ -639,6 +643,7 @@ qd,k4xx.0,63913,64331,herzog,64001,64004,Ich,herzog
 qd,k4xx.0,64628,64731,caboga,64637,64640,Ich,caboga
 qd,k4xx.0,64628,64731,caboga,64672,64675,ich,caboga
 qd,k4xx.0,64736,64852,herzog,64760,64764,mich,herzog
+qd,k4xx.0,64858,65704,caboga,64883,64886,mir,caboga
 qd,k4xx.0,64858,65704,caboga,64923,64927,mein,caboga
 qd,k4xx.0,64858,65704,caboga,64946,64952,meinem,caboga
 qd,k4xx.0,64858,65704,caboga,64988,64991,mir,caboga
@@ -807,6 +812,7 @@ qd,k4xx.0,81925,82162,kassuba,82099,82102,ich,kassuba
 qd,k4xx.0,82167,82243,bettler,82204,82207,ich,bettler
 qd,k4xx.0,82703,82765,kassuba,82728,82732,mein,kassuba
 qd,k4xx.0,82703,82765,kassuba,82757,82760,ich,kassuba
+qd,k4xx.0,83944,84050,kassuba,84005,84008,ich,kassuba
 qd,k4xx.0,83944,84050,kassuba,84024,84027,ich,kassuba
 qd,k4xx.0,84055,84220,polo,84149,84152,mir,polo
 qd,k4xx.0,84055,84220,polo,84157,84160,ich,polo
@@ -827,6 +833,7 @@ qd,k4xx.0,85517,86045,caboga,85646,85651,meine,caboga
 qd,k4xx.0,85517,86045,caboga,85664,85667,ich,caboga
 qd,k4xx.0,85517,86045,caboga,85706,85710,mich,caboga
 qd,k4xx.0,85517,86045,caboga,85818,85822,mein,caboga
+qd,k4xx.0,86050,86242,caboga,86087,86090,mir,caboga
 qd,k4xx.0,86050,86242,caboga,86179,86182,mir,caboga
 qd,k4xx.0,86050,86242,caboga,86183,86187,mein,caboga
 qd,k4xx.0,86050,86242,caboga,86228,86231,mir,caboga

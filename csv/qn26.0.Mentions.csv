@@ -227,6 +227,7 @@ qd,qn26.0,32670,33139,helfer,33035,33039,Mein,helfer
 qd,qn26.0,32670,33139,helfer,33092,33095,ich,helfer
 qd,qn26.0,33144,33211,robert,33185,33188,mir,robert
 qd,qn26.0,33216,33289,christoph,33228,33231,Ich,christoph
+qd,qn26.0,33294,33352,robert,33318,33321,ich,robert
 qd,qn26.0,33421,33513,robert,33448,33453,meine,robert
 qd,qn26.0,34038,34153,robert,34105,34108,Ich,robert
 qd,qn26.0,34038,34153,robert,34139,34142,ich,robert
@@ -342,6 +343,7 @@ qd,qn26.0,47511,47616,robert,47530,47533,ich,robert
 qd,qn26.0,47511,47616,robert,47555,47558,ich,robert
 qd,qn26.0,47511,47616,robert,47581,47587,meinem,robert
 qd,qn26.0,47622,48800,tossmann,48126,48131,meine,tossmann
+qd,qn26.0,47622,48800,tossmann,48754,48757,mir,tossmann
 qd,qn26.0,48846,49471,tossmann,48986,48989,mir,tossmann
 qd,qn26.0,48846,49471,tossmann,49026,49029,mir,tossmann
 qd,qn26.0,49476,49622,robert,49502,49505,ich,robert
@@ -363,6 +365,7 @@ qd,qn26.0,51501,51746,tossmann,51512,51515,Ich,tossmann
 qd,qn26.0,51751,51929,robert,51771,51774,Ich,robert
 qd,qn26.0,51751,51929,robert,51798,51803,meine,robert
 qd,qn26.0,51751,51929,robert,51845,51848,ich,robert
+qd,qn26.0,51934,52403,tossmann,52386,52389,mir,tossmann
 qd,qn26.0,52524,52741,tossmann,52553,52556,ich,tossmann
 qd,qn26.0,52826,53033,tossmann,52985,52988,Ich,tossmann
 qd,qn26.0,53038,53056,robert,53051,53055,mich,robert
@@ -378,7 +381,6 @@ qd,qn26.0,53680,53964,tossmann,53880,53883,ich,tossmann
 qd,qn26.0,53969,54187,robert,54108,54111,Ich,robert
 qd,qn26.0,53969,54187,robert,54121,54124,ich,robert
 qd,qn26.0,53969,54187,robert,54130,54134,mich,robert
-qd,qn26.0,54276,54304,robert,54289,54295,meinen,robert
 qd,qn26.0,54408,54479,robert,54435,54438,ich,robert
 qd,qn26.0,54408,54479,robert,54451,54455,mich,robert
 qd,qn26.0,54408,54479,robert,54461,54464,ich,robert
@@ -633,6 +635,7 @@ qd,qn26.0,84363,84610,robert,84414,84418,mein,robert
 qd,qn26.0,84363,84610,robert,84460,84463,ich,robert
 qd,qn26.0,84688,84721,tossmann,84699,84703,Mein,tossmann
 qd,qn26.0,84765,84841,tossmann,84776,84779,Ich,tossmann
+qd,qn26.0,84846,85104,robert,84875,84878,ich,robert
 qd,qn26.0,84846,85104,robert,84920,84923,ich,robert
 qd,qn26.0,84846,85104,robert,85065,85068,ich,robert
 qd,qn26.0,85111,85283,tossmann,85127,85130,ich,tossmann
@@ -702,6 +705,7 @@ qd,qn26.0,92763,92946,frau_von_brigge,92821,92824,mir,frau_von_brigge
 qd,qn26.0,92763,92946,frau_von_brigge,92865,92868,Ich,frau_von_brigge
 qd,qn26.0,93580,93720,frau_von_brigge,93632,93635,ich,frau_von_brigge
 qd,qn26.0,93580,93720,frau_von_brigge,93680,93683,ich,frau_von_brigge
+qd,qn26.0,93855,94103,frau_von_brigge,93877,93880,ich,frau_von_brigge
 qd,qn26.0,93855,94103,frau_von_brigge,93959,93962,ich,frau_von_brigge
 qd,qn26.0,93855,94103,frau_von_brigge,94035,94038,mir,frau_von_brigge
 qd,qn26.0,93855,94103,frau_von_brigge,94054,94057,ich,frau_von_brigge
@@ -752,6 +756,7 @@ qd,qn26.0,102455,102639,martin,102584,102587,mir,martin
 qd,qn26.0,102707,102847,martin,102760,102763,ich,martin
 qd,qn26.0,102707,102847,martin,102794,102797,ich,martin
 qd,qn26.0,102853,102956,grund,102870,102873,ich,grund
+qd,qn26.0,102961,103180,martin,103017,103020,mir,martin
 qd,qn26.0,102961,103180,martin,103062,103065,ich,martin
 qd,qn26.0,102961,103180,martin,103087,103090,ich,martin
 qd,qn26.0,103359,103448,christoph,103404,103409,meine,christoph
@@ -769,6 +774,7 @@ qd,qn26.0,107456,107558,martin,107469,107472,ich,martin
 qd,qn26.0,107456,107558,martin,107482,107486,mich,martin
 qd,qn26.0,107807,107967,der_richter,107900,107903,ich,der_richter
 qd,qn26.0,107807,107967,der_richter,107904,107907,mir,der_richter
+qd,qn26.0,107807,107967,der_richter,107948,107951,ich,der_richter
 qd,qn26.0,107972,108052,elegius_obenaus,108008,108011,ich,elegius_obenaus
 qd,qn26.0,108102,108192,elegius_obenaus,108141,108144,ich,elegius_obenaus
 qd,qn26.0,108238,108356,elegius_obenaus,108265,108269,mich,elegius_obenaus

@@ -49,6 +49,7 @@ qd,r13g.0,5961,6037,grisaldo,6006,6012,meinen,grisaldo
 qd,r13g.0,6558,7737,ballona,6643,6649,meinem,ballona
 qd,r13g.0,6558,7737,ballona,7025,7028,Ich,ballona
 qd,r13g.0,6558,7737,ballona,7034,7038,mein,ballona
+qd,r13g.0,6558,7737,ballona,7055,7059,mich,ballona
 qd,r13g.0,6558,7737,ballona,7101,7107,meinem,ballona
 qd,r13g.0,6558,7737,ballona,7468,7472,mein,ballona
 qd,r13g.0,8232,8738,ein_kastilier,8263,8267,mich,ein_kastilier
@@ -68,13 +69,16 @@ qd,r13g.0,11443,12126,ballona,11571,11574,ich,ballona
 qd,r13g.0,11443,12126,ballona,11631,11635,mich,ballona
 qd,r13g.0,11443,12126,ballona,11650,11653,mir,ballona
 qd,r13g.0,11443,12126,ballona,11668,11671,ich,ballona
+qd,r13g.0,11443,12126,ballona,11761,11765,mich,ballona
 qd,r13g.0,11443,12126,ballona,11890,11894,mein,ballona
 qd,r13g.0,11443,12126,ballona,11918,11921,Ich,ballona
 qd,r13g.0,11443,12126,ballona,12034,12037,ich,ballona
+qd,r13g.0,11443,12126,ballona,12059,12062,ich,ballona
 qd,r13g.0,11443,12126,ballona,12066,12069,Ich,ballona
 qd,r13g.0,11443,12126,ballona,12070,12074,mein,ballona
 qd,r13g.0,11443,12126,ballona,12076,12079,ich,ballona
 qd,r13g.0,12175,12554,ballona,12369,12372,ich,ballona
+qd,r13g.0,12175,12554,ballona,12373,12376,mir,ballona
 qd,r13g.0,12175,12554,ballona,12401,12404,ich,ballona
 qd,r13g.0,12175,12554,ballona,12461,12464,ich,ballona
 qd,r13g.0,12175,12554,ballona,12545,12549,mein,ballona
@@ -92,6 +96,7 @@ qd,r13g.0,13976,14565,sarazenenkönig,14458,14461,Ich,sarazenenkönig
 qd,r13g.0,14570,14749,prinz_zifaldo,14586,14589,Ich,prinz_zifaldo
 qd,r13g.0,14570,14749,prinz_zifaldo,14735,14738,ich,prinz_zifaldo
 qd,r13g.0,14754,15113,sarazenenkönig,14789,14792,mir,sarazenenkönig
+qd,r13g.0,14754,15113,sarazenenkönig,14860,14863,ich,sarazenenkönig
 qd,r13g.0,14754,15113,sarazenenkönig,14883,14886,ich,sarazenenkönig
 qd,r13g.0,14754,15113,sarazenenkönig,14949,14952,ich,sarazenenkönig
 qd,r13g.0,14754,15113,sarazenenkönig,14990,14995,meine,sarazenenkönig
@@ -127,6 +132,7 @@ qd,r13g.0,18275,18613,sarazenenkönig,18425,18428,mir,sarazenenkönig
 qd,r13g.0,18275,18613,sarazenenkönig,18458,18461,ich,sarazenenkönig
 qd,r13g.0,18618,18779,prinz_zifaldo,18634,18637,Ich,prinz_zifaldo
 qd,r13g.0,18618,18779,prinz_zifaldo,18691,18694,ich,prinz_zifaldo
+qd,r13g.0,18618,18779,prinz_zifaldo,18716,18719,mir,prinz_zifaldo
 qd,r13g.0,18784,18889,sarazenenkönig,18816,18819,ich,sarazenenkönig
 qd,r13g.0,18784,18889,sarazenenkönig,18832,18836,mich,sarazenenkönig
 qd,r13g.0,19042,19314,sarazenenkönig,19073,19077,mich,sarazenenkönig
@@ -137,6 +143,7 @@ qd,r13g.0,19319,19677,prinz_zifaldo,19575,19578,ich,prinz_zifaldo
 qd,r13g.0,19319,19677,prinz_zifaldo,19626,19629,ich,prinz_zifaldo
 qd,r13g.0,19682,19887,sarazenenkönig,19699,19702,Ich,sarazenenkönig
 qd,r13g.0,19682,19887,sarazenenkönig,19745,19748,Ich,sarazenenkönig
+qd,r13g.0,19682,19887,sarazenenkönig,19785,19789,mich,sarazenenkönig
 qd,r13g.0,19682,19887,sarazenenkönig,19838,19841,ich,sarazenenkönig
 qd,r13g.0,19892,19997,prinz_zifaldo,19969,19973,mein,prinz_zifaldo
 qd,r13g.0,20002,20077,sarazenenkönig,20029,20035,meiner,sarazenenkönig
@@ -209,6 +216,7 @@ qd,r13g.0,26879,27149,lilla,26972,26976,Mich,lilla
 qd,r13g.0,27154,27383,infantin,27165,27168,Ich,infantin
 qd,r13g.0,27154,27383,infantin,27181,27184,ich,infantin
 qd,r13g.0,27154,27383,infantin,27193,27197,mich,infantin
+qd,r13g.0,27154,27383,infantin,27232,27236,mich,infantin
 qd,r13g.0,27154,27383,infantin,27269,27272,ich,infantin
 qd,r13g.0,27154,27383,infantin,27304,27307,ich,infantin
 qd,r13g.0,27799,27954,infantin,27876,27879,Ich,infantin
@@ -281,6 +289,7 @@ qd,r13g.0,32262,32900,almerine,32703,32706,Ich,almerine
 qd,r13g.0,32262,32900,almerine,32842,32845,ich,almerine
 qd,r13g.0,32262,32900,almerine,32896,32899,mir,almerine
 qd,r13g.0,32946,33356,almerine,33010,33013,mir,almerine
+qd,r13g.0,32946,33356,almerine,33089,33092,mir,almerine
 qd,r13g.0,32946,33356,almerine,33189,33192,Ich,almerine
 qd,r13g.0,32946,33356,almerine,33240,33244,mich,almerine
 qd,r13g.0,33361,34016,grisaldo,33378,33381,ich,grisaldo
@@ -356,6 +365,7 @@ qd,r13g.0,37953,38182,bastiano,38070,38075,meine,bastiano
 qd,r13g.0,37953,38182,bastiano,38158,38162,mich,bastiano
 qd,r13g.0,38187,38476,fernando,38198,38201,Ich,fernando
 qd,r13g.0,38187,38476,fernando,38365,38368,ich,fernando
+qd,r13g.0,38187,38476,fernando,38403,38406,mir,fernando
 qd,r13g.0,38482,38979,bastiano,38523,38526,ich,bastiano
 qd,r13g.0,38482,38979,bastiano,38565,38569,mein,bastiano
 qd,r13g.0,38482,38979,bastiano,38596,38601,meine,bastiano
@@ -402,6 +412,7 @@ qd,r13g.0,41418,41555,bastiano,41462,41465,Ich,bastiano
 qd,r13g.0,41418,41555,bastiano,41526,41529,ich,bastiano
 qd,r13g.0,41819,42020,curio,41983,41987,mich,curio
 qd,r13g.0,42025,42486,bastiano,42155,42158,ich,bastiano
+qd,r13g.0,42025,42486,bastiano,42223,42226,mir,bastiano
 qd,r13g.0,42025,42486,bastiano,42434,42437,Ich,bastiano
 qd,r13g.0,42025,42486,bastiano,42474,42478,mich,bastiano
 qd,r13g.0,42550,42657,bastiano,42633,42639,meiner,bastiano
@@ -448,6 +459,7 @@ qd,r13g.0,44417,45062,bastiano,44796,44799,ich,bastiano
 qd,r13g.0,44417,45062,bastiano,44816,44820,mich,bastiano
 qd,r13g.0,44417,45062,bastiano,44839,44843,mich,bastiano
 qd,r13g.0,44417,45062,bastiano,44894,44897,ich,bastiano
+qd,r13g.0,45067,45100,curio,45094,45097,mir,curio
 qd,r13g.0,45105,45880,bastiano,45129,45132,mir,bastiano
 qd,r13g.0,45105,45880,bastiano,45210,45213,Ich,bastiano
 qd,r13g.0,45105,45880,bastiano,45267,45273,meinen,bastiano
@@ -473,6 +485,7 @@ qd,r13g.0,46546,47024,bastiano,46692,46695,Ich,bastiano
 qd,r13g.0,46546,47024,bastiano,46725,46728,ich,bastiano
 qd,r13g.0,47029,47343,curio,47047,47050,Ich,curio
 qd,r13g.0,47029,47343,curio,47084,47087,ich,curio
+qd,r13g.0,47029,47343,curio,47115,47119,mich,curio
 qd,r13g.0,47348,47563,bastiano,47364,47368,mich,bastiano
 qd,r13g.0,47348,47563,bastiano,47395,47398,ich,bastiano
 qd,r13g.0,47348,47563,bastiano,47413,47416,ich,bastiano
@@ -484,6 +497,7 @@ qd,r13g.0,47957,48729,curio,48030,48033,ich,curio
 qd,r13g.0,47957,48729,curio,48041,48047,meinem,curio
 qd,r13g.0,47957,48729,curio,48139,48142,Ich,curio
 qd,r13g.0,47957,48729,curio,48718,48721,ich,curio
+qd,r13g.0,48773,49417,curio,49080,49083,ich,curio
 qd,r13g.0,48773,49417,curio,49094,49097,Ich,curio
 qd,r13g.0,48773,49417,curio,49128,49131,mir,curio
 qd,r13g.0,49422,49880,bastiano,49758,49761,Ich,bastiano
@@ -608,6 +622,7 @@ qd,r13g.0,62516,62850,könig,62691,62694,mir,könig
 qd,r13g.0,62516,62850,könig,62720,62723,Ich,könig
 qd,r13g.0,62516,62850,könig,62760,62763,mir,könig
 qd,r13g.0,62516,62850,könig,62796,62802,meiner,könig
+qd,r13g.0,63003,63125,könig,63033,63036,mir,könig
 qd,r13g.0,63003,63125,könig,63060,63064,mich,könig
 qd,r13g.0,63003,63125,könig,63074,63079,meine,könig
 qd,r13g.0,63003,63125,könig,63107,63111,mich,könig
@@ -666,10 +681,12 @@ qd,r13g.0,70601,71010,grisaldo,70734,70737,Ich,grisaldo
 qd,r13g.0,70601,71010,grisaldo,70793,70797,mein,grisaldo
 qd,r13g.0,70601,71010,grisaldo,71005,71009,mich,grisaldo
 qd,r13g.0,71649,71680,curio,71657,71660,Ich,curio
+qd,r13g.0,71685,71722,grisaldo,71703,71706,mir,grisaldo
 qd,r13g.0,71796,71851,grisaldo,71807,71810,Ich,grisaldo
 qd,r13g.0,71796,71851,grisaldo,71818,71821,mir,grisaldo
 qd,r13g.0,71796,71851,grisaldo,71836,71839,mir,grisaldo
 qd,r13g.0,72009,72046,grisaldo,72020,72023,Ich,grisaldo
+qd,r13g.0,72461,72580,grisaldo,72498,72501,ich,grisaldo
 qd,r13g.0,72461,72580,grisaldo,72510,72513,ich,grisaldo
 qd,r13g.0,72676,72725,grisaldo,72692,72696,mich,grisaldo
 qd,r13g.0,72676,72725,grisaldo,72711,72715,mich,grisaldo
@@ -682,6 +699,7 @@ qd,r13g.0,73920,74443,curio,74134,74137,ich,curio
 qd,r13g.0,73920,74443,curio,74161,74165,mich,curio
 qd,r13g.0,73920,74443,curio,74217,74221,mein,curio
 qd,r13g.0,73920,74443,curio,74238,74241,ich,curio
+qd,r13g.0,73920,74443,curio,74417,74420,ich,curio
 qd,r13g.0,74489,74749,curio,74497,74500,Ich,curio
 qd,r13g.0,74489,74749,curio,74505,74508,mir,curio
 qd,r13g.0,74489,74749,curio,74536,74539,mir,curio
@@ -703,6 +721,7 @@ qd,r13g.0,75255,76885,bastiano,75497,75503,meines,bastiano
 qd,r13g.0,75255,76885,bastiano,75949,75955,meiner,bastiano
 qd,r13g.0,75255,76885,bastiano,76001,76004,mir,bastiano
 qd,r13g.0,75255,76885,bastiano,76022,76025,ich,bastiano
+qd,r13g.0,75255,76885,bastiano,76092,76095,mir,bastiano
 qd,r13g.0,75255,76885,bastiano,76305,76308,ich,bastiano
 qd,r13g.0,75255,76885,bastiano,76336,76341,meine,bastiano
 qd,r13g.0,75255,76885,bastiano,76484,76487,ich,bastiano
@@ -738,6 +757,7 @@ qd,r13g.0,78115,78601,könig,78135,78139,mich,könig
 qd,r13g.0,78115,78601,könig,78216,78219,ich,könig
 qd,r13g.0,78115,78601,könig,78272,78275,ich,könig
 qd,r13g.0,78115,78601,könig,78373,78376,Ich,könig
+qd,r13g.0,78115,78601,könig,78403,78406,ich,könig
 qd,r13g.0,78115,78601,könig,78438,78442,mich,könig
 qd,r13g.0,78115,78601,könig,78473,78476,ich,könig
 qd,r13g.0,78115,78601,könig,78501,78505,Mein,könig
@@ -785,6 +805,8 @@ qd,r13g.0,82317,82585,bastiano,82374,82377,ich,bastiano
 qd,r13g.0,82317,82585,bastiano,82386,82392,meinen,bastiano
 qd,r13g.0,82317,82585,bastiano,82410,82416,meinen,bastiano
 qd,r13g.0,82317,82585,bastiano,82450,82453,ich,bastiano
+qd,r13g.0,82317,82585,bastiano,82514,82517,ich,bastiano
+qd,r13g.0,82317,82585,bastiano,82529,82532,ich,bastiano
 qd,r13g.0,82317,82585,bastiano,82559,82562,ich,bastiano
 qd,r13g.0,82590,82625,curio,82608,82611,ich,curio
 qd,r13g.0,82671,82720,curio,82679,82682,Ich,curio
@@ -845,6 +867,7 @@ qd,r13g.0,88264,88316,infantin,88294,88297,Ich,infantin
 qd,r13g.0,88321,89229,curio,88419,88425,meinem,curio
 qd,r13g.0,88321,89229,curio,88595,88598,ich,curio
 qd,r13g.0,88321,89229,curio,88623,88628,meine,curio
+qd,r13g.0,88321,89229,curio,88659,88663,mich,curio
 qd,r13g.0,88321,89229,curio,88781,88785,mich,curio
 qd,r13g.0,88321,89229,curio,88930,88933,Ich,curio
 qd,r13g.0,88321,89229,curio,88985,88989,mich,curio
@@ -950,6 +973,7 @@ qd,r13g.0,96145,97335,grisaldo,96887,96890,mir,grisaldo
 qd,r13g.0,96145,97335,grisaldo,96902,96905,Ich,grisaldo
 qd,r13g.0,96145,97335,grisaldo,96940,96943,mir,grisaldo
 qd,r13g.0,96145,97335,grisaldo,97030,97033,ich,grisaldo
+qd,r13g.0,96145,97335,grisaldo,97115,97118,ich,grisaldo
 qd,r13g.0,96145,97335,grisaldo,97145,97148,ich,grisaldo
 qd,r13g.0,96145,97335,grisaldo,97187,97190,ich,grisaldo
 qd,r13g.0,96145,97335,grisaldo,97217,97220,Ich,grisaldo
@@ -1112,6 +1136,7 @@ qd,r13g.0,106987,108205,curio,107481,107485,mich,curio
 qd,r13g.0,106987,108205,curio,107534,107538,mich,curio
 qd,r13g.0,106987,108205,curio,107558,107561,ich,curio
 qd,r13g.0,106987,108205,curio,107623,107626,mir,curio
+qd,r13g.0,106987,108205,curio,107651,107654,mir,curio
 qd,r13g.0,106987,108205,curio,107716,107720,mich,curio
 qd,r13g.0,106987,108205,curio,107802,107805,ich,curio
 qd,r13g.0,106987,108205,curio,107842,107845,mir,curio
@@ -1181,6 +1206,7 @@ qd,r13g.0,118553,118662,isabella,118613,118616,ich,isabella
 qd,r13g.0,118667,119312,grisaldo,119096,119099,ich,grisaldo
 qd,r13g.0,118667,119312,grisaldo,119104,119108,mein,grisaldo
 qd,r13g.0,119317,119362,isabella,119340,119343,ich,isabella
+qd,r13g.0,119367,119862,grisaldo,119411,119414,ich,grisaldo
 qd,r13g.0,119367,119862,grisaldo,119443,119449,meiner,grisaldo
 qd,r13g.0,119367,119862,grisaldo,119506,119510,mein,grisaldo
 qd,r13g.0,119367,119862,grisaldo,119675,119678,ich,grisaldo
@@ -1215,7 +1241,10 @@ qd,r13g.0,121413,121776,isabella,121449,121452,ich,isabella
 qd,r13g.0,121413,121776,isabella,121552,121555,ich,isabella
 qd,r13g.0,121413,121776,isabella,121571,121574,ich,isabella
 qd,r13g.0,121413,121776,isabella,121594,121597,ich,isabella
+qd,r13g.0,121413,121776,isabella,121648,121651,ich,isabella
 qd,r13g.0,121413,121776,isabella,121685,121689,mich,isabella
+qd,r13g.0,121413,121776,isabella,121722,121725,ich,isabella
+qd,r13g.0,121823,121921,isabella,121848,121851,mir,isabella
 qd,r13g.0,121960,122225,isabella,122073,122077,mich,isabella
 qd,r13g.0,121960,122225,isabella,122083,122087,mich,isabella
 qd,r13g.0,122230,122274,grisaldo,122241,122244,Ich,grisaldo
@@ -1267,6 +1296,7 @@ qd,r13g.0,127196,127492,lilla,127462,127468,meinen,lilla
 qd,r13g.0,127196,127492,lilla,127477,127483,meinen,lilla
 qd,r13g.0,127885,128706,bastiano,128187,128190,ich,bastiano
 qd,r13g.0,127885,128706,bastiano,128258,128262,mich,bastiano
+qd,r13g.0,127885,128706,bastiano,128340,128343,ich,bastiano
 qd,r13g.0,127885,128706,bastiano,128509,128512,Ich,bastiano
 qd,r13g.0,128711,128774,curio,128723,128726,Ich,curio
 qd,r13g.0,128711,128774,curio,128761,128767,meinem,curio
@@ -1286,6 +1316,8 @@ qd,r13g.0,130245,130335,curio,130279,130282,mir,curio
 qd,r13g.0,130340,130792,bastiano,130751,130754,ich,bastiano
 qd,r13g.0,130340,130792,bastiano,130775,130778,ich,bastiano
 qd,r13g.0,132090,132368,bastiano,132123,132127,mich,bastiano
+qd,r13g.0,132412,133029,bastiano,132945,132948,ich,bastiano
+qd,r13g.0,132412,133029,bastiano,132959,132962,ich,bastiano
 qd,r13g.0,133034,133140,curio,133086,133092,meinem,curio
 qd,r13g.0,133034,133140,curio,133111,133114,ich,curio
 qd,r13g.0,133272,133297,curio,133280,133284,Mein,curio
@@ -1330,6 +1362,7 @@ qd,r13g.0,136334,137030,prinz_zifaldo,136378,136381,ich,prinz_zifaldo
 qd,r13g.0,136334,137030,prinz_zifaldo,136400,136403,mir,prinz_zifaldo
 qd,r13g.0,136334,137030,prinz_zifaldo,136420,136423,ich,prinz_zifaldo
 qd,r13g.0,136334,137030,prinz_zifaldo,136466,136469,Ich,prinz_zifaldo
+qd,r13g.0,136334,137030,prinz_zifaldo,136470,136474,mein,prinz_zifaldo
 qd,r13g.0,136334,137030,prinz_zifaldo,136550,136553,mir,prinz_zifaldo
 qd,r13g.0,136334,137030,prinz_zifaldo,136871,136874,ich,prinz_zifaldo
 qd,r13g.0,136334,137030,prinz_zifaldo,136882,136887,meine,prinz_zifaldo
@@ -1350,6 +1383,7 @@ qd,r13g.0,138268,138331,curio,138276,138279,Ich,curio
 qd,r13g.0,138268,138331,curio,138294,138297,Ich,curio
 qd,r13g.0,138336,138807,bastiano,138413,138416,Ich,bastiano
 qd,r13g.0,138336,138807,bastiano,138552,138555,Ich,bastiano
+qd,r13g.0,138336,138807,bastiano,138579,138582,ich,bastiano
 qd,r13g.0,138336,138807,bastiano,138630,138633,ich,bastiano
 qd,r13g.0,138336,138807,bastiano,138634,138638,mein,bastiano
 qd,r13g.0,138336,138807,bastiano,138640,138643,ich,bastiano
@@ -1604,6 +1638,7 @@ qd,r13g.0,162033,163198,prinz_zifaldo,162058,162061,mir,prinz_zifaldo
 qd,r13g.0,162033,163198,prinz_zifaldo,162099,162103,mich,prinz_zifaldo
 qd,r13g.0,162033,163198,prinz_zifaldo,162125,162128,ich,prinz_zifaldo
 qd,r13g.0,162033,163198,prinz_zifaldo,162190,162193,Ich,prinz_zifaldo
+qd,r13g.0,162033,163198,prinz_zifaldo,162278,162281,mir,prinz_zifaldo
 qd,r13g.0,162033,163198,prinz_zifaldo,162589,162593,Mich,prinz_zifaldo
 qd,r13g.0,162033,163198,prinz_zifaldo,162619,162622,ich,prinz_zifaldo
 qd,r13g.0,162033,163198,prinz_zifaldo,162642,162646,Mich,prinz_zifaldo
@@ -1629,6 +1664,7 @@ qd,r13g.0,164116,164612,könig,164478,164481,mir,könig
 qd,r13g.0,164116,164612,könig,164492,164496,mich,könig
 qd,r13g.0,164116,164612,könig,164537,164540,ich,könig
 qd,r13g.0,164116,164612,könig,164565,164568,ich,könig
+qd,r13g.0,164116,164612,könig,164594,164597,mir,könig
 qd,r13g.0,164617,164720,malvizino,164664,164667,ich,malvizino
 qd,r13g.0,164617,164720,malvizino,164694,164697,ich,malvizino
 qd,r13g.0,164725,164980,könig,164750,164753,ich,könig

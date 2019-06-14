@@ -23,6 +23,7 @@ qd,vn90.0,2231,5074,ägeon,2961,2964,mir,ägeon
 qd,vn90.0,2231,5074,ägeon,3017,3020,mir,ägeon
 qd,vn90.0,2231,5074,ägeon,3369,3372,ich,ägeon
 qd,vn90.0,2231,5074,ägeon,3414,3418,Mein,ägeon
+qd,vn90.0,2231,5074,ägeon,3521,3524,ich,ägeon
 qd,vn90.0,2231,5074,ägeon,3873,3876,Ich,ägeon
 qd,vn90.0,2231,5074,ägeon,3941,3947,meines,ägeon
 qd,vn90.0,2231,5074,ägeon,4004,4010,meiner,ägeon
@@ -36,6 +37,7 @@ qd,vn90.0,2231,5074,ägeon,5022,5025,ich,ägeon
 qd,vn90.0,5080,5185,herzog,5154,5157,ich,herzog
 qd,vn90.0,5191,6213,ägeon,5234,5237,ich,ägeon
 qd,vn90.0,5191,6213,ägeon,5742,5745,ich,ägeon
+qd,vn90.0,5191,6213,ägeon,5788,5791,mir,ägeon
 qd,vn90.0,5191,6213,ägeon,6107,6110,ich,ägeon
 qd,vn90.0,5191,6213,ägeon,6115,6119,mein,ägeon
 qd,vn90.0,5191,6213,ägeon,6149,6153,mein,ägeon
@@ -54,6 +56,7 @@ qd,vn90.0,6357,7076,ägeon,7053,7056,mir,ägeon
 qd,vn90.0,7082,7780,herzog,7177,7180,mir,herzog
 qd,vn90.0,7082,7780,herzog,7308,7312,Mein,herzog
 qd,vn90.0,7082,7780,herzog,7487,7490,ich,herzog
+qd,vn90.0,7082,7780,herzog,7513,7516,ich,herzog
 qd,vn90.0,7082,7780,herzog,7549,7552,ich,herzog
 qd,vn90.0,8070,8424,kaufmann,8409,8412,mir,kaufmann
 qd,vn90.0,8430,8770,antipholus_von_syrakus,8520,8523,ich,antipholus_von_syrakus
@@ -104,6 +107,7 @@ qd,vn90.0,11744,11896,dromio_von_ephesus,11765,11769,Mein,dromio_von_ephesus
 qd,vn90.0,11903,12156,antipholus_von_syrakus,11934,11937,ich,antipholus_von_syrakus
 qd,vn90.0,11903,12156,antipholus_von_syrakus,11955,11958,mir,antipholus_von_syrakus
 qd,vn90.0,11903,12156,antipholus_von_syrakus,12027,12030,ich,antipholus_von_syrakus
+qd,vn90.0,11903,12156,antipholus_von_syrakus,12087,12090,mir,antipholus_von_syrakus
 qd,vn90.0,11903,12156,antipholus_von_syrakus,12142,12145,ich,antipholus_von_syrakus
 qd,vn90.0,12162,12413,dromio_von_ephesus,12208,12212,mein,dromio_von_ephesus
 qd,vn90.0,12162,12413,dromio_von_ephesus,12259,12263,mein,dromio_von_ephesus
@@ -112,6 +116,7 @@ qd,vn90.0,12162,12413,dromio_von_ephesus,12366,12369,Ich,dromio_von_ephesus
 qd,vn90.0,12419,12476,antipholus_von_syrakus,12435,12441,meiner,antipholus_von_syrakus
 qd,vn90.0,12481,12637,dromio_von_ephesus,12523,12528,meine,dromio_von_ephesus
 qd,vn90.0,12643,12750,antipholus_von_syrakus,12680,12684,mich,antipholus_von_syrakus
+qd,vn90.0,12643,12750,antipholus_von_syrakus,12704,12707,ich,antipholus_von_syrakus
 qd,vn90.0,12756,12896,dromio_von_ephesus,12863,12866,ich,dromio_von_ephesus
 qd,vn90.0,12902,13434,antipholus_von_syrakus,12919,12925,meiner,antipholus_von_syrakus
 qd,vn90.0,12902,13434,antipholus_von_syrakus,12964,12967,mir,antipholus_von_syrakus
@@ -196,7 +201,9 @@ qd,vn90.0,20434,20544,dromio_von_syrakus,20493,20496,mir,dromio_von_syrakus
 qd,vn90.0,20434,20544,dromio_von_syrakus,20507,20511,mich,dromio_von_syrakus
 qd,vn90.0,20550,20707,antipholus_von_syrakus,20635,20638,mir,antipholus_von_syrakus
 qd,vn90.0,20550,20707,antipholus_von_syrakus,20669,20672,ich,antipholus_von_syrakus
+qd,vn90.0,20550,20707,antipholus_von_syrakus,20694,20697,mir,antipholus_von_syrakus
 qd,vn90.0,20713,20828,dromio_von_syrakus,20743,20747,mich,dromio_von_syrakus
+qd,vn90.0,20713,20828,dromio_von_syrakus,20816,20819,mir,dromio_von_syrakus
 qd,vn90.0,20834,20961,antipholus_von_syrakus,20878,20882,mich,antipholus_von_syrakus
 qd,vn90.0,20834,20961,antipholus_von_syrakus,20908,20911,ich,antipholus_von_syrakus
 qd,vn90.0,20967,21084,dromio_von_syrakus,21000,21003,ich,dromio_von_syrakus
@@ -274,6 +281,7 @@ qd,vn90.0,28339,28941,adriana,28508,28511,ich,adriana
 qd,vn90.0,28339,28941,adriana,28545,28551,meinem,adriana
 qd,vn90.0,28339,28941,adriana,28585,28589,mich,adriana
 qd,vn90.0,28339,28941,adriana,28611,28614,ich,adriana
+qd,vn90.0,28947,29228,antipholus_von_syrakus,28964,28967,ich,antipholus_von_syrakus
 qd,vn90.0,28947,29228,antipholus_von_syrakus,29044,29047,mir,antipholus_von_syrakus
 qd,vn90.0,28947,29228,antipholus_von_syrakus,29064,29067,ich,antipholus_von_syrakus
 qd,vn90.0,28947,29228,antipholus_von_syrakus,29149,29152,ich,antipholus_von_syrakus
@@ -322,6 +330,7 @@ qd,vn90.0,32276,32421,antipholus_von_ephesus,32339,32342,Ich,antipholus_von_ephe
 qd,vn90.0,32276,32421,antipholus_von_ephesus,32376,32382,meinem,antipholus_von_ephesus
 qd,vn90.0,32428,32496,balthasar,32473,32476,ich,balthasar
 qd,vn90.0,32832,32906,balthasar,32884,32888,mich,balthasar
+qd,vn90.0,32911,33170,antipholus_von_ephesus,32945,32948,ich,antipholus_von_ephesus
 qd,vn90.0,33782,33862,dromio_von_syrakus,33815,33818,Ich,dromio_von_syrakus
 qd,vn90.0,33782,33862,dromio_von_syrakus,33844,33847,mir,dromio_von_syrakus
 qd,vn90.0,33868,33944,antipholus_von_ephesus,33917,33920,ich,antipholus_von_ephesus
@@ -525,6 +534,7 @@ qd,vn90.0,52977,53026,angelo,52985,52988,Ich,angelo
 qd,vn90.0,53031,53109,antipholus_von_ephesus,53064,53067,mir,antipholus_von_ephesus
 qd,vn90.0,53031,53109,antipholus_von_ephesus,53087,53091,mich,antipholus_von_ephesus
 qd,vn90.0,53114,53220,angelo,53123,53127,Mich,angelo
+qd,vn90.0,53114,53220,angelo,53165,53168,mir,angelo
 qd,vn90.0,53114,53220,angelo,53194,53198,mein,angelo
 qd,vn90.0,53226,53280,kaufmann,53268,53273,meine,kaufmann
 qd,vn90.0,53285,53343,gerichtsdiener,53334,53337,mir,gerichtsdiener
@@ -654,6 +664,7 @@ qd,vn90.0,66684,67415,dromio_von_ephesus,67261,67265,mich,dromio_von_ephesus
 qd,vn90.0,66684,67415,dromio_von_ephesus,67297,67300,ich,dromio_von_ephesus
 qd,vn90.0,67421,67490,antipholus_von_ephesus,67454,67457,mir,antipholus_von_ephesus
 qd,vn90.0,67421,67490,antipholus_von_ephesus,67479,67484,meine,antipholus_von_ephesus
+qd,vn90.0,67794,67987,adriana,67836,67839,ich,adriana
 qd,vn90.0,67794,67987,adriana,67897,67900,Ich,adriana
 qd,vn90.0,67794,67987,adriana,67945,67948,Ich,adriana
 qd,vn90.0,68111,68168,zwick,68123,68126,mir,zwick
@@ -680,6 +691,7 @@ qd,vn90.0,70082,70205,dromio_von_ephesus,70187,70190,ich,dromio_von_ephesus
 qd,vn90.0,70286,70335,adriana,70305,70308,mir,adriana
 qd,vn90.0,70286,70335,adriana,70310,70313,ich,adriana
 qd,vn90.0,70340,70385,luciana,70353,70356,ich,luciana
+qd,vn90.0,70390,70499,dromio_von_ephesus,70438,70441,mir,dromio_von_ephesus
 qd,vn90.0,70390,70499,dromio_von_ephesus,70455,70458,Ich,dromio_von_ephesus
 qd,vn90.0,70505,70647,zwick,70558,70561,Ich,zwick
 qd,vn90.0,70653,70778,antipholus_von_ephesus,70704,70708,mich,antipholus_von_ephesus
@@ -725,6 +737,7 @@ qd,vn90.0,74491,74631,antipholus_von_syrakus,74548,74551,ich,antipholus_von_syra
 qd,vn90.0,74749,74897,angelo,74765,74768,mir,angelo
 qd,vn90.0,74749,74897,angelo,74779,74782,ich,angelo
 qd,vn90.0,74749,74897,angelo,74811,74815,mein,angelo
+qd,vn90.0,74749,74897,angelo,74862,74865,mir,angelo
 qd,vn90.0,74957,75142,angelo,75133,75137,mein,angelo
 qd,vn90.0,75148,75267,kaufmann,75178,75182,mich,kaufmann
 qd,vn90.0,75148,75267,kaufmann,75190,75193,ich,kaufmann
@@ -734,7 +747,9 @@ qd,vn90.0,75273,75864,angelo,75475,75478,mir,angelo
 qd,vn90.0,75273,75864,angelo,75700,75706,meinen,angelo
 qd,vn90.0,75273,75864,angelo,75820,75823,mir,angelo
 qd,vn90.0,75870,75946,antipholus_von_syrakus,75894,75898,Mich,antipholus_von_syrakus
+qd,vn90.0,75870,75946,antipholus_von_syrakus,75926,75929,ich,antipholus_von_syrakus
 qd,vn90.0,76010,76077,antipholus_von_syrakus,76044,76048,mich,antipholus_von_syrakus
+qd,vn90.0,76082,76227,kaufmann,76127,76130,ich,kaufmann
 qd,vn90.0,76233,76387,antipholus_von_syrakus,76292,76296,mich,antipholus_von_syrakus
 qd,vn90.0,76233,76387,antipholus_von_syrakus,76302,76305,Ich,antipholus_von_syrakus
 qd,vn90.0,76233,76387,antipholus_von_syrakus,76315,76320,meine,antipholus_von_syrakus
@@ -747,8 +762,10 @@ qd,vn90.0,77078,77138,angelo,77086,77089,Ich,angelo
 qd,vn90.0,77143,77195,kaufmann,77163,77166,mir,kaufmann
 qd,vn90.0,77143,77195,kaufmann,77177,77180,ich,kaufmann
 qd,vn90.0,77876,77902,adriana,77893,77896,ich,adriana
+qd,vn90.0,77951,78005,adriana,77975,77978,mir,adriana
 qd,vn90.0,78122,78400,adriana,78202,78208,meinem,adriana
 qd,vn90.0,78122,78400,adriana,78244,78250,meinem,adriana
+qd,vn90.0,78122,78400,adriana,78274,78277,ich,adriana
 qd,vn90.0,78122,78400,adriana,78293,78298,meine,adriana
 qd,vn90.0,78122,78400,adriana,78334,78337,ich,adriana
 qd,vn90.0,78122,78400,adriana,78362,78365,ich,adriana
@@ -788,6 +805,7 @@ qd,vn90.0,83256,83753,diener,83590,83594,mein,diener
 qd,vn90.0,83871,84150,diener,83884,83890,meinem,diener
 qd,vn90.0,83871,84150,diener,83904,83907,ich,diener
 qd,vn90.0,83871,84150,diener,83920,83923,Ich,diener
+qd,vn90.0,83871,84150,diener,83948,83951,ich,diener
 qd,vn90.0,83871,84150,diener,84108,84111,Ich,diener
 qd,vn90.0,84220,84467,adriana,84245,84249,mein,adriana
 qd,vn90.0,84474,84763,antipholus_von_ephesus,84517,84521,Mein,antipholus_von_ephesus
@@ -841,10 +859,12 @@ qd,vn90.0,85775,87554,antipholus_von_ephesus,87353,87356,ich,antipholus_von_ephe
 qd,vn90.0,85775,87554,antipholus_von_ephesus,87466,87469,ich,antipholus_von_ephesus
 qd,vn90.0,85775,87554,antipholus_von_ephesus,87477,87480,Mir,antipholus_von_ephesus
 qd,vn90.0,87560,87664,angelo,87569,87573,Mein,angelo
+qd,vn90.0,87560,87664,angelo,87606,87609,ich,angelo
 qd,vn90.0,87724,87821,angelo,87733,87736,Ich,angelo
 qd,vn90.0,87827,88111,kaufmann,87854,87857,ich,kaufmann
 qd,vn90.0,87827,88111,kaufmann,87888,87891,ich,kaufmann
 qd,vn90.0,87827,88111,kaufmann,87994,87997,ich,kaufmann
+qd,vn90.0,87827,88111,kaufmann,88082,88085,mir,kaufmann
 qd,vn90.0,88117,88311,antipholus_von_ephesus,88157,88160,ich,antipholus_von_ephesus
 qd,vn90.0,88117,88311,antipholus_von_ephesus,88214,88218,mich,antipholus_von_ephesus
 qd,vn90.0,88117,88311,antipholus_von_ephesus,88235,88238,ich,antipholus_von_ephesus

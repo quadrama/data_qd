@@ -5,6 +5,7 @@ qd,t337.0,1037,1202,publicum,1101,1104,Ich,publicum
 qd,t337.0,1037,1202,publicum,1112,1116,mich,publicum
 qd,t337.0,1037,1202,publicum,1170,1174,mich,publicum
 qd,t337.0,1405,1568,publicum,1563,1567,mich,publicum
+qd,t337.0,1874,2312,publicum,1890,1893,ich,publicum
 qd,t337.0,1874,2312,publicum,1933,1936,Ich,publicum
 qd,t337.0,1874,2312,publicum,2216,2220,mich,publicum
 qd,t337.0,1874,2312,publicum,2222,2225,Ich,publicum
@@ -148,6 +149,9 @@ qd,t337.0,28531,28600,zelinde,28568,28571,ich,zelinde
 qd,t337.0,28605,28677,diagoras,28644,28647,ich,diagoras
 qd,t337.0,28682,28751,zelinde,28715,28718,ich,zelinde
 qd,t337.0,28900,28965,diagoras,28913,28916,ich,diagoras
+qd,t337.0,28900,28965,diagoras,28943,28946,ich,diagoras
+qd,t337.0,28970,29046,zelinde,28991,28994,mir,zelinde
+qd,t337.0,28970,29046,zelinde,29006,29009,ich,zelinde
 qd,t337.0,28970,29046,zelinde,29012,29018,meinem,zelinde
 qd,t337.0,28970,29046,zelinde,29030,29034,mein,zelinde
 qd,t337.0,29051,29116,diagoras,29078,29081,mir,diagoras
@@ -168,6 +172,7 @@ qd,t337.0,29795,30767,zelinde,30090,30093,mir,zelinde
 qd,t337.0,29795,30767,zelinde,30163,30167,Mich,zelinde
 qd,t337.0,29795,30767,zelinde,30232,30236,mich,zelinde
 qd,t337.0,29795,30767,zelinde,30319,30322,ich,zelinde
+qd,t337.0,29795,30767,zelinde,30379,30382,ich,zelinde
 qd,t337.0,29795,30767,zelinde,30494,30497,ich,zelinde
 qd,t337.0,29795,30767,zelinde,30546,30551,meine,zelinde
 qd,t337.0,29795,30767,zelinde,30714,30718,mich,zelinde
@@ -368,6 +373,7 @@ qd,t337.0,55589,55661,diagoras,55605,55609,mich,diagoras
 qd,t337.0,55589,55661,diagoras,55636,55639,mir,diagoras
 qd,t337.0,55666,55704,zelinde,55690,55693,mir,zelinde
 qd,t337.0,55756,56020,zelinde,55775,55779,mein,zelinde
+qd,t337.0,55756,56020,zelinde,55781,55784,ich,zelinde
 qd,t337.0,55756,56020,zelinde,55842,55845,ich,zelinde
 qd,t337.0,55756,56020,zelinde,55940,55943,ich,zelinde
 qd,t337.0,55756,56020,zelinde,55983,55986,mir,zelinde
@@ -510,7 +516,9 @@ qd,t337.0,74465,75963,oedipus,75401,75404,ich,oedipus
 qd,t337.0,74465,75963,oedipus,75459,75462,mir,oedipus
 qd,t337.0,74465,75963,oedipus,75549,75552,ich,oedipus
 qd,t337.0,74465,75963,oedipus,75558,75561,ich,oedipus
+qd,t337.0,74465,75963,oedipus,75630,75633,mir,oedipus
 qd,t337.0,74465,75963,oedipus,75681,75687,meinen,oedipus
+qd,t337.0,74465,75963,oedipus,75712,75715,mir,oedipus
 qd,t337.0,74465,75963,oedipus,75752,75755,ich,oedipus
 qd,t337.0,74465,75963,oedipus,75770,75773,ich,oedipus
 qd,t337.0,77154,77236,publicum,77173,77176,ich,publicum
@@ -518,6 +526,7 @@ qd,t337.0,77320,77472,verstand,77412,77415,ich,verstand
 qd,t337.0,77478,77602,publicum,77495,77498,ich,publicum
 qd,t337.0,77776,78004,verstand,77787,77790,Ich,verstand
 qd,t337.0,78342,79007,verstand,78357,78360,ich,verstand
+qd,t337.0,79013,79203,publicum,79060,79063,ich,publicum
 qd,t337.0,79013,79203,publicum,79073,79076,mir,publicum
 qd,t337.0,79013,79203,publicum,79109,79113,mich,publicum
 qd,t337.0,79013,79203,publicum,79115,79118,Ich,publicum

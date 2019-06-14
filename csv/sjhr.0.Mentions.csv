@@ -204,6 +204,7 @@ qd,sjhr.0,51956,52022,klagenfurter,51971,51974,Ich,klagenfurter
 qd,sjhr.0,52028,52116,präzold,52043,52046,ich,präzold
 qd,sjhr.0,52028,52116,präzold,52084,52087,mir,präzold
 qd,sjhr.0,52664,52781,strauss,52680,52683,ich,strauss
+qd,sjhr.0,52664,52781,strauss,52689,52692,mir,strauss
 qd,sjhr.0,53108,53398,strauss,53118,53121,Ich,strauss
 qd,sjhr.0,53108,53398,strauss,53183,53189,meiner,strauss
 qd,sjhr.0,53462,53571,strauss,53472,53475,Ich,strauss
@@ -537,6 +538,7 @@ qd,sjhr.0,113192,113314,flora,113200,113203,Ich,flora
 qd,sjhr.0,113319,113525,schenk,113402,113405,ich,schenk
 qd,sjhr.0,113319,113525,schenk,113457,113460,ich,schenk
 qd,sjhr.0,113727,113826,dietrich,113745,113748,Ich,dietrich
+qd,sjhr.0,113727,113826,dietrich,113753,113756,mir,dietrich
 qd,sjhr.0,113727,113826,dietrich,113772,113775,ich,dietrich
 qd,sjhr.0,113864,114065,dietrich,113875,113878,Ich,dietrich
 qd,sjhr.0,113864,114065,dietrich,113986,113989,ich,dietrich
@@ -727,7 +729,9 @@ qd,sjhr.0,140384,140524,frau_schenk,140408,140411,ich,frau_schenk
 qd,sjhr.0,140384,140524,frau_schenk,140459,140462,ich,frau_schenk
 qd,sjhr.0,140384,140524,frau_schenk,140488,140491,ich,frau_schenk
 qd,sjhr.0,140822,140897,schenk,140848,140851,ich,schenk
+qd,sjhr.0,141026,141167,schenk,141079,141082,ich,schenk
 qd,sjhr.0,141026,141167,schenk,141085,141088,mir,schenk
+qd,sjhr.0,141026,141167,schenk,141144,141147,ich,schenk
 qd,sjhr.0,141026,141167,schenk,141150,141153,mir,schenk
 qd,sjhr.0,141312,141487,schenk,141381,141385,Mich,schenk
 qd,sjhr.0,141493,141767,frau_schenk,141540,141543,ich,frau_schenk

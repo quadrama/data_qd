@@ -91,6 +91,7 @@ qd,kd4g.0,8455,8883,fledermaus,8587,8590,ich,fledermaus
 qd,kd4g.0,8455,8883,fledermaus,8639,8642,Ich,fledermaus
 qd,kd4g.0,8455,8883,fledermaus,8651,8657,meinem,fledermaus
 qd,kd4g.0,8455,8883,fledermaus,8693,8696,ich,fledermaus
+qd,kd4g.0,8455,8883,fledermaus,8697,8700,mir,fledermaus
 qd,kd4g.0,8455,8883,fledermaus,8803,8806,ich,fledermaus
 qd,kd4g.0,8948,9122,fledermaus,8997,9000,Ich,fledermaus
 qd,kd4g.0,8948,9122,fledermaus,9064,9067,ich,fledermaus
@@ -300,6 +301,8 @@ qd,kd4g.0,30693,31328,wirth,30943,30946,mir,wirth
 qd,kd4g.0,30693,31328,wirth,30997,31000,ich,wirth
 qd,kd4g.0,30693,31328,wirth,31001,31004,mir,wirth
 qd,kd4g.0,30693,31328,wirth,31051,31054,mir,wirth
+qd,kd4g.0,30693,31328,wirth,31086,31089,ich,wirth
+qd,kd4g.0,30693,31328,wirth,31166,31169,ich,wirth
 qd,kd4g.0,31448,32029,wirth,31492,31498,meiner,wirth
 qd,kd4g.0,31448,32029,wirth,31536,31539,ich,wirth
 qd,kd4g.0,31448,32029,wirth,31835,31838,ich,wirth
@@ -365,6 +368,7 @@ qd,kd4g.0,35737,35824,rosel,35794,35798,mich,rosel
 qd,kd4g.0,35829,35904,zacharias,35841,35844,Ich,zacharias
 qd,kd4g.0,35829,35904,zacharias,35871,35874,ich,zacharias
 qd,kd4g.0,35909,36035,rosel,35991,35994,ich,rosel
+qd,kd4g.0,36040,36302,zacharias,36062,36066,mich,zacharias
 qd,kd4g.0,36040,36302,zacharias,36082,36085,ich,zacharias
 qd,kd4g.0,36040,36302,zacharias,36107,36110,Ich,zacharias
 qd,kd4g.0,36040,36302,zacharias,36139,36143,mein,zacharias
@@ -699,6 +703,7 @@ qd,kd4g.0,70629,71161,erster_spieler,70995,70998,mir,erster_spieler
 qd,kd4g.0,70629,71161,erster_spieler,71038,71043,meine,erster_spieler
 qd,kd4g.0,70629,71161,erster_spieler,71119,71123,mich,erster_spieler
 qd,kd4g.0,71166,71380,winter,71190,71193,ich,winter
+qd,kd4g.0,71166,71380,winter,71239,71242,mir,winter
 qd,kd4g.0,71385,71585,treuhold,71525,71529,mich,treuhold
 qd,kd4g.0,72143,72270,winter,72196,72199,Ich,winter
 qd,kd4g.0,72565,72694,zacharias,72643,72646,ich,zacharias
@@ -731,6 +736,7 @@ qd,kd4g.0,75054,75159,rosel,75118,75122,mein,rosel
 qd,kd4g.0,75164,75228,zacharias,75208,75211,ich,zacharias
 qd,kd4g.0,75233,75319,rosel,75287,75290,Ich,rosel
 qd,kd4g.0,75388,75771,zacharias,75472,75475,mir,zacharias
+qd,kd4g.0,75388,75771,zacharias,75552,75555,ich,zacharias
 qd,kd4g.0,75388,75771,zacharias,75567,75571,mich,zacharias
 qd,kd4g.0,75955,76046,winter,76012,76015,ich,winter
 qd,kd4g.0,76145,76164,winter,76154,76157,Ich,winter
@@ -829,6 +835,7 @@ qd,kd4g.0,84761,85038,zacharias,84792,84795,ich,zacharias
 qd,kd4g.0,84761,85038,zacharias,84823,84827,mich,zacharias
 qd,kd4g.0,84761,85038,zacharias,84909,84913,mein,zacharias
 qd,kd4g.0,84761,85038,zacharias,84915,84919,mein,zacharias
+qd,kd4g.0,84761,85038,zacharias,84929,84932,mir,zacharias
 qd,kd4g.0,84761,85038,zacharias,84965,84968,ich,zacharias
 qd,kd4g.0,84761,85038,zacharias,84986,84989,ich,zacharias
 qd,kd4g.0,85043,85319,viktort,85084,85087,ich,viktort

@@ -9,6 +9,7 @@ qd,11gtp.0,1511,1538,elmire,1520,1523,Mir,elmire
 qd,11gtp.0,1543,2220,olimpia,1649,1652,ich,olimpia
 qd,11gtp.0,1543,2220,olimpia,2082,2085,mir,olimpia
 qd,11gtp.0,1543,2220,olimpia,2096,2099,mir,olimpia
+qd,11gtp.0,1543,2220,olimpia,2202,2205,mir,olimpia
 qd,11gtp.0,2225,2293,elmire,2234,2237,Ich,elmire
 qd,11gtp.0,2298,2423,olimpia,2358,2361,ich,olimpia
 qd,11gtp.0,2298,2423,olimpia,2392,2395,Ich,olimpia
@@ -126,6 +127,10 @@ qd,11gtp.0,15270,15908,elmire,15831,15834,Ich,elmire
 qd,11gtp.0,15270,15908,elmire,15869,15872,ich,elmire
 qd,11gtp.0,15913,16023,bernardo,15950,15954,mein,bernardo
 qd,11gtp.0,16028,16869,elmire,16050,16054,mich,elmire
+qd,11gtp.0,16028,16869,elmire,16070,16073,mir,elmire
+qd,11gtp.0,16028,16869,elmire,16112,16115,ich,elmire
+qd,11gtp.0,16028,16869,elmire,16157,16160,ich,elmire
+qd,11gtp.0,16028,16869,elmire,16173,16176,mir,elmire
 qd,11gtp.0,16028,16869,elmire,16189,16192,ich,elmire
 qd,11gtp.0,16028,16869,elmire,16458,16461,ich,elmire
 qd,11gtp.0,16028,16869,elmire,16534,16538,mich,elmire
@@ -158,6 +163,8 @@ qd,11gtp.0,18144,18545,bernardo,18492,18495,ich,bernardo
 qd,11gtp.0,18144,18545,bernardo,18520,18523,ich,bernardo
 qd,11gtp.0,18144,18545,bernardo,18531,18534,mir,bernardo
 qd,11gtp.0,18717,19257,bernardo,18730,18735,meine,bernardo
+qd,11gtp.0,18717,19257,bernardo,18752,18755,ich,bernardo
+qd,11gtp.0,18717,19257,bernardo,18785,18788,ich,bernardo
 qd,11gtp.0,18717,19257,bernardo,18807,18810,Ich,bernardo
 qd,11gtp.0,18717,19257,bernardo,18825,18831,meinem,bernardo
 qd,11gtp.0,18717,19257,bernardo,18926,18929,ich,bernardo
@@ -178,6 +185,7 @@ qd,11gtp.0,19332,20020,bernardo,19728,19732,mein,bernardo
 qd,11gtp.0,19332,20020,bernardo,19776,19780,mich,bernardo
 qd,11gtp.0,19332,20020,bernardo,19812,19816,mich,bernardo
 qd,11gtp.0,19332,20020,bernardo,19831,19834,ich,bernardo
+qd,11gtp.0,19332,20020,bernardo,19835,19839,mich,bernardo
 qd,11gtp.0,19332,20020,bernardo,19958,19961,ich,bernardo
 qd,11gtp.0,19332,20020,bernardo,20001,20005,mich,bernardo
 qd,11gtp.0,19332,20020,bernardo,20015,20019,mich,bernardo
@@ -219,6 +227,7 @@ qd,11gtp.0,22262,23410,bernardo,22535,22538,ich,bernardo
 qd,11gtp.0,22262,23410,bernardo,22597,22600,ich,bernardo
 qd,11gtp.0,22262,23410,bernardo,22862,22865,ich,bernardo
 qd,11gtp.0,22262,23410,bernardo,22874,22877,ich,bernardo
+qd,11gtp.0,22262,23410,bernardo,22894,22897,mir,bernardo
 qd,11gtp.0,22262,23410,bernardo,22915,22918,ich,bernardo
 qd,11gtp.0,23415,25508,erwin,23550,23555,Meine,erwin
 qd,11gtp.0,23415,25508,erwin,23665,23668,ich,erwin
@@ -249,6 +258,7 @@ qd,11gtp.0,25543,25933,erwin,25753,25756,mir,erwin
 qd,11gtp.0,25543,25933,erwin,25903,25906,mir,erwin
 qd,11gtp.0,25543,25933,erwin,25912,25916,mich,erwin
 qd,11gtp.0,25543,25933,erwin,25918,25921,ich,erwin
+qd,11gtp.0,26032,26449,erwin,26063,26066,mir,erwin
 qd,11gtp.0,26032,26449,erwin,26074,26077,ich,erwin
 qd,11gtp.0,26032,26449,erwin,26078,26082,mich,erwin
 qd,11gtp.0,26032,26449,erwin,26111,26115,mich,erwin
@@ -266,6 +276,7 @@ qd,11gtp.0,27019,27209,erwin,27046,27049,mir,erwin
 qd,11gtp.0,27019,27209,erwin,27065,27069,mein,erwin
 qd,11gtp.0,27019,27209,erwin,27170,27173,ich,erwin
 qd,11gtp.0,27019,27209,erwin,27197,27200,ich,erwin
+qd,11gtp.0,27318,27355,bernardo,27334,27337,ich,bernardo
 qd,11gtp.0,27388,27684,bernardo,27412,27415,mir,bernardo
 qd,11gtp.0,27388,27684,bernardo,27550,27553,mir,bernardo
 qd,11gtp.0,28689,29012,bernardo,28905,28908,ich,bernardo

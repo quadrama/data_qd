@@ -2,6 +2,7 @@ corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mention
 qd,vn5n.0,863,2409,gower,1264,1268,mein,gower
 qd,vn5n.0,863,2409,gower,1372,1375,ich,gower
 qd,vn5n.0,863,2409,gower,1376,1379,mir,gower
+qd,vn5n.0,863,2409,gower,1391,1394,ich,gower
 qd,vn5n.0,863,2409,gower,1552,1555,ich,gower
 qd,vn5n.0,2601,2738,perikles,2623,2627,mich,perikles
 qd,vn5n.0,2601,2738,perikles,2705,2709,mich,perikles
@@ -98,6 +99,7 @@ qd,vn5n.0,15003,15261,perikles,15069,15072,ich,perikles
 qd,vn5n.0,15003,15261,perikles,15114,15117,ich,perikles
 qd,vn5n.0,15003,15261,perikles,15158,15161,Ich,perikles
 qd,vn5n.0,15003,15261,perikles,15184,15187,ich,perikles
+qd,vn5n.0,15003,15261,perikles,15222,15225,ich,perikles
 qd,vn5n.0,15267,15729,helicanus,15287,15291,mein,helicanus
 qd,vn5n.0,15267,15729,helicanus,15299,15302,mir,helicanus
 qd,vn5n.0,15267,15729,helicanus,15342,15345,ich,helicanus
@@ -154,6 +156,7 @@ qd,vn5n.0,26270,26360,erster_fischer,26328,26331,ich,erster_fischer
 qd,vn5n.0,26365,26498,dritter_fischer,26392,26395,ich,dritter_fischer
 qd,vn5n.0,26365,26498,dritter_fischer,26403,26409,meiner,dritter_fischer
 qd,vn5n.0,26503,26682,erster_fischer,26553,26556,mir,erster_fischer
+qd,vn5n.0,26687,27009,dritter_fischer,26719,26722,ich,dritter_fischer
 qd,vn5n.0,26687,27009,dritter_fischer,26750,26753,ich,dritter_fischer
 qd,vn5n.0,26687,27009,dritter_fischer,26905,26908,ich,dritter_fischer
 qd,vn5n.0,26687,27009,dritter_fischer,26909,26913,mich,dritter_fischer
@@ -185,6 +188,7 @@ qd,vn5n.0,30217,30328,zweiter_fischer,30266,30269,ich,zweiter_fischer
 qd,vn5n.0,30393,30647,zweiter_fischer,30506,30509,ich,zweiter_fischer
 qd,vn5n.0,30393,30647,zweiter_fischer,30510,30513,mir,zweiter_fischer
 qd,vn5n.0,30393,30647,zweiter_fischer,30579,30582,ich,zweiter_fischer
+qd,vn5n.0,30801,30913,erster_fischer,30826,30829,ich,erster_fischer
 qd,vn5n.0,31461,31559,perikles,31477,31483,meinem,perikles
 qd,vn5n.0,31461,31559,perikles,31496,31500,mein,perikles
 qd,vn5n.0,31461,31559,perikles,31525,31528,ich,perikles
@@ -311,6 +315,7 @@ qd,vn5n.0,48922,49001,simonides,48953,48957,mein,simonides
 qd,vn5n.0,49007,49186,perikles,49098,49101,ich,perikles
 qd,vn5n.0,49007,49186,perikles,49134,49137,ich,perikles
 qd,vn5n.0,49192,49274,thaisa,49246,49249,ich,thaisa
+qd,vn5n.0,49280,49959,simonides,49354,49358,mich,simonides
 qd,vn5n.0,49280,49959,simonides,49378,49381,ich,simonides
 qd,vn5n.0,49280,49959,simonides,49393,49396,ich,simonides
 qd,vn5n.0,49280,49959,simonides,49443,49449,meinen,simonides

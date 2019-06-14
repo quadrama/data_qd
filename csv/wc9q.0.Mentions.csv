@@ -22,6 +22,7 @@ qd,wc9q.0,3970,4114,professor_giselius,4001,4004,ich,professor_giselius
 qd,wc9q.0,3970,4114,professor_giselius,4010,4013,mir,professor_giselius
 qd,wc9q.0,4683,4804,professor_giselius,4712,4718,meinen,professor_giselius
 qd,wc9q.0,4847,4965,professor_giselius,4919,4922,mir,professor_giselius
+qd,wc9q.0,4970,5007,frau_giselius,4991,4994,ich,frau_giselius
 qd,wc9q.0,5012,5352,professor_giselius,5103,5106,ich,professor_giselius
 qd,wc9q.0,5012,5352,professor_giselius,5174,5177,mir,professor_giselius
 qd,wc9q.0,5012,5352,professor_giselius,5255,5259,mich,professor_giselius
@@ -88,6 +89,7 @@ qd,wc9q.0,15834,16092,cölestine,15846,15849,Ich,cölestine
 qd,wc9q.0,15834,16092,cölestine,15945,15948,Ich,cölestine
 qd,wc9q.0,16297,16418,cölestine,16313,16316,mir,cölestine
 qd,wc9q.0,16472,16770,cölestine,16507,16510,Ich,cölestine
+qd,wc9q.0,16472,16770,cölestine,16666,16669,mir,cölestine
 qd,wc9q.0,16472,16770,cölestine,16725,16728,mir,cölestine
 qd,wc9q.0,17021,17067,frau_giselius,17037,17040,Ich,frau_giselius
 qd,wc9q.0,17021,17067,frau_giselius,17046,17049,mir,frau_giselius
@@ -100,6 +102,7 @@ qd,wc9q.0,18444,18633,frau_giselius,18460,18463,Ich,frau_giselius
 qd,wc9q.0,18444,18633,frau_giselius,18497,18501,mich,frau_giselius
 qd,wc9q.0,18444,18633,frau_giselius,18577,18580,mir,frau_giselius
 qd,wc9q.0,18778,18811,cölestine,18790,18793,Ich,cölestine
+qd,wc9q.0,18778,18811,cölestine,18799,18802,mir,cölestine
 qd,wc9q.0,19166,19251,frau_giselius,19182,19185,Ich,frau_giselius
 qd,wc9q.0,19256,19485,professor_giselius,19340,19343,mir,professor_giselius
 qd,wc9q.0,19256,19485,professor_giselius,19376,19381,meine,professor_giselius

@@ -89,8 +89,10 @@ qd,strd.0,11902,12050,eulenspiegel,11997,12000,ich,eulenspiegel
 qd,strd.0,12055,12131,heinrich,12074,12077,mir,heinrich
 qd,strd.0,12055,12131,heinrich,12078,12082,mein,heinrich
 qd,strd.0,12055,12131,heinrich,12113,12116,ich,heinrich
+qd,strd.0,12191,12251,heinrich,12217,12220,mir,heinrich
 qd,strd.0,12408,12484,eulenspiegel,12456,12459,ich,eulenspiegel
 qd,strd.0,12408,12484,eulenspiegel,12460,12464,mein,eulenspiegel
+qd,strd.0,12704,12943,eulenspiegel,12727,12730,ich,eulenspiegel
 qd,strd.0,12704,12943,eulenspiegel,12752,12755,Ich,eulenspiegel
 qd,strd.0,12704,12943,eulenspiegel,12857,12860,mir,eulenspiegel
 qd,strd.0,12704,12943,eulenspiegel,12893,12896,ich,eulenspiegel
@@ -130,6 +132,7 @@ qd,strd.0,16555,16604,lenchen,16579,16582,ich,lenchen
 qd,strd.0,16609,16736,mehlwurm,16701,16705,mich,mehlwurm
 qd,strd.0,16741,16807,cordula,16770,16773,ich,cordula
 qd,strd.0,17179,17489,mehlwurm,17250,17253,ich,mehlwurm
+qd,strd.0,17179,17489,mehlwurm,17254,17258,mein,mehlwurm
 qd,strd.0,17179,17489,mehlwurm,17277,17280,ich,mehlwurm
 qd,strd.0,17179,17489,mehlwurm,17338,17341,ich,mehlwurm
 qd,strd.0,17179,17489,mehlwurm,17480,17483,ich,mehlwurm
@@ -212,6 +215,7 @@ qd,strd.0,24710,24739,mehlwurm,24725,24729,mich,mehlwurm
 qd,strd.0,24827,25070,mehlwurm,24838,24841,Ich,mehlwurm
 qd,strd.0,24827,25070,mehlwurm,24859,24862,mir,mehlwurm
 qd,strd.0,24827,25070,mehlwurm,24959,24962,mir,mehlwurm
+qd,strd.0,24827,25070,mehlwurm,25011,25014,ich,mehlwurm
 qd,strd.0,25152,25243,eulenspiegel,25196,25199,ich,eulenspiegel
 qd,strd.0,25348,25512,eulenspiegel,25390,25394,mich,eulenspiegel
 qd,strd.0,25348,25512,eulenspiegel,25458,25461,mir,eulenspiegel
@@ -284,6 +288,7 @@ qd,strd.0,35097,35515,nelkenstein,35346,35349,ich,nelkenstein
 qd,strd.0,35097,35515,nelkenstein,35379,35383,mein,nelkenstein
 qd,strd.0,35097,35515,nelkenstein,35391,35394,Ich,nelkenstein
 qd,strd.0,35097,35515,nelkenstein,35493,35499,meines,nelkenstein
+qd,strd.0,35581,35691,nelkenstein,35666,35669,ich,nelkenstein
 qd,strd.0,35740,35841,nelkenstein,35805,35808,ich,nelkenstein
 qd,strd.0,35846,35964,heinrich,35857,35860,Ich,heinrich
 qd,strd.0,35846,35964,heinrich,35951,35955,mein,heinrich
@@ -352,6 +357,7 @@ qd,strd.0,44204,44341,lenchen,44305,44308,ich,lenchen
 qd,strd.0,44204,44341,lenchen,44309,44313,mich,lenchen
 qd,strd.0,44346,44413,natzi,44354,44357,Ich,natzi
 qd,strd.0,44418,44513,peppi,44452,44455,mir,peppi
+qd,strd.0,44518,44668,natzi,44550,44553,mir,natzi
 qd,strd.0,44518,44668,natzi,44592,44595,mir,natzi
 qd,strd.0,44753,44969,natzi,44843,44849,meinem,natzi
 qd,strd.0,44753,44969,natzi,44909,44912,mir,natzi
@@ -386,6 +392,7 @@ qd,strd.0,47721,47813,peppi,47797,47801,mein,peppi
 qd,strd.0,47818,47948,natzi,47837,47842,meine,natzi
 qd,strd.0,47953,48186,peppi,47994,47997,mir,peppi
 qd,strd.0,47953,48186,peppi,48032,48036,mich,peppi
+qd,strd.0,47953,48186,peppi,48085,48088,ich,peppi
 qd,strd.0,47953,48186,peppi,48112,48115,mir,peppi
 qd,strd.0,47953,48186,peppi,48162,48165,Ich,peppi
 qd,strd.0,47953,48186,peppi,48166,48170,mich,peppi
@@ -526,6 +533,7 @@ qd,strd.0,68643,68731,dorothea,68664,68667,ich,dorothea
 qd,strd.0,68810,70105,dorothea,68948,68951,ich,dorothea
 qd,strd.0,68810,70105,dorothea,68970,68973,ich,dorothea
 qd,strd.0,68810,70105,dorothea,68974,68978,mich,dorothea
+qd,strd.0,68810,70105,dorothea,69006,69009,ich,dorothea
 qd,strd.0,68810,70105,dorothea,69039,69042,Ich,dorothea
 qd,strd.0,68810,70105,dorothea,69059,69062,ich,dorothea
 qd,strd.0,68810,70105,dorothea,69080,69083,Ich,dorothea
@@ -552,6 +560,7 @@ qd,strd.0,70175,70596,heinrich,70532,70536,mich,heinrich
 qd,strd.0,70667,71043,mehlwurm,70790,70793,mir,mehlwurm
 qd,strd.0,70667,71043,mehlwurm,70862,70865,Mir,mehlwurm
 qd,strd.0,70667,71043,mehlwurm,70880,70883,ich,mehlwurm
+qd,strd.0,71561,71626,mehlwurm,71582,71585,ich,mehlwurm
 qd,strd.0,71631,71839,eulenspiegel,71682,71685,mir,eulenspiegel
 qd,strd.0,71879,71964,eulenspiegel,71959,71963,mich,eulenspiegel
 qd,strd.0,71969,72025,mehlwurm,71986,71989,ich,mehlwurm
@@ -563,6 +572,7 @@ qd,strd.0,72446,72520,mehlwurm,72457,72462,Meine,mehlwurm
 qd,strd.0,72697,72780,eulenspiegel,72718,72721,ich,eulenspiegel
 qd,strd.0,72697,72780,eulenspiegel,72732,72736,mein,eulenspiegel
 qd,strd.0,72697,72780,eulenspiegel,72771,72775,mich,eulenspiegel
+qd,strd.0,72856,73049,cordula,72960,72963,ich,cordula
 qd,strd.0,73055,73117,eulenspiegel,73112,73116,mich,eulenspiegel
 qd,strd.0,73122,73195,mehlwurm,73177,73180,ich,mehlwurm
 qd,strd.0,73200,73321,eulenspiegel,73242,73246,mein,eulenspiegel
@@ -757,6 +767,7 @@ qd,strd.0,98000,98039,lenchen,98023,98026,ich,lenchen
 qd,strd.0,98093,98146,nelkenstein,98107,98111,Mein,nelkenstein
 qd,strd.0,98251,98342,nelkenstein,98290,98296,meinen,nelkenstein
 qd,strd.0,98251,98342,nelkenstein,98307,98313,meiner,nelkenstein
+qd,strd.0,98469,98595,nelkenstein,98514,98517,ich,nelkenstein
 qd,strd.0,98600,98808,eulenspiegel,98676,98680,mein,eulenspiegel
 qd,strd.0,98959,99164,heinrich,98970,98973,Ich,heinrich
 qd,strd.0,98959,99164,heinrich,99012,99015,ich,heinrich
@@ -827,6 +838,7 @@ qd,strd.0,107997,108047,lenchen,108031,108037,meinem,lenchen
 qd,strd.0,108238,108278,heinrich,108253,108256,ich,heinrich
 qd,strd.0,108414,108696,eulenspiegel,108439,108442,ich,eulenspiegel
 qd,strd.0,109097,109172,heinrich,109126,109130,mich,heinrich
+qd,strd.0,109177,109371,nelkenstein,109198,109201,ich,nelkenstein
 qd,strd.0,109377,109459,mehlwurm,109428,109431,Ich,mehlwurm
 qd,strd.0,109464,109721,nelkenstein,109565,109569,mich,nelkenstein
 qd,strd.0,109464,109721,nelkenstein,109615,109618,ich,nelkenstein

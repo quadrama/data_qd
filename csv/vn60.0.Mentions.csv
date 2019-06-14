@@ -183,6 +183,7 @@ qd,vn60.0,35686,36836,arcites,36759,36763,mich,arcites
 qd,vn60.0,36842,37632,palämon,36852,36855,Ich,palämon
 qd,vn60.0,36842,37632,palämon,36882,36886,mich,palämon
 qd,vn60.0,36842,37632,palämon,37075,37078,mir,palämon
+qd,vn60.0,36842,37632,palämon,37172,37175,ich,palämon
 qd,vn60.0,36842,37632,palämon,37617,37620,ich,palämon
 qd,vn60.0,37638,37689,arcites,37672,37675,ich,arcites
 qd,vn60.0,38802,38940,emilia,38810,38813,Ich,emilia
@@ -346,6 +347,7 @@ qd,vn60.0,52389,53976,tochter,53882,53886,mich,tochter
 qd,vn60.0,52389,53976,tochter,53920,53923,ich,tochter
 qd,vn60.0,52389,53976,tochter,53961,53965,mein,tochter
 qd,vn60.0,54157,54323,theseus,54211,54214,ich,theseus
+qd,vn60.0,54157,54323,theseus,54302,54305,ich,theseus
 qd,vn60.0,54329,54359,arcites,54348,54352,mich,arcites
 qd,vn60.0,54494,54554,arcites,54504,54508,Mein,arcites
 qd,vn60.0,54494,54554,arcites,54545,54549,Mich,arcites
@@ -474,6 +476,7 @@ qd,vn60.0,63923,64266,arcites,64202,64205,mir,arcites
 qd,vn60.0,64440,64651,palämon,64472,64475,ich,palämon
 qd,vn60.0,64440,64651,palämon,64526,64530,mein,palämon
 qd,vn60.0,64440,64651,palämon,64532,64535,ich,palämon
+qd,vn60.0,64440,64651,palämon,64570,64573,ich,palämon
 qd,vn60.0,64440,64651,palämon,64590,64593,ich,palämon
 qd,vn60.0,64440,64651,palämon,64594,64597,mir,palämon
 qd,vn60.0,64440,64651,palämon,64615,64621,meines,palämon
@@ -528,6 +531,7 @@ qd,vn60.0,68830,69063,arcites,68883,68886,ich,arcites
 qd,vn60.0,68830,69063,arcites,69045,69048,ich,arcites
 qd,vn60.0,69101,69242,arcites,69187,69190,ich,arcites
 qd,vn60.0,69248,69289,palämon,69267,69270,ich,palämon
+qd,vn60.0,69378,69432,palämon,69422,69425,ich,palämon
 qd,vn60.0,69534,69598,arcites,69544,69547,Ich,arcites
 qd,vn60.0,69534,69598,arcites,69554,69558,mich,arcites
 qd,vn60.0,69604,69679,palämon,69618,69621,ich,palämon
@@ -630,7 +634,9 @@ qd,vn60.0,83347,84383,arcites,84036,84039,ich,arcites
 qd,vn60.0,83347,84383,arcites,84075,84078,ich,arcites
 qd,vn60.0,83347,84383,arcites,84188,84191,ich,arcites
 qd,vn60.0,83347,84383,arcites,84229,84232,ich,arcites
+qd,vn60.0,83347,84383,arcites,84258,84261,ich,arcites
 qd,vn60.0,83347,84383,arcites,84276,84279,ich,arcites
+qd,vn60.0,83347,84383,arcites,84307,84310,ich,arcites
 qd,vn60.0,83347,84383,arcites,84333,84336,ich,arcites
 qd,vn60.0,83347,84383,arcites,84356,84361,meine,arcites
 qd,vn60.0,83347,84383,arcites,84372,84376,mein,arcites
@@ -724,6 +730,7 @@ qd,vn60.0,91478,92171,arcites,91726,91729,ich,arcites
 qd,vn60.0,91478,92171,arcites,91769,91773,mein,arcites
 qd,vn60.0,91478,92171,arcites,91780,91783,ich,arcites
 qd,vn60.0,91478,92171,arcites,91810,91813,ich,arcites
+qd,vn60.0,91478,92171,arcites,91876,91880,mich,arcites
 qd,vn60.0,91478,92171,arcites,91919,91923,mich,arcites
 qd,vn60.0,91478,92171,arcites,91946,91949,ich,arcites
 qd,vn60.0,91478,92171,arcites,92044,92048,Mich,arcites
@@ -767,6 +774,7 @@ qd,vn60.0,95810,96686,emilia,96459,96465,meiner,emilia
 qd,vn60.0,95810,96686,emilia,96535,96540,meine,emilia
 qd,vn60.0,95810,96686,emilia,96578,96582,mich,emilia
 qd,vn60.0,95810,96686,emilia,96588,96591,ich,emilia
+qd,vn60.0,96692,96731,theseus,96720,96723,ich,theseus
 qd,vn60.0,96736,96954,emilia,96809,96813,mich,emilia
 qd,vn60.0,96736,96954,emilia,96825,96829,mich,emilia
 qd,vn60.0,96960,97332,palämon,96974,96977,ich,palämon
@@ -907,6 +915,7 @@ qd,vn60.0,117967,118302,tochter,117977,117980,Ich,tochter
 qd,vn60.0,118408,118888,tochter,118453,118456,ich,tochter
 qd,vn60.0,118408,118888,tochter,118816,118819,ich,tochter
 qd,vn60.0,118893,118985,doctor,118951,118955,mich,doctor
+qd,vn60.0,118990,119513,tochter,119010,119013,mir,tochter
 qd,vn60.0,119560,119961,tochter,119949,119952,mir,tochter
 qd,vn60.0,120088,120500,tochter,120191,120194,ich,tochter
 qd,vn60.0,120088,120500,tochter,120201,120204,ich,tochter
@@ -1035,6 +1044,7 @@ qd,vn60.0,140460,140484,emilia,140468,140471,Ich,emilia
 qd,vn60.0,140535,140969,emilia,140564,140567,ich,emilia
 qd,vn60.0,140535,140969,emilia,140777,140780,Ich,emilia
 qd,vn60.0,140535,140969,emilia,140811,140815,mein,emilia
+qd,vn60.0,140535,140969,emilia,140877,140880,ich,emilia
 qd,vn60.0,140535,140969,emilia,140905,140909,mein,emilia
 qd,vn60.0,140535,140969,emilia,140926,140929,ich,emilia
 qd,vn60.0,141335,141411,emilia,141353,141356,mir,emilia
@@ -1060,6 +1070,7 @@ qd,vn60.0,144410,144872,emilia,144580,144583,Ich,emilia
 qd,vn60.0,144878,145133,dienerin,144899,144902,mir,dienerin
 qd,vn60.0,145139,145487,emilia,145197,145200,ich,emilia
 qd,vn60.0,145540,145679,emilia,145578,145581,Ich,emilia
+qd,vn60.0,145796,146422,emilia,146099,146102,ich,emilia
 qd,vn60.0,145796,146422,emilia,146158,146161,ich,emilia
 qd,vn60.0,145796,146422,emilia,146175,146178,ich,emilia
 qd,vn60.0,145796,146422,emilia,146330,146333,mir,emilia

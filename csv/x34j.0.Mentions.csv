@@ -7,6 +7,7 @@ qd,x34j.0,357,588,frau_bergmann,435,438,ich,frau_bergmann
 qd,x34j.0,357,588,frau_bergmann,450,454,mein,frau_bergmann
 qd,x34j.0,593,934,wendla,619,622,mir,wendla
 qd,x34j.0,593,934,wendla,623,627,mein,wendla
+qd,x34j.0,593,934,wendla,683,687,mich,wendla
 qd,x34j.0,593,934,wendla,747,750,ich,wendla
 qd,x34j.0,593,934,wendla,805,808,mir,wendla
 qd,x34j.0,593,934,wendla,857,863,meinem,wendla
@@ -217,6 +218,7 @@ qd,x34j.0,22386,22825,moritz_stiefel,22427,22430,ich,moritz_stiefel
 qd,x34j.0,22386,22825,moritz_stiefel,22484,22487,Ich,moritz_stiefel
 qd,x34j.0,22386,22825,moritz_stiefel,22530,22533,ich,moritz_stiefel
 qd,x34j.0,22386,22825,moritz_stiefel,22554,22557,Ich,moritz_stiefel
+qd,x34j.0,22386,22825,moritz_stiefel,22594,22597,ich,moritz_stiefel
 qd,x34j.0,22386,22825,moritz_stiefel,22611,22614,Ich,moritz_stiefel
 qd,x34j.0,22386,22825,moritz_stiefel,22674,22677,Ich,moritz_stiefel
 qd,x34j.0,22386,22825,moritz_stiefel,22707,22710,Ich,moritz_stiefel
@@ -243,6 +245,7 @@ qd,x34j.0,23877,24223,moritz_stiefel,24186,24189,ich,moritz_stiefel
 qd,x34j.0,24228,24276,otto,24235,24238,Ich,otto
 qd,x34j.0,24281,24581,moritz_stiefel,24309,24312,Ich,moritz_stiefel
 qd,x34j.0,24281,24581,moritz_stiefel,24357,24360,ich,moritz_stiefel
+qd,x34j.0,24281,24581,moritz_stiefel,24396,24399,ich,moritz_stiefel
 qd,x34j.0,24281,24581,moritz_stiefel,24483,24486,ich,moritz_stiefel
 qd,x34j.0,24281,24581,moritz_stiefel,24489,24492,ich,moritz_stiefel
 qd,x34j.0,24281,24581,moritz_stiefel,24521,24524,ich,moritz_stiefel
@@ -756,6 +759,7 @@ qd,x34j.0,82685,82884,rentier_stiefel,82801,82804,mir,rentier_stiefel
 qd,x34j.0,82685,82884,rentier_stiefel,82832,82835,mir,rentier_stiefel
 qd,x34j.0,82685,82884,rentier_stiefel,82851,82854,mir,rentier_stiefel
 qd,x34j.0,83363,83542,onkel_probst,83423,83429,Meiner,onkel_probst
+qd,x34j.0,83363,83542,onkel_probst,83451,83454,ich,onkel_probst
 qd,x34j.0,84442,84671,freund_ziegenmelker,84514,84520,meiner,freund_ziegenmelker
 qd,x34j.0,84676,84942,rentier_stiefel,84745,84748,mir,rentier_stiefel
 qd,x34j.0,84676,84942,rentier_stiefel,84777,84780,mir,rentier_stiefel
@@ -938,6 +942,7 @@ qd,x34j.0,106813,106875,wendla,106827,106830,ich,wendla
 qd,x34j.0,107291,107328,ernst,107301,107304,Ich,ernst
 qd,x34j.0,107291,107328,ernst,107310,107314,mich,ernst
 qd,x34j.0,107487,107557,hänschen,107511,107514,mir,hänschen
+qd,x34j.0,107487,107557,hänschen,107536,107539,mir,hänschen
 qd,x34j.0,107562,107595,ernst,107575,107578,ich,ernst
 qd,x34j.0,107650,107700,ernst,107658,107661,Ich,ernst
 qd,x34j.0,107705,107878,hänschen,107721,107724,ich,hänschen
@@ -1082,10 +1087,10 @@ qd,x34j.0,123470,123607,moritz_stiefel,123533,123539,meinen,moritz_stiefel
 qd,x34j.0,123470,123607,moritz_stiefel,123570,123573,ich,moritz_stiefel
 qd,x34j.0,123612,123722,melchior,123665,123669,mich,melchior
 qd,x34j.0,123612,123722,melchior,123685,123688,ich,melchior
+qd,x34j.0,123727,123943,moritz_stiefel,123740,123744,mich,moritz_stiefel
 qd,x34j.0,123727,123943,moritz_stiefel,123778,123781,ich,moritz_stiefel
 qd,x34j.0,123727,123943,moritz_stiefel,123855,123858,ich,moritz_stiefel
 qd,x34j.0,123727,123943,moritz_stiefel,123895,123898,ich,moritz_stiefel
-qd,x34j.0,124114,124489,melchior,124148,124154,meinen,melchior
 qd,x34j.0,124114,124489,melchior,124185,124188,mir,melchior
 qd,x34j.0,124114,124489,melchior,124301,124304,Ich,melchior
 qd,x34j.0,124114,124489,melchior,124358,124361,ich,melchior

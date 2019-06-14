@@ -5,6 +5,7 @@ qd,p5cg.0,7393,7428,jochai,7413,7416,Ich,jochai
 qd,p5cg.0,7434,7872,silva,7593,7599,meinen,silva
 qd,p5cg.0,7434,7872,silva,7617,7620,ich,silva
 qd,p5cg.0,7434,7872,silva,7720,7723,ich,silva
+qd,p5cg.0,7878,8226,jochai,7913,7916,ich,jochai
 qd,p5cg.0,8576,8860,jochai,8657,8660,ich,jochai
 qd,p5cg.0,8866,8961,silva,8916,8919,Ich,silva
 qd,p5cg.0,9015,10145,silva,9213,9216,ich,silva
@@ -122,6 +123,7 @@ qd,p5cg.0,22812,22903,santos,22884,22887,ich,santos
 qd,p5cg.0,23106,23204,uriel,23167,23170,ich,uriel
 qd,p5cg.0,23106,23204,uriel,23187,23190,ich,uriel
 qd,p5cg.0,23702,23790,silva,23732,23736,mich,silva
+qd,p5cg.0,23796,24267,santos,24136,24139,mir,santos
 qd,p5cg.0,24272,24406,uriel,24324,24327,Ich,uriel
 qd,p5cg.0,24563,25285,silva,25024,25027,mir,silva
 qd,p5cg.0,24563,25285,silva,25046,25049,ich,silva
@@ -266,6 +268,7 @@ qd,p5cg.0,41945,44919,uriel,43778,43781,Mir,uriel
 qd,p5cg.0,41945,44919,uriel,43830,43833,mir,uriel
 qd,p5cg.0,41945,44919,uriel,43856,43859,ich,uriel
 qd,p5cg.0,41945,44919,uriel,43889,43892,ich,uriel
+qd,p5cg.0,41945,44919,uriel,43955,43958,ich,uriel
 qd,p5cg.0,41945,44919,uriel,43979,43983,mich,uriel
 qd,p5cg.0,41945,44919,uriel,44371,44375,mich,uriel
 qd,p5cg.0,41945,44919,uriel,44707,44710,ich,uriel
@@ -300,6 +303,8 @@ qd,p5cg.0,48404,50154,manasse,48751,48754,ich,manasse
 qd,p5cg.0,48404,50154,manasse,50107,50110,ich,manasse
 qd,p5cg.0,50235,50387,judith,50273,50276,Ich,judith
 qd,p5cg.0,50235,50387,judith,50300,50303,ich,judith
+qd,p5cg.0,50393,50433,manasse,50410,50413,ich,manasse
+qd,p5cg.0,50393,50433,manasse,50421,50424,ich,manasse
 qd,p5cg.0,51008,51374,manasse,51027,51031,mich,manasse
 qd,p5cg.0,51008,51374,manasse,51046,51050,mein,manasse
 qd,p5cg.0,51008,51374,manasse,51068,51071,ich,manasse
@@ -399,6 +404,7 @@ qd,p5cg.0,62971,64281,uriel,64087,64090,mir,uriel
 qd,p5cg.0,62971,64281,uriel,64174,64177,ich,uriel
 qd,p5cg.0,62971,64281,uriel,64195,64198,ich,uriel
 qd,p5cg.0,62971,64281,uriel,64242,64245,ich,uriel
+qd,p5cg.0,64286,64353,simon,64340,64343,ich,simon
 qd,p5cg.0,64358,64434,uriel,64375,64379,Mich,uriel
 qd,p5cg.0,64524,64623,uriel,64586,64589,ich,uriel
 qd,p5cg.0,64524,64623,uriel,64592,64597,meine,uriel
@@ -483,6 +489,7 @@ qd,p5cg.0,77446,77535,uriel,77498,77501,ich,uriel
 qd,p5cg.0,77541,77803,akiba,77561,77564,Ich,akiba
 qd,p5cg.0,77541,77803,akiba,77684,77687,ich,akiba
 qd,p5cg.0,77809,77948,uriel,77869,77872,ich,uriel
+qd,p5cg.0,78132,78603,akiba,78588,78591,ich,akiba
 qd,p5cg.0,78666,79256,uriel,78674,78677,Ich,uriel
 qd,p5cg.0,78666,79256,uriel,78692,78695,ich,uriel
 qd,p5cg.0,78666,79256,uriel,78998,79001,Ich,uriel
@@ -516,6 +523,7 @@ qd,p5cg.0,83025,84385,uriel,83628,83632,Mich,uriel
 qd,p5cg.0,83025,84385,uriel,83640,83645,meine,uriel
 qd,p5cg.0,83025,84385,uriel,83687,83691,mich,uriel
 qd,p5cg.0,83025,84385,uriel,83967,83971,mich,uriel
+qd,p5cg.0,83025,84385,uriel,84024,84027,mir,uriel
 qd,p5cg.0,83025,84385,uriel,84321,84324,ich,uriel
 qd,p5cg.0,83025,84385,uriel,84325,84329,mich,uriel
 qd,p5cg.0,84391,84454,ruben,84417,84420,Ich,ruben
@@ -524,11 +532,13 @@ qd,p5cg.0,84391,84454,ruben,84446,84449,ich,ruben
 qd,p5cg.0,84459,84502,uriel,84487,84493,meines,uriel
 qd,p5cg.0,84539,84611,uriel,84601,84604,ich,uriel
 qd,p5cg.0,84617,84839,ruben,84751,84754,ich,ruben
+qd,p5cg.0,84845,84891,uriel,84868,84871,ich,uriel
 qd,p5cg.0,85090,85271,ruben,85113,85116,ich,ruben
 qd,p5cg.0,85090,85271,ruben,85162,85165,ich,ruben
 qd,p5cg.0,85090,85271,ruben,85166,85169,mir,ruben
 qd,p5cg.0,85277,85536,uriel,85411,85414,ich,uriel
 qd,p5cg.0,85277,85536,uriel,85453,85457,mich,uriel
+qd,p5cg.0,85277,85536,uriel,85471,85474,ich,uriel
 qd,p5cg.0,85277,85536,uriel,85507,85510,ich,uriel
 qd,p5cg.0,85277,85536,uriel,85525,85528,ich,uriel
 qd,p5cg.0,85627,85831,uriel,85666,85669,ich,uriel
@@ -578,6 +588,7 @@ qd,p5cg.0,90127,90839,silva,90347,90350,Ich,silva
 qd,p5cg.0,90127,90839,silva,90803,90806,ich,silva
 qd,p5cg.0,91069,91266,uriel,91168,91171,ich,uriel
 qd,p5cg.0,91069,91266,uriel,91240,91244,mich,uriel
+qd,p5cg.0,91511,91543,uriel,91524,91527,ich,uriel
 qd,p5cg.0,91688,91921,uriel,91837,91840,Ich,uriel
 qd,p5cg.0,91688,91921,uriel,91853,91856,mir,uriel
 qd,p5cg.0,92124,92562,uriel,92157,92163,meiner,uriel
@@ -665,6 +676,7 @@ qd,p5cg.0,105042,105144,judith,105119,105123,mein,judith
 qd,p5cg.0,105042,105144,judith,105140,105143,ich,judith
 qd,p5cg.0,105150,105310,uriel,105158,105161,Ich,uriel
 qd,p5cg.0,105150,105310,uriel,105167,105171,mich,uriel
+qd,p5cg.0,105150,105310,uriel,105219,105222,mir,uriel
 qd,p5cg.0,105316,105353,judith,105336,105339,mir,judith
 qd,p5cg.0,105316,105353,judith,105341,105345,mein,judith
 qd,p5cg.0,105358,105541,uriel,105382,105385,Ich,uriel

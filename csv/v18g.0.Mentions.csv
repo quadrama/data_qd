@@ -53,6 +53,7 @@ qd,v18g.0,20843,21185,rese,20986,20989,ich,rese
 qd,v18g.0,20843,21185,rese,21001,21005,mich,rese
 qd,v18g.0,22219,22300,pauline,22270,22273,ich,pauline
 qd,v18g.0,22446,22515,frau_weidenhammer,22510,22514,mich,frau_weidenhammer
+qd,v18g.0,23097,23613,pauline,23391,23395,mein,pauline
 qd,v18g.0,23097,23613,pauline,23408,23411,mir,pauline
 qd,v18g.0,23693,23975,pauline,23703,23706,Ich,pauline
 qd,v18g.0,23693,23975,pauline,23834,23839,meine,pauline
@@ -115,6 +116,7 @@ qd,v18g.0,37215,37889,pauline,37828,37831,mir,pauline
 qd,v18g.0,37215,37889,pauline,37858,37861,ich,pauline
 qd,v18g.0,38006,38053,pauline,38021,38024,ich,pauline
 qd,v18g.0,38297,38633,meister_oelze,38452,38455,mir,meister_oelze
+qd,v18g.0,38297,38633,meister_oelze,38604,38607,ich,meister_oelze
 qd,v18g.0,38638,38787,pauline,38725,38728,ich,pauline
 qd,v18g.0,38638,38787,pauline,38782,38786,mich,pauline
 qd,v18g.0,39462,39500,meister_oelze,39488,39491,ich,meister_oelze
@@ -262,6 +264,7 @@ qd,v18g.0,79752,82131,pauline,81101,81104,Ich,pauline
 qd,v18g.0,79752,82131,pauline,81285,81288,Ich,pauline
 qd,v18g.0,79752,82131,pauline,81501,81504,mir,pauline
 qd,v18g.0,79752,82131,pauline,81979,81982,ich,pauline
+qd,v18g.0,82260,82384,pauline,82354,82357,ich,pauline
 qd,v18g.0,82389,82584,meister_oelze,82432,82435,Ich,meister_oelze
 qd,v18g.0,82589,83331,pauline,82638,82641,Ich,pauline
 qd,v18g.0,82589,83331,pauline,82647,82651,mich,pauline
@@ -376,6 +379,7 @@ qd,v18g.0,107013,107096,meister_oelze,107073,107076,mir,meister_oelze
 qd,v18g.0,107101,107359,pauline,107132,107135,mir,pauline
 qd,v18g.0,107101,107359,pauline,107146,107149,Ich,pauline
 qd,v18g.0,107101,107359,pauline,107184,107187,mir,pauline
+qd,v18g.0,107101,107359,pauline,107205,107209,mein,pauline
 qd,v18g.0,107101,107359,pauline,107225,107228,ich,pauline
 qd,v18g.0,107555,107656,pauline,107565,107568,Ich,pauline
 qd,v18g.0,108274,108348,pauline,108320,108323,mir,pauline
@@ -442,6 +446,7 @@ qd,v18g.0,119570,120186,meister_oelze,119626,119629,mir,meister_oelze
 qd,v18g.0,119570,120186,meister_oelze,119667,119670,Ich,meister_oelze
 qd,v18g.0,119570,120186,meister_oelze,119940,119943,Ich,meister_oelze
 qd,v18g.0,119570,120186,meister_oelze,119962,119965,Ich,meister_oelze
+qd,v18g.0,119570,120186,meister_oelze,120015,120018,ich,meister_oelze
 qd,v18g.0,119570,120186,meister_oelze,120158,120161,mir,meister_oelze
 qd,v18g.0,120297,120494,rese,120348,120351,Ich,rese
 qd,v18g.0,120581,120645,rese,120622,120627,Meine,rese

@@ -160,6 +160,7 @@ qd,str5.0,24526,24572,kauz,24563,24567,mich,kauz
 qd,str5.0,25263,25311,kauz,25270,25273,Ich,kauz
 qd,str5.0,25403,25486,kauz,25410,25413,Ich,kauz
 qd,str5.0,25403,25486,kauz,25451,25454,ich,kauz
+qd,str5.0,25915,25955,kauz,25930,25933,ich,kauz
 qd,str5.0,25960,25999,gigl,25989,25992,ich,gigl
 qd,str5.0,26219,26280,gigl,26237,26240,ich,gigl
 qd,str5.0,26219,26280,gigl,26259,26262,ich,gigl
@@ -205,6 +206,7 @@ qd,str5.0,30024,30727,schnoferl,30684,30687,ich,schnoferl
 qd,str5.0,30732,30845,gigl,30778,30781,mir,gigl
 qd,str5.0,30732,30845,gigl,30834,30837,mir,gigl
 qd,str5.0,31142,31184,gigl,31163,31166,ich,gigl
+qd,str5.0,31212,31302,gigl,31274,31277,ich,gigl
 qd,str5.0,31418,31617,kauz,31506,31509,Ich,kauz
 qd,str5.0,31622,31819,schnoferl,31634,31637,Ich,schnoferl
 qd,str5.0,31622,31819,schnoferl,31791,31794,ich,schnoferl
@@ -223,8 +225,8 @@ qd,str5.0,33963,34081,schnoferl,33984,33987,ich,schnoferl
 qd,str5.0,34421,35685,schnoferl,34578,34581,ich,schnoferl
 qd,str5.0,35828,35890,frau_von_erbsenstein,35862,35865,ich,frau_von_erbsenstein
 qd,str5.0,35895,36000,schnoferl,35957,35960,ich,schnoferl
-qd,str5.0,36005,36047,frau_von_erbsenstein,36032,36038,meinen,frau_von_erbsenstein
 qd,str5.0,37022,37132,frau_von_erbsenstein,37055,37058,ich,frau_von_erbsenstein
+qd,str5.0,37137,37433,schnoferl,37423,37426,ich,schnoferl
 qd,str5.0,37615,37671,frau_von_erbsenstein,37638,37641,Ich,frau_von_erbsenstein
 qd,str5.0,37676,37791,schnoferl,37692,37695,ich,schnoferl
 qd,str5.0,37796,38121,schnoferl,37819,37822,Ich,schnoferl
@@ -346,8 +348,10 @@ qd,str5.0,57640,57931,madam_storch,57745,57748,Ich,madam_storch
 qd,str5.0,57640,57931,madam_storch,57862,57865,ich,madam_storch
 qd,str5.0,58017,58172,schnoferl,58133,58136,ich,schnoferl
 qd,str5.0,58383,58433,peppi,58398,58401,ich,peppi
+qd,str5.0,58383,58433,peppi,58411,58415,mein,peppi
 qd,str5.0,58438,58515,rosalie,58448,58451,Ich,rosalie
 qd,str5.0,58672,58782,sabine,58722,58725,mir,sabine
+qd,str5.0,58672,58782,sabine,58743,58746,mir,sabine
 qd,str5.0,58787,58875,rosalie,58797,58800,Mir,rosalie
 qd,str5.0,58880,58946,peppi,58916,58919,ich,peppi
 qd,str5.0,58951,59057,rosalie,59026,59029,mir,rosalie
@@ -396,6 +400,7 @@ qd,str5.0,66477,66639,kauz,66556,66559,ich,kauz
 qd,str5.0,66477,66639,kauz,66569,66574,meine,kauz
 qd,str5.0,66477,66639,kauz,66585,66588,mir,kauz
 qd,str5.0,66767,66837,schnoferl,66803,66806,mir,schnoferl
+qd,str5.0,66767,66837,schnoferl,66818,66821,ich,schnoferl
 qd,str5.0,67290,67341,knöpfel,67313,67316,Ich,knöpfel
 qd,str5.0,67514,67605,schnoferl,67566,67571,Meine,schnoferl
 qd,str5.0,67610,67685,knöpfel,67655,67658,mir,knöpfel
@@ -434,6 +439,7 @@ qd,str5.0,71592,71716,schnoferl,71604,71607,Mir,schnoferl
 qd,str5.0,71850,71956,kauz,71868,71871,Ich,kauz
 qd,str5.0,71850,71956,kauz,71929,71932,ich,kauz
 qd,str5.0,72267,72334,schnoferl,72283,72286,ich,schnoferl
+qd,str5.0,72412,72561,schnoferl,72440,72443,ich,schnoferl
 qd,str5.0,72412,72561,schnoferl,72509,72512,mir,schnoferl
 qd,str5.0,72639,72687,kauz,72654,72658,mich,kauz
 qd,str5.0,72914,72994,kauz,72952,72956,mich,kauz
@@ -455,6 +461,7 @@ qd,str5.0,76282,76501,rosalie,76425,76429,mich,rosalie
 qd,str5.0,76583,76668,rosalie,76609,76615,meiner,rosalie
 qd,str5.0,76583,76668,rosalie,76648,76651,ich,rosalie
 qd,str5.0,77498,77802,schnoferl,77510,77513,Ich,schnoferl
+qd,str5.0,77809,78031,rosalie,77822,77825,ich,rosalie
 qd,str5.0,77809,78031,rosalie,77868,77871,ich,rosalie
 qd,str5.0,77809,78031,rosalie,77893,77897,Mein,rosalie
 qd,str5.0,80044,80176,madam_storch,80130,80133,ich,madam_storch
@@ -514,6 +521,7 @@ qd,str5.0,85790,85957,schnoferl,85866,85872,meinen,schnoferl
 qd,str5.0,85963,86026,thekla,85981,85984,ich,thekla
 qd,str5.0,85963,86026,thekla,85998,86001,ich,thekla
 qd,str5.0,86091,86147,thekla,86100,86103,Ich,thekla
+qd,str5.0,86323,86446,thekla,86347,86350,ich,thekla
 qd,str5.0,86323,86446,thekla,86378,86381,ich,thekla
 qd,str5.0,86323,86446,thekla,86395,86398,ich,thekla
 qd,str5.0,86919,86961,gigl,86926,86929,Ich,gigl
@@ -563,6 +571,7 @@ qd,str5.0,99381,99800,kauz,99439,99444,meine,kauz
 qd,str5.0,99381,99800,kauz,99456,99459,ich,kauz
 qd,str5.0,99381,99800,kauz,99474,99477,ich,kauz
 qd,str5.0,100741,100856,sabine,100790,100793,ich,sabine
+qd,str5.0,101063,101304,kauz,101143,101146,mir,kauz
 qd,str5.0,101715,101779,kauz,101766,101771,Meine,kauz
 qd,str5.0,101853,101910,kauz,101876,101879,Ich,kauz
 qd,str5.0,101971,102111,kauz,102034,102037,Ich,kauz
@@ -628,6 +637,7 @@ qd,str5.0,108371,108417,kauz,108394,108397,mir,kauz
 qd,str5.0,108620,108685,kauz,108643,108646,ich,kauz
 qd,str5.0,108620,108685,kauz,108649,108652,ich,kauz
 qd,str5.0,108620,108685,kauz,108664,108668,mich,kauz
+qd,str5.0,108620,108685,kauz,108673,108677,mein,kauz
 qd,str5.0,109034,109112,kauz,109065,109070,meine,kauz
 qd,str5.0,109117,109209,schnoferl,109141,109144,ich,schnoferl
 qd,str5.0,109215,109265,kauz,109238,109241,ich,kauz
@@ -680,6 +690,7 @@ qd,str5.0,115907,116045,gigl,115992,115995,ich,gigl
 qd,str5.0,116052,118535,schnoferl,116120,116123,mir,schnoferl
 qd,str5.0,116052,118535,schnoferl,116365,116370,Meine,schnoferl
 qd,str5.0,116052,118535,schnoferl,116417,116420,ich,schnoferl
+qd,str5.0,116052,118535,schnoferl,116608,116611,mir,schnoferl
 qd,str5.0,116052,118535,schnoferl,116661,116665,mich,schnoferl
 qd,str5.0,116052,118535,schnoferl,118455,118458,Ich,schnoferl
 qd,str5.0,116052,118535,schnoferl,118464,118468,mein,schnoferl

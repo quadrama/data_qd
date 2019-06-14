@@ -218,6 +218,7 @@ qd,pb4c.0,25996,26091,zeno,26033,26036,ich,zeno
 qd,pb4c.0,25996,26091,zeno,26044,26047,Ich,zeno
 qd,pb4c.0,26097,26334,magier,26134,26140,meinem,magier
 qd,pb4c.0,26097,26334,magier,26250,26253,ich,magier
+qd,pb4c.0,26339,26613,ligares,26363,26367,mich,ligares
 qd,pb4c.0,26339,26613,ligares,26400,26404,mein,ligares
 qd,pb4c.0,26339,26613,ligares,26439,26442,ich,ligares
 qd,pb4c.0,26339,26613,ligares,26520,26524,Mein,ligares
@@ -436,6 +437,7 @@ qd,pb4c.0,46682,47573,ligares,47161,47166,meine,ligares
 qd,pb4c.0,46682,47573,ligares,47201,47204,ich,ligares
 qd,pb4c.0,46682,47573,ligares,47223,47227,mich,ligares
 qd,pb4c.0,46682,47573,ligares,47229,47233,mein,ligares
+qd,pb4c.0,46682,47573,ligares,47402,47405,ich,ligares
 qd,pb4c.0,46682,47573,ligares,47475,47478,ich,ligares
 qd,pb4c.0,46682,47573,ligares,47506,47509,mir,ligares
 qd,pb4c.0,46682,47573,ligares,47561,47564,mir,ligares
@@ -445,6 +447,7 @@ qd,pb4c.0,47579,47668,ladikä,47648,47651,ich,ladikä
 qd,pb4c.0,47867,47961,ladikä,47890,47893,mir,ladikä
 qd,pb4c.0,47867,47961,ladikä,47904,47908,mich,ladikä
 qd,pb4c.0,47967,48894,ligares,47983,47986,ich,ligares
+qd,pb4c.0,47967,48894,ligares,48002,48005,ich,ligares
 qd,pb4c.0,47967,48894,ligares,48052,48058,meinen,ligares
 qd,pb4c.0,47967,48894,ligares,48085,48088,mir,ligares
 qd,pb4c.0,47967,48894,ligares,48126,48130,mich,ligares
@@ -486,6 +489,7 @@ qd,pb4c.0,50903,51094,cassandra,50945,50948,ich,cassandra
 qd,pb4c.0,50903,51094,cassandra,50996,50999,mir,cassandra
 qd,pb4c.0,50903,51094,cassandra,51003,51006,Mir,cassandra
 qd,pb4c.0,50903,51094,cassandra,51023,51026,ich,cassandra
+qd,pb4c.0,50903,51094,cassandra,51059,51062,ich,cassandra
 qd,pb4c.0,51100,51281,ligares,51218,51221,mir,ligares
 qd,pb4c.0,51470,52002,ligares,51506,51510,mich,ligares
 qd,pb4c.0,51470,52002,ligares,51551,51555,mich,ligares

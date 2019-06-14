@@ -9,6 +9,7 @@ qd,vn4h.0,1426,1690,schlau,1493,1496,ich,schlau
 qd,vn4h.0,1426,1690,schlau,1534,1537,Ich,schlau
 qd,vn4h.0,1696,1989,lord,1710,1713,ich,lord
 qd,vn4h.0,1696,1989,lord,1954,1957,ich,lord
+qd,vn4h.0,1995,2194,erster_jäger,2159,2162,mir,erster_jäger
 qd,vn4h.0,2200,2381,lord,2251,2254,Ich,lord
 qd,vn4h.0,2200,2381,lord,2344,2347,Ich,lord
 qd,vn4h.0,2605,2979,lord,2737,2740,ich,lord
@@ -139,6 +140,7 @@ qd,vn4h.0,20174,20361,katharina,20295,20298,ich,katharina
 qd,vn4h.0,20174,20361,katharina,20323,20326,ich,katharina
 qd,vn4h.0,20367,20877,gremio,20693,20699,meiner,gremio
 qd,vn4h.0,20367,20877,gremio,20719,20722,ich,gremio
+qd,vn4h.0,20367,20877,gremio,20734,20737,ich,gremio
 qd,vn4h.0,20882,21312,hortensio,20903,20906,ich,hortensio
 qd,vn4h.0,20882,21312,hortensio,20948,20951,ich,hortensio
 qd,vn4h.0,21317,21360,gremio,21343,21346,ich,gremio
@@ -151,10 +153,12 @@ qd,vn4h.0,22565,22832,gremio,22599,22602,ich,gremio
 qd,vn4h.0,22565,22832,gremio,22611,22614,ich,gremio
 qd,vn4h.0,22838,22949,tranio,22847,22850,Ich,tranio
 qd,vn4h.0,22838,22949,tranio,22868,22871,mir,tranio
+qd,vn4h.0,22955,23472,lucentio,22980,22983,ich,lucentio
 qd,vn4h.0,22955,23472,lucentio,22989,22992,mir,lucentio
 qd,vn4h.0,22955,23472,lucentio,23017,23020,ich,lucentio
 qd,vn4h.0,22955,23472,lucentio,23075,23078,ich,lucentio
 qd,vn4h.0,22955,23472,lucentio,23115,23118,ich,lucentio
+qd,vn4h.0,22955,23472,lucentio,23170,23173,ich,lucentio
 qd,vn4h.0,22955,23472,lucentio,23216,23219,mir,lucentio
 qd,vn4h.0,22955,23472,lucentio,23284,23287,ich,lucentio
 qd,vn4h.0,22955,23472,lucentio,23299,23302,ich,lucentio
@@ -172,6 +176,7 @@ qd,vn4h.0,24225,24363,lucentio,24236,24239,Ich,lucentio
 qd,vn4h.0,24225,24363,lucentio,24355,24358,ich,lucentio
 qd,vn4h.0,24883,24937,tranio,24901,24904,ich,tranio
 qd,vn4h.0,24883,24937,tranio,24927,24931,mein,tranio
+qd,vn4h.0,24942,24977,lucentio,24969,24972,ich,lucentio
 qd,vn4h.0,24982,25064,tranio,25040,25043,ich,tranio
 qd,vn4h.0,25446,26024,lucentio,25475,25479,mein,lucentio
 qd,vn4h.0,25446,26024,lucentio,25649,25655,meiner,lucentio
@@ -222,10 +227,12 @@ qd,vn4h.0,28831,28940,petruchio,28871,28874,mir,petruchio
 qd,vn4h.0,28831,28940,petruchio,28922,28925,ich,petruchio
 qd,vn4h.0,28946,29075,grumio,28955,28959,Mein,grumio
 qd,vn4h.0,28946,29075,grumio,28979,28982,ich,grumio
+qd,vn4h.0,28946,29075,grumio,29002,29005,ich,grumio
 qd,vn4h.0,28946,29075,grumio,29025,29028,Ich,grumio
 qd,vn4h.0,29081,29287,petruchio,29161,29164,ich,petruchio
 qd,vn4h.0,29081,29287,petruchio,29216,29219,mir,petruchio
 qd,vn4h.0,29293,29353,grumio,29323,29327,mein,grumio
+qd,vn4h.0,29358,29438,petruchio,29401,29404,ich,petruchio
 qd,vn4h.0,29444,29569,hortensio,29477,29481,Mein,hortensio
 qd,vn4h.0,29444,29569,hortensio,29508,29512,mein,hortensio
 qd,vn4h.0,29575,29692,petruchio,29684,29687,ich,petruchio
@@ -303,6 +310,7 @@ qd,vn4h.0,36526,36884,gremio,36589,36592,ich,gremio
 qd,vn4h.0,36526,36884,gremio,36620,36623,Ich,gremio
 qd,vn4h.0,36526,36884,gremio,36628,36632,mein,gremio
 qd,vn4h.0,36526,36884,gremio,36639,36643,mich,gremio
+qd,vn4h.0,36526,36884,gremio,36712,36715,ich,gremio
 qd,vn4h.0,36526,36884,gremio,36725,36731,meinem,gremio
 qd,vn4h.0,36526,36884,gremio,36880,36883,mir,gremio
 qd,vn4h.0,36890,37120,hortensio,36912,36916,mich,hortensio
@@ -337,6 +345,7 @@ qd,vn4h.0,39294,39435,tranio,39320,39325,meine,tranio
 qd,vn4h.0,39294,39435,tranio,39333,39336,Ich,tranio
 qd,vn4h.0,39294,39435,tranio,39366,39369,mir,tranio
 qd,vn4h.0,39749,39808,tranio,39776,39779,ich,tranio
+qd,vn4h.0,39944,39996,tranio,39961,39964,ich,tranio
 qd,vn4h.0,40063,40146,tranio,40076,40079,mir,tranio
 qd,vn4h.0,40063,40146,tranio,40109,40112,ich,tranio
 qd,vn4h.0,40063,40146,tranio,40136,40140,mein,tranio
@@ -380,6 +389,7 @@ qd,vn4h.0,44148,44236,katharina,44189,44192,ich,katharina
 qd,vn4h.0,44148,44236,katharina,44198,44202,mich,katharina
 qd,vn4h.0,44242,44307,baptista,44257,44260,mir,baptista
 qd,vn4h.0,44313,44610,katharina,44335,44338,mir,katharina
+qd,vn4h.0,44313,44610,katharina,44370,44373,ich,katharina
 qd,vn4h.0,44313,44610,katharina,44424,44427,Ich,katharina
 qd,vn4h.0,44313,44610,katharina,44530,44533,mir,katharina
 qd,vn4h.0,44313,44610,katharina,44540,44543,ich,katharina
@@ -392,6 +402,7 @@ qd,vn4h.0,45207,45907,petruchio,45545,45548,ich,petruchio
 qd,vn4h.0,45207,45907,petruchio,45614,45617,ich,petruchio
 qd,vn4h.0,45207,45907,petruchio,45630,45636,meinen,petruchio
 qd,vn4h.0,45207,45907,petruchio,45776,45779,ich,petruchio
+qd,vn4h.0,45207,45907,petruchio,45813,45816,mir,petruchio
 qd,vn4h.0,45207,45907,petruchio,45846,45850,mich,petruchio
 qd,vn4h.0,45913,46054,baptista,45970,45975,meine,baptista
 qd,vn4h.0,45913,46054,baptista,45995,45998,ich,baptista
@@ -479,6 +490,7 @@ qd,vn4h.0,52260,52365,katharina,52325,52328,mir,katharina
 qd,vn4h.0,52260,52365,katharina,52350,52354,mich,katharina
 qd,vn4h.0,52371,52864,petruchio,52383,52387,Mein,petruchio
 qd,vn4h.0,52371,52864,petruchio,52696,52699,mir,petruchio
+qd,vn4h.0,52371,52864,petruchio,52821,52825,mich,petruchio
 qd,vn4h.0,53069,53110,petruchio,53106,53109,mir,petruchio
 qd,vn4h.0,53225,53287,katharina,53276,53280,mich,katharina
 qd,vn4h.0,53292,53402,petruchio,53304,53307,Ich,petruchio
@@ -583,6 +595,7 @@ qd,vn4h.0,62948,63246,baptista,63207,63210,ich,baptista
 qd,vn4h.0,62948,63246,baptista,63211,63215,mich,baptista
 qd,vn4h.0,63252,63495,gremio,63305,63308,ich,gremio
 qd,vn4h.0,63501,63907,tranio,63555,63558,Ich,tranio
+qd,vn4h.0,63501,63907,tranio,63613,63616,ich,tranio
 qd,vn4h.0,63501,63907,tranio,63620,63626,meinem,tranio
 qd,vn4h.0,63501,63907,tranio,63895,63898,mir,tranio
 qd,vn4h.0,64196,64406,hortensio,64316,64319,mir,hortensio
@@ -687,11 +700,13 @@ qd,vn4h.0,78549,78944,petruchio,78902,78905,ich,petruchio
 qd,vn4h.0,79049,79079,gremio,79062,79066,mich,gremio
 qd,vn4h.0,79119,79152,katharina,79135,79139,mich,katharina
 qd,vn4h.0,79157,79186,petruchio,79176,79179,mir,petruchio
+qd,vn4h.0,79242,79352,petruchio,79264,79267,mir,petruchio
 qd,vn4h.0,79242,79352,petruchio,79287,79290,ich,petruchio
 qd,vn4h.0,79358,79400,katharina,79378,79382,mich,katharina
 qd,vn4h.0,79522,79868,katharina,79564,79568,mich,katharina
 qd,vn4h.0,79522,79868,katharina,79630,79633,mir,katharina
 qd,vn4h.0,79522,79868,katharina,79736,79739,Ich,katharina
+qd,vn4h.0,79522,79868,katharina,79766,79769,mir,katharina
 qd,vn4h.0,79874,79936,petruchio,79906,79909,ich,petruchio
 qd,vn4h.0,79941,80047,katharina,79953,79956,Ich,katharina
 qd,vn4h.0,79941,80047,katharina,80038,80041,ich,katharina
@@ -792,6 +807,7 @@ qd,vn4h.0,91498,92651,petruchio,92266,92269,ich,petruchio
 qd,vn4h.0,91498,92651,petruchio,92400,92403,ich,petruchio
 qd,vn4h.0,91498,92651,petruchio,92415,92419,mein,petruchio
 qd,vn4h.0,91498,92651,petruchio,92521,92524,ich,petruchio
+qd,vn4h.0,91498,92651,petruchio,92614,92617,mir,petruchio
 qd,vn4h.0,92755,92904,tranio,92866,92869,mir,tranio
 qd,vn4h.0,92755,92904,tranio,92879,92883,mich,tranio
 qd,vn4h.0,92910,93079,hortensio,92952,92955,ich,hortensio
@@ -996,6 +1012,7 @@ qd,vn4h.0,112109,112446,tranio,112304,112308,Mein,tranio
 qd,vn4h.0,112452,112682,baptista,112472,112475,mir,baptista
 qd,vn4h.0,112688,112744,lucentio,112723,112726,ich,lucentio
 qd,vn4h.0,112749,112935,tranio,112829,112832,ich,tranio
+qd,vn4h.0,112749,112935,tranio,112916,112919,ich,tranio
 qd,vn4h.0,112941,113003,baptista,112951,112954,Ich,baptista
 qd,vn4h.0,113075,113155,biondello,113101,113107,meinen,biondello
 qd,vn4h.0,113201,113320,biondello,113248,113252,mich,biondello
@@ -1089,7 +1106,9 @@ qd,vn4h.0,123815,124036,tranio,123986,123989,ich,tranio
 qd,vn4h.0,124041,124080,vincentio,124053,124057,Mich,vincentio
 qd,vn4h.0,124150,124224,baptista,124195,124198,ich,baptista
 qd,vn4h.0,124229,124410,gremio,124342,124345,ich,gremio
+qd,vn4h.0,124229,124410,gremio,124354,124357,mir,gremio
 qd,vn4h.0,124464,124520,gremio,124499,124502,ich,gremio
+qd,vn4h.0,124464,124520,gremio,124503,124506,mir,gremio
 qd,vn4h.0,124525,124591,tranio,124568,124571,ich,tranio
 qd,vn4h.0,124596,124648,gremio,124620,124623,ich,gremio
 qd,vn4h.0,124991,125031,lucentio,125020,125023,mir,lucentio
@@ -1191,6 +1210,7 @@ qd,vn4h.0,134995,137035,katharina,136147,136151,mich,katharina
 qd,vn4h.0,134995,137035,katharina,136543,136547,Mein,katharina
 qd,vn4h.0,134995,137035,katharina,136588,136592,Mein,katharina
 qd,vn4h.0,134995,137035,katharina,136607,136611,mein,katharina
+qd,vn4h.0,134995,137035,katharina,136705,136708,ich,katharina
 qd,vn4h.0,134995,137035,katharina,136975,136981,meiner,katharina
 qd,vn4h.0,134995,137035,katharina,137003,137008,meine,katharina
 qd,vn4h.0,137041,137104,petruchio,137062,137065,ich,petruchio

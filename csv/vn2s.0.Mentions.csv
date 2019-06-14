@@ -116,11 +116,13 @@ qd,vn2s.0,23949,24528,lady_macbeth,24275,24278,Ich,lady_macbeth
 qd,vn2s.0,23949,24528,lady_macbeth,24336,24339,ich,lady_macbeth
 qd,vn2s.0,23949,24528,lady_macbeth,24349,24352,Ich,lady_macbeth
 qd,vn2s.0,23949,24528,lady_macbeth,24369,24372,mir,lady_macbeth
+qd,vn2s.0,23949,24528,lady_macbeth,24487,24490,ich,lady_macbeth
 qd,vn2s.0,24570,25171,lady_macbeth,24788,24791,ich,lady_macbeth
 qd,vn2s.0,24570,25171,lady_macbeth,25031,25034,ich,lady_macbeth
 qd,vn2s.0,25177,25409,macbeth,25194,25197,mir,macbeth
 qd,vn2s.0,25523,25716,macbeth,25533,25536,Ich,macbeth
 qd,vn2s.0,25884,25912,banquo,25902,25906,mein,banquo
+qd,vn2s.0,25917,25974,fleance,25962,25965,ich,fleance
 qd,vn2s.0,26052,26408,banquo,26070,26074,mein,banquo
 qd,vn2s.0,26052,26408,banquo,26204,26207,mir,banquo
 qd,vn2s.0,26052,26408,banquo,26226,26229,ich,banquo
@@ -158,6 +160,7 @@ qd,vn2s.0,29201,29584,lady_macbeth,29502,29505,Ich,lady_macbeth
 qd,vn2s.0,29672,30000,lady_macbeth,29694,29697,ich,lady_macbeth
 qd,vn2s.0,29672,30000,lady_macbeth,29812,29815,Ich,lady_macbeth
 qd,vn2s.0,29672,30000,lady_macbeth,29896,29902,meinem,lady_macbeth
+qd,vn2s.0,29672,30000,lady_macbeth,29936,29939,ich,lady_macbeth
 qd,vn2s.0,29672,30000,lady_macbeth,29988,29992,mein,lady_macbeth
 qd,vn2s.0,30006,30061,macbeth,30015,30018,Ich,macbeth
 qd,vn2s.0,30066,30150,lady_macbeth,30096,30099,ich,lady_macbeth
@@ -264,6 +267,7 @@ qd,vn2s.0,48228,48551,macbeth,48284,48287,ich,macbeth
 qd,vn2s.0,48557,48600,erster_mörder,48572,48576,Mein,erster_mörder
 qd,vn2s.0,48605,49367,macbeth,49184,49187,ich,macbeth
 qd,vn2s.0,49373,49516,zweiter_mörder,49428,49432,mich,zweiter_mörder
+qd,vn2s.0,49373,49516,zweiter_mörder,49462,49466,mich,zweiter_mörder
 qd,vn2s.0,49373,49516,zweiter_mörder,49508,49511,ich,zweiter_mörder
 qd,vn2s.0,49522,49681,erster_mörder,49542,49545,ich,erster_mörder
 qd,vn2s.0,49522,49681,erster_mörder,49607,49610,ich,erster_mörder
@@ -274,6 +278,7 @@ qd,vn2s.0,49781,50295,macbeth,49875,49881,meinem,macbeth
 qd,vn2s.0,49781,50295,macbeth,49916,49921,meine,macbeth
 qd,vn2s.0,49781,50295,macbeth,49971,49977,meinem,macbeth
 qd,vn2s.0,49781,50295,macbeth,49997,50001,Mein,macbeth
+qd,vn2s.0,49781,50295,macbeth,50034,50037,ich,macbeth
 qd,vn2s.0,49781,50295,macbeth,50064,50067,mir,macbeth
 qd,vn2s.0,49781,50295,macbeth,50102,50105,ich,macbeth
 qd,vn2s.0,49781,50295,macbeth,50142,50145,ich,macbeth
@@ -307,6 +312,7 @@ qd,vn2s.0,57529,57745,macbeth,57716,57719,ich,macbeth
 qd,vn2s.0,57752,58053,lady_macbeth,57767,57771,Mein,lady_macbeth
 qd,vn2s.0,58270,58458,macbeth,58382,58385,ich,macbeth
 qd,vn2s.0,58791,58819,lords,58803,58807,mein,lords
+qd,vn2s.0,58824,58925,macbeth,58861,58864,ich,macbeth
 qd,vn2s.0,58824,58925,macbeth,58920,58924,mich,macbeth
 qd,vn2s.0,60069,60108,macbeth,60086,60089,ich,macbeth
 qd,vn2s.0,60069,60108,macbeth,60096,60099,ich,macbeth
@@ -508,6 +514,8 @@ qd,vn2s.0,89412,89765,rosse,89606,89609,ich,rosse
 qd,vn2s.0,89961,90100,rosse,89976,89979,ich,rosse
 qd,vn2s.0,89961,90100,rosse,90017,90020,ich,rosse
 qd,vn2s.0,90308,90385,macduff,90328,90331,mir,macduff
+qd,vn2s.0,90308,90385,macduff,90343,90346,mir,macduff
+qd,vn2s.0,90308,90385,macduff,90372,90376,mich,macduff
 qd,vn2s.0,90391,90503,rosse,90413,90418,meine,rosse
 qd,vn2s.0,90510,90537,macduff,90523,90526,ich,macduff
 qd,vn2s.0,90891,90918,macduff,90905,90910,meine,macduff
@@ -515,6 +523,7 @@ qd,vn2s.0,90979,91038,macduff,90993,90996,ich,macduff
 qd,vn2s.0,90979,91038,macduff,91014,91018,Mein,macduff
 qd,vn2s.0,91044,91064,rosse,91051,91054,Ich,rosse
 qd,vn2s.0,91385,91735,macduff,91404,91407,ich,macduff
+qd,vn2s.0,91385,91735,macduff,91444,91447,ich,macduff
 qd,vn2s.0,91385,91735,macduff,91474,91477,ich,macduff
 qd,vn2s.0,91385,91735,macduff,91507,91510,mir,macduff
 qd,vn2s.0,91385,91735,macduff,91627,91630,Ich,macduff
@@ -578,6 +587,7 @@ qd,vn2s.0,104554,104684,bote_2,104561,104565,Mein,bote_2
 qd,vn2s.0,104554,104684,bote_2,104587,104590,Ich,bote_2
 qd,vn2s.0,104554,104684,bote_2,104620,104623,ich,bote_2
 qd,vn2s.0,104554,104684,bote_2,104633,104636,Ich,bote_2
+qd,vn2s.0,104554,104684,bote_2,104653,104656,ich,bote_2
 qd,vn2s.0,104554,104684,bote_2,104674,104677,ich,bote_2
 qd,vn2s.0,104727,104856,bote_2,104738,104741,ich,bote_2
 qd,vn2s.0,104727,104856,bote_2,104780,104783,Ich,bote_2

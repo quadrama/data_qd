@@ -39,6 +39,7 @@ qd,tn4k.0,22458,22514,seppl,22477,22480,mir,seppl
 qd,tn4k.0,23865,24012,kederbauer,23925,23929,mein,kederbauer
 qd,tn4k.0,24111,24262,kederbauer,24249,24253,mein,kederbauer
 qd,tn4k.0,26140,26385,lorenz,26149,26152,Ich,lorenz
+qd,tn4k.0,27413,27445,seehansele,27439,27442,ich,seehansele
 qd,tn4k.0,27450,28060,lorenz,27474,27477,mir,lorenz
 qd,tn4k.0,28168,28263,lorenz,28240,28244,mich,lorenz
 qd,tn4k.0,28168,28263,lorenz,28246,28249,ich,lorenz
@@ -59,6 +60,7 @@ qd,tn4k.0,33235,33511,frau_wanninger,33331,33337,meiner,frau_wanninger
 qd,tn4k.0,33516,33718,frau_specht,33561,33564,mir,frau_specht
 qd,tn4k.0,33723,33903,posthalterin,33830,33833,mir,posthalterin
 qd,tn4k.0,34843,35001,mohrenwirt,34870,34873,mir,mohrenwirt
+qd,tn4k.0,37290,37582,posthalterin,37334,37337,ich,posthalterin
 qd,tn4k.0,37640,37961,frau_specht,37706,37709,ich,frau_specht
 qd,tn4k.0,37640,37961,frau_specht,37710,37714,mein,frau_specht
 qd,tn4k.0,37966,38106,posthalterin,37983,37987,mein,posthalterin
@@ -137,6 +139,7 @@ qd,tn4k.0,67969,68046,hulda,68033,68038,meine,hulda
 qd,tn4k.0,70297,70368,frau_wanninger,70337,70340,ich,frau_wanninger
 qd,tn4k.0,71252,71339,bernhuber,71327,71333,meiner,bernhuber
 qd,tn4k.0,72319,72441,frau_wanninger,72338,72342,mein,frau_wanninger
+qd,tn4k.0,72575,72679,frau_wanninger,72601,72604,ich,frau_wanninger
 qd,tn4k.0,72575,72679,frau_wanninger,72639,72644,meine,frau_wanninger
 qd,tn4k.0,72798,72939,frau_wanninger,72877,72880,ich,frau_wanninger
 qd,tn4k.0,72798,72939,frau_wanninger,72886,72891,meine,frau_wanninger
@@ -275,6 +278,7 @@ qd,tn4k.0,104229,104293,rettinger,104281,104285,mich,rettinger
 qd,tn4k.0,104680,104928,posthalter,104833,104837,mein,posthalter
 qd,tn4k.0,104933,104967,posthalterin,104962,104966,mein,posthalterin
 qd,tn4k.0,105225,105265,rettinger,105254,105257,mir,rettinger
+qd,tn4k.0,105718,105838,rettinger,105813,105816,mir,rettinger
 qd,tn4k.0,106130,106173,rettinger,106157,106160,ich,rettinger
 qd,tn4k.0,106640,106694,rettinger,106652,106656,Mich,rettinger
 qd,tn4k.0,107436,107588,rettinger,107550,107554,mich,rettinger
@@ -298,11 +302,14 @@ qd,tn4k.0,117330,117658,posthalter,117613,117616,mir,posthalter
 qd,tn4k.0,117688,117889,posthalter,117875,117878,mir,posthalter
 qd,tn4k.0,118390,118569,mohrenwirt,118493,118496,ich,mohrenwirt
 qd,tn4k.0,118390,118569,mohrenwirt,118502,118505,mir,mohrenwirt
+qd,tn4k.0,118654,118807,mohrenwirt,118727,118730,mir,mohrenwirt
 qd,tn4k.0,119038,119129,posthalter,119073,119076,mir,posthalter
+qd,tn4k.0,119038,119129,posthalter,119080,119084,mein,posthalter
 qd,tn4k.0,119772,119947,posthalter,119821,119826,meine,posthalter
 qd,tn4k.0,119772,119947,posthalter,119851,119854,mir,posthalter
 qd,tn4k.0,119772,119947,posthalter,119908,119911,mir,posthalter
 qd,tn4k.0,120935,121050,posthalter,121030,121033,mir,posthalter
+qd,tn4k.0,121245,121334,posthalter,121283,121286,ich,posthalter
 qd,tn4k.0,121440,121493,posthalter,121462,121465,mir,posthalter
 qd,tn4k.0,121555,121703,posthalter,121615,121618,mir,posthalter
 qd,tn4k.0,122521,122597,posthalter,122544,122548,Mein,posthalter
@@ -403,6 +410,7 @@ qd,tn4k.0,143392,143416,rettinger,143412,143415,ich,rettinger
 qd,tn4k.0,143421,143607,posthalter,143440,143443,mir,posthalter
 qd,tn4k.0,143854,143943,posthalter,143867,143870,Ich,posthalter
 qd,tn4k.0,143854,143943,posthalter,143882,143885,ich,posthalter
+qd,tn4k.0,146930,146975,posthalter,146948,146951,ich,posthalter
 qd,tn4k.0,147311,147401,götzensperger,147389,147394,meine,götzensperger
 qd,tn4k.0,147887,147933,posthalter,147922,147925,mir,posthalter
 qd,tn4k.0,148446,148560,rettinger,148522,148525,Ich,rettinger
@@ -458,6 +466,7 @@ qd,tn4k.0,164683,164856,posthalter,164816,164819,mir,posthalter
 qd,tn4k.0,164683,164856,posthalter,164852,164855,mir,posthalter
 qd,tn4k.0,166890,167022,posthalter,166928,166932,mein,posthalter
 qd,tn4k.0,167064,167204,posthalter,167200,167203,mir,posthalter
+qd,tn4k.0,167366,167455,kederbauer,167379,167383,Mein,kederbauer
 qd,tn4k.0,167461,167594,posthalter,167552,167555,mir,posthalter
 qd,tn4k.0,167676,167960,posthalter,167896,167899,mir,posthalter
 qd,tn4k.0,168035,168211,seehansele,168056,168059,Mir,seehansele
@@ -480,6 +489,7 @@ qd,tn4k.0,172554,172738,posthalter,172659,172662,ich,posthalter
 qd,tn4k.0,172978,173009,posthalter,173005,173008,mir,posthalter
 qd,tn4k.0,173014,173127,rettinger,173069,173073,mich,rettinger
 qd,tn4k.0,173456,173546,posthalter,173485,173488,mir,posthalter
+qd,tn4k.0,173456,173546,posthalter,173509,173512,mir,posthalter
 qd,tn4k.0,173551,173608,rettinger,173585,173589,mich,rettinger
 qd,tn4k.0,173613,173702,posthalter,173632,173635,mir,posthalter
 qd,tn4k.0,173613,173702,posthalter,173652,173655,mir,posthalter
@@ -535,6 +545,7 @@ qd,tn4k.0,180015,180100,rettinger,180072,180075,ich,rettinger
 qd,tn4k.0,180316,180612,beck,180406,180409,ich,beck
 qd,tn4k.0,181566,181670,posthalter,181588,181592,Mein,posthalter
 qd,tn4k.0,181875,181981,posthalter,181966,181970,mein,posthalter
+qd,tn4k.0,182091,182187,posthalter,182104,182108,Mein,posthalter
 qd,tn4k.0,182091,182187,posthalter,182129,182132,mir,posthalter
 qd,tn4k.0,182504,182584,posthalterin,182567,182570,mir,posthalterin
 qd,tn4k.0,182504,182584,posthalterin,182580,182583,mir,posthalterin

@@ -309,6 +309,7 @@ qd,sc8q.0,43224,43435,pluto,43360,43363,ich,pluto
 qd,sc8q.0,43441,43903,orpheus,43473,43476,ich,orpheus
 qd,sc8q.0,43441,43903,orpheus,43536,43540,mich,orpheus
 qd,sc8q.0,43441,43903,orpheus,43568,43574,meinen,orpheus
+qd,sc8q.0,43441,43903,orpheus,43584,43588,mein,orpheus
 qd,sc8q.0,43441,43903,orpheus,43622,43625,ich,orpheus
 qd,sc8q.0,43441,43903,orpheus,43646,43649,mir,orpheus
 qd,sc8q.0,43441,43903,orpheus,43666,43669,mir,orpheus
@@ -573,6 +574,7 @@ qd,sc8q.0,75181,75611,venus,75278,75281,ich,venus
 qd,sc8q.0,75181,75611,venus,75529,75533,mich,venus
 qd,sc8q.0,75181,75611,venus,75541,75544,ich,venus
 qd,sc8q.0,75731,76118,venus,75739,75742,Ich,venus
+qd,sc8q.0,75731,76118,venus,75747,75750,mir,venus
 qd,sc8q.0,75731,76118,venus,75797,75800,ich,venus
 qd,sc8q.0,75731,76118,venus,75855,75858,ich,venus
 qd,sc8q.0,75731,76118,venus,75885,75888,ich,venus

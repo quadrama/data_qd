@@ -13,6 +13,7 @@ qd,ssrf.0,869,2688,elvire,2023,2029,meiner,elvire
 qd,ssrf.0,869,2688,elvire,2052,2056,mich,elvire
 qd,ssrf.0,869,2688,elvire,2134,2137,ich,elvire
 qd,ssrf.0,869,2688,elvire,2162,2167,Meine,elvire
+qd,ssrf.0,2716,2834,elvire,2767,2770,mir,elvire
 qd,ssrf.0,3000,3333,jerta,3209,3212,ich,jerta
 qd,ssrf.0,3339,3474,elvire,3353,3356,ich,elvire
 qd,ssrf.0,3339,3474,elvire,3412,3416,Mich,elvire
@@ -112,9 +113,11 @@ qd,ssrf.0,22400,22645,hugo,22554,22557,mir,hugo
 qd,ssrf.0,22651,22944,jerta,22911,22914,mir,jerta
 qd,ssrf.0,22950,23075,hugo,22957,22960,Ich,hugo
 qd,ssrf.0,22950,23075,hugo,22998,23001,mir,hugo
+qd,ssrf.0,22950,23075,hugo,23015,23018,ich,hugo
 qd,ssrf.0,22950,23075,hugo,23028,23031,mir,hugo
 qd,ssrf.0,23081,23337,jerta,23146,23149,mir,jerta
 qd,ssrf.0,23386,23606,jerta,23450,23453,ich,jerta
+qd,ssrf.0,23612,24004,hugo,23624,23627,ich,hugo
 qd,ssrf.0,23612,24004,hugo,23642,23646,Mich,hugo
 qd,ssrf.0,24115,24523,hugo,24134,24137,ich,hugo
 qd,ssrf.0,24115,24523,hugo,24199,24202,ich,hugo
@@ -168,6 +171,7 @@ qd,ssrf.0,30876,31191,otto,31077,31080,mir,otto
 qd,ssrf.0,30876,31191,otto,31082,31087,Meine,otto
 qd,ssrf.0,31391,31448,hugo,31420,31423,ich,hugo
 qd,ssrf.0,31731,31806,elvire,31782,31785,ich,elvire
+qd,ssrf.0,31839,31919,elvire,31852,31855,ich,elvire
 qd,ssrf.0,32126,32581,elvire,32326,32329,ich,elvire
 qd,ssrf.0,32126,32581,elvire,32560,32565,Meine,elvire
 qd,ssrf.0,32587,32715,hugo,32670,32674,mich,hugo
@@ -188,6 +192,7 @@ qd,ssrf.0,33418,33853,elvire,33430,33434,mein,elvire
 qd,ssrf.0,33418,33853,elvire,33613,33616,mir,elvire
 qd,ssrf.0,33859,33922,hugo,33883,33886,ich,hugo
 qd,ssrf.0,33985,34268,hugo,34024,34027,ich,hugo
+qd,ssrf.0,33985,34268,hugo,34084,34087,ich,hugo
 qd,ssrf.0,34274,34422,elvire,34314,34317,ich,elvire
 qd,ssrf.0,34274,34422,elvire,34356,34359,Ich,elvire
 qd,ssrf.0,34274,34422,elvire,34372,34378,meiner,elvire
@@ -210,6 +215,7 @@ qd,ssrf.0,36910,37381,valeros,37019,37022,ich,valeros
 qd,ssrf.0,36910,37381,valeros,37088,37091,ich,valeros
 qd,ssrf.0,36910,37381,valeros,37124,37127,ich,valeros
 qd,ssrf.0,36910,37381,valeros,37231,37235,mich,valeros
+qd,ssrf.0,36910,37381,valeros,37264,37267,mir,valeros
 qd,ssrf.0,37542,37898,valeros,37588,37591,Mir,valeros
 qd,ssrf.0,37542,37898,valeros,37794,37797,Ich,valeros
 qd,ssrf.0,38014,38080,hugo,38026,38029,mir,hugo
@@ -270,7 +276,6 @@ qd,ssrf.0,45670,45810,otto,45757,45763,meinem,otto
 qd,ssrf.0,45847,45878,otto,45857,45860,ich,otto
 qd,ssrf.0,46218,46275,otto,46270,46274,mich,otto
 qd,ssrf.0,46480,46506,otto,46495,46498,ich,otto
-qd,ssrf.0,46480,46506,otto,46499,46505,meinen,otto
 qd,ssrf.0,47790,47810,otto,47796,47799,Ich,otto
 qd,ssrf.0,47815,47997,valeros,47873,47876,ich,valeros
 qd,ssrf.0,48201,48417,otto,48217,48220,ich,otto
@@ -291,6 +296,7 @@ qd,ssrf.0,51127,51297,valeros,51287,51291,mich,valeros
 qd,ssrf.0,51303,51338,hugo,51334,51337,mir,hugo
 qd,ssrf.0,51343,51383,valeros,51372,51375,ich,valeros
 qd,ssrf.0,51388,51442,hugo,51437,51441,mich,hugo
+qd,ssrf.0,51447,51516,valeros,51461,51464,ich,valeros
 qd,ssrf.0,51522,51565,hugo,51560,51564,mich,hugo
 qd,ssrf.0,51570,51628,valeros,51605,51608,ich,valeros
 qd,ssrf.0,51683,51772,valeros,51729,51732,ich,valeros
@@ -374,6 +380,7 @@ qd,ssrf.0,65444,66103,hugo,65895,65898,ich,hugo
 qd,ssrf.0,65444,66103,hugo,66066,66070,mein,hugo
 qd,ssrf.0,66464,66632,valeros,66513,66517,mein,valeros
 qd,ssrf.0,66867,68003,hugo,66874,66877,Ich,hugo
+qd,ssrf.0,66867,68003,hugo,66919,66922,ich,hugo
 qd,ssrf.0,66867,68003,hugo,66952,66956,Mich,hugo
 qd,ssrf.0,66867,68003,hugo,67038,67041,ich,hugo
 qd,ssrf.0,66867,68003,hugo,67372,67376,mich,hugo
@@ -381,8 +388,10 @@ qd,ssrf.0,66867,68003,hugo,67383,67387,mein,hugo
 qd,ssrf.0,66867,68003,hugo,67947,67951,Mich,hugo
 qd,ssrf.0,66867,68003,hugo,67956,67959,mir,hugo
 qd,ssrf.0,68114,68184,valeros,68156,68162,meinen,valeros
+qd,ssrf.0,68881,69023,kolbert,68941,68944,ich,kolbert
 qd,ssrf.0,68881,69023,kolbert,69002,69005,ich,kolbert
 qd,ssrf.0,69145,69173,kolbert,69161,69164,ich,kolbert
+qd,ssrf.0,69178,69458,jerta,69340,69343,ich,jerta
 qd,ssrf.0,69464,69533,kolbert,69511,69514,ich,kolbert
 qd,ssrf.0,69539,69761,jerta,69756,69760,mich,jerta
 qd,ssrf.0,69767,69804,kolbert,69800,69803,mir,kolbert
@@ -450,6 +459,7 @@ qd,ssrf.0,77159,78064,hugo,77275,77279,Mich,hugo
 qd,ssrf.0,78989,80296,hugo,79241,79244,ich,hugo
 qd,ssrf.0,78989,80296,hugo,79267,79270,ich,hugo
 qd,ssrf.0,78989,80296,hugo,79365,79369,mein,hugo
+qd,ssrf.0,80302,80570,jerta,80369,80372,ich,jerta
 qd,ssrf.0,80576,80775,hugo,80602,80606,Mein,hugo
 qd,ssrf.0,80576,80775,hugo,80683,80686,Ich,hugo
 qd,ssrf.0,80576,80775,hugo,80726,80729,ich,hugo
@@ -475,6 +485,7 @@ qd,ssrf.0,83364,83706,hugo,83378,83381,Ich,hugo
 qd,ssrf.0,83364,83706,hugo,83451,83454,Ich,hugo
 qd,ssrf.0,83735,83950,hugo,83869,83872,ich,hugo
 qd,ssrf.0,83735,83950,hugo,83933,83937,mein,hugo
+qd,ssrf.0,83989,84740,hugo,84026,84029,ich,hugo
 qd,ssrf.0,83989,84740,hugo,84091,84095,mein,hugo
 qd,ssrf.0,83989,84740,hugo,84162,84165,ich,hugo
 qd,ssrf.0,83989,84740,hugo,84199,84203,mich,hugo
@@ -538,6 +549,7 @@ qd,ssrf.0,95185,95902,hugo,95281,95284,ich,hugo
 qd,ssrf.0,95185,95902,hugo,95380,95384,mein,hugo
 qd,ssrf.0,95185,95902,hugo,95602,95605,mir,hugo
 qd,ssrf.0,95185,95902,hugo,95676,95680,mein,hugo
+qd,ssrf.0,95982,96430,hugo,96000,96003,ich,hugo
 qd,ssrf.0,95982,96430,hugo,96238,96241,ich,hugo
 qd,ssrf.0,95982,96430,hugo,96317,96321,mein,hugo
 qd,ssrf.0,96436,96522,elvire,96513,96517,mich,elvire
@@ -568,9 +580,11 @@ qd,ssrf.0,98424,98707,otto,98635,98638,mir,otto
 qd,ssrf.0,98424,98707,otto,98644,98648,mein,otto
 qd,ssrf.0,98713,98807,hugo,98753,98756,ich,hugo
 qd,ssrf.0,98713,98807,hugo,98779,98782,ich,hugo
+qd,ssrf.0,98940,99053,hugo,99001,99004,mir,hugo
 qd,ssrf.0,99058,99224,otto,99104,99107,ich,otto
 qd,ssrf.0,99058,99224,otto,99156,99159,ich,otto
 qd,ssrf.0,99058,99224,otto,99184,99187,mir,otto
+qd,ssrf.0,99230,99272,hugo,99256,99259,ich,hugo
 qd,ssrf.0,99423,100164,hugo,99430,99434,Mein,hugo
 qd,ssrf.0,99423,100164,hugo,99530,99534,mein,hugo
 qd,ssrf.0,99423,100164,hugo,99978,99982,mich,hugo

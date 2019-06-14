@@ -219,6 +219,7 @@ qd,stqr.0,44038,45052,bürgermeister,44336,44339,ich,bürgermeister
 qd,stqr.0,44038,45052,bürgermeister,44340,44343,mir,bürgermeister
 qd,stqr.0,44038,45052,bürgermeister,44927,44930,ich,bürgermeister
 qd,stqr.0,45246,45351,bürgermeister,45307,45310,Ich,bürgermeister
+qd,stqr.0,45356,45395,klaus,45380,45383,mir,klaus
 qd,stqr.0,45527,45622,klaus,45571,45574,ich,klaus
 qd,stqr.0,45527,45622,klaus,45584,45587,ich,klaus
 qd,stqr.0,45527,45622,klaus,45593,45596,ich,klaus
@@ -332,6 +333,7 @@ qd,stqr.0,70943,71108,reakzerl,71012,71015,ich,reakzerl
 qd,stqr.0,70943,71108,reakzerl,71047,71050,ich,reakzerl
 qd,stqr.0,71247,71433,frau_von_schnabelbeiss,71272,71276,Mein,frau_von_schnabelbeiss
 qd,stqr.0,71247,71433,frau_von_schnabelbeiss,71283,71286,ich,frau_von_schnabelbeiss
+qd,stqr.0,71247,71433,frau_von_schnabelbeiss,71293,71296,mir,frau_von_schnabelbeiss
 qd,stqr.0,71247,71433,frau_von_schnabelbeiss,71304,71309,meine,frau_von_schnabelbeiss
 qd,stqr.0,71438,71496,walpurga,71460,71463,Ich,walpurga
 qd,stqr.0,71438,71496,walpurga,71469,71473,mich,walpurga
@@ -353,6 +355,7 @@ qd,stqr.0,74554,74606,frau_von_frankenfrei,74577,74580,Ich,frau_von_frankenfrei
 qd,stqr.0,74554,74606,frau_von_frankenfrei,74587,74590,mir,frau_von_frankenfrei
 qd,stqr.0,74724,74847,ultra,74799,74804,meine,ultra
 qd,stqr.0,75117,75209,ultra,75132,75135,ich,ultra
+qd,stqr.0,75117,75209,ultra,75175,75178,mir,ultra
 qd,stqr.0,75263,75453,ultra,75271,75274,Ich,ultra
 qd,stqr.0,75593,75717,bürgermeister,75630,75633,ich,bürgermeister
 qd,stqr.0,75593,75717,bürgermeister,75649,75653,mein,bürgermeister

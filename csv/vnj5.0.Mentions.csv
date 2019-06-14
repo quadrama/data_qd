@@ -49,8 +49,10 @@ qd,vnj5.0,10953,11457,falstaff,11196,11199,ich,falstaff
 qd,vnj5.0,10953,11457,falstaff,11278,11281,Ich,falstaff
 qd,vnj5.0,10953,11457,falstaff,11311,11314,ich,falstaff
 qd,vnj5.0,10953,11457,falstaff,11347,11350,ich,falstaff
+qd,vnj5.0,10953,11457,falstaff,11372,11375,ich,falstaff
 qd,vnj5.0,10953,11457,falstaff,11389,11392,ich,falstaff
 qd,vnj5.0,11536,11662,falstaff,11568,11571,ich,falstaff
+qd,vnj5.0,11536,11662,falstaff,11586,11589,ich,falstaff
 qd,vnj5.0,11536,11662,falstaff,11612,11616,mich,falstaff
 qd,vnj5.0,11536,11662,falstaff,11640,11644,mich,falstaff
 qd,vnj5.0,11667,11772,prinz_heinrich,11684,11687,Ich,prinz_heinrich
@@ -137,6 +139,7 @@ qd,vnj5.0,23329,23529,percy,23463,23467,mein,percy
 qd,vnj5.0,23329,23529,percy,23517,23523,meinen,percy
 qd,vnj5.0,23657,23983,percy,23693,23696,ich,percy
 qd,vnj5.0,23657,23983,percy,23721,23724,ich,percy
+qd,vnj5.0,23657,23983,percy,23757,23760,ich,percy
 qd,vnj5.0,23657,23983,percy,23805,23808,ich,percy
 qd,vnj5.0,23657,23983,percy,23818,23822,Mein,percy
 qd,vnj5.0,24045,24100,worcester,24091,24094,ich,worcester
@@ -218,6 +221,7 @@ qd,vnj5.0,35568,36581,gadshill,36015,36018,Ich,gadshill
 qd,vnj5.0,36869,36997,hausknecht,36886,36892,meiner,hausknecht
 qd,vnj5.0,36869,36997,hausknecht,36899,36902,ich,hausknecht
 qd,vnj5.0,37002,37109,gadshill,37082,37085,ich,gadshill
+qd,vnj5.0,37114,37186,hausknecht,37137,37140,mir,hausknecht
 qd,vnj5.0,37191,37375,gadshill,37297,37303,meinen,gadshill
 qd,vnj5.0,37528,37649,poins,37568,37571,Ich,poins
 qd,vnj5.0,37891,38009,prinz_heinrich,37950,37953,ich,prinz_heinrich
@@ -297,6 +301,7 @@ qd,vnj5.0,46293,47542,lady_percy,46656,46661,meine,lady_percy
 qd,vnj5.0,46293,47542,lady_percy,46674,46678,mein,lady_percy
 qd,vnj5.0,46293,47542,lady_percy,46742,46745,Ich,lady_percy
 qd,vnj5.0,46293,47542,lady_percy,47472,47476,mein,lady_percy
+qd,vnj5.0,46293,47542,lady_percy,47511,47514,ich,lady_percy
 qd,vnj5.0,46293,47542,lady_percy,47531,47535,mich,lady_percy
 qd,vnj5.0,47884,48009,percy,47908,47912,mich,percy
 qd,vnj5.0,47884,48009,percy,47924,47927,ich,percy
@@ -441,6 +446,7 @@ qd,vnj5.0,61139,61326,falstaff,61300,61306,meiner,falstaff
 qd,vnj5.0,61472,61544,falstaff,61519,61522,ich,falstaff
 qd,vnj5.0,61549,61637,prinz_heinrich,61566,61569,Ich,prinz_heinrich
 qd,vnj5.0,61679,61727,prinz_heinrich,61700,61703,ich,prinz_heinrich
+qd,vnj5.0,61679,61727,prinz_heinrich,61710,61713,mir,prinz_heinrich
 qd,vnj5.0,61732,61840,falstaff,61824,61827,ich,falstaff
 qd,vnj5.0,61889,61954,falstaff,61903,61906,ich,falstaff
 qd,vnj5.0,62008,62161,falstaff,62048,62051,Ich,falstaff
@@ -449,6 +455,7 @@ qd,vnj5.0,62238,62442,falstaff,62253,62256,ich,falstaff
 qd,vnj5.0,62238,62442,falstaff,62345,62349,mich,falstaff
 qd,vnj5.0,62998,63269,falstaff,63031,63034,ich,falstaff
 qd,vnj5.0,62998,63269,falstaff,63095,63098,ich,falstaff
+qd,vnj5.0,62998,63269,falstaff,63099,63102,mir,falstaff
 qd,vnj5.0,62998,63269,falstaff,63214,63217,mir,falstaff
 qd,vnj5.0,63274,63450,prinz_heinrich,63291,63294,Ich,prinz_heinrich
 qd,vnj5.0,63455,63701,falstaff,63577,63580,ich,falstaff
@@ -636,6 +643,7 @@ qd,vnj5.0,87239,87480,glendower,87389,87392,Ich,glendower
 qd,vnj5.0,87239,87480,glendower,87402,87407,meine,glendower
 qd,vnj5.0,87548,88333,percy,87556,87559,Ich,percy
 qd,vnj5.0,87548,88333,percy,87596,87600,mich,percy
+qd,vnj5.0,87548,88333,percy,87864,87868,mich,percy
 qd,vnj5.0,87548,88333,percy,87920,87924,mich,percy
 qd,vnj5.0,87548,88333,percy,88011,88014,ich,percy
 qd,vnj5.0,87548,88333,percy,88057,88060,ich,percy
@@ -694,6 +702,7 @@ qd,vnj5.0,94545,95017,prinz_heinrich,94763,94767,mich,prinz_heinrich
 qd,vnj5.0,94545,95017,prinz_heinrich,94904,94907,Mir,prinz_heinrich
 qd,vnj5.0,94545,95017,prinz_heinrich,94925,94929,mich,prinz_heinrich
 qd,vnj5.0,94545,95017,prinz_heinrich,94930,94935,meine,prinz_heinrich
+qd,vnj5.0,95023,97750,könig_heinrich,95070,95074,mich,könig_heinrich
 qd,vnj5.0,95023,97750,könig_heinrich,95485,95488,ich,könig_heinrich
 qd,vnj5.0,95023,97750,könig_heinrich,95492,95497,meine,könig_heinrich
 qd,vnj5.0,95023,97750,könig_heinrich,95523,95527,mich,könig_heinrich
@@ -734,6 +743,7 @@ qd,vnj5.0,99433,100829,prinz_heinrich,100341,100344,Ich,prinz_heinrich
 qd,vnj5.0,99433,100829,prinz_heinrich,100396,100399,mir,prinz_heinrich
 qd,vnj5.0,99433,100829,prinz_heinrich,100488,100491,ich,prinz_heinrich
 qd,vnj5.0,99433,100829,prinz_heinrich,100535,100538,ich,prinz_heinrich
+qd,vnj5.0,99433,100829,prinz_heinrich,100595,100598,ich,prinz_heinrich
 qd,vnj5.0,99433,100829,prinz_heinrich,100620,100623,ich,prinz_heinrich
 qd,vnj5.0,99433,100829,prinz_heinrich,100662,100668,meinen,prinz_heinrich
 qd,vnj5.0,99433,100829,prinz_heinrich,100769,100772,ich,prinz_heinrich
@@ -824,6 +834,7 @@ qd,vnj5.0,107599,107631,wirtin,107626,107630,mich,wirtin
 qd,vnj5.0,107636,107685,falstaff,107680,107684,mich,falstaff
 qd,vnj5.0,107731,107905,falstaff,107761,107764,ich,falstaff
 qd,vnj5.0,107731,107905,falstaff,107811,107814,mir,falstaff
+qd,vnj5.0,107959,108096,falstaff,107979,107982,mir,falstaff
 qd,vnj5.0,107959,108096,falstaff,108079,108085,meinem,falstaff
 qd,vnj5.0,108160,108383,wirtin,108179,108182,ich,wirtin
 qd,vnj5.0,108160,108383,wirtin,108212,108215,ich,wirtin
@@ -840,6 +851,7 @@ qd,vnj5.0,110097,110132,falstaff,110114,110117,ich,falstaff
 qd,vnj5.0,110194,110250,falstaff,110224,110228,mein,falstaff
 qd,vnj5.0,110255,110346,prinz_heinrich,110272,110275,Ich,prinz_heinrich
 qd,vnj5.0,110351,110520,falstaff,110423,110426,ich,falstaff
+qd,vnj5.0,110351,110520,falstaff,110427,110431,mich,falstaff
 qd,vnj5.0,110351,110520,falstaff,110474,110477,ich,falstaff
 qd,vnj5.0,110573,110734,falstaff,110644,110647,ich,falstaff
 qd,vnj5.0,110573,110734,falstaff,110690,110693,ich,falstaff
@@ -1081,6 +1093,7 @@ qd,vnj5.0,147803,148231,falstaff,147984,147987,ich,falstaff
 qd,vnj5.0,147803,148231,falstaff,148054,148057,mir,falstaff
 qd,vnj5.0,147803,148231,falstaff,148066,148069,Ich,falstaff
 qd,vnj5.0,147803,148231,falstaff,148128,148131,mir,falstaff
+qd,vnj5.0,147803,148231,falstaff,148148,148151,ich,falstaff
 qd,vnj5.0,148376,148497,könig_heinrich,148393,148396,Ich,könig_heinrich
 qd,vnj5.0,148503,148569,prinz_johann,148517,148520,Ich,prinz_johann
 qd,vnj5.0,148503,148569,prinz_johann,148528,148532,mein,prinz_johann

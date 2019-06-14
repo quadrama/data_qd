@@ -40,7 +40,6 @@ qd,qkp2.0,13759,14137,luzifer,13870,13873,ich,luzifer
 qd,qkp2.0,13759,14137,luzifer,13884,13890,meinen,luzifer
 qd,qkp2.0,13759,14137,luzifer,13955,13958,ich,luzifer
 qd,qkp2.0,13759,14137,luzifer,13959,13963,mich,luzifer
-qd,qkp2.0,13759,14137,luzifer,13980,13986,meinen,luzifer
 qd,qkp2.0,14383,14480,satan,14426,14429,Ich,satan
 qd,qkp2.0,14383,14480,satan,14468,14471,Ich,satan
 qd,qkp2.0,15214,15385,luzifer,15229,15232,ich,luzifer
@@ -97,6 +96,7 @@ qd,qkp2.0,21763,22350,satan,21782,21786,mich,satan
 qd,qkp2.0,21763,22350,satan,21985,21988,ich,satan
 qd,qkp2.0,21763,22350,satan,22031,22034,mir,satan
 qd,qkp2.0,21763,22350,satan,22108,22113,meine,satan
+qd,qkp2.0,22355,22524,candidas_stimme,22422,22425,ich,candidas_stimme
 qd,qkp2.0,22355,22524,candidas_stimme,22499,22503,mein,candidas_stimme
 qd,qkp2.0,22728,22827,candidas_stimme,22738,22741,Ich,candidas_stimme
 qd,qkp2.0,22728,22827,candidas_stimme,22783,22787,Mich,candidas_stimme
@@ -161,6 +161,7 @@ qd,qkp2.0,29519,32411,placidus,30817,30820,Ich,placidus
 qd,qkp2.0,29519,32411,placidus,30833,30836,ich,placidus
 qd,qkp2.0,29519,32411,placidus,31160,31163,mir,placidus
 qd,qkp2.0,29519,32411,placidus,31298,31301,Ich,placidus
+qd,qkp2.0,29519,32411,placidus,31369,31372,Ich,placidus
 qd,qkp2.0,29519,32411,placidus,31545,31548,ich,placidus
 qd,qkp2.0,29519,32411,placidus,31573,31576,Ich,placidus
 qd,qkp2.0,29519,32411,placidus,31704,31707,mir,placidus
@@ -318,9 +319,11 @@ qd,qkp2.0,56469,57460,klingsor,57230,57234,mein,klingsor
 qd,qkp2.0,56469,57460,klingsor,57359,57362,ich,klingsor
 qd,qkp2.0,57700,57805,kay,57729,57732,Ich,kay
 qd,qkp2.0,57811,57886,klingsor,57832,57837,meine,klingsor
+qd,qkp2.0,57892,57917,kay,57903,57906,ich,kay
 qd,qkp2.0,57922,58124,klingsor,57993,57998,meine,klingsor
 qd,qkp2.0,57922,58124,klingsor,58050,58054,mich,klingsor
 qd,qkp2.0,58129,58219,kay,58160,58163,ich,kay
+qd,qkp2.0,58225,58582,klingsor,58383,58386,ich,klingsor
 qd,qkp2.0,58225,58582,klingsor,58403,58406,mir,klingsor
 qd,qkp2.0,58225,58582,klingsor,58461,58464,mir,klingsor
 qd,qkp2.0,58658,58719,merlin,58691,58697,meines,merlin
@@ -644,6 +647,7 @@ qd,qkp2.0,102855,103479,satan,103095,103098,ich,satan
 qd,qkp2.0,103484,104542,niniana,103537,103541,mich,niniana
 qd,qkp2.0,103484,104542,niniana,103560,103563,ich,niniana
 qd,qkp2.0,103484,104542,niniana,103764,103768,mich,niniana
+qd,qkp2.0,103484,104542,niniana,103830,103833,ich,niniana
 qd,qkp2.0,103484,104542,niniana,103860,103863,ich,niniana
 qd,qkp2.0,103484,104542,niniana,103995,103998,Ich,niniana
 qd,qkp2.0,103484,104542,niniana,104198,104202,Mein,niniana
@@ -751,6 +755,7 @@ qd,qkp2.0,123390,123447,niniana,123438,123441,ich,niniana
 qd,qkp2.0,123390,123447,niniana,123442,123446,mich,niniana
 qd,qkp2.0,123452,123777,merlin,123469,123472,mir,merlin
 qd,qkp2.0,123452,123777,merlin,123560,123563,mir,merlin
+qd,qkp2.0,123452,123777,merlin,123617,123620,ich,merlin
 qd,qkp2.0,123452,123777,merlin,123647,123650,mir,merlin
 qd,qkp2.0,123452,123777,merlin,123733,123736,ich,merlin
 qd,qkp2.0,123895,124952,merlin,123911,123914,mir,merlin
@@ -760,6 +765,7 @@ qd,qkp2.0,123895,124952,merlin,124368,124371,mir,merlin
 qd,qkp2.0,123895,124952,merlin,124373,124376,ich,merlin
 qd,qkp2.0,123895,124952,merlin,124568,124571,Ich,merlin
 qd,qkp2.0,123895,124952,merlin,124631,124634,ich,merlin
+qd,qkp2.0,123895,124952,merlin,124725,124728,ich,merlin
 qd,qkp2.0,123895,124952,merlin,124761,124764,ich,merlin
 qd,qkp2.0,123895,124952,merlin,124789,124792,ich,merlin
 qd,qkp2.0,123895,124952,merlin,124811,124814,ich,merlin
@@ -800,6 +806,7 @@ qd,qkp2.0,129783,130278,niniana,130226,130229,ich,niniana
 qd,qkp2.0,130325,130650,niniana,130357,130361,mich,niniana
 qd,qkp2.0,130325,130650,niniana,130411,130414,ich,niniana
 qd,qkp2.0,130325,130650,niniana,130494,130498,mich,niniana
+qd,qkp2.0,130325,130650,niniana,130543,130546,mir,niniana
 qd,qkp2.0,130325,130650,niniana,130560,130563,Ich,niniana
 qd,qkp2.0,130325,130650,niniana,130614,130618,mich,niniana
 qd,qkp2.0,130707,130858,niniana,130849,130853,mich,niniana
@@ -819,10 +826,12 @@ qd,qkp2.0,131591,131926,merlin,131855,131860,meine,merlin
 qd,qkp2.0,131932,131965,niniana,131961,131964,mir,niniana
 qd,qkp2.0,131992,132126,niniana,132088,132091,ich,niniana
 qd,qkp2.0,132132,132189,merlin,132175,132178,mir,merlin
+qd,qkp2.0,132196,132603,niniana,132319,132322,ich,niniana
 qd,qkp2.0,132196,132603,niniana,132356,132359,ich,niniana
 qd,qkp2.0,132196,132603,niniana,132367,132370,mir,niniana
 qd,qkp2.0,132196,132603,niniana,132386,132389,ich,niniana
 qd,qkp2.0,132196,132603,niniana,132440,132443,Ich,niniana
+qd,qkp2.0,132196,132603,niniana,132495,132498,ich,niniana
 qd,qkp2.0,132196,132603,niniana,132557,132560,mir,niniana
 qd,qkp2.0,132196,132603,niniana,132574,132577,Ich,niniana
 qd,qkp2.0,132609,132654,merlin,132640,132643,mir,merlin

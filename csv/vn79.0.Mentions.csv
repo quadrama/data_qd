@@ -119,6 +119,7 @@ qd,vn79.0,11665,11765,lucetta,11675,11678,Ich,lucetta
 qd,vn79.0,11875,11928,lucetta,11884,11887,Ich,lucetta
 qd,vn79.0,11875,11928,lucetta,11912,11915,ich,lucetta
 qd,vn79.0,11975,12008,lucetta,11996,12000,mich,lucetta
+qd,vn79.0,12224,12326,lucetta,12238,12241,ich,lucetta
 qd,vn79.0,12224,12326,lucetta,12279,12282,mir,lucetta
 qd,vn79.0,12634,12667,lucetta,12654,12658,mich,lucetta
 qd,vn79.0,12736,12840,lucetta,12813,12816,mir,lucetta
@@ -131,8 +132,8 @@ qd,vn79.0,13543,14750,julia,14009,14013,Mein,julia
 qd,vn79.0,13543,14750,julia,14097,14100,ich,julia
 qd,vn79.0,13543,14750,julia,14207,14210,mir,julia
 qd,vn79.0,13543,14750,julia,14254,14257,ich,julia
-qd,vn79.0,13543,14750,julia,14276,14282,meinen,julia
 qd,vn79.0,13543,14750,julia,14533,14536,ich,julia
+qd,vn79.0,13543,14750,julia,14552,14555,ich,julia
 qd,vn79.0,13543,14750,julia,14641,14644,ich,julia
 qd,vn79.0,14951,15062,lucetta,14990,14993,ich,lucetta
 qd,vn79.0,15068,15113,julia,15075,15078,Ich,julia
@@ -151,6 +152,7 @@ qd,vn79.0,16685,16914,panthino,16700,16704,mein,panthino
 qd,vn79.0,16920,17168,antonio,16947,16950,mir,antonio
 qd,vn79.0,16920,17168,antonio,17008,17011,mir,antonio
 qd,vn79.0,16920,17168,antonio,17083,17086,ich,antonio
+qd,vn79.0,17354,17484,antonio,17441,17444,ich,antonio
 qd,vn79.0,17806,17946,proteus,17816,17820,Mein,proteus
 qd,vn79.0,17806,17946,proteus,17880,17883,mir,proteus
 qd,vn79.0,17806,17946,proteus,17915,17918,mir,proteus
@@ -174,7 +176,6 @@ qd,vn79.0,19120,19615,proteus,19296,19301,meine,proteus
 qd,vn79.0,19120,19615,proteus,19389,19395,meiner,proteus
 qd,vn79.0,19621,19717,panthino,19706,19709,mir,panthino
 qd,vn79.0,19723,19839,proteus,19733,19737,Mein,proteus
-qd,vn79.0,19999,20151,valentin,20028,20033,meine,valentin
 qd,vn79.0,19999,20151,valentin,20046,20050,mich,valentin
 qd,vn79.0,19999,20151,valentin,20077,20081,mein,valentin
 qd,vn79.0,20320,20383,flink,20346,20349,ich,flink
@@ -220,6 +221,7 @@ qd,vn79.0,25128,25278,valentin,25151,25155,mein,valentin
 qd,vn79.0,25128,25278,valentin,25245,25248,ich,valentin
 qd,vn79.0,25335,25457,valentin,25385,25388,ich,valentin
 qd,vn79.0,25463,25676,silvia,25492,25495,Ich,silvia
+qd,vn79.0,25463,25676,silvia,25531,25534,ich,silvia
 qd,vn79.0,25463,25676,silvia,25562,25566,mich,silvia
 qd,vn79.0,25463,25676,silvia,25617,25620,ich,silvia
 qd,vn79.0,25986,26128,silvia,26031,26035,mein,silvia
@@ -548,6 +550,7 @@ qd,vn79.0,59240,60890,herzog,59259,59262,ich,herzog
 qd,vn79.0,59240,60890,herzog,59263,59267,mich,herzog
 qd,vn79.0,59240,60890,herzog,59300,59303,Ich,herzog
 qd,vn79.0,59240,60890,herzog,59315,59319,mich,herzog
+qd,vn79.0,59240,60890,herzog,59425,59428,ich,herzog
 qd,vn79.0,59240,60890,herzog,59455,59458,ich,herzog
 qd,vn79.0,59240,60890,herzog,59523,59528,meine,herzog
 qd,vn79.0,59240,60890,herzog,59563,59566,ich,herzog
@@ -621,6 +624,7 @@ qd,vn79.0,68260,68444,lanz,68370,68373,ich,lanz
 qd,vn79.0,68610,68677,lanz,68630,68633,ich,lanz
 qd,vn79.0,68610,68677,lanz,68634,68637,mir,lanz
 qd,vn79.0,68610,68677,lanz,68656,68659,ich,lanz
+qd,vn79.0,68834,68947,lanz,68904,68907,ich,lanz
 qd,vn79.0,68992,69243,lanz,69136,69139,ich,lanz
 qd,vn79.0,68992,69243,lanz,69213,69216,ich,lanz
 qd,vn79.0,69347,69488,lanz,69365,69368,ich,lanz
@@ -672,6 +676,7 @@ qd,vn79.0,76200,76420,valentin,76403,76408,meine,valentin
 qd,vn79.0,76613,76720,valentin,76703,76706,mir,valentin
 qd,vn79.0,76775,76796,valentin,76786,76789,Ich,valentin
 qd,vn79.0,76841,77027,valentin,76867,76871,mich,valentin
+qd,vn79.0,76841,77027,valentin,76884,76887,ich,valentin
 qd,vn79.0,76841,77027,valentin,76900,76903,Ich,valentin
 qd,vn79.0,76841,77027,valentin,76932,76936,mich,valentin
 qd,vn79.0,76841,77027,valentin,76956,76959,ich,valentin

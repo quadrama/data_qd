@@ -32,6 +32,7 @@ qd,jkjf.0,26285,26393,gerlind,26316,26319,mir,gerlind
 qd,jkjf.0,26398,26429,liborius,26419,26423,mein,liborius
 qd,jkjf.0,26434,27896,gerlind,26444,26447,Ich,gerlind
 qd,jkjf.0,26434,27896,gerlind,26457,26461,mein,gerlind
+qd,jkjf.0,26434,27896,gerlind,26482,26485,mir,gerlind
 qd,jkjf.0,26434,27896,gerlind,26502,26508,meiner,gerlind
 qd,jkjf.0,26434,27896,gerlind,26666,26669,mir,gerlind
 qd,jkjf.0,26434,27896,gerlind,26735,26739,mich,gerlind
@@ -836,7 +837,6 @@ qd,jkjf.0,129312,129596,münzer,129472,129476,mich,münzer
 qd,jkjf.0,129312,129596,münzer,129483,129486,ich,münzer
 qd,jkjf.0,129312,129596,münzer,129561,129564,ich,münzer
 qd,jkjf.0,129814,129906,hans,129833,129836,ich,hans
-qd,jkjf.0,129945,130542,hans,130185,130188,ich,hans
 qd,jkjf.0,129945,130542,hans,130194,130197,mir,hans
 qd,jkjf.0,129945,130542,hans,130457,130460,ich,hans
 qd,jkjf.0,129945,130542,hans,130499,130503,mich,hans
@@ -1039,6 +1039,7 @@ qd,jkjf.0,154632,155096,jacobe,154704,154708,mich,jacobe
 qd,jkjf.0,154632,155096,jacobe,154728,154731,ich,jacobe
 qd,jkjf.0,154632,155096,jacobe,154796,154799,ich,jacobe
 qd,jkjf.0,155101,155380,pfeifer,155149,155152,ich,pfeifer
+qd,jkjf.0,155101,155380,pfeifer,155241,155244,ich,pfeifer
 qd,jkjf.0,155385,155471,münzer,155407,155410,mir,münzer
 qd,jkjf.0,155385,155471,münzer,155412,155415,Ich,münzer
 qd,jkjf.0,155476,155912,pfeifer,155498,155501,mir,pfeifer
@@ -1055,6 +1056,7 @@ qd,jkjf.0,157115,157252,münzer,157241,157244,ich,münzer
 qd,jkjf.0,157301,157326,münzer,157315,157320,meine,münzer
 qd,jkjf.0,157331,157490,pfeifer,157364,157368,mein,pfeifer
 qd,jkjf.0,157331,157490,pfeifer,157380,157383,ich,pfeifer
+qd,jkjf.0,157611,157749,münzer,157731,157734,mir,münzer
 qd,jkjf.0,157788,157994,pfeifer,157809,157812,Ich,pfeifer
 qd,jkjf.0,157788,157994,pfeifer,157865,157868,Ich,pfeifer
 qd,jkjf.0,157788,157994,pfeifer,157877,157883,meinen,pfeifer
@@ -1159,6 +1161,7 @@ qd,jkjf.0,168334,168802,münzer,168637,168640,ich,münzer
 qd,jkjf.0,168334,168802,münzer,168672,168678,meinen,münzer
 qd,jkjf.0,168334,168802,münzer,168731,168734,mir,münzer
 qd,jkjf.0,168851,169727,gerlind,168890,168893,ich,gerlind
+qd,jkjf.0,168851,169727,gerlind,169002,169005,ich,gerlind
 qd,jkjf.0,168851,169727,gerlind,169024,169027,ich,gerlind
 qd,jkjf.0,168851,169727,gerlind,169061,169066,meine,gerlind
 qd,jkjf.0,168851,169727,gerlind,169084,169087,ich,gerlind

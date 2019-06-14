@@ -43,6 +43,7 @@ qd,11d11.0,21044,21330,olivenzweig_mit_früchten,21130,21133,ich,olivenzweig_mit
 qd,11d11.0,21044,21330,olivenzweig_mit_früchten,21136,21139,Mir,olivenzweig_mit_früchten
 qd,11d11.0,21044,21330,olivenzweig_mit_früchten,21168,21171,ich,olivenzweig_mit_früchten
 qd,11d11.0,21044,21330,olivenzweig_mit_früchten,21270,21273,ich,olivenzweig_mit_früchten
+qd,11d11.0,21044,21330,olivenzweig_mit_früchten,21280,21283,mir,olivenzweig_mit_früchten
 qd,11d11.0,21633,21912,phantasiestrauss,21652,21658,Meinen,phantasiestrauss
 qd,11d11.0,21633,21912,phantasiestrauss,21727,21730,ich,phantasiestrauss
 qd,11d11.0,21633,21912,phantasiestrauss,21780,21783,ich,phantasiestrauss
@@ -61,7 +62,9 @@ qd,11d11.0,25771,26694,trunkner,26157,26161,mich,trunkner
 qd,11d11.0,25771,26694,trunkner,26187,26190,ich,trunkner
 qd,11d11.0,25771,26694,trunkner,26323,26326,ich,trunkner
 qd,11d11.0,25771,26694,trunkner,26345,26348,ich,trunkner
+qd,11d11.0,25771,26694,trunkner,26358,26361,mir,trunkner
 qd,11d11.0,25771,26694,trunkner,26456,26459,ich,trunkner
+qd,11d11.0,25771,26694,trunkner,26541,26545,mich,trunkner
 qd,11d11.0,25771,26694,trunkner,26582,26585,ich,trunkner
 qd,11d11.0,25771,26694,trunkner,26586,26590,mich,trunkner
 qd,11d11.0,25771,26694,trunkner,26634,26638,mich,trunkner
@@ -108,10 +111,12 @@ qd,11d11.0,33016,34035,klugheit,33642,33645,ich,klugheit
 qd,11d11.0,33016,34035,klugheit,33646,33649,mir,klugheit
 qd,11d11.0,33016,34035,klugheit,33863,33867,mich,klugheit
 qd,11d11.0,33016,34035,klugheit,33989,33993,mich,klugheit
+qd,11d11.0,33016,34035,klugheit,34011,34014,ich,klugheit
 qd,11d11.0,34042,34513,herold,34487,34490,ich,herold
 qd,11d11.0,34519,34852,gemurmel_der_menge,34572,34575,Ich,gemurmel_der_menge
 qd,11d11.0,34519,34852,gemurmel_der_menge,34584,34587,ich,gemurmel_der_menge
 qd,11d11.0,34519,34852,gemurmel_der_menge,34675,34678,mir,gemurmel_der_menge
+qd,11d11.0,34519,34852,gemurmel_der_menge,34703,34706,ich,gemurmel_der_menge
 qd,11d11.0,34858,35745,herold,34872,34875,mir,herold
 qd,11d11.0,34858,35745,herold,34933,34936,ich,herold
 qd,11d11.0,34858,35745,herold,35063,35066,ich,herold
@@ -228,6 +233,8 @@ qd,11d11.0,56044,56381,marschalk,56320,56323,ich,marschalk
 qd,11d11.0,56813,57229,kanzler,56866,56872,meinen,kanzler
 qd,11d11.0,57235,57363,kaiser,57244,57247,Ich,kaiser
 qd,11d11.0,58137,58280,kaiser,58150,58156,meinen,kaiser
+qd,11d11.0,58137,58280,kaiser,58240,58244,mich,kaiser
+qd,11d11.0,58137,58280,kaiser,58260,58263,ich,kaiser
 qd,11d11.0,58816,59455,mephistopheles,59430,59433,ich,mephistopheles
 qd,11d11.0,60811,60934,schatzmeister,60878,60881,Ich,schatzmeister
 qd,11d11.0,60811,60934,schatzmeister,60888,60891,mir,schatzmeister
@@ -266,6 +273,7 @@ qd,11d11.0,64534,64729,mephistopheles,64567,64570,ich,mephistopheles
 qd,11d11.0,65362,65821,faust,65390,65393,ich,faust
 qd,11d11.0,65362,65821,faust,65491,65494,ich,faust
 qd,11d11.0,65362,65821,faust,65569,65572,ich,faust
+qd,11d11.0,65362,65821,faust,65589,65592,ich,faust
 qd,11d11.0,65362,65821,faust,65655,65658,ich,faust
 qd,11d11.0,65362,65821,faust,65782,65786,Mich,faust
 qd,11d11.0,66264,66606,faust,66374,66378,mich,faust
@@ -322,6 +330,7 @@ qd,11d11.0,77675,77785,jüngere,77748,77751,mir,jüngere
 qd,11d11.0,78014,78126,mephistopheles,78067,78070,ich,mephistopheles
 qd,11d11.0,78014,78126,mephistopheles,78113,78116,mir,mephistopheles
 qd,11d11.0,78132,78414,astrolog,78147,78151,mich,astrolog
+qd,11d11.0,78132,78414,astrolog,78218,78221,ich,astrolog
 qd,11d11.0,78132,78414,astrolog,78258,78261,ich,astrolog
 qd,11d11.0,78420,79026,faust,78433,78436,ich,faust
 qd,11d11.0,78420,79026,faust,78521,78525,Mein,faust
@@ -358,6 +367,7 @@ qd,11d11.0,81537,82050,faust,81916,81919,Ich,faust
 qd,11d11.0,81537,82050,faust,81951,81955,mein,faust
 qd,11d11.0,82632,83883,mephistopheles,82950,82953,ich,mephistopheles
 qd,11d11.0,82632,83883,mephistopheles,83052,83056,mich,mephistopheles
+qd,11d11.0,82632,83883,mephistopheles,83324,83327,ich,mephistopheles
 qd,11d11.0,82632,83883,mephistopheles,83388,83391,ich,mephistopheles
 qd,11d11.0,82632,83883,mephistopheles,83471,83475,mich,mephistopheles
 qd,11d11.0,82632,83883,mephistopheles,83499,83502,ich,mephistopheles
@@ -380,10 +390,12 @@ qd,11d11.0,85691,85729,famulus,85718,85722,mich,famulus
 qd,11d11.0,85734,86501,mephistopheles,85751,85754,Ich,mephistopheles
 qd,11d11.0,86507,87095,famulus,86551,86554,ich,famulus
 qd,11d11.0,86507,87095,famulus,86572,86575,ich,famulus
+qd,11d11.0,86507,87095,famulus,86926,86929,ich,famulus
 qd,11d11.0,86507,87095,famulus,86933,86937,mich,famulus
 qd,11d11.0,86507,87095,famulus,87005,87008,mir,famulus
 qd,11d11.0,87101,87186,mephistopheles,87156,87160,mich,mephistopheles
 qd,11d11.0,87192,87551,famulus,87239,87242,Ich,famulus
+qd,11d11.0,87192,87551,famulus,87258,87261,ich,famulus
 qd,11d11.0,87557,87887,mephistopheles,87596,87599,mir,mephistopheles
 qd,11d11.0,87557,87887,mephistopheles,87612,87615,Ich,mephistopheles
 qd,11d11.0,87557,87887,mephistopheles,87743,87746,ich,mephistopheles
@@ -396,6 +408,7 @@ qd,11d11.0,87893,89230,bacc,88462,88465,ich,bacc
 qd,11d11.0,87893,89230,bacc,88491,88495,Mich,bacc
 qd,11d11.0,87893,89230,bacc,88564,88567,mir,bacc
 qd,11d11.0,87893,89230,bacc,88635,88638,mir,bacc
+qd,11d11.0,87893,89230,bacc,88738,88741,ich,bacc
 qd,11d11.0,87893,89230,bacc,88811,88814,ich,bacc
 qd,11d11.0,87893,89230,bacc,88896,88899,ich,bacc
 qd,11d11.0,87893,89230,bacc,89160,89163,Ich,bacc
@@ -429,9 +442,12 @@ qd,11d11.0,92384,92993,bacc,92639,92642,mir,bacc
 qd,11d11.0,92384,92993,bacc,92658,92664,meinen,bacc
 qd,11d11.0,92384,92993,bacc,92744,92747,mir,bacc
 qd,11d11.0,92384,92993,bacc,92818,92821,Ich,bacc
+qd,11d11.0,92384,92993,bacc,92837,92840,mir,bacc
 qd,11d11.0,92384,92993,bacc,92877,92881,mein,bacc
 qd,11d11.0,92384,92993,bacc,92960,92963,mir,bacc
 qd,11d11.0,92998,93538,mephistopheles,93414,93420,meinem,mephistopheles
+qd,11d11.0,92998,93538,mephistopheles,93457,93460,ich,mephistopheles
+qd,11d11.0,93677,94121,wagner,94054,94057,ich,wagner
 qd,11d11.0,95551,95733,mephistopheles,95657,95660,Ich,mephistopheles
 qd,11d11.0,95551,95733,mephistopheles,95675,95681,meinen,mephistopheles
 qd,11d11.0,95739,96371,wagner,96157,96160,Ich,wagner
@@ -476,6 +492,7 @@ qd,11d11.0,102560,104351,erichtho,102715,102719,mich,erichtho
 qd,11d11.0,102560,104351,erichtho,102812,102815,mir,erichtho
 qd,11d11.0,102560,104351,erichtho,104035,104038,mir,erichtho
 qd,11d11.0,102560,104351,erichtho,104113,104116,Ich,erichtho
+qd,11d11.0,102560,104351,erichtho,104148,104151,mir,erichtho
 qd,11d11.0,102560,104351,erichtho,104187,104190,ich,erichtho
 qd,11d11.0,102560,104351,erichtho,104219,104222,mir,erichtho
 qd,11d11.0,102560,104351,erichtho,104244,104247,mir,erichtho
@@ -495,6 +512,7 @@ qd,11d11.0,106158,106779,mephistopheles,106198,106201,ich,mephistopheles
 qd,11d11.0,106158,106779,mephistopheles,106243,106246,ich,mephistopheles
 qd,11d11.0,106158,106779,mephistopheles,106247,106251,mich,mephistopheles
 qd,11d11.0,106158,106779,mephistopheles,106531,106534,ich,mephistopheles
+qd,11d11.0,106158,106779,mephistopheles,106663,106667,mich,mephistopheles
 qd,11d11.0,107761,107897,mephistopheles,107838,107841,ich,mephistopheles
 qd,11d11.0,107761,107897,mephistopheles,107842,107846,mich,mephistopheles
 qd,11d11.0,107761,107897,mephistopheles,107870,107873,ich,mephistopheles
@@ -529,6 +547,7 @@ qd,11d11.0,114729,116195,faust,115399,115403,mich,faust
 qd,11d11.0,114729,116195,faust,115416,115420,Mein,faust
 qd,11d11.0,114729,116195,faust,115474,115478,mein,faust
 qd,11d11.0,116202,116401,nymphen_im_chor,116273,116276,ich,nymphen_im_chor
+qd,11d11.0,116202,116401,nymphen_im_chor,116293,116296,mir,nymphen_im_chor
 qd,11d11.0,116202,116401,nymphen_im_chor,116344,116347,ich,nymphen_im_chor
 qd,11d11.0,116407,116811,faust,116419,116422,mir,faust
 qd,11d11.0,116407,116811,faust,116493,116497,mein,faust
@@ -540,6 +559,7 @@ qd,11d11.0,116887,116911,chiron,116895,116898,Ich,chiron
 qd,11d11.0,116916,116947,faust,116938,116942,mich,faust
 qd,11d11.0,116952,117096,chiron,116979,116982,ich,chiron
 qd,11d11.0,116952,117096,chiron,117047,117050,Ich,chiron
+qd,11d11.0,117102,117329,faust,117155,117158,ich,faust
 qd,11d11.0,117508,117677,faust,117642,117645,ich,faust
 qd,11d11.0,117684,117838,chiron,117704,117707,mir,chiron
 qd,11d11.0,117684,117838,chiron,117737,117740,ich,chiron
@@ -581,6 +601,7 @@ qd,11d11.0,123233,123288,manto,123252,123256,mich,manto
 qd,11d11.0,123502,123577,manto,123519,123522,ich,manto
 qd,11d11.0,123582,123841,manto,123747,123750,ich,manto
 qd,11d11.0,125736,126615,seismos,125755,125758,ich,seismos
+qd,11d11.0,125736,126615,seismos,125793,125796,mir,seismos
 qd,11d11.0,125736,126615,seismos,125829,125832,ich,seismos
 qd,11d11.0,125736,126615,seismos,125968,125971,ich,seismos
 qd,11d11.0,125736,126615,seismos,126090,126093,ich,seismos
@@ -621,6 +642,7 @@ qd,11d11.0,133534,133985,mephistopheles,133816,133819,ich,mephistopheles
 qd,11d11.0,133534,133985,mephistopheles,133820,133824,mich,mephistopheles
 qd,11d11.0,134218,135018,mephistopheles,134282,134285,ich,mephistopheles
 qd,11d11.0,134218,135018,mephistopheles,134472,134475,Ich,mephistopheles
+qd,11d11.0,134218,135018,mephistopheles,134528,134532,mich,mephistopheles
 qd,11d11.0,134218,135018,mephistopheles,134550,134553,Ich,mephistopheles
 qd,11d11.0,134218,135018,mephistopheles,134567,134571,mich,mephistopheles
 qd,11d11.0,134218,135018,mephistopheles,134660,134663,ich,mephistopheles
@@ -630,6 +652,7 @@ qd,11d11.0,134218,135018,mephistopheles,134819,134822,ich,mephistopheles
 qd,11d11.0,134218,135018,mephistopheles,134849,134852,ich,mephistopheles
 qd,11d11.0,134218,135018,mephistopheles,134853,134858,meine,mephistopheles
 qd,11d11.0,134218,135018,mephistopheles,134890,134893,ich,mephistopheles
+qd,11d11.0,134218,135018,mephistopheles,134894,134897,mir,mephistopheles
 qd,11d11.0,134218,135018,mephistopheles,134960,134963,ich,mephistopheles
 qd,11d11.0,135024,135394,oreas,135061,135065,Mein,oreas
 qd,11d11.0,135024,135394,oreas,135195,135198,ich,oreas
@@ -660,6 +683,7 @@ qd,11d11.0,138764,139926,anaxagoras,139198,139201,ich,anaxagoras
 qd,11d11.0,138764,139926,anaxagoras,139226,139230,mein,anaxagoras
 qd,11d11.0,138764,139926,anaxagoras,139873,139876,Ich,anaxagoras
 qd,11d11.0,139931,140172,thales,139984,139987,Ich,thales
+qd,11d11.0,139931,140172,thales,140034,140037,ich,thales
 qd,11d11.0,140178,140555,homunculus,140266,140269,Ich,homunculus
 qd,11d11.0,140178,140555,homunculus,140428,140431,ich,homunculus
 qd,11d11.0,140768,141167,mephistopheles,140822,140825,ich,mephistopheles
@@ -694,6 +718,7 @@ qd,11d11.0,146606,146990,thales,146639,146642,Ich,thales
 qd,11d11.0,147091,147469,nereus,147128,147132,mein,nereus
 qd,11d11.0,147091,147469,nereus,147155,147158,mir,nereus
 qd,11d11.0,147091,147469,nereus,147311,147314,ich,nereus
+qd,11d11.0,147091,147469,nereus,147342,147346,mich,nereus
 qd,11d11.0,147091,147469,nereus,147388,147391,ich,nereus
 qd,11d11.0,147091,147469,nereus,147451,147454,ich,nereus
 qd,11d11.0,147668,148616,nereus,147866,147869,ich,nereus
@@ -777,6 +802,7 @@ qd,11d11.0,170089,170850,helena,170671,170674,ich,helena
 qd,11d11.0,170089,170850,helena,170718,170722,mich,helena
 qd,11d11.0,170089,170850,helena,170770,170773,ich,helena
 qd,11d11.0,170963,172741,helena,170976,170979,ich,helena
+qd,11d11.0,170963,172741,helena,171146,171149,ich,helena
 qd,11d11.0,170963,172741,helena,171177,171180,ich,helena
 qd,11d11.0,170963,172741,helena,171280,171283,ich,helena
 qd,11d11.0,170963,172741,helena,171442,171445,mir,helena
@@ -807,6 +833,8 @@ qd,11d11.0,178416,179286,helena,178952,178955,ich,helena
 qd,11d11.0,178416,179286,helena,178973,178977,mich,helena
 qd,11d11.0,178416,179286,helena,179068,179072,mich,helena
 qd,11d11.0,178416,179286,helena,179088,179091,ich,helena
+qd,11d11.0,178416,179286,helena,179107,179110,ich,helena
+qd,11d11.0,178416,179286,helena,179120,179123,ich,helena
 qd,11d11.0,178416,179286,helena,179266,179269,mir,helena
 qd,11d11.0,179660,179760,helena,179679,179683,mich,helena
 qd,11d11.0,179660,179760,helena,179721,179725,mich,helena
@@ -1022,6 +1050,7 @@ qd,11d11.0,231716,233312,faust,231878,231882,mich,faust
 qd,11d11.0,231716,233312,faust,231981,231984,mir,faust
 qd,11d11.0,231716,233312,faust,232185,232189,mich,faust
 qd,11d11.0,231716,233312,faust,232301,232304,Ich,faust
+qd,11d11.0,231716,233312,faust,232373,232376,mir,faust
 qd,11d11.0,231716,233312,faust,232561,232564,mir,faust
 qd,11d11.0,231716,233312,faust,232752,232756,mich,faust
 qd,11d11.0,231716,233312,faust,232927,232930,mir,faust
@@ -1033,6 +1062,7 @@ qd,11d11.0,234577,235011,faust,234606,234609,mir,faust
 qd,11d11.0,234577,235011,faust,234623,234626,Ich,faust
 qd,11d11.0,235018,235772,mephistopheles,235124,235127,Ich,mephistopheles
 qd,11d11.0,235018,235772,mephistopheles,235691,235695,Mein,mephistopheles
+qd,11d11.0,235876,236322,mephistopheles,235902,235906,mich,mephistopheles
 qd,11d11.0,235876,236322,mephistopheles,236080,236083,ich,mephistopheles
 qd,11d11.0,236328,236378,faust,236361,236365,mich,faust
 qd,11d11.0,236384,237087,mephistopheles,236422,236425,Ich,mephistopheles
@@ -1063,6 +1093,7 @@ qd,11d11.0,239503,240627,faust,239966,239969,ich,faust
 qd,11d11.0,239503,240627,faust,239991,239994,ich,faust
 qd,11d11.0,239503,240627,faust,240218,240221,ich,faust
 qd,11d11.0,239503,240627,faust,240458,240461,ich,faust
+qd,11d11.0,239503,240627,faust,240462,240465,mir,faust
 qd,11d11.0,239503,240627,faust,240490,240494,mein,faust
 qd,11d11.0,240951,241042,faust,240992,240996,mich,faust
 qd,11d11.0,241048,241458,mephistopheles,241069,241075,meinem,mephistopheles
@@ -1103,6 +1134,7 @@ qd,11d11.0,248792,249686,kaiser,249297,249301,mich,kaiser
 qd,11d11.0,248792,249686,kaiser,249365,249369,mich,kaiser
 qd,11d11.0,248792,249686,kaiser,249447,249450,ich,kaiser
 qd,11d11.0,248792,249686,kaiser,249471,249474,Ich,kaiser
+qd,11d11.0,250302,250400,kaiser,250326,250329,ich,kaiser
 qd,11d11.0,250302,250400,kaiser,250337,250340,ich,kaiser
 qd,11d11.0,251133,251924,kaiser,251638,251642,mich,kaiser
 qd,11d11.0,252598,252700,kaiser,252615,252619,mein,kaiser
@@ -1173,6 +1205,7 @@ qd,11d11.0,268197,269655,kaiser,269151,269154,ich,kaiser
 qd,11d11.0,268197,269655,kaiser,269360,269363,ich,kaiser
 qd,11d11.0,268197,269655,kaiser,269364,269368,mich,kaiser
 qd,11d11.0,268197,269655,kaiser,269620,269623,ich,kaiser
+qd,11d11.0,269661,269988,erzmarschall,269894,269897,ich,erzmarschall
 qd,11d11.0,269661,269988,erzmarschall,269926,269929,ich,erzmarschall
 qd,11d11.0,269994,270321,kaiser,270194,270197,ich,kaiser
 qd,11d11.0,270327,270778,erzkämmerer,270515,270519,mich,erzkämmerer
@@ -1246,8 +1279,10 @@ qd,11d11.0,283100,283567,faust,283542,283545,ich,faust
 qd,11d11.0,283996,284647,mephistopheles,284544,284547,Ich,mephistopheles
 qd,11d11.0,285014,285337,mephistopheles,285282,285285,ich,mephistopheles
 qd,11d11.0,285871,286768,faust,285927,285930,mir,faust
+qd,11d11.0,285871,286768,faust,285955,285958,ich,faust
 qd,11d11.0,285871,286768,faust,285969,285972,Mir,faust
 qd,11d11.0,285871,286768,faust,286007,286010,Mir,faust
+qd,11d11.0,285871,286768,faust,286049,286052,ich,faust
 qd,11d11.0,285871,286768,faust,286068,286071,ich,faust
 qd,11d11.0,285871,286768,faust,286072,286076,mich,faust
 qd,11d11.0,285871,286768,faust,286135,286138,ich,faust
@@ -1266,6 +1301,7 @@ qd,11d11.0,288052,289594,lynkeus_der_türmer,288178,288181,mir,lynkeus_der_türm
 qd,11d11.0,288052,289594,lynkeus_der_türmer,288193,288196,Ich,lynkeus_der_türmer
 qd,11d11.0,288052,289594,lynkeus_der_türmer,288219,288222,Ich,lynkeus_der_türmer
 qd,11d11.0,288052,289594,lynkeus_der_türmer,288298,288301,ich,lynkeus_der_türmer
+qd,11d11.0,288052,289594,lynkeus_der_türmer,288337,288340,mir,lynkeus_der_türmer
 qd,11d11.0,288052,289594,lynkeus_der_türmer,288362,288365,ich,lynkeus_der_türmer
 qd,11d11.0,288052,289594,lynkeus_der_türmer,288371,288374,mir,lynkeus_der_türmer
 qd,11d11.0,288052,289594,lynkeus_der_türmer,288490,288494,mich,lynkeus_der_türmer
@@ -1293,6 +1329,7 @@ qd,11d11.0,292275,293285,faust,292547,292550,ich,faust
 qd,11d11.0,292275,293285,faust,292561,292567,meinem,faust
 qd,11d11.0,292275,293285,faust,292635,292638,ich,faust
 qd,11d11.0,292275,293285,faust,292728,292731,ich,faust
+qd,11d11.0,292275,293285,faust,292743,292746,ich,faust
 qd,11d11.0,292275,293285,faust,292784,292788,mich,faust
 qd,11d11.0,293413,293443,drittes_graues_weib,293420,293423,Ich,drittes_graues_weib
 qd,11d11.0,293548,293827,drittes_graues_weib,293562,293566,mich,drittes_graues_weib

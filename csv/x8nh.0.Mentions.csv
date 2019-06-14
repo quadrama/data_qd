@@ -164,6 +164,7 @@ qd,x8nh.0,41798,41901,rieke,41823,41826,Ich,rieke
 qd,x8nh.0,41798,41901,rieke,41880,41883,ich,rieke
 qd,x8nh.0,41906,41963,köhne_finke,41939,41942,ich,köhne_finke
 qd,x8nh.0,41968,42029,rieke,42014,42018,mich,rieke
+qd,x8nh.0,42034,42136,köhne_finke,42072,42075,mir,köhne_finke
 qd,x8nh.0,42141,42194,rieke,42149,42153,Mich,rieke
 qd,x8nh.0,42410,42531,rieke,42485,42488,ich,rieke
 qd,x8nh.0,42536,42590,köhne_finke,42570,42573,mir,köhne_finke
@@ -193,6 +194,7 @@ qd,x8nh.0,44412,44938,köhne_finke,44529,44532,ich,köhne_finke
 qd,x8nh.0,44412,44938,köhne_finke,44633,44636,ich,köhne_finke
 qd,x8nh.0,44412,44938,köhne_finke,44756,44759,ich,köhne_finke
 qd,x8nh.0,44943,45008,rieke,44985,44989,mich,rieke
+qd,x8nh.0,45013,45124,köhne_finke,45026,45029,ich,köhne_finke
 qd,x8nh.0,45129,45186,rieke,45147,45150,ich,rieke
 qd,x8nh.0,45345,45396,köhne_finke,45353,45356,Ich,köhne_finke
 qd,x8nh.0,45345,45396,köhne_finke,45392,45395,ich,köhne_finke
@@ -310,6 +312,7 @@ qd,x8nh.0,66916,67102,konrad_von_quitzow,66928,66931,ich,konrad_von_quitzow
 qd,x8nh.0,66916,67102,konrad_von_quitzow,66951,66955,mich,konrad_von_quitzow
 qd,x8nh.0,66916,67102,konrad_von_quitzow,66960,66963,ich,konrad_von_quitzow
 qd,x8nh.0,66916,67102,konrad_von_quitzow,67034,67037,mir,konrad_von_quitzow
+qd,x8nh.0,66916,67102,konrad_von_quitzow,67043,67046,ich,konrad_von_quitzow
 qd,x8nh.0,66916,67102,konrad_von_quitzow,67070,67074,mein,konrad_von_quitzow
 qd,x8nh.0,66916,67102,konrad_von_quitzow,67093,67096,ich,konrad_von_quitzow
 qd,x8nh.0,67108,67171,perwenitz,67151,67154,ich,perwenitz
@@ -541,6 +544,7 @@ qd,x8nh.0,113046,113151,ileburg,113124,113127,mir,ileburg
 qd,x8nh.0,113157,113307,dietrich,113180,113184,mich,dietrich
 qd,x8nh.0,113157,113307,dietrich,113191,113194,mir,dietrich
 qd,x8nh.0,113905,113998,ileburg,113983,113986,ich,ileburg
+qd,x8nh.0,114005,114061,dietrich,114046,114049,ich,dietrich
 qd,x8nh.0,114409,114552,dietrich,114428,114431,ich,dietrich
 qd,x8nh.0,114409,114552,dietrich,114453,114456,ich,dietrich
 qd,x8nh.0,115255,115572,dietrich,115338,115341,Ich,dietrich
@@ -635,6 +639,7 @@ qd,x8nh.0,127132,127251,konrad_von_quitzow,127243,127246,ich,konrad_von_quitzow
 qd,x8nh.0,127344,127701,gertrud,127368,127371,ich,gertrud
 qd,x8nh.0,127707,127727,konrad_von_quitzow,127715,127718,Ich,konrad_von_quitzow
 qd,x8nh.0,128033,128141,dietrich,128104,128107,ich,dietrich
+qd,x8nh.0,128364,128432,dietrich,128412,128415,ich,dietrich
 qd,x8nh.0,128619,128647,dietrich,128638,128641,ich,dietrich
 qd,x8nh.0,128738,128793,dietrich,128748,128751,Ich,dietrich
 qd,x8nh.0,128897,128999,dietrich,128985,128991,meinen,dietrich
@@ -658,6 +663,7 @@ qd,x8nh.0,131797,132101,dietrich,131812,131815,mir,dietrich
 qd,x8nh.0,131797,132101,dietrich,131842,131845,mir,dietrich
 qd,x8nh.0,131797,132101,dietrich,131871,131874,mir,dietrich
 qd,x8nh.0,131797,132101,dietrich,131891,131894,ich,dietrich
+qd,x8nh.0,131797,132101,dietrich,131908,131911,ich,dietrich
 qd,x8nh.0,131797,132101,dietrich,131942,131945,ich,dietrich
 qd,x8nh.0,131797,132101,dietrich,131961,131964,ich,dietrich
 qd,x8nh.0,131797,132101,dietrich,131973,131976,Ich,dietrich
@@ -791,7 +797,6 @@ qd,x8nh.0,154298,154331,perwenitz,154321,154324,ich,perwenitz
 qd,x8nh.0,154336,154384,friedrich,154347,154350,Ich,friedrich
 qd,x8nh.0,154422,154493,friedrich,154467,154473,meines,friedrich
 qd,x8nh.0,154528,154669,friedrich,154540,154543,Ich,friedrich
-qd,x8nh.0,154528,154669,friedrich,154544,154549,meine,friedrich
 qd,x8nh.0,154780,155041,friedrich,154926,154929,mir,friedrich
 qd,x8nh.0,155420,155596,friedrich,155482,155485,ich,friedrich
 qd,x8nh.0,155420,155596,friedrich,155486,155489,mir,friedrich
@@ -866,6 +871,7 @@ qd,x8nh.0,164845,164936,gertrud,164882,164885,ich,gertrud
 qd,x8nh.0,164845,164936,gertrud,164909,164912,ich,gertrud
 qd,x8nh.0,164995,165066,gertrud,165048,165051,ich,gertrud
 qd,x8nh.0,165135,165171,gertrud,165149,165152,ich,gertrud
+qd,x8nh.0,165176,165362,stroband,165303,165306,ich,stroband
 qd,x8nh.0,165392,165424,stroband,165411,165417,meiner,stroband
 qd,x8nh.0,165518,165579,stroband,165555,165559,mein,stroband
 qd,x8nh.0,166008,166038,rieke,166025,166028,mir,rieke
@@ -921,17 +927,21 @@ qd,x8nh.0,178511,178605,schwalbe,178577,178580,ich,schwalbe
 qd,x8nh.0,178835,178909,schwalbe,178891,178895,mich,schwalbe
 qd,x8nh.0,178914,178968,konrad_von_quitzow,178948,178951,ich,konrad_von_quitzow
 qd,x8nh.0,178973,179112,schwalbe,178984,178987,Ich,schwalbe
+qd,x8nh.0,179169,179294,schwalbe,179244,179247,ich,schwalbe
 qd,x8nh.0,179169,179294,schwalbe,179290,179293,mir,schwalbe
 qd,x8nh.0,179326,179919,schwalbe,179365,179368,ich,schwalbe
 qd,x8nh.0,179326,179919,schwalbe,179425,179428,ich,schwalbe
 qd,x8nh.0,179326,179919,schwalbe,179474,179477,mir,schwalbe
 qd,x8nh.0,179326,179919,schwalbe,179511,179514,ich,schwalbe
 qd,x8nh.0,179326,179919,schwalbe,179525,179529,mich,schwalbe
+qd,x8nh.0,179326,179919,schwalbe,179567,179570,ich,schwalbe
 qd,x8nh.0,179326,179919,schwalbe,179649,179652,ich,schwalbe
 qd,x8nh.0,179326,179919,schwalbe,179695,179698,ich,schwalbe
+qd,x8nh.0,179326,179919,schwalbe,179738,179741,ich,schwalbe
 qd,x8nh.0,179326,179919,schwalbe,179777,179780,ich,schwalbe
 qd,x8nh.0,179326,179919,schwalbe,179877,179880,ich,schwalbe
 qd,x8nh.0,179925,180214,konrad_von_quitzow,180196,180199,ich,konrad_von_quitzow
+qd,x8nh.0,180219,180894,schwalbe,180728,180731,ich,schwalbe
 qd,x8nh.0,180219,180894,schwalbe,180805,180808,mir,schwalbe
 qd,x8nh.0,181860,181928,schwalbe,181919,181922,ich,schwalbe
 qd,x8nh.0,182196,182292,dietrich,182281,182284,ich,dietrich

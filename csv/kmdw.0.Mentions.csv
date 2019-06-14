@@ -25,6 +25,7 @@ qd,kmdw.0,5902,7865,röschen,6782,6788,meinen,röschen
 qd,kmdw.0,5902,7865,röschen,7010,7013,mir,röschen
 qd,kmdw.0,5902,7865,röschen,7091,7094,ich,röschen
 qd,kmdw.0,5902,7865,röschen,7181,7185,mein,röschen
+qd,kmdw.0,5902,7865,röschen,7647,7650,mir,röschen
 qd,kmdw.0,5902,7865,röschen,7727,7730,ich,röschen
 qd,kmdw.0,7954,8695,röschen,8207,8212,meine,röschen
 qd,kmdw.0,7954,8695,röschen,8304,8307,ich,röschen
@@ -91,6 +92,7 @@ qd,kmdw.0,17408,17784,narr,17432,17437,meine,narr
 qd,kmdw.0,17789,17972,ein_schauspieler,17947,17950,Ich,ein_schauspieler
 qd,kmdw.0,17978,18067,narr,17984,17989,Meine,narr
 qd,kmdw.0,18072,18248,zweiter_schauspieler,18224,18227,Ich,zweiter_schauspieler
+qd,kmdw.0,18255,18374,narr,18332,18335,ich,narr
 qd,kmdw.0,18379,18553,dritter_schauspieler,18527,18530,Ich,dritter_schauspieler
 qd,kmdw.0,18655,18820,röschen,18776,18780,mich,röschen
 qd,kmdw.0,18655,18820,röschen,18799,18802,ich,röschen
@@ -175,6 +177,7 @@ qd,kmdw.0,31379,31507,sonnenberg,31490,31494,mein,sonnenberg
 qd,kmdw.0,31512,31623,röschen,31579,31582,ich,röschen
 qd,kmdw.0,31718,31835,röschen,31779,31782,ich,röschen
 qd,kmdw.0,31718,31835,röschen,31820,31823,ich,röschen
+qd,kmdw.0,32125,33206,röschen,32152,32155,ich,röschen
 qd,kmdw.0,32125,33206,röschen,32246,32249,ich,röschen
 qd,kmdw.0,32125,33206,röschen,32270,32274,mich,röschen
 qd,kmdw.0,32125,33206,röschen,32417,32420,ich,röschen
@@ -248,6 +251,7 @@ qd,kmdw.0,41765,42128,nollingen,41811,41815,mein,nollingen
 qd,kmdw.0,41765,42128,nollingen,41876,41882,meinen,nollingen
 qd,kmdw.0,41765,42128,nollingen,41913,41916,mir,nollingen
 qd,kmdw.0,41765,42128,nollingen,41980,41983,ich,nollingen
+qd,kmdw.0,42212,42271,nollingen,42244,42247,ich,nollingen
 qd,kmdw.0,42276,42828,kaiser,42450,42453,ich,kaiser
 qd,kmdw.0,42834,43113,nollingen,42865,42868,ich,nollingen
 qd,kmdw.0,42834,43113,nollingen,43034,43037,Ich,nollingen
@@ -258,6 +262,7 @@ qd,kmdw.0,43735,43826,kaiser,43743,43747,Mein,kaiser
 qd,kmdw.0,43932,44142,geheimschreiber,44020,44023,ich,geheimschreiber
 qd,kmdw.0,44377,44566,geheimschreiber,44407,44411,mein,geheimschreiber
 qd,kmdw.0,44571,44966,kaiser,44742,44748,meinem,kaiser
+qd,kmdw.0,45436,45653,schelm_vom_berge,45543,45546,mir,schelm_vom_berge
 qd,kmdw.0,45659,46038,kaiser,45727,45731,mein,kaiser
 qd,kmdw.0,45659,46038,kaiser,45862,45865,mir,kaiser
 qd,kmdw.0,45659,46038,kaiser,45926,45930,mein,kaiser
@@ -275,6 +280,7 @@ qd,kmdw.0,47580,47773,amalgundis,47593,47596,Ich,amalgundis
 qd,kmdw.0,47580,47773,amalgundis,47684,47688,mein,amalgundis
 qd,kmdw.0,47936,48139,amalgundis,47975,47978,ich,amalgundis
 qd,kmdw.0,47936,48139,amalgundis,48076,48080,mich,amalgundis
+qd,kmdw.0,47936,48139,amalgundis,48130,48133,ich,amalgundis
 qd,kmdw.0,48144,48804,kaiser,48178,48182,mein,kaiser
 qd,kmdw.0,48871,49232,kaiser,48880,48884,Mein,kaiser
 qd,kmdw.0,48871,49232,kaiser,48983,48986,Ich,kaiser
@@ -373,6 +379,7 @@ qd,kmdw.0,55531,57028,röschen,56581,56585,mich,röschen
 qd,kmdw.0,55531,57028,röschen,56697,56701,mich,röschen
 qd,kmdw.0,55531,57028,röschen,56731,56734,Ich,röschen
 qd,kmdw.0,55531,57028,röschen,56739,56743,mich,röschen
+qd,kmdw.0,55531,57028,röschen,56983,56986,ich,röschen
 qd,kmdw.0,57033,57156,bandini,57061,57065,mein,bandini
 qd,kmdw.0,57033,57156,bandini,57133,57136,mir,bandini
 qd,kmdw.0,57161,58431,röschen,57266,57269,ich,röschen
@@ -384,6 +391,7 @@ qd,kmdw.0,57161,58431,röschen,57531,57534,Ich,röschen
 qd,kmdw.0,57161,58431,röschen,57545,57548,ich,röschen
 qd,kmdw.0,57161,58431,röschen,57567,57570,ich,röschen
 qd,kmdw.0,57161,58431,röschen,57612,57616,mich,röschen
+qd,kmdw.0,57161,58431,röschen,57701,57704,mir,röschen
 qd,kmdw.0,57161,58431,röschen,57717,57720,ich,röschen
 qd,kmdw.0,57161,58431,röschen,57727,57730,mir,röschen
 qd,kmdw.0,57161,58431,röschen,57756,57759,ich,röschen
@@ -561,6 +569,7 @@ qd,kmdw.0,73474,73624,sonnenberg,73503,73506,ich,sonnenberg
 qd,kmdw.0,73474,73624,sonnenberg,73515,73519,mein,sonnenberg
 qd,kmdw.0,73474,73624,sonnenberg,73540,73543,ich,sonnenberg
 qd,kmdw.0,74042,74158,sonnenberg,74096,74099,ich,sonnenberg
+qd,kmdw.0,74042,74158,sonnenberg,74120,74123,ich,sonnenberg
 qd,kmdw.0,74042,74158,sonnenberg,74138,74144,meines,sonnenberg
 qd,kmdw.0,74163,74445,bandini,74219,74223,mich,bandini
 qd,kmdw.0,74690,75848,kaiser,74883,74886,Ich,kaiser
@@ -649,7 +658,9 @@ qd,kmdw.0,87105,88694,nollingen,87443,87446,ich,nollingen
 qd,kmdw.0,88759,93283,röschen,88920,88923,ich,röschen
 qd,kmdw.0,88759,93283,röschen,88924,88929,meine,röschen
 qd,kmdw.0,88759,93283,röschen,89328,89331,ich,röschen
+qd,kmdw.0,88759,93283,röschen,89354,89357,mir,röschen
 qd,kmdw.0,88759,93283,röschen,89417,89420,ich,röschen
+qd,kmdw.0,88759,93283,röschen,89454,89457,mir,röschen
 qd,kmdw.0,88759,93283,röschen,89476,89479,ich,röschen
 qd,kmdw.0,88759,93283,röschen,89612,89615,ich,röschen
 qd,kmdw.0,88759,93283,röschen,89647,89650,ich,röschen
@@ -677,6 +688,7 @@ qd,kmdw.0,88759,93283,röschen,92567,92570,ich,röschen
 qd,kmdw.0,88759,93283,röschen,92713,92716,ich,röschen
 qd,kmdw.0,88759,93283,röschen,92808,92811,ich,röschen
 qd,kmdw.0,88759,93283,röschen,92899,92902,ich,röschen
+qd,kmdw.0,88759,93283,röschen,92953,92956,ich,röschen
 qd,kmdw.0,88759,93283,röschen,93018,93021,ich,röschen
 qd,kmdw.0,88759,93283,röschen,93028,93032,mich,röschen
 qd,kmdw.0,93289,93361,sonnenberg,93344,93348,Mein,sonnenberg
@@ -709,6 +721,7 @@ qd,kmdw.0,96268,96313,sonnenberg,96295,96298,Ich,sonnenberg
 qd,kmdw.0,97261,97761,sonnenberg,97293,97296,ich,sonnenberg
 qd,kmdw.0,97766,98141,nollingen,97905,97908,ich,nollingen
 qd,kmdw.0,98188,99878,röschen,98433,98436,mir,röschen
+qd,kmdw.0,98188,99878,röschen,98468,98471,mir,röschen
 qd,kmdw.0,98188,99878,röschen,98543,98547,mich,röschen
 qd,kmdw.0,98188,99878,röschen,98649,98653,mein,röschen
 qd,kmdw.0,98188,99878,röschen,99045,99048,mir,röschen
@@ -745,6 +758,7 @@ qd,kmdw.0,103542,103826,daniel,103556,103560,mich,daniel
 qd,kmdw.0,103542,103826,daniel,103587,103590,ich,daniel
 qd,kmdw.0,103934,104052,röschen,103987,103991,mein,röschen
 qd,kmdw.0,104226,104321,röschen,104271,104274,ich,röschen
+qd,kmdw.0,104326,104444,daniel,104376,104379,ich,daniel
 qd,kmdw.0,104326,104444,daniel,104413,104418,meine,daniel
 qd,kmdw.0,104326,104444,daniel,104419,104422,ich,daniel
 qd,kmdw.0,104449,104993,röschen,104481,104484,Ich,röschen

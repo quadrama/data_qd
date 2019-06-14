@@ -159,6 +159,7 @@ qd,11hb1.0,12885,16110,alcest,15205,15209,mich,alcest
 qd,11hb1.0,12885,16110,alcest,15245,15249,mich,alcest
 qd,11hb1.0,12885,16110,alcest,15296,15299,ich,alcest
 qd,11hb1.0,12885,16110,alcest,15468,15471,ich,alcest
+qd,11hb1.0,12885,16110,alcest,15515,15518,mir,alcest
 qd,11hb1.0,12885,16110,alcest,15543,15546,mir,alcest
 qd,11hb1.0,12885,16110,alcest,15557,15560,Ich,alcest
 qd,11hb1.0,12885,16110,alcest,15607,15610,Ich,alcest
@@ -203,7 +204,9 @@ qd,11hb1.0,19811,19901,der_wirt,19833,19839,meinem,der_wirt
 qd,11hb1.0,19907,20222,sophie,19933,19936,ich,sophie
 qd,11hb1.0,19907,20222,sophie,19988,19991,ich,sophie
 qd,11hb1.0,19907,20222,sophie,20141,20144,mir,sophie
+qd,11hb1.0,20323,20366,der_wirt,20346,20349,ich,der_wirt
 qd,11hb1.0,20416,20459,der_wirt,20443,20446,ich,der_wirt
+qd,11hb1.0,20483,20528,der_wirt,20517,20520,mir,der_wirt
 qd,11hb1.0,20696,20760,der_wirt,20707,20710,Ich,der_wirt
 qd,11hb1.0,20766,20778,sophie,20774,20777,Ich,sophie
 qd,11hb1.0,20801,20831,sophie,20817,20820,ich,sophie
@@ -211,6 +214,7 @@ qd,11hb1.0,20895,20925,sophie,20903,20906,Ich,sophie
 qd,11hb1.0,20930,21078,der_wirt,21065,21070,meine,der_wirt
 qd,11hb1.0,21084,21200,sophie,21107,21110,mir,sophie
 qd,11hb1.0,21084,21200,sophie,21137,21141,mich,sophie
+qd,11hb1.0,21206,21349,der_wirt,21227,21230,Ich,der_wirt
 qd,11hb1.0,21206,21349,der_wirt,21290,21294,mich,der_wirt
 qd,11hb1.0,21206,21349,der_wirt,21306,21310,mich,der_wirt
 qd,11hb1.0,21355,21374,sophie,21363,21367,Mein,sophie
@@ -231,6 +235,7 @@ qd,11hb1.0,23126,23144,alcest,23134,23138,Mein,alcest
 qd,11hb1.0,23149,23285,der_wirt,23191,23194,ich,der_wirt
 qd,11hb1.0,23149,23285,der_wirt,23241,23245,mich,der_wirt
 qd,11hb1.0,23321,23365,der_wirt,23336,23339,Ich,der_wirt
+qd,11hb1.0,23370,23403,alcest,23392,23395,mir,alcest
 qd,11hb1.0,23447,23481,alcest,23467,23470,Ich,alcest
 qd,11hb1.0,23486,23528,der_wirt,23496,23499,Ich,der_wirt
 qd,11hb1.0,23486,23528,der_wirt,23505,23508,ich,der_wirt
@@ -290,7 +295,9 @@ qd,11hb1.0,30833,31053,der_wirt,30885,30888,Ich,der_wirt
 qd,11hb1.0,30833,31053,der_wirt,30894,30898,mich,der_wirt
 qd,11hb1.0,31087,31137,der_wirt,31105,31108,ich,der_wirt
 qd,11hb1.0,31087,31137,der_wirt,31114,31118,mich,der_wirt
+qd,11hb1.0,31165,31229,der_wirt,31205,31208,ich,der_wirt
 qd,11hb1.0,31258,31355,der_wirt,31294,31297,ich,der_wirt
+qd,11hb1.0,31404,32117,söller,31609,31612,mir,söller
 qd,11hb1.0,31404,32117,söller,31632,31635,mir,söller
 qd,11hb1.0,31404,32117,söller,31993,31996,Ich,söller
 qd,11hb1.0,31404,32117,söller,32097,32101,mich,söller
@@ -306,6 +313,7 @@ qd,11hb1.0,33931,34099,alcest,33997,34000,Ich,alcest
 qd,11hb1.0,34231,34265,sophie,34248,34251,ich,sophie
 qd,11hb1.0,34332,34536,alcest,34352,34356,mich,alcest
 qd,11hb1.0,34332,34536,alcest,34388,34391,mir,alcest
+qd,11hb1.0,34332,34536,alcest,34456,34459,ich,alcest
 qd,11hb1.0,34332,34536,alcest,34477,34480,ich,alcest
 qd,11hb1.0,34581,34691,alcest,34660,34663,ich,alcest
 qd,11hb1.0,34805,34824,sophie,34813,34817,Mich,sophie
@@ -318,6 +326,7 @@ qd,11hb1.0,34829,35276,alcest,35200,35204,mich,alcest
 qd,11hb1.0,34829,35276,alcest,35247,35251,mich,alcest
 qd,11hb1.0,35281,35468,sophie,35362,35365,ich,sophie
 qd,11hb1.0,35281,35468,sophie,35411,35414,Ich,sophie
+qd,11hb1.0,35281,35468,sophie,35431,35434,ich,sophie
 qd,11hb1.0,35281,35468,sophie,35463,35467,mich,sophie
 qd,11hb1.0,35773,35853,alcest,35795,35801,meiner,alcest
 qd,11hb1.0,35773,35853,alcest,35810,35813,Ich,alcest
@@ -341,6 +350,7 @@ qd,11hb1.0,37968,38058,alcest,38043,38046,ich,alcest
 qd,11hb1.0,38064,38098,söller,38072,38075,Ich,söller
 qd,11hb1.0,38064,38098,söller,38083,38087,mich,söller
 qd,11hb1.0,38134,38226,söller,38172,38176,mich,söller
+qd,11hb1.0,38134,38226,söller,38199,38202,mir,söller
 qd,11hb1.0,38248,38364,söller,38281,38284,ich,söller
 qd,11hb1.0,38248,38364,söller,38319,38322,ich,söller
 qd,11hb1.0,38248,38364,söller,38345,38348,mir,söller
@@ -369,10 +379,12 @@ qd,11hb1.0,41132,41193,alcest,41140,41144,Mein,alcest
 qd,11hb1.0,41132,41193,alcest,41151,41154,ich,alcest
 qd,11hb1.0,41132,41193,alcest,41162,41166,mich,alcest
 qd,11hb1.0,41198,41306,söller,41211,41214,mir,söller
+qd,11hb1.0,41198,41306,söller,41272,41275,mir,söller
 qd,11hb1.0,41198,41306,söller,41293,41296,ich,söller
 qd,11hb1.0,41312,41457,alcest,41353,41357,Mein,alcest
 qd,11hb1.0,41860,41928,söller,41918,41922,mein,söller
 qd,11hb1.0,42140,42186,söller,42148,42151,Ich,söller
+qd,11hb1.0,42140,42186,söller,42169,42172,mir,söller
 qd,11hb1.0,42337,42421,söller,42400,42403,Ich,söller
 qd,11hb1.0,42566,42719,alcest,42621,42625,mich,alcest
 qd,11hb1.0,42724,42776,söller,42772,42775,Ich,söller
@@ -403,4 +415,5 @@ qd,11hb1.0,45244,45455,der_wirt,45352,45355,Ich,der_wirt
 qd,11hb1.0,45461,45532,alcest,45523,45526,Mir,alcest
 qd,11hb1.0,45560,45671,alcest,45569,45572,Ich,alcest
 qd,11hb1.0,45560,45671,alcest,45584,45590,meinem,alcest
+qd,11hb1.0,45677,45715,söller,45696,45699,ich,söller
 qd,11hb1.0,46022,46185,alcest,46060,46063,ich,alcest

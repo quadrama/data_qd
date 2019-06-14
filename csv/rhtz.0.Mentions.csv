@@ -62,6 +62,7 @@ qd,rhtz.0,6408,6573,marianens_stimme,6515,6518,ich,marianens_stimme
 qd,rhtz.0,6408,6573,marianens_stimme,6533,6536,ich,marianens_stimme
 qd,rhtz.0,6852,7004,desportes,6877,6880,mir,desportes
 qd,rhtz.0,6852,7004,desportes,6885,6888,ich,desportes
+qd,rhtz.0,7033,7287,wesener,7093,7096,mir,wesener
 qd,rhtz.0,7033,7287,wesener,7137,7142,Meine,wesener
 qd,rhtz.0,7292,7355,desportes,7314,7317,ich,desportes
 qd,rhtz.0,7292,7355,desportes,7350,7354,mich,desportes
@@ -82,6 +83,7 @@ qd,rhtz.0,9601,9682,desportes,9629,9635,meiner,desportes
 qd,rhtz.0,9916,10004,desportes,9940,9943,ich,desportes
 qd,rhtz.0,9916,10004,desportes,9944,9948,mich,desportes
 qd,rhtz.0,9916,10004,desportes,9971,9974,ich,desportes
+qd,rhtz.0,10129,10202,desportes,10150,10153,mir,desportes
 qd,rhtz.0,10207,10264,marianens_stimme,10229,10232,mir,marianens_stimme
 qd,rhtz.0,10269,10379,wesener,10286,10289,ich,wesener
 qd,rhtz.0,10448,10867,wesener,10551,10555,mich,wesener
@@ -145,6 +147,7 @@ qd,rhtz.0,20876,21016,marianens_stimme,20997,21000,mir,marianens_stimme
 qd,rhtz.0,21022,21139,wesener,21115,21118,ich,wesener
 qd,rhtz.0,21144,21384,marianens_stimme,21164,21167,ich,marianens_stimme
 qd,rhtz.0,21144,21384,marianens_stimme,21220,21223,Ich,marianens_stimme
+qd,rhtz.0,21144,21384,marianens_stimme,21260,21263,ich,marianens_stimme
 qd,rhtz.0,21144,21384,marianens_stimme,21344,21348,mich,marianens_stimme
 qd,rhtz.0,21390,21638,wesener,21440,21446,meinen,wesener
 qd,rhtz.0,21390,21638,wesener,21463,21466,Ich,wesener
@@ -164,6 +167,7 @@ qd,rhtz.0,22164,22684,wesener,22300,22303,ich,wesener
 qd,rhtz.0,22164,22684,wesener,22341,22345,mein,wesener
 qd,rhtz.0,22164,22684,wesener,22508,22511,ich,wesener
 qd,rhtz.0,22164,22684,wesener,22576,22579,ich,wesener
+qd,rhtz.0,22164,22684,wesener,22608,22611,ich,wesener
 qd,rhtz.0,22689,22908,marianens_stimme,22699,22702,Ich,marianens_stimme
 qd,rhtz.0,22689,22908,marianens_stimme,22727,22730,mir,marianens_stimme
 qd,rhtz.0,22689,22908,marianens_stimme,22793,22796,ich,marianens_stimme
@@ -176,6 +180,8 @@ qd,rhtz.0,23345,23914,marianens_stimme,23695,23698,ich,marianens_stimme
 qd,rhtz.0,23345,23914,marianens_stimme,23729,23732,ich,marianens_stimme
 qd,rhtz.0,23345,23914,marianens_stimme,23737,23741,mein,marianens_stimme
 qd,rhtz.0,23345,23914,marianens_stimme,23786,23789,mir,marianens_stimme
+qd,rhtz.0,23345,23914,marianens_stimme,23834,23838,mich,marianens_stimme
+qd,rhtz.0,23345,23914,marianens_stimme,23851,23855,mich,marianens_stimme
 qd,rhtz.0,23345,23914,marianens_stimme,23859,23862,ich,marianens_stimme
 qd,rhtz.0,24034,24273,haudy,24117,24120,ich,haudy
 qd,rhtz.0,24278,24426,stolzius,24348,24351,Ich,stolzius
@@ -210,7 +216,6 @@ qd,rhtz.0,28965,29073,rammleer,29001,29004,ich,rammleer
 qd,rhtz.0,28965,29073,rammleer,29065,29068,mir,rammleer
 qd,rhtz.0,29078,29120,haudy,29116,29119,ich,haudy
 qd,rhtz.0,29125,29469,rammleer,29253,29256,ich,rammleer
-qd,rhtz.0,29125,29469,rammleer,29461,29467,meinen,rammleer
 qd,rhtz.0,29754,29807,eisenhardt,29767,29770,Ich,eisenhardt
 qd,rhtz.0,29754,29807,eisenhardt,29777,29781,mich,eisenhardt
 qd,rhtz.0,29812,29857,haudy,29831,29834,mir,haudy
@@ -253,6 +258,7 @@ qd,rhtz.0,34058,34186,rammleer,34079,34082,Ich,rammleer
 qd,rhtz.0,34191,34294,stolzius,34238,34243,Meine,stolzius
 qd,rhtz.0,34191,34294,stolzius,34252,34255,ich,stolzius
 qd,rhtz.0,34191,34294,stolzius,34270,34274,mich,stolzius
+qd,rhtz.0,34396,34473,stolzius,34418,34421,mir,stolzius
 qd,rhtz.0,34396,34473,stolzius,34437,34440,mir,stolzius
 qd,rhtz.0,34478,34548,haudy,34529,34532,ich,haudy
 qd,rhtz.0,34553,34729,stolzius,34568,34571,ich,stolzius
@@ -261,6 +267,7 @@ qd,rhtz.0,34553,34729,stolzius,34626,34629,mir,stolzius
 qd,rhtz.0,34553,34729,stolzius,34662,34665,ich,stolzius
 qd,rhtz.0,34553,34729,stolzius,34715,34718,ich,stolzius
 qd,rhtz.0,34915,35106,rammleer,35022,35025,ich,rammleer
+qd,rhtz.0,34915,35106,rammleer,35081,35084,ich,rammleer
 qd,rhtz.0,35111,35169,eisenhardt,35135,35139,mich,eisenhardt
 qd,rhtz.0,35111,35169,eisenhardt,35155,35158,ich,eisenhardt
 qd,rhtz.0,35174,35246,haudy,35212,35215,ich,haudy
@@ -268,6 +275,7 @@ qd,rhtz.0,35251,35395,rammleer,35265,35268,ich,rammleer
 qd,rhtz.0,35251,35395,rammleer,35371,35376,meine,rammleer
 qd,rhtz.0,35517,35638,rammleer,35532,35535,ich,rammleer
 qd,rhtz.0,35517,35638,rammleer,35549,35552,ich,rammleer
+qd,rhtz.0,35517,35638,rammleer,35617,35620,ich,rammleer
 qd,rhtz.0,35643,36016,haudy,35916,35919,ich,haudy
 qd,rhtz.0,35643,36016,haudy,35940,35943,ich,haudy
 qd,rhtz.0,36022,36132,rammleer,36090,36093,ich,rammleer
@@ -345,6 +353,8 @@ qd,rhtz.0,46192,46407,mutter,46348,46351,Ich,mutter
 qd,rhtz.0,46192,46407,mutter,46386,46389,ich,mutter
 qd,rhtz.0,46412,46545,stolzius,46539,46543,mich,stolzius
 qd,rhtz.0,46597,47000,stolzius,46608,46611,Ich,stolzius
+qd,rhtz.0,46597,47000,stolzius,46718,46721,mir,stolzius
+qd,rhtz.0,46597,47000,stolzius,46744,46747,mir,stolzius
 qd,rhtz.0,47006,47247,mutter,47015,47018,Ich,mutter
 qd,rhtz.0,47006,47247,mutter,47095,47098,ich,mutter
 qd,rhtz.0,47006,47247,mutter,47127,47130,Ich,mutter
@@ -407,6 +417,7 @@ qd,rhtz.0,54752,54934,eisenhardt,54796,54799,ich,eisenhardt
 qd,rhtz.0,54752,54934,eisenhardt,54887,54893,meines,eisenhardt
 qd,rhtz.0,55280,55497,eisenhardt,55323,55327,mich,eisenhardt
 qd,rhtz.0,55280,55497,eisenhardt,55343,55346,Ich,eisenhardt
+qd,rhtz.0,56335,56535,marys_stimme,56467,56470,mir,marys_stimme
 qd,rhtz.0,56335,56535,marys_stimme,56510,56513,ich,marys_stimme
 qd,rhtz.0,56540,56815,stolzius,56592,56595,Ich,stolzius
 qd,rhtz.0,56540,56815,stolzius,56653,56656,ich,stolzius
@@ -439,6 +450,7 @@ qd,rhtz.0,59765,59836,marys_stimme,59778,59781,ich,marys_stimme
 qd,rhtz.0,59765,59836,marys_stimme,59802,59806,mein,marys_stimme
 qd,rhtz.0,59841,59980,marianens_stimme,59919,59922,ich,marianens_stimme
 qd,rhtz.0,59841,59980,marianens_stimme,59960,59964,mich,marianens_stimme
+qd,rhtz.0,60078,60113,marianens_stimme,60095,60098,mir,marianens_stimme
 qd,rhtz.0,60440,61649,desportes,60479,60482,Ich,desportes
 qd,rhtz.0,60440,61649,desportes,60572,60576,mein,desportes
 qd,rhtz.0,60440,61649,desportes,60670,60674,mich,desportes
@@ -561,6 +573,7 @@ qd,rhtz.0,72824,72980,gräfin,72916,72919,ich,gräfin
 qd,rhtz.0,73054,73256,gräfin,73063,73066,Ich,gräfin
 qd,rhtz.0,73054,73256,gräfin,73096,73100,mich,gräfin
 qd,rhtz.0,73333,73782,marys_stimme,73345,73348,ich,marys_stimme
+qd,rhtz.0,73333,73782,marys_stimme,73438,73441,ich,marys_stimme
 qd,rhtz.0,73333,73782,marys_stimme,73445,73448,Ich,marys_stimme
 qd,rhtz.0,73333,73782,marys_stimme,73487,73490,Ich,marys_stimme
 qd,rhtz.0,73333,73782,marys_stimme,73511,73514,mir,marys_stimme
@@ -633,6 +646,7 @@ qd,rhtz.0,82648,82953,mademoiselle_bischof,82923,82927,mich,mademoiselle_bischof
 qd,rhtz.0,82958,83038,mademoiselle_bischof,82991,82994,ich,mademoiselle_bischof
 qd,rhtz.0,83514,83629,rammleer,83532,83535,ich,rammleer
 qd,rhtz.0,83514,83629,rammleer,83608,83611,ich,rammleer
+qd,rhtz.0,83514,83629,rammleer,83618,83621,mir,rammleer
 qd,rhtz.0,83634,83940,mademoiselle_bischof,83799,83805,meinem,mademoiselle_bischof
 qd,rhtz.0,83634,83940,mademoiselle_bischof,83820,83826,meinem,mademoiselle_bischof
 qd,rhtz.0,84048,84159,rammleer,84090,84093,ich,rammleer
@@ -658,6 +672,7 @@ qd,rhtz.0,86741,87170,frau_wesener,86895,86899,mein,frau_wesener
 qd,rhtz.0,87284,87706,stolzius,87314,87319,Meine,stolzius
 qd,rhtz.0,87284,87706,stolzius,87346,87349,ich,stolzius
 qd,rhtz.0,87284,87706,stolzius,87358,87361,ich,stolzius
+qd,rhtz.0,87284,87706,stolzius,87417,87420,mir,stolzius
 qd,rhtz.0,87822,88271,wesener,87853,87856,ich,wesener
 qd,rhtz.0,87822,88271,wesener,87873,87876,ich,wesener
 qd,rhtz.0,87822,88271,wesener,87898,87902,Mein,wesener
@@ -679,6 +694,7 @@ qd,rhtz.0,89098,90219,desportes,89237,89240,Ich,desportes
 qd,rhtz.0,89098,90219,desportes,89314,89318,mich,desportes
 qd,rhtz.0,89098,90219,desportes,89350,89353,ich,desportes
 qd,rhtz.0,89098,90219,desportes,89406,89409,ich,desportes
+qd,rhtz.0,89098,90219,desportes,89410,89414,mich,desportes
 qd,rhtz.0,89098,90219,desportes,89432,89435,ich,desportes
 qd,rhtz.0,89098,90219,desportes,89475,89478,mir,desportes
 qd,rhtz.0,89098,90219,desportes,89544,89548,mein,desportes

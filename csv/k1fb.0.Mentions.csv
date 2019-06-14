@@ -77,6 +77,7 @@ qd,k1fb.0,7255,7667,strepsiades,7518,7521,Ich,strepsiades
 qd,k1fb.0,7255,7667,strepsiades,7597,7600,ich,strepsiades
 qd,k1fb.0,7255,7667,strepsiades,7626,7629,Ich,strepsiades
 qd,k1fb.0,7952,8053,strepsiades,7975,7978,Ich,strepsiades
+qd,k1fb.0,8111,8211,strepsiades,8137,8140,mir,strepsiades
 qd,k1fb.0,8111,8211,strepsiades,8177,8180,ich,strepsiades
 qd,k1fb.0,8714,8782,strepsiades,8757,8760,ich,strepsiades
 qd,k1fb.0,10197,10614,strepsiades,10297,10300,Ich,strepsiades
@@ -156,6 +157,7 @@ qd,k1fb.0,24739,24959,strepsiades,24768,24771,Ich,strepsiades
 qd,k1fb.0,24739,24959,strepsiades,24898,24901,mir,strepsiades
 qd,k1fb.0,24965,25134,sokrates,25005,25008,ich,sokrates
 qd,k1fb.0,25140,25179,strepsiades,25166,25169,ich,strepsiades
+qd,k1fb.0,25184,25424,sokrates,25241,25244,ich,sokrates
 qd,k1fb.0,25430,25764,strepsiades,25508,25511,mir,strepsiades
 qd,k1fb.0,25946,26290,strepsiades,25960,25963,Ich,strepsiades
 qd,k1fb.0,26691,26803,strepsiades,26775,26778,mir,strepsiades
@@ -173,6 +175,7 @@ qd,k1fb.0,28669,28853,strepsiades,28787,28790,ich,strepsiades
 qd,k1fb.0,29032,29207,strepsiades,29079,29082,ich,strepsiades
 qd,k1fb.0,29032,29207,strepsiades,29116,29119,mir,strepsiades
 qd,k1fb.0,29032,29207,strepsiades,29170,29174,mich,strepsiades
+qd,k1fb.0,29386,29576,strepsiades,29432,29436,mich,strepsiades
 qd,k1fb.0,29386,29576,strepsiades,29446,29449,ich,strepsiades
 qd,k1fb.0,29386,29576,strepsiades,29458,29462,mich,strepsiades
 qd,k1fb.0,29763,30704,strepsiades,29785,29788,ich,strepsiades
@@ -228,6 +231,7 @@ qd,k1fb.0,33700,36541,chorführerin,34291,34294,ich,chorführerin
 qd,k1fb.0,33700,36541,chorführerin,34349,34352,ich,chorführerin
 qd,k1fb.0,33700,36541,chorführerin,34420,34424,mein,chorführerin
 qd,k1fb.0,33700,36541,chorführerin,34500,34503,ich,chorführerin
+qd,k1fb.0,33700,36541,chorführerin,34542,34545,Ich,chorführerin
 qd,k1fb.0,33700,36541,chorführerin,34672,34675,mir,chorführerin
 qd,k1fb.0,33700,36541,chorführerin,35429,35432,ich,chorführerin
 qd,k1fb.0,33700,36541,chorführerin,35443,35446,ich,chorführerin
@@ -241,6 +245,7 @@ qd,k1fb.0,33700,36541,chorführerin,36409,36412,ich,chorführerin
 qd,k1fb.0,33700,36541,chorführerin,36449,36455,meiner,chorführerin
 qd,k1fb.0,36547,37031,erster_halbchor,36591,36594,ich,erster_halbchor
 qd,k1fb.0,37037,38300,chorführerin,38044,38048,mich,chorführerin
+qd,k1fb.0,40071,40457,sokrates,40140,40143,ich,sokrates
 qd,k1fb.0,40071,40457,sokrates,40199,40202,ich,sokrates
 qd,k1fb.0,40071,40457,sokrates,40332,40335,Ich,sokrates
 qd,k1fb.0,40462,40529,strepsiades,40483,40486,Ich,strepsiades
@@ -290,6 +295,7 @@ qd,k1fb.0,45946,46044,strepsiades,45960,45964,Mein,strepsiades
 qd,k1fb.0,45946,46044,strepsiades,45983,45986,Mir,strepsiades
 qd,k1fb.0,46050,46143,sokrates,46060,46063,Ich,sokrates
 qd,k1fb.0,46276,46337,strepsiades,46305,46311,meiner,strepsiades
+qd,k1fb.0,46458,46514,sokrates,46503,46506,mir,sokrates
 qd,k1fb.0,46519,46625,strepsiades,46541,46544,ich,strepsiades
 qd,k1fb.0,46519,46625,strepsiades,46560,46563,ich,strepsiades
 qd,k1fb.0,46519,46625,strepsiades,46613,46616,ich,strepsiades
@@ -311,10 +317,12 @@ qd,k1fb.0,49019,49110,strepsiades,49063,49066,ich,strepsiades
 qd,k1fb.0,49019,49110,strepsiades,49092,49096,mich,strepsiades
 qd,k1fb.0,49116,49170,sokrates,49161,49164,ich,sokrates
 qd,k1fb.0,49228,49324,sokrates,49300,49303,ich,sokrates
+qd,k1fb.0,49550,49709,strepsiades,49596,49599,mir,strepsiades
 qd,k1fb.0,49550,49709,strepsiades,49615,49618,ich,strepsiades
 qd,k1fb.0,49550,49709,strepsiades,49638,49641,ich,strepsiades
 qd,k1fb.0,49550,49709,strepsiades,49695,49698,mir,strepsiades
 qd,k1fb.0,49860,49972,strepsiades,49883,49886,ich,strepsiades
+qd,k1fb.0,49860,49972,strepsiades,49961,49964,mir,strepsiades
 qd,k1fb.0,50012,50261,strepsiades,50108,50111,Ich,strepsiades
 qd,k1fb.0,50012,50261,strepsiades,50165,50168,ich,strepsiades
 qd,k1fb.0,50850,50977,strepsiades,50914,50917,ich,strepsiades
@@ -340,6 +348,7 @@ qd,k1fb.0,53367,53696,strepsiades,53514,53517,Ich,strepsiades
 qd,k1fb.0,53367,53696,strepsiades,53611,53614,ich,strepsiades
 qd,k1fb.0,53783,53952,strepsiades,53874,53877,ich,strepsiades
 qd,k1fb.0,53783,53952,strepsiades,53878,53884,meinen,strepsiades
+qd,k1fb.0,54467,54861,strepsiades,54704,54707,mir,strepsiades
 qd,k1fb.0,54467,54861,strepsiades,54729,54732,mir,strepsiades
 qd,k1fb.0,54867,54944,sokrates,54929,54932,Ich,sokrates
 qd,k1fb.0,55257,55378,anwalt_der_schlechten_sache,55368,55372,mein,anwalt_der_schlechten_sache
@@ -461,6 +470,7 @@ qd,k1fb.0,78730,78836,strepsiades,78758,78761,ich,strepsiades
 qd,k1fb.0,78730,78836,strepsiades,78820,78826,meiner,strepsiades
 qd,k1fb.0,78842,78907,pasias,78859,78862,ich,pasias
 qd,k1fb.0,78842,78907,pasias,78870,78873,Ich,pasias
+qd,k1fb.0,78913,79187,strepsiades,78983,78986,mir,strepsiades
 qd,k1fb.0,79336,79412,amynias,79357,79361,mich,amynias
 qd,k1fb.0,79336,79412,amynias,79367,79370,ich,amynias
 qd,k1fb.0,79465,79551,amynias,79545,79549,mich,amynias

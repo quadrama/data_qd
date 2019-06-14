@@ -86,7 +86,6 @@ qd,qknj.0,16827,16884,dolgoruki,16839,16842,Ich,dolgoruki
 qd,qknj.0,16827,16884,dolgoruki,16858,16861,Ich,dolgoruki
 qd,qknj.0,17163,17807,glebof,17580,17583,mir,glebof
 qd,qknj.0,17163,17807,glebof,17705,17708,ich,glebof
-qd,qknj.0,17847,18462,glebof,18018,18021,Ich,glebof
 qd,qknj.0,18608,19557,glebof,18974,18977,ich,glebof
 qd,qknj.0,20051,20081,dolgoruki,20067,20071,mich,dolgoruki
 qd,qknj.0,20138,20708,glebof,20202,20205,ich,glebof
@@ -181,6 +180,7 @@ qd,qknj.0,33964,34217,glebof,34015,34021,meinem,glebof
 qd,qknj.0,33964,34217,glebof,34149,34153,mich,glebof
 qd,qknj.0,34245,34521,glebof,34292,34295,Ich,glebof
 qd,qknj.0,34245,34521,glebof,34302,34306,mein,glebof
+qd,qknj.0,34245,34521,glebof,34375,34378,ich,glebof
 qd,qknj.0,34245,34521,glebof,34479,34482,Ich,glebof
 qd,qknj.0,34527,34572,eudoxia,34563,34566,ich,eudoxia
 qd,qknj.0,34578,34931,glebof,34609,34612,ich,glebof
@@ -195,6 +195,7 @@ qd,qknj.0,36255,37040,glebof,36282,36285,Ich,glebof
 qd,qknj.0,36255,37040,glebof,36477,36480,ich,glebof
 qd,qknj.0,36255,37040,glebof,36656,36659,ich,glebof
 qd,qknj.0,37068,37113,glebof,37076,37079,Ich,glebof
+qd,qknj.0,37068,37113,glebof,37100,37103,ich,glebof
 qd,qknj.0,37118,37714,eudoxia,37262,37265,Ich,eudoxia
 qd,qknj.0,37118,37714,eudoxia,37291,37294,ich,eudoxia
 qd,qknj.0,37118,37714,eudoxia,37341,37344,ich,eudoxia
@@ -219,6 +220,7 @@ qd,qknj.0,39517,39822,euphrosyne,39684,39687,mir,euphrosyne
 qd,qknj.0,39938,40123,euphrosyne,40086,40089,Ich,euphrosyne
 qd,qknj.0,40211,40295,alexis,40220,40223,Ich,alexis
 qd,qknj.0,40435,41275,alexis,41068,41071,mir,alexis
+qd,qknj.0,41327,41707,alexis,41340,41343,ich,alexis
 qd,qknj.0,41327,41707,alexis,41378,41381,ich,alexis
 qd,qknj.0,41327,41707,alexis,41463,41466,Ich,alexis
 qd,qknj.0,41327,41707,alexis,41530,41533,ich,alexis
@@ -255,6 +257,7 @@ qd,qknj.0,44269,44983,alexis,44935,44938,ich,alexis
 qd,qknj.0,45085,45580,euphrosyne,45147,45151,Mein,euphrosyne
 qd,qknj.0,45085,45580,euphrosyne,45166,45169,ich,euphrosyne
 qd,qknj.0,45085,45580,euphrosyne,45177,45180,ich,euphrosyne
+qd,qknj.0,45085,45580,euphrosyne,45525,45528,mir,euphrosyne
 qd,qknj.0,45085,45580,euphrosyne,45545,45548,Ich,euphrosyne
 qd,qknj.0,45677,45916,alexis,45705,45708,Ich,alexis
 qd,qknj.0,45677,45916,alexis,45744,45747,mir,alexis
@@ -274,6 +277,7 @@ qd,qknj.0,46908,47063,euphrosyne,47034,47037,Mir,euphrosyne
 qd,qknj.0,47069,47437,alexis,47176,47179,Ich,alexis
 qd,qknj.0,47069,47437,alexis,47230,47233,ich,alexis
 qd,qknj.0,47069,47437,alexis,47311,47314,ich,alexis
+qd,qknj.0,47069,47437,alexis,47330,47333,ich,alexis
 qd,qknj.0,47069,47437,alexis,47368,47371,mir,alexis
 qd,qknj.0,47069,47437,alexis,47411,47415,mich,alexis
 qd,qknj.0,47467,47833,alexis,47484,47488,mich,alexis
@@ -338,7 +342,8 @@ qd,qknj.0,55948,56266,menzikof,56183,56187,mich,menzikof
 qd,qknj.0,55948,56266,menzikof,56239,56242,mir,menzikof
 qd,qknj.0,56301,56758,menzikof,56395,56398,ich,menzikof
 qd,qknj.0,56301,56758,menzikof,56677,56680,ich,menzikof
-qd,qknj.0,56807,56888,menzikof,56859,56864,meine,menzikof
+qd,qknj.0,56807,56888,menzikof,56822,56825,ich,menzikof
+qd,qknj.0,56807,56888,menzikof,56850,56853,ich,menzikof
 qd,qknj.0,56926,56951,menzikof,56946,56950,mich,menzikof
 qd,qknj.0,57371,59636,katharina,57451,57454,ich,katharina
 qd,qknj.0,57371,59636,katharina,57493,57496,Mir,katharina
@@ -359,6 +364,7 @@ qd,qknj.0,60384,60743,menzikof,60409,60412,mir,menzikof
 qd,qknj.0,60384,60743,menzikof,60594,60597,Ich,menzikof
 qd,qknj.0,60384,60743,menzikof,60656,60659,Ich,menzikof
 qd,qknj.0,60384,60743,menzikof,60705,60709,mich,menzikof
+qd,qknj.0,61884,63150,peter,62039,62042,mir,peter
 qd,qknj.0,61884,63150,peter,62056,62060,mein,peter
 qd,qknj.0,61884,63150,peter,62218,62221,Ich,peter
 qd,qknj.0,61884,63150,peter,62292,62295,ich,peter
@@ -425,6 +431,7 @@ qd,qknj.0,75511,75565,dolgoruki,75550,75554,mich,dolgoruki
 qd,qknj.0,75663,75843,glebof,75710,75713,mir,glebof
 qd,qknj.0,75663,75843,glebof,75725,75728,mir,glebof
 qd,qknj.0,75663,75843,glebof,75799,75802,ich,glebof
+qd,qknj.0,75663,75843,glebof,75836,75840,mich,glebof
 qd,qknj.0,75892,76257,glebof,75914,75918,mich,glebof
 qd,qknj.0,75892,76257,glebof,75931,75934,ich,glebof
 qd,qknj.0,75892,76257,glebof,75946,75949,Ich,glebof
@@ -441,6 +448,7 @@ qd,qknj.0,76737,76788,dolgoruki,76777,76780,ich,dolgoruki
 qd,qknj.0,76889,77142,erzbischof,77091,77094,Ich,erzbischof
 qd,qknj.0,77514,77988,erzbischof,77586,77589,Ich,erzbischof
 qd,qknj.0,78105,78390,erzbischof,78118,78121,Ich,erzbischof
+qd,qknj.0,78105,78390,erzbischof,78266,78272,meinen,erzbischof
 qd,qknj.0,78540,78747,erzbischof,78583,78586,Ich,erzbischof
 qd,qknj.0,78540,78747,erzbischof,78622,78625,ich,erzbischof
 qd,qknj.0,78540,78747,erzbischof,78668,78671,Ich,erzbischof
@@ -458,6 +466,7 @@ qd,qknj.0,85068,85140,peter,85130,85133,mir,peter
 qd,qknj.0,85282,85404,gordon,85291,85294,Ich,gordon
 qd,qknj.0,85282,85404,gordon,85349,85352,mir,gordon
 qd,qknj.0,85282,85404,gordon,85363,85366,ich,gordon
+qd,qknj.0,85410,85541,peter,85446,85449,ich,peter
 qd,qknj.0,85410,85541,peter,85478,85481,mir,peter
 qd,qknj.0,85410,85541,peter,85489,85492,Ich,peter
 qd,qknj.0,85410,85541,peter,85517,85522,meine,peter
@@ -484,6 +493,8 @@ qd,qknj.0,87399,87746,peter,87416,87419,Ich,peter
 qd,qknj.0,87399,87746,peter,87605,87608,mir,peter
 qd,qknj.0,87399,87746,peter,87621,87625,Mein,peter
 qd,qknj.0,87399,87746,peter,87692,87696,Mich,peter
+qd,qknj.0,87399,87746,peter,87740,87743,ich,peter
+qd,qknj.0,87964,88198,peter,87995,87998,ich,peter
 qd,qknj.0,87964,88198,peter,88012,88018,meiner,peter
 qd,qknj.0,87964,88198,peter,88033,88036,mir,peter
 qd,qknj.0,87964,88198,peter,88060,88063,ich,peter
@@ -712,6 +723,7 @@ qd,qknj.0,115499,115593,alexis,115558,115563,meine,alexis
 qd,qknj.0,115599,115651,alexis,115634,115637,ich,alexis
 qd,qknj.0,115816,115870,alexis,115865,115869,mich,alexis
 qd,qknj.0,115875,116029,peter,115887,115893,meiner,peter
+qd,qknj.0,115875,116029,peter,115940,115943,mir,peter
 qd,qknj.0,115875,116029,peter,115947,115950,ich,peter
 qd,qknj.0,115875,116029,peter,115985,115988,Ich,peter
 qd,qknj.0,116035,116086,alexis,116072,116076,mich,alexis

@@ -36,6 +36,7 @@ qd,jn5z.0,6428,7863,schön,7171,7175,mich,schön
 qd,jn5z.0,6428,7863,schön,7236,7240,mein,schön
 qd,jn5z.0,6428,7863,schön,7280,7283,mir,schön
 qd,jn5z.0,6428,7863,schön,7316,7319,ich,schön
+qd,jn5z.0,6428,7863,schön,7342,7345,mir,schön
 qd,jn5z.0,6428,7863,schön,7421,7424,ich,schön
 qd,jn5z.0,6428,7863,schön,7459,7462,ich,schön
 qd,jn5z.0,6428,7863,schön,7485,7488,ich,schön
@@ -67,6 +68,7 @@ qd,jn5z.0,10738,10941,hutterer,10755,10758,mir,hutterer
 qd,jn5z.0,10738,10941,hutterer,10764,10767,Ich,hutterer
 qd,jn5z.0,10738,10941,hutterer,10832,10835,ich,hutterer
 qd,jn5z.0,10977,11142,hutterer,10988,10991,Ich,hutterer
+qd,jn5z.0,10977,11142,hutterer,10997,11000,mir,hutterer
 qd,jn5z.0,10977,11142,hutterer,11008,11011,ich,hutterer
 qd,jn5z.0,10977,11142,hutterer,11039,11042,Ich,hutterer
 qd,jn5z.0,11147,11205,sidonie,11188,11191,ich,sidonie
@@ -76,6 +78,7 @@ qd,jn5z.0,11521,11584,hutterer,11547,11550,Ich,hutterer
 qd,jn5z.0,11521,11584,hutterer,11565,11568,ich,hutterer
 qd,jn5z.0,11759,11983,hutterer,11778,11781,Ich,hutterer
 qd,jn5z.0,11759,11983,hutterer,11846,11849,ich,hutterer
+qd,jn5z.0,12029,12059,hutterer,12044,12047,ich,hutterer
 qd,jn5z.0,12193,12634,hutterer,12247,12250,mir,hutterer
 qd,jn5z.0,12193,12634,hutterer,12329,12332,ich,hutterer
 qd,jn5z.0,12193,12634,hutterer,12333,12336,mir,hutterer
@@ -112,12 +115,14 @@ qd,jn5z.0,15104,15221,hutterer,15175,15178,ich,hutterer
 qd,jn5z.0,15104,15221,hutterer,15185,15188,mir,hutterer
 qd,jn5z.0,15104,15221,hutterer,15199,15202,Ich,hutterer
 qd,jn5z.0,15226,15292,frey,15275,15278,ich,frey
+qd,jn5z.0,15455,15564,hutterer,15496,15499,mir,hutterer
 qd,jn5z.0,15570,15593,frey,15588,15592,mich,frey
 qd,jn5z.0,15642,15729,hutterer,15653,15656,Ich,hutterer
 qd,jn5z.0,15954,16400,hutterer,16145,16148,mir,hutterer
 qd,jn5z.0,16439,16506,frey,16446,16451,Meine,frey
 qd,jn5z.0,16511,16890,hutterer,16730,16733,ich,hutterer
 qd,jn5z.0,16511,16890,hutterer,16794,16797,mir,hutterer
+qd,jn5z.0,17280,17303,hedwig,17297,17300,ich,hedwig
 qd,jn5z.0,17308,17403,hutterer,17337,17340,ich,hutterer
 qd,jn5z.0,17308,17403,hutterer,17346,17349,mir,hutterer
 qd,jn5z.0,17408,17457,hedwig,17417,17420,Ich,hedwig
@@ -163,6 +168,7 @@ qd,jn5z.0,23220,23263,frey,23258,23261,mir,frey
 qd,jn5z.0,23268,23366,hedwig,23308,23311,Ich,hedwig
 qd,jn5z.0,23268,23366,hedwig,23333,23336,ich,hedwig
 qd,jn5z.0,23478,24018,frey,23716,23719,mir,frey
+qd,jn5z.0,23478,24018,frey,23740,23744,mich,frey
 qd,jn5z.0,23478,24018,frey,23844,23848,mich,frey
 qd,jn5z.0,23478,24018,frey,23878,23884,meiner,frey
 qd,jn5z.0,23478,24018,frey,23905,23909,mich,frey
@@ -199,6 +205,7 @@ qd,jn5z.0,31271,31484,barbara,31467,31470,mir,barbara
 qd,jn5z.0,31489,31543,johann,31508,31511,mir,johann
 qd,jn5z.0,31631,31789,barbara,31762,31765,ich,barbara
 qd,jn5z.0,31867,31914,johann,31897,31900,ich,johann
+qd,jn5z.0,31919,32239,josepha,31987,31990,mir,josepha
 qd,jn5z.0,31919,32239,josepha,31997,32001,mein,josepha
 qd,jn5z.0,32244,32685,stolzenthaler,32524,32527,ich,stolzenthaler
 qd,jn5z.0,32244,32685,stolzenthaler,32533,32536,mir,stolzenthaler
@@ -213,6 +220,7 @@ qd,jn5z.0,33013,33415,stolzenthaler,33297,33300,ich,stolzenthaler
 qd,jn5z.0,33597,33707,stolzenthaler,33639,33642,mir,stolzenthaler
 qd,jn5z.0,33597,33707,stolzenthaler,33643,33647,mein,stolzenthaler
 qd,jn5z.0,33952,34072,josepha,33972,33975,Ich,josepha
+qd,jn5z.0,33952,34072,josepha,33980,33983,mir,josepha
 qd,jn5z.0,33952,34072,josepha,34039,34042,ich,josepha
 qd,jn5z.0,33952,34072,josepha,34063,34066,ich,josepha
 qd,jn5z.0,34634,34964,josepha,34707,34710,Ich,josepha
@@ -234,6 +242,7 @@ qd,jn5z.0,38593,39560,schalanter,38788,38792,mein,schalanter
 qd,jn5z.0,38593,39560,schalanter,38833,38836,Ich,schalanter
 qd,jn5z.0,38593,39560,schalanter,38863,38866,ich,schalanter
 qd,jn5z.0,38593,39560,schalanter,38967,38972,Meine,schalanter
+qd,jn5z.0,38593,39560,schalanter,38988,38991,mir,schalanter
 qd,jn5z.0,38593,39560,schalanter,39011,39014,ich,schalanter
 qd,jn5z.0,38593,39560,schalanter,39093,39096,ich,schalanter
 qd,jn5z.0,38593,39560,schalanter,39358,39361,ich,schalanter
@@ -266,6 +275,7 @@ qd,jn5z.0,42282,42437,martin,42422,42425,ich,martin
 qd,jn5z.0,42443,42519,schalanter,42492,42495,ich,schalanter
 qd,jn5z.0,42524,42751,martin,42552,42555,ich,martin
 qd,jn5z.0,42524,42751,martin,42672,42675,ich,martin
+qd,jn5z.0,42524,42751,martin,42741,42744,ich,martin
 qd,jn5z.0,42756,42871,schalanter,42857,42860,ich,schalanter
 qd,jn5z.0,42876,42919,martin,42912,42915,mir,martin
 qd,jn5z.0,42924,43168,schalanter,42953,42956,mir,schalanter
@@ -294,6 +304,7 @@ qd,jn5z.0,44175,46667,hedwig,46148,46151,ich,hedwig
 qd,jn5z.0,44175,46667,hedwig,46519,46522,Ich,hedwig
 qd,jn5z.0,44175,46667,hedwig,46540,46543,ich,hedwig
 qd,jn5z.0,46723,48735,hedwig,46763,46766,Ich,hedwig
+qd,jn5z.0,46723,48735,hedwig,46778,46781,ich,hedwig
 qd,jn5z.0,46723,48735,hedwig,46788,46792,mein,hedwig
 qd,jn5z.0,46723,48735,hedwig,46807,46810,ich,hedwig
 qd,jn5z.0,46723,48735,hedwig,46986,46989,mir,hedwig
@@ -316,6 +327,7 @@ qd,jn5z.0,50447,50504,schön,50487,50490,ich,schön
 qd,jn5z.0,50806,50939,schön,50833,50836,ich,schön
 qd,jn5z.0,50806,50939,schön,50837,50840,mir,schön
 qd,jn5z.0,50944,51001,anna,50956,50959,ich,anna
+qd,jn5z.0,51040,51252,eduard,51135,51139,mich,eduard
 qd,jn5z.0,51040,51252,eduard,51161,51164,ich,eduard
 qd,jn5z.0,51419,51553,anna,51509,51512,Ich,anna
 qd,jn5z.0,51705,52104,anna,51998,52001,ich,anna
@@ -341,6 +353,7 @@ qd,jn5z.0,54895,54935,eduard,54904,54907,Ich,eduard
 qd,jn5z.0,54984,55230,schalanter,55064,55068,mein,schalanter
 qd,jn5z.0,55771,55933,martin,55869,55872,ich,martin
 qd,jn5z.0,55771,55933,martin,55873,55876,mir,martin
+qd,jn5z.0,55938,56260,schalanter,55977,55980,ich,schalanter
 qd,jn5z.0,55938,56260,schalanter,56127,56130,mir,schalanter
 qd,jn5z.0,56500,57112,schalanter,56528,56531,ich,schalanter
 qd,jn5z.0,56500,57112,schalanter,56725,56728,ich,schalanter
@@ -405,6 +418,7 @@ qd,jn5z.0,64849,65028,schalanter,64927,64930,Mir,schalanter
 qd,jn5z.0,65368,65404,stolzenthaler,65394,65397,ich,stolzenthaler
 qd,jn5z.0,65627,65711,stolzenthaler,65686,65690,mein,stolzenthaler
 qd,jn5z.0,65873,65974,stolzenthaler,65889,65892,Ich,stolzenthaler
+qd,jn5z.0,65873,65974,stolzenthaler,65898,65901,mir,stolzenthaler
 qd,jn5z.0,65873,65974,stolzenthaler,65962,65968,meiner,stolzenthaler
 qd,jn5z.0,65979,66135,schalanter,66110,66114,mein,schalanter
 qd,jn5z.0,66352,66496,stolzenthaler,66449,66452,ich,stolzenthaler
@@ -452,6 +466,7 @@ qd,jn5z.0,72013,72062,hedwig,72041,72045,mein,hedwig
 qd,jn5z.0,72457,72549,hedwig,72476,72479,ich,hedwig
 qd,jn5z.0,72457,72549,hedwig,72508,72511,mir,hedwig
 qd,jn5z.0,72554,72737,stolzenthaler,72701,72704,Ich,stolzenthaler
+qd,jn5z.0,72742,72836,hedwig,72824,72827,ich,hedwig
 qd,jn5z.0,72841,72987,stolzenthaler,72953,72959,meinen,stolzenthaler
 qd,jn5z.0,72992,73080,hedwig,73032,73036,mein,hedwig
 qd,jn5z.0,72992,73080,hedwig,73047,73050,ich,hedwig
@@ -469,6 +484,7 @@ qd,jn5z.0,74791,75947,stolzenthaler,74939,74942,ich,stolzenthaler
 qd,jn5z.0,74791,75947,stolzenthaler,75015,75018,ich,stolzenthaler
 qd,jn5z.0,74791,75947,stolzenthaler,75179,75182,ich,stolzenthaler
 qd,jn5z.0,74791,75947,stolzenthaler,75209,75212,ich,stolzenthaler
+qd,jn5z.0,74791,75947,stolzenthaler,75560,75563,ich,stolzenthaler
 qd,jn5z.0,74791,75947,stolzenthaler,75917,75920,mir,stolzenthaler
 qd,jn5z.0,75998,76261,stolzenthaler,76086,76089,Ich,stolzenthaler
 qd,jn5z.0,76266,77050,hedwig,76359,76362,ich,hedwig
@@ -491,6 +507,7 @@ qd,jn5z.0,77175,77691,hedwig,77557,77560,ich,hedwig
 qd,jn5z.0,77696,78045,stolzenthaler,77843,77846,Ich,stolzenthaler
 qd,jn5z.0,77696,78045,stolzenthaler,77897,77900,ich,stolzenthaler
 qd,jn5z.0,77696,78045,stolzenthaler,77904,77907,mir,stolzenthaler
+qd,jn5z.0,78111,79492,hedwig,78166,78169,ich,hedwig
 qd,jn5z.0,78111,79492,hedwig,78228,78232,mich,hedwig
 qd,jn5z.0,78111,79492,hedwig,78270,78274,mich,hedwig
 qd,jn5z.0,78111,79492,hedwig,78335,78338,ich,hedwig
@@ -558,6 +575,7 @@ qd,jn5z.0,89088,89137,johann,89118,89121,ich,johann
 qd,jn5z.0,89142,89261,josepha,89152,89156,Mein,josepha
 qd,jn5z.0,89266,89304,johann,89283,89286,ich,johann
 qd,jn5z.0,89353,89498,johann,89389,89392,mir,johann
+qd,jn5z.0,89353,89498,johann,89411,89414,ich,johann
 qd,jn5z.0,89353,89498,johann,89448,89451,ich,johann
 qd,jn5z.0,89353,89498,johann,89452,89456,mich,johann
 qd,jn5z.0,89353,89498,johann,89487,89491,mich,johann

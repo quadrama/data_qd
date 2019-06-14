@@ -28,6 +28,7 @@ qd,stqx.0,6113,6174,gluthammer,6141,6144,ich,gluthammer
 qd,stqx.0,6329,6364,kathi,6344,6347,ich,kathi
 qd,stqx.0,6423,7109,kathi,6526,6529,ich,kathi
 qd,stqx.0,6423,7109,kathi,6533,6539,meinen,kathi
+qd,stqx.0,6423,7109,kathi,6606,6609,mir,kathi
 qd,stqx.0,6423,7109,kathi,6654,6657,ich,kathi
 qd,stqx.0,6423,7109,kathi,6688,6694,Meiner,kathi
 qd,stqx.0,6423,7109,kathi,6713,6716,ich,kathi
@@ -80,6 +81,7 @@ qd,stqx.0,11172,11213,kathi,11189,11192,ich,kathi
 qd,stqx.0,11267,11315,gluthammer,11280,11285,Meine,gluthammer
 qd,stqx.0,11267,11315,gluthammer,11299,11302,ich,gluthammer
 qd,stqx.0,11342,11553,gluthammer,11434,11437,ich,gluthammer
+qd,stqx.0,11558,11647,kathi,11636,11640,mein,kathi
 qd,stqx.0,11652,11863,gluthammer,11738,11741,mir,gluthammer
 qd,stqx.0,11652,11863,gluthammer,11784,11787,ich,gluthammer
 qd,stqx.0,11868,12031,anton,11986,11989,ich,anton
@@ -90,6 +92,7 @@ qd,stqx.0,16172,16271,lips,16216,16219,ich,lips
 qd,stqx.0,16276,16321,stifter,16286,16289,Ich,stifter
 qd,stqx.0,16375,16443,stifter,16403,16406,ich,stifter
 qd,stqx.0,16448,16489,lips,16455,16458,Ich,lips
+qd,stqx.0,16633,16926,lips,16665,16668,mir,lips
 qd,stqx.0,16633,16926,lips,16699,16702,ich,lips
 qd,stqx.0,16633,16926,lips,16703,16707,mein,lips
 qd,stqx.0,16633,16926,lips,16849,16852,Ich,lips
@@ -155,6 +158,7 @@ qd,stqx.0,25986,26131,lips,26088,26091,ich,lips
 qd,stqx.0,25986,26131,lips,26092,26096,mich,lips
 qd,stqx.0,26267,26332,lips,26274,26277,Ich,lips
 qd,stqx.0,26337,26404,madame_schleier,26374,26377,Ich,madame_schleier
+qd,stqx.0,26337,26404,madame_schleier,26384,26388,mein,madame_schleier
 qd,stqx.0,26409,26581,lips,26441,26444,mir,lips
 qd,stqx.0,26409,26581,lips,26553,26557,mich,lips
 qd,stqx.0,26618,26883,lips,26644,26648,mein,lips
@@ -176,6 +180,7 @@ qd,stqx.0,27365,28058,lips,27564,27567,ich,lips
 qd,stqx.0,27365,28058,lips,27613,27616,ich,lips
 qd,stqx.0,27365,28058,lips,27622,27626,mich,lips
 qd,stqx.0,27365,28058,lips,27639,27644,meine,lips
+qd,stqx.0,27365,28058,lips,27690,27693,ich,lips
 qd,stqx.0,27365,28058,lips,27716,27720,mich,lips
 qd,stqx.0,27365,28058,lips,27750,27753,mir,lips
 qd,stqx.0,27365,28058,lips,27822,27826,mich,lips
@@ -225,6 +230,7 @@ qd,stqx.0,33310,33372,madame_schleier,33328,33331,Ich,madame_schleier
 qd,stqx.0,33775,33886,kathi,33864,33867,ich,kathi
 qd,stqx.0,33775,33886,kathi,33868,33872,mein,kathi
 qd,stqx.0,33891,34008,gluthammer,33960,33963,ich,gluthammer
+qd,stqx.0,33891,34008,gluthammer,33968,33971,mir,gluthammer
 qd,stqx.0,33891,34008,gluthammer,33988,33991,ich,gluthammer
 qd,stqx.0,34073,34178,gluthammer,34086,34089,Ich,gluthammer
 qd,stqx.0,34073,34178,gluthammer,34122,34126,mich,gluthammer
@@ -256,6 +262,7 @@ qd,stqx.0,37296,37384,kathi,37335,37339,mein,kathi
 qd,stqx.0,37491,37517,kathi,37509,37512,ich,kathi
 qd,stqx.0,37522,37663,madame_schleier,37592,37595,ich,madame_schleier
 qd,stqx.0,37522,37663,madame_schleier,37620,37623,ich,madame_schleier
+qd,stqx.0,37522,37663,madame_schleier,37624,37627,mir,madame_schleier
 qd,stqx.0,37728,37907,kathi,37852,37855,ich,kathi
 qd,stqx.0,37728,37907,kathi,37869,37872,ich,kathi
 qd,stqx.0,38084,38214,madame_schleier,38102,38107,Meine,madame_schleier
@@ -361,6 +368,7 @@ qd,stqx.0,54256,54423,lips,54402,54406,mich,lips
 qd,stqx.0,54514,54561,lips,54539,54542,ich,lips
 qd,stqx.0,54732,54861,krautkopf,54786,54790,mein,krautkopf
 qd,stqx.0,54866,54930,kathi,54892,54895,ich,kathi
+qd,stqx.0,54866,54930,kathi,54901,54904,mir,kathi
 qd,stqx.0,55022,55113,krautkopf,55034,55037,Mir,krautkopf
 qd,stqx.0,55022,55113,krautkopf,55060,55063,ich,krautkopf
 qd,stqx.0,55022,55113,krautkopf,55096,55099,mir,krautkopf
@@ -388,6 +396,7 @@ qd,stqx.0,57310,57366,krautkopf,57347,57350,ich,krautkopf
 qd,stqx.0,57310,57366,krautkopf,57351,57355,mein,krautkopf
 qd,stqx.0,57371,57424,lips,57387,57390,ich,lips
 qd,stqx.0,57780,57826,lips,57813,57818,meine,lips
+qd,stqx.0,57831,57954,krautkopf,57875,57878,ich,krautkopf
 qd,stqx.0,57959,58130,lips,58051,58054,ich,lips
 qd,stqx.0,57959,58130,lips,58081,58084,ich,lips
 qd,stqx.0,58135,58199,krautkopf,58151,58154,mir,krautkopf
@@ -484,6 +493,7 @@ qd,stqx.0,68243,68768,krautkopf,68633,68636,ich,krautkopf
 qd,stqx.0,68243,68768,krautkopf,68697,68700,Ich,krautkopf
 qd,stqx.0,68243,68768,krautkopf,68728,68732,mein,krautkopf
 qd,stqx.0,68838,69000,kathi,68884,68887,Ich,kathi
+qd,stqx.0,68838,69000,kathi,68893,68896,mir,kathi
 qd,stqx.0,69005,69297,lips,69017,69020,ich,lips
 qd,stqx.0,69005,69297,lips,69153,69156,ich,lips
 qd,stqx.0,69005,69297,lips,69278,69281,ich,lips
@@ -516,6 +526,7 @@ qd,stqx.0,73515,73547,lips,73534,73537,mir,lips
 qd,stqx.0,73552,73635,krautkopf,73581,73584,ich,krautkopf
 qd,stqx.0,73958,76912,lips,73993,73997,mich,lips
 qd,stqx.0,73958,76912,lips,73999,74002,ich,lips
+qd,stqx.0,73958,76912,lips,74047,74050,ich,lips
 qd,stqx.0,73958,76912,lips,74147,74151,mein,lips
 qd,stqx.0,73958,76912,lips,74606,74609,Ich,lips
 qd,stqx.0,73958,76912,lips,74647,74651,mich,lips
@@ -546,6 +557,7 @@ qd,stqx.0,80118,80797,lips,80728,80731,mir,lips
 qd,stqx.0,80878,81096,krautkopf,80964,80967,ich,krautkopf
 qd,stqx.0,80878,81096,krautkopf,81070,81073,Ich,krautkopf
 qd,stqx.0,81330,81423,gluthammer,81374,81377,ich,gluthammer
+qd,stqx.0,81536,81725,krautkopf,81567,81571,mein,krautkopf
 qd,stqx.0,81536,81725,krautkopf,81591,81594,ich,krautkopf
 qd,stqx.0,81536,81725,krautkopf,81700,81706,meinem,krautkopf
 qd,stqx.0,81730,81797,gluthammer,81763,81766,ich,gluthammer
@@ -586,6 +598,7 @@ qd,stqx.0,85985,86050,krautkopf,86011,86014,ich,krautkopf
 qd,stqx.0,86290,86535,kathi,86394,86397,ich,kathi
 qd,stqx.0,86662,86692,krautkopf,86674,86679,Meine,krautkopf
 qd,stqx.0,87165,87350,stifter,87239,87242,ich,stifter
+qd,stqx.0,87165,87350,stifter,87268,87271,mir,stifter
 qd,stqx.0,87165,87350,stifter,87284,87287,ich,stifter
 qd,stqx.0,87355,87439,krautkopf,87391,87394,Ich,krautkopf
 qd,stqx.0,87355,87439,krautkopf,87428,87431,ich,krautkopf
@@ -666,6 +679,7 @@ qd,stqx.0,97757,97907,lips,97870,97873,ich,lips
 qd,stqx.0,98085,98177,lips,98172,98176,mich,lips
 qd,stqx.0,98182,98282,kathi,98242,98245,ich,kathi
 qd,stqx.0,98287,98526,lips,98322,98326,mich,lips
+qd,stqx.0,98287,98526,lips,98350,98353,mir,lips
 qd,stqx.0,98532,98710,kathi,98592,98595,ich,kathi
 qd,stqx.0,98532,98710,kathi,98614,98617,Ich,kathi
 qd,stqx.0,98532,98710,kathi,98662,98665,ich,kathi
@@ -682,6 +696,7 @@ qd,stqx.0,100228,100295,lips,100257,100260,ich,lips
 qd,stqx.0,100228,100295,lips,100265,100269,mein,lips
 qd,stqx.0,100352,100677,lips,100389,100392,ich,lips
 qd,stqx.0,100352,100677,lips,100470,100473,ich,lips
+qd,stqx.0,100352,100677,lips,100480,100483,mir,lips
 qd,stqx.0,100352,100677,lips,100547,100552,meine,lips
 qd,stqx.0,100954,101003,justitiär,100991,100996,meine,justitiär
 qd,stqx.0,101415,101478,lips,101426,101429,ich,lips
@@ -749,6 +764,7 @@ qd,stqx.0,109695,109837,gluthammer,109742,109745,mir,gluthammer
 qd,stqx.0,109695,109837,gluthammer,109791,109794,ich,gluthammer
 qd,stqx.0,109695,109837,gluthammer,109796,109799,mir,gluthammer
 qd,stqx.0,109842,110175,lips,109856,109859,mir,lips
+qd,stqx.0,109842,110175,lips,109898,109901,ich,lips
 qd,stqx.0,109842,110175,lips,109914,109917,ich,lips
 qd,stqx.0,109842,110175,lips,109952,109955,ich,lips
 qd,stqx.0,109842,110175,lips,110016,110019,mir,lips

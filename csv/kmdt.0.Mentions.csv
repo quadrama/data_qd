@@ -123,6 +123,7 @@ qd,kmdt.0,17640,17818,emma,17658,17661,Ich,emma
 qd,kmdt.0,17640,17818,emma,17681,17684,ich,emma
 qd,kmdt.0,17640,17818,emma,17737,17740,ich,emma
 qd,kmdt.0,17640,17818,emma,17746,17750,mich,emma
+qd,kmdt.0,17640,17818,emma,17800,17803,ich,emma
 qd,kmdt.0,17982,18340,emma,18121,18124,mir,emma
 qd,kmdt.0,17982,18340,emma,18207,18211,mich,emma
 qd,kmdt.0,18419,18541,emma,18467,18470,mir,emma
@@ -135,6 +136,7 @@ qd,kmdt.0,18860,19076,julius,18896,18899,ich,julius
 qd,kmdt.0,18860,19076,julius,18910,18913,ich,julius
 qd,kmdt.0,18860,19076,julius,18993,18997,mich,julius
 qd,kmdt.0,18860,19076,julius,19010,19014,mich,julius
+qd,kmdt.0,19081,19424,emma,19091,19094,ich,emma
 qd,kmdt.0,19081,19424,emma,19169,19172,ich,emma
 qd,kmdt.0,19081,19424,emma,19294,19297,ich,emma
 qd,kmdt.0,19081,19424,emma,19324,19327,mir,emma
@@ -151,6 +153,7 @@ qd,kmdt.0,19803,20656,emma,20555,20558,ich,emma
 qd,kmdt.0,19803,20656,emma,20559,20562,mir,emma
 qd,kmdt.0,19803,20656,emma,20611,20614,ich,emma
 qd,kmdt.0,20661,20890,julius,20772,20776,mich,julius
+qd,kmdt.0,20661,20890,julius,20813,20816,ich,julius
 qd,kmdt.0,20661,20890,julius,20835,20838,mir,julius
 qd,kmdt.0,20895,21143,emma,21047,21050,ich,emma
 qd,kmdt.0,21148,21243,julius,21224,21227,mir,julius
@@ -275,7 +278,6 @@ qd,kmdt.0,32705,32878,julius,32730,32733,Ich,julius
 qd,kmdt.0,32705,32878,julius,32754,32758,mich,julius
 qd,kmdt.0,32705,32878,julius,32849,32852,Ich,julius
 qd,kmdt.0,32883,32991,eweline,32954,32957,mir,eweline
-qd,kmdt.0,32883,32991,eweline,32987,32990,Ich,eweline
 qd,kmdt.0,33195,33381,eweline,33292,33295,ich,eweline
 qd,kmdt.0,33195,33381,eweline,33302,33306,mich,eweline
 qd,kmdt.0,33440,33543,julius,33487,33493,meines,julius
@@ -408,6 +410,8 @@ qd,kmdt.0,47801,48847,gottlieb,48587,48590,ich,gottlieb
 qd,kmdt.0,48853,48961,baron,48947,48951,mein,baron
 qd,kmdt.0,49131,49341,baron,49204,49207,mir,baron
 qd,kmdt.0,49346,49434,gottlieb,49379,49382,ich,gottlieb
+qd,kmdt.0,49346,49434,gottlieb,49383,49386,mir,gottlieb
+qd,kmdt.0,49346,49434,gottlieb,49417,49420,ich,gottlieb
 qd,kmdt.0,49456,49662,gottlieb,49471,49474,ich,gottlieb
 qd,kmdt.0,49456,49662,gottlieb,49523,49526,mir,gottlieb
 qd,kmdt.0,49724,50175,krabbe,49845,49848,ich,krabbe
@@ -597,7 +601,6 @@ qd,kmdt.0,69286,69801,gottlieb,69551,69554,ich,gottlieb
 qd,kmdt.0,69286,69801,gottlieb,69644,69647,ich,gottlieb
 qd,kmdt.0,69286,69801,gottlieb,69774,69777,mir,gottlieb
 qd,kmdt.0,69839,70371,gottlieb,69932,69935,mir,gottlieb
-qd,kmdt.0,69839,70371,gottlieb,70001,70006,meine,gottlieb
 qd,kmdt.0,69839,70371,gottlieb,70007,70010,ich,gottlieb
 qd,kmdt.0,70376,70520,baron,70484,70488,mein,baron
 qd,kmdt.0,70595,70878,baron,70603,70607,Mein,baron
@@ -605,6 +608,7 @@ qd,kmdt.0,70595,70878,baron,70829,70834,meine,baron
 qd,kmdt.0,70883,71341,krabbe,70925,70928,ich,krabbe
 qd,kmdt.0,70883,71341,krabbe,71253,71257,mein,krabbe
 qd,kmdt.0,70883,71341,krabbe,71323,71326,mir,krabbe
+qd,kmdt.0,71477,71564,krabbe,71515,71518,mir,krabbe
 qd,kmdt.0,71624,71737,gustav,71659,71662,ich,gustav
 qd,kmdt.0,71809,71978,gustav,71818,71822,Mein,gustav
 qd,kmdt.0,71809,71978,gustav,71850,71853,Ich,gustav
@@ -731,6 +735,7 @@ qd,kmdt.0,87592,87914,julius,87793,87799,meinen,julius
 qd,kmdt.0,87592,87914,julius,87867,87870,ich,julius
 qd,kmdt.0,87919,87987,emma,87957,87961,mich,emma
 qd,kmdt.0,87992,88176,julius,88104,88107,mir,julius
+qd,kmdt.0,87992,88176,julius,88130,88133,mir,julius
 qd,kmdt.0,87992,88176,julius,88157,88161,mich,julius
 qd,kmdt.0,88324,88490,julius,88360,88363,mir,julius
 qd,kmdt.0,88324,88490,julius,88438,88442,mich,julius
@@ -789,6 +794,7 @@ qd,kmdt.0,93786,94276,barbara,94265,94270,meine,barbara
 qd,kmdt.0,94417,94822,baron,94630,94633,ich,baron
 qd,kmdt.0,94417,94822,baron,94651,94654,ich,baron
 qd,kmdt.0,95229,95278,barbara,95253,95256,ich,barbara
+qd,kmdt.0,95229,95278,barbara,95262,95265,mir,barbara
 qd,kmdt.0,95283,95737,baron,95333,95337,mich,baron
 qd,kmdt.0,95283,95737,baron,95728,95731,ich,baron
 qd,kmdt.0,95283,95737,baron,95732,95736,mich,baron
@@ -801,6 +807,7 @@ qd,kmdt.0,96061,96456,baron,96324,96329,meine,baron
 qd,kmdt.0,96061,96456,baron,96351,96355,mich,baron
 qd,kmdt.0,96061,96456,baron,96417,96420,ich,baron
 qd,kmdt.0,96462,96624,barbara,96506,96509,ich,barbara
+qd,kmdt.0,96462,96624,barbara,96526,96529,ich,barbara
 qd,kmdt.0,96462,96624,barbara,96538,96541,Ich,barbara
 qd,kmdt.0,96629,96988,emma,96736,96739,ich,emma
 qd,kmdt.0,96629,96988,emma,96744,96748,mein,emma
@@ -835,7 +842,6 @@ qd,kmdt.0,100121,100807,krabbe,100223,100226,ich,krabbe
 qd,kmdt.0,100121,100807,krabbe,100311,100314,ich,krabbe
 qd,kmdt.0,100121,100807,krabbe,100446,100449,ich,krabbe
 qd,kmdt.0,100812,100918,eweline,100851,100854,ich,eweline
-qd,kmdt.0,100923,101155,krabbe,101007,101013,meinen,krabbe
 qd,kmdt.0,100923,101155,krabbe,101026,101029,ich,krabbe
 qd,kmdt.0,101355,101624,krabbe,101593,101599,meiner,krabbe
 qd,kmdt.0,101629,101721,eweline,101682,101685,ich,eweline
@@ -992,7 +998,6 @@ qd,kmdt.0,121987,122148,julius_krabbe,122039,122045,meinen,julius_krabbe
 qd,kmdt.0,121987,122148,julius_krabbe,122060,122063,ich,julius_krabbe
 qd,kmdt.0,121987,122148,julius_krabbe,122119,122123,mein,julius_krabbe
 qd,kmdt.0,122153,122245,krabbe,122227,122230,ich,krabbe
-qd,kmdt.0,122693,122823,baron,122798,122803,meine,baron
 qd,kmdt.0,122829,122984,krabbe,122920,122923,Ich,krabbe
 qd,kmdt.0,122991,123216,baron,123019,123022,Ich,baron
 qd,kmdt.0,122991,123216,baron,123044,123047,ich,baron

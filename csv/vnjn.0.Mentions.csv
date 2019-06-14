@@ -106,6 +106,7 @@ qd,vnjn.0,10328,12278,bastard,11243,11246,ich,bastard
 qd,vnjn.0,10328,12278,bastard,11554,11557,mir,bastard
 qd,vnjn.0,10328,12278,bastard,11661,11664,ich,bastard
 qd,vnjn.0,10328,12278,bastard,11870,11873,ich,bastard
+qd,vnjn.0,10328,12278,bastard,11917,11920,ich,bastard
 qd,vnjn.0,10328,12278,bastard,11956,11959,Mir,bastard
 qd,vnjn.0,10328,12278,bastard,12204,12209,meine,bastard
 qd,vnjn.0,12284,12383,lady_faulconbridge,12341,12344,mir,lady_faulconbridge
@@ -323,6 +324,7 @@ qd,vnjn.0,62525,62764,bastard,62565,62569,mich,bastard
 qd,vnjn.0,62525,62764,bastard,62609,62612,mir,bastard
 qd,vnjn.0,62525,62764,bastard,62631,62634,Ich,bastard
 qd,vnjn.0,62525,62764,bastard,62656,62659,ich,bastard
+qd,vnjn.0,62525,62764,bastard,62690,62693,mir,bastard
 qd,vnjn.0,62525,62764,bastard,62746,62749,ich,bastard
 qd,vnjn.0,62770,62810,eleonore,62791,62795,mein,eleonore
 qd,vnjn.0,62860,62941,eleonore,62878,62881,mir,eleonore
@@ -390,6 +392,7 @@ qd,vnjn.0,67838,68642,constanze,68044,68047,Ich,constanze
 qd,vnjn.0,67838,68642,constanze,68081,68084,ich,constanze
 qd,vnjn.0,67838,68642,constanze,68098,68101,ich,constanze
 qd,vnjn.0,67838,68642,constanze,68126,68130,mich,constanze
+qd,vnjn.0,67838,68642,constanze,68151,68154,ich,constanze
 qd,vnjn.0,67838,68642,constanze,68179,68182,ich,constanze
 qd,vnjn.0,67838,68642,constanze,68218,68222,mich,constanze
 qd,vnjn.0,67838,68642,constanze,68285,68288,ich,constanze
@@ -406,6 +409,7 @@ qd,vnjn.0,67838,68642,constanze,68551,68554,Ich,constanze
 qd,vnjn.0,67838,68642,constanze,68598,68601,ich,constanze
 qd,vnjn.0,68648,68947,könig_philipp,68714,68717,ich,könig_philipp
 qd,vnjn.0,69039,69960,constanze,69060,69063,ich,constanze
+qd,vnjn.0,69039,69960,constanze,69084,69087,ich,constanze
 qd,vnjn.0,69039,69960,constanze,69096,69099,Ich,constanze
 qd,vnjn.0,69039,69960,constanze,69161,69167,meinen,constanze
 qd,vnjn.0,69039,69960,constanze,69235,69238,ich,constanze
@@ -485,6 +489,7 @@ qd,vnjn.0,76866,77697,arthur,76936,76939,ich,arthur
 qd,vnjn.0,76866,77697,arthur,76945,76949,mein,arthur
 qd,vnjn.0,76866,77697,arthur,76977,76981,Mein,arthur
 qd,vnjn.0,76866,77697,arthur,77014,77017,mir,arthur
+qd,vnjn.0,76866,77697,arthur,77040,77043,ich,arthur
 qd,vnjn.0,76866,77697,arthur,77159,77162,ich,arthur
 qd,vnjn.0,76866,77697,arthur,77269,77272,ich,arthur
 qd,vnjn.0,76866,77697,arthur,77554,77558,mich,arthur
@@ -562,6 +567,7 @@ qd,vnjn.0,88019,88187,könig_johann,88139,88145,meinen,könig_johann
 qd,vnjn.0,88301,88488,könig_johann,88324,88328,mich,könig_johann
 qd,vnjn.0,88301,88488,könig_johann,88343,88346,ich,könig_johann
 qd,vnjn.0,88301,88488,könig_johann,88392,88395,ich,könig_johann
+qd,vnjn.0,88494,89024,bastard,88508,88511,mir,bastard
 qd,vnjn.0,88494,89024,bastard,88598,88601,ich,bastard
 qd,vnjn.0,88494,89024,bastard,88638,88641,ich,bastard
 qd,vnjn.0,88494,89024,bastard,88798,88801,ich,bastard
@@ -632,6 +638,7 @@ qd,vnjn.0,97771,98331,salisbury,98296,98299,ich,salisbury
 qd,vnjn.0,98420,98525,hubert,98436,98439,ich,hubert
 qd,vnjn.0,98638,98667,hubert,98646,98649,Ich,hubert
 qd,vnjn.0,98672,98742,salisbury,98707,98710,ich,salisbury
+qd,vnjn.0,98813,98866,salisbury,98829,98832,ich,salisbury
 qd,vnjn.0,98871,99147,hubert,98917,98920,ich,hubert
 qd,vnjn.0,98871,99147,hubert,98923,98927,Mein,hubert
 qd,vnjn.0,98871,99147,hubert,98976,98979,Ich,hubert
@@ -641,7 +648,9 @@ qd,vnjn.0,99202,99299,hubert,99220,99224,mein,hubert
 qd,vnjn.0,99202,99299,hubert,99254,99257,ich,hubert
 qd,vnjn.0,99202,99299,hubert,99259,99263,Mein,hubert
 qd,vnjn.0,99340,99483,hubert,99355,99359,mich,hubert
+qd,vnjn.0,99340,99483,hubert,99382,99385,ich,hubert
 qd,vnjn.0,99523,99556,bastard,99552,99555,ich,bastard
+qd,vnjn.0,99561,99622,salisbury,99594,99597,ich,salisbury
 qd,vnjn.0,99627,99915,bastard,99684,99688,mich,bastard
 qd,vnjn.0,99627,99915,bastard,99751,99754,mir,bastard
 qd,vnjn.0,99627,99915,bastard,99836,99839,ich,bastard
@@ -703,8 +712,10 @@ qd,vnjn.0,110315,111698,louis,110977,110981,mich,louis
 qd,vnjn.0,110315,111698,louis,110984,110987,Ich,louis
 qd,vnjn.0,110315,111698,louis,111005,111011,meines,louis
 qd,vnjn.0,110315,111698,louis,111035,111039,mein,louis
+qd,vnjn.0,110315,111698,louis,111080,111083,ich,louis
 qd,vnjn.0,110315,111698,louis,111104,111107,ich,louis
 qd,vnjn.0,110315,111698,louis,111168,111171,ich,louis
+qd,vnjn.0,110315,111698,louis,111287,111290,ich,louis
 qd,vnjn.0,110315,111698,louis,111338,111341,ich,louis
 qd,vnjn.0,110315,111698,louis,111356,111362,meinem,louis
 qd,vnjn.0,110315,111698,louis,111482,111485,ich,louis

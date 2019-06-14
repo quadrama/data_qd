@@ -4,6 +4,7 @@ qd,ssrb.0,8455,9570,jarl,8564,8568,Mich,jarl
 qd,ssrb.0,8455,9570,jarl,8608,8611,Ich,jarl
 qd,ssrb.0,8455,9570,jarl,8617,8621,mich,jarl
 qd,ssrb.0,8455,9570,jarl,8738,8741,Ich,jarl
+qd,ssrb.0,8455,9570,jarl,8766,8769,ich,jarl
 qd,ssrb.0,8455,9570,jarl,9515,9518,Ich,jarl
 qd,ssrb.0,9576,9666,erichson,9647,9650,Ich,erichson
 qd,ssrb.0,9838,10015,jarl,9872,9875,Ich,jarl
@@ -17,6 +18,7 @@ qd,ssrb.0,11220,11543,jarl,11250,11254,mein,jarl
 qd,ssrb.0,11220,11543,jarl,11375,11378,mir,jarl
 qd,ssrb.0,11627,12756,jarl,11735,11738,ich,jarl
 qd,ssrb.0,11627,12756,jarl,11753,11756,mir,jarl
+qd,ssrb.0,13194,13405,erichson,13369,13372,ich,erichson
 qd,ssrb.0,13194,13405,erichson,13384,13390,meinem,erichson
 qd,ssrb.0,13411,13563,jarl,13426,13429,ich,jarl
 qd,ssrb.0,13625,14728,jarl,13758,13761,Ich,jarl
@@ -39,6 +41,7 @@ qd,ssrb.0,20681,21666,jarl,20750,20753,ich,jarl
 qd,ssrb.0,20681,21666,jarl,21018,21021,ich,jarl
 qd,ssrb.0,21672,21832,erichson,21749,21752,Mir,erichson
 qd,ssrb.0,23007,23130,erichson,23119,23122,ich,erichson
+qd,ssrb.0,23358,23565,irma,23404,23407,mir,irma
 qd,ssrb.0,23358,23565,irma,23428,23432,mich,irma
 qd,ssrb.0,23571,23669,erichson,23659,23662,ich,erichson
 qd,ssrb.0,23798,23936,asla,23858,23863,meine,asla
@@ -73,9 +76,11 @@ qd,ssrb.0,26059,26583,asla,26574,26578,mich,asla
 qd,ssrb.0,26589,27007,irma,26797,26802,meine,irma
 qd,ssrb.0,26589,27007,irma,26895,26898,ich,irma
 qd,ssrb.0,26589,27007,irma,26926,26929,ich,irma
+qd,ssrb.0,26589,27007,irma,26968,26971,ich,irma
 qd,ssrb.0,27013,27159,asla,27028,27032,mich,asla
 qd,ssrb.0,27013,27159,asla,27107,27111,Mich,asla
 qd,ssrb.0,27013,27159,asla,27142,27146,mich,asla
+qd,ssrb.0,27165,27269,irma,27187,27190,ich,irma
 qd,ssrb.0,27165,27269,irma,27222,27225,Ich,irma
 qd,ssrb.0,27276,27768,asla,27293,27296,ich,asla
 qd,ssrb.0,27276,27768,asla,27305,27308,Mir,asla
@@ -96,6 +101,7 @@ qd,ssrb.0,27774,28598,irma,28431,28435,mich,irma
 qd,ssrb.0,28604,30832,asla,28658,28661,Ich,asla
 qd,ssrb.0,28604,30832,asla,28980,28984,mein,asla
 qd,ssrb.0,28604,30832,asla,29250,29253,ich,asla
+qd,ssrb.0,28604,30832,asla,29331,29335,mich,asla
 qd,ssrb.0,28604,30832,asla,29373,29376,ich,asla
 qd,ssrb.0,28604,30832,asla,29415,29418,ich,asla
 qd,ssrb.0,28604,30832,asla,29614,29618,mich,asla
@@ -109,6 +115,7 @@ qd,ssrb.0,28604,30832,asla,30121,30124,ich,asla
 qd,ssrb.0,28604,30832,asla,30180,30183,ich,asla
 qd,ssrb.0,28604,30832,asla,30206,30209,ich,asla
 qd,ssrb.0,28604,30832,asla,30267,30270,mir,asla
+qd,ssrb.0,28604,30832,asla,30308,30312,mich,asla
 qd,ssrb.0,28604,30832,asla,30392,30395,ich,asla
 qd,ssrb.0,28604,30832,asla,30550,30553,ich,asla
 qd,ssrb.0,28604,30832,asla,30633,30638,meine,asla
@@ -210,10 +217,12 @@ qd,ssrb.0,47122,47149,egrösund,47145,47148,mir,egrösund
 qd,ssrb.0,47154,47174,biörneland,47170,47173,mir,biörneland
 qd,ssrb.0,47301,47392,yngurds,47310,47313,Ich,yngurds
 qd,ssrb.0,47467,47608,yngurds,47476,47480,Mein,yngurds
+qd,ssrb.0,47467,47608,yngurds,47546,47549,ich,yngurds
 qd,ssrb.0,47770,48031,yngurds,47810,47814,mich,yngurds
 qd,ssrb.0,47770,48031,yngurds,47863,47866,Ich,yngurds
 qd,ssrb.0,47770,48031,yngurds,47902,47905,mir,yngurds
 qd,ssrb.0,48135,48379,asla,48153,48156,ich,asla
+qd,ssrb.0,48135,48379,asla,48171,48174,ich,asla
 qd,ssrb.0,48135,48379,asla,48207,48210,mir,asla
 qd,ssrb.0,48897,49212,droll,49048,49052,Mich,droll
 qd,ssrb.0,49248,49329,droll,49269,49272,Ich,droll
@@ -263,6 +272,7 @@ qd,ssrb.0,59781,60140,oskar,59800,59803,ich,oskar
 qd,ssrb.0,59781,60140,oskar,59812,59816,Mich,oskar
 qd,ssrb.0,59781,60140,oskar,59927,59930,ich,oskar
 qd,ssrb.0,59781,60140,oskar,59948,59951,ich,oskar
+qd,ssrb.0,59781,60140,oskar,59985,59988,ich,oskar
 qd,ssrb.0,59781,60140,oskar,60021,60024,ich,oskar
 qd,ssrb.0,59781,60140,oskar,60082,60086,mich,oskar
 qd,ssrb.0,59781,60140,oskar,60105,60108,ich,oskar
@@ -277,6 +287,7 @@ qd,ssrb.0,61201,61325,knaut,61260,61266,meinem,knaut
 qd,ssrb.0,61331,61485,alf,61371,61374,ich,alf
 qd,ssrb.0,61591,62355,knaut,61672,61675,Ich,knaut
 qd,ssrb.0,61591,62355,knaut,61890,61893,ich,knaut
+qd,ssrb.0,61591,62355,knaut,61908,61911,mir,knaut
 qd,ssrb.0,61591,62355,knaut,61945,61948,ich,knaut
 qd,ssrb.0,61591,62355,knaut,61968,61971,mir,knaut
 qd,ssrb.0,61591,62355,knaut,62031,62037,meinen,knaut
@@ -345,6 +356,7 @@ qd,ssrb.0,68797,68993,brunhilde,68906,68912,meines,brunhilde
 qd,ssrb.0,69295,69548,brunhilde,69510,69514,mein,brunhilde
 qd,ssrb.0,69734,69839,alf,69774,69778,mein,alf
 qd,ssrb.0,70866,71238,yngurds,71023,71026,mir,yngurds
+qd,ssrb.0,71558,71595,gyldenbrog,71580,71583,mir,gyldenbrog
 qd,ssrb.0,71601,71654,yngurds,71620,71623,ich,yngurds
 qd,ssrb.0,71735,72426,yngurds,71770,71773,Ich,yngurds
 qd,ssrb.0,71735,72426,yngurds,72107,72111,mich,yngurds
@@ -368,6 +380,7 @@ qd,ssrb.0,73501,73772,yngurds,73750,73754,mich,yngurds
 qd,ssrb.0,73778,74009,alf,73842,73845,ich,alf
 qd,ssrb.0,74015,74129,gyldenbrog,74052,74056,mich,gyldenbrog
 qd,ssrb.0,74015,74129,gyldenbrog,74091,74094,mir,gyldenbrog
+qd,ssrb.0,74461,74498,yngurds,74485,74489,mich,yngurds
 qd,ssrb.0,74721,75490,yngurds,74834,74837,mir,yngurds
 qd,ssrb.0,74721,75490,yngurds,75150,75153,mir,yngurds
 qd,ssrb.0,74721,75490,yngurds,75176,75179,ich,yngurds
@@ -384,6 +397,7 @@ qd,ssrb.0,77708,77807,erichson,77757,77760,mir,erichson
 qd,ssrb.0,77708,77807,erichson,77767,77770,ich,erichson
 qd,ssrb.0,77871,78604,erichson,77930,77933,ich,erichson
 qd,ssrb.0,77871,78604,erichson,77982,77985,mir,erichson
+qd,ssrb.0,77871,78604,erichson,78359,78362,ich,erichson
 qd,ssrb.0,77871,78604,erichson,78524,78527,ich,erichson
 qd,ssrb.0,77871,78604,erichson,78536,78542,meinem,erichson
 qd,ssrb.0,78610,78667,ourdal,78638,78641,ich,ourdal
@@ -394,7 +408,9 @@ qd,ssrb.0,79605,79909,ourdal,79826,79829,ich,ourdal
 qd,ssrb.0,79605,79909,ourdal,79841,79847,meiner,ourdal
 qd,ssrb.0,80209,80461,ourdal,80352,80358,meiner,ourdal
 qd,ssrb.0,80209,80461,ourdal,80407,80410,mir,ourdal
+qd,ssrb.0,80466,81154,erichson,80611,80614,ich,erichson
 qd,ssrb.0,80466,81154,erichson,81114,81117,ich,erichson
+qd,ssrb.0,80466,81154,erichson,81134,81137,mir,erichson
 qd,ssrb.0,81458,81607,jarl,81520,81523,ich,jarl
 qd,ssrb.0,81723,81825,jarl,81765,81769,mich,jarl
 qd,ssrb.0,82145,82375,jarl,82225,82230,meine,jarl
@@ -416,6 +432,7 @@ qd,ssrb.0,87352,87467,erichson,87400,87403,ich,erichson
 qd,ssrb.0,87473,87520,asla,87479,87482,Ich,asla
 qd,ssrb.0,87473,87520,asla,87512,87515,ich,asla
 qd,ssrb.0,88977,89759,yngurds,89702,89705,Ich,yngurds
+qd,ssrb.0,88977,89759,yngurds,89733,89736,ich,yngurds
 qd,ssrb.0,89976,90543,yngurds,90213,90216,ich,yngurds
 qd,ssrb.0,90549,90741,kurl,90575,90579,mich,kurl
 qd,ssrb.0,90747,90937,yngurds,90804,90807,ich,yngurds
@@ -437,6 +454,7 @@ qd,ssrb.0,92671,93007,yngurds,92920,92923,Mir,yngurds
 qd,ssrb.0,92671,93007,yngurds,92952,92955,mir,yngurds
 qd,ssrb.0,93300,94350,yngurds,93491,93494,Ich,yngurds
 qd,ssrb.0,93300,94350,yngurds,93513,93518,meine,yngurds
+qd,ssrb.0,93300,94350,yngurds,94007,94010,mir,yngurds
 qd,ssrb.0,93300,94350,yngurds,94043,94046,ich,yngurds
 qd,ssrb.0,93300,94350,yngurds,94054,94057,Ich,yngurds
 qd,ssrb.0,94355,94551,asla,94391,94394,ich,asla
@@ -522,6 +540,7 @@ qd,ssrb.0,103081,103327,yngurds,103250,103253,ich,yngurds
 qd,ssrb.0,103081,103327,yngurds,103273,103279,meinen,yngurds
 qd,ssrb.0,103333,103611,irma,103370,103374,mich,irma
 qd,ssrb.0,103333,103611,irma,103479,103485,meinem,irma
+qd,ssrb.0,103333,103611,irma,103530,103533,mir,irma
 qd,ssrb.0,103617,103979,yngurds,103645,103649,mich,yngurds
 qd,ssrb.0,103617,103979,yngurds,103651,103656,Meine,yngurds
 qd,ssrb.0,103617,103979,yngurds,103802,103805,ich,yngurds
@@ -533,6 +552,7 @@ qd,ssrb.0,104267,104920,yngurds,104508,104511,ich,yngurds
 qd,ssrb.0,104267,104920,yngurds,104864,104867,ich,yngurds
 qd,ssrb.0,105058,105129,yngurds,105103,105106,ich,yngurds
 qd,ssrb.0,105135,105325,marduff,105156,105159,mir,marduff
+qd,ssrb.0,105135,105325,marduff,105175,105178,ich,marduff
 qd,ssrb.0,105483,105564,yngurds,105549,105552,ich,yngurds
 qd,ssrb.0,105789,105814,yngurds,105801,105806,meine,yngurds
 qd,ssrb.0,106114,106344,yngurds,106160,106163,Ich,yngurds
@@ -632,6 +652,7 @@ qd,ssrb.0,116888,117171,oskar,117011,117014,ich,oskar
 qd,ssrb.0,116888,117171,oskar,117039,117045,meiner,oskar
 qd,ssrb.0,116888,117171,oskar,117097,117100,ich,oskar
 qd,ssrb.0,116888,117171,oskar,117133,117136,ich,oskar
+qd,ssrb.0,116888,117171,oskar,117160,117163,ich,oskar
 qd,ssrb.0,117177,117282,asla,117231,117234,ich,asla
 qd,ssrb.0,117177,117282,asla,117245,117248,ich,asla
 qd,ssrb.0,117288,117988,oskar,117353,117356,ich,oskar
@@ -640,6 +661,7 @@ qd,ssrb.0,117288,117988,oskar,117462,117465,ich,oskar
 qd,ssrb.0,117288,117988,oskar,117587,117591,mich,oskar
 qd,ssrb.0,117288,117988,oskar,117621,117624,ich,oskar
 qd,ssrb.0,117288,117988,oskar,117754,117757,mir,oskar
+qd,ssrb.0,117288,117988,oskar,117788,117791,ich,oskar
 qd,ssrb.0,117288,117988,oskar,117803,117807,mich,oskar
 qd,ssrb.0,117288,117988,oskar,117828,117834,meinem,oskar
 qd,ssrb.0,117288,117988,oskar,117859,117862,Mir,oskar
@@ -710,6 +732,7 @@ qd,ssrb.0,124806,126041,yngurds,125013,125016,Ich,yngurds
 qd,ssrb.0,124806,126041,yngurds,125043,125046,ich,yngurds
 qd,ssrb.0,124806,126041,yngurds,125086,125089,mir,yngurds
 qd,ssrb.0,124806,126041,yngurds,125132,125135,ich,yngurds
+qd,ssrb.0,124806,126041,yngurds,125143,125146,ich,yngurds
 qd,ssrb.0,124806,126041,yngurds,125293,125296,ich,yngurds
 qd,ssrb.0,124806,126041,yngurds,125341,125345,mein,yngurds
 qd,ssrb.0,124806,126041,yngurds,125363,125369,meinen,yngurds
@@ -734,12 +757,14 @@ qd,ssrb.0,126558,127322,yngurds,127202,127205,ich,yngurds
 qd,ssrb.0,126558,127322,yngurds,127211,127214,mir,yngurds
 qd,ssrb.0,126558,127322,yngurds,127239,127242,Ich,yngurds
 qd,ssrb.0,127464,127732,yngurds,127615,127618,mir,yngurds
+qd,ssrb.0,127464,127732,yngurds,127633,127637,mich,yngurds
 qd,ssrb.0,127738,127988,irma,127832,127835,ich,irma
 qd,ssrb.0,127738,127988,irma,127880,127884,mich,irma
 qd,ssrb.0,127738,127988,irma,127897,127903,meinem,irma
 qd,ssrb.0,127738,127988,irma,127943,127946,mir,irma
 qd,ssrb.0,128070,128169,irma,128139,128142,ich,irma
 qd,ssrb.0,128233,128834,irma,128292,128295,Ich,irma
+qd,ssrb.0,128233,128834,irma,128326,128329,ich,irma
 qd,ssrb.0,128233,128834,irma,128343,128346,Ich,irma
 qd,ssrb.0,128233,128834,irma,128472,128476,mein,irma
 qd,ssrb.0,128233,128834,irma,128534,128538,mein,irma
@@ -760,10 +785,12 @@ qd,ssrb.0,131074,131493,yngurds,131229,131232,ich,yngurds
 qd,ssrb.0,131074,131493,yngurds,131432,131435,ich,yngurds
 qd,ssrb.0,131074,131493,yngurds,131454,131457,ich,yngurds
 qd,ssrb.0,131499,131703,alf,131593,131596,Mir,alf
+qd,ssrb.0,131499,131703,alf,131684,131687,ich,alf
 qd,ssrb.0,131744,131944,alf,131791,131794,mir,alf
 qd,ssrb.0,131744,131944,alf,131831,131836,meine,alf
 qd,ssrb.0,131744,131944,alf,131861,131864,Ich,alf
 qd,ssrb.0,131744,131944,alf,131892,131895,mir,alf
+qd,ssrb.0,132067,132545,alf,132078,132081,ich,alf
 qd,ssrb.0,132067,132545,alf,132098,132101,mir,alf
 qd,ssrb.0,132067,132545,alf,132230,132233,Ich,alf
 qd,ssrb.0,132067,132545,alf,132268,132271,ich,alf
@@ -884,6 +911,7 @@ qd,ssrb.0,146999,147263,oskar,147191,147195,mich,oskar
 qd,ssrb.0,146999,147263,oskar,147242,147246,mich,oskar
 qd,ssrb.0,147396,147616,oskar,147404,147407,Ich,oskar
 qd,ssrb.0,147396,147616,oskar,147532,147536,mich,oskar
+qd,ssrb.0,147622,147873,marduff,147698,147701,ich,marduff
 qd,ssrb.0,148417,148846,oskar,148761,148764,ich,oskar
 qd,ssrb.0,148852,149013,marduff,148988,148991,ich,marduff
 qd,ssrb.0,149112,149312,oskar,149153,149156,ich,oskar
@@ -899,7 +927,9 @@ qd,ssrb.0,149670,151845,marduff,150748,150751,ich,marduff
 qd,ssrb.0,149670,151845,marduff,151229,151233,mich,marduff
 qd,ssrb.0,149670,151845,marduff,151238,151241,Ich,marduff
 qd,ssrb.0,149670,151845,marduff,151263,151266,Mir,marduff
+qd,ssrb.0,149670,151845,marduff,151449,151452,ich,marduff
 qd,ssrb.0,149670,151845,marduff,151479,151483,mich,marduff
+qd,ssrb.0,149670,151845,marduff,151549,151553,mich,marduff
 qd,ssrb.0,149670,151845,marduff,151572,151575,ich,marduff
 qd,ssrb.0,149670,151845,marduff,151675,151678,ich,marduff
 qd,ssrb.0,149670,151845,marduff,151695,151698,Mir,marduff
@@ -911,7 +941,6 @@ qd,ssrb.0,152422,152479,oskar,152462,152465,ich,oskar
 qd,ssrb.0,152484,152667,marduff,152534,152537,Mir,marduff
 qd,ssrb.0,152484,152667,marduff,152566,152569,ich,marduff
 qd,ssrb.0,152484,152667,marduff,152624,152627,ich,marduff
-qd,ssrb.0,152674,153584,oskar,153323,153328,meine,oskar
 qd,ssrb.0,152674,153584,oskar,153503,153506,mir,oskar
 qd,ssrb.0,153590,153910,marduff,153693,153696,ich,marduff
 qd,ssrb.0,153590,153910,marduff,153714,153717,mir,marduff
@@ -923,6 +952,7 @@ qd,ssrb.0,154025,154059,marduff,154054,154058,Mich,marduff
 qd,ssrb.0,154148,154346,marduff,154173,154176,Ich,marduff
 qd,ssrb.0,154353,154379,oskar,154375,154378,mir,oskar
 qd,ssrb.0,154384,154643,marduff,154398,154401,Ich,marduff
+qd,ssrb.0,154384,154643,marduff,154599,154602,ich,marduff
 qd,ssrb.0,154649,154795,oskar,154698,154702,Mein,oskar
 qd,ssrb.0,155144,155364,marduff,155200,155203,ich,marduff
 qd,ssrb.0,155144,155364,marduff,155240,155243,mir,marduff
@@ -935,6 +965,7 @@ qd,ssrb.0,156067,156308,marduff,156143,156146,Ich,marduff
 qd,ssrb.0,156067,156308,marduff,156225,156229,mich,marduff
 qd,ssrb.0,156067,156308,marduff,156236,156240,mich,marduff
 qd,ssrb.0,156067,156308,marduff,156241,156245,mein,marduff
+qd,ssrb.0,156067,156308,marduff,156288,156291,ich,marduff
 qd,ssrb.0,156435,156537,marduff,156492,156496,mich,marduff
 qd,ssrb.0,156543,157096,oskar,156554,156557,ich,oskar
 qd,ssrb.0,156543,157096,oskar,156599,156602,Ich,oskar
@@ -948,6 +979,7 @@ qd,ssrb.0,156543,157096,oskar,156806,156810,mich,oskar
 qd,ssrb.0,156543,157096,oskar,156929,156935,meinen,oskar
 qd,ssrb.0,156543,157096,oskar,156981,156984,mir,oskar
 qd,ssrb.0,156543,157096,oskar,157061,157065,mein,oskar
+qd,ssrb.0,157102,157562,marduff,157167,157170,ich,marduff
 qd,ssrb.0,157102,157562,marduff,157329,157332,mir,marduff
 qd,ssrb.0,157102,157562,marduff,157357,157360,ich,marduff
 qd,ssrb.0,157102,157562,marduff,157478,157481,ich,marduff
@@ -971,6 +1003,7 @@ qd,ssrb.0,157851,159131,oskar,158988,158992,Mich,oskar
 qd,ssrb.0,157851,159131,oskar,159029,159033,mich,oskar
 qd,ssrb.0,157851,159131,oskar,159060,159063,ich,oskar
 qd,ssrb.0,162615,162687,irma,162631,162634,ich,irma
+qd,ssrb.0,162693,162763,yngurds,162749,162752,ich,yngurds
 qd,ssrb.0,163193,163415,yngurds,163269,163274,meine,yngurds
 qd,ssrb.0,163421,163491,irma,163436,163439,ich,irma
 qd,ssrb.0,164145,165171,brunhilde,164306,164310,mich,brunhilde
@@ -987,6 +1020,7 @@ qd,ssrb.0,165176,165372,irma,165307,165310,ich,irma
 qd,ssrb.0,165176,165372,irma,165351,165357,meines,irma
 qd,ssrb.0,165379,165560,brunhilde,165498,165501,Ich,brunhilde
 qd,ssrb.0,165873,166846,brunhilde,165970,165973,ich,brunhilde
+qd,ssrb.0,165873,166846,brunhilde,166003,166006,mir,brunhilde
 qd,ssrb.0,165873,166846,brunhilde,166040,166043,mir,brunhilde
 qd,ssrb.0,165873,166846,brunhilde,166063,166069,meinem,brunhilde
 qd,ssrb.0,165873,166846,brunhilde,166130,166133,ich,brunhilde
@@ -1015,6 +1049,8 @@ qd,ssrb.0,167027,168251,brunhilde,167468,167473,meine,brunhilde
 qd,ssrb.0,167027,168251,brunhilde,167963,167966,ich,brunhilde
 qd,ssrb.0,167027,168251,brunhilde,167999,168002,ich,brunhilde
 qd,ssrb.0,167027,168251,brunhilde,168047,168053,meinen,brunhilde
+qd,ssrb.0,168521,169906,brunhilde,168546,168549,ich,brunhilde
+qd,ssrb.0,168521,169906,brunhilde,168565,168568,mir,brunhilde
 qd,ssrb.0,168521,169906,brunhilde,168605,168608,Ich,brunhilde
 qd,ssrb.0,168521,169906,brunhilde,168680,168683,ich,brunhilde
 qd,ssrb.0,168521,169906,brunhilde,168770,168773,mir,brunhilde
@@ -1078,6 +1114,7 @@ qd,ssrb.0,177619,177718,asla,177703,177706,ich,asla
 qd,ssrb.0,177724,177884,yngurds,177770,177774,mich,yngurds
 qd,ssrb.0,177724,177884,yngurds,177776,177779,ich,yngurds
 qd,ssrb.0,177724,177884,yngurds,177809,177814,meine,yngurds
+qd,ssrb.0,177724,177884,yngurds,177824,177827,ich,yngurds
 qd,ssrb.0,178070,178202,asla,178109,178112,ich,asla
 qd,ssrb.0,178070,178202,asla,178185,178189,mein,asla
 qd,ssrb.0,178208,178247,irma,178233,178238,meine,irma
@@ -1121,6 +1158,7 @@ qd,ssrb.0,185998,186197,gyldenbrog,186062,186065,ich,gyldenbrog
 qd,ssrb.0,185998,186197,gyldenbrog,186098,186101,Ich,gyldenbrog
 qd,ssrb.0,187015,187146,alf,187116,187121,meine,alf
 qd,ssrb.0,188815,189516,yngurds,188829,188832,ich,yngurds
+qd,ssrb.0,188815,189516,yngurds,188873,188876,mir,yngurds
 qd,ssrb.0,188815,189516,yngurds,188896,188899,ich,yngurds
 qd,ssrb.0,188815,189516,yngurds,188914,188918,Mein,yngurds
 qd,ssrb.0,188815,189516,yngurds,188967,188972,meine,yngurds

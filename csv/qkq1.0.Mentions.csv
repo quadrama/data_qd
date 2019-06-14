@@ -54,6 +54,7 @@ qd,qkq1.0,9051,9416,herzog,9283,9286,Ich,herzog
 qd,qkq1.0,9051,9416,herzog,9302,9305,ich,herzog
 qd,qkq1.0,9422,9474,la_coste,9432,9435,Ich,la_coste
 qd,qkq1.0,9479,9766,herzog,9624,9627,Ich,herzog
+qd,qkq1.0,9479,9766,herzog,9657,9660,ich,herzog
 qd,qkq1.0,9772,9853,la_coste,9823,9826,Ich,la_coste
 qd,qkq1.0,9859,10002,speckbachers_stimme,9881,9884,Mir,speckbachers_stimme
 qd,qkq1.0,9859,10002,speckbachers_stimme,9909,9915,meiner,speckbachers_stimme
@@ -161,6 +162,7 @@ qd,qkq1.0,25020,26195,hofer,25284,25289,meine,hofer
 qd,qkq1.0,25020,26195,hofer,25555,25558,ich,hofer
 qd,qkq1.0,26384,26527,hofer,26417,26420,ich,hofer
 qd,qkq1.0,26384,26527,hofer,26480,26483,Ich,hofer
+qd,qkq1.0,26384,26527,hofer,26515,26518,ich,hofer
 qd,qkq1.0,26634,26939,hofer,26666,26670,mich,hofer
 qd,qkq1.0,26634,26939,hofer,26680,26683,ich,hofer
 qd,qkq1.0,26634,26939,hofer,26694,26697,ich,hofer
@@ -176,6 +178,7 @@ qd,qkq1.0,27701,27970,hofer,27842,27845,Ich,hofer
 qd,qkq1.0,27701,27970,hofer,27891,27894,ich,hofer
 qd,qkq1.0,28240,28395,hofer,28278,28281,Ich,hofer
 qd,qkq1.0,28240,28395,hofer,28335,28338,Ich,hofer
+qd,qkq1.0,28451,28573,hofer,28468,28471,ich,hofer
 qd,qkq1.0,28579,28706,speckbachers_stimme,28602,28606,mein,speckbachers_stimme
 qd,qkq1.0,28579,28706,speckbachers_stimme,28673,28676,ich,speckbachers_stimme
 qd,qkq1.0,29247,29527,hofer,29288,29291,mir,hofer
@@ -226,6 +229,7 @@ qd,qkq1.0,35988,36834,herzog,36060,36063,ich,herzog
 qd,qkq1.0,35988,36834,herzog,36145,36149,mich,herzog
 qd,qkq1.0,35988,36834,herzog,36167,36170,Ich,herzog
 qd,qkq1.0,35988,36834,herzog,36365,36369,mich,herzog
+qd,qkq1.0,35988,36834,herzog,36463,36466,ich,herzog
 qd,qkq1.0,35988,36834,herzog,36524,36527,ich,herzog
 qd,qkq1.0,35988,36834,herzog,36551,36555,mich,herzog
 qd,qkq1.0,35988,36834,herzog,36589,36592,ich,herzog
@@ -271,6 +275,7 @@ qd,qkq1.0,44448,44839,frau_straubing,44681,44684,ich,frau_straubing
 qd,qkq1.0,44845,44892,hofer,44852,44855,Ich,hofer
 qd,qkq1.0,44897,44959,frau_straubing,44927,44930,ich,frau_straubing
 qd,qkq1.0,44897,44959,frau_straubing,44931,44935,mich,frau_straubing
+qd,qkq1.0,44897,44959,frau_straubing,44947,44950,ich,frau_straubing
 qd,qkq1.0,44964,45022,hofer,44981,44985,mich,hofer
 qd,qkq1.0,44964,45022,hofer,44995,44998,ich,hofer
 qd,qkq1.0,45027,45092,frau_straubing,45053,45056,ich,frau_straubing
@@ -281,6 +286,7 @@ qd,qkq1.0,45155,45416,frau_straubing,45399,45402,ich,frau_straubing
 qd,qkq1.0,45155,45416,frau_straubing,45406,45410,mein,frau_straubing
 qd,qkq1.0,45422,45539,hofer,45430,45433,Ich,hofer
 qd,qkq1.0,45422,45539,hofer,45454,45457,Ich,hofer
+qd,qkq1.0,45545,45695,frau_straubing,45629,45632,mir,frau_straubing
 qd,qkq1.0,45545,45695,frau_straubing,45653,45657,Mein,frau_straubing
 qd,qkq1.0,45743,46074,frau_straubing,45805,45809,mein,frau_straubing
 qd,qkq1.0,45743,46074,frau_straubing,45871,45874,Ich,frau_straubing
@@ -297,6 +303,7 @@ qd,qkq1.0,47088,47269,frau_straubing,47160,47164,mich,frau_straubing
 qd,qkq1.0,47088,47269,frau_straubing,47197,47200,mir,frau_straubing
 qd,qkq1.0,47088,47269,frau_straubing,47219,47222,ich,frau_straubing
 qd,qkq1.0,47274,47455,hofer,47432,47435,ich,hofer
+qd,qkq1.0,47605,47684,hofer,47646,47649,ich,hofer
 qd,qkq1.0,47956,48117,hofer,48036,48039,Ich,hofer
 qd,qkq1.0,47956,48117,hofer,48049,48055,meinen,hofer
 qd,qkq1.0,48206,48435,hofer,48381,48386,meine,hofer
@@ -484,6 +491,7 @@ qd,qkq1.0,79779,79867,paraguay,79794,79797,ich,paraguay
 qd,qkq1.0,79779,79867,paraguay,79828,79831,Ich,paraguay
 qd,qkq1.0,79873,80042,vizekönig,79956,79959,Ich,vizekönig
 qd,qkq1.0,80668,81107,vizekönig,80778,80782,mich,vizekönig
+qd,qkq1.0,81113,81219,paraguay,81137,81140,ich,paraguay
 qd,qkq1.0,81226,81686,vizekönig,81267,81271,mich,vizekönig
 qd,qkq1.0,81226,81686,vizekönig,81314,81317,ich,vizekönig
 qd,qkq1.0,81226,81686,vizekönig,81352,81356,mich,vizekönig
@@ -495,6 +503,7 @@ qd,qkq1.0,82064,82426,vizekönig,82127,82130,Ich,vizekönig
 qd,qkq1.0,82064,82426,vizekönig,82243,82246,ich,vizekönig
 qd,qkq1.0,82064,82426,vizekönig,82291,82294,mir,vizekönig
 qd,qkq1.0,82064,82426,vizekönig,82394,82398,mein,vizekönig
+qd,qkq1.0,82532,82828,vizekönig,82774,82777,ich,vizekönig
 qd,qkq1.0,82962,83006,hofer,82977,82980,ich,hofer
 qd,qkq1.0,82962,83006,hofer,82982,82986,mein,hofer
 qd,qkq1.0,83011,83250,vizekönig,83189,83192,mir,vizekönig
@@ -513,6 +522,7 @@ qd,qkq1.0,84182,84352,hofer,84198,84201,ich,hofer
 qd,qkq1.0,84182,84352,hofer,84324,84327,ich,hofer
 qd,qkq1.0,84182,84352,hofer,84347,84351,mich,hofer
 qd,qkq1.0,84358,84491,vizekönig,84390,84393,mir,vizekönig
+qd,qkq1.0,84633,84681,hofer,84668,84671,mir,hofer
 qd,qkq1.0,84761,84833,vizekönig,84801,84804,Ich,vizekönig
 qd,qkq1.0,84838,86046,hofer,84879,84883,mein,hofer
 qd,qkq1.0,84838,86046,hofer,84891,84894,ich,hofer
@@ -580,6 +590,7 @@ qd,qkq1.0,91097,92153,vizekönig,91209,91212,ich,vizekönig
 qd,qkq1.0,91097,92153,vizekönig,91238,91242,mich,vizekönig
 qd,qkq1.0,91097,92153,vizekönig,91258,91261,ich,vizekönig
 qd,qkq1.0,91097,92153,vizekönig,91276,91281,meine,vizekönig
+qd,qkq1.0,91097,92153,vizekönig,91607,91610,ich,vizekönig
 qd,qkq1.0,91097,92153,vizekönig,91634,91637,mir,vizekönig
 qd,qkq1.0,91097,92153,vizekönig,91727,91730,ich,vizekönig
 qd,qkq1.0,92159,92294,hofer,92167,92171,Mein,hofer
@@ -598,6 +609,7 @@ qd,qkq1.0,92409,93242,hofer,93130,93133,ich,hofer
 qd,qkq1.0,92409,93242,hofer,93146,93149,ich,hofer
 qd,qkq1.0,93308,93361,hofer,93315,93318,Ich,hofer
 qd,qkq1.0,93366,93774,vizekönig,93402,93405,ich,vizekönig
+qd,qkq1.0,93366,93774,vizekönig,93757,93760,ich,vizekönig
 qd,qkq1.0,93780,93995,hofer,93793,93796,ich,hofer
 qd,qkq1.0,93780,93995,hofer,93845,93848,mir,hofer
 qd,qkq1.0,93780,93995,hofer,93864,93867,ich,hofer
@@ -615,6 +627,7 @@ qd,qkq1.0,95022,95603,hofer,95215,95218,Ich,hofer
 qd,qkq1.0,95022,95603,hofer,95255,95258,ich,hofer
 qd,qkq1.0,95022,95603,hofer,95259,95264,meine,hofer
 qd,qkq1.0,95022,95603,hofer,95299,95303,mich,hofer
+qd,qkq1.0,95022,95603,hofer,95315,95318,ich,hofer
 qd,qkq1.0,95609,95666,vizekönig,95629,95632,Ich,vizekönig
 qd,qkq1.0,95671,95745,hofer,95679,95682,Ich,hofer
 qd,qkq1.0,96014,96128,vizekönig,96046,96049,ich,vizekönig

@@ -64,6 +64,7 @@ qd,x82c.0,11388,12353,der_vater,12172,12177,meine,der_vater
 qd,x82c.0,12551,12685,mutter,12635,12638,ich,mutter
 qd,x82c.0,12891,13099,mutter,13050,13053,ich,mutter
 qd,x82c.0,12891,13099,mutter,13064,13067,mir,mutter
+qd,x82c.0,13105,13307,der_vater,13209,13212,mir,der_vater
 qd,x82c.0,13105,13307,der_vater,13251,13254,ich,der_vater
 qd,x82c.0,13877,14020,mutter,13980,13984,Mein,mutter
 qd,x82c.0,15047,15157,mutter,15107,15110,Ich,mutter
@@ -127,6 +128,7 @@ qd,x82c.0,30501,30936,hexe,30634,30638,mein,hexe
 qd,x82c.0,30501,30936,hexe,30670,30673,mir,hexe
 qd,x82c.0,30942,31018,hänsel,30951,30954,Ich,hänsel
 qd,x82c.0,31024,31289,hexe,31070,31073,ich,hexe
+qd,x82c.0,31024,31289,hexe,31074,31078,mein,hexe
 qd,x82c.0,31024,31289,hexe,31118,31121,mir,hexe
 qd,x82c.0,31024,31289,hexe,31177,31181,mein,hexe
 qd,x82c.0,31024,31289,hexe,31213,31216,mir,hexe
@@ -148,6 +150,7 @@ qd,x82c.0,34236,36402,hexe,34505,34508,ich,hexe
 qd,x82c.0,34236,36402,hexe,35024,35028,mein,hexe
 qd,x82c.0,34236,36402,hexe,35132,35136,mein,hexe
 qd,x82c.0,34236,36402,hexe,35357,35361,mein,hexe
+qd,x82c.0,34236,36402,hexe,35402,35405,ich,hexe
 qd,x82c.0,34236,36402,hexe,35879,35883,mein,hexe
 qd,x82c.0,34236,36402,hexe,35902,35905,mir,hexe
 qd,x82c.0,34236,36402,hexe,36053,36056,mir,hexe
@@ -156,12 +159,15 @@ qd,x82c.0,36758,36826,gretel,36810,36814,mein,gretel
 qd,x82c.0,36859,36907,gretel,36891,36895,mein,gretel
 qd,x82c.0,36912,37196,hexe,36977,36981,Mein,hexe
 qd,x82c.0,37275,37577,hexe,37322,37325,mir,hexe
+qd,x82c.0,37655,37735,gretel,37705,37708,ich,gretel
 qd,x82c.0,37655,37735,gretel,37720,37723,ich,gretel
+qd,x82c.0,37933,38049,gretel,37978,37981,mir,gretel
 qd,x82c.0,37933,38049,gretel,38009,38012,mir,gretel
 qd,x82c.0,37933,38049,gretel,38029,38032,ich,gretel
 qd,x82c.0,37933,38049,gretel,38033,38037,mich,gretel
 qd,x82c.0,39688,39751,die_kuchenkinder,39719,39723,mich,die_kuchenkinder
 qd,x82c.0,39688,39751,die_kuchenkinder,39733,39736,ich,die_kuchenkinder
 qd,x82c.0,39757,39819,hänsel,39798,39801,ich,hänsel
+qd,x82c.0,39757,39819,hänsel,39807,39810,mir,hänsel
 qd,x82c.0,39949,40184,andre_kuchenkinder,39992,39996,mich,andre_kuchenkinder
 qd,x82c.0,39949,40184,andre_kuchenkinder,40011,40014,ich,andre_kuchenkinder

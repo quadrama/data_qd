@@ -5,6 +5,8 @@ qd,x5bv.0,10136,13019,trude,10668,10671,ich,trude
 qd,x5bv.0,10136,13019,trude,10692,10696,mich,trude
 qd,x5bv.0,10136,13019,trude,10715,10719,mein,trude
 qd,x5bv.0,10136,13019,trude,10796,10800,Mich,trude
+qd,x5bv.0,10136,13019,trude,10999,11002,mir,trude
+qd,x5bv.0,10136,13019,trude,11283,11286,ich,trude
 qd,x5bv.0,10136,13019,trude,11314,11317,ich,trude
 qd,x5bv.0,10136,13019,trude,11342,11345,Ich,trude
 qd,x5bv.0,10136,13019,trude,11512,11515,Ich,trude
@@ -40,6 +42,7 @@ qd,x5bv.0,17043,17650,kunz,17449,17452,Ich,kunz
 qd,x5bv.0,17043,17650,kunz,17544,17547,ich,kunz
 qd,x5bv.0,17043,17650,kunz,17590,17593,Ich,kunz
 qd,x5bv.0,17043,17650,kunz,17613,17616,mir,kunz
+qd,x5bv.0,17813,17917,trude,17846,17849,Mir,trude
 qd,x5bv.0,17813,17917,trude,17882,17885,ich,trude
 qd,x5bv.0,17813,17917,trude,17890,17896,meinem,trude
 qd,x5bv.0,17923,18460,kunz,17966,17969,Ich,kunz
@@ -76,6 +79,7 @@ qd,x5bv.0,21861,21879,trude,21873,21876,mir,trude
 qd,x5bv.0,21884,23794,kunz,21908,21911,ich,kunz
 qd,x5bv.0,21884,23794,kunz,22057,22060,ich,kunz
 qd,x5bv.0,21884,23794,kunz,22121,22124,ich,kunz
+qd,x5bv.0,21884,23794,kunz,22298,22301,mir,kunz
 qd,x5bv.0,21884,23794,kunz,22314,22317,ich,kunz
 qd,x5bv.0,21884,23794,kunz,22334,22338,Mein,kunz
 qd,x5bv.0,21884,23794,kunz,22391,22395,mich,kunz
@@ -127,6 +131,7 @@ qd,x5bv.0,28275,28318,kurt,28288,28291,ich,kurt
 qd,x5bv.0,28382,28462,kunz,28428,28431,ich,kunz
 qd,x5bv.0,28382,28462,kunz,28432,28436,mich,kunz
 qd,x5bv.0,28468,28563,kurt,28502,28505,mir,kurt
+qd,x5bv.0,28468,28563,kurt,28527,28531,Mein,kurt
 qd,x5bv.0,28468,28563,kurt,28550,28553,ich,kurt
 qd,x5bv.0,28814,28921,kurt,28886,28889,ich,kurt
 qd,x5bv.0,29536,29703,kunz,29553,29556,ich,kunz
@@ -147,6 +152,7 @@ qd,x5bv.0,30406,30581,kurt,30418,30421,mir,kurt
 qd,x5bv.0,30406,30581,kurt,30446,30449,ich,kurt
 qd,x5bv.0,30406,30581,kurt,30467,30470,Ich,kurt
 qd,x5bv.0,31114,31591,kunz,31151,31154,ich,kunz
+qd,x5bv.0,31114,31591,kunz,31181,31184,ich,kunz
 qd,x5bv.0,31114,31591,kunz,31200,31203,Ich,kunz
 qd,x5bv.0,31114,31591,kunz,31286,31290,mich,kunz
 qd,x5bv.0,31114,31591,kunz,31389,31392,mir,kunz
@@ -221,6 +227,7 @@ qd,x5bv.0,39109,39763,trude,39201,39204,ich,trude
 qd,x5bv.0,39109,39763,trude,39250,39253,ich,trude
 qd,x5bv.0,39109,39763,trude,39258,39264,meinem,trude
 qd,x5bv.0,39109,39763,trude,39293,39296,mir,trude
+qd,x5bv.0,39109,39763,trude,39546,39549,Ich,trude
 qd,x5bv.0,39109,39763,trude,39680,39683,mir,trude
 qd,x5bv.0,39836,40002,kunz,39960,39963,ich,kunz
 qd,x5bv.0,40048,40073,kurt,40054,40057,Ich,kurt
@@ -253,6 +260,7 @@ qd,x5bv.0,42789,43327,kurt,43290,43293,ich,kurt
 qd,x5bv.0,43805,44089,kurt,43812,43815,Ich,kurt
 qd,x5bv.0,43805,44089,kurt,44058,44062,mich,kurt
 qd,x5bv.0,44481,45018,kurt,44498,44502,mein,kurt
+qd,x5bv.0,44481,45018,kurt,44513,44516,mir,kurt
 qd,x5bv.0,44481,45018,kurt,44733,44737,mich,kurt
 qd,x5bv.0,44481,45018,kurt,44819,44823,mich,kurt
 qd,x5bv.0,45139,45599,kurt,45273,45277,Mein,kurt
@@ -289,6 +297,7 @@ qd,x5bv.0,48038,48171,kurt,48159,48165,meinem,kurt
 qd,x5bv.0,48177,48253,trude,48228,48231,ich,trude
 qd,x5bv.0,48475,48528,trude,48482,48485,Ich,trude
 qd,x5bv.0,48533,48586,kurt,48574,48578,mich,kurt
+qd,x5bv.0,48592,48700,kunz,48604,48607,ich,kunz
 qd,x5bv.0,48592,48700,kunz,48681,48685,mich,kunz
 qd,x5bv.0,48865,48905,kurt,48884,48888,mich,kurt
 qd,x5bv.0,49026,49107,kurt,49046,49051,meine,kurt
@@ -304,6 +313,7 @@ qd,x5bv.0,51018,51111,kunz,51035,51039,mich,kunz
 qd,x5bv.0,51018,51111,kunz,51076,51079,ich,kunz
 qd,x5bv.0,51117,51327,trude,51148,51151,mir,trude
 qd,x5bv.0,51117,51327,trude,51265,51271,meinem,trude
+qd,x5bv.0,51333,51976,kunz,51381,51384,ich,kunz
 qd,x5bv.0,51333,51976,kunz,51396,51399,Ich,kunz
 qd,x5bv.0,51333,51976,kunz,51420,51423,mir,kunz
 qd,x5bv.0,51333,51976,kunz,51858,51862,mein,kunz
@@ -316,6 +326,8 @@ qd,x5bv.0,52784,53229,kunz,52908,52911,Ich,kunz
 qd,x5bv.0,52784,53229,kunz,52930,52933,ich,kunz
 qd,x5bv.0,52784,53229,kunz,52975,52978,mir,kunz
 qd,x5bv.0,53635,53768,kunz,53642,53645,Ich,kunz
+qd,x5bv.0,53635,53768,kunz,53719,53722,ich,kunz
+qd,x5bv.0,53635,53768,kunz,53740,53743,ich,kunz
 qd,x5bv.0,53774,54144,kurt,53801,53805,mich,kurt
 qd,x5bv.0,53774,54144,kurt,53945,53949,mich,kurt
 qd,x5bv.0,53774,54144,kurt,54019,54023,mich,kurt
@@ -355,10 +367,12 @@ qd,x5bv.0,57370,58109,kurt,57427,57430,Ich,kurt
 qd,x5bv.0,57370,58109,kurt,57544,57547,mir,kurt
 qd,x5bv.0,57370,58109,kurt,57599,57603,mich,kurt
 qd,x5bv.0,57370,58109,kurt,57667,57671,mein,kurt
+qd,x5bv.0,57370,58109,kurt,57738,57741,ich,kurt
 qd,x5bv.0,57370,58109,kurt,57753,57756,Mir,kurt
 qd,x5bv.0,57370,58109,kurt,57806,57810,Mein,kurt
 qd,x5bv.0,57370,58109,kurt,57877,57880,mir,kurt
 qd,x5bv.0,58137,58160,trude,58144,58147,Ich,trude
+qd,x5bv.0,58165,58325,kunz,58185,58188,mir,kunz
 qd,x5bv.0,58330,58473,kurt,58368,58372,mein,kurt
 qd,x5bv.0,59000,59119,kunz,59109,59112,mir,kunz
 qd,x5bv.0,59226,60086,kurt,59302,59305,ich,kurt
@@ -369,6 +383,7 @@ qd,x5bv.0,59226,60086,kurt,59440,59444,mein,kurt
 qd,x5bv.0,59226,60086,kurt,59462,59465,Mir,kurt
 qd,x5bv.0,59226,60086,kurt,59676,59679,mir,kurt
 qd,x5bv.0,59226,60086,kurt,59760,59763,ich,kurt
+qd,x5bv.0,59226,60086,kurt,59836,59839,ich,kurt
 qd,x5bv.0,59226,60086,kurt,59865,59871,meiner,kurt
 qd,x5bv.0,59226,60086,kurt,59976,59979,mir,kurt
 qd,x5bv.0,60316,60407,kunz,60340,60343,ich,kunz
@@ -376,6 +391,7 @@ qd,x5bv.0,60442,60749,kunz,60477,60480,Ich,kunz
 qd,x5bv.0,60442,60749,kunz,60509,60512,Ich,kunz
 qd,x5bv.0,60442,60749,kunz,60738,60741,ich,kunz
 qd,x5bv.0,60789,60996,kunz,60804,60807,ich,kunz
+qd,x5bv.0,60789,60996,kunz,60875,60878,mir,kunz
 qd,x5bv.0,60789,60996,kunz,60897,60901,Mich,kunz
 qd,x5bv.0,60789,60996,kunz,60924,60927,ich,kunz
 qd,x5bv.0,60789,60996,kunz,60972,60975,Ich,kunz
@@ -395,6 +411,7 @@ qd,x5bv.0,63539,63708,kunz,63648,63652,mich,kunz
 qd,x5bv.0,63539,63708,kunz,63672,63675,ich,kunz
 qd,x5bv.0,64061,64848,kunz,64094,64097,Ich,kunz
 qd,x5bv.0,64061,64848,kunz,64114,64118,mich,kunz
+qd,x5bv.0,64061,64848,kunz,64142,64146,mich,kunz
 qd,x5bv.0,64061,64848,kunz,64316,64319,ich,kunz
 qd,x5bv.0,64061,64848,kunz,64328,64331,ich,kunz
 qd,x5bv.0,64061,64848,kunz,64361,64364,ich,kunz

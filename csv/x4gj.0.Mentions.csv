@@ -179,6 +179,7 @@ qd,x4gj.0,23130,23764,königin,23421,23424,ich,königin
 qd,x4gj.0,23130,23764,königin,23448,23452,Mein,königin
 qd,x4gj.0,23130,23764,königin,23463,23466,mir,königin
 qd,x4gj.0,23130,23764,königin,23540,23543,ich,königin
+qd,x4gj.0,23130,23764,königin,23544,23548,mich,königin
 qd,x4gj.0,23130,23764,königin,23564,23567,mir,königin
 qd,x4gj.0,23130,23764,königin,23606,23609,ich,königin
 qd,x4gj.0,23130,23764,königin,23678,23683,meine,königin
@@ -267,6 +268,9 @@ qd,x4gj.0,31242,31365,thyest,31291,31295,mein,thyest
 qd,x4gj.0,31242,31365,thyest,31321,31324,ich,thyest
 qd,x4gj.0,31242,31365,thyest,31342,31345,ich,thyest
 qd,x4gj.0,31371,31458,atreus,31427,31433,meinem,atreus
+qd,x4gj.0,31464,31494,thyest,31488,31491,mir,thyest
+qd,x4gj.0,31772,31825,atreus,31797,31800,mir,atreus
+qd,x4gj.0,31772,31825,atreus,31809,31812,ich,atreus
 qd,x4gj.0,31912,31953,atreus,31934,31937,mir,atreus
 qd,x4gj.0,31959,32366,thyest,32094,32100,meiner,thyest
 qd,x4gj.0,31959,32366,thyest,32140,32143,mir,thyest
@@ -301,6 +305,7 @@ qd,x4gj.0,34726,34882,atreus,34822,34826,mein,atreus
 qd,x4gj.0,34952,35061,atreus,35019,35025,meinen,atreus
 qd,x4gj.0,36043,36754,atreus,36060,36063,ich,atreus
 qd,x4gj.0,36043,36754,atreus,36126,36130,mein,atreus
+qd,x4gj.0,36043,36754,atreus,36243,36246,mir,atreus
 qd,x4gj.0,36043,36754,atreus,36314,36318,mich,atreus
 qd,x4gj.0,36043,36754,atreus,36353,36356,mir,atreus
 qd,x4gj.0,36043,36754,atreus,36384,36387,ich,atreus
@@ -548,6 +553,7 @@ qd,x4gj.0,60800,60990,priester,60833,60836,mir,priester
 qd,x4gj.0,60800,60990,priester,60864,60867,mir,priester
 qd,x4gj.0,60800,60990,priester,60883,60886,Ich,priester
 qd,x4gj.0,60996,61148,thyest,61009,61012,mir,thyest
+qd,x4gj.0,60996,61148,thyest,61023,61026,mir,thyest
 qd,x4gj.0,60996,61148,thyest,61074,61077,mir,thyest
 qd,x4gj.0,61154,61646,priester,61197,61200,ich,priester
 qd,x4gj.0,61154,61646,priester,61231,61234,ich,priester
@@ -780,6 +786,7 @@ qd,x4gj.0,83877,84030,aegisth,83898,83901,ich,aegisth
 qd,x4gj.0,83877,84030,aegisth,83923,83928,meine,aegisth
 qd,x4gj.0,83877,84030,aegisth,83936,83939,mir,aegisth
 qd,x4gj.0,83877,84030,aegisth,83986,83989,ich,aegisth
+qd,x4gj.0,83877,84030,aegisth,84005,84008,mir,aegisth
 qd,x4gj.0,83877,84030,aegisth,84011,84015,mein,aegisth
 qd,x4gj.0,84037,84239,thyest,84060,84063,Mir,thyest
 qd,x4gj.0,84037,84239,thyest,84121,84125,mich,thyest

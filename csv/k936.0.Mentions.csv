@@ -27,6 +27,7 @@ qd,k936.0,3988,6185,mephistopheles,4638,4642,mein,mephistopheles
 qd,k936.0,3988,6185,mephistopheles,4655,4658,mir,mephistopheles
 qd,k936.0,3988,6185,mephistopheles,4771,4774,Ich,mephistopheles
 qd,k936.0,3988,6185,mephistopheles,5589,5592,Ich,mephistopheles
+qd,k936.0,6191,7133,faust,6250,6253,ich,faust
 qd,k936.0,6191,7133,faust,6435,6438,ich,faust
 qd,k936.0,6191,7133,faust,6547,6553,meiner,faust
 qd,k936.0,6191,7133,faust,6571,6574,ich,faust
@@ -64,6 +65,7 @@ qd,k936.0,11751,11778,prinz,11758,11761,Ich,prinz
 qd,k936.0,11783,11819,faust,11809,11813,mich,faust
 qd,k936.0,11824,12665,prinz,11837,11841,mich,prinz
 qd,k936.0,11824,12665,prinz,11947,11950,ich,prinz
+qd,k936.0,11824,12665,prinz,11994,11997,ich,prinz
 qd,k936.0,11824,12665,prinz,12089,12092,mir,prinz
 qd,k936.0,11824,12665,prinz,12258,12261,ich,prinz
 qd,k936.0,11824,12665,prinz,12280,12283,ich,prinz
@@ -73,6 +75,7 @@ qd,k936.0,12797,12856,faust,12839,12842,ich,faust
 qd,k936.0,12797,12856,faust,12846,12850,mich,faust
 qd,k936.0,12894,13112,faust,12906,12911,meine,faust
 qd,k936.0,12894,13112,faust,12919,12922,mir,faust
+qd,k936.0,12894,13112,faust,12960,12963,ich,faust
 qd,k936.0,12894,13112,faust,12982,12985,ich,faust
 qd,k936.0,12894,13112,faust,13028,13032,mich,faust
 qd,k936.0,12894,13112,faust,13074,13077,Ich,faust
@@ -128,6 +131,8 @@ qd,k936.0,17663,18409,faust,17711,17714,ich,faust
 qd,k936.0,17663,18409,faust,17755,17758,ich,faust
 qd,k936.0,17663,18409,faust,18060,18063,ich,faust
 qd,k936.0,17663,18409,faust,18113,18116,ich,faust
+qd,k936.0,17663,18409,faust,18211,18214,ich,faust
+qd,k936.0,17663,18409,faust,18248,18251,ich,faust
 qd,k936.0,18415,18965,prinz,18481,18485,mein,prinz
 qd,k936.0,18415,18965,prinz,18492,18495,ich,prinz
 qd,k936.0,18970,19908,prinz,19115,19119,mein,prinz
@@ -164,6 +169,7 @@ qd,k936.0,30007,30963,prinz,30233,30237,mein,prinz
 qd,k936.0,30007,30963,prinz,30280,30284,mich,prinz
 qd,k936.0,30007,30963,prinz,30744,30747,mir,prinz
 qd,k936.0,30007,30963,prinz,30815,30818,ich,prinz
+qd,k936.0,30007,30963,prinz,30845,30848,ich,prinz
 qd,k936.0,30007,30963,prinz,30877,30880,mir,prinz
 qd,k936.0,30007,30963,prinz,30909,30913,mein,prinz
 qd,k936.0,30007,30963,prinz,30938,30941,mir,prinz
@@ -314,6 +320,7 @@ qd,k936.0,52429,52611,domherr,52539,52543,mich,domherr
 qd,k936.0,52681,53239,domherr,52736,52739,Ich,domherr
 qd,k936.0,52681,53239,domherr,52789,52792,ich,domherr
 qd,k936.0,52681,53239,domherr,52837,52840,ich,domherr
+qd,k936.0,52681,53239,domherr,52974,52977,ich,domherr
 qd,k936.0,52681,53239,domherr,53017,53020,ich,domherr
 qd,k936.0,52681,53239,domherr,53036,53039,ich,domherr
 qd,k936.0,53245,53446,bruder,53326,53329,ich,bruder
@@ -321,6 +328,7 @@ qd,k936.0,53245,53446,bruder,53349,53352,ich,bruder
 qd,k936.0,53245,53446,bruder,53384,53387,Ich,bruder
 qd,k936.0,53488,54302,bruder,53531,53534,ich,bruder
 qd,k936.0,53488,54302,bruder,53535,53539,mich,bruder
+qd,k936.0,53488,54302,bruder,53554,53557,ich,bruder
 qd,k936.0,53488,54302,bruder,53613,53616,ich,bruder
 qd,k936.0,53488,54302,bruder,53767,53770,ich,bruder
 qd,k936.0,53488,54302,bruder,53910,53913,ich,bruder
@@ -359,12 +367,12 @@ qd,k936.0,57232,57571,professor,57297,57300,mir,professor
 qd,k936.0,57739,57929,professor,57852,57857,meine,professor
 qd,k936.0,57986,58392,professor,58075,58078,Ich,professor
 qd,k936.0,59293,59591,professor,59380,59383,Ich,professor
-qd,k936.0,59293,59591,professor,59475,59478,Ich,professor
 qd,k936.0,59717,60255,professor,59813,59816,Mir,professor
 qd,k936.0,59717,60255,professor,60041,60044,mir,professor
 qd,k936.0,59717,60255,professor,60197,60200,ich,professor
 qd,k936.0,60261,60368,faust,60277,60281,mich,faust
 qd,k936.0,60261,60368,faust,60335,60338,Ich,faust
+qd,k936.0,60261,60368,faust,60356,60359,ich,faust
 qd,k936.0,60754,60794,professor,60765,60768,Ich,professor
 qd,k936.0,60831,61280,professor,60891,60894,ich,professor
 qd,k936.0,60831,61280,professor,60895,60899,mich,professor
@@ -487,6 +495,7 @@ qd,k936.0,82349,82841,faust,82361,82364,ich,faust
 qd,k936.0,85360,85555,schulmeister,85457,85460,mir,schulmeister
 qd,k936.0,85696,85779,faust,85766,85769,mir,faust
 qd,k936.0,85784,86030,ritter,85793,85796,Mir,ritter
+qd,k936.0,86195,86365,ritter,86209,86212,ich,ritter
 qd,k936.0,86195,86365,ritter,86346,86349,Ich,ritter
 qd,k936.0,87054,87387,schulmeister,87317,87322,meine,schulmeister
 qd,k936.0,87054,87387,schulmeister,87342,87345,ich,schulmeister
@@ -515,6 +524,7 @@ qd,k936.0,93200,94277,schulmeister,93542,93545,ich,schulmeister
 qd,k936.0,93200,94277,schulmeister,93561,93564,mir,schulmeister
 qd,k936.0,93200,94277,schulmeister,93627,93630,ich,schulmeister
 qd,k936.0,93200,94277,schulmeister,93960,93963,mir,schulmeister
+qd,k936.0,93200,94277,schulmeister,94029,94032,ich,schulmeister
 qd,k936.0,93200,94277,schulmeister,94183,94186,ich,schulmeister
 qd,k936.0,93200,94277,schulmeister,94210,94214,mich,schulmeister
 qd,k936.0,93200,94277,schulmeister,94225,94228,ich,schulmeister
@@ -570,6 +580,7 @@ qd,k936.0,102531,103024,faust,102878,102882,mich,faust
 qd,k936.0,102531,103024,faust,102952,102955,mir,faust
 qd,k936.0,102531,103024,faust,103002,103005,ich,faust
 qd,k936.0,103030,103581,mephistopheles,103484,103487,ich,mephistopheles
+qd,k936.0,103030,103581,mephistopheles,103533,103536,mir,mephistopheles
 qd,k936.0,103030,103581,mephistopheles,103560,103563,ich,mephistopheles
 qd,k936.0,104690,104775,hofmarschall,104735,104738,ich,hofmarschall
 qd,k936.0,104781,105172,prälat,104912,104915,ich,prälat
@@ -657,6 +668,7 @@ qd,k936.0,120021,120077,kanzler,120050,120053,Ich,kanzler
 qd,k936.0,120083,120154,narr,120090,120093,Ich,narr
 qd,k936.0,120083,120154,narr,120136,120142,meinem,narr
 qd,k936.0,120563,120613,abenteurer,120603,120606,Ich,abenteurer
+qd,k936.0,120646,120703,abenteurer,120697,120700,mir,abenteurer
 qd,k936.0,120732,120843,abenteurer,120798,120801,ich,abenteurer
 qd,k936.0,120732,120843,abenteurer,120815,120818,ich,abenteurer
 qd,k936.0,120732,120843,abenteurer,120819,120822,mir,abenteurer
@@ -678,11 +690,13 @@ qd,k936.0,125415,125695,hauptmann,125427,125431,Mein,hauptmann
 qd,k936.0,125415,125695,hauptmann,125479,125482,mir,hauptmann
 qd,k936.0,125415,125695,hauptmann,125505,125508,ich,hauptmann
 qd,k936.0,125839,126049,narr,125954,125957,ich,narr
+qd,k936.0,126357,126743,narr,126459,126462,ich,narr
 qd,k936.0,126357,126743,narr,126501,126507,meinem,narr
 qd,k936.0,126357,126743,narr,126517,126523,meinem,narr
 qd,k936.0,126812,126953,narr,126825,126828,ich,narr
 qd,k936.0,127017,127140,faust,127058,127062,mein,faust
 qd,k936.0,127017,127140,faust,127081,127084,mir,faust
+qd,k936.0,127017,127140,faust,127101,127105,mich,faust
 qd,k936.0,127017,127140,faust,127129,127133,mich,faust
 qd,k936.0,127545,127593,kaiser,127582,127586,mich,kaiser
 qd,k936.0,127598,127766,faust,127606,127609,Ich,faust
@@ -707,6 +721,7 @@ qd,k936.0,130073,130127,kaiser,130116,130119,ich,kaiser
 qd,k936.0,130375,130732,kanzler,130436,130439,ich,kanzler
 qd,k936.0,130375,130732,kanzler,130444,130448,mein,kanzler
 qd,k936.0,130375,130732,kanzler,130625,130628,ich,kanzler
+qd,k936.0,130738,131369,kaiser,130946,130949,ich,kaiser
 qd,k936.0,130738,131369,kaiser,130959,130962,Ich,kaiser
 qd,k936.0,130738,131369,kaiser,131037,131040,mir,kaiser
 qd,k936.0,130738,131369,kaiser,131079,131082,ich,kaiser
@@ -721,6 +736,7 @@ qd,k936.0,132515,132926,kanzler,132525,132529,Mein,kanzler
 qd,k936.0,132515,132926,kanzler,132551,132554,ich,kanzler
 qd,k936.0,132515,132926,kanzler,132841,132844,Ich,kanzler
 qd,k936.0,132515,132926,kanzler,132922,132925,ich,kanzler
+qd,k936.0,132987,133015,kanzler,133004,133007,ich,kanzler
 qd,k936.0,134277,134603,kanzler,134297,134300,ich,kanzler
 qd,k936.0,134277,134603,kanzler,134301,134305,mich,kanzler
 qd,k936.0,134277,134603,kanzler,134371,134374,ich,kanzler
@@ -730,6 +746,7 @@ qd,k936.0,134277,134603,kanzler,134462,134466,mein,kanzler
 qd,k936.0,134736,135104,kanzler,134778,134782,mich,kanzler
 qd,k936.0,134736,135104,kanzler,134805,134808,Ich,kanzler
 qd,k936.0,134736,135104,kanzler,134873,134877,mich,kanzler
+qd,k936.0,134736,135104,kanzler,134916,134922,meinen,kanzler
 qd,k936.0,134736,135104,kanzler,135032,135035,ich,kanzler
 qd,k936.0,134736,135104,kanzler,135100,135103,ich,kanzler
 qd,k936.0,135275,135361,kanzler,135356,135360,mich,kanzler
@@ -758,6 +775,7 @@ qd,k936.0,138806,139176,faust,138850,138855,meine,faust
 qd,k936.0,138806,139176,faust,138869,138872,Ich,faust
 qd,k936.0,138806,139176,faust,138892,138896,mein,faust
 qd,k936.0,138806,139176,faust,139036,139040,mich,faust
+qd,k936.0,138806,139176,faust,139054,139057,ich,faust
 qd,k936.0,138806,139176,faust,139090,139093,mir,faust
 qd,k936.0,138806,139176,faust,139100,139105,meine,faust
 qd,k936.0,138806,139176,faust,139115,139118,mir,faust
@@ -774,6 +792,7 @@ qd,k936.0,139751,139840,faust,139828,139832,mich,faust
 qd,k936.0,140035,140439,faust,140086,140089,ich,faust
 qd,k936.0,140035,140439,faust,140343,140347,Mich,faust
 qd,k936.0,140035,140439,faust,140384,140387,ich,faust
+qd,k936.0,140035,140439,faust,140405,140408,ich,faust
 qd,k936.0,140445,140755,kanzler,140470,140473,Mir,kanzler
 qd,k936.0,140445,140755,kanzler,140554,140557,ich,kanzler
 qd,k936.0,141205,141278,der_älteste_der_studenten,141232,141235,Ich,der_älteste_der_studenten
@@ -791,6 +810,7 @@ qd,k936.0,144494,144712,faust,144542,144545,ich,faust
 qd,k936.0,145695,145924,ritter,145724,145730,meiner,ritter
 qd,k936.0,145930,147293,ritter,146272,146275,mir,ritter
 qd,k936.0,145930,147293,ritter,146453,146456,mir,ritter
+qd,k936.0,145930,147293,ritter,146529,146532,mir,ritter
 qd,k936.0,145930,147293,ritter,146607,146610,ich,ritter
 qd,k936.0,145930,147293,ritter,146618,146621,Ich,ritter
 qd,k936.0,145930,147293,ritter,146835,146841,meiner,ritter
@@ -831,6 +851,7 @@ qd,k936.0,153161,154763,mephistopheles,153575,153578,Mir,mephistopheles
 qd,k936.0,153161,154763,mephistopheles,153585,153589,mein,mephistopheles
 qd,k936.0,153161,154763,mephistopheles,153629,153633,Mein,mephistopheles
 qd,k936.0,153161,154763,mephistopheles,153697,153700,ich,mephistopheles
+qd,k936.0,153161,154763,mephistopheles,153723,153726,ich,mephistopheles
 qd,k936.0,153161,154763,mephistopheles,154112,154115,ich,mephistopheles
 qd,k936.0,153161,154763,mephistopheles,154278,154281,ich,mephistopheles
 qd,k936.0,153161,154763,mephistopheles,154316,154320,mich,mephistopheles

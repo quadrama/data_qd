@@ -81,6 +81,7 @@ qd,strx.0,15095,15509,hutzibutz,15258,15261,ich,hutzibutz
 qd,strx.0,15095,15509,hutzibutz,15405,15408,ich,hutzibutz
 qd,strx.0,15514,16095,schlankel,15571,15576,meine,schlankel
 qd,strx.0,16100,16184,hutzibutz,16142,16145,mir,hutzibutz
+qd,strx.0,16189,16463,schlankel,16269,16272,mir,schlankel
 qd,strx.0,16189,16463,schlankel,16290,16294,mich,schlankel
 qd,strx.0,16189,16463,schlankel,16327,16331,mich,schlankel
 qd,strx.0,16189,16463,schlankel,16345,16348,Mir,schlankel
@@ -209,6 +210,7 @@ qd,strx.0,28552,28740,agnes,28625,28628,ich,agnes
 qd,strx.0,28552,28740,agnes,28633,28636,mir,agnes
 qd,strx.0,28830,28877,schlankel,28845,28848,ich,schlankel
 qd,strx.0,28882,28959,agnes,28895,28898,ich,agnes
+qd,strx.0,28882,28959,agnes,28948,28951,mir,agnes
 qd,strx.0,29203,29567,marie,29261,29264,Ich,marie
 qd,strx.0,29203,29567,marie,29363,29366,mir,marie
 qd,strx.0,29203,29567,marie,29505,29508,Ich,marie
@@ -501,6 +503,7 @@ qd,strx.0,68149,68465,schlankel,68173,68176,Ich,schlankel
 qd,strx.0,68149,68465,schlankel,68209,68212,Ich,schlankel
 qd,strx.0,68149,68465,schlankel,68253,68256,ich,schlankel
 qd,strx.0,68149,68465,schlankel,68281,68284,ich,schlankel
+qd,strx.0,68149,68465,schlankel,68355,68358,ich,schlankel
 qd,strx.0,68470,68555,trüb,68523,68528,Meine,trüb
 qd,strx.0,68713,68769,trüb,68727,68732,meine,trüb
 qd,strx.0,68945,69017,irene,68990,68994,mich,irene
@@ -521,6 +524,7 @@ qd,strx.0,71490,71646,trüb,71603,71606,ich,trüb
 qd,strx.0,71651,71711,fad,71657,71660,Ich,fad
 qd,strx.0,71651,71711,fad,71667,71670,mir,fad
 qd,strx.0,71933,71964,fad,71939,71942,Ich,fad
+qd,strx.0,72129,72245,fad,72170,72173,ich,fad
 qd,strx.0,72129,72245,fad,72200,72203,ich,fad
 qd,strx.0,72745,72807,hutzibutz,72790,72793,ich,hutzibutz
 qd,strx.0,72812,72859,fad,72818,72821,Ich,fad
@@ -590,6 +594,7 @@ qd,strx.0,82161,82197,schlankel,82185,82189,mich,schlankel
 qd,strx.0,82232,82274,schlankel,82254,82258,mich,schlankel
 qd,strx.0,82588,82620,walburga,82609,82612,mir,walburga
 qd,strx.0,82625,82666,braus,82654,82657,mir,braus
+qd,strx.0,82987,83230,froh,83026,83029,mir,froh
 qd,strx.0,82987,83230,froh,83044,83047,Ich,froh
 qd,strx.0,82987,83230,froh,83058,83061,ich,froh
 qd,strx.0,83314,83494,schlankel,83390,83393,ich,schlankel
@@ -714,6 +719,7 @@ qd,strx.0,101208,101307,isabella,101273,101276,ich,isabella
 qd,strx.0,101312,101422,schlankel,101401,101404,ich,schlankel
 qd,strx.0,101806,101877,froh,101827,101830,mir,froh
 qd,strx.0,101806,101877,froh,101846,101849,ich,froh
+qd,strx.0,101882,102023,schlankel,101955,101958,ich,schlankel
 qd,strx.0,102073,102178,schlankel,102085,102088,Ich,schlankel
 qd,strx.0,102231,102294,schlankel,102289,102293,mich,schlankel
 qd,strx.0,102300,102395,froh,102350,102353,ich,froh
@@ -728,6 +734,7 @@ qd,strx.0,103536,103640,schlankel,103555,103560,meine,schlankel
 qd,strx.0,103536,103640,schlankel,103576,103579,ich,schlankel
 qd,strx.0,103536,103640,schlankel,103589,103593,mich,schlankel
 qd,strx.0,103645,103886,froh,103716,103719,ich,froh
+qd,strx.0,103645,103886,froh,103757,103760,ich,froh
 qd,strx.0,104193,104238,marie,104201,104204,Ich,marie
 qd,strx.0,104193,104238,marie,104225,104228,mir,marie
 qd,strx.0,104378,104436,walburga,104406,104409,ich,walburga
@@ -769,6 +776,7 @@ qd,strx.0,109936,109961,glück,109944,109948,Mein,glück
 qd,strx.0,110347,110486,schmerz,110414,110417,mir,schmerz
 qd,strx.0,110491,110615,schlankel,110565,110568,ich,schlankel
 qd,strx.0,110620,110706,hutzibutz,110643,110646,ich,hutzibutz
+qd,strx.0,110620,110706,hutzibutz,110659,110662,ich,hutzibutz
 qd,strx.0,110711,110753,agnes,110723,110727,mich,agnes
 qd,strx.0,110857,110924,schlankel,110899,110902,mir,schlankel
 qd,strx.0,110929,110968,hutzibutz,110952,110955,mir,hutzibutz
@@ -794,6 +802,7 @@ qd,strx.0,114795,114982,hutzibutz,114843,114846,ich,hutzibutz
 qd,strx.0,114795,114982,hutzibutz,114875,114878,ich,hutzibutz
 qd,strx.0,114795,114982,hutzibutz,114933,114936,ich,hutzibutz
 qd,strx.0,114987,115033,schlaf,115028,115032,mich,schlaf
+qd,strx.0,115038,115155,schlankel,115099,115102,ich,schlankel
 qd,strx.0,115850,115979,sturm,115945,115951,meiner,sturm
 qd,strx.0,116081,116134,walburga,116096,116099,ich,walburga
 qd,strx.0,116139,116314,schlaf,116207,116210,ich,schlaf
@@ -932,6 +941,7 @@ qd,strx.0,132510,132694,schmerz,132578,132582,mich,schmerz
 qd,strx.0,132510,132694,schmerz,132634,132637,mir,schmerz
 qd,strx.0,132699,132868,fad,132786,132789,ich,fad
 qd,strx.0,133253,133355,marie,133282,133285,ich,marie
+qd,strx.0,133360,133457,braus,133423,133426,ich,braus
 qd,strx.0,133360,133457,braus,133444,133447,mir,braus
 qd,strx.0,133462,133563,schlankel,133480,133483,ich,schlankel
 qd,strx.0,133462,133563,schlankel,133519,133523,mich,schlankel
@@ -976,6 +986,7 @@ qd,strx.0,137598,137740,fad,137653,137656,mir,fad
 qd,strx.0,137745,137981,braus,137811,137815,mich,braus
 qd,strx.0,137745,137981,braus,137821,137824,ich,braus
 qd,strx.0,137745,137981,braus,137850,137853,ich,braus
+qd,strx.0,137745,137981,braus,137946,137949,ich,braus
 qd,strx.0,138267,138469,isabella,138307,138310,Ich,isabella
 qd,strx.0,138267,138469,isabella,138369,138372,ich,isabella
 qd,strx.0,138474,138611,agnes,138517,138521,mein,agnes
@@ -1020,6 +1031,7 @@ qd,strx.0,144657,144898,schlankel,144804,144807,mir,schlankel
 qd,strx.0,144657,144898,schlankel,144854,144857,ich,schlankel
 qd,strx.0,144903,145087,glück,144922,144925,Ich,glück
 qd,strx.0,144903,145087,glück,144931,144935,mich,glück
+qd,strx.0,145430,145484,hutzibutz,145468,145471,ich,hutzibutz
 qd,strx.0,145990,146048,hutzibutz,146014,146017,ich,hutzibutz
 qd,strx.0,146479,146619,glück,146532,146535,Ich,glück
 qd,strx.0,146789,146837,hutzibutz,146806,146810,mein,hutzibutz
@@ -1121,6 +1133,7 @@ qd,strx.0,161109,161168,froh,161141,161144,ich,froh
 qd,strx.0,161173,161590,hutzibutz,161275,161278,Ich,hutzibutz
 qd,strx.0,161173,161590,hutzibutz,161285,161288,mir,hutzibutz
 qd,strx.0,161173,161590,hutzibutz,161319,161322,ich,hutzibutz
+qd,strx.0,161173,161590,hutzibutz,161350,161353,ich,hutzibutz
 qd,strx.0,161781,162102,walburga,161792,161795,Ich,walburga
 qd,strx.0,161781,162102,walburga,161850,161854,mein,walburga
 qd,strx.0,161781,162102,walburga,161892,161895,ich,walburga
@@ -1155,6 +1168,8 @@ qd,strx.0,166605,166674,schlankel,166662,166667,meine,schlankel
 qd,strx.0,167098,167204,hutzibutz,167140,167143,ich,hutzibutz
 qd,strx.0,167098,167204,hutzibutz,167173,167176,ich,hutzibutz
 qd,strx.0,167209,167249,isabella,167238,167241,ich,isabella
+qd,strx.0,167254,167332,hutzibutz,167279,167282,ich,hutzibutz
+qd,strx.0,167254,167332,hutzibutz,167305,167308,ich,hutzibutz
 qd,strx.0,167375,167466,hutzibutz,167422,167425,ich,hutzibutz
 qd,strx.0,167472,167542,isabella,167483,167486,Ich,isabella
 qd,strx.0,167692,167846,trüb,167745,167749,mich,trüb
@@ -1233,12 +1248,14 @@ qd,strx.0,178911,178953,jakob,178919,178925,Meinen,jakob
 qd,strx.0,179004,179142,jakob,179074,179077,ich,jakob
 qd,strx.0,179004,179142,jakob,179090,179093,ich,jakob
 qd,strx.0,179212,179329,braus,179244,179248,Mein,braus
+qd,strx.0,179511,179538,sturm,179532,179535,ich,sturm
 qd,strx.0,179543,179586,jakob,179551,179554,Ich,jakob
 qd,strx.0,179543,179586,jakob,179566,179572,meinen,jakob
 qd,strx.0,179778,179848,fad,179795,179799,mein,fad
 qd,strx.0,179853,180079,schlaf,179966,179969,Ich,schlaf
 qd,strx.0,179853,180079,schlaf,179980,179983,ich,schlaf
 qd,strx.0,180084,180369,sturm,180210,180213,Ich,sturm
+qd,strx.0,180374,180528,froh,180467,180470,mir,froh
 qd,strx.0,180374,180528,froh,180504,180508,mich,froh
 qd,strx.0,180374,180528,froh,180510,180514,mein,froh
 qd,strx.0,180533,180599,schmerz,180581,180584,ich,schmerz
@@ -1272,6 +1289,7 @@ qd,strx.0,183799,183875,fad,183825,183828,mir,fad
 qd,strx.0,183880,183991,trüb,183925,183931,meiner,trüb
 qd,strx.0,183880,183991,trüb,183979,183982,ich,trüb
 qd,strx.0,184136,184193,agnes,184161,184164,Ich,agnes
+qd,strx.0,184198,184275,fad,184227,184230,ich,fad
 qd,strx.0,184477,184555,braus,184545,184548,ich,braus
 qd,strx.0,184560,184606,walburga,184580,184583,ich,walburga
 qd,strx.0,184857,184987,schlankel,184976,184979,ich,schlankel

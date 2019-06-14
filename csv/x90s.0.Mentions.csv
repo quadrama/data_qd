@@ -10,6 +10,7 @@ qd,x90s.0,5494,5573,hubert,5541,5544,mir,hubert
 qd,x90s.0,5647,5774,hubert,5756,5759,Ich,hubert
 qd,x90s.0,5895,5949,hubert,5937,5940,mir,hubert
 qd,x90s.0,5954,6528,professor_remigius_wohlgemut,6066,6069,mir,professor_remigius_wohlgemut
+qd,x90s.0,5954,6528,professor_remigius_wohlgemut,6083,6086,ich,professor_remigius_wohlgemut
 qd,x90s.0,6824,6898,rosl,6883,6886,Ich,rosl
 qd,x90s.0,7013,7147,hubert,7142,7146,mich,hubert
 qd,x90s.0,7578,7848,hubert,7800,7806,meines,hubert
@@ -161,6 +162,7 @@ qd,x90s.0,28828,28978,vater,28898,28901,mir,vater
 qd,x90s.0,32973,33306,babúsch,33089,33092,mir,babúsch
 qd,x90s.0,32973,33306,babúsch,33179,33182,Ich,babúsch
 qd,x90s.0,33577,33659,rosl,33598,33601,ich,rosl
+qd,x90s.0,34971,35083,babúsch,35072,35075,ich,babúsch
 qd,x90s.0,35804,36232,babúsch,35972,35977,meine,babúsch
 qd,x90s.0,35804,36232,babúsch,35998,36004,meinen,babúsch
 qd,x90s.0,36238,37163,rosl,36903,36906,mir,rosl
@@ -254,7 +256,6 @@ qd,x90s.0,51477,51637,hubert,51591,51594,ich,hubert
 qd,x90s.0,51477,51637,hubert,51601,51604,Ich,hubert
 qd,x90s.0,51477,51637,hubert,51625,51628,mir,hubert
 qd,x90s.0,51703,51859,hubert,51759,51762,Ich,hubert
-qd,x90s.0,51703,51859,hubert,51763,51768,meine,hubert
 qd,x90s.0,51703,51859,hubert,51777,51780,ich,hubert
 qd,x90s.0,51703,51859,hubert,51796,51799,mir,hubert
 qd,x90s.0,51920,52082,hubert,51992,51996,mein,hubert
@@ -375,6 +376,7 @@ qd,x90s.0,74503,74584,rabanser,74555,74558,mir,rabanser
 qd,x90s.0,74652,75298,rabanser,74828,74832,mich,rabanser
 qd,x90s.0,75558,75695,rabanser,75589,75592,Ich,rabanser
 qd,x90s.0,75558,75695,rabanser,75633,75636,mir,rabanser
+qd,x90s.0,75558,75695,rabanser,75681,75684,ich,rabanser
 qd,x90s.0,75849,76458,rabanser,75872,75875,Ich,rabanser
 qd,x90s.0,75849,76458,rabanser,76184,76187,ich,rabanser
 qd,x90s.0,75849,76458,rabanser,76200,76203,ich,rabanser
@@ -678,6 +680,7 @@ qd,x90s.0,126048,126390,hubert,126280,126286,meiner,hubert
 qd,x90s.0,126048,126390,hubert,126298,126301,Ich,hubert
 qd,x90s.0,126048,126390,hubert,126341,126347,meinen,hubert
 qd,x90s.0,126048,126390,hubert,126385,126389,mich,hubert
+qd,x90s.0,126396,126501,rosl,126431,126434,ich,rosl
 qd,x90s.0,126507,126634,hubert,126580,126583,ich,hubert
 qd,x90s.0,126639,126737,rosl,126697,126700,ich,rosl
 qd,x90s.0,126742,127118,hubert,126809,126812,ich,hubert

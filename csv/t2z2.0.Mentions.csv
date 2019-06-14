@@ -242,6 +242,7 @@ qd,t2z2.0,26108,28214,mopsus,27991,27994,ich,mopsus
 qd,t2z2.0,26108,28214,mopsus,28007,28010,mir,mopsus
 qd,t2z2.0,26108,28214,mopsus,28132,28135,mir,mopsus
 qd,t2z2.0,26108,28214,mopsus,28157,28161,mich,mopsus
+qd,t2z2.0,28626,28694,mopsus,28646,28650,mich,mopsus
 qd,t2z2.0,28882,28942,mopsus,28895,28898,ich,mopsus
 qd,t2z2.0,28882,28942,mopsus,28919,28923,mich,mopsus
 qd,t2z2.0,28948,29010,schmuhl,28983,28986,ich,schmuhl
@@ -278,6 +279,7 @@ qd,t2z2.0,35642,36941,phyllis,36012,36015,mir,phyllis
 qd,t2z2.0,35642,36941,phyllis,36028,36031,Ich,phyllis
 qd,t2z2.0,35642,36941,phyllis,36162,36165,ich,phyllis
 qd,t2z2.0,35642,36941,phyllis,36180,36183,mir,phyllis
+qd,t2z2.0,35642,36941,phyllis,36360,36363,ich,phyllis
 qd,t2z2.0,35642,36941,phyllis,36377,36381,mich,phyllis
 qd,t2z2.0,35642,36941,phyllis,36439,36442,mir,phyllis
 qd,t2z2.0,37016,37093,phyllis,37065,37069,mich,phyllis
@@ -302,6 +304,7 @@ qd,t2z2.0,43280,43370,phyllis,43313,43316,ich,phyllis
 qd,t2z2.0,43280,43370,phyllis,43338,43341,ich,phyllis
 qd,t2z2.0,43375,44255,mopsus,43567,43570,mir,mopsus
 qd,t2z2.0,43375,44255,mopsus,43657,43660,mir,mopsus
+qd,t2z2.0,43375,44255,mopsus,43679,43682,ich,mopsus
 qd,t2z2.0,43375,44255,mopsus,44177,44180,mir,mopsus
 qd,t2z2.0,43375,44255,mopsus,44209,44213,mein,mopsus
 qd,t2z2.0,44260,44438,phyllis,44286,44289,ich,phyllis
@@ -436,6 +439,7 @@ qd,t2z2.0,62955,64407,damon,63127,63130,Ich,damon
 qd,t2z2.0,62955,64407,damon,63281,63284,ich,damon
 qd,t2z2.0,62955,64407,damon,63440,63443,ich,damon
 qd,t2z2.0,62955,64407,damon,63444,63447,mir,damon
+qd,t2z2.0,62955,64407,damon,63912,63916,mich,damon
 qd,t2z2.0,62955,64407,damon,63987,63990,ich,damon
 qd,t2z2.0,62955,64407,damon,64049,64053,mich,damon
 qd,t2z2.0,62955,64407,damon,64060,64063,ich,damon
@@ -465,6 +469,7 @@ qd,t2z2.0,67646,70905,schmuhl,67705,67708,ich,schmuhl
 qd,t2z2.0,70977,72076,der_wirth,71015,71018,mir,der_wirth
 qd,t2z2.0,70977,72076,der_wirth,71861,71864,mir,der_wirth
 qd,t2z2.0,72257,72514,schmuhl,72353,72356,Ich,schmuhl
+qd,t2z2.0,72257,72514,schmuhl,72430,72433,mir,schmuhl
 qd,t2z2.0,72699,72749,der_wirth,72719,72722,ich,der_wirth
 qd,t2z2.0,73051,73140,der_wirth,73105,73108,ich,der_wirth
 qd,t2z2.0,73357,73464,schmuhl,73417,73420,Ich,schmuhl
@@ -520,6 +525,7 @@ qd,t2z2.0,80853,81118,mopsus,80866,80869,ich,mopsus
 qd,t2z2.0,80853,81118,mopsus,80882,80886,mich,mopsus
 qd,t2z2.0,80853,81118,mopsus,80933,80938,Meine,mopsus
 qd,t2z2.0,80853,81118,mopsus,80952,80955,ich,mopsus
+qd,t2z2.0,81124,81199,damon,81137,81140,ich,damon
 qd,t2z2.0,81204,81291,mopsus,81217,81221,mich,mopsus
 qd,t2z2.0,81204,81291,mopsus,81247,81250,ich,mopsus
 qd,t2z2.0,81296,81388,damon,81340,81343,mir,damon

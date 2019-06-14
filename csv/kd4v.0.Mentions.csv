@@ -77,6 +77,7 @@ qd,kd4v.0,12013,12275,schmerl,12077,12080,ich,schmerl
 qd,kd4v.0,12013,12275,schmerl,12160,12163,Ich,schmerl
 qd,kd4v.0,12522,12625,schmerl,12560,12563,mir,schmerl
 qd,kd4v.0,12522,12625,schmerl,12602,12605,mir,schmerl
+qd,kd4v.0,12668,12773,schmerl,12689,12692,mir,schmerl
 qd,kd4v.0,12668,12773,schmerl,12725,12728,ich,schmerl
 qd,kd4v.0,12809,12928,schmerl,12891,12894,mir,schmerl
 qd,kd4v.0,12809,12928,schmerl,12908,12911,ich,schmerl
@@ -91,6 +92,7 @@ qd,kd4v.0,13442,13519,schmerl,13484,13488,mich,schmerl
 qd,kd4v.0,13524,13844,blase,13802,13805,mir,blase
 qd,kd4v.0,13524,13844,blase,13829,13832,ich,blase
 qd,kd4v.0,13524,13844,blase,13840,13843,mir,blase
+qd,kd4v.0,14123,14169,schmerl,14141,14144,ich,schmerl
 qd,kd4v.0,14353,14472,schmerl,14390,14393,mir,schmerl
 qd,kd4v.0,14353,14472,schmerl,14403,14406,ich,schmerl
 qd,kd4v.0,14353,14472,schmerl,14439,14442,ich,schmerl
@@ -248,6 +250,7 @@ qd,kd4v.0,37303,37387,auguste,37327,37333,meinem,auguste
 qd,kd4v.0,37303,37387,auguste,37345,37348,ich,auguste
 qd,kd4v.0,37549,37640,hermann,37563,37566,ich,hermann
 qd,kd4v.0,37549,37640,hermann,37605,37608,ich,hermann
+qd,kd4v.0,37696,37753,hermann,37733,37736,ich,hermann
 qd,kd4v.0,37806,37896,hermann,37839,37842,Ich,hermann
 qd,kd4v.0,37806,37896,hermann,37861,37865,mich,hermann
 qd,kd4v.0,37902,37940,auguste,37916,37920,mich,auguste
@@ -301,11 +304,13 @@ qd,kd4v.0,44871,44974,hermann,44912,44915,mir,hermann
 qd,kd4v.0,44871,44974,hermann,44920,44926,meinem,hermann
 qd,kd4v.0,44979,45096,spitz,45010,45013,ich,spitz
 qd,kd4v.0,44979,45096,spitz,45076,45079,ich,spitz
+qd,kd4v.0,45154,45451,spitz,45209,45212,ich,spitz
 qd,kd4v.0,45154,45451,spitz,45224,45227,Ich,spitz
 qd,kd4v.0,45549,45598,hermann,45565,45568,ich,hermann
 qd,kd4v.0,45549,45598,hermann,45581,45584,ich,hermann
 qd,kd4v.0,45675,45715,hermann,45711,45714,ich,hermann
 qd,kd4v.0,45720,46125,spitz,45746,45749,ich,spitz
+qd,kd4v.0,45720,46125,spitz,45779,45782,ich,spitz
 qd,kd4v.0,45720,46125,spitz,45812,45815,ich,spitz
 qd,kd4v.0,46269,46513,blase,46322,46325,ich,blase
 qd,kd4v.0,46269,46513,blase,46375,46378,ich,blase
@@ -380,6 +385,7 @@ qd,kd4v.0,56027,56050,auguste,56037,56043,Meiner,auguste
 qd,kd4v.0,56116,56218,auguste,56197,56200,ich,auguste
 qd,kd4v.0,56305,56414,auguste,56325,56328,ich,auguste
 qd,kd4v.0,56305,56414,auguste,56342,56345,ich,auguste
+qd,kd4v.0,56305,56414,auguste,56396,56399,mir,auguste
 qd,kd4v.0,56419,56635,spitz,56457,56460,mir,spitz
 qd,kd4v.0,56640,56693,auguste,56654,56658,mein,auguste
 qd,kd4v.0,56818,57128,spitz,56845,56848,Ich,spitz

@@ -27,6 +27,7 @@ qd,pj2h.0,3235,3989,parthenia,3826,3829,ich,parthenia
 qd,pj2h.0,3235,3989,parthenia,3963,3966,ich,parthenia
 qd,pj2h.0,3995,4523,actäa,4019,4022,ich,actäa
 qd,pj2h.0,3995,4523,actäa,4267,4270,ich,actäa
+qd,pj2h.0,4623,4808,actäa,4772,4775,mir,actäa
 qd,pj2h.0,4623,4808,actäa,4798,4802,mein,actäa
 qd,pj2h.0,4814,5094,parthenia,4844,4847,ich,parthenia
 qd,pj2h.0,4814,5094,parthenia,5053,5056,ich,parthenia
@@ -59,6 +60,7 @@ qd,pj2h.0,6418,8000,parthenia,7295,7298,mir,parthenia
 qd,pj2h.0,6418,8000,parthenia,7468,7472,mich,parthenia
 qd,pj2h.0,6418,8000,parthenia,7586,7589,Ich,parthenia
 qd,pj2h.0,6418,8000,parthenia,7604,7608,mein,parthenia
+qd,pj2h.0,6418,8000,parthenia,7670,7673,ich,parthenia
 qd,pj2h.0,6418,8000,parthenia,7832,7835,ich,parthenia
 qd,pj2h.0,6418,8000,parthenia,7848,7851,mir,parthenia
 qd,pj2h.0,8005,8206,polydor,8079,8083,mich,polydor
@@ -250,6 +252,7 @@ qd,pj2h.0,28985,29326,myron,29222,29227,meine,myron
 qd,pj2h.0,28985,29326,myron,29268,29272,mich,myron
 qd,pj2h.0,28985,29326,myron,29290,29294,mich,myron
 qd,pj2h.0,29332,29619,ingomar,29431,29434,ich,ingomar
+qd,pj2h.0,29625,29677,trinobant,29666,29669,ich,trinobant
 qd,pj2h.0,29824,29895,ambivar,29834,29837,Ich,ambivar
 qd,pj2h.0,29824,29895,ambivar,29843,29847,mein,ambivar
 qd,pj2h.0,29902,29973,novio,29914,29917,ich,novio
@@ -323,6 +326,7 @@ qd,pj2h.0,39811,40045,myron,39842,39846,Mein,myron
 qd,pj2h.0,39811,40045,myron,39903,39907,mich,myron
 qd,pj2h.0,39811,40045,myron,39921,39924,ich,myron
 qd,pj2h.0,39811,40045,myron,39941,39944,ich,myron
+qd,pj2h.0,39811,40045,myron,39966,39969,ich,myron
 qd,pj2h.0,39811,40045,myron,39984,39988,mein,myron
 qd,pj2h.0,39811,40045,myron,40000,40004,mich,myron
 qd,pj2h.0,40051,40080,parthenia,40062,40066,Mein,parthenia
@@ -414,12 +418,15 @@ qd,pj2h.0,52345,52519,parthenia,52476,52479,ich,parthenia
 qd,pj2h.0,52584,52714,parthenia,52700,52703,mir,parthenia
 qd,pj2h.0,52720,52802,ingomar,52794,52797,Ich,ingomar
 qd,pj2h.0,52807,52876,parthenia,52830,52833,mir,parthenia
+qd,pj2h.0,53162,53607,parthenia,53236,53239,mir,parthenia
 qd,pj2h.0,53162,53607,parthenia,53417,53420,Ich,parthenia
 qd,pj2h.0,53162,53607,parthenia,53461,53464,Ich,parthenia
 qd,pj2h.0,53162,53607,parthenia,53489,53492,Ich,parthenia
 qd,pj2h.0,53162,53607,parthenia,53518,53521,ich,parthenia
 qd,pj2h.0,53162,53607,parthenia,53570,53573,ich,parthenia
+qd,pj2h.0,53613,53971,ingomar,53824,53827,mir,ingomar
 qd,pj2h.0,53613,53971,ingomar,53836,53839,Ich,ingomar
+qd,pj2h.0,53613,53971,ingomar,53865,53868,ich,ingomar
 qd,pj2h.0,53613,53971,ingomar,53876,53879,ich,ingomar
 qd,pj2h.0,53613,53971,ingomar,53922,53925,ich,ingomar
 qd,pj2h.0,54141,54165,ingomar,54155,54158,ich,ingomar
@@ -460,6 +467,7 @@ qd,pj2h.0,58002,58337,ingomar,58165,58168,ich,ingomar
 qd,pj2h.0,58002,58337,ingomar,58192,58195,ich,ingomar
 qd,pj2h.0,58002,58337,ingomar,58274,58277,ich,ingomar
 qd,pj2h.0,58550,58594,ingomar,58559,58562,Ich,ingomar
+qd,pj2h.0,58550,58594,ingomar,58579,58582,mir,ingomar
 qd,pj2h.0,58625,58664,ingomar,58655,58658,ich,ingomar
 qd,pj2h.0,58669,58891,alastor,58701,58704,mir,alastor
 qd,pj2h.0,58669,58891,alastor,58745,58748,ich,alastor
@@ -473,6 +481,7 @@ qd,pj2h.0,58896,61303,ingomar,59257,59263,meinem,ingomar
 qd,pj2h.0,58896,61303,ingomar,59283,59289,meinem,ingomar
 qd,pj2h.0,58896,61303,ingomar,59492,59495,ich,ingomar
 qd,pj2h.0,58896,61303,ingomar,59512,59517,meine,ingomar
+qd,pj2h.0,58896,61303,ingomar,59558,59561,mir,ingomar
 qd,pj2h.0,58896,61303,ingomar,59595,59601,meiner,ingomar
 qd,pj2h.0,58896,61303,ingomar,59616,59620,mich,ingomar
 qd,pj2h.0,58896,61303,ingomar,59679,59682,ich,ingomar
@@ -488,6 +497,7 @@ qd,pj2h.0,58896,61303,ingomar,61020,61023,ich,ingomar
 qd,pj2h.0,58896,61303,ingomar,61047,61050,mir,ingomar
 qd,pj2h.0,58896,61303,ingomar,61059,61062,Ich,ingomar
 qd,pj2h.0,61308,61971,parthenia,61372,61376,mich,parthenia
+qd,pj2h.0,61308,61971,parthenia,61427,61430,mir,parthenia
 qd,pj2h.0,61308,61971,parthenia,61474,61477,ich,parthenia
 qd,pj2h.0,61308,61971,parthenia,61742,61745,mir,parthenia
 qd,pj2h.0,61308,61971,parthenia,61826,61829,ich,parthenia
@@ -504,6 +514,7 @@ qd,pj2h.0,62527,62752,parthenia,62673,62676,ich,parthenia
 qd,pj2h.0,62758,63015,ingomar,62788,62791,mir,ingomar
 qd,pj2h.0,62758,63015,ingomar,62818,62822,mich,ingomar
 qd,pj2h.0,62758,63015,ingomar,62874,62877,mir,ingomar
+qd,pj2h.0,63059,63325,ingomar,63116,63120,mich,ingomar
 qd,pj2h.0,63059,63325,ingomar,63130,63134,Mein,ingomar
 qd,pj2h.0,63059,63325,ingomar,63202,63206,mein,ingomar
 qd,pj2h.0,63059,63325,ingomar,63294,63297,ich,ingomar
@@ -732,6 +743,7 @@ qd,pj2h.0,86218,86551,parthenia,86253,86256,mir,parthenia
 qd,pj2h.0,86218,86551,parthenia,86271,86274,Ich,parthenia
 qd,pj2h.0,86218,86551,parthenia,86515,86519,mich,parthenia
 qd,pj2h.0,86593,86704,parthenia,86605,86608,Ich,parthenia
+qd,pj2h.0,86593,86704,parthenia,86625,86628,mir,parthenia
 qd,pj2h.0,86593,86704,parthenia,86659,86663,mich,parthenia
 qd,pj2h.0,86593,86704,parthenia,86691,86695,mich,parthenia
 qd,pj2h.0,86819,87132,parthenia,86909,86912,mir,parthenia
@@ -765,6 +777,7 @@ qd,pj2h.0,88746,89216,ingomar,88932,88936,mich,ingomar
 qd,pj2h.0,88746,89216,ingomar,88945,88948,ich,ingomar
 qd,pj2h.0,88746,89216,ingomar,88963,88966,Ich,ingomar
 qd,pj2h.0,88746,89216,ingomar,88968,88971,ich,ingomar
+qd,pj2h.0,89222,89344,parthenia,89309,89312,ich,parthenia
 qd,pj2h.0,89350,89896,ingomar,89429,89432,mir,ingomar
 qd,pj2h.0,89350,89896,ingomar,89572,89575,ich,ingomar
 qd,pj2h.0,89350,89896,ingomar,89603,89606,ich,ingomar
@@ -784,6 +797,7 @@ qd,pj2h.0,89986,90781,ingomar,90485,90488,ich,ingomar
 qd,pj2h.0,89986,90781,ingomar,90578,90581,ich,ingomar
 qd,pj2h.0,89986,90781,ingomar,90659,90662,ich,ingomar
 qd,pj2h.0,89986,90781,ingomar,90736,90739,Ich,ingomar
+qd,pj2h.0,89986,90781,ingomar,90769,90772,ich,ingomar
 qd,pj2h.0,90787,90891,parthenia,90798,90801,Mir,parthenia
 qd,pj2h.0,90897,91619,ingomar,90913,90916,ich,ingomar
 qd,pj2h.0,90897,91619,ingomar,90964,90968,mein,ingomar
@@ -852,6 +866,7 @@ qd,pj2h.0,97839,98098,ingomar,97920,97923,Ich,ingomar
 qd,pj2h.0,97839,98098,ingomar,97941,97944,ich,ingomar
 qd,pj2h.0,97839,98098,ingomar,98062,98066,Mein,ingomar
 qd,pj2h.0,98142,98483,ingomar,98158,98161,ich,ingomar
+qd,pj2h.0,98142,98483,ingomar,98167,98170,mir,ingomar
 qd,pj2h.0,98142,98483,ingomar,98200,98206,meiner,ingomar
 qd,pj2h.0,98142,98483,ingomar,98218,98224,meiner,ingomar
 qd,pj2h.0,98142,98483,ingomar,98243,98246,ich,ingomar
@@ -870,6 +885,7 @@ qd,pj2h.0,98527,98887,ingomar,98834,98840,meinen,ingomar
 qd,pj2h.0,98527,98887,ingomar,98859,98862,mir,ingomar
 qd,pj2h.0,98893,98968,parthenia,98938,98941,Mir,parthenia
 qd,pj2h.0,98973,99240,ingomar,99044,99048,mich,ingomar
+qd,pj2h.0,98973,99240,ingomar,99069,99072,ich,ingomar
 qd,pj2h.0,98973,99240,ingomar,99098,99102,mein,ingomar
 qd,pj2h.0,98973,99240,ingomar,99141,99144,ich,ingomar
 qd,pj2h.0,98973,99240,ingomar,99145,99151,meines,ingomar
@@ -911,10 +927,12 @@ qd,pj2h.0,101521,101883,ingomar,101752,101756,mich,ingomar
 qd,pj2h.0,101521,101883,ingomar,101772,101776,Mich,ingomar
 qd,pj2h.0,101521,101883,ingomar,101795,101799,mich,ingomar
 qd,pj2h.0,101521,101883,ingomar,101850,101853,ich,ingomar
+qd,pj2h.0,101521,101883,ingomar,101876,101879,mir,ingomar
 qd,pj2h.0,101890,101948,myron,101912,101915,Ich,myron
 qd,pj2h.0,101890,101948,myron,101918,101921,Ich,myron
 qd,pj2h.0,101890,101948,myron,101925,101929,mein,myron
 qd,pj2h.0,101954,102006,ingomar,101964,101969,Meine,ingomar
+qd,pj2h.0,101954,102006,ingomar,101995,101998,mir,ingomar
 qd,pj2h.0,102012,102226,myron,102122,102125,mir,myron
 qd,pj2h.0,102012,102226,myron,102130,102133,Mir,myron
 qd,pj2h.0,102275,102539,myron,102283,102286,Ich,myron
@@ -960,6 +978,7 @@ qd,pj2h.0,106135,106409,ingomar,106215,106218,ich,ingomar
 qd,pj2h.0,106135,106409,ingomar,106234,106237,Mir,ingomar
 qd,pj2h.0,106135,106409,ingomar,106289,106292,ich,ingomar
 qd,pj2h.0,106135,106409,ingomar,106321,106324,ich,ingomar
+qd,pj2h.0,106135,106409,ingomar,106329,106332,ich,ingomar
 qd,pj2h.0,106592,106831,myron,106646,106649,ich,myron
 qd,pj2h.0,106592,106831,myron,106681,106684,ich,myron
 qd,pj2h.0,106592,106831,myron,106691,106695,Mein,myron
@@ -1013,6 +1032,7 @@ qd,pj2h.0,113831,113866,ingomar,113840,113843,Ich,ingomar
 qd,pj2h.0,113871,114135,parthenia,113892,113895,ich,parthenia
 qd,pj2h.0,113871,114135,parthenia,113934,113940,meiner,parthenia
 qd,pj2h.0,113871,114135,parthenia,114061,114064,ich,parthenia
+qd,pj2h.0,113871,114135,parthenia,114089,114092,Ich,parthenia
 qd,pj2h.0,113871,114135,parthenia,114125,114128,ich,parthenia
 qd,pj2h.0,114141,114351,ingomar,114257,114261,mich,ingomar
 qd,pj2h.0,114141,114351,ingomar,114283,114286,ich,ingomar
@@ -1020,6 +1040,7 @@ qd,pj2h.0,114141,114351,ingomar,114328,114331,ich,ingomar
 qd,pj2h.0,114357,114602,parthenia,114467,114470,ich,parthenia
 qd,pj2h.0,114357,114602,parthenia,114575,114579,mich,parthenia
 qd,pj2h.0,114608,114639,ingomar,114635,114638,mir,ingomar
+qd,pj2h.0,114781,115069,ingomar,114801,114804,ich,ingomar
 qd,pj2h.0,114781,115069,ingomar,114821,114824,ich,ingomar
 qd,pj2h.0,114781,115069,ingomar,114825,114828,mir,ingomar
 qd,pj2h.0,114781,115069,ingomar,114864,114867,mir,ingomar
@@ -1040,6 +1061,7 @@ qd,pj2h.0,115133,115633,ingomar,115611,115614,Ich,ingomar
 qd,pj2h.0,115639,116287,parthenia,115678,115681,Ich,parthenia
 qd,pj2h.0,115639,116287,parthenia,115722,115725,Mir,parthenia
 qd,pj2h.0,115639,116287,parthenia,116036,116042,meines,parthenia
+qd,pj2h.0,116293,116402,ingomar,116338,116341,ich,ingomar
 qd,pj2h.0,116293,116402,ingomar,116392,116395,ich,ingomar
 qd,pj2h.0,116521,116820,ingomar,116619,116622,mir,ingomar
 qd,pj2h.0,116521,116820,ingomar,116649,116652,mir,ingomar
@@ -1053,6 +1075,7 @@ qd,pj2h.0,116966,117176,ingomar,117018,117022,mich,ingomar
 qd,pj2h.0,116966,117176,ingomar,117119,117122,ich,ingomar
 qd,pj2h.0,116966,117176,ingomar,117165,117169,mein,ingomar
 qd,pj2h.0,117384,117413,parthenia,117402,117405,ich,parthenia
+qd,pj2h.0,117474,117581,actäa,117561,117564,ich,actäa
 qd,pj2h.0,117587,117665,myron,117619,117623,mich,myron
 qd,pj2h.0,117788,117862,actäa,117817,117820,Ich,actäa
 qd,pj2h.0,117868,118037,myron,117993,117996,ich,myron
@@ -1077,6 +1100,7 @@ qd,pj2h.0,121110,121455,ingomar,121242,121245,ich,ingomar
 qd,pj2h.0,121110,121455,ingomar,121310,121313,ich,ingomar
 qd,pj2h.0,121110,121455,ingomar,121337,121340,ich,ingomar
 qd,pj2h.0,121110,121455,ingomar,121364,121367,Mir,ingomar
+qd,pj2h.0,121110,121455,ingomar,121394,121397,ich,ingomar
 qd,pj2h.0,121110,121455,ingomar,121442,121447,meine,ingomar
 qd,pj2h.0,121550,121859,ingomar,121560,121563,Ich,ingomar
 qd,pj2h.0,121550,121859,ingomar,121583,121586,Ich,ingomar
@@ -1147,6 +1171,7 @@ qd,pj2h.0,125537,126311,ingomar,125717,125720,mir,ingomar
 qd,pj2h.0,125537,126311,ingomar,125774,125778,mich,ingomar
 qd,pj2h.0,125537,126311,ingomar,125844,125848,mich,ingomar
 qd,pj2h.0,125537,126311,ingomar,125982,125985,ich,ingomar
+qd,pj2h.0,125537,126311,ingomar,126018,126021,ich,ingomar
 qd,pj2h.0,125537,126311,ingomar,126145,126151,meines,ingomar
 qd,pj2h.0,125537,126311,ingomar,126201,126204,ich,ingomar
 qd,pj2h.0,125537,126311,ingomar,126217,126220,ich,ingomar
@@ -1188,6 +1213,7 @@ qd,pj2h.0,128831,129755,parthenia,129529,129532,ich,parthenia
 qd,pj2h.0,128831,129755,parthenia,129535,129538,ich,parthenia
 qd,pj2h.0,128831,129755,parthenia,129553,129557,mich,parthenia
 qd,pj2h.0,128831,129755,parthenia,129630,129633,mir,parthenia
+qd,pj2h.0,128831,129755,parthenia,129649,129652,ich,parthenia
 qd,pj2h.0,129761,129825,ingomar,129781,129785,mein,ingomar
 qd,pj2h.0,129761,129825,ingomar,129807,129810,mir,ingomar
 qd,pj2h.0,129761,129825,ingomar,129813,129817,Mein,ingomar

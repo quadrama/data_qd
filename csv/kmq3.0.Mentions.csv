@@ -115,6 +115,7 @@ qd,kmq3.0,24078,24350,berkley,24256,24260,Mich,berkley
 qd,kmq3.0,24629,24769,berkley,24699,24702,ich,berkley
 qd,kmq3.0,25070,25163,graves,25135,25138,Ich,graves
 qd,kmq3.0,25652,25769,graves,25710,25716,meinen,graves
+qd,kmq3.0,25933,25991,graves,25947,25950,ich,graves
 qd,kmq3.0,26038,26101,berkley,26064,26067,ich,berkley
 qd,kmq3.0,26171,26322,berkley,26181,26184,Ich,berkley
 qd,kmq3.0,26171,26322,berkley,26227,26230,mir,berkley
@@ -411,6 +412,7 @@ qd,kmq3.0,70818,70978,cromwell,70966,70970,mich,cromwell
 qd,kmq3.0,71127,71291,stimme_harrisons,71228,71231,ich,stimme_harrisons
 qd,kmq3.0,71296,71705,cromwell,71428,71434,meiner,cromwell
 qd,kmq3.0,71296,71705,cromwell,71448,71451,ich,cromwell
+qd,kmq3.0,71296,71705,cromwell,71554,71557,ich,cromwell
 qd,kmq3.0,71991,72091,lilburn,72006,72009,ich,lilburn
 qd,kmq3.0,72096,72173,stimme_harrisons,72107,72110,Ich,stimme_harrisons
 qd,kmq3.0,72178,72427,cromwell,72238,72241,ich,cromwell
@@ -507,6 +509,7 @@ qd,kmq3.0,84560,84894,cromwell,84739,84744,meine,cromwell
 qd,kmq3.0,84560,84894,cromwell,84778,84782,mich,cromwell
 qd,kmq3.0,85099,85497,cromwell,85235,85238,mir,cromwell
 qd,kmq3.0,85099,85497,cromwell,85284,85287,ich,cromwell
+qd,kmq3.0,85099,85497,cromwell,85346,85349,ich,cromwell
 qd,kmq3.0,85099,85497,cromwell,85412,85416,mich,cromwell
 qd,kmq3.0,85099,85497,cromwell,85434,85437,Ich,cromwell
 qd,kmq3.0,86042,86149,karl,86119,86122,Ich,karl
@@ -582,6 +585,7 @@ qd,kmq3.0,96784,97042,karl,96966,96969,Ich,karl
 qd,kmq3.0,97047,97183,berkley,97076,97079,Ich,berkley
 qd,kmq3.0,97226,97269,berkley,97257,97260,ich,berkley
 qd,kmq3.0,97274,97494,karl,97397,97403,meiner,karl
+qd,kmq3.0,97758,97809,berkley,97796,97799,mir,berkley
 qd,kmq3.0,97841,97949,berkley,97851,97854,Ich,berkley
 qd,kmq3.0,97841,97949,berkley,97863,97869,meinen,berkley
 qd,kmq3.0,97841,97949,berkley,97944,97948,mich,berkley
@@ -1105,6 +1109,7 @@ qd,kmq3.0,189117,189344,stimme_harrisons,189258,189264,meiner,stimme_harrisons
 qd,kmq3.0,189407,189482,stimme_harrisons,189438,189441,ich,stimme_harrisons
 qd,kmq3.0,189713,189826,karl,189814,189818,mich,karl
 qd,kmq3.0,189863,189922,karl,189896,189899,Ich,karl
+qd,kmq3.0,190148,190353,karl,190237,190240,mir,karl
 qd,kmq3.0,190148,190353,karl,190267,190271,mich,karl
 qd,kmq3.0,190148,190353,karl,190289,190294,meine,karl
 qd,kmq3.0,190407,190450,karl,190440,190444,Mein,karl
@@ -1217,6 +1222,7 @@ qd,kmq3.0,216947,217526,stimme_harrisons,217023,217026,ich,stimme_harrisons
 qd,kmq3.0,216947,217526,stimme_harrisons,217100,217106,meinem,stimme_harrisons
 qd,kmq3.0,216947,217526,stimme_harrisons,217121,217124,ich,stimme_harrisons
 qd,kmq3.0,217531,217706,cromwell,217686,217689,ich,cromwell
+qd,kmq3.0,217531,217706,cromwell,217696,217699,mir,cromwell
 qd,kmq3.0,217711,217926,stimme_harrisons,217736,217740,mich,stimme_harrisons
 qd,kmq3.0,217711,217926,stimme_harrisons,217757,217760,ich,stimme_harrisons
 qd,kmq3.0,217711,217926,stimme_harrisons,217775,217778,Ich,stimme_harrisons

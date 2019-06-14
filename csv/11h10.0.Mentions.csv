@@ -4,6 +4,7 @@ qd,11h10.0,707,808,sora,747,750,ich,sora
 qd,11h10.0,991,1413,mana,1379,1383,mich,mana
 qd,11h10.0,1466,1688,mana,1473,1476,Ich,mana
 qd,11h10.0,1466,1688,mana,1508,1511,mir,mana
+qd,11h10.0,1466,1688,mana,1554,1557,mir,mana
 qd,11h10.0,1466,1688,mana,1572,1575,ich,mana
 qd,11h10.0,2056,2162,sora,2075,2080,meine,sora
 qd,11h10.0,2167,2264,feria,2183,2187,mich,feria
@@ -129,6 +130,7 @@ qd,11h10.0,28639,28981,merkulo,28805,28809,mich,merkulo
 qd,11h10.0,28986,29108,prinz,29051,29054,ich,prinz
 qd,11h10.0,28986,29108,prinz,29055,29059,mich,prinz
 qd,11h10.0,29113,29305,merkulo,29131,29134,ich,merkulo
+qd,11h10.0,29113,29305,merkulo,29167,29170,mir,merkulo
 qd,11h10.0,29310,29551,prinz,29400,29404,mich,prinz
 qd,11h10.0,29310,29551,prinz,29429,29432,ich,prinz
 qd,11h10.0,29310,29551,prinz,29505,29509,mein,prinz
@@ -141,6 +143,7 @@ qd,11h10.0,29889,29944,prinz,29930,29936,meinen,prinz
 qd,11h10.0,29949,30167,merkulo,29959,29962,Ich,merkulo
 qd,11h10.0,30172,30258,prinz,30180,30186,Meinen,prinz
 qd,11h10.0,30172,30258,prinz,30229,30233,mein,prinz
+qd,11h10.0,30263,30505,merkulo,30284,30287,mir,merkulo
 qd,11h10.0,30564,30860,merkulo,30580,30583,ich,merkulo
 qd,11h10.0,30564,30860,merkulo,30611,30614,ich,merkulo
 qd,11h10.0,30564,30860,merkulo,30665,30669,mein,merkulo
@@ -295,6 +298,7 @@ qd,11h10.0,59872,60965,andrason,59906,59911,meine,andrason
 qd,11h10.0,59872,60965,andrason,60328,60331,mir,andrason
 qd,11h10.0,59872,60965,andrason,60357,60360,ich,andrason
 qd,11h10.0,59872,60965,andrason,60378,60381,ich,andrason
+qd,11h10.0,60970,61039,mana,60997,61000,mir,mana
 qd,11h10.0,61185,62273,andrason,61226,61231,meine,andrason
 qd,11h10.0,61185,62273,andrason,61251,61254,ich,andrason
 qd,11h10.0,61185,62273,andrason,61279,61282,ich,andrason
@@ -321,6 +325,7 @@ qd,11h10.0,61185,62273,andrason,62061,62064,mir,andrason
 qd,11h10.0,61185,62273,andrason,62146,62150,mich,andrason
 qd,11h10.0,61185,62273,andrason,62198,62201,mir,andrason
 qd,11h10.0,61185,62273,andrason,62207,62210,ich,andrason
+qd,11h10.0,62330,62389,andrason,62345,62348,ich,andrason
 qd,11h10.0,62436,62508,andrason,62455,62458,ich,andrason
 qd,11h10.0,62726,63587,andrason,62766,62771,meine,andrason
 qd,11h10.0,62726,63587,andrason,62906,62910,mich,andrason
@@ -353,6 +358,7 @@ qd,11h10.0,66737,67138,merkulo,66993,66997,mich,merkulo
 qd,11h10.0,66737,67138,merkulo,67021,67025,mich,merkulo
 qd,11h10.0,66737,67138,merkulo,67084,67087,ich,merkulo
 qd,11h10.0,67143,67319,prinz,67151,67154,Ich,prinz
+qd,11h10.0,67143,67319,prinz,67200,67203,mir,prinz
 qd,11h10.0,67143,67319,prinz,67245,67249,mich,prinz
 qd,11h10.0,67143,67319,prinz,67262,67266,Mein,prinz
 qd,11h10.0,67376,68081,prinz,67421,67425,mich,prinz
@@ -400,6 +406,7 @@ qd,11h10.0,70791,72458,prinz,71295,71298,mir,prinz
 qd,11h10.0,70791,72458,prinz,71326,71329,mir,prinz
 qd,11h10.0,70791,72458,prinz,71341,71347,meinen,prinz
 qd,11h10.0,70791,72458,prinz,71376,71379,ich,prinz
+qd,11h10.0,70791,72458,prinz,71380,71383,mir,prinz
 qd,11h10.0,70791,72458,prinz,71427,71430,ich,prinz
 qd,11h10.0,70791,72458,prinz,71444,71448,mich,prinz
 qd,11h10.0,70791,72458,prinz,71530,71534,mich,prinz
@@ -465,6 +472,7 @@ qd,11h10.0,76133,76541,prinz,76482,76487,meine,prinz
 qd,11h10.0,76133,76541,prinz,76507,76511,mein,prinz
 qd,11h10.0,76547,76703,mandandane,76661,76664,ich,mandandane
 qd,11h10.0,76709,76828,prinz,76809,76812,ich,prinz
+qd,11h10.0,76834,77001,merkulo,76848,76851,mir,merkulo
 qd,11h10.0,76834,77001,merkulo,76863,76866,ich,merkulo
 qd,11h10.0,77007,77140,mandandane,77098,77101,ich,mandandane
 qd,11h10.0,77146,77265,prinz,77246,77249,ich,prinz

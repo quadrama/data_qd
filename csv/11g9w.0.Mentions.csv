@@ -1,4 +1,5 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,11g9w.0,836,1009,soest,893,896,mir,soest
 qd,11g9w.0,836,1009,soest,983,986,ich,soest
 qd,11g9w.0,1226,1428,buyck,1258,1261,ich,buyck
 qd,11g9w.0,1226,1428,buyck,1312,1315,ich,buyck
@@ -145,12 +146,14 @@ qd,11g9w.0,26916,27218,klare,27201,27204,mir,klare
 qd,11g9w.0,27223,27330,brackenburg,27237,27240,Ich,brackenburg
 qd,11g9w.0,27223,27330,brackenburg,27247,27250,Ich,brackenburg
 qd,11g9w.0,27382,27645,klare,27390,27393,Ich,klare
+qd,11g9w.0,27382,27645,klare,27428,27431,mir,klare
 qd,11g9w.0,27382,27645,klare,27461,27464,mir,klare
 qd,11g9w.0,27382,27645,klare,27470,27473,Ich,klare
 qd,11g9w.0,27382,27645,klare,27496,27499,ich,klare
 qd,11g9w.0,27382,27645,klare,27500,27504,mich,klare
 qd,11g9w.0,27382,27645,klare,27530,27533,Ich,klare
 qd,11g9w.0,27382,27645,klare,27562,27566,mich,klare
+qd,11g9w.0,27382,27645,klare,27621,27624,ich,klare
 qd,11g9w.0,27693,28096,klare,27701,27704,Ich,klare
 qd,11g9w.0,27693,28096,klare,27731,27734,ich,klare
 qd,11g9w.0,27693,28096,klare,27764,27769,Meine,klare
@@ -168,6 +171,7 @@ qd,11g9w.0,28134,28273,klare,28203,28206,Ich,klare
 qd,11g9w.0,28134,28273,klare,28245,28248,ich,klare
 qd,11g9w.0,28450,28820,klare,28458,28461,Ich,klare
 qd,11g9w.0,28450,28820,klare,28499,28502,ich,klare
+qd,11g9w.0,28450,28820,klare,28543,28546,ich,klare
 qd,11g9w.0,28450,28820,klare,28587,28590,ich,klare
 qd,11g9w.0,28450,28820,klare,28623,28626,mir,klare
 qd,11g9w.0,28450,28820,klare,28660,28663,mir,klare
@@ -191,6 +195,7 @@ qd,11g9w.0,30091,30240,mutter,30198,30201,Ich,mutter
 qd,11g9w.0,30091,30240,mutter,30225,30230,meine,mutter
 qd,11g9w.0,30245,30345,klare,30327,30331,mich,klare
 qd,11g9w.0,30350,30517,mutter,30391,30395,mich,mutter
+qd,11g9w.0,30350,30517,mutter,30436,30439,mir,mutter
 qd,11g9w.0,30350,30517,mutter,30466,30471,meine,mutter
 qd,11g9w.0,30522,30889,klare,30682,30687,meine,klare
 qd,11g9w.0,30988,31258,klare,31093,31096,mir,klare
@@ -219,6 +224,7 @@ qd,11g9w.0,32410,33079,klare,32865,32868,ich,klare
 qd,11g9w.0,32410,33079,klare,32869,32872,mir,klare
 qd,11g9w.0,32410,33079,klare,32914,32917,ich,klare
 qd,11g9w.0,32410,33079,klare,32918,32921,mir,klare
+qd,11g9w.0,32410,33079,klare,33044,33047,mir,klare
 qd,11g9w.0,33110,33433,brackenburg,33370,33373,Ich,brackenburg
 qd,11g9w.0,33110,33433,brackenburg,33394,33400,meinem,brackenburg
 qd,11g9w.0,33438,33667,klare,33469,33472,Ich,klare
@@ -261,6 +267,7 @@ qd,11g9w.0,33828,36485,brackenburg,35651,35655,mich,brackenburg
 qd,11g9w.0,33828,36485,brackenburg,35680,35683,ich,brackenburg
 qd,11g9w.0,33828,36485,brackenburg,35713,35717,mich,brackenburg
 qd,11g9w.0,33828,36485,brackenburg,35726,35730,mich,brackenburg
+qd,11g9w.0,33828,36485,brackenburg,35761,35764,mir,brackenburg
 qd,11g9w.0,33828,36485,brackenburg,35818,35821,mir,brackenburg
 qd,11g9w.0,33828,36485,brackenburg,35884,35887,mir,brackenburg
 qd,11g9w.0,33828,36485,brackenburg,36060,36064,mich,brackenburg
@@ -270,6 +277,7 @@ qd,11g9w.0,33828,36485,brackenburg,36158,36161,ich,brackenburg
 qd,11g9w.0,33828,36485,brackenburg,36290,36293,Ich,brackenburg
 qd,11g9w.0,33828,36485,brackenburg,36322,36328,meines,brackenburg
 qd,11g9w.0,33828,36485,brackenburg,36395,36398,mir,brackenburg
+qd,11g9w.0,36596,36711,zimmermeister,36617,36620,ich,zimmermeister
 qd,11g9w.0,36596,36711,zimmermeister,36676,36679,ich,zimmermeister
 qd,11g9w.0,37331,37576,zimmermeister,37347,37350,Mir,zimmermeister
 qd,11g9w.0,37754,38069,soest,37785,37788,mir,soest
@@ -299,6 +307,7 @@ qd,11g9w.0,48149,48890,jetter,48534,48537,mir,jetter
 qd,11g9w.0,48149,48890,jetter,48557,48561,mein,jetter
 qd,11g9w.0,48149,48890,jetter,48562,48565,ich,jetter
 qd,11g9w.0,48149,48890,jetter,48575,48578,ich,jetter
+qd,11g9w.0,48149,48890,jetter,48630,48634,mich,jetter
 qd,11g9w.0,48149,48890,jetter,48722,48725,ich,jetter
 qd,11g9w.0,48149,48890,jetter,48776,48779,mir,jetter
 qd,11g9w.0,48895,49555,sekretär,48932,48935,ich,sekretär
@@ -308,6 +317,7 @@ qd,11g9w.0,48895,49555,sekretär,49063,49066,mir,sekretär
 qd,11g9w.0,48895,49555,sekretär,49085,49088,Ich,sekretär
 qd,11g9w.0,48895,49555,sekretär,49156,49159,mir,sekretär
 qd,11g9w.0,48895,49555,sekretär,49225,49228,ich,sekretär
+qd,11g9w.0,48895,49555,sekretär,49331,49334,ich,sekretär
 qd,11g9w.0,49590,49639,sekretär,49601,49604,Ich,sekretär
 qd,11g9w.0,49644,49724,egmont,49653,49656,Ich,egmont
 qd,11g9w.0,49729,49811,sekretär,49772,49775,ich,sekretär
@@ -318,6 +328,7 @@ qd,11g9w.0,50753,50783,egmont,50772,50776,mich,egmont
 qd,11g9w.0,50951,51035,egmont,50960,50963,Ich,egmont
 qd,11g9w.0,51433,51691,egmont,51506,51510,mich,egmont
 qd,11g9w.0,51433,51691,egmont,51533,51536,ich,egmont
+qd,11g9w.0,51433,51691,egmont,51598,51601,mir,egmont
 qd,11g9w.0,53462,53568,egmont,53536,53539,ich,egmont
 qd,11g9w.0,53914,54158,sekretär,53925,53928,Ich,sekretär
 qd,11g9w.0,53914,54158,sekretär,53997,54000,ich,sekretär
@@ -358,6 +369,7 @@ qd,11g9w.0,56155,56543,egmont,56424,56428,mich,egmont
 qd,11g9w.0,56155,56543,egmont,56453,56457,mich,egmont
 qd,11g9w.0,56628,58435,egmont,57819,57822,mir,egmont
 qd,11g9w.0,56628,58435,egmont,57999,58002,mir,egmont
+qd,11g9w.0,56628,58435,egmont,58274,58277,mir,egmont
 qd,11g9w.0,58440,58552,sekretär,58460,58463,mir,sekretär
 qd,11g9w.0,58960,59514,egmont,58969,58972,Ich,egmont
 qd,11g9w.0,58960,59514,egmont,59021,59024,ich,egmont
@@ -384,6 +396,7 @@ qd,11g9w.0,63120,63712,oranien,63199,63202,ich,oranien
 qd,11g9w.0,63120,63712,oranien,63395,63398,ich,oranien
 qd,11g9w.0,63120,63712,oranien,63498,63501,Ich,oranien
 qd,11g9w.0,63717,63873,egmont,63726,63729,Ich,egmont
+qd,11g9w.0,64084,64175,oranien,64131,64134,mir,oranien
 qd,11g9w.0,64805,64940,egmont,64901,64904,ich,egmont
 qd,11g9w.0,65840,65867,egmont,65849,65852,Ich,egmont
 qd,11g9w.0,65872,65894,oranien,65882,65885,Ich,oranien
@@ -405,6 +418,7 @@ qd,11g9w.0,70094,70447,egmont,70244,70248,mich,egmont
 qd,11g9w.0,70094,70447,egmont,70298,70304,meinem,egmont
 qd,11g9w.0,70094,70447,egmont,70356,70362,meiner,egmont
 qd,11g9w.0,70536,70976,regentin,70547,70550,Ich,regentin
+qd,11g9w.0,70536,70976,regentin,70557,70560,mir,regentin
 qd,11g9w.0,70536,70976,regentin,70768,70771,Ich,regentin
 qd,11g9w.0,70536,70976,regentin,70801,70805,mich,regentin
 qd,11g9w.0,70536,70976,regentin,70878,70881,Ich,regentin
@@ -463,6 +477,7 @@ qd,11g9w.0,76337,76485,regentin,76470,76474,mich,regentin
 qd,11g9w.0,76956,77063,mutter,77000,77003,ich,mutter
 qd,11g9w.0,76956,77063,mutter,77017,77020,ich,mutter
 qd,11g9w.0,77197,77345,mutter,77251,77254,ich,mutter
+qd,11g9w.0,77582,77707,klare,77602,77605,mir,klare
 qd,11g9w.0,77582,77707,klare,77644,77647,ich,klare
 qd,11g9w.0,77712,77911,mutter,77860,77863,ich,mutter
 qd,11g9w.0,78175,78530,klare,78393,78396,ich,klare
@@ -512,6 +527,8 @@ qd,11g9w.0,84490,84533,egmont,84523,84526,ich,egmont
 qd,11g9w.0,84558,85526,egmont,84594,84598,mich,egmont
 qd,11g9w.0,84558,85526,egmont,85256,85260,mich,egmont
 qd,11g9w.0,85531,85600,klare,85549,85553,mich,klare
+qd,11g9w.0,86805,87045,jetter,86830,86833,mir,jetter
+qd,11g9w.0,86805,87045,jetter,86904,86907,mir,jetter
 qd,11g9w.0,87188,87834,jetter,87590,87593,mir,jetter
 qd,11g9w.0,87925,87960,jetter,87934,87937,Ich,jetter
 qd,11g9w.0,88607,88754,jetter,88657,88660,Ich,jetter
@@ -708,6 +725,7 @@ qd,11g9w.0,128782,129239,klare,128968,128971,ich,klare
 qd,11g9w.0,128782,129239,klare,128975,128981,meinem,klare
 qd,11g9w.0,128782,129239,klare,129026,129030,mich,klare
 qd,11g9w.0,128782,129239,klare,129062,129065,mir,klare
+qd,11g9w.0,128782,129239,klare,129102,129105,mir,klare
 qd,11g9w.0,129306,129658,brackenburg,129493,129496,ich,brackenburg
 qd,11g9w.0,129306,129658,brackenburg,129535,129539,mich,brackenburg
 qd,11g9w.0,129663,129840,klare,129690,129693,ich,klare
@@ -721,6 +739,7 @@ qd,11g9w.0,129845,136085,egmont,130389,130392,Ich,egmont
 qd,11g9w.0,129845,136085,egmont,130438,130444,meiner,egmont
 qd,11g9w.0,129845,136085,egmont,130470,130473,ich,egmont
 qd,11g9w.0,129845,136085,egmont,130518,130522,mich,egmont
+qd,11g9w.0,129845,136085,egmont,131216,131219,mir,egmont
 qd,11g9w.0,129845,136085,egmont,131232,131238,meinem,egmont
 qd,11g9w.0,129845,136085,egmont,131440,131444,mich,egmont
 qd,11g9w.0,129845,136085,egmont,131465,131468,ich,egmont
@@ -854,6 +873,7 @@ qd,11g9w.0,146445,148602,egmont,148048,148052,mich,egmont
 qd,11g9w.0,146445,148602,egmont,148141,148144,Ich,egmont
 qd,11g9w.0,146445,148602,egmont,148182,148187,meine,egmont
 qd,11g9w.0,146445,148602,egmont,148264,148268,mich,egmont
+qd,11g9w.0,146445,148602,egmont,148296,148299,ich,egmont
 qd,11g9w.0,146445,148602,egmont,148312,148315,ich,egmont
 qd,11g9w.0,148607,148987,ferdinand,148619,148622,Ich,ferdinand
 qd,11g9w.0,148607,148987,ferdinand,148718,148721,ich,ferdinand

@@ -241,6 +241,7 @@ qd,kd4r.0,31979,32851,hubert,32502,32505,mir,hubert
 qd,kd4r.0,31979,32851,hubert,32603,32606,ich,hubert
 qd,kd4r.0,31979,32851,hubert,32736,32739,ich,hubert
 qd,kd4r.0,33016,33140,hubert,33036,33039,Ich,hubert
+qd,kd4r.0,33276,33357,hubert,33290,33293,ich,hubert
 qd,kd4r.0,33362,33515,baldinger,33385,33390,meine,baldinger
 qd,kd4r.0,33649,33922,justitiär,33690,33693,ich,justitiär
 qd,kd4r.0,33649,33922,justitiär,33771,33775,mich,justitiär
@@ -365,6 +366,7 @@ qd,kd4r.0,51446,51789,baldinger,51552,51556,mich,baldinger
 qd,kd4r.0,51446,51789,baldinger,51629,51633,mein,baldinger
 qd,kd4r.0,51446,51789,baldinger,51687,51690,ich,baldinger
 qd,kd4r.0,51893,52415,welting,51940,51943,Ich,welting
+qd,kd4r.0,51893,52415,welting,52163,52166,mir,welting
 qd,kd4r.0,51893,52415,welting,52194,52198,mich,welting
 qd,kd4r.0,52792,52846,hermine,52834,52838,mein,hermine
 qd,kd4r.0,52882,52926,hermine,52892,52897,Meine,hermine
@@ -530,6 +532,7 @@ qd,kd4r.0,70496,71416,justitiär,71399,71402,ich,justitiär
 qd,kd4r.0,71572,71716,hubert,71581,71584,Ich,hubert
 qd,kd4r.0,71721,72725,justitiär,72056,72059,ich,justitiär
 qd,kd4r.0,72793,73747,hubert,72928,72932,Mein,hubert
+qd,kd4r.0,72793,73747,hubert,73001,73004,mir,hubert
 qd,kd4r.0,72793,73747,hubert,73024,73028,mich,hubert
 qd,kd4r.0,72793,73747,hubert,73290,73294,mein,hubert
 qd,kd4r.0,72793,73747,hubert,73405,73408,ich,hubert
@@ -541,6 +544,7 @@ qd,kd4r.0,74903,75045,baldinger,74929,74932,Ich,baldinger
 qd,kd4r.0,74903,75045,baldinger,74987,74991,mein,baldinger
 qd,kd4r.0,75143,75290,baldinger,75228,75232,mich,baldinger
 qd,kd4r.0,75296,75582,hubert,75305,75308,Ich,hubert
+qd,kd4r.0,75296,75582,hubert,75348,75351,ich,hubert
 qd,kd4r.0,75296,75582,hubert,75399,75402,mir,hubert
 qd,kd4r.0,75677,75827,baldinger,75726,75729,ich,baldinger
 qd,kd4r.0,75677,75827,baldinger,75811,75814,ich,baldinger
@@ -675,7 +679,10 @@ qd,kd4r.0,90608,90692,hubert,90668,90672,mich,hubert
 qd,kd4r.0,90697,90785,hermine,90722,90726,mich,hermine
 qd,kd4r.0,90790,90881,hubert,90841,90844,ich,hubert
 qd,kd4r.0,91026,91072,hermine,91063,91066,ich,hermine
+qd,kd4r.0,91077,91293,hubert,91146,91149,ich,hubert
 qd,kd4r.0,91582,91632,hermine,91601,91604,mir,hermine
+qd,kd4r.0,91718,91743,hermine,91737,91740,mir,hermine
+qd,kd4r.0,91797,91828,hermine,91816,91819,mir,hermine
 qd,kd4r.0,91833,91997,hubert,91847,91850,ich,hubert
 qd,kd4r.0,91833,91997,hubert,91913,91916,ich,hubert
 qd,kd4r.0,92118,92207,hubert,92183,92186,ich,hubert

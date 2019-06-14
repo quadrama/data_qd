@@ -126,6 +126,7 @@ qd,strq.0,19078,19154,pantsch,19113,19119,meiner,pantsch
 qd,strq.0,19332,19464,pantsch,19356,19360,mich,pantsch
 qd,strq.0,19791,19845,knieriem,19835,19838,mir,knieriem
 qd,strq.0,19850,20093,leim,19921,19924,ich,leim
+qd,strq.0,19850,20093,leim,19925,19928,mir,leim
 qd,strq.0,19850,20093,leim,20000,20004,mich,leim
 qd,strq.0,20238,20423,zwirn,20270,20276,meiner,zwirn
 qd,strq.0,20238,20423,zwirn,20335,20339,mich,zwirn
@@ -178,6 +179,7 @@ qd,strq.0,22892,23011,leim,22914,22917,mir,leim
 qd,strq.0,22892,23011,leim,22918,22922,mein,leim
 qd,strq.0,22892,23011,leim,22969,22972,ich,leim
 qd,strq.0,23040,23565,leim,23061,23065,mein,leim
+qd,strq.0,23040,23565,leim,23092,23095,mir,leim
 qd,strq.0,23040,23565,leim,23114,23117,ich,leim
 qd,strq.0,23040,23565,leim,23216,23219,mir,leim
 qd,strq.0,23040,23565,leim,23225,23228,ich,leim
@@ -237,7 +239,9 @@ qd,strq.0,27023,27214,knieriem,27038,27041,ich,knieriem
 qd,strq.0,27023,27214,knieriem,27096,27099,Ich,knieriem
 qd,strq.0,27023,27214,knieriem,27160,27164,mich,knieriem
 qd,strq.0,27220,27342,leim,27227,27230,Ich,leim
+qd,strq.0,27779,28055,leim,27877,27880,ich,leim
 qd,strq.0,27779,28055,leim,27907,27910,ich,leim
+qd,strq.0,27779,28055,leim,27917,27920,mir,leim
 qd,strq.0,27779,28055,leim,27971,27974,mir,leim
 qd,strq.0,27779,28055,leim,27987,27990,ich,leim
 qd,strq.0,28137,28175,zwirn,28145,28148,Ich,zwirn
@@ -245,6 +249,7 @@ qd,strq.0,28180,28213,leim,28187,28190,Mir,leim
 qd,strq.0,28307,28368,zwirn,28319,28322,mir,zwirn
 qd,strq.0,28729,28773,hannerl,28739,28742,Ich,hannerl
 qd,strq.0,28816,28882,zwirn,28845,28848,mir,zwirn
+qd,strq.0,29451,29522,zwirn,29473,29476,ich,zwirn
 qd,strq.0,29856,29970,knieriem,29867,29870,Mir,knieriem
 qd,strq.0,30304,30657,hausierer,30522,30525,ich,hausierer
 qd,strq.0,30759,30794,leim,30775,30778,ich,leim
@@ -262,6 +267,7 @@ qd,strq.0,32458,32726,leim,32573,32578,Meine,leim
 qd,strq.0,33007,33100,zwirn,33061,33064,ich,zwirn
 qd,strq.0,33158,33339,leim,33251,33254,mir,leim
 qd,strq.0,33344,33434,hausierer,33372,33375,Ich,hausierer
+qd,strq.0,33509,33572,sepherl,33538,33541,ich,sepherl
 qd,strq.0,34123,34216,knieriem,34203,34207,mich,knieriem
 qd,strq.0,34221,34329,leim,34228,34233,Meine,leim
 qd,strq.0,34221,34329,leim,34244,34247,mir,leim
@@ -285,6 +291,7 @@ qd,strq.0,35768,35869,zwirn,35798,35801,mir,zwirn
 qd,strq.0,35768,35869,zwirn,35814,35817,Ich,zwirn
 qd,strq.0,35874,36176,knieriem,35889,35892,ich,knieriem
 qd,strq.0,35874,36176,knieriem,35951,35954,ich,knieriem
+qd,strq.0,35874,36176,knieriem,35955,35958,mir,knieriem
 qd,strq.0,35874,36176,knieriem,35989,35993,mich,knieriem
 qd,strq.0,35874,36176,knieriem,36068,36071,ich,knieriem
 qd,strq.0,36181,36253,leim,36188,36191,Mir,leim
@@ -371,6 +378,7 @@ qd,strq.0,45071,45148,peppi,45135,45138,ich,peppi
 qd,strq.0,45153,45381,hobelmann,45179,45182,ich,hobelmann
 qd,strq.0,45153,45381,hobelmann,45269,45272,ich,hobelmann
 qd,strq.0,45153,45381,hobelmann,45273,45278,meine,hobelmann
+qd,strq.0,45434,45760,hobelmann,45455,45458,ich,hobelmann
 qd,strq.0,45434,45760,hobelmann,45509,45512,Ich,hobelmann
 qd,strq.0,45434,45760,hobelmann,45570,45575,meine,hobelmann
 qd,strq.0,45793,45948,leim,45842,45845,ich,leim
@@ -519,6 +527,7 @@ qd,strq.0,62719,62863,camilla,62806,62809,mir,camilla
 qd,strq.0,62719,62863,camilla,62845,62848,ich,camilla
 qd,strq.0,62719,62863,camilla,62849,62853,mich,camilla
 qd,strq.0,62869,62988,laura,62963,62967,mich,laura
+qd,strq.0,63319,63522,zwirn,63335,63338,mir,zwirn
 qd,strq.0,63319,63522,zwirn,63353,63356,Ich,zwirn
 qd,strq.0,63986,64288,laura,64115,64118,mir,laura
 qd,strq.0,63986,64288,laura,64212,64216,mein,laura
@@ -593,6 +602,7 @@ qd,strq.0,72242,72452,zwirn,72291,72294,ich,zwirn
 qd,strq.0,72242,72452,zwirn,72376,72379,ich,zwirn
 qd,strq.0,72457,72605,hobelmann,72473,72476,ich,hobelmann
 qd,strq.0,72457,72605,hobelmann,72516,72520,mich,hobelmann
+qd,strq.0,72457,72605,hobelmann,72545,72548,ich,hobelmann
 qd,strq.0,72654,72761,hobelmann,72676,72680,mich,hobelmann
 qd,strq.0,72797,72892,hobelmann,72846,72849,ich,hobelmann
 qd,strq.0,72797,72892,hobelmann,72856,72860,mich,hobelmann

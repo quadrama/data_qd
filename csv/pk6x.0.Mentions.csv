@@ -8,6 +8,7 @@ qd,pk6x.0,3399,3683,frau_sophie_jagert,3520,3523,Ich,frau_sophie_jagert
 qd,pk6x.0,4149,4424,lieschen,4273,4277,mich,lieschen
 qd,pk6x.0,4149,4424,lieschen,4346,4349,mir,lieschen
 qd,pk6x.0,5002,5298,frau_sophie_jagert,5090,5093,ich,frau_sophie_jagert
+qd,pk6x.0,5002,5298,frau_sophie_jagert,5103,5106,ich,frau_sophie_jagert
 qd,pk6x.0,5303,5616,lieschen,5462,5465,ich,lieschen
 qd,pk6x.0,5303,5616,lieschen,5533,5536,ich,lieschen
 qd,pk6x.0,5303,5616,lieschen,5577,5580,ich,lieschen
@@ -46,6 +47,7 @@ qd,pk6x.0,13199,13263,lieschen,13258,13261,Ich,lieschen
 qd,pk6x.0,13268,13617,frau_sophie_jagert,13460,13463,Ich,frau_sophie_jagert
 qd,pk6x.0,13623,13792,lieschen,13716,13719,mir,lieschen
 qd,pk6x.0,13623,13792,lieschen,13752,13755,ich,lieschen
+qd,pk6x.0,13797,14578,frau_sophie_jagert,13964,13967,mir,frau_sophie_jagert
 qd,pk6x.0,13797,14578,frau_sophie_jagert,14039,14042,ich,frau_sophie_jagert
 qd,pk6x.0,13797,14578,frau_sophie_jagert,14310,14313,mir,frau_sophie_jagert
 qd,pk6x.0,13797,14578,frau_sophie_jagert,14345,14348,mir,frau_sophie_jagert
@@ -131,6 +133,7 @@ qd,pk6x.0,29164,29376,konrads_stimme,29344,29349,Meine,konrads_stimme
 qd,pk6x.0,29164,29376,konrads_stimme,29357,29362,meine,konrads_stimme
 qd,pk6x.0,29164,29376,konrads_stimme,29367,29372,meine,konrads_stimme
 qd,pk6x.0,29381,29594,hanna,29550,29554,mich,hanna
+qd,pk6x.0,29738,30002,eduards_stimme,29763,29766,ich,eduards_stimme
 qd,pk6x.0,29738,30002,eduards_stimme,29802,29805,Ich,eduards_stimme
 qd,pk6x.0,30321,30400,eduards_stimme,30347,30350,ich,eduards_stimme
 qd,pk6x.0,30583,30663,konrads_stimme,30592,30595,Ich,konrads_stimme
@@ -286,6 +289,7 @@ qd,pk6x.0,52800,52876,freudenberg,52854,52857,mir,freudenberg
 qd,pk6x.0,52881,53236,hanna,52889,52892,Ich,hanna
 qd,pk6x.0,52881,53236,hanna,52975,52978,ich,hanna
 qd,pk6x.0,52881,53236,hanna,53125,53130,meine,hanna
+qd,pk6x.0,53241,53332,freudenberg,53268,53271,mir,freudenberg
 qd,pk6x.0,53369,53402,freudenberg,53398,53401,ich,freudenberg
 qd,pk6x.0,53695,53737,freudenberg,53721,53724,mir,freudenberg
 qd,pk6x.0,53742,53933,hanna,53782,53786,mich,hanna
@@ -509,6 +513,7 @@ qd,pk6x.0,80353,81246,der_alte_vernier,80504,80510,meines,der_alte_vernier
 qd,pk6x.0,80353,81246,der_alte_vernier,80524,80530,meines,der_alte_vernier
 qd,pk6x.0,80353,81246,der_alte_vernier,80542,80545,mir,der_alte_vernier
 qd,pk6x.0,80353,81246,der_alte_vernier,80546,80550,mein,der_alte_vernier
+qd,pk6x.0,80353,81246,der_alte_vernier,80632,80635,ich,der_alte_vernier
 qd,pk6x.0,80353,81246,der_alte_vernier,80656,80659,Ich,der_alte_vernier
 qd,pk6x.0,80353,81246,der_alte_vernier,80784,80787,mir,der_alte_vernier
 qd,pk6x.0,80353,81246,der_alte_vernier,80846,80849,Ich,der_alte_vernier
@@ -760,6 +765,7 @@ qd,pk6x.0,116805,116874,alexander,116854,116857,ich,alexander
 qd,pk6x.0,116975,117249,alexander,117043,117046,Ich,alexander
 qd,pk6x.0,116975,117249,alexander,117065,117071,meiner,alexander
 qd,pk6x.0,117579,117978,alexander,117622,117626,mein,alexander
+qd,pk6x.0,117579,117978,alexander,117791,117794,ich,alexander
 qd,pk6x.0,117579,117978,alexander,117862,117865,Ich,alexander
 qd,pk6x.0,117579,117978,alexander,117923,117926,mir,alexander
 qd,pk6x.0,117579,117978,alexander,117948,117954,meines,alexander

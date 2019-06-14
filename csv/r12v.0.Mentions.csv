@@ -62,10 +62,12 @@ qd,r12v.0,4287,4348,guelfo,4328,4331,Ich,guelfo
 qd,r12v.0,4449,4495,guelfo,4476,4479,ich,guelfo
 qd,r12v.0,4541,4715,guelfo,4550,4553,Ich,guelfo
 qd,r12v.0,4541,4715,guelfo,4563,4566,mir,guelfo
+qd,r12v.0,4541,4715,guelfo,4592,4595,mir,guelfo
 qd,r12v.0,4541,4715,guelfo,4606,4609,mir,guelfo
 qd,r12v.0,4541,4715,guelfo,4633,4636,ich,guelfo
 qd,r12v.0,4541,4715,guelfo,4698,4701,ich,guelfo
 qd,r12v.0,4824,4890,guelfo,4866,4870,mein,guelfo
+qd,r12v.0,5021,5101,guelfo,5041,5044,mir,guelfo
 qd,r12v.0,5021,5101,guelfo,5088,5092,mich,guelfo
 qd,r12v.0,5467,5592,guelfo,5506,5512,meinem,guelfo
 qd,r12v.0,5597,5777,grimaldi,5619,5623,mich,grimaldi
@@ -109,6 +111,7 @@ qd,r12v.0,8001,8990,grimaldi,8792,8795,Ich,grimaldi
 qd,r12v.0,8001,8990,grimaldi,8912,8916,mich,grimaldi
 qd,r12v.0,8001,8990,grimaldi,8930,8933,Ich,grimaldi
 qd,r12v.0,8995,9336,guelfo,9030,9033,mir,guelfo
+qd,r12v.0,8995,9336,guelfo,9091,9094,ich,guelfo
 qd,r12v.0,8995,9336,guelfo,9144,9147,ich,guelfo
 qd,r12v.0,9341,10164,grimaldi,9475,9478,ich,grimaldi
 qd,r12v.0,9341,10164,grimaldi,9647,9653,meinen,grimaldi
@@ -129,6 +132,7 @@ qd,r12v.0,10233,10414,grimaldi,10364,10367,ich,grimaldi
 qd,r12v.0,10233,10414,grimaldi,10392,10395,mir,grimaldi
 qd,r12v.0,10419,10641,guelfo,10454,10458,mich,guelfo
 qd,r12v.0,10419,10641,guelfo,10510,10513,ich,guelfo
+qd,r12v.0,10419,10641,guelfo,10534,10537,ich,guelfo
 qd,r12v.0,10646,10779,grimaldi,10657,10660,Ich,grimaldi
 qd,r12v.0,10646,10779,grimaldi,10702,10705,ich,grimaldi
 qd,r12v.0,10784,11253,guelfo,10821,10824,ich,guelfo
@@ -171,6 +175,7 @@ qd,r12v.0,13834,14612,grimaldi,13853,13856,ich,grimaldi
 qd,r12v.0,13834,14612,grimaldi,13875,13879,mich,grimaldi
 qd,r12v.0,13834,14612,grimaldi,13915,13918,ich,grimaldi
 qd,r12v.0,13834,14612,grimaldi,14190,14194,mein,grimaldi
+qd,r12v.0,13834,14612,grimaldi,14207,14210,mir,grimaldi
 qd,r12v.0,13834,14612,grimaldi,14445,14448,mir,grimaldi
 qd,r12v.0,13834,14612,grimaldi,14470,14473,ich,grimaldi
 qd,r12v.0,14617,15313,guelfo,14636,14640,mich,guelfo
@@ -193,8 +198,11 @@ qd,r12v.0,15358,15816,guelfo,15575,15581,meinen,guelfo
 qd,r12v.0,15358,15816,guelfo,15635,15638,ich,guelfo
 qd,r12v.0,15358,15816,guelfo,15714,15717,mir,guelfo
 qd,r12v.0,15864,16475,guelfo,16075,16078,ich,guelfo
+qd,r12v.0,15864,16475,guelfo,16246,16249,mir,guelfo
 qd,r12v.0,15864,16475,guelfo,16277,16280,ich,guelfo
 qd,r12v.0,15864,16475,guelfo,16397,16400,mir,guelfo
+qd,r12v.0,16624,17394,guelfo,16655,16658,ich,guelfo
+qd,r12v.0,16624,17394,guelfo,16700,16703,ich,guelfo
 qd,r12v.0,16624,17394,guelfo,16713,16716,Ich,guelfo
 qd,r12v.0,16624,17394,guelfo,16722,16727,meine,guelfo
 qd,r12v.0,16624,17394,guelfo,16791,16795,mich,guelfo
@@ -380,6 +388,7 @@ qd,r12v.0,29672,29775,alter_guelfo,29739,29743,mein,alter_guelfo
 qd,r12v.0,29780,29872,guelfo,29804,29807,mir,guelfo
 qd,r12v.0,29780,29872,guelfo,29821,29825,mich,guelfo
 qd,r12v.0,29780,29872,guelfo,29838,29841,ich,guelfo
+qd,r12v.0,29780,29872,guelfo,29861,29864,ich,guelfo
 qd,r12v.0,29877,30217,amalia,30032,30035,ich,amalia
 qd,r12v.0,30222,30415,alter_guelfo,30252,30255,Ich,alter_guelfo
 qd,r12v.0,30222,30415,alter_guelfo,30264,30270,meinen,alter_guelfo
@@ -417,12 +426,16 @@ qd,r12v.0,31935,32174,guelfo,32130,32134,mich,guelfo
 qd,r12v.0,32547,33152,guelfo,32585,32588,ich,guelfo
 qd,r12v.0,32547,33152,guelfo,32602,32605,Ich,guelfo
 qd,r12v.0,32547,33152,guelfo,32622,32625,ich,guelfo
+qd,r12v.0,32547,33152,guelfo,32648,32651,ich,guelfo
+qd,r12v.0,32547,33152,guelfo,32665,32668,ich,guelfo
 qd,r12v.0,32547,33152,guelfo,32916,32919,ich,guelfo
 qd,r12v.0,32547,33152,guelfo,32935,32938,ich,guelfo
 qd,r12v.0,32547,33152,guelfo,33004,33009,meine,guelfo
+qd,r12v.0,33297,34386,grimaldi,33313,33316,mir,grimaldi
 qd,r12v.0,33297,34386,grimaldi,33359,33362,ich,grimaldi
 qd,r12v.0,33297,34386,grimaldi,33393,33396,ich,grimaldi
 qd,r12v.0,33297,34386,grimaldi,33397,33400,mir,grimaldi
+qd,r12v.0,33297,34386,grimaldi,33422,33426,mich,grimaldi
 qd,r12v.0,33297,34386,grimaldi,33536,33542,meiner,grimaldi
 qd,r12v.0,33297,34386,grimaldi,33723,33726,ich,grimaldi
 qd,r12v.0,33297,34386,grimaldi,33860,33863,ich,grimaldi
@@ -449,6 +462,7 @@ qd,r12v.0,34554,35285,grimaldi,35097,35101,mich,grimaldi
 qd,r12v.0,34554,35285,grimaldi,35143,35147,mein,grimaldi
 qd,r12v.0,35330,35879,grimaldi,35625,35628,ich,grimaldi
 qd,r12v.0,35330,35879,grimaldi,35636,35639,mir,grimaldi
+qd,r12v.0,35330,35879,grimaldi,35726,35729,mir,grimaldi
 qd,r12v.0,35330,35879,grimaldi,35747,35750,ich,grimaldi
 qd,r12v.0,35330,35879,grimaldi,35751,35755,mich,grimaldi
 qd,r12v.0,35330,35879,grimaldi,35814,35818,mich,grimaldi
@@ -486,8 +500,12 @@ qd,r12v.0,37759,37924,guelfo,37909,37913,mein,guelfo
 qd,r12v.0,37929,38167,grimaldi,37940,37943,Ich,grimaldi
 qd,r12v.0,37929,38167,grimaldi,37959,37963,mein,grimaldi
 qd,r12v.0,37929,38167,grimaldi,37979,37982,Ich,grimaldi
+qd,r12v.0,37929,38167,grimaldi,38040,38043,ich,grimaldi
 qd,r12v.0,37929,38167,grimaldi,38064,38069,meine,grimaldi
+qd,r12v.0,37929,38167,grimaldi,38103,38106,ich,grimaldi
+qd,r12v.0,37929,38167,grimaldi,38130,38133,ich,grimaldi
 qd,r12v.0,38208,38552,grimaldi,38308,38314,meinem,grimaldi
+qd,r12v.0,38208,38552,grimaldi,38364,38367,ich,grimaldi
 qd,r12v.0,38208,38552,grimaldi,38381,38384,mir,grimaldi
 qd,r12v.0,38208,38552,grimaldi,38436,38439,ich,grimaldi
 qd,r12v.0,38208,38552,grimaldi,38455,38460,meine,grimaldi
@@ -520,6 +538,7 @@ qd,r12v.0,39684,40557,guelfo,40445,40450,meine,guelfo
 qd,r12v.0,39684,40557,guelfo,40467,40470,ich,guelfo
 qd,r12v.0,39684,40557,guelfo,40504,40508,mein,guelfo
 qd,r12v.0,40632,40943,grimaldi,40755,40758,mir,grimaldi
+qd,r12v.0,40632,40943,grimaldi,40864,40867,ich,grimaldi
 qd,r12v.0,41681,41806,guelfo,41714,41718,mich,guelfo
 qd,r12v.0,41681,41806,guelfo,41728,41731,Ich,guelfo
 qd,r12v.0,41681,41806,guelfo,41764,41767,ich,guelfo
@@ -559,6 +578,7 @@ qd,r12v.0,44314,44595,ferdinando,44586,44590,mein,ferdinando
 qd,r12v.0,44640,44730,ferdinando,44663,44668,Meine,ferdinando
 qd,r12v.0,44640,44730,ferdinando,44682,44686,mich,ferdinando
 qd,r12v.0,44640,44730,ferdinando,44703,44706,ich,ferdinando
+qd,r12v.0,44801,45363,ferdinando,44822,44825,ich,ferdinando
 qd,r12v.0,44801,45363,ferdinando,44834,44837,Mir,ferdinando
 qd,r12v.0,44801,45363,ferdinando,44858,44861,ich,ferdinando
 qd,r12v.0,44801,45363,ferdinando,44862,44867,meine,ferdinando
@@ -567,7 +587,10 @@ qd,r12v.0,44801,45363,ferdinando,44982,44985,Ich,ferdinando
 qd,r12v.0,44801,45363,ferdinando,45037,45040,mir,ferdinando
 qd,r12v.0,44801,45363,ferdinando,45130,45135,Meine,ferdinando
 qd,r12v.0,44801,45363,ferdinando,45149,45153,mich,ferdinando
+qd,r12v.0,44801,45363,ferdinando,45181,45184,ich,ferdinando
+qd,r12v.0,44801,45363,ferdinando,45210,45214,mich,ferdinando
 qd,r12v.0,44801,45363,ferdinando,45225,45230,Meine,ferdinando
+qd,r12v.0,44801,45363,ferdinando,45276,45279,mir,ferdinando
 qd,r12v.0,45368,45450,amalia,45377,45381,Mein,amalia
 qd,r12v.0,45455,45537,ferdinando,45521,45525,mich,ferdinando
 qd,r12v.0,45542,45622,alter_guelfo,45566,45570,mein,alter_guelfo
@@ -618,7 +641,10 @@ qd,r12v.0,48764,49291,alter_guelfo,49064,49067,Ich,alter_guelfo
 qd,r12v.0,48764,49291,alter_guelfo,49099,49102,ich,alter_guelfo
 qd,r12v.0,48764,49291,alter_guelfo,49147,49150,mir,alter_guelfo
 qd,r12v.0,49296,49405,ferdinando,49316,49319,ich,ferdinando
+qd,r12v.0,49411,49614,alter_guelfo,49433,49436,ich,alter_guelfo
+qd,r12v.0,49411,49614,alter_guelfo,49454,49457,ich,alter_guelfo
 qd,r12v.0,49411,49614,alter_guelfo,49465,49468,ich,alter_guelfo
+qd,r12v.0,49411,49614,alter_guelfo,49489,49492,ich,alter_guelfo
 qd,r12v.0,49411,49614,alter_guelfo,49532,49537,Meine,alter_guelfo
 qd,r12v.0,49411,49614,alter_guelfo,49557,49560,Ich,alter_guelfo
 qd,r12v.0,49664,49848,ferdinando,49792,49795,Ich,ferdinando
@@ -661,6 +687,7 @@ qd,r12v.0,52918,53036,camilla,52949,52952,Ich,camilla
 qd,r12v.0,52918,53036,camilla,52988,52991,ich,camilla
 qd,r12v.0,53041,53151,grimaldi,53076,53079,Ich,grimaldi
 qd,r12v.0,53041,53151,grimaldi,53132,53136,mein,grimaldi
+qd,r12v.0,53235,53390,alter_guelfo,53256,53259,ich,alter_guelfo
 qd,r12v.0,53395,53507,ferdinando,53408,53411,Ich,ferdinando
 qd,r12v.0,53395,53507,ferdinando,53445,53448,ich,ferdinando
 qd,r12v.0,53395,53507,ferdinando,53461,53464,ich,ferdinando
@@ -725,6 +752,7 @@ qd,r12v.0,56980,57686,guelfo,57108,57111,ich,guelfo
 qd,r12v.0,56980,57686,guelfo,57212,57215,ich,guelfo
 qd,r12v.0,56980,57686,guelfo,57252,57255,ich,guelfo
 qd,r12v.0,56980,57686,guelfo,57328,57331,ich,guelfo
+qd,r12v.0,56980,57686,guelfo,57345,57348,mir,guelfo
 qd,r12v.0,56980,57686,guelfo,57383,57386,ich,guelfo
 qd,r12v.0,56980,57686,guelfo,57387,57391,mich,guelfo
 qd,r12v.0,56980,57686,guelfo,57426,57429,mir,guelfo
@@ -797,6 +825,7 @@ qd,r12v.0,62883,63047,guelfo,62905,62908,ich,guelfo
 qd,r12v.0,62883,63047,guelfo,62938,62942,mich,guelfo
 qd,r12v.0,62883,63047,guelfo,63042,63046,mich,guelfo
 qd,r12v.0,63091,63314,guelfo,63130,63133,mir,guelfo
+qd,r12v.0,63091,63314,guelfo,63157,63160,mir,guelfo
 qd,r12v.0,63091,63314,guelfo,63207,63213,meinen,guelfo
 qd,r12v.0,63091,63314,guelfo,63236,63239,ich,guelfo
 qd,r12v.0,63091,63314,guelfo,63299,63302,ich,guelfo
@@ -896,6 +925,7 @@ qd,r12v.0,69663,69752,guelfo,69748,69751,ich,guelfo
 qd,r12v.0,69757,70249,grimaldi,70021,70025,mich,grimaldi
 qd,r12v.0,69757,70249,grimaldi,70043,70049,meinem,grimaldi
 qd,r12v.0,69757,70249,grimaldi,70203,70206,ich,grimaldi
+qd,r12v.0,70254,70381,guelfo,70284,70287,ich,guelfo
 qd,r12v.0,70254,70381,guelfo,70303,70306,mir,guelfo
 qd,r12v.0,70254,70381,guelfo,70340,70344,mich,guelfo
 qd,r12v.0,70254,70381,guelfo,70349,70355,meinem,guelfo
@@ -989,6 +1019,7 @@ qd,r12v.0,77208,77565,amalia,77414,77418,mein,amalia
 qd,r12v.0,77208,77565,amalia,77487,77490,ich,amalia
 qd,r12v.0,77208,77565,amalia,77491,77497,meinen,amalia
 qd,r12v.0,77208,77565,amalia,77510,77513,mir,amalia
+qd,r12v.0,77208,77565,amalia,77549,77552,mir,amalia
 qd,r12v.0,77570,77771,guelfo,77586,77592,meiner,guelfo
 qd,r12v.0,77570,77771,guelfo,77611,77614,Ich,guelfo
 qd,r12v.0,77570,77771,guelfo,77636,77639,mir,guelfo
@@ -1014,6 +1045,7 @@ qd,r12v.0,78945,79033,guelfo,79014,79017,mir,guelfo
 qd,r12v.0,79038,79192,amalia,79076,79079,ich,amalia
 qd,r12v.0,79314,79429,amalia,79323,79326,Ich,amalia
 qd,r12v.0,79314,79429,amalia,79332,79337,meine,amalia
+qd,r12v.0,79314,79429,amalia,79423,79426,mir,amalia
 qd,r12v.0,79434,79484,guelfo,79472,79477,meine,guelfo
 qd,r12v.0,79489,79592,amalia,79498,79501,Ich,amalia
 qd,r12v.0,79489,79592,amalia,79515,79521,meinen,amalia
@@ -1055,6 +1087,7 @@ qd,r12v.0,82293,82603,guelfo,82411,82416,meine,guelfo
 qd,r12v.0,82293,82603,guelfo,82552,82555,mir,guelfo
 qd,r12v.0,82293,82603,guelfo,82585,82589,mich,guelfo
 qd,r12v.0,82717,82864,guelfo,82744,82748,mich,guelfo
+qd,r12v.0,82717,82864,guelfo,82781,82784,mir,guelfo
 qd,r12v.0,82870,82910,amalia,82897,82901,mich,amalia
 qd,r12v.0,82915,83146,guelfo,82934,82937,Ich,guelfo
 qd,r12v.0,82915,83146,guelfo,82971,82977,meinen,guelfo
@@ -1135,10 +1168,12 @@ qd,r12v.0,87921,88049,camilla,87940,87943,ich,camilla
 qd,r12v.0,88335,88425,camilla,88345,88348,Ich,camilla
 qd,r12v.0,88335,88425,camilla,88365,88368,ich,camilla
 qd,r12v.0,88430,88505,amalia,88456,88461,meine,amalia
+qd,r12v.0,88510,88669,camilla,88617,88620,mir,camilla
 qd,r12v.0,88705,88933,camilla,88759,88762,mir,camilla
 qd,r12v.0,88705,88933,camilla,88836,88839,ich,camilla
 qd,r12v.0,88705,88933,camilla,88865,88870,meine,camilla
 qd,r12v.0,88938,88998,amalia,88983,88986,Ich,amalia
+qd,r12v.0,89003,89107,camilla,89084,89087,mir,camilla
 qd,r12v.0,89113,89137,amalia,89122,89125,Ich,amalia
 qd,r12v.0,89142,89249,camilla,89186,89189,Ich,camilla
 qd,r12v.0,89142,89249,camilla,89208,89211,ich,camilla
@@ -1149,9 +1184,11 @@ qd,r12v.0,89464,89583,alter_guelfo,89534,89538,mich,alter_guelfo
 qd,r12v.0,89464,89583,alter_guelfo,89544,89547,Ich,alter_guelfo
 qd,r12v.0,89464,89583,alter_guelfo,89555,89559,mich,alter_guelfo
 qd,r12v.0,89636,90206,alter_guelfo,89726,89729,ich,alter_guelfo
+qd,r12v.0,89636,90206,alter_guelfo,89740,89743,ich,alter_guelfo
 qd,r12v.0,89636,90206,alter_guelfo,90102,90105,ich,alter_guelfo
 qd,r12v.0,90398,90490,alter_guelfo,90413,90416,Ich,alter_guelfo
 qd,r12v.0,90525,90809,alter_guelfo,90540,90543,Ich,alter_guelfo
+qd,r12v.0,90863,90979,alter_guelfo,90922,90925,ich,alter_guelfo
 qd,r12v.0,90985,91098,camilla,90995,90998,Mir,camilla
 qd,r12v.0,91103,91220,alter_guelfo,91154,91157,Ich,alter_guelfo
 qd,r12v.0,91257,91627,alter_guelfo,91441,91444,ich,alter_guelfo
@@ -1169,6 +1206,7 @@ qd,r12v.0,92638,92665,alter_guelfo,92653,92656,Ich,alter_guelfo
 qd,r12v.0,92900,93089,grimaldi,92925,92929,mein,grimaldi
 qd,r12v.0,92900,93089,grimaldi,92952,92955,ich,grimaldi
 qd,r12v.0,92900,93089,grimaldi,92980,92983,ich,grimaldi
+qd,r12v.0,93298,93370,grimaldi,93313,93316,ich,grimaldi
 qd,r12v.0,93602,93658,grimaldi,93640,93643,mir,grimaldi
 qd,r12v.0,93704,93739,camilla,93719,93722,ich,camilla
 qd,r12v.0,93782,94005,camilla,93796,93800,mein,camilla
@@ -1186,6 +1224,7 @@ qd,r12v.0,94938,95227,amalia,95096,95100,mich,amalia
 qd,r12v.0,94938,95227,amalia,95197,95200,ich,amalia
 qd,r12v.0,94938,95227,amalia,95219,95223,mich,amalia
 qd,r12v.0,95292,95318,camilla,95302,95306,Mein,camilla
+qd,r12v.0,95467,95531,amalia,95515,95518,ich,amalia
 qd,r12v.0,95536,95673,camilla,95641,95644,mir,camilla
 qd,r12v.0,95678,95725,amalia,95701,95705,Mein,amalia
 qd,r12v.0,95862,96148,guelfo,95888,95891,ich,guelfo
@@ -1248,6 +1287,7 @@ qd,r12v.0,98824,99800,guelfo,99345,99351,meinen,guelfo
 qd,r12v.0,98824,99800,guelfo,99440,99443,ich,guelfo
 qd,r12v.0,98824,99800,guelfo,99461,99465,mich,guelfo
 qd,r12v.0,98824,99800,guelfo,99484,99488,mich,guelfo
+qd,r12v.0,98824,99800,guelfo,99557,99560,ich,guelfo
 qd,r12v.0,98824,99800,guelfo,99582,99585,Ich,guelfo
 qd,r12v.0,98824,99800,guelfo,99617,99621,mich,guelfo
 qd,r12v.0,98824,99800,guelfo,99685,99688,mir,guelfo

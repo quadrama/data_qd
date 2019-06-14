@@ -521,6 +521,7 @@ qd,qkmq.0,60799,61059,friedrike,60943,60946,mir,friedrike
 qd,qkmq.0,60799,61059,friedrike,60975,60978,Ich,friedrike
 qd,qkmq.0,60799,61059,friedrike,61011,61014,ich,friedrike
 qd,qkmq.0,61147,61279,friedrike,61196,61199,mir,friedrike
+qd,qkmq.0,61147,61279,friedrike,61273,61276,mir,friedrike
 qd,qkmq.0,61362,61490,anton,61374,61378,mein,anton
 qd,qkmq.0,61362,61490,anton,61387,61390,Ich,anton
 qd,qkmq.0,61362,61490,anton,61420,61424,mein,anton
@@ -529,6 +530,7 @@ qd,qkmq.0,61496,61535,friedrike,61517,61521,mich,friedrike
 qd,qkmq.0,61564,61801,friedrike,61576,61579,Ich,friedrike
 qd,qkmq.0,61564,61801,friedrike,61617,61620,mir,friedrike
 qd,qkmq.0,61564,61801,friedrike,61653,61656,ich,friedrike
+qd,qkmq.0,61564,61801,friedrike,61684,61687,ich,friedrike
 qd,qkmq.0,61564,61801,friedrike,61727,61730,mir,friedrike
 qd,qkmq.0,61806,61879,anton,61835,61838,mir,anton
 qd,qkmq.0,61806,61879,anton,61850,61853,mir,anton
@@ -559,6 +561,7 @@ qd,qkmq.0,63297,63777,anton,63314,63318,mich,anton
 qd,qkmq.0,63297,63777,anton,63387,63390,mir,anton
 qd,qkmq.0,63297,63777,anton,63414,63417,ich,anton
 qd,qkmq.0,63297,63777,anton,63465,63468,mir,anton
+qd,qkmq.0,63297,63777,anton,63487,63490,mir,anton
 qd,qkmq.0,63297,63777,anton,63523,63526,ich,anton
 qd,qkmq.0,63297,63777,anton,63581,63584,ich,anton
 qd,qkmq.0,63297,63777,anton,63626,63629,ich,anton
@@ -774,6 +777,7 @@ qd,qkmq.0,87336,87381,pastor,87353,87356,Ich,pastor
 qd,qkmq.0,87386,87724,oberförster,87449,87452,Mir,oberförster
 qd,qkmq.0,87386,87724,oberförster,87485,87488,ich,oberförster
 qd,qkmq.0,87386,87724,oberförster,87503,87506,Ich,oberförster
+qd,qkmq.0,87386,87724,oberförster,87530,87533,mir,oberförster
 qd,qkmq.0,87386,87724,oberförster,87580,87583,Ich,oberförster
 qd,qkmq.0,87386,87724,oberförster,87701,87704,Ich,oberförster
 qd,qkmq.0,88068,88099,wirtin,88095,88098,ich,wirtin
@@ -836,6 +840,7 @@ qd,qkmq.0,98515,98635,der_alte_bauer,98622,98625,ich,der_alte_bauer
 qd,qkmq.0,98708,98810,der_alte_bauer,98753,98756,ich,der_alte_bauer
 qd,qkmq.0,98845,98966,gerichtsschreiber,98890,98893,ich,gerichtsschreiber
 qd,qkmq.0,98845,98966,gerichtsschreiber,98934,98937,ich,gerichtsschreiber
+qd,qkmq.0,98971,99006,matthes,98993,98996,ich,matthes
 qd,qkmq.0,99585,99743,gerichtsschreiber,99629,99633,mich,gerichtsschreiber
 qd,qkmq.0,99585,99743,gerichtsschreiber,99718,99721,ich,gerichtsschreiber
 qd,qkmq.0,99769,99994,gerichtsschreiber,99804,99808,mein,gerichtsschreiber
@@ -857,6 +862,8 @@ qd,qkmq.0,102424,102499,anton,102466,102469,Ich,anton
 qd,qkmq.0,102579,102741,anton,102606,102610,mein,anton
 qd,qkmq.0,102579,102741,anton,102631,102634,ich,anton
 qd,qkmq.0,102818,102843,anton,102837,102840,ich,anton
+qd,qkmq.0,103109,103140,matthes,103126,103129,mir,matthes
+qd,qkmq.0,103247,103344,matthes,103291,103294,mir,matthes
 qd,qkmq.0,103350,103435,anton,103367,103370,Ich,anton
 qd,qkmq.0,103350,103435,anton,103408,103411,ich,anton
 qd,qkmq.0,103822,103894,anton,103863,103866,mir,anton
@@ -909,6 +916,7 @@ qd,qkmq.0,109591,109739,gerichtsschreiber,109683,109686,Ich,gerichtsschreiber
 qd,qkmq.0,109769,110136,gerichtsschreiber,109901,109904,ich,gerichtsschreiber
 qd,qkmq.0,110241,110339,oberförster,110297,110300,ich,oberförster
 qd,qkmq.0,110805,110852,rudolph,110815,110818,Ich,rudolph
+qd,qkmq.0,110987,111068,oberförster,111014,111018,mich,oberförster
 qd,qkmq.0,110987,111068,oberförster,111033,111036,ich,oberförster
 qd,qkmq.0,111402,111447,oberforsterin,111426,111430,mich,oberforsterin
 qd,qkmq.0,111503,111590,oberforsterin,111533,111536,ich,oberforsterin
@@ -949,6 +957,7 @@ qd,qkmq.0,115874,116090,amtmann,115956,115959,ich,amtmann
 qd,qkmq.0,115874,116090,amtmann,116056,116059,ich,amtmann
 qd,qkmq.0,115874,116090,amtmann,116066,116070,mich,amtmann
 qd,qkmq.0,116557,117188,oberförster,116827,116830,ich,oberförster
+qd,qkmq.0,116557,117188,oberförster,116872,116875,mir,oberförster
 qd,qkmq.0,117193,117325,amtmann,117236,117239,ich,amtmann
 qd,qkmq.0,117193,117325,amtmann,117277,117280,ich,amtmann
 qd,qkmq.0,117673,117779,amtmann,117683,117687,Mein,amtmann

@@ -163,6 +163,7 @@ qd,11g5q.0,25415,31296,faust,25890,25893,ich,faust
 qd,11g5q.0,25415,31296,faust,25894,25898,mich,faust
 qd,11g5q.0,25415,31296,faust,25936,25939,Ich,faust
 qd,11g5q.0,25415,31296,faust,26108,26111,Ich,faust
+qd,11g5q.0,25415,31296,faust,26268,26271,ich,faust
 qd,11g5q.0,25415,31296,faust,26301,26305,mich,faust
 qd,11g5q.0,25415,31296,faust,26335,26338,ich,faust
 qd,11g5q.0,25415,31296,faust,26355,26359,mich,faust
@@ -239,6 +240,7 @@ qd,11g5q.0,35694,35990,bettler,35860,35864,mich,bettler
 qd,11g5q.0,35694,35990,bettler,35972,35976,mich,bettler
 qd,11g5q.0,35996,36361,andrer_buerger,36032,36035,ich,andrer_buerger
 qd,11g5q.0,35996,36361,andrer_buerger,36036,36039,mir,andrer_buerger
+qd,11g5q.0,36367,36535,dritter_buerger,36409,36412,ich,dritter_buerger
 qd,11g5q.0,36541,36745,alte,36724,36727,ich,alte
 qd,11g5q.0,36751,36929,buergermaedchen,36781,36784,ich,buergermaedchen
 qd,11g5q.0,36751,36929,buergermaedchen,36791,36795,mich,buergermaedchen
@@ -251,6 +253,7 @@ qd,11g5q.0,36935,37095,die_andre,37068,37071,mir,die_andre
 qd,11g5q.0,37101,37507,soldaten,37196,37199,ich,soldaten
 qd,11g5q.0,37512,38906,faust,38756,38759,Ich,faust
 qd,11g5q.0,37512,38906,faust,38873,38876,ich,faust
+qd,11g5q.0,37512,38906,faust,38895,38898,ich,faust
 qd,11g5q.0,38912,39230,wagner,39001,39004,ich,wagner
 qd,11g5q.0,38912,39230,wagner,39018,39022,mich,wagner
 qd,11g5q.0,38912,39230,wagner,39044,39047,ich,wagner
@@ -344,6 +347,7 @@ qd,11g5q.0,55927,56049,mephistopheles,56034,56038,mich,mephistopheles
 qd,11g5q.0,56055,56237,faust,56063,56066,Ich,faust
 qd,11g5q.0,56055,56237,faust,56097,56100,Ich,faust
 qd,11g5q.0,56055,56237,faust,56145,56149,mich,faust
+qd,11g5q.0,56243,56376,mephistopheles,56268,56271,ich,mephistopheles
 qd,11g5q.0,56243,56376,mephistopheles,56283,56286,ich,mephistopheles
 qd,11g5q.0,56243,56376,mephistopheles,56314,56317,mir,mephistopheles
 qd,11g5q.0,56383,56541,faust,56432,56435,mir,faust
@@ -554,6 +558,7 @@ qd,11g5q.0,83583,83976,brander,83792,83795,ich,brander
 qd,11g5q.0,83982,84075,frosch,84041,84044,mir,frosch
 qd,11g5q.0,83982,84075,frosch,84045,84049,mein,frosch
 qd,11g5q.0,84081,84143,siebel,84115,84118,ich,siebel
+qd,11g5q.0,84148,84317,frosch,84192,84195,mir,frosch
 qd,11g5q.0,84323,84800,siebel,84378,84381,Ich,siebel
 qd,11g5q.0,84323,84800,siebel,84390,84396,meiner,siebel
 qd,11g5q.0,84323,84800,siebel,84425,84429,mich,siebel
@@ -686,11 +691,13 @@ qd,11g5q.0,106894,107050,faust,106977,106981,Mich,faust
 qd,11g5q.0,106894,107050,faust,106989,106992,ich,faust
 qd,11g5q.0,107056,107442,mephistopheles,107192,107198,meinem,mephistopheles
 qd,11g5q.0,107774,107884,mephistopheles,107811,107814,ich,mephistopheles
+qd,11g5q.0,107774,107884,mephistopheles,107854,107857,mir,mephistopheles
 qd,11g5q.0,107992,108290,mephistopheles,108169,108172,ich,mephistopheles
 qd,11g5q.0,108296,108387,faust,108308,108312,mich,faust
 qd,11g5q.0,108622,108707,faust,108630,108634,Mein,faust
 qd,11g5q.0,108622,108707,faust,108658,108661,ich,faust
 qd,11g5q.0,108826,109209,faust,108885,108888,ich,faust
+qd,11g5q.0,108826,109209,faust,109035,109038,ich,faust
 qd,11g5q.0,108826,109209,faust,109100,109104,mein,faust
 qd,11g5q.0,109214,109257,faust,109234,109237,mir,faust
 qd,11g5q.0,109328,109559,mephistopheles,109416,109419,Ich,mephistopheles
@@ -755,6 +762,7 @@ qd,11g5q.0,115054,117007,gretchen,116609,116612,mir,gretchen
 qd,11g5q.0,115054,117007,gretchen,116744,116749,meine,gretchen
 qd,11g5q.0,117092,117225,mephistopheles,117166,117169,Ich,mephistopheles
 qd,11g5q.0,117092,117225,mephistopheles,117178,117181,ich,mephistopheles
+qd,11g5q.0,117092,117225,mephistopheles,117204,117207,ich,mephistopheles
 qd,11g5q.0,117231,117320,faust,117300,117303,ich,faust
 qd,11g5q.0,117231,117320,faust,117307,117313,meinem,faust
 qd,11g5q.0,117326,117426,mephistopheles,117343,117346,Ich,mephistopheles
@@ -780,10 +788,12 @@ qd,11g5q.0,121440,121619,mephistopheles,121493,121496,mir,mephistopheles
 qd,11g5q.0,121440,121619,mephistopheles,121574,121577,ich,mephistopheles
 qd,11g5q.0,121718,121837,gretchen,121730,121733,Ich,gretchen
 qd,11g5q.0,121718,121837,gretchen,121832,121836,mein,gretchen
+qd,11g5q.0,121843,121981,mephistopheles,121952,121956,mich,mephistopheles
 qd,11g5q.0,121843,121981,mephistopheles,121964,121967,ich,mephistopheles
 qd,11g5q.0,122035,122176,mephistopheles,122052,122055,Ich,mephistopheles
 qd,11g5q.0,122035,122176,mephistopheles,122064,122067,ich,mephistopheles
 qd,11g5q.0,122035,122176,mephistopheles,122093,122096,Ich,mephistopheles
+qd,11g5q.0,122035,122176,mephistopheles,122113,122117,mich,mephistopheles
 qd,11g5q.0,122182,122260,marthe,122224,122228,Mein,marthe
 qd,11g5q.0,122182,122260,marthe,122248,122251,ich,marthe
 qd,11g5q.0,122371,122461,gretchen,122383,122386,Ich,gretchen
@@ -805,7 +815,6 @@ qd,11g5q.0,123828,124191,mephistopheles,124161,124164,mir,mephistopheles
 qd,11g5q.0,124197,124259,marthe,124230,124233,ich,marthe
 qd,11g5q.0,124264,124329,mephistopheles,124324,124327,ich,mephistopheles
 qd,11g5q.0,124392,124674,mephistopheles,124450,124453,ich,mephistopheles
-qd,11g5q.0,124392,124674,mephistopheles,124481,124484,Ich,mephistopheles
 qd,11g5q.0,124392,124674,mephistopheles,124646,124650,mein,mephistopheles
 qd,11g5q.0,124777,125173,mephistopheles,124858,124861,ich,mephistopheles
 qd,11g5q.0,124777,125173,mephistopheles,124897,124900,ich,mephistopheles
@@ -857,11 +866,13 @@ qd,11g5q.0,131432,132063,gretchen,132050,132053,mir,gretchen
 qd,11g5q.0,132109,132539,gretchen,132121,132124,Ich,gretchen
 qd,11g5q.0,132109,132539,gretchen,132160,132164,mich,gretchen
 qd,11g5q.0,132109,132539,gretchen,132179,132185,meines,gretchen
+qd,11g5q.0,132109,132539,gretchen,132409,132412,ich,gretchen
 qd,11g5q.0,132109,132539,gretchen,132461,132465,mein,gretchen
 qd,11g5q.0,132109,132539,gretchen,132472,132478,meinem,gretchen
 qd,11g5q.0,132109,132539,gretchen,132487,132493,meinem,gretchen
 qd,11g5q.0,132599,133132,gretchen,132693,132699,meinem,gretchen
 qd,11g5q.0,132599,133132,gretchen,132738,132741,ich,gretchen
+qd,11g5q.0,132599,133132,gretchen,132763,132766,ich,gretchen
 qd,11g5q.0,132599,133132,gretchen,132789,132792,mir,gretchen
 qd,11g5q.0,132599,133132,gretchen,133033,133037,mein,gretchen
 qd,11g5q.0,133232,133315,mephistopheles,133284,133288,Mich,mephistopheles
@@ -880,6 +891,7 @@ qd,11g5q.0,134235,134673,gretchen,134247,134250,Ich,gretchen
 qd,11g5q.0,134235,134673,gretchen,134265,134268,mir,gretchen
 qd,11g5q.0,134235,134673,gretchen,134314,134317,mir,gretchen
 qd,11g5q.0,134235,134673,gretchen,134344,134347,ich,gretchen
+qd,11g5q.0,134235,134673,gretchen,134498,134501,ich,gretchen
 qd,11g5q.0,134235,134673,gretchen,134510,134513,Ich,gretchen
 qd,11g5q.0,134235,134673,gretchen,134600,134603,ich,gretchen
 qd,11g5q.0,134235,134673,gretchen,134623,134627,mich,gretchen
@@ -929,6 +941,7 @@ qd,11g5q.0,137387,138896,faust,138849,138852,ich,faust
 qd,11g5q.0,139080,139157,faust,139088,139091,Ich,faust
 qd,11g5q.0,139080,139157,faust,139129,139133,mich,faust
 qd,11g5q.0,139163,139459,mephistopheles,139190,139193,ich,mephistopheles
+qd,11g5q.0,139163,139459,mephistopheles,139228,139231,mir,mephistopheles
 qd,11g5q.0,139465,139547,faust,139532,139536,mich,faust
 qd,11g5q.0,139553,140015,mephistopheles,139619,139623,mich,mephistopheles
 qd,11g5q.0,139553,140015,mephistopheles,139673,139676,ich,mephistopheles
@@ -987,6 +1000,7 @@ qd,11g5q.0,147308,147568,gretchen,147358,147361,Ich,gretchen
 qd,11g5q.0,147308,147568,gretchen,147402,147405,ich,gretchen
 qd,11g5q.0,147308,147568,gretchen,147406,147410,mich,gretchen
 qd,11g5q.0,147308,147568,gretchen,147441,147444,ich,gretchen
+qd,11g5q.0,147308,147568,gretchen,147536,147539,mir,gretchen
 qd,11g5q.0,147308,147568,gretchen,147548,147551,ich,gretchen
 qd,11g5q.0,147617,147994,gretchen,147884,147887,Mir,gretchen
 qd,11g5q.0,147617,147994,gretchen,147977,147980,mir,gretchen
@@ -1015,8 +1029,11 @@ qd,11g5q.0,149905,150166,mephistopheles,150082,150085,ich,mephistopheles
 qd,11g5q.0,150203,150251,mephistopheles,150224,150227,ich,mephistopheles
 qd,11g5q.0,150203,150251,mephistopheles,150233,150238,meine,mephistopheles
 qd,11g5q.0,150358,150411,gretchen,150379,150382,Ich,gretchen
+qd,11g5q.0,150416,150520,lieschen,150448,150451,mir,lieschen
 qd,11g5q.0,151701,152117,gretchen,151743,151746,ich,gretchen
 qd,11g5q.0,151701,152117,gretchen,151822,151825,ich,gretchen
+qd,11g5q.0,151701,152117,gretchen,151893,151896,mir,gretchen
+qd,11g5q.0,151701,152117,gretchen,151934,151937,Mir,gretchen
 qd,11g5q.0,151701,152117,gretchen,151988,151992,mich,gretchen
 qd,11g5q.0,151701,152117,gretchen,152070,152074,mich,gretchen
 qd,11g5q.0,152212,153141,gretchen,152313,152319,meiner,gretchen
@@ -1171,6 +1188,7 @@ qd,11g5q.0,173642,173788,die_schoene,173740,173744,mich,die_schoene
 qd,11g5q.0,173642,173788,die_schoene,173763,173767,mein,die_schoene
 qd,11g5q.0,173795,173970,mephistopheles,173840,173843,ich,mephistopheles
 qd,11g5q.0,173795,173970,mephistopheles,173872,173875,ich,mephistopheles
+qd,11g5q.0,173795,173970,mephistopheles,173959,173962,mir,mephistopheles
 qd,11g5q.0,173976,174126,die_alte,173987,173990,Ich,die_alte
 qd,11g5q.0,173976,174126,die_alte,173997,174003,meinen,die_alte
 qd,11g5q.0,174776,175077,proktophantasmist,175000,175003,ich,proktophantasmist
@@ -1188,6 +1206,7 @@ qd,11g5q.0,176597,176767,faust,176716,176719,mir,faust
 qd,11g5q.0,176597,176767,faust,176757,176760,ich,faust
 qd,11g5q.0,176888,177090,faust,176933,176936,Ich,faust
 qd,11g5q.0,177097,177424,mephistopheles,177126,177129,ich,mephistopheles
+qd,11g5q.0,177097,177424,mephistopheles,177348,177351,mir,mephistopheles
 qd,11g5q.0,177097,177424,mephistopheles,177378,177381,ich,mephistopheles
 qd,11g5q.0,177430,177716,servibilis,177656,177659,ich,servibilis
 qd,11g5q.0,177430,177716,servibilis,177674,177678,Mich,servibilis
@@ -1283,6 +1302,7 @@ qd,11g5q.0,189559,189598,faust,189572,189575,ich,faust
 qd,11g5q.0,189603,189951,gretchen,189615,189618,Ich,gretchen
 qd,11g5q.0,189603,189951,gretchen,189654,189658,mich,gretchen
 qd,11g5q.0,189603,189951,gretchen,189692,189695,Ich,gretchen
+qd,11g5q.0,189603,189951,gretchen,189737,189740,mir,gretchen
 qd,11g5q.0,189603,189951,gretchen,189747,189751,mich,gretchen
 qd,11g5q.0,189603,189951,gretchen,189780,189783,ich,gretchen
 qd,11g5q.0,189603,189951,gretchen,189824,189827,ich,gretchen
@@ -1345,6 +1365,7 @@ qd,11g5q.0,193828,193854,faust,193835,193838,Ich,faust
 qd,11g5q.0,194180,194534,gretchen,194233,194238,meine,gretchen
 qd,11g5q.0,194180,194534,gretchen,194273,194277,mich,gretchen
 qd,11g5q.0,194180,194534,gretchen,194307,194312,meine,gretchen
+qd,11g5q.0,194540,194628,faust,194599,194602,ich,faust
 qd,11g5q.0,194634,194766,gretchen,194650,194654,mich,gretchen
 qd,11g5q.0,194634,194766,gretchen,194662,194665,ich,gretchen
 qd,11g5q.0,194634,194766,gretchen,194693,194697,mich,gretchen

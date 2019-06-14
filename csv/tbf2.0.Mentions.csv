@@ -37,12 +37,14 @@ qd,tbf2.0,5790,5815,lady,5801,5807,meinen,lady
 qd,tbf2.0,5877,5900,lady,5888,5892,mein,lady
 qd,tbf2.0,7004,7170,nancy,7052,7055,ich,nancy
 qd,tbf2.0,7600,7705,lady,7635,7638,ich,lady
+qd,tbf2.0,7738,7830,lady,7790,7793,ich,lady
 qd,tbf2.0,8222,8258,tristan,8243,8246,Ich,tristan
 qd,tbf2.0,8325,8510,lady,8363,8366,ich,lady
 qd,tbf2.0,8325,8510,lady,8437,8440,ich,lady
 qd,tbf2.0,8516,8557,tristan,8538,8541,ich,tristan
 qd,tbf2.0,8516,8557,tristan,8542,8546,mich,tristan
 qd,tbf2.0,8804,8841,tristan,8829,8832,Ich,tristan
+qd,tbf2.0,8846,8878,lady,8865,8868,ich,lady
 qd,tbf2.0,8935,8958,tristan,8944,8947,Ich,tristan
 qd,tbf2.0,8994,9017,tristan,9003,9006,Ich,tristan
 qd,tbf2.0,9166,9210,tristan,9190,9193,ich,tristan
@@ -105,6 +107,7 @@ qd,tbf2.0,25954,26007,plumkett,25996,26000,mein,plumkett
 qd,tbf2.0,28116,28212,lady,28195,28199,mich,lady
 qd,tbf2.0,28278,28444,lady,28399,28402,mir,lady
 qd,tbf2.0,28450,28703,lyonel,28459,28463,Mein,lyonel
+qd,tbf2.0,28450,28703,lyonel,28465,28468,ich,lyonel
 qd,tbf2.0,28450,28703,lyonel,28509,28513,mein,lyonel
 qd,tbf2.0,28450,28703,lyonel,28567,28570,ich,lyonel
 qd,tbf2.0,28450,28703,lyonel,28602,28605,Ich,lyonel
@@ -207,6 +210,7 @@ qd,tbf2.0,41437,41538,lady,41505,41508,mir,lady
 qd,tbf2.0,41437,41538,lady,41517,41520,ich,lady
 qd,tbf2.0,41437,41538,lady,41521,41525,mich,lady
 qd,tbf2.0,41573,41612,lady,41601,41606,meine,lady
+qd,tbf2.0,41659,41685,lady,41673,41676,ich,lady
 qd,tbf2.0,41690,41728,tristan,41699,41702,Ich,tristan
 qd,tbf2.0,42079,42152,lyonel,42135,42138,ich,lyonel
 qd,tbf2.0,42237,42285,lady,42267,42270,ich,lady
@@ -279,6 +283,7 @@ qd,tbf2.0,47757,48399,lady,48394,48398,mein,lady
 qd,tbf2.0,48550,48613,lady,48602,48605,ich,lady
 qd,tbf2.0,48619,48781,plumkett,48665,48668,ich,plumkett
 qd,tbf2.0,48619,48781,plumkett,48671,48674,ich,plumkett
+qd,tbf2.0,48619,48781,plumkett,48731,48734,ich,plumkett
 qd,tbf2.0,48931,49081,lady,48951,48955,mich,lady
 qd,tbf2.0,48931,49081,lady,48965,48968,Ich,lady
 qd,tbf2.0,49445,49687,lyonel,49464,49468,mich,lyonel
@@ -318,6 +323,7 @@ qd,tbf2.0,53066,53145,plumkett,53092,53096,mich,plumkett
 qd,tbf2.0,53066,53145,plumkett,53133,53137,mich,plumkett
 qd,tbf2.0,53250,53278,plumkett,53265,53269,mich,plumkett
 qd,tbf2.0,53411,53486,plumkett,53476,53479,ich,plumkett
+qd,tbf2.0,53614,53637,nancy,53631,53634,ich,nancy
 qd,tbf2.0,53642,53945,plumkett,53672,53675,Ich,plumkett
 qd,tbf2.0,53642,53945,plumkett,53761,53764,ich,plumkett
 qd,tbf2.0,53642,53945,plumkett,53765,53770,meine,plumkett

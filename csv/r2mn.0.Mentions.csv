@@ -89,6 +89,7 @@ qd,r2mn.0,14136,14227,sir_john,14210,14214,mein,sir_john
 qd,r2mn.0,14232,14393,mistriss_smith,14265,14268,Ich,mistriss_smith
 qd,r2mn.0,14906,15296,mistriss_smith,14923,14927,Mein,mistriss_smith
 qd,r2mn.0,14906,15296,mistriss_smith,15117,15120,ich,mistriss_smith
+qd,r2mn.0,14906,15296,mistriss_smith,15170,15173,ich,mistriss_smith
 qd,r2mn.0,15374,15545,mistriss_smith,15402,15405,ich,mistriss_smith
 qd,r2mn.0,15374,15545,mistriss_smith,15435,15439,mich,mistriss_smith
 qd,r2mn.0,15550,15582,sir_john,15578,15581,ich,sir_john
@@ -646,6 +647,7 @@ qd,r2mn.0,87058,87339,sir_john,87112,87115,ich,sir_john
 qd,r2mn.0,87058,87339,sir_john,87230,87236,meiner,sir_john
 qd,r2mn.0,87344,87373,robert,87362,87366,mein,robert
 qd,r2mn.0,87517,87589,jack,87524,87528,Mein,jack
+qd,r2mn.0,87517,87589,jack,87546,87549,mir,jack
 qd,r2mn.0,87517,87589,jack,87579,87582,mir,jack
 qd,r2mn.0,87874,87961,jack,87881,87884,Ich,jack
 qd,r2mn.0,87874,87961,jack,87890,87894,mich,jack

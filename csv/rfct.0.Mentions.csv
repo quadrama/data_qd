@@ -227,6 +227,7 @@ qd,rfct.0,94217,94612,cato,94557,94560,ich,cato
 qd,rfct.0,94217,94612,cato,94607,94611,mich,cato
 qd,rfct.0,94709,95023,cato,94772,94776,Mein,cato
 qd,rfct.0,94709,95023,cato,94804,94807,ich,cato
+qd,rfct.0,94709,95023,cato,94878,94881,mir,cato
 qd,rfct.0,94709,95023,cato,94902,94905,ich,cato
 qd,rfct.0,95086,96565,cato,95134,95137,ich,cato
 qd,rfct.0,95086,96565,cato,95287,95291,mein,cato
@@ -235,6 +236,7 @@ qd,rfct.0,95086,96565,cato,95391,95394,ich,cato
 qd,rfct.0,95086,96565,cato,95429,95433,mich,cato
 qd,rfct.0,95086,96565,cato,95510,95513,ich,cato
 qd,rfct.0,95086,96565,cato,95532,95535,ich,cato
+qd,rfct.0,95086,96565,cato,95710,95713,mir,cato
 qd,rfct.0,95086,96565,cato,95854,95857,Ich,cato
 qd,rfct.0,95086,96565,cato,96368,96371,mir,cato
 qd,rfct.0,95086,96565,cato,96411,96414,ich,cato
@@ -296,8 +298,10 @@ qd,rfct.0,108375,108596,cato,108512,108515,mir,cato
 qd,rfct.0,108692,108990,cato,108727,108730,ich,cato
 qd,rfct.0,108692,108990,cato,108790,108793,ich,cato
 qd,rfct.0,108692,108990,cato,108980,108983,ich,cato
+qd,rfct.0,108692,108990,cato,108984,108987,mir,cato
 qd,rfct.0,109304,109608,frau_gottsched,109349,109352,ich,frau_gottsched
 qd,rfct.0,109304,109608,frau_gottsched,109477,109481,mein,frau_gottsched
+qd,rfct.0,109304,109608,frau_gottsched,109517,109520,ich,frau_gottsched
 qd,rfct.0,109613,109696,gottsched,109625,109628,Ich,gottsched
 qd,rfct.0,110462,110607,gottsched,110474,110478,Mein,gottsched
 qd,rfct.0,110462,110607,gottsched,110536,110539,ich,gottsched
@@ -424,6 +428,7 @@ qd,rfct.0,133443,134079,katharina,133748,133751,ich,katharina
 qd,rfct.0,133443,134079,katharina,133817,133820,ich,katharina
 qd,rfct.0,133443,134079,katharina,133959,133963,mich,katharina
 qd,rfct.0,133443,134079,katharina,133996,133999,ich,katharina
+qd,rfct.0,133443,134079,katharina,134000,134004,mein,katharina
 qd,rfct.0,134172,134716,katharina,134184,134187,Ich,katharina
 qd,rfct.0,134172,134716,katharina,134203,134209,meinem,katharina
 qd,rfct.0,134172,134716,katharina,134250,134254,mich,katharina
@@ -495,6 +500,7 @@ qd,rfct.0,140808,140947,cato,140815,140818,Ich,cato
 qd,rfct.0,140808,140947,cato,140844,140849,meine,cato
 qd,rfct.0,140808,140947,cato,140904,140907,ich,cato
 qd,rfct.0,141096,141231,wilhelmine,141185,141188,ich,wilhelmine
+qd,rfct.0,141236,141269,cato,141248,141251,ich,cato
 qd,rfct.0,141274,141459,wilhelmine,141376,141379,mir,wilhelmine
 qd,rfct.0,141987,142660,wilhelmine,142055,142058,ich,wilhelmine
 qd,rfct.0,141987,142660,wilhelmine,142059,142063,mich,wilhelmine
@@ -810,6 +816,7 @@ qd,rfct.0,210702,212436,cato,210747,210750,ich,cato
 qd,rfct.0,210702,212436,cato,210993,210996,ich,cato
 qd,rfct.0,210702,212436,cato,211003,211008,meine,cato
 qd,rfct.0,210702,212436,cato,211034,211037,ich,cato
+qd,rfct.0,210702,212436,cato,211421,211424,ich,cato
 qd,rfct.0,210702,212436,cato,211499,211502,ich,cato
 qd,rfct.0,210702,212436,cato,211536,211539,ich,cato
 qd,rfct.0,210702,212436,cato,211561,211566,meine,cato
@@ -886,6 +893,7 @@ qd,rfct.0,225087,225805,gellert,225315,225318,ich,gellert
 qd,rfct.0,225087,225805,gellert,225319,225323,mein,gellert
 qd,rfct.0,225087,225805,gellert,225346,225349,mir,gellert
 qd,rfct.0,225087,225805,gellert,225401,225404,mir,gellert
+qd,rfct.0,225087,225805,gellert,225430,225433,ich,gellert
 qd,rfct.0,225087,225805,gellert,225484,225487,ich,gellert
 qd,rfct.0,225087,225805,gellert,225506,225509,ich,gellert
 qd,rfct.0,225087,225805,gellert,225543,225546,ich,gellert
@@ -894,6 +902,7 @@ qd,rfct.0,225087,225805,gellert,225677,225680,ich,gellert
 qd,rfct.0,225087,225805,gellert,225734,225738,mein,gellert
 qd,rfct.0,225810,226091,siegmund,225866,225869,ich,siegmund
 qd,rfct.0,225810,226091,siegmund,225900,225903,ich,siegmund
+qd,rfct.0,225810,226091,siegmund,225934,225937,mir,siegmund
 qd,rfct.0,226172,226469,siegmund,226183,226186,Ich,siegmund
 qd,rfct.0,226172,226469,siegmund,226192,226195,mir,siegmund
 qd,rfct.0,226475,226547,gellert,226496,226501,meine,gellert
@@ -1002,6 +1011,7 @@ qd,rfct.0,258931,258985,gottsched,258973,258976,ich,gottsched
 qd,rfct.0,259152,259280,prinz,259160,259163,Ich,prinz
 qd,rfct.0,259285,259556,gottsched,259365,259371,meiner,gottsched
 qd,rfct.0,259593,259899,gottsched,259605,259608,Ich,gottsched
+qd,rfct.0,259593,259899,gottsched,259614,259617,mir,gottsched
 qd,rfct.0,259593,259899,gottsched,259722,259728,meiner,gottsched
 qd,rfct.0,259593,259899,gottsched,259750,259753,ich,gottsched
 qd,rfct.0,259593,259899,gottsched,259754,259758,mich,gottsched

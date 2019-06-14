@@ -1,5 +1,6 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
 qd,mbmn.0,520,2530,stimme_eulenspiegels,608,613,Meine,stimme_eulenspiegels
+qd,mbmn.0,520,2530,stimme_eulenspiegels,677,680,mir,stimme_eulenspiegels
 qd,mbmn.0,520,2530,stimme_eulenspiegels,697,700,ich,stimme_eulenspiegels
 qd,mbmn.0,520,2530,stimme_eulenspiegels,727,731,mein,stimme_eulenspiegels
 qd,mbmn.0,520,2530,stimme_eulenspiegels,755,759,mich,stimme_eulenspiegels
@@ -34,6 +35,8 @@ qd,mbmn.0,7669,8194,michel_michael,8060,8063,mir,michel_michael
 qd,mbmn.0,8200,8256,lise_lied,8206,8209,Mir,lise_lied
 qd,mbmn.0,8411,9374,michel_michael,8545,8548,ich,michel_michael
 qd,mbmn.0,8411,9374,michel_michael,8954,8957,ich,michel_michael
+qd,mbmn.0,8411,9374,michel_michael,9231,9234,ich,michel_michael
+qd,mbmn.0,8411,9374,michel_michael,9286,9289,mir,michel_michael
 qd,mbmn.0,9659,10100,michel_michael,9707,9710,ich,michel_michael
 qd,mbmn.0,9659,10100,michel_michael,9726,9730,mein,michel_michael
 qd,mbmn.0,9659,10100,michel_michael,9760,9763,ich,michel_michael
@@ -42,11 +45,14 @@ qd,mbmn.0,9659,10100,michel_michael,9789,9795,meinen,michel_michael
 qd,mbmn.0,9659,10100,michel_michael,9824,9828,mein,michel_michael
 qd,mbmn.0,10164,10325,michel_michael,10195,10201,meinen,michel_michael
 qd,mbmn.0,10332,10438,der_schwarze_karl,10375,10378,ich,der_schwarze_karl
+qd,mbmn.0,10332,10438,der_schwarze_karl,10429,10433,mein,der_schwarze_karl
+qd,mbmn.0,10332,10438,der_schwarze_karl,10434,10437,ich,der_schwarze_karl
 qd,mbmn.0,10595,10730,der_rote_karl,10671,10675,Mich,der_rote_karl
 qd,mbmn.0,10595,10730,der_rote_karl,10686,10689,ich,der_rote_karl
 qd,mbmn.0,10736,10926,michel_michael,10807,10810,Ich,michel_michael
 qd,mbmn.0,11358,11449,der_schwarze_karl,11377,11380,Ich,der_schwarze_karl
 qd,mbmn.0,11591,11999,der_schwarze_karl,11697,11700,ich,der_schwarze_karl
+qd,mbmn.0,11591,11999,der_schwarze_karl,11701,11705,mein,der_schwarze_karl
 qd,mbmn.0,12005,12069,lise_lied,12029,12032,mir,lise_lied
 qd,mbmn.0,12256,12446,michel_michael,12344,12347,mir,michel_michael
 qd,mbmn.0,12256,12446,michel_michael,12365,12369,mein,michel_michael
@@ -66,19 +72,26 @@ qd,mbmn.0,14588,14749,michel_michael,14736,14739,ich,michel_michael
 qd,mbmn.0,14831,14937,michel_michael,14848,14851,ich,michel_michael
 qd,mbmn.0,15006,15078,michel_michael,15035,15038,mir,michel_michael
 qd,mbmn.0,15228,16137,michel_michael,15237,15240,Ich,michel_michael
+qd,mbmn.0,15228,16137,michel_michael,15451,15454,mir,michel_michael
 qd,mbmn.0,15228,16137,michel_michael,15476,15479,ich,michel_michael
 qd,mbmn.0,15228,16137,michel_michael,15530,15533,ich,michel_michael
 qd,mbmn.0,15228,16137,michel_michael,15587,15590,ich,michel_michael
 qd,mbmn.0,15228,16137,michel_michael,15646,15649,ich,michel_michael
 qd,mbmn.0,15228,16137,michel_michael,15655,15658,mir,michel_michael
+qd,mbmn.0,15228,16137,michel_michael,15979,15982,ich,michel_michael
 qd,mbmn.0,15228,16137,michel_michael,15990,15993,mir,michel_michael
 qd,mbmn.0,16289,16743,der_rote_karl,16517,16520,ich,der_rote_karl
 qd,mbmn.0,16289,16743,der_rote_karl,16526,16531,meine,der_rote_karl
+qd,mbmn.0,17117,17182,michel_michael,17178,17181,ich,michel_michael
+qd,mbmn.0,17445,17621,der_rote_karl,17467,17470,mir,der_rote_karl
+qd,mbmn.0,17850,17919,der_rote_karl,17899,17902,mir,der_rote_karl
 qd,mbmn.0,18078,19180,michel_michael,18109,18112,Ich,michel_michael
 qd,mbmn.0,18078,19180,michel_michael,18647,18650,ich,michel_michael
 qd,mbmn.0,18078,19180,michel_michael,18848,18851,ich,michel_michael
 qd,mbmn.0,18078,19180,michel_michael,19147,19150,mir,michel_michael
 qd,mbmn.0,18078,19180,michel_michael,19167,19170,mir,michel_michael
+qd,mbmn.0,19353,19460,michel_michael,19451,19455,mein,michel_michael
+qd,mbmn.0,19353,19460,michel_michael,19456,19459,ich,michel_michael
 qd,mbmn.0,19724,19792,michel_michael,19736,19739,ich,michel_michael
 qd,mbmn.0,19724,19792,michel_michael,19740,19744,mein,michel_michael
 qd,mbmn.0,19724,19792,michel_michael,19751,19754,ich,michel_michael
@@ -139,8 +152,11 @@ qd,mbmn.0,28438,30242,stimme_eulenspiegels,29741,29744,Ich,stimme_eulenspiegels
 qd,mbmn.0,28438,30242,stimme_eulenspiegels,29798,29801,Ich,stimme_eulenspiegels
 qd,mbmn.0,28438,30242,stimme_eulenspiegels,29974,29977,ich,stimme_eulenspiegels
 qd,mbmn.0,28438,30242,stimme_eulenspiegels,30007,30011,mich,stimme_eulenspiegels
+qd,mbmn.0,31714,32532,der_landrat,31925,31928,ich,der_landrat
 qd,mbmn.0,31714,32532,der_landrat,31935,31938,ich,der_landrat
 qd,mbmn.0,31714,32532,der_landrat,32079,32082,ich,der_landrat
+qd,mbmn.0,31714,32532,der_landrat,32088,32091,ich,der_landrat
+qd,mbmn.0,31714,32532,der_landrat,32268,32271,ich,der_landrat
 qd,mbmn.0,31714,32532,der_landrat,32369,32374,meine,der_landrat
 qd,mbmn.0,31714,32532,der_landrat,32429,32434,meine,der_landrat
 qd,mbmn.0,32596,32800,der_landrat,32683,32686,ich,der_landrat
@@ -149,6 +165,7 @@ qd,mbmn.0,33002,33494,der_landrat,33363,33367,mein,der_landrat
 qd,mbmn.0,33002,33494,der_landrat,33458,33461,mir,der_landrat
 qd,mbmn.0,33901,34051,der_landrat,33941,33947,meinen,der_landrat
 qd,mbmn.0,35227,35493,der_bergrat,35247,35252,meine,der_bergrat
+qd,mbmn.0,35227,35493,der_bergrat,35277,35280,ich,der_bergrat
 qd,mbmn.0,35227,35493,der_bergrat,35281,35284,mir,der_bergrat
 qd,mbmn.0,35775,35947,michel_michael,35855,35858,ich,michel_michael
 qd,mbmn.0,35775,35947,michel_michael,35912,35915,ich,michel_michael
@@ -162,6 +179,7 @@ qd,mbmn.0,36738,37495,lise_lied,37035,37041,meinen,lise_lied
 qd,mbmn.0,36738,37495,lise_lied,37145,37148,ich,lise_lied
 qd,mbmn.0,36738,37495,lise_lied,37190,37194,mich,lise_lied
 qd,mbmn.0,36738,37495,lise_lied,37344,37350,meinen,lise_lied
+qd,mbmn.0,37977,38215,michel_michael,37999,38002,ich,michel_michael
 qd,mbmn.0,38286,38325,der_schwarze_karl,38309,38312,ich,der_schwarze_karl
 qd,mbmn.0,38286,38325,der_schwarze_karl,38313,38318,meine,der_schwarze_karl
 qd,mbmn.0,38636,38706,michel_michael,38667,38670,mir,michel_michael
@@ -210,6 +228,7 @@ qd,mbmn.0,49790,50167,michel_michael,49907,49910,Ich,michel_michael
 qd,mbmn.0,50243,50441,stimme_eulenspiegels,50378,50381,mir,stimme_eulenspiegels
 qd,mbmn.0,50790,51030,stimme_eulenspiegels,50904,50907,ich,stimme_eulenspiegels
 qd,mbmn.0,50790,51030,stimme_eulenspiegels,50933,50939,meiner,stimme_eulenspiegels
+qd,mbmn.0,51036,51176,der_bergrat,51164,51167,ich,der_bergrat
 qd,mbmn.0,51434,51514,der_bergrat,51459,51462,ich,der_bergrat
 qd,mbmn.0,51623,51713,der_bergrat,51675,51678,ich,der_bergrat
 qd,mbmn.0,52315,52360,michel_michael,52341,52344,Ich,michel_michael
@@ -296,6 +315,8 @@ qd,mbmn.0,81962,83949,stimme_eulenspiegels,83672,83675,Ich,stimme_eulenspiegels
 qd,mbmn.0,81962,83949,stimme_eulenspiegels,83853,83856,ich,stimme_eulenspiegels
 qd,mbmn.0,84861,84922,stimme_eulenspiegels,84912,84916,mein,stimme_eulenspiegels
 qd,mbmn.0,84861,84922,stimme_eulenspiegels,84918,84921,ich,stimme_eulenspiegels
+qd,mbmn.0,84928,85122,stimme_eulenspiegels,84987,84991,mein,stimme_eulenspiegels
+qd,mbmn.0,84928,85122,stimme_eulenspiegels,84992,84995,ich,stimme_eulenspiegels
 qd,mbmn.0,85170,85304,lise_lied,85258,85261,ich,lise_lied
 qd,mbmn.0,85170,85304,lise_lied,85268,85272,mein,lise_lied
 qd,mbmn.0,85470,85661,der_bergrat,85606,85609,ich,der_bergrat
@@ -383,6 +404,7 @@ qd,mbmn.0,101192,101286,michel_michael,101231,101235,mein,michel_michael
 qd,mbmn.0,104079,104140,stimme_des_rotbarts,104127,104131,mein,stimme_des_rotbarts
 qd,mbmn.0,104145,104212,michel_michael,104166,104172,Meines,michel_michael
 qd,mbmn.0,104904,104953,michel_michael,104912,104915,Mir,michel_michael
+qd,mbmn.0,105399,105522,michel_michael,105422,105425,ich,michel_michael
 qd,mbmn.0,105399,105522,michel_michael,105445,105448,ich,michel_michael
 qd,mbmn.0,105399,105522,michel_michael,105460,105464,mein,michel_michael
 qd,mbmn.0,105527,105639,der_rote_karl,105572,105575,ich,der_rote_karl
@@ -397,6 +419,7 @@ qd,mbmn.0,108708,110199,stimme_eulenspiegels,109011,109014,ich,stimme_eulenspieg
 qd,mbmn.0,108708,110199,stimme_eulenspiegels,109072,109075,ich,stimme_eulenspiegels
 qd,mbmn.0,108708,110199,stimme_eulenspiegels,109298,109301,ich,stimme_eulenspiegels
 qd,mbmn.0,110475,110647,stimme_eulenspiegels,110567,110570,ich,stimme_eulenspiegels
+qd,mbmn.0,111261,111339,der_bergrat,111326,111329,ich,der_bergrat
 qd,mbmn.0,111410,111544,der_bergrat,111482,111486,mich,der_bergrat
 qd,mbmn.0,111550,111577,lise_lied,111568,111571,ich,lise_lied
 qd,mbmn.0,111803,111893,der_bergrat,111822,111825,ich,der_bergrat
@@ -436,6 +459,7 @@ qd,mbmn.0,116278,116441,der_bergrat,116428,116431,ich,der_bergrat
 qd,mbmn.0,116555,116599,der_bergrat,116573,116576,ich,der_bergrat
 qd,mbmn.0,117278,117454,stimme_eckarts,117427,117430,mir,stimme_eckarts
 qd,mbmn.0,118026,118172,lise_lied,118053,118057,mein,lise_lied
+qd,mbmn.0,118513,119521,michel_michael,118558,118561,ich,michel_michael
 qd,mbmn.0,118513,119521,michel_michael,118591,118594,mir,michel_michael
 qd,mbmn.0,118513,119521,michel_michael,118648,118652,mein,michel_michael
 qd,mbmn.0,118513,119521,michel_michael,118693,118696,ich,michel_michael
@@ -463,6 +487,7 @@ qd,mbmn.0,123213,123494,lise_lied,123445,123448,mir,lise_lied
 qd,mbmn.0,123631,123789,lise_lied,123740,123743,ich,lise_lied
 qd,mbmn.0,123892,124009,michel_michael,123923,123927,mein,michel_michael
 qd,mbmn.0,123892,124009,michel_michael,123980,123984,mich,michel_michael
+qd,mbmn.0,124015,124067,lise_lied,124040,124043,ich,lise_lied
 qd,mbmn.0,124072,124202,michel_michael,124172,124177,meine,michel_michael
 qd,mbmn.0,124208,124241,lise_lied,124217,124222,meine,lise_lied
 qd,mbmn.0,124208,124241,lise_lied,124231,124236,meine,lise_lied
@@ -485,4 +510,5 @@ qd,mbmn.0,127292,127957,michel_michael,127872,127877,meine,michel_michael
 qd,mbmn.0,127292,127957,michel_michael,127920,127923,ich,michel_michael
 qd,mbmn.0,127292,127957,michel_michael,127932,127935,mir,michel_michael
 qd,mbmn.0,127978,128302,michel_michael,128093,128096,ich,michel_michael
+qd,mbmn.0,127978,128302,michel_michael,128215,128218,mir,michel_michael
 qd,mbmn.0,128682,128921,lise_lied,128713,128716,ich,lise_lied

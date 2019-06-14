@@ -79,6 +79,7 @@ qd,rj22.0,8752,8936,frau_von_biederling,8876,8879,ich,frau_von_biederling
 qd,rj22.0,8752,8936,frau_von_biederling,8911,8914,ich,frau_von_biederling
 qd,rj22.0,8752,8936,frau_von_biederling,8918,8924,meinem,frau_von_biederling
 qd,rj22.0,8941,9101,herr_von_biederling,9030,9033,ich,herr_von_biederling
+qd,rj22.0,8941,9101,herr_von_biederling,9040,9043,mir,herr_von_biederling
 qd,rj22.0,9106,9168,frau_von_biederling,9128,9131,Ich,frau_von_biederling
 qd,rj22.0,9106,9168,frau_von_biederling,9132,9136,mich,frau_von_biederling
 qd,rj22.0,9106,9168,frau_von_biederling,9140,9146,meinen,frau_von_biederling
@@ -105,9 +106,11 @@ qd,rj22.0,11690,11852,graf,11812,11815,Ich,graf
 qd,rj22.0,11889,12404,herr_von_biederling,12024,12027,ich,herr_von_biederling
 qd,rj22.0,11889,12404,herr_von_biederling,12176,12179,ich,herr_von_biederling
 qd,rj22.0,11889,12404,herr_von_biederling,12260,12263,ich,herr_von_biederling
+qd,rj22.0,11889,12404,herr_von_biederling,12312,12315,ich,herr_von_biederling
 qd,rj22.0,11889,12404,herr_von_biederling,12322,12326,mein,herr_von_biederling
 qd,rj22.0,11889,12404,herr_von_biederling,12348,12351,mir,herr_von_biederling
 qd,rj22.0,12618,12660,graf,12635,12639,mich,graf
+qd,rj22.0,12665,13087,herr_von_biederling,12711,12714,ich,herr_von_biederling
 qd,rj22.0,12665,13087,herr_von_biederling,12736,12739,ich,herr_von_biederling
 qd,rj22.0,12665,13087,herr_von_biederling,12789,12793,mein,herr_von_biederling
 qd,rj22.0,12665,13087,herr_von_biederling,12833,12836,ich,herr_von_biederling
@@ -223,6 +226,7 @@ qd,rj22.0,24785,25263,donna,25004,25009,meine,donna
 qd,rj22.0,24785,25263,donna,25062,25065,ich,donna
 qd,rj22.0,24785,25263,donna,25086,25089,ich,donna
 qd,rj22.0,24785,25263,donna,25121,25125,mich,donna
+qd,rj22.0,24785,25263,donna,25154,25157,mir,donna
 qd,rj22.0,24785,25263,donna,25161,25164,ich,donna
 qd,rj22.0,24785,25263,donna,25207,25211,mich,donna
 qd,rj22.0,24785,25263,donna,25213,25216,ich,donna
@@ -315,6 +319,7 @@ qd,rj22.0,32668,32746,frau_von_biederling,32717,32723,meiner,frau_von_biederling
 qd,rj22.0,32668,32746,frau_von_biederling,32733,32739,meinem,frau_von_biederling
 qd,rj22.0,32751,33206,graf,32800,32803,Ich,graf
 qd,rj22.0,32751,33206,graf,32844,32847,mir,graf
+qd,rj22.0,32751,33206,graf,32863,32866,ich,graf
 qd,rj22.0,32751,33206,graf,32927,32930,ich,graf
 qd,rj22.0,32751,33206,graf,32972,32975,ich,graf
 qd,rj22.0,32751,33206,graf,33092,33096,mich,graf
@@ -332,6 +337,7 @@ qd,rj22.0,33803,34157,graf,33941,33944,ich,graf
 qd,rj22.0,33803,34157,graf,34011,34015,mich,graf
 qd,rj22.0,33803,34157,graf,34064,34067,Ich,graf
 qd,rj22.0,34162,34534,frau_von_biederling,34197,34200,ich,frau_von_biederling
+qd,rj22.0,34162,34534,frau_von_biederling,34226,34229,mir,frau_von_biederling
 qd,rj22.0,34162,34534,frau_von_biederling,34249,34252,ich,frau_von_biederling
 qd,rj22.0,34162,34534,frau_von_biederling,34443,34446,mir,frau_von_biederling
 qd,rj22.0,34162,34534,frau_von_biederling,34451,34457,meinem,frau_von_biederling
@@ -389,6 +395,7 @@ qd,rj22.0,42912,43040,prinz_tandi,42968,42971,ich,prinz_tandi
 qd,rj22.0,43045,43355,herr_von_biederling,43159,43162,ich,herr_von_biederling
 qd,rj22.0,43045,43355,herr_von_biederling,43207,43213,meiner,herr_von_biederling
 qd,rj22.0,43397,43722,herr_von_biederling,43529,43532,ich,herr_von_biederling
+qd,rj22.0,43397,43722,herr_von_biederling,43567,43570,mir,herr_von_biederling
 qd,rj22.0,43727,43771,prinz_tandi,43753,43756,mir,prinz_tandi
 qd,rj22.0,43776,43988,herr_von_biederling,43891,43894,Ich,herr_von_biederling
 qd,rj22.0,43776,43988,herr_von_biederling,43937,43940,ich,herr_von_biederling
@@ -473,6 +480,7 @@ qd,rj22.0,53142,53213,herr_von_biederling,53209,53212,mir,herr_von_biederling
 qd,rj22.0,53218,53271,graf,53257,53260,mir,graf
 qd,rj22.0,53276,53473,herr_von_biederling,53410,53413,mir,herr_von_biederling
 qd,rj22.0,53276,53473,herr_von_biederling,53447,53450,ich,herr_von_biederling
+qd,rj22.0,53478,53550,graf,53495,53498,mir,graf
 qd,rj22.0,53555,54407,herr_von_biederling,53591,53594,ich,herr_von_biederling
 qd,rj22.0,53555,54407,herr_von_biederling,53890,53893,Ich,herr_von_biederling
 qd,rj22.0,53555,54407,herr_von_biederling,53908,53914,meinem,herr_von_biederling
@@ -513,6 +521,7 @@ qd,rj22.0,57449,58193,herr_von_biederling,58175,58179,mich,herr_von_biederling
 qd,rj22.0,58198,58238,graf,58234,58237,mir,graf
 qd,rj22.0,58243,58414,herr_von_biederling,58353,58359,meinem,herr_von_biederling
 qd,rj22.0,58495,58744,babet,58567,58572,Meine,babet
+qd,rj22.0,58495,58744,babet,58596,58599,mir,babet
 qd,rj22.0,58798,58892,donna,58821,58825,mich,donna
 qd,rj22.0,58798,58892,donna,58826,58831,meine,donna
 qd,rj22.0,58953,59009,donna,58961,58965,Mich,donna
@@ -529,6 +538,7 @@ qd,rj22.0,59520,59691,donna,59589,59592,mir,donna
 qd,rj22.0,59520,59691,donna,59595,59598,ich,donna
 qd,rj22.0,59520,59691,donna,59608,59611,ich,donna
 qd,rj22.0,59520,59691,donna,59650,59653,ich,donna
+qd,rj22.0,59815,59897,prinz_tandi,59834,59837,mir,prinz_tandi
 qd,rj22.0,59902,59950,wilhelmine,59915,59918,Ich,wilhelmine
 qd,rj22.0,59902,59950,wilhelmine,59937,59943,meinen,wilhelmine
 qd,rj22.0,60059,60145,wilhelmine,60130,60134,mich,wilhelmine
@@ -545,8 +555,10 @@ qd,rj22.0,60686,60765,prinz_tandi,60706,60710,mein,prinz_tandi
 qd,rj22.0,60770,60845,wilhelmine,60801,60804,mir,wilhelmine
 qd,rj22.0,60770,60845,wilhelmine,60836,60839,ich,wilhelmine
 qd,rj22.0,60913,60946,wilhelmine,60932,60936,mich,wilhelmine
+qd,rj22.0,61027,61145,wilhelmine,61134,61137,ich,wilhelmine
 qd,rj22.0,61151,61264,prinz_tandi,61216,61219,ich,prinz_tandi
 qd,rj22.0,61151,61264,prinz_tandi,61239,61242,ich,prinz_tandi
+qd,rj22.0,61269,61368,wilhelmine,61347,61350,mir,wilhelmine
 qd,rj22.0,61545,61735,herr_von_zopf,61659,61662,ich,herr_von_zopf
 qd,rj22.0,61545,61735,herr_von_zopf,61702,61706,mich,herr_von_zopf
 qd,rj22.0,61545,61735,herr_von_zopf,61720,61723,ich,herr_von_zopf
@@ -554,6 +566,7 @@ qd,rj22.0,61740,61843,wilhelmine,61808,61813,meine,wilhelmine
 qd,rj22.0,61740,61843,wilhelmine,61827,61830,mir,wilhelmine
 qd,rj22.0,61848,62314,herr_von_zopf,61939,61942,mir,herr_von_zopf
 qd,rj22.0,61848,62314,herr_von_zopf,61986,61989,Ich,herr_von_zopf
+qd,rj22.0,61848,62314,herr_von_zopf,62111,62114,mir,herr_von_zopf
 qd,rj22.0,62522,62883,herr_von_zopf,62563,62566,mir,herr_von_zopf
 qd,rj22.0,62522,62883,herr_von_zopf,62641,62644,ich,herr_von_zopf
 qd,rj22.0,62522,62883,herr_von_zopf,62656,62659,ich,herr_von_zopf
@@ -572,6 +585,7 @@ qd,rj22.0,63852,64341,herr_von_zopf,63936,63941,meine,herr_von_zopf
 qd,rj22.0,63852,64341,herr_von_zopf,63993,63996,Ich,herr_von_zopf
 qd,rj22.0,63852,64341,herr_von_zopf,64032,64038,meinem,herr_von_zopf
 qd,rj22.0,63852,64341,herr_von_zopf,64067,64073,meinem,herr_von_zopf
+qd,rj22.0,63852,64341,herr_von_zopf,64091,64094,mir,herr_von_zopf
 qd,rj22.0,63852,64341,herr_von_zopf,64165,64168,mir,herr_von_zopf
 qd,rj22.0,63852,64341,herr_von_zopf,64189,64192,ich,herr_von_zopf
 qd,rj22.0,63852,64341,herr_von_zopf,64234,64237,mir,herr_von_zopf
@@ -700,6 +714,7 @@ qd,rj22.0,75385,75581,herr_von_biederling,75407,75413,Meinen,herr_von_biederling
 qd,rj22.0,75385,75581,herr_von_biederling,75439,75442,ich,herr_von_biederling
 qd,rj22.0,75385,75581,herr_von_biederling,75493,75496,ich,herr_von_biederling
 qd,rj22.0,75385,75581,herr_von_biederling,75539,75542,ich,herr_von_biederling
+qd,rj22.0,75385,75581,herr_von_biederling,75563,75566,mir,herr_von_biederling
 qd,rj22.0,75846,75940,graf,75905,75908,ich,graf
 qd,rj22.0,76010,76151,herr_von_biederling,76102,76105,ich,herr_von_biederling
 qd,rj22.0,76156,76261,beza,76172,76175,Ich,beza
@@ -723,6 +738,7 @@ qd,rj22.0,77381,77666,herr_von_biederling,77473,77476,mir,herr_von_biederling
 qd,rj22.0,77381,77666,herr_von_biederling,77574,77577,ich,herr_von_biederling
 qd,rj22.0,77698,77939,herr_von_biederling,77905,77908,ich,herr_von_biederling
 qd,rj22.0,78195,78320,donna,78211,78214,ich,donna
+qd,rj22.0,78195,78320,donna,78314,78317,mir,donna
 qd,rj22.0,78483,78512,gustav,78492,78495,Ich,gustav
 qd,rj22.0,78588,78865,donna,78729,78732,mir,donna
 qd,rj22.0,78588,78865,donna,78760,78763,ich,donna
@@ -754,6 +770,7 @@ qd,rj22.0,82010,82563,kaffeewirt,82196,82199,ich,kaffeewirt
 qd,rj22.0,82010,82563,kaffeewirt,82374,82377,Ich,kaffeewirt
 qd,rj22.0,82598,82956,kaffeewirt,82647,82651,mich,kaffeewirt
 qd,rj22.0,82598,82956,kaffeewirt,82679,82682,ich,kaffeewirt
+qd,rj22.0,82598,82956,kaffeewirt,82708,82711,ich,kaffeewirt
 qd,rj22.0,82598,82956,kaffeewirt,82878,82881,ich,kaffeewirt
 qd,rj22.0,82598,82956,kaffeewirt,82934,82937,mir,kaffeewirt
 qd,rj22.0,82961,83078,herr_von_biederling,83070,83073,mir,herr_von_biederling
@@ -830,6 +847,7 @@ qd,rj22.0,92987,93104,zierau,92996,92999,Ich,zierau
 qd,rj22.0,93109,93338,graf,93161,93164,ich,graf
 qd,rj22.0,93569,93628,wilhelmine,93587,93590,ich,wilhelmine
 qd,rj22.0,93633,93897,frau_von_biederling,93659,93662,ich,frau_von_biederling
+qd,rj22.0,93633,93897,frau_von_biederling,93864,93867,ich,frau_von_biederling
 qd,rj22.0,94370,94632,frau_von_biederling,94392,94395,Mir,frau_von_biederling
 qd,rj22.0,94861,95100,zierau,94931,94934,ich,zierau
 qd,rj22.0,94861,95100,zierau,94969,94972,Ich,zierau
@@ -838,8 +856,10 @@ qd,rj22.0,95152,95832,zierau,95810,95814,mein,zierau
 qd,rj22.0,96002,96225,wilhelmine,96015,96018,Ich,wilhelmine
 qd,rj22.0,96002,96225,wilhelmine,96028,96031,ich,wilhelmine
 qd,rj22.0,96002,96225,wilhelmine,96158,96162,mich,wilhelmine
+qd,rj22.0,96002,96225,wilhelmine,96201,96204,mir,wilhelmine
 qd,rj22.0,96230,96440,zierau,96244,96247,mir,zierau
 qd,rj22.0,96445,96664,wilhelmine,96458,96461,Ich,wilhelmine
+qd,rj22.0,96445,96664,wilhelmine,96543,96546,mir,wilhelmine
 qd,rj22.0,96445,96664,wilhelmine,96605,96608,mir,wilhelmine
 qd,rj22.0,96669,96792,frau_von_biederling,96717,96720,ich,frau_von_biederling
 qd,rj22.0,96797,97008,donna,96805,96808,Ich,donna
@@ -1022,6 +1042,7 @@ qd,rj22.0,114122,114403,bürgermeister,114197,114200,ich,bürgermeister
 qd,rj22.0,114408,114538,zierau,114467,114470,ich,zierau
 qd,rj22.0,114408,114538,zierau,114475,114478,mir,zierau
 qd,rj22.0,114543,114762,bürgermeister,114580,114583,ich,bürgermeister
+qd,rj22.0,114543,114762,bürgermeister,114584,114587,mir,bürgermeister
 qd,rj22.0,114543,114762,bürgermeister,114629,114632,ich,bürgermeister
 qd,rj22.0,114543,114762,bürgermeister,114694,114697,mir,bürgermeister
 qd,rj22.0,114863,115696,zierau,115032,115035,ich,zierau

@@ -161,6 +161,7 @@ qd,kq6k.0,20774,23005,faust,21681,21685,mich,faust
 qd,kq6k.0,20774,23005,faust,21713,21717,mich,faust
 qd,kq6k.0,20774,23005,faust,22025,22028,Ich,faust
 qd,kq6k.0,20774,23005,faust,22106,22109,ich,faust
+qd,kq6k.0,20774,23005,faust,22116,22119,ich,faust
 qd,kq6k.0,20774,23005,faust,22304,22307,ich,faust
 qd,kq6k.0,20774,23005,faust,22317,22320,Ich,faust
 qd,kq6k.0,20774,23005,faust,22396,22399,mir,faust
@@ -256,6 +257,7 @@ qd,kq6k.0,38622,38758,bianca,38675,38680,meine,bianca
 qd,kq6k.0,38622,38758,bianca,38746,38750,mich,bianca
 qd,kq6k.0,38764,38912,robert,38797,38803,Meines,robert
 qd,kq6k.0,39308,39349,faust,39332,39335,mir,faust
+qd,kq6k.0,39470,39667,faust,39533,39536,ich,faust
 qd,kq6k.0,39470,39667,faust,39654,39660,meiner,faust
 qd,kq6k.0,39673,39763,bianca,39736,39740,mein,bianca
 qd,kq6k.0,39769,39835,faust,39827,39830,ich,faust
@@ -265,6 +267,7 @@ qd,kq6k.0,41016,41292,robert,41204,41207,Ich,robert
 qd,kq6k.0,41016,41292,robert,41253,41258,meine,robert
 qd,kq6k.0,41298,41532,bianca,41448,41451,ich,bianca
 qd,kq6k.0,41298,41532,bianca,41464,41467,ich,bianca
+qd,kq6k.0,41298,41532,bianca,41487,41490,ich,bianca
 qd,kq6k.0,41895,42236,mephistopheles,41981,41984,mir,mephistopheles
 qd,kq6k.0,41895,42236,mephistopheles,42070,42074,mich,mephistopheles
 qd,kq6k.0,41895,42236,mephistopheles,42123,42126,Ich,mephistopheles
@@ -354,10 +357,12 @@ qd,kq6k.0,53130,53232,bianca,53209,53213,mich,bianca
 qd,kq6k.0,53238,53296,faust,53259,53263,mein,faust
 qd,kq6k.0,53238,53296,faust,53270,53273,ich,faust
 qd,kq6k.0,53437,56723,mephistopheles,53503,53507,mich,mephistopheles
+qd,kq6k.0,53437,56723,mephistopheles,53513,53516,ich,mephistopheles
 qd,kq6k.0,53437,56723,mephistopheles,53542,53546,Mich,mephistopheles
 qd,kq6k.0,53437,56723,mephistopheles,53566,53569,ich,mephistopheles
 qd,kq6k.0,53437,56723,mephistopheles,53659,53663,mich,mephistopheles
 qd,kq6k.0,53437,56723,mephistopheles,53681,53685,mich,mephistopheles
+qd,kq6k.0,53437,56723,mephistopheles,53755,53758,ich,mephistopheles
 qd,kq6k.0,53437,56723,mephistopheles,53777,53780,ich,mephistopheles
 qd,kq6k.0,53437,56723,mephistopheles,53781,53785,mich,mephistopheles
 qd,kq6k.0,53437,56723,mephistopheles,53842,53845,ich,mephistopheles
@@ -769,6 +774,7 @@ qd,kq6k.0,105058,105650,faust,105556,105559,ich,faust
 qd,kq6k.0,105058,105650,faust,105576,105580,mich,faust
 qd,kq6k.0,105058,105650,faust,105596,105600,mein,faust
 qd,kq6k.0,105773,106459,anselmo,105945,105948,ich,anselmo
+qd,kq6k.0,105773,106459,anselmo,105984,105987,ich,anselmo
 qd,kq6k.0,106465,106628,faust,106524,106528,mich,faust
 qd,kq6k.0,106465,106628,faust,106591,106594,ich,faust
 qd,kq6k.0,106465,106628,faust,106600,106606,meiner,faust

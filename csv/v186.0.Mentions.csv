@@ -15,6 +15,7 @@ qd,v186.0,2689,5677,hanswurst,3707,3712,meine,hanswurst
 qd,v186.0,2689,5677,hanswurst,3956,3959,ich,hanswurst
 qd,v186.0,2689,5677,hanswurst,4020,4025,meine,hanswurst
 qd,v186.0,2689,5677,hanswurst,4121,4125,Mein,hanswurst
+qd,v186.0,2689,5677,hanswurst,4395,4398,mir,hanswurst
 qd,v186.0,2689,5677,hanswurst,4475,4479,mich,hanswurst
 qd,v186.0,2689,5677,hanswurst,4518,4522,mich,hanswurst
 qd,v186.0,2689,5677,hanswurst,4533,4537,mein,hanswurst
@@ -61,6 +62,7 @@ qd,v186.0,14423,14589,frau_knips,14555,14558,mir,frau_knips
 qd,v186.0,14423,14589,frau_knips,14573,14576,ich,frau_knips
 qd,v186.0,14651,14968,frau_knips,14789,14793,mich,frau_knips
 qd,v186.0,14651,14968,frau_knips,14833,14837,mich,frau_knips
+qd,v186.0,14651,14968,frau_knips,14875,14879,mein,frau_knips
 qd,v186.0,14651,14968,frau_knips,14952,14956,mein,frau_knips
 qd,v186.0,15044,15448,hanswurst,15199,15202,ich,hanswurst
 qd,v186.0,15044,15448,hanswurst,15234,15237,ich,hanswurst
@@ -108,6 +110,7 @@ qd,v186.0,19715,19929,frau_knips,19820,19824,Mein,frau_knips
 qd,v186.0,19715,19929,frau_knips,19861,19864,ich,frau_knips
 qd,v186.0,19935,20515,hanswurst,20009,20012,mir,hanswurst
 qd,v186.0,20613,21413,der_erste_türke,21166,21169,mir,der_erste_türke
+qd,v186.0,21419,22209,der_zweite_türke,21443,21446,mir,der_zweite_türke
 qd,v186.0,21419,22209,der_zweite_türke,22109,22115,meinem,der_zweite_türke
 qd,v186.0,22849,23587,erster_matrose,22959,22963,mich,erster_matrose
 qd,v186.0,22849,23587,erster_matrose,22994,22997,ich,erster_matrose
@@ -223,6 +226,7 @@ qd,v186.0,36829,39085,der_sultan,38236,38241,meine,der_sultan
 qd,v186.0,36829,39085,der_sultan,38282,38285,Ich,der_sultan
 qd,v186.0,36829,39085,der_sultan,38416,38420,mich,der_sultan
 qd,v186.0,36829,39085,der_sultan,38459,38463,mein,der_sultan
+qd,v186.0,36829,39085,der_sultan,38471,38475,mein,der_sultan
 qd,v186.0,36829,39085,der_sultan,38551,38554,mir,der_sultan
 qd,v186.0,36829,39085,der_sultan,38589,38593,mich,der_sultan
 qd,v186.0,36829,39085,der_sultan,38615,38619,mich,der_sultan
@@ -230,6 +234,7 @@ qd,v186.0,36829,39085,der_sultan,38628,38631,ich,der_sultan
 qd,v186.0,36829,39085,der_sultan,38676,38679,ich,der_sultan
 qd,v186.0,36829,39085,der_sultan,38716,38722,meiner,der_sultan
 qd,v186.0,36829,39085,der_sultan,38769,38775,meiner,der_sultan
+qd,v186.0,36829,39085,der_sultan,38820,38824,mein,der_sultan
 qd,v186.0,36829,39085,der_sultan,38842,38848,meiner,der_sultan
 qd,v186.0,36829,39085,der_sultan,39025,39028,ich,der_sultan
 qd,v186.0,39093,39694,das_mädel,39197,39200,Ich,das_mädel
@@ -295,6 +300,7 @@ qd,v186.0,44292,44467,der_sultan,44442,44445,ich,der_sultan
 qd,v186.0,44292,44467,der_sultan,44450,44455,meine,der_sultan
 qd,v186.0,44473,44658,frau_knips,44572,44575,ich,frau_knips
 qd,v186.0,44473,44658,frau_knips,44576,44580,mich,frau_knips
+qd,v186.0,44473,44658,frau_knips,44599,44602,ich,frau_knips
 qd,v186.0,44664,44879,das_mädel,44749,44752,mir,das_mädel
 qd,v186.0,44664,44879,das_mädel,44861,44864,ich,das_mädel
 qd,v186.0,44971,45106,frau_knips,44992,44995,ich,frau_knips
@@ -340,6 +346,7 @@ qd,v186.0,50522,52952,der_sultan,52783,52786,Ich,der_sultan
 qd,v186.0,50522,52952,der_sultan,52802,52806,mich,der_sultan
 qd,v186.0,50522,52952,der_sultan,52842,52845,ich,der_sultan
 qd,v186.0,50522,52952,der_sultan,52893,52897,Mich,der_sultan
+qd,v186.0,50522,52952,der_sultan,52903,52907,mein,der_sultan
 qd,v186.0,53030,53383,das_mädel,53055,53058,ich,das_mädel
 qd,v186.0,53030,53383,das_mädel,53233,53236,ich,das_mädel
 qd,v186.0,53389,53515,frau_knips,53423,53426,ich,frau_knips
@@ -356,6 +363,7 @@ qd,v186.0,54041,54509,das_mädel,54288,54291,ich,das_mädel
 qd,v186.0,54041,54509,das_mädel,54407,54413,meinen,das_mädel
 qd,v186.0,54515,54774,frau_knips,54597,54600,ich,frau_knips
 qd,v186.0,54780,54992,das_mädel,54848,54851,ich,das_mädel
+qd,v186.0,54780,54992,das_mädel,54919,54923,mein,das_mädel
 qd,v186.0,54998,55135,frau_knips,55056,55062,meinen,frau_knips
 qd,v186.0,54998,55135,frau_knips,55092,55095,ich,frau_knips
 qd,v186.0,55227,56408,hanswurst,55382,55385,ich,hanswurst
@@ -478,6 +486,7 @@ qd,v186.0,67742,67842,die_dame,67766,67769,ich,die_dame
 qd,v186.0,67742,67842,die_dame,67819,67822,ich,die_dame
 qd,v186.0,67980,68073,die_dame,68006,68009,ich,die_dame
 qd,v186.0,68079,68444,ein_alt_mütterchen,68340,68344,mich,ein_alt_mütterchen
+qd,v186.0,68450,68633,die_dame,68494,68497,ich,die_dame
 qd,v186.0,68450,68633,die_dame,68564,68567,ich,die_dame
 qd,v186.0,69256,69309,ein_alt_mütterchen,69288,69291,ich,ein_alt_mütterchen
 qd,v186.0,69314,69779,hanswurst,69354,69357,ich,hanswurst
@@ -643,6 +652,7 @@ qd,v186.0,78281,83929,die_dame,83781,83784,ich,die_dame
 qd,v186.0,78281,83929,die_dame,83889,83893,mich,die_dame
 qd,v186.0,78281,83929,die_dame,83907,83911,mein,die_dame
 qd,v186.0,83936,84292,hanswurst,83966,83969,Ich,hanswurst
+qd,v186.0,83936,84292,hanswurst,84182,84185,mir,hanswurst
 qd,v186.0,83936,84292,hanswurst,84200,84204,mein,hanswurst
 qd,v186.0,84399,84534,ein_alt_mütterchen,84427,84430,ich,ein_alt_mütterchen
 qd,v186.0,84540,84777,hanswurst,84617,84620,Ich,hanswurst
@@ -652,6 +662,7 @@ qd,v186.0,85414,85733,hanswurst,85426,85429,Ich,hanswurst
 qd,v186.0,85414,85733,hanswurst,85435,85439,mich,hanswurst
 qd,v186.0,85414,85733,hanswurst,85476,85480,mich,hanswurst
 qd,v186.0,85937,86129,der_schwarzrok,85954,85958,Mein,der_schwarzrok
+qd,v186.0,85937,86129,der_schwarzrok,86016,86020,mein,der_schwarzrok
 qd,v186.0,85937,86129,der_schwarzrok,86102,86105,ich,der_schwarzrok
 qd,v186.0,86135,86285,hanswurst,86188,86192,mein,hanswurst
 qd,v186.0,86291,87324,der_schwarzrok,86383,86386,ich,der_schwarzrok

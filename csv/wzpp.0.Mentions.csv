@@ -1,8 +1,10 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
 qd,wzpp.0,2993,3045,tannhäuser,3028,3031,ich,tannhäuser
+qd,wzpp.0,3084,3258,tannhäuser,3110,3113,mir,tannhäuser
 qd,wzpp.0,3084,3258,tannhäuser,3127,3130,ich,tannhäuser
 qd,wzpp.0,3084,3258,tannhäuser,3138,3144,meinem,tannhäuser
 qd,wzpp.0,3084,3258,tannhäuser,3177,3180,ich,tannhäuser
+qd,wzpp.0,3084,3258,tannhäuser,3236,3239,ich,tannhäuser
 qd,wzpp.0,3318,3707,tannhäuser,3350,3353,ich,tannhäuser
 qd,wzpp.0,3318,3707,tannhäuser,3363,3366,ich,tannhäuser
 qd,wzpp.0,3318,3707,tannhäuser,3418,3422,mich,tannhäuser

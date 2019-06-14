@@ -24,6 +24,7 @@ qd,vnft.0,6318,6387,charmion,6340,6343,ich,charmion
 qd,vnft.0,6555,6643,enobarbus,6567,6571,Mein,enobarbus
 qd,vnft.0,6872,7043,charmion,6965,6968,ich,charmion
 qd,vnft.0,6872,7043,charmion,6969,6972,mir,charmion
+qd,vnft.0,7096,7147,iras,7127,7130,mir,iras
 qd,vnft.0,7152,7180,wahrsager,7164,7167,Ich,wahrsager
 qd,vnft.0,7185,7260,iras,7197,7200,ich,iras
 qd,vnft.0,7265,7364,charmion,7336,7339,mir,charmion
@@ -105,11 +106,14 @@ qd,vnft.0,19900,20086,antonius,20009,20012,mir,antonius
 qd,vnft.0,19900,20086,antonius,20022,20025,ich,antonius
 qd,vnft.0,20670,20899,lepidus,20691,20694,ich,lepidus
 qd,vnft.0,22090,22445,cäsar,22105,22108,ich,cäsar
+qd,vnft.0,22090,22445,cäsar,22109,22112,mir,cäsar
+qd,vnft.0,22824,23539,cäsar,23453,23456,ich,cäsar
 qd,vnft.0,23575,23769,cäsar,23705,23708,mir,cäsar
 qd,vnft.0,23775,23918,lepidus,23807,23810,ich,lepidus
 qd,vnft.0,23775,23918,lepidus,23850,23853,ich,lepidus
 qd,vnft.0,23924,23982,cäsar,23957,23962,meine,cäsar
 qd,vnft.0,23988,24107,lepidus,24078,24081,ich,lepidus
+qd,vnft.0,23988,24107,lepidus,24089,24092,Mir,lepidus
 qd,vnft.0,24113,24186,cäsar,24144,24147,Ich,cäsar
 qd,vnft.0,24113,24186,cäsar,24159,24164,meine,cäsar
 qd,vnft.0,24383,24431,cleopatra,24405,24408,mir,cleopatra
@@ -187,6 +191,7 @@ qd,vnft.0,34002,34405,antonius,34058,34061,ich,antonius
 qd,vnft.0,34002,34405,antonius,34162,34165,Ich,antonius
 qd,vnft.0,34002,34405,antonius,34213,34218,meine,antonius
 qd,vnft.0,34002,34405,antonius,34254,34257,Ich,antonius
+qd,vnft.0,34527,34757,antonius,34673,34676,ich,antonius
 qd,vnft.0,34527,34757,antonius,34719,34722,mir,antonius
 qd,vnft.0,34527,34757,antonius,34747,34750,ich,antonius
 qd,vnft.0,34763,34922,cäsar,34771,34774,Ich,cäsar
@@ -201,6 +206,7 @@ qd,vnft.0,35252,35342,cäsar,35320,35324,Mich,cäsar
 qd,vnft.0,35374,35547,antonius,35480,35483,ich,antonius
 qd,vnft.0,35374,35547,antonius,35532,35538,meines,antonius
 qd,vnft.0,35553,35640,cäsar,35561,35564,Mir,cäsar
+qd,vnft.0,35553,35640,cäsar,35596,35599,ich,cäsar
 qd,vnft.0,35646,36052,antonius,35711,35714,mir,antonius
 qd,vnft.0,35646,36052,antonius,35716,35720,Mein,antonius
 qd,vnft.0,35646,36052,antonius,35770,35773,ich,antonius
@@ -242,6 +248,7 @@ qd,vnft.0,43772,43856,octavia,43830,43834,mein,octavia
 qd,vnft.0,43862,44045,antonius,43944,43947,Ich,antonius
 qd,vnft.0,44196,44260,wahrsager,44214,44217,ich,wahrsager
 qd,vnft.0,44310,44411,wahrsager,44322,44325,Ich,wahrsager
+qd,vnft.0,44310,44411,wahrsager,44374,44377,ich,wahrsager
 qd,vnft.0,44417,44485,antonius,44437,44440,mir,antonius
 qd,vnft.0,45146,45759,antonius,45200,45203,ich,antonius
 qd,vnft.0,45146,45759,antonius,45371,45375,Mein,antonius
@@ -331,6 +338,7 @@ qd,vnft.0,54725,54985,pompejus,54867,54870,ich,pompejus
 qd,vnft.0,54991,55294,pompejus,55012,55015,Ich,pompejus
 qd,vnft.0,54991,55294,pompejus,55102,55106,mich,pompejus
 qd,vnft.0,54991,55294,pompejus,55125,55128,ich,pompejus
+qd,vnft.0,54991,55294,pompejus,55157,55160,ich,pompejus
 qd,vnft.0,55300,55394,antonius,55311,55314,Ich,antonius
 qd,vnft.0,55300,55394,antonius,55376,55379,ich,antonius
 qd,vnft.0,55400,55478,pompejus,55416,55419,mir,pompejus
@@ -342,6 +350,7 @@ qd,vnft.0,55484,55614,antonius,55597,55600,ich,antonius
 qd,vnft.0,55620,55677,cäsar,55633,55636,ich,cäsar
 qd,vnft.0,55683,55835,pompejus,55699,55702,ich,pompejus
 qd,vnft.0,55683,55835,pompejus,55737,55741,mein,pompejus
+qd,vnft.0,55683,55835,pompejus,55780,55783,mir,pompejus
 qd,vnft.0,55683,55835,pompejus,55809,55813,Mein,pompejus
 qd,vnft.0,55871,55987,pompejus,55892,55895,ich,pompejus
 qd,vnft.0,55871,55987,pompejus,55927,55930,Ich,pompejus
@@ -351,6 +360,7 @@ qd,vnft.0,56351,56378,pompejus,56361,56364,Ich,pompejus
 qd,vnft.0,56351,56378,pompejus,56365,56369,mein,pompejus
 qd,vnft.0,56422,56498,pompejus,56443,56446,ich,pompejus
 qd,vnft.0,56637,56694,pompejus,56657,56660,ich,pompejus
+qd,vnft.0,56699,56796,enobarbus,56726,56729,mir,enobarbus
 qd,vnft.0,56699,56796,enobarbus,56758,56761,ich,enobarbus
 qd,vnft.0,56802,56910,pompejus,56820,56823,mir,pompejus
 qd,vnft.0,56802,56910,pompejus,56835,56838,Ich,pompejus
@@ -394,6 +404,7 @@ qd,vnft.0,63212,63281,menas,63225,63228,ich,menas
 qd,vnft.0,63212,63281,menas,63254,63258,mich,menas
 qd,vnft.0,63336,63387,menas,63343,63346,Ich,menas
 qd,vnft.0,63392,63474,pompejus,63411,63414,mir,pompejus
+qd,vnft.0,63636,63697,menas,63691,63694,ich,menas
 qd,vnft.0,63741,63842,menas,63778,63781,ich,menas
 qd,vnft.0,63741,63842,menas,63795,63798,ich,menas
 qd,vnft.0,63879,64060,menas,63887,63891,Mein,menas
@@ -405,6 +416,8 @@ qd,vnft.0,64099,64254,menas,64208,64211,ich,menas
 qd,vnft.0,64260,64608,pompejus,64317,64320,mir,pompejus
 qd,vnft.0,64260,64608,pompejus,64378,64382,Mein,pompejus
 qd,vnft.0,64260,64608,pompejus,64402,64408,meiner,pompejus
+qd,vnft.0,64260,64608,pompejus,64516,64519,ich,pompejus
+qd,vnft.0,64260,64608,pompejus,64571,64574,ich,pompejus
 qd,vnft.0,64614,64749,menas,64637,64640,ich,menas
 qd,vnft.0,64789,64844,antonius,64819,64822,ich,antonius
 qd,vnft.0,65397,65501,cäsar,65405,65408,Ich,cäsar
@@ -436,12 +449,14 @@ qd,vnft.0,71329,71374,antonius,71347,71351,mich,antonius
 qd,vnft.0,71402,71593,antonius,71422,71425,ich,antonius
 qd,vnft.0,71740,71769,octavia,71749,71753,Mein,octavia
 qd,vnft.0,71889,71946,octavia,71918,71924,meines,octavia
+qd,vnft.0,71977,72014,octavia,72004,72007,ich,octavia
 qd,vnft.0,72515,72656,enobarbus,72641,72644,ich,enobarbus
 qd,vnft.0,72662,72765,cäsar,72714,72717,mir,cäsar
 qd,vnft.0,72771,72923,antonius,72806,72810,mich,antonius
 qd,vnft.0,72771,72923,antonius,72868,72871,ich,antonius
 qd,vnft.0,72771,72923,antonius,72887,72890,ich,antonius
 qd,vnft.0,73512,73643,cleopatra,73552,73555,ich,cleopatra
+qd,vnft.0,73512,73643,cleopatra,73576,73579,mir,cleopatra
 qd,vnft.0,73774,73868,bote_4,73790,73793,Ich,bote_4
 qd,vnft.0,73874,73909,cleopatra,73905,73908,ich,cleopatra
 qd,vnft.0,74004,74055,bote_4,74010,74013,Ich,bote_4
@@ -468,6 +483,7 @@ qd,vnft.0,77344,77540,octavia,77396,77400,mich,octavia
 qd,vnft.0,78567,78711,enobarbus,78589,78592,ich,enobarbus
 qd,vnft.0,78923,79045,eros,79023,79026,ich,eros
 qd,vnft.0,79051,79125,enobarbus,79113,79117,mich,enobarbus
+qd,vnft.0,79284,79694,cäsar,79367,79370,mir,cäsar
 qd,vnft.0,79284,79694,cäsar,79505,79511,meines,cäsar
 qd,vnft.0,80307,80578,cäsar,80427,80430,mir,cäsar
 qd,vnft.0,80623,80913,cäsar,80649,80652,ich,cäsar
@@ -711,6 +727,7 @@ qd,vnft.0,117447,117479,enobarbus,117458,117461,Ich,enobarbus
 qd,vnft.0,117484,117689,soldat_3,117519,117522,Ich,soldat_3
 qd,vnft.0,117484,117689,soldat_3,117577,117580,ich,soldat_3
 qd,vnft.0,117484,117689,soldat_3,117589,117595,meinen,soldat_3
+qd,vnft.0,117484,117689,soldat_3,117617,117620,ich,soldat_3
 qd,vnft.0,117695,118183,enobarbus,117707,117710,Ich,enobarbus
 qd,vnft.0,117695,118183,enobarbus,117912,117916,mein,enobarbus
 qd,vnft.0,117695,118183,enobarbus,118019,118022,ich,enobarbus
@@ -728,6 +745,7 @@ qd,vnft.0,119433,120222,antonius,120016,120020,mich,antonius
 qd,vnft.0,119433,120222,antonius,120169,120173,mein,antonius
 qd,vnft.0,120342,120718,antonius,120606,120610,mein,antonius
 qd,vnft.0,121707,121740,enobarbus,121729,121733,mein,enobarbus
+qd,vnft.0,121833,121993,enobarbus,121853,121856,mir,enobarbus
 qd,vnft.0,122076,122611,enobarbus,122171,122175,mich,enobarbus
 qd,vnft.0,122076,122611,enobarbus,122189,122195,meinem,enobarbus
 qd,vnft.0,122076,122611,enobarbus,122236,122239,mir,enobarbus
@@ -739,6 +757,7 @@ qd,vnft.0,122076,122611,enobarbus,122493,122497,mich,enobarbus
 qd,vnft.0,123538,123884,antonius,123697,123700,mir,antonius
 qd,vnft.0,123538,123884,antonius,123717,123720,ich,antonius
 qd,vnft.0,123890,124117,cäsar,123935,123938,ich,cäsar
+qd,vnft.0,124123,124262,antonius,124191,124194,ich,antonius
 qd,vnft.0,124123,124262,antonius,124225,124228,ich,antonius
 qd,vnft.0,124641,125678,antonius,124698,124702,mich,antonius
 qd,vnft.0,124641,125678,antonius,124726,124731,meine,antonius
@@ -809,9 +828,11 @@ qd,vnft.0,130192,130850,antonius,130730,130734,mich,antonius
 qd,vnft.0,130192,130850,antonius,130783,130787,mich,antonius
 qd,vnft.0,130856,130973,eros,130885,130888,ich,eros
 qd,vnft.0,130979,131256,antonius,130989,130993,Mein,antonius
+qd,vnft.0,131262,131295,eros,131282,131285,ich,eros
 qd,vnft.0,131300,131428,antonius,131346,131350,mich,antonius
 qd,vnft.0,131434,131461,eros,131457,131460,mir,eros
 qd,vnft.0,131466,131666,antonius,131481,131484,ich,antonius
+qd,vnft.0,131466,131666,antonius,131543,131546,ich,antonius
 qd,vnft.0,131672,131761,eros,131697,131700,mir,eros
 qd,vnft.0,131809,131835,eros,131815,131818,Ich,eros
 qd,vnft.0,131904,132015,eros,131911,131915,Mein,eros
@@ -904,12 +925,14 @@ qd,vnft.0,141110,141215,cäsar,141156,141160,mich,cäsar
 qd,vnft.0,141600,142372,cäsar,141643,141646,ich,cäsar
 qd,vnft.0,141600,142372,cäsar,141717,141720,ich,cäsar
 qd,vnft.0,141600,142372,cäsar,141780,141783,mir,cäsar
+qd,vnft.0,141600,142372,cäsar,141855,141858,ich,cäsar
 qd,vnft.0,141600,142372,cäsar,141918,141922,mein,cäsar
 qd,vnft.0,141600,142372,cäsar,141935,141939,mein,cäsar
 qd,vnft.0,141600,142372,cäsar,141977,141981,mein,cäsar
 qd,vnft.0,141600,142372,cäsar,142051,142057,meines,cäsar
 qd,vnft.0,141600,142372,cäsar,142083,142088,meine,cäsar
 qd,vnft.0,141600,142372,cäsar,142197,142201,mich,cäsar
+qd,vnft.0,141600,142372,cäsar,142233,142236,ich,cäsar
 qd,vnft.0,142378,142568,bote_8,142409,142414,Meine,bote_8
 qd,vnft.0,142806,143154,cäsar,142860,142863,Ich,cäsar
 qd,vnft.0,142806,143154,cäsar,143110,143113,mir,cäsar
@@ -929,6 +952,7 @@ qd,vnft.0,143802,144238,cleopatra,143838,143841,mir,cleopatra
 qd,vnft.0,144413,144450,proculejus,144425,144429,Mein,proculejus
 qd,vnft.0,144455,144876,cleopatra,144486,144489,mir,cleopatra
 qd,vnft.0,144455,144876,cleopatra,144505,144509,mich,cleopatra
+qd,vnft.0,144455,144876,cleopatra,144546,144550,mich,cleopatra
 qd,vnft.0,144455,144876,cleopatra,144591,144594,mir,cleopatra
 qd,vnft.0,144455,144876,cleopatra,144770,144776,meinen,cleopatra
 qd,vnft.0,144455,144876,cleopatra,144790,144793,mir,cleopatra
@@ -957,6 +981,7 @@ qd,vnft.0,147293,147423,dolabella,147406,147409,ich,dolabella
 qd,vnft.0,147293,147423,dolabella,147413,147418,meine,dolabella
 qd,vnft.0,147429,147579,proculejus,147460,147463,Mir,proculejus
 qd,vnft.0,147429,147579,proculejus,147524,147527,ich,proculejus
+qd,vnft.0,147429,147579,proculejus,147563,147566,mir,proculejus
 qd,vnft.0,147585,147657,cleopatra,147604,147607,ich,cleopatra
 qd,vnft.0,147663,147711,dolabella,147707,147710,mir,dolabella
 qd,vnft.0,147716,147742,cleopatra,147727,147730,Ich,cleopatra
@@ -997,6 +1022,7 @@ qd,vnft.0,151816,151850,cleopatra,151846,151849,ich,cleopatra
 qd,vnft.0,151910,151977,cäsar,151944,151947,Ich,cäsar
 qd,vnft.0,151983,152373,cleopatra,152099,152103,mein,cleopatra
 qd,vnft.0,151983,152373,cleopatra,152157,152161,mich,cleopatra
+qd,vnft.0,151983,152373,cleopatra,152260,152263,mir,cleopatra
 qd,vnft.0,151983,152373,cleopatra,152291,152294,ich,cleopatra
 qd,vnft.0,152414,153173,cleopatra,152494,152498,mich,cleopatra
 qd,vnft.0,152414,153173,cleopatra,152579,152583,mein,cleopatra

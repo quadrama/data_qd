@@ -11,6 +11,7 @@ qd,v183.0,1812,1865,rosalinde,1840,1843,ich,rosalinde
 qd,v183.0,1949,1989,rosalinde,1961,1964,Ich,rosalinde
 qd,v183.0,1994,2059,friz,2014,2017,ich,friz
 qd,v183.0,2234,2439,friz,2290,2293,ich,friz
+qd,v183.0,2234,2439,friz,2350,2353,mir,friz
 qd,v183.0,2444,2598,rosalinde,2485,2488,Ich,rosalinde
 qd,v183.0,2444,2598,rosalinde,2548,2551,ich,rosalinde
 qd,v183.0,2603,2637,friz,2627,2630,ich,friz
@@ -58,6 +59,7 @@ qd,v183.0,5915,6823,doktor_faust,6680,6683,ich,doktor_faust
 qd,v183.0,5915,6823,doktor_faust,6707,6710,ich,doktor_faust
 qd,v183.0,5915,6823,doktor_faust,6769,6772,ich,doktor_faust
 qd,v183.0,6828,7721,rosalinde,6860,6865,meine,rosalinde
+qd,v183.0,6828,7721,rosalinde,6896,6899,ich,rosalinde
 qd,v183.0,6828,7721,rosalinde,6951,6954,mir,rosalinde
 qd,v183.0,6828,7721,rosalinde,7020,7023,mir,rosalinde
 qd,v183.0,6828,7721,rosalinde,7422,7425,Ich,rosalinde
@@ -68,6 +70,7 @@ qd,v183.0,8644,9091,rosalinde,8716,8719,ich,rosalinde
 qd,v183.0,9096,9200,doktor_faust,9104,9107,Ich,doktor_faust
 qd,v183.0,9205,9274,rosalinde,9239,9242,ich,rosalinde
 qd,v183.0,9863,10167,rosalinde,10102,10105,mir,rosalinde
+qd,v183.0,9863,10167,rosalinde,10118,10121,ich,rosalinde
 qd,v183.0,10172,10999,doktor_faust,10464,10470,meines,doktor_faust
 qd,v183.0,10172,10999,doktor_faust,10535,10541,meiner,doktor_faust
 qd,v183.0,10172,10999,doktor_faust,10622,10628,meinem,doktor_faust

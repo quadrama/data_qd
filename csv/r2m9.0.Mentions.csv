@@ -182,6 +182,7 @@ qd,r2m9.0,25458,25927,gretchen,25837,25842,meine,gretchen
 qd,r2m9.0,26113,26175,nanette,26123,26126,Ich,nanette
 qd,r2m9.0,26241,26347,nanette,26256,26259,ich,nanette
 qd,r2m9.0,26241,26347,nanette,26260,26264,mich,nanette
+qd,r2m9.0,26241,26347,nanette,26314,26317,mir,nanette
 qd,r2m9.0,26493,26628,nanette,26517,26520,ich,nanette
 qd,r2m9.0,26493,26628,nanette,26521,26524,mir,nanette
 qd,r2m9.0,26493,26628,nanette,26548,26552,mich,nanette
@@ -268,6 +269,7 @@ qd,r2m9.0,35787,35969,baron,35911,35914,ich,baron
 qd,r2m9.0,35974,36250,graf,36007,36010,ich,graf
 qd,r2m9.0,36989,37098,gretchen,37079,37082,ich,gretchen
 qd,r2m9.0,37219,37315,graf,37247,37250,mir,graf
+qd,r2m9.0,37321,37397,baron,37371,37374,mir,baron
 qd,r2m9.0,37598,37792,baron,37638,37641,Ich,baron
 qd,r2m9.0,37598,37792,baron,37660,37664,mich,baron
 qd,r2m9.0,37598,37792,baron,37691,37695,Mich,baron
@@ -359,6 +361,7 @@ qd,r2m9.0,49367,49518,baron,49413,49416,mir,baron
 qd,r2m9.0,49367,49518,baron,49435,49438,ich,baron
 qd,r2m9.0,49367,49518,baron,49474,49477,ich,baron
 qd,r2m9.0,49367,49518,baron,49478,49482,mich,baron
+qd,r2m9.0,49523,49566,gräfin,49552,49555,ich,gräfin
 qd,r2m9.0,49571,49692,baron,49606,49610,mich,baron
 qd,r2m9.0,49571,49692,baron,49670,49676,meinen,baron
 qd,r2m9.0,49697,49737,gräfin,49727,49730,ich,gräfin
@@ -537,6 +540,7 @@ qd,r2m9.0,69747,69770,baronin,69766,69769,ich,baronin
 qd,r2m9.0,69850,70270,baron,69903,69907,mich,baron
 qd,r2m9.0,69850,70270,baron,69941,69944,ich,baron
 qd,r2m9.0,69850,70270,baron,70028,70031,ich,baron
+qd,r2m9.0,69850,70270,baron,70055,70058,mir,baron
 qd,r2m9.0,69850,70270,baron,70073,70078,meine,baron
 qd,r2m9.0,69850,70270,baron,70128,70132,mein,baron
 qd,r2m9.0,69850,70270,baron,70160,70164,mein,baron
@@ -578,6 +582,7 @@ qd,r2m9.0,72614,72704,baron,72646,72651,meine,baron
 qd,r2m9.0,72614,72704,baron,72695,72698,Ich,baron
 qd,r2m9.0,72788,72838,baronin,72818,72821,ich,baronin
 qd,r2m9.0,72843,72890,baron,72864,72868,mein,baron
+qd,r2m9.0,72948,73013,baron,72999,73002,ich,baron
 qd,r2m9.0,73332,73410,baron,73352,73355,Ich,baron
 qd,r2m9.0,73701,73808,baron,73718,73721,ich,baron
 qd,r2m9.0,73813,73880,graf,73869,73874,meine,graf
@@ -818,6 +823,7 @@ qd,r2m9.0,101101,101189,gretchen,101117,101120,ich,gretchen
 qd,r2m9.0,101101,101189,gretchen,101149,101152,ich,gretchen
 qd,r2m9.0,101101,101189,gretchen,101171,101175,mein,gretchen
 qd,r2m9.0,101260,101311,gretchen,101276,101279,ich,gretchen
+qd,r2m9.0,101316,101420,baculus,101331,101334,ich,baculus
 qd,r2m9.0,101316,101420,baculus,101416,101419,ich,baculus
 qd,r2m9.0,101461,101548,baculus,101480,101483,mir,baculus
 qd,r2m9.0,101461,101548,baculus,101507,101510,ich,baculus

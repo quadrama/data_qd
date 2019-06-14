@@ -1,4 +1,5 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,r0jz.0,360,4901,sosias,460,463,mir,sosias
 qd,r0jz.0,360,4901,sosias,591,597,meiner,sosias
 qd,r0jz.0,360,4901,sosias,664,667,ich,sosias
 qd,r0jz.0,360,4901,sosias,741,745,mich,sosias
@@ -238,9 +239,11 @@ qd,r0jz.0,18276,18902,sosias,18888,18891,ich,sosias
 qd,r0jz.0,18908,19090,merkur,18922,18925,ich,merkur
 qd,r0jz.0,18908,19090,merkur,18974,18977,mir,merkur
 qd,r0jz.0,18908,19090,merkur,18985,18988,ich,merkur
+qd,r0jz.0,18908,19090,merkur,19019,19022,ich,merkur
 qd,r0jz.0,19096,19404,sosias,19115,19118,Mir,sosias
 qd,r0jz.0,19096,19404,sosias,19152,19155,Ich,sosias
 qd,r0jz.0,19096,19404,sosias,19168,19172,mein,sosias
+qd,r0jz.0,19096,19404,sosias,19205,19208,ich,sosias
 qd,r0jz.0,19096,19404,sosias,19347,19350,ich,sosias
 qd,r0jz.0,19096,19404,sosias,19351,19357,meiner,sosias
 qd,r0jz.0,19409,19511,merkur,19463,19466,ich,merkur
@@ -428,6 +431,7 @@ qd,r0jz.0,34709,35318,sosias,34976,34980,mich,sosias
 qd,r0jz.0,34709,35318,sosias,35070,35073,mir,sosias
 qd,r0jz.0,34709,35318,sosias,35269,35272,ich,sosias
 qd,r0jz.0,35325,35428,amphitryon,35361,35364,ich,amphitryon
+qd,r0jz.0,35434,35579,sosias,35496,35499,ich,sosias
 qd,r0jz.0,35434,35579,sosias,35508,35511,ich,sosias
 qd,r0jz.0,35434,35579,sosias,35535,35538,ich,sosias
 qd,r0jz.0,35434,35579,sosias,35575,35578,mir,sosias
@@ -441,6 +445,7 @@ qd,r0jz.0,36081,36347,sosias,36141,36145,Mein,sosias
 qd,r0jz.0,36081,36347,sosias,36153,36157,mein,sosias
 qd,r0jz.0,36081,36347,sosias,36191,36197,meines,sosias
 qd,r0jz.0,36081,36347,sosias,36212,36216,mein,sosias
+qd,r0jz.0,36081,36347,sosias,36232,36235,Ich,sosias
 qd,r0jz.0,36081,36347,sosias,36241,36245,mich,sosias
 qd,r0jz.0,36081,36347,sosias,36289,36293,mich,sosias
 qd,r0jz.0,36353,36409,amphitryon,36387,36392,meine,amphitryon
@@ -630,6 +635,7 @@ qd,r0jz.0,50382,50697,sosias,50401,50405,mein,sosias
 qd,r0jz.0,50382,50697,sosias,50412,50415,mir,sosias
 qd,r0jz.0,50382,50697,sosias,50433,50436,ich,sosias
 qd,r0jz.0,50382,50697,sosias,50481,50484,Ich,sosias
+qd,r0jz.0,50382,50697,sosias,50660,50663,ich,sosias
 qd,r0jz.0,50703,50820,charis,50726,50729,mir,charis
 qd,r0jz.0,50703,50820,charis,50785,50788,ich,charis
 qd,r0jz.0,50703,50820,charis,50805,50809,mich,charis
@@ -638,6 +644,7 @@ qd,r0jz.0,51097,51287,sosias,51260,51264,mich,sosias
 qd,r0jz.0,51293,51469,charis,51307,51310,ich,charis
 qd,r0jz.0,51293,51469,charis,51336,51339,mir,charis
 qd,r0jz.0,51293,51469,charis,51368,51371,mir,charis
+qd,r0jz.0,51293,51469,charis,51377,51380,ich,charis
 qd,r0jz.0,51475,51533,sosias,51508,51512,mich,sosias
 qd,r0jz.0,51538,51636,charis,51577,51580,mir,charis
 qd,r0jz.0,51538,51636,charis,51623,51627,mich,charis
@@ -718,6 +725,7 @@ qd,r0jz.0,55573,56730,alkmene,56336,56340,mich,alkmene
 qd,r0jz.0,55573,56730,alkmene,56378,56381,mir,alkmene
 qd,r0jz.0,55573,56730,alkmene,56398,56401,ich,alkmene
 qd,r0jz.0,55573,56730,alkmene,56493,56496,mir,alkmene
+qd,r0jz.0,55573,56730,alkmene,56527,56530,ich,alkmene
 qd,r0jz.0,55573,56730,alkmene,56681,56684,ich,alkmene
 qd,r0jz.0,55573,56730,alkmene,56710,56713,ich,alkmene
 qd,r0jz.0,56795,56823,alkmene,56804,56807,Ich,alkmene
@@ -863,6 +871,7 @@ qd,r0jz.0,65968,66088,jupiter,66070,66074,mich,jupiter
 qd,r0jz.0,66095,66158,alkmene,66104,66107,Ich,alkmene
 qd,r0jz.0,66163,66203,jupiter,66185,66188,ich,jupiter
 qd,r0jz.0,66163,66203,jupiter,66190,66193,ich,jupiter
+qd,r0jz.0,66239,66546,jupiter,66347,66350,ich,jupiter
 qd,r0jz.0,66239,66546,jupiter,66371,66374,mir,jupiter
 qd,r0jz.0,66239,66546,jupiter,66476,66479,ich,jupiter
 qd,r0jz.0,66239,66546,jupiter,66487,66490,ich,jupiter
@@ -888,7 +897,9 @@ qd,r0jz.0,67760,67854,jupiter,67802,67806,mich,jupiter
 qd,r0jz.0,67860,67908,alkmene,67894,67898,mich,alkmene
 qd,r0jz.0,67913,68248,jupiter,67969,67975,meiner,jupiter
 qd,r0jz.0,67913,68248,jupiter,68030,68033,ich,jupiter
+qd,r0jz.0,67913,68248,jupiter,68113,68116,ich,jupiter
 qd,r0jz.0,67913,68248,jupiter,68160,68163,ich,jupiter
+qd,r0jz.0,67913,68248,jupiter,68204,68207,ich,jupiter
 qd,r0jz.0,68637,69007,jupiter,68759,68762,ich,jupiter
 qd,r0jz.0,68637,69007,jupiter,68774,68777,ich,jupiter
 qd,r0jz.0,69078,69281,alkmene,69106,69109,ich,alkmene
@@ -925,6 +936,7 @@ qd,r0jz.0,73832,73896,jupiter,73876,73880,mich,jupiter
 qd,r0jz.0,73902,73962,alkmene,73942,73945,ich,alkmene
 qd,r0jz.0,73967,74793,jupiter,73994,73998,mein,jupiter
 qd,r0jz.0,73967,74793,jupiter,74736,74739,ich,jupiter
+qd,r0jz.0,73967,74793,jupiter,74766,74770,mich,jupiter
 qd,r0jz.0,74799,74961,alkmene,74822,74825,mir,alkmene
 qd,r0jz.0,74799,74961,alkmene,74856,74860,mich,alkmene
 qd,r0jz.0,74799,74961,alkmene,74880,74883,ich,alkmene
@@ -973,6 +985,7 @@ qd,r0jz.0,78052,78089,sosias,78060,78063,Ich,sosias
 qd,r0jz.0,78094,78143,charis,78111,78114,mir,charis
 qd,r0jz.0,78094,78143,charis,78132,78136,mein,charis
 qd,r0jz.0,78190,78421,charis,78240,78246,meiner,charis
+qd,r0jz.0,78427,78530,sosias,78473,78476,ich,sosias
 qd,r0jz.0,78427,78530,sosias,78512,78515,mir,sosias
 qd,r0jz.0,78536,78581,charis,78564,78567,Ich,charis
 qd,r0jz.0,78586,78664,sosias,78604,78607,ich,sosias
@@ -1087,6 +1100,7 @@ qd,r0jz.0,87951,88126,sosias,88062,88065,ich,sosias
 qd,r0jz.0,87951,88126,sosias,88108,88111,ich,sosias
 qd,r0jz.0,88227,88248,sosias,88235,88238,Ich,sosias
 qd,r0jz.0,88253,88296,amphitryon,88288,88291,ich,amphitryon
+qd,r0jz.0,88301,88338,sosias,88326,88329,ich,sosias
 qd,r0jz.0,88417,88473,sosias,88448,88454,meiner,sosias
 qd,r0jz.0,88417,88473,sosias,88459,88462,ich,sosias
 qd,r0jz.0,88536,88558,amphitryon,88553,88557,mich,amphitryon
@@ -1277,6 +1291,7 @@ qd,r0jz.0,106465,106693,sosias,106634,106637,ich,sosias
 qd,r0jz.0,106984,107006,amphitryon,107002,107005,mir,amphitryon
 qd,r0jz.0,107175,107278,alkmene,107266,107270,mich,alkmene
 qd,r0jz.0,107457,107507,amphitryon,107475,107481,meines,amphitryon
+qd,r0jz.0,107626,107777,jupiter,107669,107672,mir,jupiter
 qd,r0jz.0,107626,107777,jupiter,107705,107709,mein,jupiter
 qd,r0jz.0,107783,107842,amphitryon,107838,107841,mir,amphitryon
 qd,r0jz.0,107847,107897,jupiter,107861,107864,mir,jupiter
@@ -1350,6 +1365,7 @@ qd,r0jz.0,116432,116521,amphitryon,116489,116492,mir,amphitryon
 qd,r0jz.0,116811,117164,merkur,116832,116835,ich,merkur
 qd,r0jz.0,116811,117164,merkur,116864,116867,ich,merkur
 qd,r0jz.0,116811,117164,merkur,116903,116906,ich,merkur
+qd,r0jz.0,116811,117164,merkur,116960,116963,ich,merkur
 qd,r0jz.0,116811,117164,merkur,116966,116969,mir,merkur
 qd,r0jz.0,116811,117164,merkur,117084,117087,ich,merkur
 qd,r0jz.0,117169,117299,sosias,117206,117210,mich,sosias

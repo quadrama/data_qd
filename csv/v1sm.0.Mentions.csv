@@ -150,6 +150,7 @@ qd,v1sm.0,24640,25436,jon,25159,25163,mich,jon
 qd,v1sm.0,24640,25436,jon,25169,25173,mich,jon
 qd,v1sm.0,24640,25436,jon,25191,25194,ich,jon
 qd,v1sm.0,24640,25436,jon,25198,25203,meine,jon
+qd,v1sm.0,24640,25436,jon,25309,25312,mir,jon
 qd,v1sm.0,24640,25436,jon,25324,25327,ich,jon
 qd,v1sm.0,25489,26588,kreusa,25559,25562,ich,kreusa
 qd,v1sm.0,25489,26588,kreusa,25576,25580,mich,kreusa
@@ -168,6 +169,7 @@ qd,v1sm.0,26766,26860,kreusa,26829,26832,ich,kreusa
 qd,v1sm.0,26866,27102,xuthus,26885,26888,mir,xuthus
 qd,v1sm.0,27108,27252,kreusa,27126,27129,ich,kreusa
 qd,v1sm.0,27259,27316,xuthus,27274,27277,mir,xuthus
+qd,v1sm.0,27321,27372,kreusa,27338,27341,ich,kreusa
 qd,v1sm.0,27321,27372,kreusa,27352,27356,mich,kreusa
 qd,v1sm.0,27377,29362,xuthus,27395,27398,ich,xuthus
 qd,v1sm.0,27377,29362,xuthus,27481,27484,mir,xuthus
@@ -358,6 +360,7 @@ qd,v1sm.0,48090,49091,jon,48149,48153,mich,jon
 qd,v1sm.0,48090,49091,jon,48229,48232,mir,jon
 qd,v1sm.0,48090,49091,jon,48398,48401,ich,jon
 qd,v1sm.0,48090,49091,jon,48422,48426,mich,jon
+qd,v1sm.0,48090,49091,jon,48516,48520,mein,jon
 qd,v1sm.0,48090,49091,jon,48553,48556,mir,jon
 qd,v1sm.0,48090,49091,jon,48610,48615,meine,jon
 qd,v1sm.0,48090,49091,jon,48649,48652,ich,jon
@@ -410,6 +413,7 @@ qd,v1sm.0,58082,59189,phorbas,59140,59143,ich,phorbas
 qd,v1sm.0,59195,59244,kreusa,59203,59206,Ich,kreusa
 qd,v1sm.0,59195,59244,kreusa,59214,59218,mich,kreusa
 qd,v1sm.0,59249,59301,phorbas,59258,59262,Mein,phorbas
+qd,v1sm.0,59364,59734,phorbas,59374,59378,Mein,phorbas
 qd,v1sm.0,59364,59734,phorbas,59386,59389,ich,phorbas
 qd,v1sm.0,59364,59734,phorbas,59429,59432,ich,phorbas
 qd,v1sm.0,59364,59734,phorbas,59491,59495,mich,phorbas
@@ -443,6 +447,7 @@ qd,v1sm.0,62134,62995,priesterin,62317,62320,ich,priesterin
 qd,v1sm.0,62134,62995,priesterin,62359,62362,ich,priesterin
 qd,v1sm.0,62134,62995,priesterin,62863,62867,Mein,priesterin
 qd,v1sm.0,62134,62995,priesterin,62884,62888,mein,priesterin
+qd,v1sm.0,62134,62995,priesterin,62961,62964,mir,priesterin
 qd,v1sm.0,62134,62995,priesterin,62980,62983,ich,priesterin
 qd,v1sm.0,63245,63304,priesterin,63275,63278,ich,priesterin
 qd,v1sm.0,63309,63359,priesterin,63331,63334,mir,priesterin
@@ -653,6 +658,7 @@ qd,v1sm.0,91572,91956,priesterin,91581,91584,Ich,priesterin
 qd,v1sm.0,91962,92175,kreusa,91986,91989,ich,kreusa
 qd,v1sm.0,91962,92175,kreusa,91997,92002,meine,kreusa
 qd,v1sm.0,91962,92175,kreusa,92052,92055,Ich,kreusa
+qd,v1sm.0,92323,92554,jon,92333,92336,ich,jon
 qd,v1sm.0,92323,92554,jon,92432,92435,mir,jon
 qd,v1sm.0,92323,92554,jon,92476,92480,mich,jon
 qd,v1sm.0,92560,92738,kreusa,92569,92572,Ich,kreusa

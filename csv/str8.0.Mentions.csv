@@ -187,6 +187,7 @@ qd,str8.0,28162,28305,weinberl,28211,28215,mich,weinberl
 qd,str8.0,28310,28480,christoph,28359,28362,ich,christoph
 qd,str8.0,28310,28480,christoph,28377,28381,mein,christoph
 qd,str8.0,28310,28480,christoph,28440,28443,ich,christoph
+qd,str8.0,28310,28480,christoph,28444,28447,mir,christoph
 qd,str8.0,28485,29131,weinberl,28508,28511,mir,weinberl
 qd,str8.0,29210,30120,weinberl,29387,29390,ich,weinberl
 qd,str8.0,29210,30120,weinberl,29423,29429,meinem,weinberl
@@ -260,6 +261,7 @@ qd,str8.0,36994,37419,zangler,37036,37039,mir,zangler
 qd,str8.0,36994,37419,zangler,37090,37093,ich,zangler
 qd,str8.0,36994,37419,zangler,37212,37215,Ich,zangler
 qd,str8.0,36994,37419,zangler,37225,37231,meinem,zangler
+qd,str8.0,36994,37419,zangler,37289,37292,ich,zangler
 qd,str8.0,37513,37603,weinberl,37580,37583,ich,weinberl
 qd,str8.0,37513,37603,weinberl,37584,37588,mich,weinberl
 qd,str8.0,37608,37674,sonders,37656,37659,ich,sonders
@@ -279,6 +281,7 @@ qd,str8.0,39005,39105,sonders,39083,39086,ich,sonders
 qd,str8.0,39632,39999,gertrud,39762,39765,Ich,gertrud
 qd,str8.0,39632,39999,gertrud,39782,39785,ich,gertrud
 qd,str8.0,39632,39999,gertrud,39895,39898,ich,gertrud
+qd,str8.0,39632,39999,gertrud,39899,39902,mir,gertrud
 qd,str8.0,40355,40504,marie,40438,40441,ich,marie
 qd,str8.0,40355,40504,marie,40461,40464,ich,marie
 qd,str8.0,40509,40686,sonders,40519,40522,Ich,sonders
@@ -332,6 +335,7 @@ qd,str8.0,52846,53003,weinberl,52899,52903,mich,weinberl
 qd,str8.0,52846,53003,weinberl,52942,52945,ich,weinberl
 qd,str8.0,53008,53085,madame_knorr,53037,53040,ich,madame_knorr
 qd,str8.0,53090,53210,weinberl,53144,53147,Ich,weinberl
+qd,str8.0,53318,53394,weinberl,53370,53373,ich,weinberl
 qd,str8.0,53539,53636,madame_knorr,53600,53605,meine,madame_knorr
 qd,str8.0,53817,54065,madame_knorr,53907,53910,mir,madame_knorr
 qd,str8.0,53817,54065,madame_knorr,53928,53931,ich,madame_knorr
@@ -383,6 +387,7 @@ qd,str8.0,61106,61176,weinberl,61138,61141,Ich,weinberl
 qd,str8.0,61106,61176,weinberl,61148,61152,mich,weinberl
 qd,str8.0,61467,61556,frau_von_fischer,61521,61525,Mein,frau_von_fischer
 qd,str8.0,61708,61875,weinberl,61753,61756,ich,weinberl
+qd,str8.0,62064,62115,madame_knorr,62087,62090,ich,madame_knorr
 qd,str8.0,62120,62337,weinberl,62275,62278,ich,weinberl
 qd,str8.0,62342,62774,madame_knorr,62538,62542,mein,madame_knorr
 qd,str8.0,62342,62774,madame_knorr,62558,62561,ich,madame_knorr
@@ -449,6 +454,7 @@ qd,str8.0,71048,71701,melchior,71337,71340,ich,melchior
 qd,str8.0,71048,71701,melchior,71360,71363,ich,melchior
 qd,str8.0,71048,71701,melchior,71367,71373,meinem,melchior
 qd,str8.0,71928,71987,marie,71936,71939,Ich,marie
+qd,str8.0,71928,71987,marie,71967,71970,mir,marie
 qd,str8.0,72036,72104,marie,72073,72076,ich,marie
 qd,str8.0,72036,72104,marie,72100,72103,mir,marie
 qd,str8.0,72326,72434,marie,72359,72363,mich,marie
@@ -505,6 +511,7 @@ qd,str8.0,79903,79948,madame_knorr,79918,79921,Ich,madame_knorr
 qd,str8.0,80068,80122,kellner,80089,80092,ich,kellner
 qd,str8.0,80206,80286,frau_von_fischer,80262,80265,ich,frau_von_fischer
 qd,str8.0,80481,80617,frau_von_fischer,80527,80531,mein,frau_von_fischer
+qd,str8.0,80481,80617,frau_von_fischer,80604,80607,ich,frau_von_fischer
 qd,str8.0,81121,81195,frau_von_fischer,81168,81171,ich,frau_von_fischer
 qd,str8.0,81298,81355,weinberl,81309,81312,Mir,weinberl
 qd,str8.0,81298,81355,weinberl,81339,81342,ich,weinberl
@@ -536,6 +543,7 @@ qd,str8.0,88098,88162,melchior,88109,88112,Ich,melchior
 qd,str8.0,88857,88890,melchior,88868,88871,Ich,melchior
 qd,str8.0,88985,89183,zangler,88999,89002,ich,zangler
 qd,str8.0,88985,89183,zangler,89026,89029,ich,zangler
+qd,str8.0,88985,89183,zangler,89146,89149,mir,zangler
 qd,str8.0,89248,89414,christoph,89376,89379,ich,christoph
 qd,str8.0,89504,89843,weinberl,89600,89603,ich,weinberl
 qd,str8.0,90352,90396,frau_von_fischer,90379,90383,mein,frau_von_fischer
@@ -606,6 +614,7 @@ qd,str8.0,101583,101637,fräulein_blumenblatt,101624,101628,mich,fräulein_blume
 qd,str8.0,101642,101694,weinberl,101673,101676,ich,weinberl
 qd,str8.0,101642,101694,weinberl,101677,101680,mir,weinberl
 qd,str8.0,101839,101893,weinberl,101876,101879,ich,weinberl
+qd,str8.0,101839,101893,weinberl,101880,101883,mir,weinberl
 qd,str8.0,101898,102176,fräulein_blumenblatt,101974,101977,ich,fräulein_blumenblatt
 qd,str8.0,101898,102176,fräulein_blumenblatt,102000,102003,ich,fräulein_blumenblatt
 qd,str8.0,102883,102960,melchior,102894,102898,Mein,melchior
@@ -761,6 +770,7 @@ qd,str8.0,127028,129497,weinberl,127263,127266,mir,weinberl
 qd,str8.0,127028,129497,weinberl,127653,127657,mich,weinberl
 qd,str8.0,127028,129497,weinberl,127713,127716,ich,weinberl
 qd,str8.0,127028,129497,weinberl,128943,128946,ich,weinberl
+qd,str8.0,127028,129497,weinberl,129345,129348,mir,weinberl
 qd,str8.0,129691,129732,rab,129697,129700,Mir,rab
 qd,str8.0,129737,129780,kraps,129751,129754,ich,kraps
 qd,str8.0,129785,129847,rab,129815,129819,mich,rab

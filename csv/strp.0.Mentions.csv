@@ -1,5 +1,6 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
 qd,strp.0,2033,2092,zech,2039,2042,Ich,zech
+qd,strp.0,2097,2141,zuwag,2116,2119,ich,zuwag
 qd,strp.0,2146,2200,plutzerkern,2159,2162,Ich,plutzerkern
 qd,strp.0,2146,2200,plutzerkern,2187,2191,mein,plutzerkern
 qd,strp.0,2706,2873,sepherl,2736,2741,Meine,sepherl
@@ -11,6 +12,8 @@ qd,strp.0,2706,2873,sepherl,2862,2865,ich,sepherl
 qd,strp.0,3798,3837,sepherl,3808,3811,Ich,sepherl
 qd,strp.0,4255,4381,sepherl,4265,4268,Ich,sepherl
 qd,strp.0,4255,4381,sepherl,4308,4312,Mein,sepherl
+qd,strp.0,4631,4713,christoph,4657,4660,ich,christoph
+qd,strp.0,4631,4713,christoph,4689,4692,ich,christoph
 qd,strp.0,4718,4839,nettel,4732,4735,mir,nettel
 qd,strp.0,4718,4839,nettel,4803,4806,mir,nettel
 qd,strp.0,4872,5030,resi,4910,4913,Ich,resi
@@ -82,6 +85,7 @@ qd,strp.0,13698,13915,damian,13777,13780,ich,damian
 qd,strp.0,13698,13915,damian,13781,13785,mich,damian
 qd,strp.0,13698,13915,damian,13858,13861,ich,damian
 qd,strp.0,13920,14003,salerl,13974,13977,ich,salerl
+qd,strp.0,14008,14096,damian,14040,14043,ich,damian
 qd,strp.0,14008,14096,damian,14060,14063,ich,damian
 qd,strp.0,14008,14096,damian,14092,14095,mir,damian
 qd,strp.0,14162,14264,damian,14222,14225,ich,damian
@@ -143,6 +147,7 @@ qd,strp.0,21206,21311,zins,21226,21229,mir,zins
 qd,strp.0,21206,21311,zins,21231,21235,mein,zins
 qd,strp.0,21316,21381,goldfuchs,21328,21332,Mein,goldfuchs
 qd,strp.0,21316,21381,goldfuchs,21354,21357,ich,goldfuchs
+qd,strp.0,21557,21645,zins,21589,21592,ich,zins
 qd,strp.0,21651,21720,goldfuchs,21704,21710,meinem,goldfuchs
 qd,strp.0,21936,21977,johann,21945,21948,Ich,johann
 qd,strp.0,22073,22143,zins,22099,22103,Mich,zins
@@ -502,6 +507,7 @@ qd,strp.0,71749,76642,johann,75810,75813,Ich,johann
 qd,strp.0,71749,76642,johann,75834,75837,ich,johann
 qd,strp.0,71749,76642,johann,76328,76331,Ich,johann
 qd,strp.0,71749,76642,johann,76366,76370,mich,johann
+qd,strp.0,71749,76642,johann,76591,76594,ich,johann
 qd,strp.0,77029,77081,damian,77038,77041,Ich,damian
 qd,strp.0,77029,77081,damian,77058,77062,mein,damian
 qd,strp.0,77203,77320,damian,77212,77215,Ich,damian
@@ -666,6 +672,7 @@ qd,strp.0,102872,102990,sepherl,102939,102942,Mir,sepherl
 qd,strp.0,102995,103088,schlucker,103007,103011,Mich,schlucker
 qd,strp.0,102995,103088,schlucker,103022,103025,ich,schlucker
 qd,strp.0,103203,103930,damian,103260,103264,mich,damian
+qd,strp.0,103203,103930,damian,103298,103301,ich,damian
 qd,strp.0,103203,103930,damian,103329,103332,ich,damian
 qd,strp.0,103203,103930,damian,103379,103382,mir,damian
 qd,strp.0,103203,103930,damian,103389,103392,ich,damian
@@ -720,6 +727,7 @@ qd,strp.0,109280,109446,damian,109306,109309,ich,damian
 qd,strp.0,109280,109446,damian,109370,109373,ich,damian
 qd,strp.0,109860,109900,johann,109878,109881,mir,johann
 qd,strp.0,109905,109954,salerl,109945,109948,ich,salerl
+qd,strp.0,110016,110077,fanny,110030,110033,mir,fanny
 qd,strp.0,110082,110129,johann,110090,110093,Ich,johann
 qd,strp.0,110082,110129,johann,110100,110104,mich,johann
 qd,strp.0,110134,110184,salerl,110166,110169,ich,salerl
@@ -755,10 +763,12 @@ qd,strp.0,112469,113077,damian,112840,112843,mir,damian
 qd,strp.0,112469,113077,damian,112855,112858,ich,damian
 qd,strp.0,112469,113077,damian,112914,112917,mir,damian
 qd,strp.0,112469,113077,damian,112995,112998,ich,damian
+qd,strp.0,113148,114097,zins,113172,113175,ich,zins
 qd,strp.0,113148,114097,zins,113234,113237,mir,zins
 qd,strp.0,113148,114097,zins,113243,113246,ich,zins
 qd,strp.0,113148,114097,zins,113308,113311,Ich,zins
 qd,strp.0,113148,114097,zins,113367,113370,ich,zins
+qd,strp.0,113148,114097,zins,113411,113414,ich,zins
 qd,strp.0,113148,114097,zins,113472,113476,mich,zins
 qd,strp.0,113148,114097,zins,113642,113645,mir,zins
 qd,strp.0,114223,114359,schlucker,114245,114248,Ich,schlucker
@@ -775,6 +785,7 @@ qd,strp.0,116512,116636,damian,116565,116571,meiner,damian
 qd,strp.0,116800,117091,damian,116848,116851,mir,damian
 qd,strp.0,116800,117091,damian,116967,116970,ich,damian
 qd,strp.0,116800,117091,damian,116977,116981,mich,damian
+qd,strp.0,116800,117091,damian,117014,117017,mir,damian
 qd,strp.0,116800,117091,damian,117044,117047,ich,damian
 qd,strp.0,117289,117615,johann,117344,117347,ich,johann
 qd,strp.0,117289,117615,johann,117417,117420,ich,johann

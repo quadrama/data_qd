@@ -2,6 +2,7 @@ corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mention
 qd,kssc.0,588,840,werner,725,728,mir,werner
 qd,kssc.0,588,840,werner,827,830,mir,werner
 qd,kssc.0,847,993,andere,881,885,mich,andere
+qd,kssc.0,847,993,andere,910,913,mir,andere
 qd,kssc.0,847,993,andere,940,943,ich,andere
 qd,kssc.0,1744,1882,haushofmeister,1774,1779,meine,haushofmeister
 qd,kssc.0,2021,2198,haushofmeister,2038,2043,Meine,haushofmeister
@@ -25,6 +26,7 @@ qd,kssc.0,6112,6634,werner,6167,6170,ich,werner
 qd,kssc.0,6112,6634,werner,6316,6320,mich,werner
 qd,kssc.0,6112,6634,werner,6534,6539,meine,werner
 qd,kssc.0,6641,7041,conradin,6662,6665,ich,conradin
+qd,kssc.0,7047,7145,werner,7131,7134,ich,werner
 qd,kssc.0,7351,7392,werner,7381,7385,mich,werner
 qd,kssc.0,7397,7474,conradin,7422,7425,ich,conradin
 qd,kssc.0,7397,7474,conradin,7426,7431,meine,conradin
@@ -96,6 +98,7 @@ qd,kssc.0,17020,19670,der_freiherr,19245,19250,meine,der_freiherr
 qd,kssc.0,17020,19670,der_freiherr,19314,19320,meinem,der_freiherr
 qd,kssc.0,17020,19670,der_freiherr,19408,19411,ich,der_freiherr
 qd,kssc.0,17020,19670,der_freiherr,19449,19452,mir,der_freiherr
+qd,kssc.0,17020,19670,der_freiherr,19539,19542,mir,der_freiherr
 qd,kssc.0,19676,19743,maria,19697,19701,mein,maria
 qd,kssc.0,19749,19925,der_freiherr,19766,19769,ich,der_freiherr
 qd,kssc.0,19749,19925,der_freiherr,19780,19784,mein,der_freiherr
@@ -243,6 +246,7 @@ qd,kssc.0,37262,37342,der_freiherr,37320,37324,mein,der_freiherr
 qd,kssc.0,37680,37826,gräfin,37732,37735,ich,gräfin
 qd,kssc.0,38192,38299,gräfin,38241,38245,mich,gräfin
 qd,kssc.0,38192,38299,gräfin,38287,38290,ich,gräfin
+qd,kssc.0,38739,39073,der_freiherr,38774,38777,ich,der_freiherr
 qd,kssc.0,38739,39073,der_freiherr,38807,38812,meine,der_freiherr
 qd,kssc.0,38739,39073,der_freiherr,38857,38860,mir,der_freiherr
 qd,kssc.0,38739,39073,der_freiherr,38892,38898,meinem,der_freiherr
@@ -259,10 +263,12 @@ qd,kssc.0,40648,40799,der_freiherr,40680,40684,mein,der_freiherr
 qd,kssc.0,40648,40799,der_freiherr,40752,40758,meiner,der_freiherr
 qd,kssc.0,41053,41266,gräfin,41217,41220,mir,gräfin
 qd,kssc.0,41376,41469,gräfin,41391,41395,mein,gräfin
+qd,kssc.0,41475,41559,damian,41489,41492,ich,damian
 qd,kssc.0,41475,41559,damian,41531,41534,ich,damian
 qd,kssc.0,41565,41601,graf_von_wildenstein,41591,41595,mein,graf_von_wildenstein
 qd,kssc.0,41606,41647,damian,41624,41628,mich,damian
 qd,kssc.0,41652,41716,graf_von_wildenstein,41687,41691,mein,graf_von_wildenstein
+qd,kssc.0,41787,41917,der_freiherr,41822,41825,ich,der_freiherr
 qd,kssc.0,42294,42370,damian,42309,42313,mein,damian
 qd,kssc.0,42294,42370,damian,42316,42320,Mein,damian
 qd,kssc.0,42294,42370,damian,42352,42356,mein,damian

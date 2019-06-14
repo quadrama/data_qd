@@ -258,6 +258,7 @@ qd,r0n2.0,60372,60660,penthesilea,60579,60582,Ich,penthesilea
 qd,r0n2.0,60372,60660,penthesilea,60640,60643,ich,penthesilea
 qd,r0n2.0,60889,61456,penthesilea,60961,60964,Ich,penthesilea
 qd,r0n2.0,60889,61456,penthesilea,60970,60974,mich,penthesilea
+qd,r0n2.0,60889,61456,penthesilea,61028,61031,ich,penthesilea
 qd,r0n2.0,60889,61456,penthesilea,61166,61169,mir,penthesilea
 qd,r0n2.0,60889,61456,penthesilea,61190,61196,meinen,penthesilea
 qd,r0n2.0,60889,61456,penthesilea,61247,61250,ich,penthesilea
@@ -304,9 +305,11 @@ qd,r0n2.0,66666,66759,penthesilea,66750,66753,ich,penthesilea
 qd,r0n2.0,66666,66759,penthesilea,66754,66758,mich,penthesilea
 qd,r0n2.0,66765,67036,prothoe,66836,66839,ich,prothoe
 qd,r0n2.0,67042,67322,penthesilea,67064,67067,mir,penthesilea
+qd,r0n2.0,67042,67322,penthesilea,67088,67091,ich,penthesilea
 qd,r0n2.0,67042,67322,penthesilea,67155,67158,ich,penthesilea
 qd,r0n2.0,67042,67322,penthesilea,67191,67195,Mein,penthesilea
 qd,r0n2.0,67042,67322,penthesilea,67206,67209,ich,penthesilea
+qd,r0n2.0,67042,67322,penthesilea,67293,67296,ich,penthesilea
 qd,r0n2.0,67042,67322,penthesilea,67311,67314,ich,penthesilea
 qd,r0n2.0,67328,67845,prothoe,67352,67356,mein,prothoe
 qd,r0n2.0,67851,67969,penthesilea,67902,67905,ich,penthesilea
@@ -828,6 +831,7 @@ qd,r0n2.0,144922,145062,die_oberpriesterin,144974,144977,ich,die_oberpriesterin
 qd,r0n2.0,144922,145062,die_oberpriesterin,145044,145050,meines,die_oberpriesterin
 qd,r0n2.0,145346,145730,die_oberpriesterin,145376,145379,mir,die_oberpriesterin
 qd,r0n2.0,145346,145730,die_oberpriesterin,145415,145418,mir,die_oberpriesterin
+qd,r0n2.0,145346,145730,die_oberpriesterin,145500,145503,ich,die_oberpriesterin
 qd,r0n2.0,145346,145730,die_oberpriesterin,145540,145543,ich,die_oberpriesterin
 qd,r0n2.0,145929,146034,die_oberpriesterin,145964,145967,ich,die_oberpriesterin
 qd,r0n2.0,145929,146034,die_oberpriesterin,145991,145994,Ich,die_oberpriesterin
@@ -904,10 +908,12 @@ qd,r0n2.0,157777,157809,prothoe,157791,157796,meine,prothoe
 qd,r0n2.0,157814,158497,penthesilea,157836,157840,mich,penthesilea
 qd,r0n2.0,157814,158497,penthesilea,157849,157852,Ich,penthesilea
 qd,r0n2.0,157814,158497,penthesilea,157927,157930,Ich,penthesilea
+qd,r0n2.0,157814,158497,penthesilea,157951,157954,ich,penthesilea
 qd,r0n2.0,157814,158497,penthesilea,157985,157988,mir,penthesilea
 qd,r0n2.0,157814,158497,penthesilea,158147,158150,mir,penthesilea
 qd,r0n2.0,157814,158497,penthesilea,158465,158468,ich,penthesilea
 qd,r0n2.0,157814,158497,penthesilea,158469,158475,meiner,penthesilea
+qd,r0n2.0,158579,158614,penthesilea,158602,158605,ich,penthesilea
 qd,r0n2.0,158619,158771,meroe,158631,158636,meine,meroe
 qd,r0n2.0,158777,158832,penthesilea,158821,158824,ich,penthesilea
 qd,r0n2.0,158914,158988,penthesilea,158982,158985,mir,penthesilea
@@ -935,8 +941,10 @@ qd,r0n2.0,161138,161484,penthesilea,161281,161284,Ich,penthesilea
 qd,r0n2.0,161138,161484,penthesilea,161290,161294,mich,penthesilea
 qd,r0n2.0,161138,161484,penthesilea,161331,161334,ich,penthesilea
 qd,r0n2.0,161138,161484,penthesilea,161385,161388,ich,penthesilea
+qd,r0n2.0,161138,161484,penthesilea,161407,161410,ich,penthesilea
 qd,r0n2.0,161570,161977,penthesilea,161835,161838,ich,penthesilea
 qd,r0n2.0,161570,161977,penthesilea,161861,161864,ich,penthesilea
+qd,r0n2.0,161570,161977,penthesilea,161892,161895,ich,penthesilea
 qd,r0n2.0,161570,161977,penthesilea,161931,161934,Ich,penthesilea
 qd,r0n2.0,162087,162116,prothoe,162102,162107,meine,prothoe
 qd,r0n2.0,162121,162190,penthesilea,162180,162183,ich,penthesilea

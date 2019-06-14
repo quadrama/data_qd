@@ -10,6 +10,7 @@ qd,wc0g.0,3429,3528,mariann,3460,3463,mir,mariann
 qd,wc0g.0,3847,3913,thomas,3899,3902,mir,thomas
 qd,wc0g.0,3918,4083,mariann,4016,4019,mir,mariann
 qd,wc0g.0,3918,4083,mariann,4028,4031,mir,mariann
+qd,wc0g.0,4156,4218,mariann,4189,4192,mir,mariann
 qd,wc0g.0,4223,4345,thomas,4237,4240,mir,thomas
 qd,wc0g.0,4518,4604,mariann,4528,4531,Mir,mariann
 qd,wc0g.0,4966,5046,mariann,5019,5022,mir,mariann
@@ -22,6 +23,10 @@ qd,wc0g.0,6833,7023,thomas,6867,6870,mir,thomas
 qd,wc0g.0,6833,7023,thomas,6976,6979,mir,thomas
 qd,wc0g.0,6833,7023,thomas,6997,7000,mir,thomas
 qd,wc0g.0,7284,7396,thomas,7293,7296,Mir,thomas
+qd,wc0g.0,7502,7589,mariann,7547,7550,mir,mariann
+qd,wc0g.0,7594,7809,thomas,7711,7714,mir,thomas
+qd,wc0g.0,7594,7809,thomas,7788,7791,mir,thomas
+qd,wc0g.0,8008,8102,thomas,8054,8057,mir,thomas
 qd,wc0g.0,8107,8232,mariann,8146,8149,mir,mariann
 qd,wc0g.0,8318,8391,mariann,8378,8381,mir,mariann
 qd,wc0g.0,8396,8481,thomas,8456,8459,mir,thomas
@@ -65,6 +70,7 @@ qd,wc0g.0,23434,23460,mariann,23452,23455,mir,mariann
 qd,wc0g.0,23465,23679,leni,23531,23535,mein,leni
 qd,wc0g.0,23963,24030,mariann,24026,24029,mir,mariann
 qd,wc0g.0,24164,24232,mariann,24215,24218,mir,mariann
+qd,wc0g.0,24623,24765,mariann,24744,24747,mir,mariann
 qd,wc0g.0,24813,25007,mariann,24838,24844,meiner,mariann
 qd,wc0g.0,25454,25666,leni,25534,25537,mir,leni
 qd,wc0g.0,25741,25883,leni,25756,25759,mir,leni
@@ -75,6 +81,7 @@ qd,wc0g.0,27168,27216,mariann,27212,27215,mir,mariann
 qd,wc0g.0,27375,27472,leni,27430,27433,mir,leni
 qd,wc0g.0,27678,27747,leni,27715,27719,mein,leni
 qd,wc0g.0,28452,28583,mariann,28482,28485,mir,mariann
+qd,wc0g.0,29006,29084,mariann,29044,29047,mir,mariann
 qd,wc0g.0,29314,29653,mariann,29516,29519,mir,mariann
 qd,wc0g.0,29747,29790,mariann,29786,29789,mir,mariann
 qd,wc0g.0,30544,30603,mariann,30594,30597,mir,mariann
@@ -107,6 +114,7 @@ qd,wc0g.0,53913,54104,thomas,54090,54096,meiner,thomas
 qd,wc0g.0,55010,55246,thomas,55043,55047,mein,thomas
 qd,wc0g.0,55293,55500,thomas,55381,55384,mir,thomas
 qd,wc0g.0,55670,55762,bürgermeisters,55699,55702,mir,bürgermeisters
+qd,wc0g.0,57436,57462,thomas,57445,57449,Mein,thomas
 qd,wc0g.0,57785,57865,lenz,57813,57816,mir,lenz
 qd,wc0g.0,57785,57865,lenz,57831,57834,mir,lenz
 qd,wc0g.0,58007,58037,lenz,58014,58017,Mir,lenz
