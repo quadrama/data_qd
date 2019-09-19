@@ -1,13 +1,13 @@
 corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
 qd,rktc.0,315,353,MARTIN KRUMM,martin_krumm,Du,PPER,du,13477,,
 qd,rktc.0,315,353,MARTIN KRUMM,martin_krumm,dummer,VAFIN,dumm,13477,,
-qd,rktc.0,315,353,MARTIN KRUMM,martin_krumm,Michel,NE,michel,13477,,
-qd,rktc.0,315,353,MARTIN KRUMM,martin_krumm,Stich,NE,stich,13477,,
+qd,rktc.0,315,353,MARTIN KRUMM,martin_krumm,Michel,NE,michel,13477,michel_stich,(1
+qd,rktc.0,315,353,MARTIN KRUMM,martin_krumm,Stich,NE,stich,13477,michel_stich,1)
 qd,rktc.0,315,353,MARTIN KRUMM,martin_krumm,"!",$.,--,13477,,
 qd,rktc.0,358,396,MICHEL STICH,michel_stich,Du,PPER,du,13477,,
 qd,rktc.0,358,396,MICHEL STICH,michel_stich,dummer,PROAV,dumm,13477,,
-qd,rktc.0,358,396,MICHEL STICH,michel_stich,Martin,NE,martin,13477,,
-qd,rktc.0,358,396,MICHEL STICH,michel_stich,Krumm,NE,krumm,13477,,
+qd,rktc.0,358,396,MICHEL STICH,michel_stich,Martin,NE,martin,13477,martin_krumm,(0
+qd,rktc.0,358,396,MICHEL STICH,michel_stich,Krumm,NE,krumm,13477,martin_krumm,0)
 qd,rktc.0,358,396,MICHEL STICH,michel_stich,"!",$.,--,13477,,
 qd,rktc.0,401,548,MARTIN KRUMM,martin_krumm,Wir,PPER,wir,13477,,
 qd,rktc.0,401,548,MARTIN KRUMM,martin_krumm,wollens,VVFIN,wollens,13477,,
@@ -356,8 +356,8 @@ qd,rktc.0,2225,2402,MARTIN KRUMM,martin_krumm,–,XY,–,13477,,
 qd,rktc.0,2225,2402,MARTIN KRUMM,martin_krumm,–,XY,–,13477,,
 qd,rktc.0,2225,2402,MARTIN KRUMM,martin_krumm,ich,PPER,ich,13477,martin_krumm,(0)
 qd,rktc.0,2225,2402,MARTIN KRUMM,martin_krumm,werde,VAFIN,werden,13477,,
-qd,rktc.0,2225,2402,MARTIN KRUMM,martin_krumm,Martin,NE,martin,13477,,
-qd,rktc.0,2225,2402,MARTIN KRUMM,martin_krumm,Krumm,NE,krumm,13477,,
+qd,rktc.0,2225,2402,MARTIN KRUMM,martin_krumm,Martin,NE,martin,13477,martin_krumm,(0
+qd,rktc.0,2225,2402,MARTIN KRUMM,martin_krumm,Krumm,NE,krumm,13477,martin_krumm,0)
 qd,rktc.0,2225,2402,MARTIN KRUMM,martin_krumm,heißen,VVINF,heißen,13477,,
 qd,rktc.0,2225,2402,MARTIN KRUMM,martin_krumm,",","$,",--,13477,,
 qd,rktc.0,2225,2402,MARTIN KRUMM,martin_krumm,und,KON,und,13477,,
@@ -1762,8 +1762,8 @@ qd,rktc.0,9296,9788,MARTIN KRUMM,martin_krumm,Herrn,NN,herr,13477,,
 qd,rktc.0,9296,9788,MARTIN KRUMM,martin_krumm,gehorsamster,ADJA,gehorsamst,13477,,
 qd,rktc.0,9296,9788,MARTIN KRUMM,martin_krumm,Diener,NN,diener,13477,,
 qd,rktc.0,9296,9788,MARTIN KRUMM,martin_krumm,",","$,",--,13477,,
-qd,rktc.0,9296,9788,MARTIN KRUMM,martin_krumm,Martin,NE,martin,13477,,
-qd,rktc.0,9296,9788,MARTIN KRUMM,martin_krumm,Krumm,NE,krumm,13477,,
+qd,rktc.0,9296,9788,MARTIN KRUMM,martin_krumm,Martin,NE,martin,13477,martin_krumm,(0
+qd,rktc.0,9296,9788,MARTIN KRUMM,martin_krumm,Krumm,NE,krumm,13477,martin_krumm,0)
 qd,rktc.0,9296,9788,MARTIN KRUMM,martin_krumm,",","$,",--,13477,,
 qd,rktc.0,9296,9788,MARTIN KRUMM,martin_krumm,wohlbestallter,ADJA,wohlbestallt,13477,,
 qd,rktc.0,9296,9788,MARTIN KRUMM,martin_krumm,Vogt,NE,vogt,13477,,
@@ -4963,12 +4963,12 @@ qd,rktc.0,27660,27815,DAS FRÄULEIN,das_fräulein,"!",$.,--,13477,,
 qd,rktc.0,27660,27815,DAS FRÄULEIN,das_fräulein,Das,ART,der,13477,,
 qd,rktc.0,27660,27815,DAS FRÄULEIN,das_fräulein,Fräulein,NN,fräulein,13477,,
 qd,rktc.0,27660,27815,DAS FRÄULEIN,das_fräulein,und,KON,und,13477,,
-qd,rktc.0,27660,27815,DAS FRÄULEIN,das_fräulein,der,ART,der,13477,,
-qd,rktc.0,27660,27815,DAS FRÄULEIN,das_fräulein,Reisende,NN,reisend,13477,,
+qd,rktc.0,27660,27815,DAS FRÄULEIN,das_fräulein,der,ART,der,13477,der_reisende,(2
+qd,rktc.0,27660,27815,DAS FRÄULEIN,das_fräulein,Reisende,NN,reisend,13477,der_reisende,2)
 qd,rktc.0,27660,27815,DAS FRÄULEIN,das_fräulein,gehen,VVFIN,gehen,13477,,
 qd,rktc.0,27660,27815,DAS FRÄULEIN,das_fräulein,ab,PTKVZ,ab,13477,,
 qd,rktc.0,27660,27815,DAS FRÄULEIN,das_fräulein,.,$.,--,13477,,
-qd,rktc.0,27821,27874,DER BARON,der_baron,Lisette,NE,lisette,13477,,
+qd,rktc.0,27821,27874,DER BARON,der_baron,Lisette,NE,lisette,13477,lisette,(6)
 qd,rktc.0,27821,27874,DER BARON,der_baron,",","$,",--,13477,,
 qd,rktc.0,27821,27874,DER BARON,der_baron,dir,PPER,dir,13477,,
 qd,rktc.0,27821,27874,DER BARON,der_baron,habe,VAFIN,haben,13477,,
@@ -5096,7 +5096,7 @@ qd,rktc.0,28314,28522,CHRISTOPH,christoph,was,PWS,was,13477,,
 qd,rktc.0,28314,28522,CHRISTOPH,christoph,da,ADV,da,13477,,
 qd,rktc.0,28314,28522,CHRISTOPH,christoph,ist,VAFIN,sein,13477,,
 qd,rktc.0,28314,28522,CHRISTOPH,christoph,.,$.,--,13477,,
-qd,rktc.0,28527,28623,DER BARON,der_baron,Lisette,NE,lisette,13477,,
+qd,rktc.0,28527,28623,DER BARON,der_baron,Lisette,NE,lisette,13477,lisette,(6)
 qd,rktc.0,28527,28623,DER BARON,der_baron,",","$,",--,13477,,
 qd,rktc.0,28527,28623,DER BARON,der_baron,ich,PPER,ich,13477,der_baron,(5)
 qd,rktc.0,28527,28623,DER BARON,der_baron,übergebe,VVFIN,übergeben,13477,,
@@ -6075,7 +6075,7 @@ qd,rktc.0,33695,33817,LISETTE,lisette,.,$.,--,13477,,
 qd,rktc.0,33822,33919,MARTIN KRUMM,martin_krumm,So,ADV,so,13477,,
 qd,rktc.0,33822,33919,MARTIN KRUMM,martin_krumm,",","$,",--,13477,,
 qd,rktc.0,33822,33919,MARTIN KRUMM,martin_krumm,Jungfer,NE,jungfer,13477,,
-qd,rktc.0,33822,33919,MARTIN KRUMM,martin_krumm,Lisette,NE,lisette,13477,,
+qd,rktc.0,33822,33919,MARTIN KRUMM,martin_krumm,Lisette,NE,lisette,13477,lisette,(6)
 qd,rktc.0,33822,33919,MARTIN KRUMM,martin_krumm,?,$.,--,13477,,
 qd,rktc.0,33822,33919,MARTIN KRUMM,martin_krumm,Das,PDS,der,13477,,
 qd,rktc.0,33822,33919,MARTIN KRUMM,martin_krumm,ist,VAFIN,sein,13477,,
@@ -6345,8 +6345,8 @@ qd,rktc.0,35259,35339,MARTIN KRUMM,martin_krumm,",","$,",--,13477,,
 qd,rktc.0,35259,35339,MARTIN KRUMM,martin_krumm,so,ADV,so,13477,,
 qd,rktc.0,35259,35339,MARTIN KRUMM,martin_krumm,würde,VAFIN,werden,13477,,
 qd,rktc.0,35259,35339,MARTIN KRUMM,martin_krumm,sie,PPER,sie,13477,,
-qd,rktc.0,35259,35339,MARTIN KRUMM,martin_krumm,Martin,NE,martin,13477,,
-qd,rktc.0,35259,35339,MARTIN KRUMM,martin_krumm,Krumm,NE,krumm,13477,,
+qd,rktc.0,35259,35339,MARTIN KRUMM,martin_krumm,Martin,NE,martin,13477,martin_krumm,(0
+qd,rktc.0,35259,35339,MARTIN KRUMM,martin_krumm,Krumm,NE,krumm,13477,martin_krumm,0)
 qd,rktc.0,35259,35339,MARTIN KRUMM,martin_krumm,nicht,PTKNEG,nicht,13477,,
 qd,rktc.0,35259,35339,MARTIN KRUMM,martin_krumm,haben,VAFIN,haben,13477,,
 qd,rktc.0,35259,35339,MARTIN KRUMM,martin_krumm,.,$.,--,13477,,
@@ -6558,7 +6558,7 @@ qd,rktc.0,36431,36707,MARTIN KRUMM,martin_krumm,Sie,PPER,sie,13477,,
 qd,rktc.0,36431,36707,MARTIN KRUMM,martin_krumm,denn,ADV,denn,13477,,
 qd,rktc.0,36431,36707,MARTIN KRUMM,martin_krumm,",","$,",--,13477,,
 qd,rktc.0,36431,36707,MARTIN KRUMM,martin_krumm,Jungfer,NE,jungfer,13477,,
-qd,rktc.0,36431,36707,MARTIN KRUMM,martin_krumm,Lisette,NE,lisette,13477,,
+qd,rktc.0,36431,36707,MARTIN KRUMM,martin_krumm,Lisette,NE,lisette,13477,lisette,(6)
 qd,rktc.0,36431,36707,MARTIN KRUMM,martin_krumm,",","$,",--,13477,,
 qd,rktc.0,36431,36707,MARTIN KRUMM,martin_krumm,daß,KOUS,daß,13477,,
 qd,rktc.0,36431,36707,MARTIN KRUMM,martin_krumm,ich,PPER,ich,13477,martin_krumm,(0)
@@ -7174,7 +7174,7 @@ qd,rktc.0,39863,39938,DAS FRÄULEIN,das_fräulein,–,XY,–,13477,,
 qd,rktc.0,39863,39938,DAS FRÄULEIN,das_fräulein,Hörst,VAFIN,hörst,13477,,
 qd,rktc.0,39863,39938,DAS FRÄULEIN,das_fräulein,du,PPER,du,13477,,
 qd,rktc.0,39863,39938,DAS FRÄULEIN,das_fräulein,",","$,",--,13477,,
-qd,rktc.0,39863,39938,DAS FRÄULEIN,das_fräulein,Lisette,VVFIN,lisette,13477,,
+qd,rktc.0,39863,39938,DAS FRÄULEIN,das_fräulein,Lisette,VVFIN,lisette,13477,lisette,(6)
 qd,rktc.0,39863,39938,DAS FRÄULEIN,das_fräulein,?,$.,--,13477,,
 qd,rktc.0,40015,40102,LISETTE,lisette,Mein,PPOSAT,mein,13477,lisette,(6)
 qd,rktc.0,40015,40102,LISETTE,lisette,Herr,NN,herr,13477,,
@@ -9124,8 +9124,8 @@ qd,rktc.0,49587,50162,MARTIN KRUMM,martin_krumm,sie,PPER,sie,13477,,
 qd,rktc.0,49587,50162,MARTIN KRUMM,martin_krumm,hurtig,ADJD,hurtig,13477,,
 qd,rktc.0,49587,50162,MARTIN KRUMM,martin_krumm,aufheben,VVINF,aufheben,13477,,
 qd,rktc.0,49587,50162,MARTIN KRUMM,martin_krumm,",","$,",--,13477,,
-qd,rktc.0,49587,50162,MARTIN KRUMM,martin_krumm,der,ART,der,13477,,
-qd,rktc.0,49587,50162,MARTIN KRUMM,martin_krumm,Reisende,NN,reisend,13477,,
+qd,rktc.0,49587,50162,MARTIN KRUMM,martin_krumm,der,ART,der,13477,der_reisende,(2
+qd,rktc.0,49587,50162,MARTIN KRUMM,martin_krumm,Reisende,NN,reisend,13477,der_reisende,2)
 qd,rktc.0,49587,50162,MARTIN KRUMM,martin_krumm,aber,ADV,aber,13477,,
 qd,rktc.0,49587,50162,MARTIN KRUMM,martin_krumm,ist,VAFIN,sein,13477,,
 qd,rktc.0,49587,50162,MARTIN KRUMM,martin_krumm,hurtiger,ADJD,hurtig,13477,,
@@ -10694,7 +10694,7 @@ qd,rktc.0,58505,58917,CHRISTOPH,christoph,Gut,ADJD,gut,13477,,
 qd,rktc.0,58505,58917,CHRISTOPH,christoph,",","$,",--,13477,,
 qd,rktc.0,58505,58917,CHRISTOPH,christoph,da,ADV,da,13477,,
 qd,rktc.0,58505,58917,CHRISTOPH,christoph,kömmt,VVFIN,kömmen,13477,,
-qd,rktc.0,58505,58917,CHRISTOPH,christoph,Lisette,NE,lisette,13477,,
+qd,rktc.0,58505,58917,CHRISTOPH,christoph,Lisette,NE,lisette,13477,lisette,(6)
 qd,rktc.0,58505,58917,CHRISTOPH,christoph,"!",$.,--,13477,,
 qd,rktc.0,58505,58917,CHRISTOPH,christoph,Hurtig,ADJD,hurtig,13477,,
 qd,rktc.0,58505,58917,CHRISTOPH,christoph,komm,VVIMP,komm,13477,,
@@ -10832,7 +10832,7 @@ qd,rktc.0,59554,60000,DER REISENDE,der_reisende,freilich,ADV,freilich,13477,,
 qd,rktc.0,59554,60000,DER REISENDE,der_reisende,",","$,",--,13477,,
 qd,rktc.0,59554,60000,DER REISENDE,der_reisende,meine,PPOSAT,mein,13477,der_reisende,(2)
 qd,rktc.0,59554,60000,DER REISENDE,der_reisende,liebe,ADJA,lieb,13477,,
-qd,rktc.0,59554,60000,DER REISENDE,der_reisende,Lisette,NN,lisette,13477,,
+qd,rktc.0,59554,60000,DER REISENDE,der_reisende,Lisette,NN,lisette,13477,lisette,(6)
 qd,rktc.0,59554,60000,DER REISENDE,der_reisende,",","$,",--,13477,,
 qd,rktc.0,59554,60000,DER REISENDE,der_reisende,ich,PPER,ich,13477,der_reisende,(2)
 qd,rktc.0,59554,60000,DER REISENDE,der_reisende,habe,VAFIN,haben,13477,,
@@ -10935,7 +10935,7 @@ qd,rktc.0,60005,60283,CHRISTOPH,christoph,rede,VVFIN,reden,13477,,
 qd,rktc.0,60005,60283,CHRISTOPH,christoph,Sie,PPER,sie,13477,,
 qd,rktc.0,60005,60283,CHRISTOPH,christoph,doch,ADV,doch,13477,,
 qd,rktc.0,60005,60283,CHRISTOPH,christoph,",","$,",--,13477,,
-qd,rktc.0,60005,60283,CHRISTOPH,christoph,Lisette,NE,lisette,13477,,
+qd,rktc.0,60005,60283,CHRISTOPH,christoph,Lisette,NE,lisette,13477,lisette,(6)
 qd,rktc.0,60005,60283,CHRISTOPH,christoph,",","$,",--,13477,,
 qd,rktc.0,60005,60283,CHRISTOPH,christoph,und,KON,und,13477,,
 qd,rktc.0,60005,60283,CHRISTOPH,christoph,sage,VVFIN,sagen,13477,,
@@ -11010,7 +11010,7 @@ qd,rktc.0,60470,60706,DER REISENDE,der_reisende,also,ADV,also,13477,,
 qd,rktc.0,60470,60706,DER REISENDE,der_reisende,hat,VAFIN,haben,13477,,
 qd,rktc.0,60470,60706,DER REISENDE,der_reisende,sie,PPER,sie,13477,,
 qd,rktc.0,60470,60706,DER REISENDE,der_reisende,wohl,ADV,wohl,13477,,
-qd,rktc.0,60470,60706,DER REISENDE,der_reisende,Lisette,NN,lisette,13477,,
+qd,rktc.0,60470,60706,DER REISENDE,der_reisende,Lisette,NN,lisette,13477,lisette,(6)
 qd,rktc.0,60470,60706,DER REISENDE,der_reisende,gefunden,VVPP,finden,13477,,
 qd,rktc.0,60470,60706,DER REISENDE,der_reisende,?,$.,--,13477,,
 qd,rktc.0,60470,60706,DER REISENDE,der_reisende,und,KON,und,13477,,
@@ -11076,7 +11076,7 @@ qd,rktc.0,60812,60848,DER REISENDE,der_reisende,–,XY,–,13477,,
 qd,rktc.0,60958,61200,DER BARON,der_baron,Den,ART,der,13477,,
 qd,rktc.0,60958,61200,DER BARON,der_baron,Augenblick,NN,augenblick,13477,,
 qd,rktc.0,60958,61200,DER BARON,der_baron,",","$,",--,13477,,
-qd,rktc.0,60958,61200,DER BARON,der_baron,Lisette,NN,lisette,13477,,
+qd,rktc.0,60958,61200,DER BARON,der_baron,Lisette,NN,lisette,13477,lisette,(6)
 qd,rktc.0,60958,61200,DER BARON,der_baron,",","$,",--,13477,,
 qd,rktc.0,60958,61200,DER BARON,der_baron,stelle,VVFIN,stellen,13477,,
 qd,rktc.0,60958,61200,DER BARON,der_baron,dem,ART,der,13477,,
@@ -11338,7 +11338,7 @@ qd,rktc.0,62304,62420,DER BARON,der_baron,sein,VAINF,sein,13477,,
 qd,rktc.0,62304,62420,DER BARON,der_baron,",","$,",--,13477,,
 qd,rktc.0,62304,62420,DER BARON,der_baron,was,PWS,was,13477,,
 qd,rktc.0,62304,62420,DER BARON,der_baron,mir,PPER,sich,13477,der_baron,(5)
-qd,rktc.0,62304,62420,DER BARON,der_baron,Lisette,NE,lisette,13477,,
+qd,rktc.0,62304,62420,DER BARON,der_baron,Lisette,NE,lisette,13477,lisette,(6)
 qd,rktc.0,62304,62420,DER BARON,der_baron,berichtet,VVPP,berichten,13477,,
 qd,rktc.0,62304,62420,DER BARON,der_baron,hat,VAFIN,haben,13477,,
 qd,rktc.0,62304,62420,DER BARON,der_baron,"!",$.,--,13477,,

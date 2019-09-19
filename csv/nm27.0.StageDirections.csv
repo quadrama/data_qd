@@ -1,6 +1,6 @@
 corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
-qd,nm27.0,536,628,_Stage,_Stage,Jungfer,NE,jungfer,10660,,
-qd,nm27.0,536,628,_Stage,_Stage,Lottchen,NE,lottchen,10660,,
+qd,nm27.0,536,628,_Stage,_Stage,Jungfer,NE,jungfer,10660,,(2
+qd,nm27.0,536,628,_Stage,_Stage,Lottchen,NE,lottchen,10660,,2)
 qd,nm27.0,536,628,_Stage,_Stage,sitzt,VVFIN,sitzen,10660,,
 qd,nm27.0,536,628,_Stage,_Stage,auf,APPR,auf,10660,,
 qd,nm27.0,536,628,_Stage,_Stage,einem,ART,ein,10660,,
@@ -12,8 +12,8 @@ qd,nm27.0,536,628,_Stage,_Stage,.,$.,--,10660,,
 qd,nm27.0,536,628,_Stage,_Stage,Bald,ADV,bald,10660,,
 qd,nm27.0,536,628,_Stage,_Stage,darauf,PROAV,darauf,10660,,
 qd,nm27.0,536,628,_Stage,_Stage,kömmt,VVFIN,kömmen,10660,,
-qd,nm27.0,536,628,_Stage,_Stage,Herr,NN,herr,10660,,
-qd,nm27.0,536,628,_Stage,_Stage,Reinhart,NE,reinhart,10660,,
+qd,nm27.0,536,628,_Stage,_Stage,Herr,NN,herr,10660,,(0
+qd,nm27.0,536,628,_Stage,_Stage,Reinhart,NE,reinhart,10660,,0)
 qd,nm27.0,536,628,_Stage,_Stage,.,$.,--,10660,,
 qd,nm27.0,994,1000,JUNGFER LOTTCHEN,jungfer_lottchen,lacht,VVFIN,lachen,10660,,
 qd,nm27.0,994,1000,JUNGFER LOTTCHEN,jungfer_lottchen,.,$.,--,10660,,
@@ -52,8 +52,8 @@ qd,nm27.0,8810,8829,HERR REINHART,herr_reinhart,Kopf,NN,kopf,10660,,
 qd,nm27.0,8810,8829,HERR REINHART,herr_reinhart,.,$.,--,10660,,
 qd,nm27.0,9784,9792,HERR REINHART,herr_reinhart,erfreut,VVPP,erfreuen,10660,,
 qd,nm27.0,9784,9792,HERR REINHART,herr_reinhart,.,$.,--,10660,,
-qd,nm27.0,10653,10744,_Stage,_Stage,Jungfer,NE,jungfer,10660,,
-qd,nm27.0,10653,10744,_Stage,_Stage,Lottchen,NE,lottchen,10660,,
+qd,nm27.0,10653,10744,_Stage,_Stage,Jungfer,NE,jungfer,10660,,(2
+qd,nm27.0,10653,10744,_Stage,_Stage,Lottchen,NE,lottchen,10660,,2)
 qd,nm27.0,10653,10744,_Stage,_Stage,wirft,VVFIN,werfen,10660,,
 qd,nm27.0,10653,10744,_Stage,_Stage,den,ART,der,10660,,
 qd,nm27.0,10653,10744,_Stage,_Stage,Brief,NN,brief,10660,,
@@ -64,9 +64,9 @@ qd,nm27.0,10653,10744,_Stage,_Stage,Tisch,NN,tisch,10660,,
 qd,nm27.0,10653,10744,_Stage,_Stage,",","$,",--,10660,,
 qd,nm27.0,10653,10744,_Stage,_Stage,indem,KOUS,indem,10660,,
 qd,nm27.0,10653,10744,_Stage,_Stage,kömmt,VVFIN,kömmen,10660,,
-qd,nm27.0,10653,10744,_Stage,_Stage,der,ART,der,10660,,
+qd,nm27.0,10653,10744,_Stage,_Stage,der,ART,der,10660,,(1
 qd,nm27.0,10653,10744,_Stage,_Stage,junge,ADJA,jung,10660,,
-qd,nm27.0,10653,10744,_Stage,_Stage,Reinhart,NN,reinhart,10660,,
+qd,nm27.0,10653,10744,_Stage,_Stage,Reinhart,NN,reinhart,10660,,1)
 qd,nm27.0,10653,10744,_Stage,_Stage,.,$.,--,10660,,
 qd,nm27.0,11151,11157,JUNGFER LOTTCHEN,jungfer_lottchen,lacht,VVFIN,lachen,10660,,
 qd,nm27.0,11151,11157,JUNGFER LOTTCHEN,jungfer_lottchen,.,$.,--,10660,,
@@ -81,14 +81,14 @@ qd,nm27.0,13734,13745,JUNGFER LOTTCHEN,jungfer_lottchen,sehr,ADV,sehr,10660,,
 qd,nm27.0,13734,13745,JUNGFER LOTTCHEN,jungfer_lottchen,.,$.,--,10660,,
 qd,nm27.0,14071,14077,JUNGFER LOTTCHEN,jungfer_lottchen,lacht,VVFIN,lachen,10660,,
 qd,nm27.0,14071,14077,JUNGFER LOTTCHEN,jungfer_lottchen,.,$.,--,10660,,
-qd,nm27.0,15208,15354,_Stage,_Stage,Jungfer,NE,jungfer,10660,,
-qd,nm27.0,15208,15354,_Stage,_Stage,Lottchen,NE,lottchen,10660,,
+qd,nm27.0,15208,15354,_Stage,_Stage,Jungfer,NE,jungfer,10660,,(2
+qd,nm27.0,15208,15354,_Stage,_Stage,Lottchen,NE,lottchen,10660,,2)
 qd,nm27.0,15208,15354,_Stage,_Stage,;,$.,--,10660,,
-qd,nm27.0,15208,15354,_Stage,_Stage,Herr,NN,herr,10660,,
-qd,nm27.0,15208,15354,_Stage,_Stage,Reinhart,NE,reinhart,10660,,
+qd,nm27.0,15208,15354,_Stage,_Stage,Herr,NN,herr,10660,,(0
+qd,nm27.0,15208,15354,_Stage,_Stage,Reinhart,NE,reinhart,10660,,0)
 qd,nm27.0,15208,15354,_Stage,_Stage,;,$.,--,10660,,
-qd,nm27.0,15208,15354,_Stage,_Stage,Herr,NN,herr,10660,,
-qd,nm27.0,15208,15354,_Stage,_Stage,Vielwitz,NE,vielwitz,10660,,
+qd,nm27.0,15208,15354,_Stage,_Stage,Herr,NN,herr,10660,,(3
+qd,nm27.0,15208,15354,_Stage,_Stage,Vielwitz,NE,vielwitz,10660,,3)
 qd,nm27.0,15208,15354,_Stage,_Stage,kömmt,VVFIN,kömmen,10660,,
 qd,nm27.0,15208,15354,_Stage,_Stage,mit,APPR,mit,10660,,
 qd,nm27.0,15208,15354,_Stage,_Stage,dem,ART,der,10660,,
@@ -132,11 +132,11 @@ qd,nm27.0,16674,16686,HERR VIELWITZ,herr_vielwitz,.,$.,--,10660,,
 qd,nm27.0,17069,17087,JUNGFER LOTTCHEN,jungfer_lottchen,Die,ART,der,10660,,
 qd,nm27.0,17069,17087,JUNGFER LOTTCHEN,jungfer_lottchen,Vorigen,NN,vorige,10660,,
 qd,nm27.0,17069,17087,JUNGFER LOTTCHEN,jungfer_lottchen,.,$.,--,10660,,
-qd,nm27.0,17069,17087,JUNGFER LOTTCHEN,jungfer_lottchen,Paul,NE,paul,10660,,
+qd,nm27.0,17069,17087,JUNGFER LOTTCHEN,jungfer_lottchen,Paul,NE,paul,10660,,(4)
 qd,nm27.0,17069,17087,JUNGFER LOTTCHEN,jungfer_lottchen,.,$.,--,10660,,
 qd,nm27.0,17098,17118,PAUL,paul,zu,APPR,zu,10660,,
-qd,nm27.0,17098,17118,PAUL,paul,Jungfer,NN,jungfer,10660,,
-qd,nm27.0,17098,17118,PAUL,paul,Lottchen,VVINF,lottchen,10660,,
+qd,nm27.0,17098,17118,PAUL,paul,Jungfer,NN,jungfer,10660,,(2
+qd,nm27.0,17098,17118,PAUL,paul,Lottchen,VVINF,lottchen,10660,,2)
 qd,nm27.0,17098,17118,PAUL,paul,.,$.,--,10660,,
 qd,nm27.0,17179,17198,JUNGFER LOTTCHEN,jungfer_lottchen,Der,ART,der,10660,,
 qd,nm27.0,17179,17198,JUNGFER LOTTCHEN,jungfer_lottchen,Diener,NN,diener,10660,,
@@ -159,8 +159,8 @@ qd,nm27.0,18987,19084,JUNGFER LOTTCHEN,jungfer_lottchen,mit,APPR,mit,10660,,
 qd,nm27.0,18987,19084,JUNGFER LOTTCHEN,jungfer_lottchen,dem,ART,der,10660,,
 qd,nm27.0,18987,19084,JUNGFER LOTTCHEN,jungfer_lottchen,Geräthe,NN,geräthe,10660,,
 qd,nm27.0,18987,19084,JUNGFER LOTTCHEN,jungfer_lottchen,",","$,",--,10660,,
-qd,nm27.0,18987,19084,JUNGFER LOTTCHEN,jungfer_lottchen,Jungfer,NE,jungfer,10660,,
-qd,nm27.0,18987,19084,JUNGFER LOTTCHEN,jungfer_lottchen,Lottchen,NE,lottchen,10660,,
+qd,nm27.0,18987,19084,JUNGFER LOTTCHEN,jungfer_lottchen,Jungfer,NE,jungfer,10660,,(2
+qd,nm27.0,18987,19084,JUNGFER LOTTCHEN,jungfer_lottchen,Lottchen,NE,lottchen,10660,,2)
 qd,nm27.0,18987,19084,JUNGFER LOTTCHEN,jungfer_lottchen,schenkt,VVFIN,schenken,10660,,
 qd,nm27.0,18987,19084,JUNGFER LOTTCHEN,jungfer_lottchen,ein,PTKVZ,ein,10660,,
 qd,nm27.0,18987,19084,JUNGFER LOTTCHEN,jungfer_lottchen,.,$.,--,10660,,
@@ -176,11 +176,11 @@ qd,nm27.0,20378,20415,HERR VIELWITZ,herr_vielwitz,.,$.,--,10660,,
 qd,nm27.0,20862,20978,_Stage,_Stage,Die,ART,der,10660,,
 qd,nm27.0,20862,20978,_Stage,_Stage,Vorigen,NN,vorige,10660,,
 qd,nm27.0,20862,20978,_Stage,_Stage,.,$.,--,10660,,
-qd,nm27.0,20862,20978,_Stage,_Stage,Herr,NN,herr,10660,,
-qd,nm27.0,20862,20978,_Stage,_Stage,Sinnreich,NE,sinnreich,10660,,
+qd,nm27.0,20862,20978,_Stage,_Stage,Herr,NN,herr,10660,,(5
+qd,nm27.0,20862,20978,_Stage,_Stage,Sinnreich,NE,sinnreich,10660,,5)
 qd,nm27.0,20862,20978,_Stage,_Stage,.,$.,--,10660,,
-qd,nm27.0,20862,20978,_Stage,_Stage,Herr,NN,herr,10660,,
-qd,nm27.0,20862,20978,_Stage,_Stage,Jambus,NE,jambus,10660,,
+qd,nm27.0,20862,20978,_Stage,_Stage,Herr,NN,herr,10660,,(6
+qd,nm27.0,20862,20978,_Stage,_Stage,Jambus,NE,jambus,10660,,6)
 qd,nm27.0,20862,20978,_Stage,_Stage,.,$.,--,10660,,
 qd,nm27.0,20862,20978,_Stage,_Stage,Sie,PPER,sie,10660,,
 qd,nm27.0,20862,20978,_Stage,_Stage,kommen,VVFIN,kommen,10660,,
@@ -212,8 +212,8 @@ qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,die,ART,der,10660,,
 qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,Degen,NN,degen,10660,,
 qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,ab,PTKVZ,ab,10660,,
 qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,.,$.,--,10660,,
-qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,Jungfer,NE,jungfer,10660,,
-qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,Lottchen,NE,lottchen,10660,,
+qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,Jungfer,NE,jungfer,10660,,(2
+qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,Lottchen,NE,lottchen,10660,,2)
 qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,will,VMFIN,wollen,10660,,
 qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,sich,PRF,sich,10660,,
 qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,darüber,PROAV,darüber,10660,,
@@ -238,8 +238,8 @@ qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,sich,PRF,sich,10660,,
 qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,zum,APPRART,zu,10660,,
 qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,Caffeetische,NN,caffeetische,10660,,
 qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,.,$.,--,10660,,
-qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,Jungfer,NE,jungfer,10660,,
-qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,Lottchen,NE,lottchen,10660,,
+qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,Jungfer,NE,jungfer,10660,,(2
+qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,Lottchen,NE,lottchen,10660,,2)
 qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,schenkt,VVFIN,schenken,10660,,
 qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,einem,ART,ein,10660,,
 qd,nm27.0,21497,21762,HERR REINHART,herr_reinhart,jeden,PIDAT,jeder,10660,,
@@ -314,17 +314,17 @@ qd,nm27.0,30527,30536,HERR REINHART,herr_reinhart,lächelnd,ADJD,lächelnd,10660
 qd,nm27.0,30527,30536,HERR REINHART,herr_reinhart,.,$.,--,10660,,
 qd,nm27.0,30674,30680,JUNGFER LOTTCHEN,jungfer_lottchen,lacht,VVFIN,lachen,10660,,
 qd,nm27.0,30674,30680,JUNGFER LOTTCHEN,jungfer_lottchen,.,$.,--,10660,,
-qd,nm27.0,30930,30988,_Stage,_Stage,Herr,NN,herr,10660,,
-qd,nm27.0,30930,30988,_Stage,_Stage,Reinhart,NE,reinhart,10660,,
+qd,nm27.0,30930,30988,_Stage,_Stage,Herr,NN,herr,10660,,(0
+qd,nm27.0,30930,30988,_Stage,_Stage,Reinhart,NE,reinhart,10660,,0)
 qd,nm27.0,30930,30988,_Stage,_Stage,.,$.,--,10660,,
-qd,nm27.0,30930,30988,_Stage,_Stage,Herr,NN,herr,10660,,
-qd,nm27.0,30930,30988,_Stage,_Stage,Vielwitz,NE,vielwitz,10660,,
+qd,nm27.0,30930,30988,_Stage,_Stage,Herr,NN,herr,10660,,(3
+qd,nm27.0,30930,30988,_Stage,_Stage,Vielwitz,NE,vielwitz,10660,,3)
 qd,nm27.0,30930,30988,_Stage,_Stage,.,$.,--,10660,,
-qd,nm27.0,30930,30988,_Stage,_Stage,Herr,NN,herr,10660,,
-qd,nm27.0,30930,30988,_Stage,_Stage,Jambus,NE,jambus,10660,,
+qd,nm27.0,30930,30988,_Stage,_Stage,Herr,NN,herr,10660,,(6
+qd,nm27.0,30930,30988,_Stage,_Stage,Jambus,NE,jambus,10660,,6)
 qd,nm27.0,30930,30988,_Stage,_Stage,.,$.,--,10660,,
-qd,nm27.0,30930,30988,_Stage,_Stage,Herr,NN,herr,10660,,
-qd,nm27.0,30930,30988,_Stage,_Stage,Sinnreich,NE,sinnreich,10660,,
+qd,nm27.0,30930,30988,_Stage,_Stage,Herr,NN,herr,10660,,(5
+qd,nm27.0,30930,30988,_Stage,_Stage,Sinnreich,NE,sinnreich,10660,,5)
 qd,nm27.0,30930,30988,_Stage,_Stage,.,$.,--,10660,,
 qd,nm27.0,31276,31284,HERR REINHART,herr_reinhart,lachend,ADJD,lachend,10660,,
 qd,nm27.0,31276,31284,HERR REINHART,herr_reinhart,.,$.,--,10660,,
@@ -341,8 +341,8 @@ qd,nm27.0,33659,33690,HERR JAMBUS,herr_jambus,alle,PIDAT,aller,10660,,
 qd,nm27.0,33659,33690,HERR JAMBUS,herr_jambus,drey,ADJD,drey,10660,,
 qd,nm27.0,33659,33690,HERR JAMBUS,herr_jambus,spöttisch,ADJD,spöttisch,10660,,
 qd,nm27.0,33659,33690,HERR JAMBUS,herr_jambus,.,$.,--,10660,,
-qd,nm27.0,34063,34086,HERR REINHART,herr_reinhart,Herr,NN,herr,10660,,
-qd,nm27.0,34063,34086,HERR REINHART,herr_reinhart,Jambus,NE,jambus,10660,,
+qd,nm27.0,34063,34086,HERR REINHART,herr_reinhart,Herr,NN,herr,10660,,(6
+qd,nm27.0,34063,34086,HERR REINHART,herr_reinhart,Jambus,NE,jambus,10660,,6)
 qd,nm27.0,34063,34086,HERR REINHART,herr_reinhart,lacht,VVFIN,lachen,10660,,
 qd,nm27.0,34063,34086,HERR REINHART,herr_reinhart,sehr,ADV,sehr,10660,,
 qd,nm27.0,34063,34086,HERR REINHART,herr_reinhart,.,$.,--,10660,,
@@ -390,23 +390,23 @@ qd,nm27.0,48853,48890,HERR JAMBUS,herr_jambus,.,$.,--,10660,,
 qd,nm27.0,49054,49084,_Stage,_Stage,Die,ART,der,10660,,
 qd,nm27.0,49054,49084,_Stage,_Stage,Vorigen,NN,vorige,10660,,
 qd,nm27.0,49054,49084,_Stage,_Stage,.,$.,--,10660,,
-qd,nm27.0,49054,49084,_Stage,_Stage,Jungfer,NE,jungfer,10660,,
-qd,nm27.0,49054,49084,_Stage,_Stage,Lottchen,NE,lottchen,10660,,
+qd,nm27.0,49054,49084,_Stage,_Stage,Jungfer,NE,jungfer,10660,,(2
+qd,nm27.0,49054,49084,_Stage,_Stage,Lottchen,NE,lottchen,10660,,2)
 qd,nm27.0,49054,49084,_Stage,_Stage,.,$.,--,10660,,
 qd,nm27.0,49956,49969,HERR JAMBUS,herr_jambus,schreyt,ADJD,schreyen,10660,,
 qd,nm27.0,49956,49969,HERR JAMBUS,herr_jambus,sehr,ADV,sehr,10660,,
 qd,nm27.0,49956,49969,HERR JAMBUS,herr_jambus,.,$.,--,10660,,
-qd,nm27.0,50331,50394,_Stage,_Stage,Jungfer,NE,jungfer,10660,,
-qd,nm27.0,50331,50394,_Stage,_Stage,Lottchen,NE,lottchen,10660,,
+qd,nm27.0,50331,50394,_Stage,_Stage,Jungfer,NE,jungfer,10660,,(2
+qd,nm27.0,50331,50394,_Stage,_Stage,Lottchen,NE,lottchen,10660,,2)
 qd,nm27.0,50331,50394,_Stage,_Stage,.,$.,--,10660,,
-qd,nm27.0,50331,50394,_Stage,_Stage,Herr,NN,herr,10660,,
-qd,nm27.0,50331,50394,_Stage,_Stage,Reinhart,NE,reinhart,10660,,
+qd,nm27.0,50331,50394,_Stage,_Stage,Herr,NN,herr,10660,,(0
+qd,nm27.0,50331,50394,_Stage,_Stage,Reinhart,NE,reinhart,10660,,0)
 qd,nm27.0,50331,50394,_Stage,_Stage,.,$.,--,10660,,
-qd,nm27.0,50331,50394,_Stage,_Stage,Herr,NN,herr,10660,,
-qd,nm27.0,50331,50394,_Stage,_Stage,Sinnreich,NE,sinnreich,10660,,
+qd,nm27.0,50331,50394,_Stage,_Stage,Herr,NN,herr,10660,,(5
+qd,nm27.0,50331,50394,_Stage,_Stage,Sinnreich,NE,sinnreich,10660,,5)
 qd,nm27.0,50331,50394,_Stage,_Stage,.,$.,--,10660,,
-qd,nm27.0,50331,50394,_Stage,_Stage,Herr,NN,herr,10660,,
-qd,nm27.0,50331,50394,_Stage,_Stage,Vielwitz,NE,vielwitz,10660,,
+qd,nm27.0,50331,50394,_Stage,_Stage,Herr,NN,herr,10660,,(3
+qd,nm27.0,50331,50394,_Stage,_Stage,Vielwitz,NE,vielwitz,10660,,3)
 qd,nm27.0,50331,50394,_Stage,_Stage,.,$.,--,10660,,
 qd,nm27.0,50779,50806,JUNGFER LOTTCHEN,jungfer_lottchen,giebt,ADJD,gieben,10660,,
 qd,nm27.0,50779,50806,JUNGFER LOTTCHEN,jungfer_lottchen,Reinharten,NN,reinharten,10660,,
@@ -463,11 +463,11 @@ qd,nm27.0,54535,54542,HERR SINNREICH,herr_sinnreich,.,$.,--,10660,,
 qd,nm27.0,54783,54796,HERR SINNREICH,herr_sinnreich,zum,APPRART,zu,10660,,
 qd,nm27.0,54783,54796,HERR SINNREICH,herr_sinnreich,Vielwitz,NN,vielwitz,10660,,
 qd,nm27.0,54783,54796,HERR SINNREICH,herr_sinnreich,.,$.,--,10660,,
-qd,nm27.0,55554,55583,_Stage,_Stage,Herr,NN,herr,10660,,
-qd,nm27.0,55554,55583,_Stage,_Stage,Vielwitz,NE,vielwitz,10660,,
+qd,nm27.0,55554,55583,_Stage,_Stage,Herr,NN,herr,10660,,(3
+qd,nm27.0,55554,55583,_Stage,_Stage,Vielwitz,NE,vielwitz,10660,,3)
 qd,nm27.0,55554,55583,_Stage,_Stage,.,$.,--,10660,,
-qd,nm27.0,55554,55583,_Stage,_Stage,Herr,NN,herr,10660,,
-qd,nm27.0,55554,55583,_Stage,_Stage,Reinhart,NE,reinhart,10660,,
+qd,nm27.0,55554,55583,_Stage,_Stage,Herr,NN,herr,10660,,(0
+qd,nm27.0,55554,55583,_Stage,_Stage,Reinhart,NE,reinhart,10660,,0)
 qd,nm27.0,55554,55583,_Stage,_Stage,.,$.,--,10660,,
 qd,nm27.0,55601,55618,HERR VIELWITZ,herr_vielwitz,sehr,ADV,sehr,10660,,
 qd,nm27.0,55601,55618,HERR VIELWITZ,herr_vielwitz,erschrocken,VVFIN,erschrocken,10660,,

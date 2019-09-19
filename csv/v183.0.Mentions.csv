@@ -1,11 +1,15 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,v183.0,328,1273,friz,430,435,Faust,doktor_faust
 qd,v183.0,328,1273,friz,594,597,mir,friz
 qd,v183.0,328,1273,friz,1047,1051,mein,friz
 qd,v183.0,328,1273,friz,1071,1074,mir,friz
+qd,v183.0,1325,1357,_stage,1325,1334,Rosalinde,rosalinde
+qd,v183.0,1325,1357,_stage,1352,1356,Friz,friz
 qd,v183.0,1360,1397,rosalinde,1386,1390,mein,rosalinde
 qd,v183.0,1475,1561,rosalinde,1494,1497,mir,rosalinde
 qd,v183.0,1475,1561,rosalinde,1516,1520,mein,rosalinde
 qd,v183.0,1566,1635,friz,1614,1617,ich,friz
+qd,v183.0,1566,1635,friz,1624,1633,Rosalinde,rosalinde
 qd,v183.0,1680,1807,friz,1728,1731,ich,friz
 qd,v183.0,1812,1865,rosalinde,1840,1843,ich,rosalinde
 qd,v183.0,1949,1989,rosalinde,1961,1964,Ich,rosalinde
@@ -34,6 +38,9 @@ qd,v183.0,4096,4205,rosalinde,4144,4147,ich,rosalinde
 qd,v183.0,4318,4986,doktor_faust,4538,4541,ich,doktor_faust
 qd,v183.0,4318,4986,doktor_faust,4702,4705,mir,doktor_faust
 qd,v183.0,4318,4986,doktor_faust,4736,4742,meiner,doktor_faust
+qd,v183.0,5038,5062,_stage,5038,5050,Doktor Faust,doktor_faust
+qd,v183.0,5038,5062,_stage,5045,5050,Faust,doktor_faust
+qd,v183.0,5038,5062,_stage,5052,5061,Rosalinde,rosalinde
 qd,v183.0,5065,5193,rosalinde,5105,5108,ich,rosalinde
 qd,v183.0,5065,5193,rosalinde,5151,5154,ich,rosalinde
 qd,v183.0,5252,5474,rosalinde,5312,5315,mir,rosalinde
@@ -80,10 +87,13 @@ qd,v183.0,10172,10999,doktor_faust,10818,10821,ich,doktor_faust
 qd,v183.0,10172,10999,doktor_faust,10892,10896,mein,doktor_faust
 qd,v183.0,10172,10999,doktor_faust,10935,10938,mir,doktor_faust
 qd,v183.0,10172,10999,doktor_faust,10979,10982,ich,doktor_faust
+qd,v183.0,10172,10999,doktor_faust,10990,10995,Faust,doktor_faust
 qd,v183.0,11051,11967,rosalinde,11186,11189,mir,rosalinde
 qd,v183.0,11051,11967,rosalinde,11264,11268,Mein,rosalinde
 qd,v183.0,11051,11967,rosalinde,11368,11371,ich,rosalinde
 qd,v183.0,11051,11967,rosalinde,11458,11461,mir,rosalinde
+qd,v183.0,12020,12037,_stage,12020,12029,Rosalinde,rosalinde
+qd,v183.0,12020,12037,_stage,12031,12036,Faust,doktor_faust
 qd,v183.0,12040,13156,doktor_faust,12055,12058,ich,doktor_faust
 qd,v183.0,12040,13156,doktor_faust,12085,12088,mir,doktor_faust
 qd,v183.0,12040,13156,doktor_faust,12132,12135,Ich,doktor_faust
@@ -103,6 +113,8 @@ qd,v183.0,13344,14119,doktor_faust,14049,14052,Ich,doktor_faust
 qd,v183.0,14294,14551,doktor_faust,14369,14373,mich,doktor_faust
 qd,v183.0,14294,14551,doktor_faust,14399,14403,mich,doktor_faust
 qd,v183.0,14294,14551,doktor_faust,14438,14442,Mein,doktor_faust
+qd,v183.0,14765,14804,_stage,14765,14770,Faust,doktor_faust
+qd,v183.0,14765,14804,_stage,14772,14781,Rosalinde,rosalinde
 qd,v183.0,14807,14880,doktor_faust,14833,14836,Ich,doktor_faust
 qd,v183.0,14807,14880,doktor_faust,14860,14863,ich,doktor_faust
 qd,v183.0,15023,15080,doktor_faust,15053,15056,ich,doktor_faust
@@ -150,9 +162,13 @@ qd,v183.0,19552,19617,doktor_faust,19570,19573,Ich,doktor_faust
 qd,v183.0,19799,19839,doktor_faust,19815,19818,ich,doktor_faust
 qd,v183.0,19844,20045,rosalinde,19867,19870,ich,rosalinde
 qd,v183.0,19844,20045,rosalinde,20002,20005,ich,rosalinde
+qd,v183.0,19844,20045,rosalinde,20032,20041,Rosalinde,rosalinde
 qd,v183.0,20181,20314,doktor_faust,20269,20272,Ich,doktor_faust
 qd,v183.0,20460,20589,doktor_faust,20482,20485,mir,doktor_faust
+qd,v183.0,20733,20857,_stage,20752,20757,Faust,doktor_faust
 qd,v183.0,20992,21293,rosalinde,21261,21264,Ich,rosalinde
+qd,v183.0,21345,21361,_stage,21345,21349,Friz,friz
+qd,v183.0,21345,21361,_stage,21351,21360,Rosalinde,rosalinde
 qd,v183.0,21643,21692,rosalinde,21682,21685,Ich,rosalinde
 qd,v183.0,21748,21789,friz,21755,21758,Ich,friz
 qd,v183.0,21794,21881,rosalinde,21810,21813,ich,rosalinde
@@ -160,6 +176,7 @@ qd,v183.0,21794,21881,rosalinde,21819,21824,meine,rosalinde
 qd,v183.0,21996,22116,friz,22042,22046,mich,friz
 qd,v183.0,21996,22116,friz,22075,22078,ich,friz
 qd,v183.0,22121,22249,rosalinde,22146,22149,ich,rosalinde
+qd,v183.0,22254,22375,friz,22342,22351,ROSALINDE,rosalinde
 qd,v183.0,22381,22569,friz,22397,22400,Ich,friz
 qd,v183.0,22574,22672,rosalinde,22629,22634,meine,rosalinde
 qd,v183.0,22880,22920,rosalinde,22892,22895,Ich,rosalinde
@@ -176,6 +193,9 @@ qd,v183.0,23523,24056,doktor_faust,23792,23795,ich,doktor_faust
 qd,v183.0,23523,24056,doktor_faust,23801,23804,ich,doktor_faust
 qd,v183.0,23523,24056,doktor_faust,23966,23969,ich,doktor_faust
 qd,v183.0,23523,24056,doktor_faust,23983,23986,ich,doktor_faust
+qd,v183.0,24107,24135,_stage,24107,24112,Faust,doktor_faust
+qd,v183.0,24107,24135,_stage,24114,24123,Rosalinde,rosalinde
+qd,v183.0,24138,24156,rosalinde,24150,24155,Faust,doktor_faust
 qd,v183.0,24275,24306,rosalinde,24296,24299,ich,rosalinde
 qd,v183.0,24462,24494,rosalinde,24479,24482,ich,rosalinde
 qd,v183.0,24499,24619,doktor_faust,24514,24517,mir,doktor_faust
@@ -190,6 +210,7 @@ qd,v183.0,26740,26915,rosalinde,26760,26763,ich,rosalinde
 qd,v183.0,26740,26915,rosalinde,26770,26773,ich,rosalinde
 qd,v183.0,27331,27397,doktor_faust,27347,27350,ich,doktor_faust
 qd,v183.0,27920,27974,doktor_faust,27935,27938,ich,doktor_faust
+qd,v183.0,27979,28285,rosalinde,27996,28001,Faust,doktor_faust
 qd,v183.0,27979,28285,rosalinde,28024,28027,ich,rosalinde
 qd,v183.0,27979,28285,rosalinde,28060,28063,ich,rosalinde
 qd,v183.0,27979,28285,rosalinde,28221,28224,ich,rosalinde
@@ -201,12 +222,16 @@ qd,v183.0,28746,29564,doktor_faust,28830,28833,ich,doktor_faust
 qd,v183.0,28746,29564,doktor_faust,28839,28842,ich,doktor_faust
 qd,v183.0,28746,29564,doktor_faust,29040,29043,ich,doktor_faust
 qd,v183.0,28746,29564,doktor_faust,29044,29048,mich,doktor_faust
+qd,v183.0,28746,29564,doktor_faust,29085,29090,Faust,doktor_faust
+qd,v183.0,28746,29564,doktor_faust,29092,29097,Faust,doktor_faust
 qd,v183.0,28746,29564,doktor_faust,29248,29251,ich,doktor_faust
 qd,v183.0,28746,29564,doktor_faust,29292,29295,ich,doktor_faust
 qd,v183.0,28746,29564,doktor_faust,29317,29320,ich,doktor_faust
 qd,v183.0,28746,29564,doktor_faust,29336,29339,ich,doktor_faust
 qd,v183.0,28746,29564,doktor_faust,29423,29429,meiner,doktor_faust
 qd,v183.0,28746,29564,doktor_faust,29466,29469,ich,doktor_faust
+qd,v183.0,29617,29684,_stage,29617,29622,Faust,doktor_faust
+qd,v183.0,29617,29684,_stage,29624,29633,Rosalinde,rosalinde
 qd,v183.0,30019,30417,doktor_faust,30361,30364,ich,doktor_faust
 qd,v183.0,30019,30417,doktor_faust,30400,30403,ich,doktor_faust
 qd,v183.0,30422,30528,rosalinde,30455,30459,mich,rosalinde
@@ -214,6 +239,7 @@ qd,v183.0,30422,30528,rosalinde,30502,30506,mein,rosalinde
 qd,v183.0,30637,30760,rosalinde,30673,30676,Ich,rosalinde
 qd,v183.0,30637,30760,rosalinde,30705,30708,ich,rosalinde
 qd,v183.0,30637,30760,rosalinde,30747,30751,mich,rosalinde
+qd,v183.0,30793,30945,rosalinde,30821,30826,Faust,doktor_faust
 qd,v183.0,30793,30945,rosalinde,30937,30941,mich,rosalinde
 qd,v183.0,30950,31292,doktor_faust,31029,31032,mir,doktor_faust
 qd,v183.0,30950,31292,doktor_faust,31094,31099,meine,doktor_faust
@@ -236,12 +262,15 @@ qd,v183.0,32854,33200,doktor_faust,33099,33102,Ich,doktor_faust
 qd,v183.0,32854,33200,doktor_faust,33134,33138,mich,doktor_faust
 qd,v183.0,32854,33200,doktor_faust,33195,33199,mich,doktor_faust
 qd,v183.0,33205,33485,rosalinde,33384,33387,ich,rosalinde
+qd,v183.0,33205,33485,rosalinde,33400,33405,Faust,doktor_faust
 qd,v183.0,33539,33702,rosalinde,33569,33573,mein,rosalinde
 qd,v183.0,33539,33702,rosalinde,33579,33582,ich,rosalinde
 qd,v183.0,33539,33702,rosalinde,33697,33701,mein,rosalinde
 qd,v183.0,33875,34121,rosalinde,34009,34013,mich,rosalinde
+qd,v183.0,33875,34121,rosalinde,34091,34100,Rosalinde,rosalinde
 qd,v183.0,34126,34169,doktor_faust,34151,34154,mir,doktor_faust
 qd,v183.0,34220,34330,doktor_faust,34256,34259,mir,doktor_faust
+qd,v183.0,34335,34587,rosalinde,34504,34513,Rosalinde,rosalinde
 qd,v183.0,34611,35070,rosalinde,34654,34657,Ich,rosalinde
 qd,v183.0,34611,35070,rosalinde,34664,34668,mich,rosalinde
 qd,v183.0,34611,35070,rosalinde,34731,34734,mir,rosalinde
@@ -259,4 +288,6 @@ qd,v183.0,35318,35428,doktor_faust,35400,35403,ich,doktor_faust
 qd,v183.0,35433,35781,rosalinde,35473,35476,mir,rosalinde
 qd,v183.0,35433,35781,rosalinde,35587,35590,ich,rosalinde
 qd,v183.0,35433,35781,rosalinde,35643,35649,meinem,rosalinde
+qd,v183.0,35433,35781,rosalinde,35734,35746,Doktor Faust,doktor_faust
+qd,v183.0,35433,35781,rosalinde,35741,35746,Faust,doktor_faust
 qd,v183.0,35786,35869,doktor_faust,35803,35806,ich,doktor_faust

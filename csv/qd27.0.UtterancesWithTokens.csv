@@ -1848,8 +1848,8 @@ qd,qd27.0,8916,12006,CLAUDIO,claudio,weg,PTKVZ,weg,5099,,
 qd,qd27.0,8916,12006,CLAUDIO,claudio,"!",$.,--,5099,,
 qd,qd27.0,8916,12006,CLAUDIO,claudio,Du,PPER,du,5099,,
 qd,qd27.0,8916,12006,CLAUDIO,claudio,bist,VAFIN,sein,5099,,
-qd,qd27.0,8916,12006,CLAUDIO,claudio,der,ART,der,5099,,
-qd,qd27.0,8916,12006,CLAUDIO,claudio,Tod,NN,tod,5099,,
+qd,qd27.0,8916,12006,CLAUDIO,claudio,der,ART,der,5099,der_tod,(2
+qd,qd27.0,8916,12006,CLAUDIO,claudio,Tod,NN,tod,5099,der_tod,2)
 qd,qd27.0,8916,12006,CLAUDIO,claudio,.,$.,--,5099,,
 qd,qd27.0,8916,12006,CLAUDIO,claudio,Was,PWS,was,5099,,
 qd,qd27.0,8916,12006,CLAUDIO,claudio,willst,VMFIN,wollen,5099,,

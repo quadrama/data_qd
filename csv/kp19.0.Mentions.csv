@@ -1,4 +1,7 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,kp19.0,285,336,_stage,285,292,Claudia,claudia
+qd,kp19.0,285,336,_stage,294,299,Laura,laura
+qd,kp19.0,285,336,_stage,301,306,Laura,laura
 qd,kp19.0,339,1079,claudia,402,408,meinem,claudia
 qd,kp19.0,339,1079,claudia,433,439,meinem,claudia
 qd,kp19.0,339,1079,claudia,448,451,Ich,claudia
@@ -8,8 +11,12 @@ qd,kp19.0,339,1079,claudia,566,572,meiner,claudia
 qd,kp19.0,339,1079,claudia,658,661,ich,claudia
 qd,kp19.0,339,1079,claudia,670,676,meiner,claudia
 qd,kp19.0,339,1079,claudia,698,704,meines,claudia
+qd,kp19.0,339,1079,claudia,778,783,LAURA,laura
+qd,kp19.0,1575,2207,claudia,1787,1794,Appiani,appiani
 qd,kp19.0,1575,2207,claudia,1966,1969,Ich,claudia
 qd,kp19.0,1575,2207,claudia,2099,2102,ich,claudia
+qd,kp19.0,1575,2207,claudia,2117,2122,Laura,laura
+qd,kp19.0,1575,2207,claudia,2124,2129,Laura,laura
 qd,kp19.0,1575,2207,claudia,2141,2144,ich,claudia
 qd,kp19.0,1575,2207,claudia,2163,2167,mein,claudia
 qd,kp19.0,1575,2207,claudia,2178,2181,ich,claudia
@@ -18,24 +25,40 @@ qd,kp19.0,2592,3950,claudia,2664,2670,meinen,claudia
 qd,kp19.0,2592,3950,claudia,2699,2705,meinen,claudia
 qd,kp19.0,2592,3950,claudia,2935,2938,ich,claudia
 qd,kp19.0,2592,3950,claudia,3106,3109,ich,claudia
+qd,kp19.0,2592,3950,claudia,3169,3176,Appiani,appiani
+qd,kp19.0,2592,3950,claudia,3271,3278,Appiani,appiani
 qd,kp19.0,2592,3950,claudia,3351,3357,meiner,claudia
+qd,kp19.0,2592,3950,claudia,3403,3412,der Prinz,der_prinz
 qd,kp19.0,2592,3950,claudia,3798,3801,ich,claudia
 qd,kp19.0,2592,3950,claudia,3816,3820,mich,claudia
+qd,kp19.0,3955,4026,laura,3998,4005,Odoardo,odoardo
 qd,kp19.0,4031,4873,claudia,4132,4135,ich,claudia
 qd,kp19.0,4031,4873,claudia,4136,4140,mich,claudia
 qd,kp19.0,4031,4873,claudia,4228,4231,ich,claudia
+qd,kp19.0,4031,4873,claudia,4281,4288,Odoardo,odoardo
 qd,kp19.0,4031,4873,claudia,4350,4353,mir,claudia
 qd,kp19.0,4031,4873,claudia,4367,4370,ich,claudia
+qd,kp19.0,4031,4873,claudia,4521,4528,Odoardo,odoardo
+qd,kp19.0,4031,4873,claudia,4665,4670,Laura,laura
+qd,kp19.0,4031,4873,claudia,4688,4695,Appiani,appiani
 qd,kp19.0,4031,4873,claudia,4707,4710,ich,claudia
+qd,kp19.0,4862,4873,_stage,4862,4867,Laura,laura
 qd,kp19.0,4878,5058,claudia,4912,4915,ich,claudia
 qd,kp19.0,4878,5058,claudia,4963,4967,mich,claudia
 qd,kp19.0,4878,5058,claudia,5021,5025,mich,claudia
 qd,kp19.0,5063,5239,laura,5138,5143,meine,laura
+qd,kp19.0,5063,5239,laura,5201,5208,Odoardo,odoardo
+qd,kp19.0,5244,5377,claudia,5282,5289,Odoardo,odoardo
 qd,kp19.0,5244,5377,claudia,5291,5295,mein,claudia
 qd,kp19.0,5244,5377,claudia,5310,5315,meine,claudia
 qd,kp19.0,5244,5377,claudia,5359,5363,mein,claudia
+qd,kp19.0,5429,5479,_stage,5429,5436,Odoardo,odoardo
+qd,kp19.0,5429,5479,_stage,5471,5478,Claudia,claudia
+qd,kp19.0,5482,5671,odoardo,5545,5552,Claudia,claudia
+qd,kp19.0,5482,5671,odoardo,5596,5603,Claudia,claudia
 qd,kp19.0,5768,5985,odoardo,5796,5800,mich,odoardo
 qd,kp19.0,5990,6067,claudia,6024,6029,meine,claudia
+qd,kp19.0,6072,6317,odoardo,6108,6117,der Prinz,der_prinz
 qd,kp19.0,6323,6749,claudia,6525,6529,mich,claudia
 qd,kp19.0,6323,6749,claudia,6596,6599,mir,claudia
 qd,kp19.0,6323,6749,claudia,6624,6628,mich,claudia
@@ -47,6 +70,7 @@ qd,kp19.0,6918,7083,claudia,7058,7062,mein,claudia
 qd,kp19.0,7162,7241,claudia,7184,7187,ich,claudia
 qd,kp19.0,7162,7241,claudia,7193,7197,mein,claudia
 qd,kp19.0,7162,7241,claudia,7237,7240,mir,claudia
+qd,kp19.0,7247,7651,odoardo,7502,7511,Der Prinz,der_prinz
 qd,kp19.0,7656,7718,claudia,7681,7684,ich,claudia
 qd,kp19.0,7723,7990,odoardo,7733,7736,Ich,odoardo
 qd,kp19.0,7723,7990,odoardo,7927,7930,ich,odoardo
@@ -58,6 +82,7 @@ qd,kp19.0,8532,8678,claudia,8624,8627,ich,claudia
 qd,kp19.0,8532,8678,claudia,8673,8677,mich,claudia
 qd,kp19.0,8683,8963,odoardo,8735,8739,mich,odoardo
 qd,kp19.0,8683,8963,odoardo,8761,8764,ich,odoardo
+qd,kp19.0,8683,8963,odoardo,8879,8884,Laura,laura
 qd,kp19.0,9014,11083,odoardo,9050,9053,ich,odoardo
 qd,kp19.0,9014,11083,odoardo,9098,9101,ich,odoardo
 qd,kp19.0,9014,11083,odoardo,9106,9112,meiner,odoardo
@@ -75,7 +100,12 @@ qd,kp19.0,9014,11083,odoardo,10344,10347,ich,odoardo
 qd,kp19.0,9014,11083,odoardo,10583,10588,meine,odoardo
 qd,kp19.0,9014,11083,odoardo,10667,10670,ich,odoardo
 qd,kp19.0,9014,11083,odoardo,10781,10784,mir,odoardo
+qd,kp19.0,11134,11151,_stage,11134,11141,Appiani,appiani
+qd,kp19.0,11134,11151,_stage,11143,11150,Odoardo,odoardo
+qd,kp19.0,11154,11365,appiani,11321,11328,Odoardo,odoardo
 qd,kp19.0,11154,11365,appiani,11350,11353,ich,appiani
+qd,kp19.0,11370,11588,odoardo,11389,11396,Appiani,appiani
+qd,kp19.0,11370,11588,odoardo,11496,11503,Claudia,claudia
 qd,kp19.0,11593,12103,appiani,11644,11648,mich,appiani
 qd,kp19.0,11593,12103,appiani,11658,11661,ich,appiani
 qd,kp19.0,11593,12103,appiani,11687,11690,ich,appiani
@@ -84,18 +114,24 @@ qd,kp19.0,11593,12103,appiani,11935,11938,Ich,appiani
 qd,kp19.0,11593,12103,appiani,11952,11957,meine,appiani
 qd,kp19.0,11593,12103,appiani,11992,11996,mich,appiani
 qd,kp19.0,11593,12103,appiani,12021,12024,ich,appiani
+qd,kp19.0,11593,12103,appiani,12057,12066,der Prinz,der_prinz
 qd,kp19.0,11593,12103,appiani,12075,12080,meine,appiani
+qd,kp19.0,12108,12521,odoardo,12248,12255,Odoardo,odoardo
+qd,kp19.0,12108,12521,odoardo,12261,12268,Appiani,appiani
 qd,kp19.0,12108,12521,odoardo,12310,12316,meiner,odoardo
 qd,kp19.0,12108,12521,odoardo,12324,12327,Ich,odoardo
 qd,kp19.0,12108,12521,odoardo,12379,12382,ich,odoardo
 qd,kp19.0,12108,12521,odoardo,12392,12395,ich,odoardo
 qd,kp19.0,12527,12594,appiani,12580,12583,mir,appiani
+qd,kp19.0,12599,12970,odoardo,12612,12619,Appiani,appiani
 qd,kp19.0,12599,12970,odoardo,12638,12641,ich,odoardo
+qd,kp19.0,12599,12970,odoardo,12747,12756,Der Prinz,der_prinz
 qd,kp19.0,12599,12970,odoardo,12907,12910,mir,odoardo
 qd,kp19.0,12975,13174,appiani,12991,12994,ich,appiani
 qd,kp19.0,13179,13316,odoardo,13303,13309,meinen,odoardo
 qd,kp19.0,13371,13817,odoardo,13452,13456,mich,odoardo
 qd,kp19.0,13371,13817,odoardo,13465,13468,ich,odoardo
+qd,kp19.0,13371,13817,odoardo,13503,13512,der Prinz,der_prinz
 qd,kp19.0,13371,13817,odoardo,13531,13536,Meine,odoardo
 qd,kp19.0,13371,13817,odoardo,13689,13693,mich,odoardo
 qd,kp19.0,13371,13817,odoardo,13788,13791,ich,odoardo
@@ -103,12 +139,14 @@ qd,kp19.0,13822,13893,appiani,13858,13863,meine,appiani
 qd,kp19.0,13898,14093,odoardo,13979,13982,ich,odoardo
 qd,kp19.0,13898,14093,odoardo,13983,13987,mich,odoardo
 qd,kp19.0,13898,14093,odoardo,14017,14020,ich,odoardo
+qd,kp19.0,13898,14093,odoardo,14059,14066,Appiani,appiani
 qd,kp19.0,14098,14347,appiani,14151,14155,mich,appiani
 qd,kp19.0,14098,14347,appiani,14188,14191,ich,appiani
 qd,kp19.0,14098,14347,appiani,14213,14216,ich,appiani
 qd,kp19.0,14098,14347,appiani,14252,14255,ich,appiani
 qd,kp19.0,14098,14347,appiani,14290,14293,ich,appiani
 qd,kp19.0,14098,14347,appiani,14294,14297,mir,appiani
+qd,kp19.0,14352,14781,odoardo,14410,14417,Appiani,appiani
 qd,kp19.0,14352,14781,odoardo,14668,14673,meine,odoardo
 qd,kp19.0,15239,15358,odoardo,15276,15279,mir,odoardo
 qd,kp19.0,15239,15358,odoardo,15288,15291,ich,odoardo
@@ -118,6 +156,7 @@ qd,kp19.0,16114,16332,odoardo,16187,16190,Ich,odoardo
 qd,kp19.0,16114,16332,odoardo,16256,16262,meinem,odoardo
 qd,kp19.0,16527,16859,odoardo,16537,16540,Ich,odoardo
 qd,kp19.0,16527,16859,odoardo,16573,16576,ich,odoardo
+qd,kp19.0,16864,16939,appiani,16879,16886,Odoardo,odoardo
 qd,kp19.0,16944,17306,odoardo,16954,16957,Ich,odoardo
 qd,kp19.0,17311,17872,appiani,17323,17327,mein,appiani
 qd,kp19.0,17311,17872,appiani,17632,17635,ich,appiani
@@ -130,12 +169,18 @@ qd,kp19.0,18052,18512,appiani,18310,18314,mich,appiani
 qd,kp19.0,18517,18891,odoardo,18651,18654,ich,odoardo
 qd,kp19.0,18517,18891,odoardo,18661,18664,ich,odoardo
 qd,kp19.0,18517,18891,odoardo,18705,18709,mich,odoardo
+qd,kp19.0,18517,18891,odoardo,18760,18767,Appiani,appiani
 qd,kp19.0,18517,18891,odoardo,18787,18792,meine,odoardo
 qd,kp19.0,18517,18891,odoardo,18822,18825,ich,odoardo
 qd,kp19.0,18517,18891,odoardo,18848,18851,ich,odoardo
 qd,kp19.0,18517,18891,odoardo,18857,18860,ich,odoardo
+qd,kp19.0,18942,18970,_stage,18942,18951,Der Prinz,der_prinz
+qd,kp19.0,18942,18970,_stage,18953,18960,Odoardo,odoardo
+qd,kp19.0,18942,18970,_stage,18962,18969,Appiani,appiani
+qd,kp19.0,18973,19225,der_prinz,19020,19027,Odoardo,odoardo
 qd,kp19.0,18973,19225,der_prinz,19033,19036,ich,der_prinz
 qd,kp19.0,18973,19225,der_prinz,19064,19067,ich,der_prinz
+qd,kp19.0,18973,19225,der_prinz,19095,19102,Appiani,appiani
 qd,kp19.0,19230,19326,appiani,19245,19248,ich,appiani
 qd,kp19.0,19230,19326,appiani,19256,19259,ich,appiani
 qd,kp19.0,19331,19428,der_prinz,19406,19409,mir,der_prinz
@@ -162,6 +207,7 @@ qd,kp19.0,19433,20437,odoardo,20329,20332,ich,odoardo
 qd,kp19.0,19433,20437,odoardo,20333,20337,mich,odoardo
 qd,kp19.0,20656,21414,odoardo,20730,20735,meine,odoardo
 qd,kp19.0,20656,21414,odoardo,20824,20827,ich,odoardo
+qd,kp19.0,20656,21414,odoardo,20874,20881,Appiani,appiani
 qd,kp19.0,20656,21414,odoardo,20909,20914,meine,odoardo
 qd,kp19.0,20656,21414,odoardo,20935,20938,ich,odoardo
 qd,kp19.0,20656,21414,odoardo,21001,21004,Ich,odoardo
@@ -177,6 +223,7 @@ qd,kp19.0,21419,24087,der_prinz,21718,21722,mich,der_prinz
 qd,kp19.0,21419,24087,der_prinz,21732,21737,Meine,der_prinz
 qd,kp19.0,21419,24087,der_prinz,21748,21753,meine,der_prinz
 qd,kp19.0,21419,24087,der_prinz,21804,21807,Ich,der_prinz
+qd,kp19.0,21419,24087,der_prinz,21854,21861,Appiani,appiani
 qd,kp19.0,21419,24087,der_prinz,21885,21888,Ich,der_prinz
 qd,kp19.0,21419,24087,der_prinz,21893,21897,mein,der_prinz
 qd,kp19.0,21419,24087,der_prinz,21936,21939,mir,der_prinz
@@ -226,6 +273,7 @@ qd,kp19.0,24535,25233,der_prinz,24638,24642,mich,der_prinz
 qd,kp19.0,24535,25233,der_prinz,24658,24662,mich,der_prinz
 qd,kp19.0,24535,25233,der_prinz,24690,24695,meine,der_prinz
 qd,kp19.0,24535,25233,der_prinz,24745,24749,mein,der_prinz
+qd,kp19.0,24535,25233,der_prinz,25016,25023,Appiani,appiani
 qd,kp19.0,25238,25487,appiani,25253,25257,mein,appiani
 qd,kp19.0,25238,25487,appiani,25265,25269,mein,appiani
 qd,kp19.0,25238,25487,appiani,25373,25376,mir,appiani
@@ -265,6 +313,8 @@ qd,kp19.0,26870,33859,die_schauspielerinn,27502,27506,mein,die_schauspielerinn
 qd,kp19.0,26870,33859,die_schauspielerinn,27535,27538,Ich,die_schauspielerinn
 qd,kp19.0,26870,33859,die_schauspielerinn,27550,27553,mir,die_schauspielerinn
 qd,kp19.0,26870,33859,die_schauspielerinn,27559,27562,ich,die_schauspielerinn
+qd,kp19.0,26870,33859,die_schauspielerinn,27665,27672,Odoardo,odoardo
+qd,kp19.0,26870,33859,die_schauspielerinn,27764,27771,Appiani,appiani
 qd,kp19.0,26870,33859,die_schauspielerinn,27775,27781,meiner,die_schauspielerinn
 qd,kp19.0,26870,33859,die_schauspielerinn,27816,27819,mir,die_schauspielerinn
 qd,kp19.0,26870,33859,die_schauspielerinn,27835,27839,mich,die_schauspielerinn
@@ -309,6 +359,8 @@ qd,kp19.0,26870,33859,die_schauspielerinn,30363,30367,mich,die_schauspielerinn
 qd,kp19.0,26870,33859,die_schauspielerinn,30389,30394,meine,die_schauspielerinn
 qd,kp19.0,26870,33859,die_schauspielerinn,30586,30589,Ich,die_schauspielerinn
 qd,kp19.0,26870,33859,die_schauspielerinn,30799,30802,mir,die_schauspielerinn
+qd,kp19.0,26870,33859,die_schauspielerinn,30817,30824,Odoardo,odoardo
+qd,kp19.0,26870,33859,die_schauspielerinn,30981,30988,Odoardo,odoardo
 qd,kp19.0,26870,33859,die_schauspielerinn,31323,31328,meine,die_schauspielerinn
 qd,kp19.0,26870,33859,die_schauspielerinn,31862,31865,ich,die_schauspielerinn
 qd,kp19.0,26870,33859,die_schauspielerinn,32375,32378,Ich,die_schauspielerinn
@@ -319,3 +371,4 @@ qd,kp19.0,26870,33859,die_schauspielerinn,32764,32770,meinen,die_schauspielerinn
 qd,kp19.0,26870,33859,die_schauspielerinn,33030,33035,meine,die_schauspielerinn
 qd,kp19.0,26870,33859,die_schauspielerinn,33071,33074,ich,die_schauspielerinn
 qd,kp19.0,26870,33859,die_schauspielerinn,33118,33121,ich,die_schauspielerinn
+qd,kp19.0,26870,33859,die_schauspielerinn,33209,33216,Odoardo,odoardo

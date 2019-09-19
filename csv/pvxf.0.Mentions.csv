@@ -1,4 +1,5 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,pvxf.0,810,1015,_stage,998,1004,Diener,diener
 qd,pvxf.0,1018,1298,diener,1047,1051,mich,diener
 qd,pvxf.0,1018,1298,diener,1065,1068,ich,diener
 qd,pvxf.0,1018,1298,diener,1087,1090,ich,diener
@@ -9,10 +10,12 @@ qd,pvxf.0,1018,1298,diener,1234,1237,Ich,diener
 qd,pvxf.0,1386,1519,diener,1431,1435,mich,diener
 qd,pvxf.0,1386,1519,diener,1444,1447,Ich,diener
 qd,pvxf.0,1386,1519,diener,1481,1484,ich,diener
+qd,pvxf.0,1622,1677,_stage,1651,1657,Diener,diener
 qd,pvxf.0,1593,1735,diener,1690,1694,mich,diener
 qd,pvxf.0,1902,2517,repnín,1933,1936,mir,repnín
 qd,pvxf.0,1902,2517,repnín,2125,2129,mein,repnín
 qd,pvxf.0,1902,2517,repnín,2175,2178,mir,repnín
+qd,pvxf.0,2757,2793,_stage,2761,2767,Diener,diener
 qd,pvxf.0,3015,3177,galízin,3054,3057,Ich,galízin
 qd,pvxf.0,3015,3177,galízin,3165,3168,mir,galízin
 qd,pvxf.0,3183,3306,repnín,3192,3195,Mir,repnín
@@ -26,6 +29,7 @@ qd,pvxf.0,3872,3938,repnín,3917,3920,ich,repnín
 qd,pvxf.0,3974,4306,repnín,4021,4024,ich,repnín
 qd,pvxf.0,3974,4306,repnín,4027,4030,Ich,repnín
 qd,pvxf.0,3974,4306,repnín,4059,4062,ich,repnín
+qd,pvxf.0,3974,4306,repnín,4149,4155,Diener,diener
 qd,pvxf.0,4440,5142,galízin,4840,4843,ich,galízin
 qd,pvxf.0,5148,5474,repnín,5290,5293,ich,repnín
 qd,pvxf.0,5148,5474,repnín,5416,5419,ich,repnín
@@ -63,6 +67,8 @@ qd,pvxf.0,8759,8827,fiódor,8781,8784,Ich,fiódor
 qd,pvxf.0,8833,8924,ksénja,8846,8849,ich,ksénja
 qd,pvxf.0,8929,8953,fiódor,8937,8940,Ich,fiódor
 qd,pvxf.0,9013,9342,ksénja,9030,9034,mich,ksénja
+qd,pvxf.0,9070,9200,_stage,9156,9161,Maria,maria
+qd,pvxf.0,9070,9200,_stage,9177,9186,Christian,christian
 qd,pvxf.0,9551,9604,christian,9570,9573,ich,christian
 qd,pvxf.0,9609,10239,borís,9711,9714,ich,borís
 qd,pvxf.0,9609,10239,borís,9736,9739,Ich,borís
@@ -73,6 +79,7 @@ qd,pvxf.0,9609,10239,borís,10219,10222,mir,borís
 qd,pvxf.0,10275,10356,borís,10352,10355,mir,borís
 qd,pvxf.0,10363,10438,ksénja,10381,10384,ich,ksénja
 qd,pvxf.0,10702,10922,fiódor,10711,10714,Ich,fiódor
+qd,pvxf.0,10850,10922,_stage,10893,10902,Christian,christian
 qd,pvxf.0,10927,10976,christian,10939,10942,Ich,christian
 qd,pvxf.0,11023,11212,christian,11072,11075,ich,christian
 qd,pvxf.0,11023,11212,christian,11128,11132,Mich,christian
@@ -82,7 +89,9 @@ qd,pvxf.0,11306,11458,ksénja,11429,11432,Ich,ksénja
 qd,pvxf.0,11532,11588,ksénja,11556,11559,Ich,ksénja
 qd,pvxf.0,11594,11761,borís,11644,11647,mir,borís
 qd,pvxf.0,11594,11761,borís,11670,11673,Ich,borís
+qd,pvxf.0,11594,11761,borís,11694,11700,Diener,diener
 qd,pvxf.0,11594,11761,borís,11707,11710,ich,borís
+qd,pvxf.0,11726,11761,_stage,11745,11754,Christian,christian
 qd,pvxf.0,11766,12532,borís,11790,11793,Ich,borís
 qd,pvxf.0,11766,12532,borís,11810,11813,mir,borís
 qd,pvxf.0,11766,12532,borís,11882,11885,ich,borís
@@ -107,12 +116,16 @@ qd,pvxf.0,13176,13596,borís,13344,13347,ich,borís
 qd,pvxf.0,13176,13596,borís,13363,13367,mich,borís
 qd,pvxf.0,13176,13596,borís,13428,13431,mir,borís
 qd,pvxf.0,13176,13596,borís,13460,13463,ich,borís
+qd,pvxf.0,13475,13596,_stage,13513,13519,Diener,diener
+qd,pvxf.0,13665,13691,_stage,13669,13675,Diener,diener
 qd,pvxf.0,13949,14088,borís,13976,13979,Ich,borís
 qd,pvxf.0,13949,14088,borís,14003,14007,mich,borís
 qd,pvxf.0,14094,14112,repnín,14102,14105,Ich,repnín
 qd,pvxf.0,14117,14142,borís,14128,14131,mir,borís
+qd,pvxf.0,14147,14359,repnín,14201,14207,Diener,diener
 qd,pvxf.0,14147,14359,repnín,14227,14230,ich,repnín
 qd,pvxf.0,14147,14359,repnín,14249,14252,ich,repnín
+qd,pvxf.0,14365,14383,borís,14376,14382,Diener,diener
 qd,pvxf.0,14388,14559,repnín,14447,14450,ich,repnín
 qd,pvxf.0,14565,14797,borís,14652,14655,mir,borís
 qd,pvxf.0,14565,14797,borís,14782,14786,mich,borís
@@ -126,6 +139,7 @@ qd,pvxf.0,14970,15009,borís,14978,14981,Ich,borís
 qd,pvxf.0,15069,15102,borís,15097,15101,mich,borís
 qd,pvxf.0,15181,15386,borís,15213,15217,Mich,borís
 qd,pvxf.0,15181,15386,borís,15372,15376,mich,borís
+qd,pvxf.0,15391,15451,repnín,15413,15418,BORÍS,borís
 qd,pvxf.0,15457,15629,repnín,15485,15488,mir,repnín
 qd,pvxf.0,15709,16611,borís,15799,15805,meinem,borís
 qd,pvxf.0,15709,16611,borís,15816,15819,ich,borís
@@ -136,6 +150,7 @@ qd,pvxf.0,15709,16611,borís,16172,16175,ich,borís
 qd,pvxf.0,15709,16611,borís,16208,16211,mir,borís
 qd,pvxf.0,15709,16611,borís,16233,16236,ich,borís
 qd,pvxf.0,15709,16611,borís,16296,16301,meine,borís
+qd,pvxf.0,15709,16611,borís,16311,16317,Diener,diener
 qd,pvxf.0,15709,16611,borís,16382,16386,mein,borís
 qd,pvxf.0,16617,16668,repnín,16649,16652,Ich,repnín
 qd,pvxf.0,16674,16927,borís,16753,16756,ich,borís
@@ -145,6 +160,7 @@ qd,pvxf.0,16963,17129,borís,16991,16994,Ich,borís
 qd,pvxf.0,16963,17129,borís,17070,17073,mir,borís
 qd,pvxf.0,16963,17129,borís,17107,17110,ich,borís
 qd,pvxf.0,17165,17211,borís,17184,17187,Ich,borís
+qd,pvxf.0,17216,17460,maria,17392,17396,Arzt,arzt
 qd,pvxf.0,17465,17525,borís,17480,17483,ich,borís
 qd,pvxf.0,17531,17558,maria,17543,17546,ich,maria
 qd,pvxf.0,17563,18229,borís,17904,17908,mein,borís
@@ -161,6 +177,7 @@ qd,pvxf.0,18372,18499,borís,18444,18447,mir,borís
 qd,pvxf.0,18505,18552,repnín,18531,18535,mein,repnín
 qd,pvxf.0,18559,18699,borís,18645,18648,ich,borís
 qd,pvxf.0,18559,18699,borís,18680,18686,meiner,borís
+qd,pvxf.0,18730,18776,_stage,18740,18745,Maria,maria
 qd,pvxf.0,18866,18918,borís,18899,18902,ich,borís
 qd,pvxf.0,19155,19185,maria,19181,19184,mir,maria
 qd,pvxf.0,19190,20040,borís,19242,19245,Ich,borís
@@ -171,6 +188,7 @@ qd,pvxf.0,19190,20040,borís,19581,19584,ich,borís
 qd,pvxf.0,19190,20040,borís,19782,19785,ich,borís
 qd,pvxf.0,19190,20040,borís,19869,19872,ich,borís
 qd,pvxf.0,19190,20040,borís,19879,19882,mir,borís
+qd,pvxf.0,20149,20387,_stage,20345,20354,Christian,christian
 qd,pvxf.0,20441,20610,borís,20453,20457,mein,borís
 qd,pvxf.0,20659,20811,borís,20667,20670,Ich,borís
 qd,pvxf.0,20817,20856,ksénja,20839,20842,mir,ksénja
@@ -178,7 +196,9 @@ qd,pvxf.0,20972,21121,ksénja,21000,21003,ich,ksénja
 qd,pvxf.0,20972,21121,ksénja,21041,21044,Ich,ksénja
 qd,pvxf.0,21126,21381,borís,21179,21182,ich,borís
 qd,pvxf.0,21126,21381,borís,21251,21255,mein,borís
+qd,pvxf.0,21293,21381,_stage,21348,21355,Stimmen,geschrei_in_der_menge
 qd,pvxf.0,21386,21594,borís,21443,21447,mein,borís
+qd,pvxf.0,21456,21594,_stage,21527,21533,Simeon,simeon
 qd,pvxf.0,21599,21628,simeon,21615,21618,mir,simeon
 qd,pvxf.0,21670,21728,simeon,21702,21705,ich,simeon
 qd,pvxf.0,21909,22000,borís,21936,21939,Ich,borís
@@ -188,14 +208,21 @@ qd,pvxf.0,22277,22313,borís,22289,22294,meine,borís
 qd,pvxf.0,22318,22378,simeon,22327,22330,Ich,simeon
 qd,pvxf.0,22384,22404,borís,22400,22403,mir,borís
 qd,pvxf.0,22954,23139,borís,23000,23003,ich,borís
+qd,pvxf.0,23467,23669,borís,23481,23489,Schuiski,schuiski
+qd,pvxf.0,23572,23669,_stage,23576,23580,Bote,der_bote
+qd,pvxf.0,23572,23669,_stage,23642,23648,Diener,diener
 qd,pvxf.0,24147,24448,borís,24158,24161,mir,borís
 qd,pvxf.0,24147,24448,borís,24209,24212,ich,borís
 qd,pvxf.0,24147,24448,borís,24252,24256,Mein,borís
+qd,pvxf.0,24612,24653,_stage,24643,24652,die Menge,geschrei_in_der_menge
 qd,pvxf.0,24692,24750,repnín,24736,24740,mich,repnín
 qd,pvxf.0,24913,24990,borís,24925,24928,mir,borís
+qd,pvxf.0,24955,24990,_stage,24959,24963,Bote,der_bote
 qd,pvxf.0,25511,25611,ksénia,25574,25577,ich,ksénia
 qd,pvxf.0,25511,25611,ksénia,25590,25593,ich,ksénia
+qd,pvxf.0,25687,25722,_stage,25691,25695,Arzt,arzt
 qd,pvxf.0,25646,26349,ksénia,25724,25727,Ich,ksénia
+qd,pvxf.0,25749,25772,_stage,25753,25757,Arzt,arzt
 qd,pvxf.0,25646,26349,ksénia,25785,25788,ich,ksénia
 qd,pvxf.0,25646,26349,ksénia,25809,25812,ich,ksénia
 qd,pvxf.0,25646,26349,ksénia,25832,25838,meinem,ksénia
@@ -219,6 +246,8 @@ qd,pvxf.0,27167,27805,arzt,27174,27177,Ich,arzt
 qd,pvxf.0,27167,27805,arzt,27192,27195,Ich,arzt
 qd,pvxf.0,27167,27805,arzt,27270,27274,mich,arzt
 qd,pvxf.0,27167,27805,arzt,27395,27398,ich,arzt
+qd,pvxf.0,27486,27805,_stage,27646,27652,Simeon,simeon
+qd,pvxf.0,27486,27805,_stage,27685,27693,Schuiski,schuiski
 qd,pvxf.0,27811,28084,borís,27864,27867,mir,borís
 qd,pvxf.0,27811,28084,borís,27909,27912,ich,borís
 qd,pvxf.0,27811,28084,borís,28025,28028,ich,borís
@@ -228,9 +257,12 @@ qd,pvxf.0,28387,28457,schuiski,28398,28401,Ich,schuiski
 qd,pvxf.0,28387,28457,schuiski,28431,28434,ich,schuiski
 qd,pvxf.0,28463,28610,borís,28543,28546,Ich,borís
 qd,pvxf.0,28463,28610,borís,28571,28574,mir,borís
+qd,pvxf.0,28616,28713,schuiski,28640,28645,einer,einer
 qd,pvxf.0,28616,28713,schuiski,28652,28655,mir,schuiski
 qd,pvxf.0,28719,29454,borís,28727,28730,Ich,borís
+qd,pvxf.0,28719,29454,borís,28803,28811,Schuiski,schuiski
 qd,pvxf.0,28719,29454,borís,28813,28819,meinen,borís
+qd,pvxf.0,28719,29454,borís,28820,28826,Diener,diener
 qd,pvxf.0,28719,29454,borís,28833,28836,ich,borís
 qd,pvxf.0,28719,29454,borís,28859,28865,meinem,borís
 qd,pvxf.0,28719,29454,borís,29101,29105,mein,borís
@@ -241,11 +273,16 @@ qd,pvxf.0,30151,30563,borís,30264,30268,mich,borís
 qd,pvxf.0,30151,30563,borís,30281,30284,ich,borís
 qd,pvxf.0,30151,30563,borís,30320,30323,ich,borís
 qd,pvxf.0,30151,30563,borís,30380,30383,ich,borís
+qd,pvxf.0,30151,30563,borís,30421,30426,einer,einer
 qd,pvxf.0,30629,30724,borís,30637,30640,Ich,borís
+qd,pvxf.0,30950,31002,_stage,30960,30965,Maria,maria
 qd,pvxf.0,31310,31411,schuiski,31361,31364,Ich,schuiski
 qd,pvxf.0,31417,31662,borís,31540,31545,meine,borís
 qd,pvxf.0,31417,31662,borís,31591,31594,ich,borís
+qd,pvxf.0,31694,31753,_stage,31746,31752,Simeon,simeon
 qd,pvxf.0,31668,31910,schuiski,31789,31792,ich,schuiski
+qd,pvxf.0,31842,31889,_stage,31861,31869,Schuiski,schuiski
+qd,pvxf.0,31842,31889,_stage,31874,31880,Simeon,simeon
 qd,pvxf.0,31668,31910,schuiski,31906,31909,mir,schuiski
 qd,pvxf.0,31915,32027,maria,31923,31927,Mein,maria
 qd,pvxf.0,32033,32109,borís,32056,32062,meinem,borís
@@ -326,6 +363,7 @@ qd,pvxf.0,39814,39875,galízin,39830,39834,mein,galízin
 qd,pvxf.0,39814,39875,galízin,39859,39862,Ich,galízin
 qd,pvxf.0,40286,40363,borís,40299,40303,mich,borís
 qd,pvxf.0,40286,40363,borís,40327,40330,mir,borís
+qd,pvxf.0,40492,40558,fiódor,40521,40530,Christian,christian
 qd,pvxf.0,40492,40558,fiódor,40536,40539,ich,fiódor
 qd,pvxf.0,40564,40613,borís,40605,40608,mir,borís
 qd,pvxf.0,40676,40872,borís,40684,40687,Ich,borís
@@ -348,6 +386,7 @@ qd,pvxf.0,41630,41859,borís,41730,41733,ich,borís
 qd,pvxf.0,41865,41951,fiódor,41891,41894,mir,fiódor
 qd,pvxf.0,41865,41951,fiódor,41906,41911,meine,fiódor
 qd,pvxf.0,41865,41951,fiódor,41919,41922,Ich,fiódor
+qd,pvxf.0,41995,42068,fiódor,42010,42018,Schuiski,schuiski
 qd,pvxf.0,42074,42132,borís,42096,42099,mir,borís
 qd,pvxf.0,42074,42132,borís,42117,42120,mir,borís
 qd,pvxf.0,42138,42166,fiódor,42152,42155,mir,fiódor
@@ -367,6 +406,7 @@ qd,pvxf.0,42573,43549,borís,42755,42758,mir,borís
 qd,pvxf.0,42573,43549,borís,42772,42775,ich,borís
 qd,pvxf.0,42573,43549,borís,42789,42792,mir,borís
 qd,pvxf.0,42573,43549,borís,42794,42799,meine,borís
+qd,pvxf.0,42573,43549,borís,42800,42806,Diener,diener
 qd,pvxf.0,42573,43549,borís,42818,42822,mich,borís
 qd,pvxf.0,42573,43549,borís,42876,42879,ich,borís
 qd,pvxf.0,42573,43549,borís,42892,42895,mir,borís
@@ -380,14 +420,17 @@ qd,pvxf.0,42573,43549,borís,43230,43233,ich,borís
 qd,pvxf.0,42573,43549,borís,43262,43265,ich,borís
 qd,pvxf.0,43637,43686,borís,43681,43684,mir,borís
 qd,pvxf.0,43691,43785,fiódor,43769,43772,Ich,fiódor
+qd,pvxf.0,43910,44117,_stage,43982,43990,Schuiski,schuiski
 qd,pvxf.0,44202,44345,schuiski,44224,44227,Ich,schuiski
 qd,pvxf.0,44351,44409,ksénja,44360,44364,Mich,ksénja
 qd,pvxf.0,44415,44445,maria,44434,44438,mein,maria
 qd,pvxf.0,44450,44480,ksénja,44466,44469,ich,ksénja
 qd,pvxf.0,44485,44685,maria,44511,44514,Ich,maria
 qd,pvxf.0,44485,44685,maria,44548,44551,mir,maria
+qd,pvxf.0,44485,44685,maria,44588,44597,Christian,christian
 qd,pvxf.0,45127,45260,maria,45142,45146,Mein,maria
 qd,pvxf.0,45127,45260,maria,45177,45180,ich,maria
+qd,pvxf.0,45292,45311,_stage,45292,45300,Schuiski,schuiski
 qd,pvxf.0,45316,45399,ksénja,45359,45363,mich,ksénja
 qd,pvxf.0,45316,45399,ksénja,45377,45381,Mich,ksénja
 qd,pvxf.0,45743,46089,ksénja,45752,45755,Ich,ksénja
@@ -395,7 +438,9 @@ qd,pvxf.0,45743,46089,ksénja,45781,45784,ich,ksénja
 qd,pvxf.0,45743,46089,ksénja,45805,45808,ich,ksénja
 qd,pvxf.0,45743,46089,ksénja,45850,45853,mir,ksénja
 qd,pvxf.0,45743,46089,ksénja,45898,45901,mir,ksénja
+qd,pvxf.0,45743,46089,ksénja,45914,45923,Christian,christian
 qd,pvxf.0,45743,46089,ksénja,45931,45935,Mich,ksénja
+qd,pvxf.0,45743,46089,ksénja,46006,46015,Christian,christian
 qd,pvxf.0,45743,46089,ksénja,46032,46035,mir,ksénja
 qd,pvxf.0,45743,46089,ksénja,46060,46063,mir,ksénja
 qd,pvxf.0,46120,46599,ksénja,46181,46185,mich,ksénja
@@ -415,6 +460,9 @@ qd,pvxf.0,46847,46993,ksénja,46924,46927,Ich,ksénja
 qd,pvxf.0,46847,46993,ksénja,46969,46973,mich,ksénja
 qd,pvxf.0,47024,47108,ksénja,47066,47070,mich,ksénja
 qd,pvxf.0,47114,47266,maria,47121,47124,Ich,maria
+qd,pvxf.0,47146,47266,_stage,47178,47186,Schuiski,schuiski
+qd,pvxf.0,47146,47266,_stage,47249,47255,Diener,diener
+qd,pvxf.0,47304,47409,schuiski,47367,47373,Diener,diener
 qd,pvxf.0,47415,47539,ksénja,47447,47450,ich,ksénja
 qd,pvxf.0,47415,47539,ksénja,47522,47525,Ich,ksénja
 qd,pvxf.0,47676,47759,iljá,47694,47697,ich,iljá
@@ -426,6 +474,7 @@ qd,pvxf.0,47922,48574,iljá,48113,48116,ich,iljá
 qd,pvxf.0,48655,49348,iljá,48710,48713,Ich,iljá
 qd,pvxf.0,49354,49801,schuiski,49365,49368,Ich,schuiski
 qd,pvxf.0,49354,49801,schuiski,49604,49607,Ich,schuiski
+qd,pvxf.0,49623,49801,_stage,49623,49631,Schuiski,schuiski
 qd,pvxf.0,49834,49945,iljá,49934,49937,ich,iljá
 qd,pvxf.0,50005,50040,iljá,50011,50014,Ich,iljá
 qd,pvxf.0,50045,50144,borís,50091,50094,mir,borís
@@ -437,8 +486,10 @@ qd,pvxf.0,50425,50572,iljá,50454,50457,ich,iljá
 qd,pvxf.0,50579,50662,borís,50620,50623,ich,borís
 qd,pvxf.0,50579,50662,borís,50642,50646,mich,borís
 qd,pvxf.0,51437,52109,borís,51580,51583,ich,borís
+qd,pvxf.0,51437,52109,borís,52007,52014,Stimmen,geschrei_in_der_menge
 qd,pvxf.0,52150,52227,borís,52202,52205,mir,borís
 qd,pvxf.0,52233,52350,iljá,52240,52243,Ich,iljá
+qd,pvxf.0,52356,52698,borís,52430,52436,Diener,diener
 qd,pvxf.0,52356,52698,borís,52634,52638,mein,borís
 qd,pvxf.0,52756,53278,borís,52798,52801,ich,borís
 qd,pvxf.0,52756,53278,borís,52850,52853,ich,borís
@@ -446,6 +497,7 @@ qd,pvxf.0,52756,53278,borís,53098,53101,mir,borís
 qd,pvxf.0,53358,53427,borís,53366,53369,Ich,borís
 qd,pvxf.0,53769,54134,borís,53815,53818,ich,borís
 qd,pvxf.0,53769,54134,borís,53833,53836,mir,borís
+qd,pvxf.0,53769,54134,borís,53892,53896,Arzt,arzt
 qd,pvxf.0,53769,54134,borís,53956,53959,Ich,borís
 qd,pvxf.0,54139,56589,borís,54169,54172,mir,borís
 qd,pvxf.0,54139,56589,borís,54259,54265,meinem,borís
@@ -453,6 +505,7 @@ qd,pvxf.0,54139,56589,borís,54310,54313,ich,borís
 qd,pvxf.0,54139,56589,borís,54330,54333,mir,borís
 qd,pvxf.0,54139,56589,borís,54346,54349,ich,borís
 qd,pvxf.0,54139,56589,borís,54569,54572,ich,borís
+qd,pvxf.0,54139,56589,borís,54899,54908,die Menge,geschrei_in_der_menge
 qd,pvxf.0,54139,56589,borís,55029,55035,meinen,borís
 qd,pvxf.0,54139,56589,borís,55202,55205,ich,borís
 qd,pvxf.0,54139,56589,borís,55213,55217,Mein,borís
@@ -502,12 +555,17 @@ qd,pvxf.0,57840,57957,borís,57946,57949,mir,borís
 qd,pvxf.0,57963,58280,ksénja,57996,57999,Ich,ksénja
 qd,pvxf.0,57963,58280,ksénja,58018,58021,ich,ksénja
 qd,pvxf.0,57963,58280,ksénja,58047,58050,ich,ksénja
+qd,pvxf.0,58285,58599,borís,58425,58432,Stimmen,geschrei_in_der_menge
+qd,pvxf.0,58790,58856,die_stimme,58810,58816,Diener,diener
 qd,pvxf.0,58790,58856,die_stimme,58822,58825,ich,die_stimme
 qd,pvxf.0,58914,58975,iljá,58931,58935,mich,iljá
 qd,pvxf.0,58914,58975,iljá,58952,58955,Ich,iljá
+qd,pvxf.0,58981,59132,borís,59080,59087,Stimmen,geschrei_in_der_menge
 qd,pvxf.0,59291,59324,iljá,59297,59300,Ich,iljá
 qd,pvxf.0,59329,59377,borís,59354,59357,Mir,borís
+qd,pvxf.0,59437,59486,_stage,59437,59443,Simeon,simeon
 qd,pvxf.0,59840,59893,borís,59856,59859,ich,borís
+qd,pvxf.0,59899,60160,simeon,60105,60113,Schuiski,schuiski
 qd,pvxf.0,60166,60198,borís,60180,60183,ich,borís
 qd,pvxf.0,60203,60306,simeon,60216,60219,mir,simeon
 qd,pvxf.0,60203,60306,simeon,60229,60232,Ich,simeon
@@ -534,8 +592,10 @@ qd,pvxf.0,61280,62188,borís,62016,62019,ich,borís
 qd,pvxf.0,61280,62188,borís,62067,62070,ich,borís
 qd,pvxf.0,61280,62188,borís,62104,62107,ich,borís
 qd,pvxf.0,61280,62188,borís,62145,62148,mir,borís
+qd,pvxf.0,62229,62642,_stage,62508,62516,Der Irre,der_irre
 qd,pvxf.0,62952,63068,der_irre,62989,62992,ich,der_irre
 qd,pvxf.0,63134,63239,geschrei_in_der_menge,63146,63149,Ich,geschrei_in_der_menge
+qd,pvxf.0,63134,63239,geschrei_in_der_menge,63207,63215,der Irre,der_irre
 qd,pvxf.0,63134,63239,geschrei_in_der_menge,63217,63220,ich,geschrei_in_der_menge
 qd,pvxf.0,63331,63484,der_irre,63346,63349,ich,der_irre
 qd,pvxf.0,63331,63484,der_irre,63368,63371,mir,der_irre
@@ -543,11 +603,13 @@ qd,pvxf.0,63331,63484,der_irre,63376,63382,meiner,der_irre
 qd,pvxf.0,63490,63528,geschrei_in_der_menge,63501,63504,Ich,geschrei_in_der_menge
 qd,pvxf.0,64347,64587,der_weissbart,64386,64389,Ich,der_weissbart
 qd,pvxf.0,64347,64587,der_weissbart,64405,64411,meinem,der_weissbart
+qd,pvxf.0,65167,65364,_stage,65297,65312,Der Schwarzbart,der_schwarzbart
 qd,pvxf.0,65485,65580,geschrei_in_der_menge,65525,65528,ich,geschrei_in_der_menge
 qd,pvxf.0,65586,65608,borís,65593,65596,Ich,borís
 qd,pvxf.0,65672,65776,geschrei_in_der_menge,65702,65705,ich,geschrei_in_der_menge
 qd,pvxf.0,65783,66034,borís,65817,65820,Ich,borís
 qd,pvxf.0,65783,66034,borís,65862,65865,mir,borís
+qd,pvxf.0,65887,66034,_stage,65962,65970,Der Irre,der_irre
 qd,pvxf.0,66039,66092,der_irre,66065,66068,ich,der_irre
 qd,pvxf.0,66097,66148,borís,66139,66142,mir,borís
 qd,pvxf.0,66153,66238,geschrei_in_der_menge,66189,66192,Ich,geschrei_in_der_menge
@@ -556,7 +618,9 @@ qd,pvxf.0,66268,66407,der_irre,66324,66327,ich,der_irre
 qd,pvxf.0,66462,66726,borís,66559,66562,Ich,borís
 qd,pvxf.0,66462,66726,borís,66591,66595,mich,borís
 qd,pvxf.0,66462,66726,borís,66628,66631,mir,borís
+qd,pvxf.0,66636,66655,_stage,66636,66645,Die Menge,geschrei_in_der_menge
 qd,pvxf.0,66793,66870,borís,66827,66832,Meine,borís
+qd,pvxf.0,66950,67009,_stage,66989,67004,der Schwarzbart,der_schwarzbart
 qd,pvxf.0,67339,67428,borís,67353,67356,ich,borís
 qd,pvxf.0,68093,69221,der_rotbart,68962,68965,Ich,der_rotbart
 qd,pvxf.0,69606,69922,borís,69620,69623,ich,borís
@@ -572,7 +636,9 @@ qd,pvxf.0,70180,71058,borís,70252,70258,meinem,borís
 qd,pvxf.0,70180,71058,borís,70384,70390,meiner,borís
 qd,pvxf.0,70180,71058,borís,70430,70434,mich,borís
 qd,pvxf.0,70180,71058,borís,70456,70462,meiner,borís
+qd,pvxf.0,70180,71058,borís,70463,70469,Diener,diener
 qd,pvxf.0,70180,71058,borís,70651,70654,Mir,borís
+qd,pvxf.0,70180,71058,borís,70740,70745,einer,einer
 qd,pvxf.0,70180,71058,borís,70786,70790,mich,borís
 qd,pvxf.0,70180,71058,borís,70816,70819,mir,borís
 qd,pvxf.0,70180,71058,borís,70896,70900,mich,borís
@@ -582,9 +648,13 @@ qd,pvxf.0,71311,71440,borís,71346,71349,ich,borís
 qd,pvxf.0,71504,71545,geschrei_in_der_menge,71513,71516,Ich,geschrei_in_der_menge
 qd,pvxf.0,71504,71545,geschrei_in_der_menge,71524,71527,ich,geschrei_in_der_menge
 qd,pvxf.0,71504,71545,geschrei_in_der_menge,71535,71538,ich,geschrei_in_der_menge
+qd,pvxf.0,71724,71838,_stage,71754,71763,die Menge,geschrei_in_der_menge
+qd,pvxf.0,72030,72165,_stage,72030,72039,Die Menge,geschrei_in_der_menge
+qd,pvxf.0,72030,72165,_stage,72083,72091,Der Irre,der_irre
 qd,pvxf.0,72170,72330,der_irre,72225,72228,Ich,der_irre
 qd,pvxf.0,72561,72666,borís,72600,72603,mir,borís
 qd,pvxf.0,72672,72882,der_irre,72720,72724,mich,der_irre
+qd,pvxf.0,72923,73290,_stage,73179,73187,der Irre,der_irre
 qd,pvxf.0,73293,73345,borís,73336,73339,ich,borís
 qd,pvxf.0,73481,73659,borís,73517,73520,mir,borís
 qd,pvxf.0,73481,73659,borís,73535,73540,meine,borís
@@ -593,6 +663,7 @@ qd,pvxf.0,73761,73808,borís,73773,73776,ich,borís
 qd,pvxf.0,73761,73808,borís,73792,73795,ich,borís
 qd,pvxf.0,73864,74080,borís,73901,73905,mich,borís
 qd,pvxf.0,73864,74080,borís,73944,73947,mir,borís
+qd,pvxf.0,73864,74080,borís,73970,73980,die Stimme,die_stimme
 qd,pvxf.0,73864,74080,borís,74036,74039,Ich,borís
 qd,pvxf.0,74184,74364,der_irre,74195,74198,Ich,der_irre
 qd,pvxf.0,74184,74364,der_irre,74212,74215,Ich,der_irre
@@ -607,6 +678,8 @@ qd,pvxf.0,75130,75556,borís,75360,75363,ich,borís
 qd,pvxf.0,75130,75556,borís,75383,75386,ich,borís
 qd,pvxf.0,75130,75556,borís,75391,75397,meiner,borís
 qd,pvxf.0,75706,76127,borís,75714,75717,Ich,borís
+qd,pvxf.0,75706,76127,borís,75987,75993,Diener,diener
+qd,pvxf.0,76046,76127,_stage,76046,76054,Der Irre,der_irre
 qd,pvxf.0,76262,77083,borís,76280,76283,ich,borís
 qd,pvxf.0,76262,77083,borís,76372,76375,Ich,borís
 qd,pvxf.0,76262,77083,borís,76404,76407,ich,borís
@@ -635,6 +708,7 @@ qd,pvxf.0,77964,78168,ksénja,78015,78018,ich,ksénja
 qd,pvxf.0,77964,78168,ksénja,78039,78042,ich,ksénja
 qd,pvxf.0,77964,78168,ksénja,78092,78095,ich,ksénja
 qd,pvxf.0,77964,78168,ksénja,78116,78119,ich,ksénja
+qd,pvxf.0,78214,78284,borís,78262,78268,Diener,diener
 qd,pvxf.0,78214,78284,borís,78269,78273,mich,borís
 qd,pvxf.0,78361,78378,ksénja,78369,78372,Ich,ksénja
 qd,pvxf.0,78383,78443,borís,78417,78420,mir,borís
@@ -657,11 +731,15 @@ qd,pvxf.0,78727,79538,ksénja,79342,79345,ich,ksénja
 qd,pvxf.0,78727,79538,ksénja,79361,79364,mir,ksénja
 qd,pvxf.0,78727,79538,ksénja,79461,79464,ich,ksénja
 qd,pvxf.0,78727,79538,ksénja,79496,79499,ich,ksénja
+qd,pvxf.0,79544,79678,borís,79605,79613,der Bote,der_bote
+qd,pvxf.0,79544,79678,borís,79609,79613,Bote,der_bote
 qd,pvxf.0,79544,79678,borís,79656,79659,ich,borís
 qd,pvxf.0,79722,79841,borís,79749,79752,Ich,borís
 qd,pvxf.0,79722,79841,borís,79806,79810,mein,borís
 qd,pvxf.0,79722,79841,borís,79821,79824,ich,borís
 qd,pvxf.0,79847,79930,ksénja,79892,79896,mich,ksénja
+qd,pvxf.0,79847,79930,ksénja,79909,79913,Arzt,arzt
+qd,pvxf.0,79936,80131,borís,79952,79956,Arzt,arzt
 qd,pvxf.0,79936,80131,borís,79995,79998,mir,borís
 qd,pvxf.0,79936,80131,borís,80011,80014,ich,borís
 qd,pvxf.0,79936,80131,borís,80038,80041,ich,borís
@@ -682,7 +760,10 @@ qd,pvxf.0,81299,81906,borís,81683,81686,ich,borís
 qd,pvxf.0,81299,81906,borís,81694,81699,meine,borís
 qd,pvxf.0,81299,81906,borís,81757,81760,mir,borís
 qd,pvxf.0,81299,81906,borís,81778,81781,ich,borís
+qd,pvxf.0,82048,82093,_stage,82048,82056,Der Irre,der_irre
+qd,pvxf.0,82142,82337,der_irre,82329,82336,Stimmen,geschrei_in_der_menge
 qd,pvxf.0,82343,82679,borís,82411,82414,mir,borís
 qd,pvxf.0,82343,82679,borís,82420,82423,ich,borís
 qd,pvxf.0,82343,82679,borís,82444,82449,meine,borís
 qd,pvxf.0,82343,82679,borís,82484,82490,meiner,borís
+qd,pvxf.0,82570,82679,_stage,82670,82678,der Irre,der_irre

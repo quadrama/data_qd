@@ -1,5 +1,5 @@
 corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
-qd,tg37.0,1295,1324,_Stage,_Stage,Ghismonde,NN,ghismonde,8223,,
+qd,tg37.0,1295,1324,_Stage,_Stage,Ghismonde,NN,ghismonde,8223,,(2)
 qd,tg37.0,1295,1324,_Stage,_Stage,",","$,",--,8223,,
 qd,tg37.0,1295,1324,_Stage,_Stage,Nonnen,NN,nonne,8223,,
 qd,tg37.0,1295,1324,_Stage,_Stage,",","$,",--,8223,,

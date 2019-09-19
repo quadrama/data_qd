@@ -1,5 +1,8 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,pk02.0,806,1264,rita,1213,1218,Berta,berta
+qd,pk02.0,806,1264,rita,1220,1225,Berta,berta
 qd,pk02.0,1485,1867,rita,1545,1548,mir,rita
+qd,pk02.0,1485,1867,rita,1550,1555,Berta,berta
 qd,pk02.0,1485,1867,rita,1615,1618,Ich,rita
 qd,pk02.0,1485,1867,rita,1656,1661,meine,rita
 qd,pk02.0,1485,1867,rita,1698,1701,ich,rita
@@ -8,17 +11,24 @@ qd,pk02.0,2049,2293,rita,2105,2108,mir,rita
 qd,pk02.0,2364,2400,rita,2379,2382,ich,rita
 qd,pk02.0,2364,2400,rita,2383,2388,meine,rita
 qd,pk02.0,2432,2486,rita,2460,2463,mir,rita
+qd,pk02.0,2537,2727,rita,2681,2686,Berta,berta
 qd,pk02.0,2877,3046,rita,2904,2908,mich,rita
 qd,pk02.0,3052,3234,berta,3151,3155,mich,berta
 qd,pk02.0,3052,3234,berta,3205,3208,Ich,berta
+qd,pk02.0,3245,3300,_stage,3270,3275,Berta,berta
+qd,pk02.0,3488,3716,rita,3646,3651,Berta,berta
 qd,pk02.0,3488,3716,rita,3664,3667,mir,rita
+qd,pk02.0,3923,4092,_stage,4053,4058,Berta,berta
 qd,pk02.0,4152,4360,friedrich,4205,4208,ich,friedrich
 qd,pk02.0,4366,4508,berta,4407,4410,ich,berta
 qd,pk02.0,4366,4508,berta,4463,4466,ich,berta
 qd,pk02.0,4670,4800,friedrich,4686,4689,ich,friedrich
 qd,pk02.0,4670,4800,friedrich,4696,4699,ich,friedrich
 qd,pk02.0,5127,5183,rita,5170,5173,mir,rita
+qd,pk02.0,5303,5438,rita,5364,5373,Friedrich,friedrich
 qd,pk02.0,5303,5438,rita,5421,5424,Ich,rita
+qd,pk02.0,5450,5516,_stage,5475,5484,Friedrich,friedrich
+qd,pk02.0,5572,5657,_stage,5633,5642,Friedrich,friedrich
 qd,pk02.0,5965,6018,friedrich,6003,6007,mich,friedrich
 qd,pk02.0,6023,6168,rita,6065,6069,mich,rita
 qd,pk02.0,6173,6352,friedrich,6254,6257,Ich,friedrich
@@ -26,6 +36,7 @@ qd,pk02.0,6357,6565,rita,6404,6407,mir,rita
 qd,pk02.0,6357,6565,rita,6554,6557,mir,rita
 qd,pk02.0,6570,6631,friedrich,6611,6614,ich,friedrich
 qd,pk02.0,6636,6696,rita,6663,6666,ich,rita
+qd,pk02.0,6636,6696,rita,6684,6688,Rita,rita
 qd,pk02.0,6701,6970,friedrich,6713,6716,Ich,friedrich
 qd,pk02.0,6701,6970,friedrich,6774,6777,mir,friedrich
 qd,pk02.0,6701,6970,friedrich,6827,6831,mich,friedrich
@@ -53,6 +64,9 @@ qd,pk02.0,8798,8946,rita,8872,8875,mir,rita
 qd,pk02.0,8951,9017,friedrich,8982,8985,Ich,friedrich
 qd,pk02.0,9022,9157,rita,9037,9040,ich,rita
 qd,pk02.0,9022,9157,rita,9041,9044,mir,rita
+qd,pk02.0,9022,9157,rita,9067,9072,Berta,berta
+qd,pk02.0,9022,9157,rita,9074,9079,Berta,berta
+qd,pk02.0,9221,9287,rita,9228,9233,Berta,berta
 qd,pk02.0,9221,9287,rita,9257,9260,ich,rita
 qd,pk02.0,9335,9398,rita,9384,9387,Ich,rita
 qd,pk02.0,9502,9948,rita,9576,9579,ich,rita
@@ -177,6 +191,8 @@ qd,pk02.0,20055,20206,rita,20070,20073,Ich,rita
 qd,pk02.0,20055,20206,rita,20131,20134,mir,rita
 qd,pk02.0,20055,20206,rita,20135,20140,meine,rita
 qd,pk02.0,20055,20206,rita,20178,20182,mich,rita
+qd,pk02.0,20253,20295,rita,20260,20264,Rita,rita
+qd,pk02.0,20300,20533,friedrich,20312,20316,Rita,rita
 qd,pk02.0,20300,20533,friedrich,20347,20350,ich,friedrich
 qd,pk02.0,20300,20533,friedrich,20480,20483,ich,friedrich
 qd,pk02.0,20635,20679,friedrich,20647,20650,Ich,friedrich
@@ -198,7 +214,10 @@ qd,pk02.0,22189,22488,friedrich,22355,22358,ich,friedrich
 qd,pk02.0,22189,22488,friedrich,22410,22414,mich,friedrich
 qd,pk02.0,22189,22488,friedrich,22434,22440,meiner,friedrich
 qd,pk02.0,22650,22862,rita,22696,22701,Meine,rita
+qd,pk02.0,22650,22862,rita,22806,22815,Friedrich,friedrich
 qd,pk02.0,22907,22997,friedrich,22983,22986,Ich,friedrich
+qd,pk02.0,23008,23039,_stage,23033,23038,Berta,berta
+qd,pk02.0,23138,23240,rita,23222,23227,Berta,berta
 qd,pk02.0,23378,23471,rita,23466,23470,mich,rita
 qd,pk02.0,23476,23531,friedrich,23503,23506,Ich,friedrich
 qd,pk02.0,23642,23755,friedrich,23694,23697,mir,friedrich
@@ -218,6 +237,7 @@ qd,pk02.0,25995,26061,rita,26037,26040,ich,rita
 qd,pk02.0,26169,26220,rita,26176,26179,Ich,rita
 qd,pk02.0,26580,26665,rita,26609,26612,ich,rita
 qd,pk02.0,26580,26665,rita,26641,26644,ich,rita
+qd,pk02.0,26580,26665,rita,26649,26653,Rita,rita
 qd,pk02.0,26670,26982,friedrich,26682,26685,Ich,friedrich
 qd,pk02.0,26670,26982,friedrich,26763,26766,Ich,friedrich
 qd,pk02.0,26670,26982,friedrich,26779,26782,Ich,friedrich
@@ -237,6 +257,7 @@ qd,pk02.0,27527,27959,friedrich,27832,27835,ich,friedrich
 qd,pk02.0,27979,28066,friedrich,28035,28038,ich,friedrich
 qd,pk02.0,28102,28337,friedrich,28114,28117,Ich,friedrich
 qd,pk02.0,28102,28337,friedrich,28195,28199,mich,friedrich
+qd,pk02.0,28102,28337,friedrich,28252,28256,Rita,rita
 qd,pk02.0,28343,28433,rita,28405,28408,ich,rita
 qd,pk02.0,28438,28606,friedrich,28496,28500,mich,friedrich
 qd,pk02.0,28438,28606,friedrich,28562,28565,Ich,friedrich
@@ -245,6 +266,7 @@ qd,pk02.0,28657,28838,friedrich,28758,28761,ich,friedrich
 qd,pk02.0,29021,29082,friedrich,29063,29067,mich,friedrich
 qd,pk02.0,29087,29187,rita,29158,29161,mir,rita
 qd,pk02.0,29193,29302,friedrich,29227,29232,Meine,friedrich
+qd,pk02.0,29571,29712,rita,29655,29659,Rita,rita
 qd,pk02.0,29718,29798,friedrich,29768,29771,Ich,friedrich
 qd,pk02.0,29803,30202,rita,29875,29878,mir,rita
 qd,pk02.0,29803,30202,rita,29983,29986,mir,rita
@@ -291,5 +313,8 @@ qd,pk02.0,34577,34736,rita,34666,34670,mich,rita
 qd,pk02.0,34741,34790,friedrich,34756,34759,ich,friedrich
 qd,pk02.0,34741,34790,friedrich,34771,34774,ich,friedrich
 qd,pk02.0,34879,34978,rita,34900,34904,mich,rita
+qd,pk02.0,34879,34978,rita,34910,34914,Rita,rita
+qd,pk02.0,34983,35030,friedrich,34995,34999,Rita,rita
+qd,pk02.0,34983,35030,friedrich,35001,35005,Rita,rita
 qd,pk02.0,35035,35202,rita,35053,35056,ich,rita
 qd,pk02.0,35035,35202,rita,35094,35097,mir,rita

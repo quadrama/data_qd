@@ -120,9 +120,9 @@ qd,v3t3.0,176,943,_Stage,_Stage,alle,PIDAT,aller,7126,,
 qd,v3t3.0,176,943,_Stage,_Stage,leer,ADJD,leer,7126,,
 qd,v3t3.0,176,943,_Stage,_Stage,sind,VAFIN,sein,7126,,
 qd,v3t3.0,176,943,_Stage,_Stage,.,$.,--,7126,,
-qd,v3t3.0,176,943,_Stage,_Stage,Anatol,NE,anatol,7126,,
+qd,v3t3.0,176,943,_Stage,_Stage,Anatol,NE,anatol,7126,,(0)
 qd,v3t3.0,176,943,_Stage,_Stage,und,KON,und,7126,,
-qd,v3t3.0,176,943,_Stage,_Stage,Max,NE,max,7126,,
+qd,v3t3.0,176,943,_Stage,_Stage,Max,NE,max,7126,,(1)
 qd,v3t3.0,176,943,_Stage,_Stage,sitzen,VVFIN,sitzen,7126,,
 qd,v3t3.0,176,943,_Stage,_Stage,an,APPR,an,7126,,
 qd,v3t3.0,176,943,_Stage,_Stage,einem,PIS,einer,7126,,
@@ -179,20 +179,20 @@ qd,v3t3.0,8736,8746,BARON DIEBL,baron_diebl,tritt,VVFIN,treten,7126,,
 qd,v3t3.0,8736,8746,BARON DIEBL,baron_diebl,ein,PTKVZ,ein,7126,,
 qd,v3t3.0,8736,8746,BARON DIEBL,baron_diebl,.,$.,--,7126,,
 qd,v3t3.0,10620,10627,BARON DIEBL,baron_diebl,zu,APPR,zu,7126,,
-qd,v3t3.0,10620,10627,BARON DIEBL,baron_diebl,Max,NE,max,7126,,
+qd,v3t3.0,10620,10627,BARON DIEBL,baron_diebl,Max,NE,max,7126,,(1)
 qd,v3t3.0,10620,10627,BARON DIEBL,baron_diebl,.,$.,--,7126,,
 qd,v3t3.0,11287,11309,MAX,max,noch,ADV,noch,7126,,
 qd,v3t3.0,11287,11309,MAX,max,ganz,ADV,ganz,7126,,
 qd,v3t3.0,11287,11309,MAX,max,erschrocken,VVINF,erschrocken,7126,,
 qd,v3t3.0,11287,11309,MAX,max,.,$.,--,7126,,
 qd,v3t3.0,15477,15492,MAX,max,zu,APPR,zu,7126,,
-qd,v3t3.0,15477,15492,MAX,max,Baron,NE,baron,7126,,
-qd,v3t3.0,15477,15492,MAX,max,Diebl,NE,diebl,7126,,
+qd,v3t3.0,15477,15492,MAX,max,Baron,NE,baron,7126,,(2
+qd,v3t3.0,15477,15492,MAX,max,Diebl,NE,diebl,7126,,2)
 qd,v3t3.0,15477,15492,MAX,max,.,$.,--,7126,,
-qd,v3t3.0,15643,15666,ANATOL,anatol,Baron,NE,baron,7126,,
-qd,v3t3.0,15643,15666,ANATOL,anatol,Diebl,NE,diebl,7126,,
+qd,v3t3.0,15643,15666,ANATOL,anatol,Baron,NE,baron,7126,,(2
+qd,v3t3.0,15643,15666,ANATOL,anatol,Diebl,NE,diebl,7126,,2)
 qd,v3t3.0,15643,15666,ANATOL,anatol,und,KON,und,7126,,
-qd,v3t3.0,15643,15666,ANATOL,anatol,Max,NE,max,7126,,
+qd,v3t3.0,15643,15666,ANATOL,anatol,Max,NE,max,7126,,(1)
 qd,v3t3.0,15643,15666,ANATOL,anatol,ab,PTKVZ,ab,7126,,
 qd,v3t3.0,15643,15666,ANATOL,anatol,.,$.,--,7126,,
 qd,v3t3.0,15679,15810,ANATOL,anatol,zündet,VVFIN,zünden,7126,,
@@ -244,12 +244,12 @@ qd,v3t3.0,20782,20841,ANNETTE,annette,In,APPR,in,7126,,
 qd,v3t3.0,20782,20841,ANNETTE,annette,diesem,PDAT,dieser,7126,,
 qd,v3t3.0,20782,20841,ANNETTE,annette,Moment,NN,moment,7126,,
 qd,v3t3.0,20782,20841,ANNETTE,annette,erscheinen,VVFIN,erscheinen,7126,,
-qd,v3t3.0,20782,20841,ANNETTE,annette,Baron,NE,baron,7126,,
-qd,v3t3.0,20782,20841,ANNETTE,annette,Diebl,NE,diebl,7126,,
+qd,v3t3.0,20782,20841,ANNETTE,annette,Baron,NE,baron,7126,,(2
+qd,v3t3.0,20782,20841,ANNETTE,annette,Diebl,NE,diebl,7126,,2)
 qd,v3t3.0,20782,20841,ANNETTE,annette,",","$,",--,7126,,
-qd,v3t3.0,20782,20841,ANNETTE,annette,Flieder,NN,flieder,7126,,
+qd,v3t3.0,20782,20841,ANNETTE,annette,Flieder,NN,flieder,7126,,(4)
 qd,v3t3.0,20782,20841,ANNETTE,annette,und,KON,und,7126,,
-qd,v3t3.0,20782,20841,ANNETTE,annette,Berta,NE,berta,7126,,
+qd,v3t3.0,20782,20841,ANNETTE,annette,Berta,NE,berta,7126,,(5)
 qd,v3t3.0,20782,20841,ANNETTE,annette,.,$.,--,7126,,
 qd,v3t3.0,21389,21413,BERTA,berta,Die,ART,der,7126,,
 qd,v3t3.0,21389,21413,BERTA,berta,andern,NN,anderer,7126,,
@@ -260,10 +260,10 @@ qd,v3t3.0,26803,26809,BERTA,berta,lacht,VVFIN,lachen,7126,,
 qd,v3t3.0,26803,26809,BERTA,berta,.,$.,--,7126,,
 qd,v3t3.0,26920,26927,BERTA,berta,zornig,ADV,zornig,7126,,
 qd,v3t3.0,26920,26927,BERTA,berta,.,$.,--,7126,,
-qd,v3t3.0,29552,29579,BERTA,berta,Baron,NE,baron,7126,,
-qd,v3t3.0,29552,29579,BERTA,berta,Diebl,NE,diebl,7126,,
+qd,v3t3.0,29552,29579,BERTA,berta,Baron,NE,baron,7126,,(2
+qd,v3t3.0,29552,29579,BERTA,berta,Diebl,NE,diebl,7126,,2)
 qd,v3t3.0,29552,29579,BERTA,berta,und,KON,und,7126,,
-qd,v3t3.0,29552,29579,BERTA,berta,Max,NE,max,7126,,
+qd,v3t3.0,29552,29579,BERTA,berta,Max,NE,max,7126,,(1)
 qd,v3t3.0,29552,29579,BERTA,berta,kommen,VVFIN,kommen,7126,,
 qd,v3t3.0,29552,29579,BERTA,berta,.,$.,--,7126,,
 qd,v3t3.0,31749,31779,ANATOL,anatol,Sie,PPER,sie,7126,,

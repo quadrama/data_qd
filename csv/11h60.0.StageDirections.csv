@@ -1,5 +1,5 @@
 corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
-qd,11h60.0,107,155,_Stage,_Stage,Merkurius,NE,merkurius,4543,,
+qd,11h60.0,107,155,_Stage,_Stage,Merkurius,NE,merkurius,4543,,(0)
 qd,11h60.0,107,155,_Stage,_Stage,am,APPRART,an,4543,,
 qd,11h60.0,107,155,_Stage,_Stage,Ufer,NN,ufer,4543,,
 qd,11h60.0,107,155,_Stage,_Stage,des,ART,der,4543,,
@@ -22,7 +22,7 @@ qd,11h60.0,4375,4421,LITERATOR,literator,auf,PTKVZ,auf,4543,,
 qd,11h60.0,4375,4421,LITERATOR,literator,.,$.,--,4543,,
 qd,11h60.0,4717,4726,WIELAND,wieland,kläglich,ADJD,kläglich,4543,,
 qd,11h60.0,4717,4726,WIELAND,wieland,.,$.,--,4543,,
-qd,11h60.0,6860,6873,MERKURIUS,merkurius,Merkurius,NE,merkurius,4543,,
+qd,11h60.0,6860,6873,MERKURIUS,merkurius,Merkurius,NE,merkurius,4543,,(0)
 qd,11h60.0,6860,6873,MERKURIUS,merkurius,ab,PTKVZ,ab,4543,,
 qd,11h60.0,6860,6873,MERKURIUS,merkurius,.,$.,--,4543,,
 qd,11h60.0,17503,17513,HERKULES,herkules,tritt,VVFIN,treten,4543,,

@@ -3,6 +3,7 @@ qd,tvbm.0,289,578,arabella,481,486,meine,arabella
 qd,tvbm.0,289,578,arabella,498,501,Ich,arabella
 qd,tvbm.0,289,578,arabella,529,533,Mein,arabella
 qd,tvbm.0,584,824,arabella,642,645,Ich,arabella
+qd,tvbm.0,584,824,arabella,657,665,Arabella,arabella
 qd,tvbm.0,584,824,arabella,739,742,mir,arabella
 qd,tvbm.0,584,824,arabella,759,764,meine,arabella
 qd,tvbm.0,584,824,arabella,779,782,ich,arabella
@@ -23,6 +24,7 @@ qd,tvbm.0,1204,1853,arabella,1628,1631,mir,arabella
 qd,tvbm.0,1204,1853,arabella,1633,1637,mich,arabella
 qd,tvbm.0,1204,1853,arabella,1736,1739,ich,arabella
 qd,tvbm.0,2005,2188,arabella,2027,2030,ich,arabella
+qd,tvbm.0,2102,2188,_stage,2153,2161,Arabella,arabella
 qd,tvbm.0,2193,2576,arabella,2224,2227,ich,arabella
 qd,tvbm.0,2193,2576,arabella,2293,2296,mir,arabella
 qd,tvbm.0,2193,2576,arabella,2395,2398,mir,arabella
@@ -85,6 +87,7 @@ qd,tvbm.0,8709,8930,arabella,8925,8929,mich,arabella
 qd,tvbm.0,8935,9408,arabella,9027,9030,ich,arabella
 qd,tvbm.0,8935,9408,arabella,9252,9255,ich,arabella
 qd,tvbm.0,9413,9490,arabella,9434,9439,meine,arabella
+qd,tvbm.0,9496,9564,arabella,9508,9517,Christine,christine
 qd,tvbm.0,9949,10195,arabella,9977,9980,ich,arabella
 qd,tvbm.0,9949,10195,arabella,10045,10050,meine,arabella
 qd,tvbm.0,9949,10195,arabella,10051,10054,ich,arabella
@@ -93,13 +96,16 @@ qd,tvbm.0,10200,10412,arabella,10222,10226,mich,arabella
 qd,tvbm.0,10200,10412,arabella,10246,10249,mir,arabella
 qd,tvbm.0,10200,10412,arabella,10270,10273,Ich,arabella
 qd,tvbm.0,10417,10877,arabella,10456,10460,mich,arabella
+qd,tvbm.0,10417,10877,arabella,10565,10574,Christine,christine
 qd,tvbm.0,10417,10877,arabella,10609,10614,meine,arabella
 qd,tvbm.0,10417,10877,arabella,10641,10644,mir,arabella
 qd,tvbm.0,10417,10877,arabella,10793,10796,ich,arabella
 qd,tvbm.0,11100,11530,arabella,11245,11250,meine,arabella
 qd,tvbm.0,11100,11530,arabella,11389,11392,Ich,arabella
+qd,tvbm.0,11100,11530,arabella,11417,11425,Arabella,arabella
 qd,tvbm.0,11535,11944,arabella,11592,11595,Ich,arabella
 qd,tvbm.0,11535,11944,arabella,11693,11699,meinen,arabella
+qd,tvbm.0,11535,11944,arabella,11850,11859,Christine,christine
 qd,tvbm.0,11950,12196,arabella,12005,12008,ich,arabella
 qd,tvbm.0,12202,12420,arabella,12301,12304,Ich,arabella
 qd,tvbm.0,12425,12836,arabella,12566,12569,ich,arabella
@@ -108,6 +114,8 @@ qd,tvbm.0,12841,13355,arabella,13021,13024,ich,arabella
 qd,tvbm.0,13360,15834,arabella,13403,13406,mir,arabella
 qd,tvbm.0,13360,15834,arabella,13861,13864,mir,arabella
 qd,tvbm.0,13360,15834,arabella,13959,13962,Ich,arabella
+qd,tvbm.0,13360,15834,arabella,14426,14434,Arabella,arabella
+qd,tvbm.0,13360,15834,arabella,14899,14907,Arabella,arabella
 qd,tvbm.0,13360,15834,arabella,15116,15119,Ich,arabella
 qd,tvbm.0,13360,15834,arabella,15201,15204,ich,arabella
 qd,tvbm.0,13360,15834,arabella,15205,15209,mich,arabella
@@ -141,8 +149,11 @@ qd,tvbm.0,17026,17660,arabella,17432,17436,mich,arabella
 qd,tvbm.0,18017,18223,christine,18090,18094,Mein,christine
 qd,tvbm.0,18017,18223,christine,18101,18105,Mein,christine
 qd,tvbm.0,18228,18402,christine,18240,18245,Meine,christine
+qd,tvbm.0,18228,18402,christine,18253,18261,Arabella,arabella
 qd,tvbm.0,18228,18402,christine,18305,18310,meine,christine
+qd,tvbm.0,18407,18754,christine,18433,18441,Arabella,arabella
 qd,tvbm.0,18407,18754,christine,18497,18500,Ich,christine
+qd,tvbm.0,18407,18754,christine,18678,18686,Arabella,arabella
 qd,tvbm.0,18407,18754,christine,18739,18743,mich,christine
 qd,tvbm.0,18759,18878,christine,18849,18853,Mein,christine
 qd,tvbm.0,18951,19242,christine,18963,18966,Ich,christine
@@ -150,3 +161,4 @@ qd,tvbm.0,18951,19242,christine,19116,19119,mir,christine
 qd,tvbm.0,18951,19242,christine,19146,19152,meinem,christine
 qd,tvbm.0,19354,19423,christine,19403,19406,ich,christine
 qd,tvbm.0,19428,19574,christine,19508,19512,mich,christine
+qd,tvbm.0,19580,19729,christine,19719,19728,Christine,christine

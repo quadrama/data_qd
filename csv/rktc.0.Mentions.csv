@@ -1,4 +1,8 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,rktc.0,285,312,_stage,285,297,Michel Stich,michel_stich
+qd,rktc.0,285,312,_stage,299,311,Martin Krumm,martin_krumm
+qd,rktc.0,315,353,martin_krumm,340,352,Michel Stich,michel_stich
+qd,rktc.0,358,396,michel_stich,383,395,Martin Krumm,martin_krumm
 qd,rktc.0,553,871,michel_stich,760,763,ich,michel_stich
 qd,rktc.0,1005,1414,michel_stich,1212,1215,Ich,michel_stich
 qd,rktc.0,1419,1582,martin_krumm,1444,1447,ich,martin_krumm
@@ -11,10 +15,13 @@ qd,rktc.0,1759,2101,martin_krumm,1941,1944,ich,martin_krumm
 qd,rktc.0,1759,2101,martin_krumm,1945,1949,mich,martin_krumm
 qd,rktc.0,1759,2101,martin_krumm,2067,2070,ich,martin_krumm
 qd,rktc.0,1759,2101,martin_krumm,2076,2080,mein,martin_krumm
+qd,rktc.0,2195,2222,_stage,2195,2207,Martin Krumm,martin_krumm
+qd,rktc.0,2195,2222,_stage,2209,2221,Der Reisende,der_reisende
 qd,rktc.0,2225,2402,martin_krumm,2240,2243,Ich,martin_krumm
 qd,rktc.0,2225,2402,martin_krumm,2249,2253,mich,martin_krumm
 qd,rktc.0,2225,2402,martin_krumm,2298,2302,mein,martin_krumm
 qd,rktc.0,2225,2402,martin_krumm,2313,2316,ich,martin_krumm
+qd,rktc.0,2225,2402,martin_krumm,2323,2335,Martin Krumm,martin_krumm
 qd,rktc.0,2407,2501,der_reisende,2433,2436,ich,der_reisende
 qd,rktc.0,2407,2501,der_reisende,2443,2447,mein,der_reisende
 qd,rktc.0,2407,2501,der_reisende,2476,2482,meinen,der_reisende
@@ -103,8 +110,11 @@ qd,rktc.0,9296,9788,martin_krumm,9559,9562,ich,martin_krumm
 qd,rktc.0,9296,9788,martin_krumm,9563,9566,mir,martin_krumm
 qd,rktc.0,9296,9788,martin_krumm,9581,9585,mich,martin_krumm
 qd,rktc.0,9296,9788,martin_krumm,9669,9675,meines,martin_krumm
+qd,rktc.0,9296,9788,martin_krumm,9718,9730,Martin Krumm,martin_krumm
 qd,rktc.0,9828,9946,martin_krumm,9869,9872,ich,martin_krumm
 qd,rktc.0,9996,10648,der_reisende,10240,10243,Ich,der_reisende
+qd,rktc.0,10698,10722,_stage,10698,10710,Der Reisende,der_reisende
+qd,rktc.0,10698,10722,_stage,10712,10721,Christoph,christoph
 qd,rktc.0,10821,11038,christoph,10847,10851,mein,christoph
 qd,rktc.0,10821,11038,christoph,10870,10873,ich,christoph
 qd,rktc.0,10821,11038,christoph,10936,10941,meine,christoph
@@ -139,6 +149,7 @@ qd,rktc.0,13185,14032,der_reisende,13409,13413,mich,der_reisende
 qd,rktc.0,14037,14231,christoph,14067,14071,mein,christoph
 qd,rktc.0,14037,14231,christoph,14129,14132,ich,christoph
 qd,rktc.0,14037,14231,christoph,14165,14168,Ich,christoph
+qd,rktc.0,14281,14308,_stage,14281,14293,Der Reisende,der_reisende
 qd,rktc.0,14311,14417,der_reisende,14335,14338,ich,der_reisende
 qd,rktc.0,14311,14417,der_reisende,14339,14343,mich,der_reisende
 qd,rktc.0,14311,14417,der_reisende,14413,14416,mir,der_reisende
@@ -167,6 +178,8 @@ qd,rktc.0,16259,16518,das_fräulein,16387,16390,Ich,das_fräulein
 qd,rktc.0,16259,16518,das_fräulein,16425,16428,ich,das_fräulein
 qd,rktc.0,16259,16518,das_fräulein,16461,16464,mir,das_fräulein
 qd,rktc.0,16259,16518,das_fräulein,16487,16490,ich,das_fräulein
+qd,rktc.0,16570,16594,_stage,16570,16579,Der Baron,der_baron
+qd,rktc.0,16570,16594,_stage,16581,16593,Der Reisende,der_reisende
 qd,rktc.0,16597,16676,der_baron,16619,16624,meine,der_baron
 qd,rktc.0,17463,17644,der_baron,17486,17489,mir,der_baron
 qd,rktc.0,17463,17644,der_baron,17515,17518,ich,der_baron
@@ -236,6 +249,8 @@ qd,rktc.0,22019,22257,der_baron,22167,22170,ich,der_baron
 qd,rktc.0,22263,22523,der_reisende,22309,22312,ich,der_reisende
 qd,rktc.0,22263,22523,der_reisende,22382,22387,meine,der_reisende
 qd,rktc.0,22263,22523,der_reisende,22418,22421,Ich,der_reisende
+qd,rktc.0,22575,22613,_stage,22589,22601,Der Reisende,der_reisende
+qd,rktc.0,22575,22613,_stage,22603,22612,Der Baron,der_baron
 qd,rktc.0,22649,22745,der_baron,22712,22715,mir,der_baron
 qd,rktc.0,22750,22836,das_fräulein,22779,22782,ich,das_fräulein
 qd,rktc.0,22841,22937,der_baron,22912,22918,meinen,der_baron
@@ -266,6 +281,7 @@ qd,rktc.0,24421,24466,der_reisende,24436,24440,Mein,der_reisende
 qd,rktc.0,24421,24466,der_reisende,24447,24450,ich,der_reisende
 qd,rktc.0,24471,24608,das_fräulein,24498,24502,mein,das_fräulein
 qd,rktc.0,24471,24608,das_fräulein,24521,24524,Ich,das_fräulein
+qd,rktc.0,24657,24741,_stage,24657,24666,Christoph,christoph
 qd,rktc.0,24744,24905,christoph,24761,24765,mein,christoph
 qd,rktc.0,24966,25098,christoph,25001,25005,mein,christoph
 qd,rktc.0,24966,25098,christoph,25036,25042,meines,christoph
@@ -298,9 +314,12 @@ qd,rktc.0,26996,27288,das_fräulein,27045,27049,mich,das_fräulein
 qd,rktc.0,26996,27288,das_fräulein,27098,27101,ich,das_fräulein
 qd,rktc.0,26996,27288,das_fräulein,27133,27136,ich,das_fräulein
 qd,rktc.0,27293,27357,christoph,27305,27308,Ich,christoph
+qd,rktc.0,27471,27492,_stage,27471,27478,Lisette,lisette
 qd,rktc.0,27495,27655,der_baron,27540,27544,Mein,der_baron
 qd,rktc.0,27495,27655,der_baron,27551,27554,ich,der_baron
 qd,rktc.0,27495,27655,der_baron,27614,27619,meine,der_baron
+qd,rktc.0,27660,27815,das_fräulein,27793,27805,der Reisende,der_reisende
+qd,rktc.0,27821,27874,der_baron,27833,27840,Lisette,lisette
 qd,rktc.0,27821,27874,der_baron,27851,27854,ich,der_baron
 qd,rktc.0,27897,28061,der_baron,27925,27928,Ich,der_baron
 qd,rktc.0,27897,28061,der_baron,27995,27998,ich,der_baron
@@ -313,10 +332,13 @@ qd,rktc.0,28185,28280,der_baron,28266,28269,mir,der_baron
 qd,rktc.0,28314,28522,christoph,28364,28368,mein,christoph
 qd,rktc.0,28314,28522,christoph,28422,28425,ich,christoph
 qd,rktc.0,28314,28522,christoph,28482,28485,ich,christoph
+qd,rktc.0,28527,28623,der_baron,28539,28546,Lisette,lisette
 qd,rktc.0,28527,28623,der_baron,28548,28551,ich,der_baron
 qd,rktc.0,28629,28760,christoph,28641,28644,Ich,christoph
 qd,rktc.0,28629,28760,christoph,28654,28658,mich,christoph
 qd,rktc.0,28629,28760,christoph,28705,28709,mich,christoph
+qd,rktc.0,28812,28831,_stage,28812,28819,Lisette,lisette
+qd,rktc.0,28812,28831,_stage,28821,28830,Christoph,christoph
 qd,rktc.0,28834,29038,lisette,28865,28869,mein,lisette
 qd,rktc.0,28834,29038,lisette,28876,28879,ich,lisette
 qd,rktc.0,28834,29038,lisette,28903,28907,mein,lisette
@@ -364,7 +386,10 @@ qd,rktc.0,33084,33619,christoph,33207,33212,meine,christoph
 qd,rktc.0,33084,33619,christoph,33372,33378,meiner,christoph
 qd,rktc.0,33084,33619,christoph,33403,33406,ich,christoph
 qd,rktc.0,33084,33619,christoph,33576,33579,Ich,christoph
+qd,rktc.0,33670,33692,_stage,33670,33682,Martin Krumm,martin_krumm
+qd,rktc.0,33670,33692,_stage,33684,33691,Lisette,lisette
 qd,rktc.0,33695,33817,lisette,33719,33722,ich,lisette
+qd,rktc.0,33822,33919,martin_krumm,33849,33856,Lisette,lisette
 qd,rktc.0,33822,33919,martin_krumm,33896,33900,mich,martin_krumm
 qd,rktc.0,33969,34063,martin_krumm,34008,34011,ich,martin_krumm
 qd,rktc.0,33969,34063,martin_krumm,34037,34040,ich,martin_krumm
@@ -376,6 +401,7 @@ qd,rktc.0,34068,34620,lisette,34499,34502,ich,lisette
 qd,rktc.0,34068,34620,lisette,34537,34540,Ich,lisette
 qd,rktc.0,34625,34905,martin_krumm,34669,34672,Ich,martin_krumm
 qd,rktc.0,35049,35111,lisette,35085,35089,mein,lisette
+qd,rktc.0,35259,35339,martin_krumm,35314,35326,Martin Krumm,martin_krumm
 qd,rktc.0,35395,35440,martin_krumm,35426,35432,meinen,martin_krumm
 qd,rktc.0,35540,35604,lisette,35579,35582,ich,lisette
 qd,rktc.0,35609,35703,martin_krumm,35629,35632,ich,martin_krumm
@@ -390,6 +416,7 @@ qd,rktc.0,36189,36308,lisette,36237,36240,ich,lisette
 qd,rktc.0,36314,36358,martin_krumm,36329,36332,Ich,martin_krumm
 qd,rktc.0,36314,36358,martin_krumm,36343,36346,ich,martin_krumm
 qd,rktc.0,36363,36426,lisette,36400,36403,mir,lisette
+qd,rktc.0,36431,36707,martin_krumm,36570,36577,Lisette,lisette
 qd,rktc.0,36431,36707,martin_krumm,36583,36586,ich,martin_krumm
 qd,rktc.0,36431,36707,martin_krumm,36621,36624,Ich,martin_krumm
 qd,rktc.0,36431,36707,martin_krumm,36680,36683,ich,martin_krumm
@@ -402,11 +429,14 @@ qd,rktc.0,37221,37567,martin_krumm,37283,37286,ich,martin_krumm
 qd,rktc.0,37221,37567,martin_krumm,37345,37349,mein,martin_krumm
 qd,rktc.0,37221,37567,martin_krumm,37418,37421,ich,martin_krumm
 qd,rktc.0,37221,37567,martin_krumm,37473,37476,ich,martin_krumm
+qd,rktc.0,37619,37655,_stage,37633,37640,Lisette,lisette
+qd,rktc.0,37619,37655,_stage,37642,37654,Martin Krumm,martin_krumm
 qd,rktc.0,37658,37793,das_fräulein,37768,37771,mir,das_fräulein
 qd,rktc.0,37658,37793,das_fräulein,37777,37782,meine,das_fräulein
 qd,rktc.0,38043,38129,lisette,38082,38085,ich,lisette
 qd,rktc.0,38043,38129,lisette,38099,38103,mein,lisette
 qd,rktc.0,38134,38228,martin_krumm,38186,38190,mein,martin_krumm
+qd,rktc.0,38310,38332,_stage,38310,38317,Lisette,lisette
 qd,rktc.0,38469,38606,lisette,38479,38482,Ich,lisette
 qd,rktc.0,38469,38606,lisette,38529,38533,mich,lisette
 qd,rktc.0,38469,38606,lisette,38549,38552,Ich,lisette
@@ -423,6 +453,9 @@ qd,rktc.0,39468,39656,lisette,39517,39520,Ich,lisette
 qd,rktc.0,39468,39656,lisette,39604,39607,Ich,lisette
 qd,rktc.0,39715,39858,lisette,39757,39760,ich,lisette
 qd,rktc.0,39715,39858,lisette,39825,39829,mich,lisette
+qd,rktc.0,39863,39938,das_fräulein,39930,39937,Lisette,lisette
+qd,rktc.0,39993,40012,_stage,39993,40000,Lisette,lisette
+qd,rktc.0,39993,40012,_stage,40002,40011,Christoph,christoph
 qd,rktc.0,40015,40102,lisette,40025,40029,Mein,lisette
 qd,rktc.0,40107,40666,christoph,40159,40162,ich,christoph
 qd,rktc.0,40107,40666,christoph,40227,40232,meine,christoph
@@ -511,6 +544,8 @@ qd,rktc.0,46032,46500,der_reisende,46211,46214,ich,der_reisende
 qd,rktc.0,46032,46500,der_reisende,46360,46364,mich,der_reisende
 qd,rktc.0,46032,46500,der_reisende,46399,46402,ich,der_reisende
 qd,rktc.0,46032,46500,der_reisende,46478,46481,ich,der_reisende
+qd,rktc.0,46556,46583,_stage,46556,46568,Martin Krumm,martin_krumm
+qd,rktc.0,46556,46583,_stage,46570,46582,Der Reisende,der_reisende
 qd,rktc.0,46670,46811,der_reisende,46706,46710,mein,der_reisende
 qd,rktc.0,46670,46811,der_reisende,46771,46776,meine,der_reisende
 qd,rktc.0,46816,47044,martin_krumm,46846,46849,ich,martin_krumm
@@ -556,6 +591,7 @@ qd,rktc.0,49334,49538,martin_krumm,49419,49424,meine,martin_krumm
 qd,rktc.0,49587,50162,martin_krumm,49820,49823,Ich,martin_krumm
 qd,rktc.0,49587,50162,martin_krumm,49966,49969,ich,martin_krumm
 qd,rktc.0,49587,50162,martin_krumm,50061,50064,ich,martin_krumm
+qd,rktc.0,49587,50162,martin_krumm,50105,50117,der Reisende,der_reisende
 qd,rktc.0,50213,50303,martin_krumm,50252,50255,ich,martin_krumm
 qd,rktc.0,50213,50303,martin_krumm,50263,50266,ich,martin_krumm
 qd,rktc.0,50213,50303,martin_krumm,50292,50295,mir,martin_krumm
@@ -578,6 +614,8 @@ qd,rktc.0,50813,51262,martin_krumm,51207,51210,ich,martin_krumm
 qd,rktc.0,51318,51531,der_reisende,51351,51355,mich,der_reisende
 qd,rktc.0,51318,51531,der_reisende,51487,51490,ich,der_reisende
 qd,rktc.0,51318,51531,der_reisende,51499,51505,meiner,der_reisende
+qd,rktc.0,51586,51610,_stage,51586,51595,Der Baron,der_baron
+qd,rktc.0,51586,51610,_stage,51597,51609,Der Reisende,der_reisende
 qd,rktc.0,51613,51801,der_reisende,51655,51658,ich,der_reisende
 qd,rktc.0,51613,51801,der_reisende,51735,51738,ich,der_reisende
 qd,rktc.0,51808,51919,der_baron,51842,51846,mein,der_baron
@@ -627,6 +665,8 @@ qd,rktc.0,54238,54425,der_reisende,54360,54363,mir,der_reisende
 qd,rktc.0,54238,54425,der_reisende,54392,54395,ich,der_reisende
 qd,rktc.0,54430,54518,der_baron,54442,54445,Ich,der_baron
 qd,rktc.0,54430,54518,der_baron,54481,54484,ich,der_baron
+qd,rktc.0,54573,54608,_stage,54573,54585,Der Reisende,der_reisende
+qd,rktc.0,54573,54608,_stage,54598,54607,Christoph,christoph
 qd,rktc.0,54611,55272,der_reisende,54759,54762,Ich,der_reisende
 qd,rktc.0,54611,55272,der_reisende,54982,54985,ich,der_reisende
 qd,rktc.0,54611,55272,der_reisende,55004,55007,ich,der_reisende
@@ -684,11 +724,16 @@ qd,rktc.0,58505,58917,christoph,58556,58559,ich,christoph
 qd,rktc.0,58505,58917,christoph,58673,58676,Ich,christoph
 qd,rktc.0,58505,58917,christoph,58738,58741,ich,christoph
 qd,rktc.0,58505,58917,christoph,58776,58779,ich,christoph
+qd,rktc.0,58505,58917,christoph,58835,58842,Lisette,lisette
 qd,rktc.0,58505,58917,christoph,58870,58873,mir,christoph
 qd,rktc.0,58505,58917,christoph,58879,58885,meinen,christoph
+qd,rktc.0,58973,59006,_stage,58973,58980,Lisette,lisette
+qd,rktc.0,58973,59006,_stage,58982,58994,Der Reisende,der_reisende
+qd,rktc.0,58973,59006,_stage,58996,59005,Christoph,christoph
 qd,rktc.0,59009,59444,lisette,59021,59025,mein,lisette
 qd,rktc.0,59449,59549,christoph,59534,59537,mir,christoph
 qd,rktc.0,59554,60000,der_reisende,59582,59587,meine,der_reisende
+qd,rktc.0,59554,60000,der_reisende,59594,59601,Lisette,lisette
 qd,rktc.0,59554,60000,der_reisende,59603,59606,ich,der_reisende
 qd,rktc.0,59554,60000,der_reisende,59612,59616,mich,der_reisende
 qd,rktc.0,59554,60000,der_reisende,59656,59660,mein,der_reisende
@@ -702,12 +747,14 @@ qd,rktc.0,59554,60000,der_reisende,59925,59928,ich,der_reisende
 qd,rktc.0,59554,60000,der_reisende,59934,59940,meinen,der_reisende
 qd,rktc.0,59554,60000,der_reisende,59957,59960,ich,der_reisende
 qd,rktc.0,60005,60283,christoph,60053,60056,mir,christoph
+qd,rktc.0,60005,60283,christoph,60110,60117,Lisette,lisette
 qd,rktc.0,60005,60283,christoph,60152,60155,Ich,christoph
 qd,rktc.0,60005,60283,christoph,60208,60211,ich,christoph
 qd,rktc.0,60005,60283,christoph,60212,60216,mich,christoph
 qd,rktc.0,60005,60283,christoph,60259,60262,mir,christoph
 qd,rktc.0,60356,60417,der_reisende,60413,60416,mir,der_reisende
 qd,rktc.0,60422,60465,lisette,60448,60451,ich,lisette
+qd,rktc.0,60470,60706,der_reisende,60507,60514,Lisette,lisette
 qd,rktc.0,60470,60706,der_reisende,60529,60534,meine,der_reisende
 qd,rktc.0,60470,60706,der_reisende,60603,60606,Ich,der_reisende
 qd,rktc.0,60470,60706,der_reisende,60646,60649,mir,der_reisende
@@ -716,6 +763,11 @@ qd,rktc.0,60470,60706,der_reisende,60659,60663,mich,der_reisende
 qd,rktc.0,60470,60706,der_reisende,60677,60680,ich,der_reisende
 qd,rktc.0,60470,60706,der_reisende,60681,60685,mich,der_reisende
 qd,rktc.0,60712,60807,lisette,60755,60758,ich,lisette
+qd,rktc.0,60911,60955,_stage,60911,60920,Der Baron,der_baron
+qd,rktc.0,60911,60955,_stage,60922,60934,Der Reisende,der_reisende
+qd,rktc.0,60911,60955,_stage,60936,60943,Lisette,lisette
+qd,rktc.0,60911,60955,_stage,60945,60954,Christoph,christoph
+qd,rktc.0,60958,61200,der_baron,61007,61014,Lisette,lisette
 qd,rktc.0,61251,61430,lisette,61292,61295,Ich,lisette
 qd,rktc.0,61251,61430,lisette,61362,61365,ich,lisette
 qd,rktc.0,61251,61430,lisette,61391,61394,Ich,lisette
@@ -740,6 +792,7 @@ qd,rktc.0,61988,62299,der_reisende,62234,62238,mich,der_reisende
 qd,rktc.0,61988,62299,der_reisende,62258,62261,ich,der_reisende
 qd,rktc.0,62304,62420,der_baron,62316,62319,Ich,der_baron
 qd,rktc.0,62304,62420,der_baron,62394,62397,mir,der_baron
+qd,rktc.0,62304,62420,der_baron,62398,62405,Lisette,lisette
 qd,rktc.0,62569,63218,der_baron,62587,62592,meine,der_baron
 qd,rktc.0,62569,63218,der_baron,62655,62661,meinen,der_baron
 qd,rktc.0,62569,63218,der_baron,62704,62708,mein,der_baron
@@ -810,6 +863,10 @@ qd,rktc.0,66454,66659,christoph,66568,66571,ich,christoph
 qd,rktc.0,66454,66659,christoph,66607,66610,mir,christoph
 qd,rktc.0,66664,66884,der_baron,66686,66689,ich,der_baron
 qd,rktc.0,66664,66884,der_baron,66715,66719,mich,der_baron
+qd,rktc.0,66984,67034,_stage,66984,66993,Der Baron,der_baron
+qd,rktc.0,66984,67034,_stage,67012,67024,der Reisende,der_reisende
+qd,rktc.0,67085,67104,_stage,67085,67092,Lisette,lisette
+qd,rktc.0,67085,67104,_stage,67094,67103,Christoph,christoph
 qd,rktc.0,67107,67163,lisette,67123,67127,mein,lisette
 qd,rktc.0,67107,67163,lisette,67143,67147,mich,lisette
 qd,rktc.0,67168,67354,christoph,67231,67234,ich,christoph

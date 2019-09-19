@@ -1,9 +1,9 @@
 corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
-qd,mv7f.0,539,568,_Stage,_Stage,Madame,NE,--,23817,,
-qd,mv7f.0,539,568,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,539,568,_Stage,_Stage,Madame,NE,--,23817,,(0
+qd,mv7f.0,539,568,_Stage,_Stage,Welldorf,NE,welldorf,23817,,0)|(6)
 qd,mv7f.0,539,568,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,539,568,_Stage,_Stage,Dann,ADV,dann,23817,,
-qd,mv7f.0,539,568,_Stage,_Stage,Sophie,NE,sophie,23817,,
+qd,mv7f.0,539,568,_Stage,_Stage,Sophie,NE,sophie,23817,,(1)
 qd,mv7f.0,539,568,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,588,608,MADAME WELLDORF,madame_welldorf,unruhig,ADJD,unruhig,23817,,
 qd,mv7f.0,588,608,MADAME WELLDORF,madame_welldorf,umhergehend,ADJD,umhergehend,23817,,
@@ -22,10 +22,10 @@ qd,mv7f.0,3073,3089,SOPHIE,sophie,Sprunge,NN,sprunge,23817,,
 qd,mv7f.0,3073,3089,SOPHIE,sophie,.,$.,--,23817,,
 qd,mv7f.0,3235,3242,MADAME WELLDORF,madame_welldorf,allein,ADV,allein,23817,,
 qd,mv7f.0,3235,3242,MADAME WELLDORF,madame_welldorf,.,$.,--,23817,,
-qd,mv7f.0,3878,3901,_Stage,_Stage,Madame,NE,--,23817,,
-qd,mv7f.0,3878,3901,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,3878,3901,_Stage,_Stage,Madame,NE,--,23817,,(0
+qd,mv7f.0,3878,3901,_Stage,_Stage,Welldorf,NE,welldorf,23817,,0)|(6)
 qd,mv7f.0,3878,3901,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,3878,3901,_Stage,_Stage,Luise,NE,luise,23817,,
+qd,mv7f.0,3878,3901,_Stage,_Stage,Luise,NE,luise,23817,,(2)
 qd,mv7f.0,3878,3901,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,3911,3984,LUISE,luise,schleicht,ADJD,schleichen,23817,,
 qd,mv7f.0,3911,3984,LUISE,luise,aus,APPR,aus,23817,,
@@ -76,13 +76,13 @@ qd,mv7f.0,10081,10108,LUISE,luise,lauschend,ADJD,lauschend,23817,,
 qd,mv7f.0,10081,10108,LUISE,luise,.,$.,--,23817,,
 qd,mv7f.0,10245,10252,MADAME WELLDORF,madame_welldorf,allein,ADV,allein,23817,,
 qd,mv7f.0,10245,10252,MADAME WELLDORF,madame_welldorf,.,$.,--,23817,,
-qd,mv7f.0,10706,10742,_Stage,_Stage,Madame,NE,--,23817,,
-qd,mv7f.0,10706,10742,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,10706,10742,_Stage,_Stage,Madame,NE,--,23817,,(0
+qd,mv7f.0,10706,10742,_Stage,_Stage,Welldorf,NE,welldorf,23817,,0)|(6)
 qd,mv7f.0,10706,10742,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,10706,10742,_Stage,_Stage,Luise,NE,luise,23817,,
+qd,mv7f.0,10706,10742,_Stage,_Stage,Luise,NE,luise,23817,,(2)
 qd,mv7f.0,10706,10742,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,10706,10742,_Stage,_Stage,Dann,ADV,dann,23817,,
-qd,mv7f.0,10706,10742,_Stage,_Stage,Eduard,NE,eduard,23817,,
+qd,mv7f.0,10706,10742,_Stage,_Stage,Eduard,NE,eduard,23817,,(3)
 qd,mv7f.0,10706,10742,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,10752,10770,LUISE,luise,froh,ADJD,froh,23817,,
 qd,mv7f.0,10752,10770,LUISE,luise,hereineilend,ADJD,hereineilend,23817,,
@@ -169,10 +169,10 @@ qd,mv7f.0,19085,19092,EDUARD,eduard,heftig,ADJD,heftig,23817,,
 qd,mv7f.0,19085,19092,EDUARD,eduard,.,$.,--,23817,,
 qd,mv7f.0,19497,19509,EDUARD,eduard,aufhorchend,ADJD,aufhorchend,23817,,
 qd,mv7f.0,19497,19509,EDUARD,eduard,.,$.,--,23817,,
-qd,mv7f.0,20549,20572,_Stage,_Stage,Madame,NE,--,23817,,
-qd,mv7f.0,20549,20572,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,20549,20572,_Stage,_Stage,Madame,NE,--,23817,,(0
+qd,mv7f.0,20549,20572,_Stage,_Stage,Welldorf,NE,welldorf,23817,,0)|(6)
 qd,mv7f.0,20549,20572,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,20549,20572,_Stage,_Stage,Luise,NE,luise,23817,,
+qd,mv7f.0,20549,20572,_Stage,_Stage,Luise,NE,luise,23817,,(2)
 qd,mv7f.0,20549,20572,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,20582,20621,LUISE,luise,ihn,PPER,ihn,23817,,
 qd,mv7f.0,20582,20621,LUISE,luise,begleitend,ADJD,begleitend,23817,,
@@ -187,8 +187,8 @@ qd,mv7f.0,21380,21402,LUISE,luise,erschrocken,VVIZU,erschrocken,23817,,
 qd,mv7f.0,21380,21402,LUISE,luise,.,$.,--,23817,,
 qd,mv7f.0,21528,21545,_Stage,_Stage,Vorige,NN,vorige,23817,,
 qd,mv7f.0,21528,21545,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,21528,21545,_Stage,_Stage,Der,ART,der,23817,,
-qd,mv7f.0,21528,21545,_Stage,_Stage,Arzt,NN,arzt,23817,,
+qd,mv7f.0,21528,21545,_Stage,_Stage,Der,ART,der,23817,,(4
+qd,mv7f.0,21528,21545,_Stage,_Stage,Arzt,NN,arzt,23817,,4)
 qd,mv7f.0,21528,21545,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,21565,21578,MADAME WELLDORF,madame_welldorf,ihm,PPER,ihm,23817,,
 qd,mv7f.0,21565,21578,MADAME WELLDORF,madame_welldorf,entgegen,PTKVZ,entgegen,23817,,
@@ -208,11 +208,11 @@ qd,mv7f.0,24026,24043,MADAME WELLDORF,madame_welldorf,mit,APPR,mit,23817,,
 qd,mv7f.0,24026,24043,MADAME WELLDORF,madame_welldorf,dem,ART,der,23817,,
 qd,mv7f.0,24026,24043,MADAME WELLDORF,madame_welldorf,Arzte,NN,arzte,23817,,
 qd,mv7f.0,24026,24043,MADAME WELLDORF,madame_welldorf,.,$.,--,23817,,
-qd,mv7f.0,24135,24162,_Stage,_Stage,Von,APPR,von,23817,,
-qd,mv7f.0,24135,24162,_Stage,_Stage,Brink,NE,brink,23817,,
+qd,mv7f.0,24135,24162,_Stage,_Stage,Von,APPR,von,23817,,(5
+qd,mv7f.0,24135,24162,_Stage,_Stage,Brink,NE,brink,23817,,5)
 qd,mv7f.0,24135,24162,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,24135,24162,_Stage,_Stage,Madame,NE,--,23817,,
-qd,mv7f.0,24135,24162,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,24135,24162,_Stage,_Stage,Madame,NE,--,23817,,(0
+qd,mv7f.0,24135,24162,_Stage,_Stage,Welldorf,NE,welldorf,23817,,0)|(6)
 qd,mv7f.0,24135,24162,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,25857,25876,MADAME WELLDORF,madame_welldorf,starr,ADJD,starrn,23817,,
 qd,mv7f.0,25857,25876,MADAME WELLDORF,madame_welldorf,ihn,PPER,ihn,23817,,
@@ -229,7 +229,7 @@ qd,mv7f.0,26342,26377,VON BRINK,von_brink,Augenblicken,NN,augenblicke,23817,,
 qd,mv7f.0,26342,26377,VON BRINK,von_brink,.,$.,--,23817,,
 qd,mv7f.0,26662,26676,_Stage,_Stage,Vorige,NN,vorige,23817,,
 qd,mv7f.0,26662,26676,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,26662,26676,_Stage,_Stage,Luise,NE,luise,23817,,
+qd,mv7f.0,26662,26676,_Stage,_Stage,Luise,NE,luise,23817,,(2)
 qd,mv7f.0,26662,26676,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,26686,26708,LUISE,luise,lebhaft,ADJD,lebhaft,23817,,
 qd,mv7f.0,26686,26708,LUISE,luise,hervorkommend,ADJD,hervorkommend,23817,,
@@ -283,7 +283,7 @@ qd,mv7f.0,35549,35557,VON BRINK,von_brink,wankend,ADJD,wankend,23817,,
 qd,mv7f.0,35549,35557,VON BRINK,von_brink,.,$.,--,23817,,
 qd,mv7f.0,35960,35975,_Stage,_Stage,Vorige,NN,vorige,23817,,
 qd,mv7f.0,35960,35975,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,35960,35975,_Stage,_Stage,Eduard,NE,eduard,23817,,
+qd,mv7f.0,35960,35975,_Stage,_Stage,Eduard,NE,eduard,23817,,(3)
 qd,mv7f.0,35960,35975,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,35985,36005,LUISE,luise,ihm,PPER,ihm,23817,,
 qd,mv7f.0,35985,36005,LUISE,luise,entgegen,APPR,entgegen,23817,,
@@ -391,8 +391,8 @@ qd,mv7f.0,43278,43289,VON BRINK,von_brink,ungeduldig,ADJD,ungeduldig,23817,,
 qd,mv7f.0,43278,43289,VON BRINK,von_brink,.,$.,--,23817,,
 qd,mv7f.0,45302,45324,_Stage,_Stage,Vorige,NN,vorige,23817,,
 qd,mv7f.0,45302,45324,_Stage,_Stage,ohne,APPR,ohne,23817,,
-qd,mv7f.0,45302,45324,_Stage,_Stage,von,APPR,von,23817,,
-qd,mv7f.0,45302,45324,_Stage,_Stage,Brink,NE,brink,23817,,
+qd,mv7f.0,45302,45324,_Stage,_Stage,von,APPR,von,23817,,(5
+qd,mv7f.0,45302,45324,_Stage,_Stage,Brink,NE,brink,23817,,5)
 qd,mv7f.0,45302,45324,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,45880,45947,LUISE,luise,die,ART,der,23817,,
 qd,mv7f.0,45880,45947,LUISE,luise,von,APPR,von,23817,,
@@ -414,10 +414,10 @@ qd,mv7f.0,46126,46160,MADAME WELLDORF,madame_welldorf,ergreifend,ADJD,ergreifend
 qd,mv7f.0,46126,46160,MADAME WELLDORF,madame_welldorf,.,$.,--,23817,,
 qd,mv7f.0,46286,46292,LUISE,luise,eilig,ADJD,eilig,23817,,
 qd,mv7f.0,46286,46292,LUISE,luise,.,$.,--,23817,,
-qd,mv7f.0,46399,46423,_Stage,_Stage,Madame,NE,--,23817,,
-qd,mv7f.0,46399,46423,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,46399,46423,_Stage,_Stage,Madame,NE,--,23817,,(0
+qd,mv7f.0,46399,46423,_Stage,_Stage,Welldorf,NE,welldorf,23817,,0)|(6)
 qd,mv7f.0,46399,46423,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,46399,46423,_Stage,_Stage,Eduard,NE,eduard,23817,,
+qd,mv7f.0,46399,46423,_Stage,_Stage,Eduard,NE,eduard,23817,,(3)
 qd,mv7f.0,46399,46423,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,46434,46455,EDUARD,eduard,in,APPR,in,23817,,
 qd,mv7f.0,46434,46455,EDUARD,eduard,sichtbarer,ADJA,sichtbar,23817,,
@@ -438,21 +438,21 @@ qd,mv7f.0,47027,47068,MADAME WELLDORF,madame_welldorf,aufhaltend,ADJD,aufhaltend
 qd,mv7f.0,47027,47068,MADAME WELLDORF,madame_welldorf,.,$.,--,23817,,
 qd,mv7f.0,48132,48146,_Stage,_Stage,Vorige,NN,vorige,23817,,
 qd,mv7f.0,48132,48146,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,48132,48146,_Stage,_Stage,Luise,NE,luise,23817,,
+qd,mv7f.0,48132,48146,_Stage,_Stage,Luise,NE,luise,23817,,(2)
 qd,mv7f.0,48132,48146,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,48166,48179,MADAME WELLDORF,madame_welldorf,ihr,PPOSAT,ihr,23817,,
 qd,mv7f.0,48166,48179,MADAME WELLDORF,madame_welldorf,entgegen,PTKVZ,entgegen,23817,,
 qd,mv7f.0,48166,48179,MADAME WELLDORF,madame_welldorf,.,$.,--,23817,,
 qd,mv7f.0,48852,48859,EDUARD,eduard,allein,ADV,allein,23817,,
 qd,mv7f.0,48852,48859,EDUARD,eduard,.,$.,--,23817,,
-qd,mv7f.0,49243,49284,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,49243,49284,_Stage,_Stage,Welldorf,NE,welldorf,23817,,(6)
 qd,mv7f.0,49243,49284,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,49243,49284,_Stage,_Stage,Madame,NE,--,23817,,
-qd,mv7f.0,49243,49284,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,49243,49284,_Stage,_Stage,Madame,NE,--,23817,,(0
+qd,mv7f.0,49243,49284,_Stage,_Stage,Welldorf,NE,welldorf,23817,,0)|(6)
 qd,mv7f.0,49243,49284,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,49243,49284,_Stage,_Stage,Luise,NE,luise,23817,,
+qd,mv7f.0,49243,49284,_Stage,_Stage,Luise,NE,luise,23817,,(2)
 qd,mv7f.0,49243,49284,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,49243,49284,_Stage,_Stage,Eduard,NE,eduard,23817,,
+qd,mv7f.0,49243,49284,_Stage,_Stage,Eduard,NE,eduard,23817,,(3)
 qd,mv7f.0,49243,49284,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,49297,49337,WELLDORF,welldorf,zwischen,APPR,zwischen,23817,,
 qd,mv7f.0,49297,49337,WELLDORF,welldorf,Frau,NN,frau,23817,,
@@ -499,7 +499,7 @@ qd,mv7f.0,52786,52838,MADAME WELLDORF,madame_welldorf,Augenblicken,NN,augenblick
 qd,mv7f.0,52786,52838,MADAME WELLDORF,madame_welldorf,hinzutritt,VVFIN,hinzutreten,23817,,
 qd,mv7f.0,52786,52838,MADAME WELLDORF,madame_welldorf,",","$,",--,23817,,
 qd,mv7f.0,52786,52838,MADAME WELLDORF,madame_welldorf,zu,APPR,zu,23817,,
-qd,mv7f.0,52786,52838,MADAME WELLDORF,madame_welldorf,Eduard,NE,eduard,23817,,
+qd,mv7f.0,52786,52838,MADAME WELLDORF,madame_welldorf,Eduard,NE,eduard,23817,,(3)
 qd,mv7f.0,52786,52838,MADAME WELLDORF,madame_welldorf,.,$.,--,23817,,
 qd,mv7f.0,53416,53438,LUISE,luise,seine,PPOSAT,sein,23817,,
 qd,mv7f.0,53416,53438,LUISE,luise,Hand,NN,hand,23817,,
@@ -559,14 +559,14 @@ qd,mv7f.0,62446,62480,EDUARD,eduard,küssend,ADJD,küssend,23817,,
 qd,mv7f.0,62446,62480,EDUARD,eduard,.,$.,--,23817,,
 qd,mv7f.0,62672,62679,EDUARD,eduard,allein,ADV,allein,23817,,
 qd,mv7f.0,62672,62679,EDUARD,eduard,.,$.,--,23817,,
-qd,mv7f.0,63532,63575,_Stage,_Stage,Eduard,NE,eduard,23817,,
+qd,mv7f.0,63532,63575,_Stage,_Stage,Eduard,NE,eduard,23817,,(3)
 qd,mv7f.0,63532,63575,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,63532,63575,_Stage,_Stage,Ein,ART,ein,23817,,
-qd,mv7f.0,63532,63575,_Stage,_Stage,Bedienter,NN,bedienter,23817,,
+qd,mv7f.0,63532,63575,_Stage,_Stage,Bedienter,NN,bedienter,23817,,(7)
 qd,mv7f.0,63532,63575,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,63532,63575,_Stage,_Stage,Gleich,ADV,gleich,23817,,
 qd,mv7f.0,63532,63575,_Stage,_Stage,darauf,PROAV,darauf,23817,,
-qd,mv7f.0,63532,63575,_Stage,_Stage,Luise,NE,luise,23817,,
+qd,mv7f.0,63532,63575,_Stage,_Stage,Luise,NE,luise,23817,,(2)
 qd,mv7f.0,63532,63575,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,63592,63606,BEDIENTER,bedienter,sich,PRF,sich,23817,,
 qd,mv7f.0,63592,63606,BEDIENTER,bedienter,umsehend,ADJD,umsehend,23817,,
@@ -580,9 +580,9 @@ qd,mv7f.0,66089,66104,EDUARD,eduard,hinhörend,ADJD,hinhörend,23817,,
 qd,mv7f.0,66089,66104,EDUARD,eduard,.,$.,--,23817,,
 qd,mv7f.0,66341,66348,EDUARD,eduard,allein,ADV,allein,23817,,
 qd,mv7f.0,66341,66348,EDUARD,eduard,.,$.,--,23817,,
-qd,mv7f.0,67267,67281,_Stage,_Stage,Eduard,NE,eduard,23817,,
+qd,mv7f.0,67267,67281,_Stage,_Stage,Eduard,NE,eduard,23817,,(3)
 qd,mv7f.0,67267,67281,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,67267,67281,_Stage,_Stage,Luise,NE,luise,23817,,
+qd,mv7f.0,67267,67281,_Stage,_Stage,Luise,NE,luise,23817,,(2)
 qd,mv7f.0,67267,67281,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,67291,67337,LUISE,luise,langsam,ADJD,langsam,23817,,
 qd,mv7f.0,67291,67337,LUISE,luise,und,KON,und,23817,,
@@ -625,10 +625,10 @@ qd,mv7f.0,71514,71545,LUISE,luise,hinein,PTKVZ,hinein,23817,,
 qd,mv7f.0,71514,71545,LUISE,luise,.,$.,--,23817,,
 qd,mv7f.0,71666,71673,DER OBERST,der_oberst,allein,ADV,allein,23817,,
 qd,mv7f.0,71666,71673,DER OBERST,der_oberst,.,$.,--,23817,,
-qd,mv7f.0,73388,73406,_Stage,_Stage,Der,ART,der,23817,,
-qd,mv7f.0,73388,73406,_Stage,_Stage,Oberst,NN,oberst,23817,,
+qd,mv7f.0,73388,73406,_Stage,_Stage,Der,ART,der,23817,,(8
+qd,mv7f.0,73388,73406,_Stage,_Stage,Oberst,NN,oberst,23817,,8)
 qd,mv7f.0,73388,73406,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,73388,73406,_Stage,_Stage,Luise,NE,luise,23817,,
+qd,mv7f.0,73388,73406,_Stage,_Stage,Luise,NE,luise,23817,,(2)
 qd,mv7f.0,73388,73406,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,73416,73432,LUISE,luise,im,APPRART,in,23817,,
 qd,mv7f.0,73416,73432,LUISE,luise,Heraustreten,NN,heraustreten,23817,,
@@ -653,12 +653,12 @@ qd,mv7f.0,75924,75960,DER OBERST,der_oberst,er,PPER,er,23817,,
 qd,mv7f.0,75924,75960,DER OBERST,der_oberst,sie,PPER,sie,23817,,
 qd,mv7f.0,75924,75960,DER OBERST,der_oberst,fortzieht,VVFIN,fortziehen,23817,,
 qd,mv7f.0,75924,75960,DER OBERST,der_oberst,.,$.,--,23817,,
-qd,mv7f.0,76310,76345,_Stage,_Stage,Luise,NE,luise,23817,,
+qd,mv7f.0,76310,76345,_Stage,_Stage,Luise,NE,luise,23817,,(2)
 qd,mv7f.0,76310,76345,_Stage,_Stage,allein,ADV,allein,23817,,
 qd,mv7f.0,76310,76345,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,76310,76345,_Stage,_Stage,Gleich,ADV,gleich,23817,,
 qd,mv7f.0,76310,76345,_Stage,_Stage,darauf,PROAV,darauf,23817,,
-qd,mv7f.0,76310,76345,_Stage,_Stage,Eduard,NE,eduard,23817,,
+qd,mv7f.0,76310,76345,_Stage,_Stage,Eduard,NE,eduard,23817,,(3)
 qd,mv7f.0,76310,76345,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,76355,76380,LUISE,luise,in,APPR,in,23817,,
 qd,mv7f.0,76355,76380,LUISE,luise,äusserster,ADJA,äusserster,23817,,
@@ -676,13 +676,13 @@ qd,mv7f.0,77073,77083,LUISE,luise,zuvor,ADV,zuvor,23817,,
 qd,mv7f.0,77073,77083,LUISE,luise,.,$.,--,23817,,
 qd,mv7f.0,77499,77545,_Stage,_Stage,Vorige,NN,vorige,23817,,
 qd,mv7f.0,77499,77545,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,77499,77545,_Stage,_Stage,Der,ART,der,23817,,
-qd,mv7f.0,77499,77545,_Stage,_Stage,Oberst,NN,oberst,23817,,
+qd,mv7f.0,77499,77545,_Stage,_Stage,Der,ART,der,23817,,(8
+qd,mv7f.0,77499,77545,_Stage,_Stage,Oberst,NN,oberst,23817,,8)
 qd,mv7f.0,77499,77545,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,77499,77545,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,77499,77545,_Stage,_Stage,Welldorf,NE,welldorf,23817,,(6)
 qd,mv7f.0,77499,77545,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,77499,77545,_Stage,_Stage,Madame,NE,--,23817,,
-qd,mv7f.0,77499,77545,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,77499,77545,_Stage,_Stage,Madame,NE,--,23817,,(0
+qd,mv7f.0,77499,77545,_Stage,_Stage,Welldorf,NE,welldorf,23817,,0)|(6)
 qd,mv7f.0,77499,77545,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,77560,77576,DER OBERST,der_oberst,im,APPRART,in,23817,,
 qd,mv7f.0,77560,77576,DER OBERST,der_oberst,Heraustreten,NN,heraustreten,23817,,
@@ -692,8 +692,8 @@ qd,mv7f.0,77748,77765,LUISE,luise,.,$.,--,23817,,
 qd,mv7f.0,79070,79078,LUISE,luise,weinend,ADJD,weinend,23817,,
 qd,mv7f.0,79070,79078,LUISE,luise,.,$.,--,23817,,
 qd,mv7f.0,79291,79310,DER OBERST,der_oberst,zu,APPR,zu,23817,,
-qd,mv7f.0,79291,79310,DER OBERST,der_oberst,Madame,NN,--,23817,,
-qd,mv7f.0,79291,79310,DER OBERST,der_oberst,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,79291,79310,DER OBERST,der_oberst,Madame,NN,--,23817,,(0
+qd,mv7f.0,79291,79310,DER OBERST,der_oberst,Welldorf,NE,welldorf,23817,,0)|(6)
 qd,mv7f.0,79291,79310,DER OBERST,der_oberst,.,$.,--,23817,,
 qd,mv7f.0,80161,80195,WELLDORF,welldorf,taumelnd,ADJD,taumelnd,23817,,
 qd,mv7f.0,80161,80195,WELLDORF,welldorf,",","$,",--,23817,,
@@ -785,15 +785,15 @@ qd,mv7f.0,82888,82911,EDUARD,eduard,zur,APPRART,zu,23817,,
 qd,mv7f.0,82888,82911,EDUARD,eduard,Thüre,NN,thüre,23817,,
 qd,mv7f.0,82888,82911,EDUARD,eduard,nach,PTKVZ,nach,23817,,
 qd,mv7f.0,82888,82911,EDUARD,eduard,.,$.,--,23817,,
-qd,mv7f.0,83080,83126,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,83080,83126,_Stage,_Stage,Welldorf,NE,welldorf,23817,,(6)
 qd,mv7f.0,83080,83126,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,83080,83126,_Stage,_Stage,Madame,NE,--,23817,,
-qd,mv7f.0,83080,83126,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,83080,83126,_Stage,_Stage,Madame,NE,--,23817,,(0
+qd,mv7f.0,83080,83126,_Stage,_Stage,Welldorf,NE,welldorf,23817,,0)|(6)
 qd,mv7f.0,83080,83126,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,83080,83126,_Stage,_Stage,Eduard,NE,eduard,23817,,
+qd,mv7f.0,83080,83126,_Stage,_Stage,Eduard,NE,eduard,23817,,(3)
 qd,mv7f.0,83080,83126,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,83080,83126,_Stage,_Stage,Dann,ADV,dann,23817,,
-qd,mv7f.0,83080,83126,_Stage,_Stage,Luise,NE,luise,23817,,
+qd,mv7f.0,83080,83126,_Stage,_Stage,Luise,NE,luise,23817,,(2)
 qd,mv7f.0,83080,83126,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,83146,83156,MADAME WELLDORF,madame_welldorf,am,APPRART,an,23817,,
 qd,mv7f.0,83146,83156,MADAME WELLDORF,madame_welldorf,Sessel,NN,sessel,23817,,
@@ -808,7 +808,7 @@ qd,mv7f.0,84262,84269,EDUARD,eduard,.,$.,--,23817,,
 qd,mv7f.0,84572,84599,EDUARD,eduard,niedertretend,ADJD,niedertretend,23817,,
 qd,mv7f.0,84572,84599,EDUARD,eduard,",","$,",--,23817,,
 qd,mv7f.0,84572,84599,EDUARD,eduard,gegen,APPR,gegen,23817,,
-qd,mv7f.0,84572,84599,EDUARD,eduard,Luise,NE,luise,23817,,
+qd,mv7f.0,84572,84599,EDUARD,eduard,Luise,NE,luise,23817,,(2)
 qd,mv7f.0,84572,84599,EDUARD,eduard,.,$.,--,23817,,
 qd,mv7f.0,84719,84753,MADAME WELLDORF,madame_welldorf,die,ART,der,23817,,
 qd,mv7f.0,84719,84753,MADAME WELLDORF,madame_welldorf,sich,PRF,sich,23817,,
@@ -847,9 +847,9 @@ qd,mv7f.0,88110,88122,EDUARD,eduard,fortfahrend,ADJD,fortfahrend,23817,,
 qd,mv7f.0,88110,88122,EDUARD,eduard,.,$.,--,23817,,
 qd,mv7f.0,88933,88960,_Stage,_Stage,Vorige,NN,vorige,23817,,
 qd,mv7f.0,88933,88960,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,88933,88960,_Stage,_Stage,Sergeant,NN,sergeant,23817,,
+qd,mv7f.0,88933,88960,_Stage,_Stage,Sergeant,NN,sergeant,23817,,(9)
 qd,mv7f.0,88933,88960,_Stage,_Stage,mit,APPR,mit,23817,,
-qd,mv7f.0,88933,88960,_Stage,_Stage,Wache,NN,wache,23817,,
+qd,mv7f.0,88933,88960,_Stage,_Stage,Wache,NN,wache,23817,,(10)
 qd,mv7f.0,88933,88960,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,89094,89103,EDUARD,eduard,abgebend,ADJD,abgebend,23817,,
 qd,mv7f.0,89094,89103,EDUARD,eduard,.,$.,--,23817,,
@@ -869,13 +869,13 @@ qd,mv7f.0,90049,90059,LUISE,luise,umkehrend,ADJD,umkehrend,23817,,
 qd,mv7f.0,90049,90059,LUISE,luise,.,$.,--,23817,,
 qd,mv7f.0,90449,90456,MADAME WELLDORF,madame_welldorf,allein,ADV,allein,23817,,
 qd,mv7f.0,90449,90456,MADAME WELLDORF,madame_welldorf,.,$.,--,23817,,
-qd,mv7f.0,90993,91027,_Stage,_Stage,Madame,NE,--,23817,,
-qd,mv7f.0,90993,91027,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,90993,91027,_Stage,_Stage,Madame,NE,--,23817,,(0
+qd,mv7f.0,90993,91027,_Stage,_Stage,Welldorf,NE,welldorf,23817,,0)|(6)
 qd,mv7f.0,90993,91027,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,90993,91027,_Stage,_Stage,Sophie,NE,sophie,23817,,
+qd,mv7f.0,90993,91027,_Stage,_Stage,Sophie,NE,sophie,23817,,(1)
 qd,mv7f.0,90993,91027,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,90993,91027,_Stage,_Stage,Der,ART,der,23817,,
-qd,mv7f.0,90993,91027,_Stage,_Stage,Arzt,NN,arzt,23817,,
+qd,mv7f.0,90993,91027,_Stage,_Stage,Der,ART,der,23817,,(4
+qd,mv7f.0,90993,91027,_Stage,_Stage,Arzt,NN,arzt,23817,,4)
 qd,mv7f.0,90993,91027,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,91047,91082,MADAME WELLDORF,madame_welldorf,mit,APPR,mit,23817,,
 qd,mv7f.0,91047,91082,MADAME WELLDORF,madame_welldorf,Heftigkeit,NN,heftigkeit,23817,,
@@ -888,11 +888,11 @@ qd,mv7f.0,91411,91433,SOPHIE,sophie,dem,ART,der,23817,,
 qd,mv7f.0,91411,91433,SOPHIE,sophie,Arzte,NN,arzt,23817,,
 qd,mv7f.0,91411,91433,SOPHIE,sophie,drinnen,ADV,drinnen,23817,,
 qd,mv7f.0,91411,91433,SOPHIE,sophie,.,$.,--,23817,,
-qd,mv7f.0,91498,91525,_Stage,_Stage,Von,APPR,von,23817,,
-qd,mv7f.0,91498,91525,_Stage,_Stage,Brink,NE,brink,23817,,
+qd,mv7f.0,91498,91525,_Stage,_Stage,Von,APPR,von,23817,,(5
+qd,mv7f.0,91498,91525,_Stage,_Stage,Brink,NE,brink,23817,,5)
 qd,mv7f.0,91498,91525,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,91498,91525,_Stage,_Stage,Madame,NE,--,23817,,
-qd,mv7f.0,91498,91525,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,91498,91525,_Stage,_Stage,Madame,NE,--,23817,,(0
+qd,mv7f.0,91498,91525,_Stage,_Stage,Welldorf,NE,welldorf,23817,,0)|(6)
 qd,mv7f.0,91498,91525,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,91539,91569,VON BRINK,von_brink,im,APPRART,in,23817,,
 qd,mv7f.0,91539,91569,VON BRINK,von_brink,Hereintreten,NN,hereintreten,23817,,
@@ -922,15 +922,15 @@ qd,mv7f.0,93836,93879,VON BRINK,von_brink,und,KON,und,23817,,
 qd,mv7f.0,93836,93879,VON BRINK,von_brink,in,APPR,in,23817,,
 qd,mv7f.0,93836,93879,VON BRINK,von_brink,sich,PRF,sich,23817,,
 qd,mv7f.0,93836,93879,VON BRINK,von_brink,.,$.,--,23817,,
-qd,mv7f.0,94506,94557,_Stage,_Stage,Der,ART,der,23817,,
-qd,mv7f.0,94506,94557,_Stage,_Stage,Oberst,NN,oberst,23817,,
+qd,mv7f.0,94506,94557,_Stage,_Stage,Der,ART,der,23817,,(8
+qd,mv7f.0,94506,94557,_Stage,_Stage,Oberst,NN,oberst,23817,,8)
 qd,mv7f.0,94506,94557,_Stage,_Stage,mit,APPR,mit,23817,,
-qd,mv7f.0,94506,94557,_Stage,_Stage,Wache,NN,wache,23817,,
+qd,mv7f.0,94506,94557,_Stage,_Stage,Wache,NN,wache,23817,,(10)
 qd,mv7f.0,94506,94557,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,94506,94557,_Stage,_Stage,Gleich,ADV,gleich,23817,,
 qd,mv7f.0,94506,94557,_Stage,_Stage,hinterdrein,ADV,hinterdrein,23817,,
-qd,mv7f.0,94506,94557,_Stage,_Stage,von,APPR,von,23817,,
-qd,mv7f.0,94506,94557,_Stage,_Stage,Brink,NE,brink,23817,,
+qd,mv7f.0,94506,94557,_Stage,_Stage,von,APPR,von,23817,,(5
+qd,mv7f.0,94506,94557,_Stage,_Stage,Brink,NE,brink,23817,,5)
 qd,mv7f.0,94506,94557,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,94571,94612,VON BRINK,von_brink,mit,APPR,mit,23817,,
 qd,mv7f.0,94571,94612,VON BRINK,von_brink,aufgerissener,ADJA,aufgerissen,23817,,
@@ -946,7 +946,7 @@ qd,mv7f.0,94858,94892,DER OBERST,der_oberst,zu,PTKZU,zu,23817,,
 qd,mv7f.0,94858,94892,DER OBERST,der_oberst,achten,VVINF,achten,23817,,
 qd,mv7f.0,94858,94892,DER OBERST,der_oberst,",","$,",--,23817,,
 qd,mv7f.0,94858,94892,DER OBERST,der_oberst,zur,APPRART,zu,23817,,
-qd,mv7f.0,94858,94892,DER OBERST,der_oberst,Wache,NN,wache,23817,,
+qd,mv7f.0,94858,94892,DER OBERST,der_oberst,Wache,NN,wache,23817,,(10)
 qd,mv7f.0,94858,94892,DER OBERST,der_oberst,.,$.,--,23817,,
 qd,mv7f.0,95008,95037,VON BRINK,von_brink,vor,APPR,vor,23817,,
 qd,mv7f.0,95008,95037,VON BRINK,von_brink,das,ART,der,23817,,
@@ -956,17 +956,17 @@ qd,mv7f.0,95008,95037,VON BRINK,von_brink,.,$.,--,23817,,
 qd,mv7f.0,95627,95647,DER OBERST,der_oberst,sichtbar,ADJD,sichtbar,23817,,
 qd,mv7f.0,95627,95647,DER OBERST,der_oberst,beunruhigt,VVPP,beunruhigen,23817,,
 qd,mv7f.0,95627,95647,DER OBERST,der_oberst,.,$.,--,23817,,
-qd,mv7f.0,95884,95951,_Stage,_Stage,Der,ART,der,23817,,
-qd,mv7f.0,95884,95951,_Stage,_Stage,Oberst,NN,oberst,23817,,
+qd,mv7f.0,95884,95951,_Stage,_Stage,Der,ART,der,23817,,(8
+qd,mv7f.0,95884,95951,_Stage,_Stage,Oberst,NN,oberst,23817,,8)
 qd,mv7f.0,95884,95951,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,95884,95951,_Stage,_Stage,Von,APPR,von,23817,,
-qd,mv7f.0,95884,95951,_Stage,_Stage,Brink,NE,brink,23817,,
+qd,mv7f.0,95884,95951,_Stage,_Stage,Von,APPR,von,23817,,(5
+qd,mv7f.0,95884,95951,_Stage,_Stage,Brink,NE,brink,23817,,5)
 qd,mv7f.0,95884,95951,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,95884,95951,_Stage,_Stage,Einen,ART,ein,23817,,
 qd,mv7f.0,95884,95951,_Stage,_Stage,Augenblick,NN,augenblick,23817,,
 qd,mv7f.0,95884,95951,_Stage,_Stage,dazwischen,PROAV,dazwischen,23817,,
-qd,mv7f.0,95884,95951,_Stage,_Stage,Madame,NN,--,23817,,
-qd,mv7f.0,95884,95951,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,95884,95951,_Stage,_Stage,Madame,NN,--,23817,,(0
+qd,mv7f.0,95884,95951,_Stage,_Stage,Welldorf,NE,welldorf,23817,,0)|(6)
 qd,mv7f.0,95884,95951,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,95966,95982,DER OBERST,der_oberst,immer,ADV,immer,23817,,
 qd,mv7f.0,95966,95982,DER OBERST,der_oberst,in,APPR,in,23817,,
@@ -1028,7 +1028,7 @@ qd,mv7f.0,102704,102718,DER OBERST,der_oberst,umhertreibend,ADJD,umhertreibend,2
 qd,mv7f.0,102704,102718,DER OBERST,der_oberst,.,$.,--,23817,,
 qd,mv7f.0,102978,102992,_Stage,_Stage,Vorige,NN,vorige,23817,,
 qd,mv7f.0,102978,102992,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,102978,102992,_Stage,_Stage,Luise,NE,luise,23817,,
+qd,mv7f.0,102978,102992,_Stage,_Stage,Luise,NE,luise,23817,,(2)
 qd,mv7f.0,102978,102992,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,103002,103040,LUISE,luise,bleich,ADJD,bleich,23817,,
 qd,mv7f.0,103002,103040,LUISE,luise,vor,APPR,vor,23817,,
@@ -1052,11 +1052,11 @@ qd,mv7f.0,103393,103424,DER OBERST,der_oberst,",","$,",--,23817,,
 qd,mv7f.0,103393,103424,DER OBERST,der_oberst,zu,PTKZU,zu,23817,,
 qd,mv7f.0,103393,103424,DER OBERST,der_oberst,Brink,VVINF,brink,23817,,
 qd,mv7f.0,103393,103424,DER OBERST,der_oberst,.,$.,--,23817,,
-qd,mv7f.0,103794,103816,_Stage,_Stage,Von,APPR,von,23817,,
-qd,mv7f.0,103794,103816,_Stage,_Stage,Brink,NE,brink,23817,,
+qd,mv7f.0,103794,103816,_Stage,_Stage,Von,APPR,von,23817,,(5
+qd,mv7f.0,103794,103816,_Stage,_Stage,Brink,NE,brink,23817,,5)
 qd,mv7f.0,103794,103816,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,103794,103816,_Stage,_Stage,Der,ART,der,23817,,
-qd,mv7f.0,103794,103816,_Stage,_Stage,Oberst,NN,oberst,23817,,
+qd,mv7f.0,103794,103816,_Stage,_Stage,Der,ART,der,23817,,(8
+qd,mv7f.0,103794,103816,_Stage,_Stage,Oberst,NN,oberst,23817,,8)
 qd,mv7f.0,103794,103816,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,103830,103860,VON BRINK,von_brink,den,ART,der,23817,,
 qd,mv7f.0,103830,103860,VON BRINK,von_brink,Degen,NN,degen,23817,,
@@ -1081,14 +1081,14 @@ qd,mv7f.0,105114,105144,DER OBERST,der_oberst,Munde,NE,mund,23817,,
 qd,mv7f.0,105114,105144,DER OBERST,der_oberst,.,$.,--,23817,,
 qd,mv7f.0,105385,105392,VON BRINK,von_brink,allein,ADV,allein,23817,,
 qd,mv7f.0,105385,105392,VON BRINK,von_brink,.,$.,--,23817,,
-qd,mv7f.0,106075,106107,_Stage,_Stage,Von,APPR,von,23817,,
-qd,mv7f.0,106075,106107,_Stage,_Stage,Brink,NE,brink,23817,,
+qd,mv7f.0,106075,106107,_Stage,_Stage,Von,APPR,von,23817,,(5
+qd,mv7f.0,106075,106107,_Stage,_Stage,Brink,NE,brink,23817,,5)
 qd,mv7f.0,106075,106107,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,106075,106107,_Stage,_Stage,Luise,NE,luise,23817,,
+qd,mv7f.0,106075,106107,_Stage,_Stage,Luise,NE,luise,23817,,(2)
 qd,mv7f.0,106075,106107,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,106075,106107,_Stage,_Stage,Dann,ADV,dann,23817,,
-qd,mv7f.0,106075,106107,_Stage,_Stage,der,ART,der,23817,,
-qd,mv7f.0,106075,106107,_Stage,_Stage,Arzt,NN,arzt,23817,,
+qd,mv7f.0,106075,106107,_Stage,_Stage,der,ART,der,23817,,(4
+qd,mv7f.0,106075,106107,_Stage,_Stage,Arzt,NN,arzt,23817,,4)
 qd,mv7f.0,106075,106107,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,106117,106127,LUISE,luise,von,APPR,von,23817,,
 qd,mv7f.0,106117,106127,LUISE,luise,innen,ADV,innen,23817,,
@@ -1124,7 +1124,7 @@ qd,mv7f.0,108889,108939,VON BRINK,von_brink,trocknend,ADJD,trocknend,23817,,
 qd,mv7f.0,108889,108939,VON BRINK,von_brink,.,$.,--,23817,,
 qd,mv7f.0,109565,109580,_Stage,_Stage,Vorige,NN,vorige,23817,,
 qd,mv7f.0,109565,109580,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,109565,109580,_Stage,_Stage,Eduard,NE,eduard,23817,,
+qd,mv7f.0,109565,109580,_Stage,_Stage,Eduard,NE,eduard,23817,,(3)
 qd,mv7f.0,109565,109580,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,109590,109605,LUISE,luise,ihn,PPER,ihn,23817,,
 qd,mv7f.0,109590,109605,LUISE,luise,erblickend,ADJD,erblickend,23817,,
@@ -1144,8 +1144,8 @@ qd,mv7f.0,110072,110117,LUISE,luise,Stimme,NN,stimme,23817,,
 qd,mv7f.0,110072,110117,LUISE,luise,.,$.,--,23817,,
 qd,mv7f.0,110190,110214,_Stage,_Stage,Vorige,NN,vorige,23817,,
 qd,mv7f.0,110190,110214,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,110190,110214,_Stage,_Stage,Madame,NE,--,23817,,
-qd,mv7f.0,110190,110214,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,110190,110214,_Stage,_Stage,Madame,NE,--,23817,,(0
+qd,mv7f.0,110190,110214,_Stage,_Stage,Welldorf,NE,welldorf,23817,,0)|(6)
 qd,mv7f.0,110190,110214,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,110234,110288,MADAME WELLDORF,madame_welldorf,da,ADV,da,23817,,
 qd,mv7f.0,110234,110288,MADAME WELLDORF,madame_welldorf,beide,PIS,beide,23817,,
@@ -1204,12 +1204,12 @@ qd,mv7f.0,114079,114101,VON BRINK,von_brink,die,ART,der,23817,,
 qd,mv7f.0,114079,114101,VON BRINK,von_brink,Hand,NN,hand,23817,,
 qd,mv7f.0,114079,114101,VON BRINK,von_brink,drückend,ADJD,drückend,23817,,
 qd,mv7f.0,114079,114101,VON BRINK,von_brink,.,$.,--,23817,,
-qd,mv7f.0,114203,114234,_Stage,_Stage,Eduard,NE,eduard,23817,,
+qd,mv7f.0,114203,114234,_Stage,_Stage,Eduard,NE,eduard,23817,,(3)
 qd,mv7f.0,114203,114234,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,114203,114234,_Stage,_Stage,Madame,NE,--,23817,,
-qd,mv7f.0,114203,114234,_Stage,_Stage,Welldorf,NE,welldorf,23817,,
+qd,mv7f.0,114203,114234,_Stage,_Stage,Madame,NE,--,23817,,(0
+qd,mv7f.0,114203,114234,_Stage,_Stage,Welldorf,NE,welldorf,23817,,0)|(6)
 qd,mv7f.0,114203,114234,_Stage,_Stage,.,$.,--,23817,,
-qd,mv7f.0,114203,114234,_Stage,_Stage,Luise,NE,luise,23817,,
+qd,mv7f.0,114203,114234,_Stage,_Stage,Luise,NE,luise,23817,,(2)
 qd,mv7f.0,114203,114234,_Stage,_Stage,.,$.,--,23817,,
 qd,mv7f.0,114245,114269,EDUARD,eduard,jeder,PIDAT,jeder,23817,,
 qd,mv7f.0,114245,114269,EDUARD,eduard,eine,ART,ein,23817,,

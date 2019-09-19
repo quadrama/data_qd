@@ -48,6 +48,8 @@ qd,qn2w.0,8883,8950,der_komponist,8917,8920,Ich,der_komponist
 qd,qn2w.0,9071,9228,der_komponist,9131,9134,ich,der_komponist
 qd,qn2w.0,9071,9228,der_komponist,9145,9148,ich,der_komponist
 qd,qn2w.0,9071,9228,der_komponist,9190,9193,Ich,der_komponist
+qd,qn2w.0,9365,9435,_stage,9412,9431,die Dame des Hauses,die_dame
+qd,qn2w.0,9365,9435,_stage,9412,9420,die Dame,die_dame
 qd,qn2w.0,9783,9985,die_dame,9800,9803,ich,die_dame
 qd,qn2w.0,9783,9985,die_dame,9900,9903,mir,die_dame
 qd,qn2w.0,9991,10400,der_prinz,10146,10149,ich,der_prinz
@@ -96,6 +98,7 @@ qd,qn2w.0,13808,14925,der_prinz,13853,13856,ich,der_prinz
 qd,qn2w.0,13808,14925,der_prinz,13911,13915,mich,der_prinz
 qd,qn2w.0,13808,14925,der_prinz,14248,14251,ich,der_prinz
 qd,qn2w.0,13808,14925,der_prinz,14252,14257,meine,der_prinz
+qd,qn2w.0,13808,14925,der_prinz,14798,14808,der Zweite,der_zweite
 qd,qn2w.0,13808,14925,der_prinz,14818,14821,Ich,der_prinz
 qd,qn2w.0,13808,14925,der_prinz,14826,14830,mein,der_prinz
 qd,qn2w.0,13808,14925,der_prinz,14886,14889,ich,der_prinz
@@ -155,6 +158,7 @@ qd,qn2w.0,20375,20444,die_sängerin,20430,20433,Ich,die_sängerin
 qd,qn2w.0,20495,20617,die_sängerin,20587,20590,ich,die_sängerin
 qd,qn2w.0,20675,20791,die_sängerin,20706,20709,ich,die_sängerin
 qd,qn2w.0,20872,21309,die_sängerin,20935,20940,meine,die_sängerin
+qd,qn2w.0,21146,21269,_stage,21146,21154,Der Graf,der_graf
 qd,qn2w.0,21413,21514,der_prinz,21459,21462,Ich,der_prinz
 qd,qn2w.0,21413,21514,der_prinz,21499,21502,Ich,der_prinz
 qd,qn2w.0,21519,21727,die_sängerin,21676,21681,Meine,die_sängerin
@@ -270,6 +274,7 @@ qd,qn2w.0,31699,31815,ein_junges_mädchen,31720,31723,Ich,ein_junges_mädchen
 qd,qn2w.0,31978,32133,die_dame,32018,32021,Ich,die_dame
 qd,qn2w.0,31978,32133,die_dame,32054,32057,ich,die_dame
 qd,qn2w.0,32138,32382,der_dichter,32152,32155,Mir,der_dichter
+qd,qn2w.0,32138,32382,der_dichter,32173,32183,der zweite,der_zweite
 qd,qn2w.0,32138,32382,der_dichter,32340,32343,mir,der_dichter
 qd,qn2w.0,32459,32533,die_sängerin,32499,32502,ich,die_sängerin
 qd,qn2w.0,32459,32533,die_sängerin,32523,32526,mir,die_sängerin
@@ -312,6 +317,7 @@ qd,qn2w.0,36812,37069,der_staatsanwalt,36978,36981,ich,der_staatsanwalt
 qd,qn2w.0,37195,37296,der_prinz,37218,37221,Ich,der_prinz
 qd,qn2w.0,37195,37296,der_prinz,37240,37243,ich,der_prinz
 qd,qn2w.0,37195,37296,der_prinz,37244,37248,mich,der_prinz
+qd,qn2w.0,37574,37666,_stage,37607,37616,der Prinz,der_prinz
 qd,qn2w.0,37813,38046,der_staatsanwalt,37849,37852,Ich,der_staatsanwalt
 qd,qn2w.0,37813,38046,der_staatsanwalt,37906,37909,Ich,der_staatsanwalt
 qd,qn2w.0,37813,38046,der_staatsanwalt,37936,37939,mir,der_staatsanwalt
@@ -332,14 +338,18 @@ qd,qn2w.0,39586,40115,der_prinz,39826,39829,Ich,der_prinz
 qd,qn2w.0,39586,40115,der_prinz,39941,39944,Ich,der_prinz
 qd,qn2w.0,39586,40115,der_prinz,39966,39969,mir,der_prinz
 qd,qn2w.0,39586,40115,der_prinz,39982,39985,ich,der_prinz
+qd,qn2w.0,40160,40270,_stage,40220,40239,Die Dame des Hauses,die_dame
+qd,qn2w.0,40160,40270,_stage,40220,40228,Die Dame,die_dame
 qd,qn2w.0,40275,40439,der_graf,40347,40350,ich,der_graf
 qd,qn2w.0,40275,40439,der_graf,40358,40364,meinem,der_graf
 qd,qn2w.0,40275,40439,der_graf,40384,40387,ich,der_graf
 qd,qn2w.0,40275,40439,der_graf,40388,40393,meine,der_graf
+qd,qn2w.0,40529,40594,_stage,40561,40571,Der zweite,der_zweite
 qd,qn2w.0,40734,41074,die_sängerin,40789,40793,mich,die_sängerin
 qd,qn2w.0,40734,41074,die_sängerin,40794,40797,mir,die_sängerin
 qd,qn2w.0,40734,41074,die_sängerin,40824,40827,ich,die_sängerin
 qd,qn2w.0,40734,41074,die_sängerin,40866,40869,Ich,die_sängerin
+qd,qn2w.0,40976,41063,_stage,40986,40994,Der Graf,der_graf
 qd,qn2w.0,42205,42341,der_zweite,42288,42291,Ich,der_zweite
 qd,qn2w.0,42205,42341,der_zweite,42297,42301,mich,der_zweite
 qd,qn2w.0,42346,42460,der_erste,42358,42361,Ich,der_erste
@@ -350,9 +360,11 @@ qd,qn2w.0,43045,43171,ein_junger_rechtsanwalt,43082,43085,Ich,ein_junger_rechtsa
 qd,qn2w.0,43045,43171,ein_junger_rechtsanwalt,43103,43106,Mir,ein_junger_rechtsanwalt
 qd,qn2w.0,43176,43279,der_andere,43200,43203,mir,der_andere
 qd,qn2w.0,43455,43588,der_zweite,43550,43553,ich,der_zweite
+qd,qn2w.0,43563,43588,_stage,43563,43572,Der Prinz,der_prinz
 qd,qn2w.0,43593,43706,der_erste,43641,43644,mir,der_erste
 qd,qn2w.0,44100,44235,der_obmann,44135,44138,Ich,der_obmann
 qd,qn2w.0,44354,44556,ein_junger_rechtsanwalt,44419,44422,mir,ein_junger_rechtsanwalt
+qd,qn2w.0,44562,44693,der_ältere,44631,44653,Der junge Rechtsanwalt,ein_junger_rechtsanwalt
 qd,qn2w.0,44810,45012,ein_geschworener,44933,44936,ich,ein_geschworener
 qd,qn2w.0,45017,45102,der_angesprochene,45055,45058,ich,der_angesprochene
 qd,qn2w.0,45587,45653,der_prinz,45640,45643,Ich,der_prinz
@@ -360,13 +372,21 @@ qd,qn2w.0,45587,45653,der_prinz,45644,45649,meine,der_prinz
 qd,qn2w.0,46098,46204,irgendein_herr,46120,46123,ich,irgendein_herr
 qd,qn2w.0,46098,46204,irgendein_herr,46124,46127,mir,irgendein_herr
 qd,qn2w.0,46098,46204,irgendein_herr,46172,46177,meine,irgendein_herr
+qd,qn2w.0,46602,47008,_stage,46741,46757,der Staatsanwalt,der_staatsanwalt
+qd,qn2w.0,46602,47008,_stage,46796,46810,der Delinquent,der_delinquent
+qd,qn2w.0,46602,47008,_stage,46880,46894,der Geistliche,der_geistliche
+qd,qn2w.0,46602,47008,_stage,46935,46950,der Verteidiger,der_verteidiger
+qd,qn2w.0,47012,47060,_stage,47012,47026,Der Delinquent,der_delinquent
+qd,qn2w.0,47189,47322,_stage,47272,47286,der Delinquent,der_delinquent
 qd,qn2w.0,47327,47895,der_präsident,47722,47725,ich,der_präsident
 qd,qn2w.0,48456,50534,der_prinz,49534,49537,Ich,der_prinz
 qd,qn2w.0,48456,50534,der_prinz,49584,49587,mir,der_prinz
 qd,qn2w.0,48456,50534,der_prinz,49630,49633,Ich,der_prinz
+qd,qn2w.0,49706,49757,_stage,49706,49720,Der Delinquent,der_delinquent
 qd,qn2w.0,48456,50534,der_prinz,49790,49793,mir,der_prinz
 qd,qn2w.0,48456,50534,der_prinz,49952,49957,meine,der_prinz
 qd,qn2w.0,48456,50534,der_prinz,50018,50021,ich,der_prinz
+qd,qn2w.0,50427,50534,_stage,50486,50495,Der Prinz,der_prinz
 qd,qn2w.0,50539,51127,der_prinz,50562,50566,mich,der_prinz
 qd,qn2w.0,50539,51127,der_prinz,50584,50588,mich,der_prinz
 qd,qn2w.0,50539,51127,der_prinz,50606,50610,mich,der_prinz
@@ -396,6 +416,7 @@ qd,qn2w.0,51937,52890,der_prinz,52751,52754,mir,der_prinz
 qd,qn2w.0,51937,52890,der_prinz,52766,52769,mir,der_prinz
 qd,qn2w.0,51937,52890,der_prinz,52770,52775,meine,der_prinz
 qd,qn2w.0,51937,52890,der_prinz,52804,52809,meine,der_prinz
+qd,qn2w.0,53544,53613,_stage,53544,53553,Der Prinz,der_prinz
 qd,qn2w.0,54020,54353,die_sängerin,54121,54126,meine,die_sängerin
 qd,qn2w.0,54020,54353,die_sängerin,54153,54156,ich,die_sängerin
 qd,qn2w.0,54020,54353,die_sängerin,54186,54189,ich,die_sängerin
@@ -525,6 +546,8 @@ qd,qn2w.0,74608,76387,der_prinz,75938,75941,mir,der_prinz
 qd,qn2w.0,74608,76387,der_prinz,76017,76020,mir,der_prinz
 qd,qn2w.0,74608,76387,der_prinz,76041,76044,Ich,der_prinz
 qd,qn2w.0,74608,76387,der_prinz,76109,76112,mir,der_prinz
+qd,qn2w.0,76169,76387,_stage,76210,76226,der Staatsanwalt,der_staatsanwalt
+qd,qn2w.0,76169,76387,_stage,76251,76266,der Verteidiger,der_verteidiger
 qd,qn2w.0,76392,76668,der_staatsanwalt,76411,76414,Ich,der_staatsanwalt
 qd,qn2w.0,76673,76725,der_prinz,76698,76701,ich,der_prinz
 qd,qn2w.0,76730,77009,der_staatsanwalt,76810,76813,ich,der_staatsanwalt
@@ -554,6 +577,7 @@ qd,qn2w.0,80865,80961,der_prinz,80920,80923,ich,der_prinz
 qd,qn2w.0,81616,82449,der_gefängnisdirektor,81640,81643,Ich,der_gefängnisdirektor
 qd,qn2w.0,81616,82449,der_gefängnisdirektor,81776,81779,ich,der_gefängnisdirektor
 qd,qn2w.0,81616,82449,der_gefängnisdirektor,81863,81866,ich,der_gefängnisdirektor
+qd,qn2w.0,82284,82449,_stage,82284,82293,Der Prinz,der_prinz
 qd,qn2w.0,82454,82510,der_behäbige_herr,82490,82494,Mein,der_behäbige_herr
 qd,qn2w.0,82516,82599,der_prinz,82571,82574,Ich,der_prinz
 qd,qn2w.0,82516,82599,der_prinz,82583,82586,ich,der_prinz
@@ -577,7 +601,10 @@ qd,qn2w.0,84698,84993,der_staatsanwalt,84866,84869,Ich,der_staatsanwalt
 qd,qn2w.0,84998,85288,der_prinz,85137,85140,ich,der_prinz
 qd,qn2w.0,84998,85288,der_prinz,85147,85150,ich,der_prinz
 qd,qn2w.0,84998,85288,der_prinz,85153,85156,Ich,der_prinz
+qd,qn2w.0,85179,85288,_stage,85179,85195,Der Staatsanwalt,der_staatsanwalt
+qd,qn2w.0,85179,85288,_stage,85234,85249,Der Verteidiger,der_verteidiger
 qd,qn2w.0,85293,85369,der_prinz,85338,85341,Ich,der_prinz
+qd,qn2w.0,85488,85528,_stage,85488,85500,Der Aufseher,der_alte_aufseher
 qd,qn2w.0,85533,85638,der_prinz,85545,85548,Ich,der_prinz
 qd,qn2w.0,85533,85638,der_prinz,85579,85582,Ich,der_prinz
 qd,qn2w.0,85533,85638,der_prinz,85611,85615,mich,der_prinz
@@ -597,6 +624,8 @@ qd,qn2w.0,86613,86895,der_prinz,86879,86882,ich,der_prinz
 qd,qn2w.0,87235,87357,der_verteidiger,87260,87263,mir,der_verteidiger
 qd,qn2w.0,87235,87357,der_verteidiger,87320,87323,mir,der_verteidiger
 qd,qn2w.0,87402,87489,der_verteidiger,87441,87444,ich,der_verteidiger
+qd,qn2w.0,87402,87489,der_verteidiger,87467,87481,der Geistliche,der_geistliche
+qd,qn2w.0,87607,87689,der_prinz,87619,87633,Der Geistliche,der_geistliche
 qd,qn2w.0,87694,87793,der_verteidiger,87738,87741,ich,der_verteidiger
 qd,qn2w.0,87883,88053,der_verteidiger,87963,87966,Ich,der_verteidiger
 qd,qn2w.0,87883,88053,der_verteidiger,88010,88013,Ich,der_verteidiger
@@ -604,6 +633,7 @@ qd,qn2w.0,88187,88498,der_verteidiger,88221,88224,Ich,der_verteidiger
 qd,qn2w.0,88187,88498,der_verteidiger,88316,88319,mir,der_verteidiger
 qd,qn2w.0,88187,88498,der_verteidiger,88330,88333,ich,der_verteidiger
 qd,qn2w.0,88187,88498,der_verteidiger,88365,88368,Ich,der_verteidiger
+qd,qn2w.0,88435,88498,_stage,88467,88476,Der Prinz,der_prinz
 qd,qn2w.0,89017,89829,der_prinz,89074,89077,mir,der_prinz
 qd,qn2w.0,89017,89829,der_prinz,89085,89088,Ich,der_prinz
 qd,qn2w.0,89017,89829,der_prinz,89119,89122,Ich,der_prinz
@@ -622,7 +652,10 @@ qd,qn2w.0,90055,90171,der_prinz,90155,90158,ich,der_prinz
 qd,qn2w.0,90177,90257,der_alte_aufseher,90210,90213,Ich,der_alte_aufseher
 qd,qn2w.0,90420,90526,der_prinz,90451,90455,mich,der_prinz
 qd,qn2w.0,90420,90526,der_prinz,90471,90474,Ich,der_prinz
+qd,qn2w.0,90562,90689,_stage,90613,90623,Der Bruder,der_bruder
+qd,qn2w.0,90725,90838,der_alte_aufseher,90811,90825,Der geistliche,der_geistliche
 qd,qn2w.0,91077,91179,der_alte_aufseher,91106,91110,mich,der_alte_aufseher
+qd,qn2w.0,91331,91537,der_bruder,91477,91486,Der Prinz,der_prinz
 qd,qn2w.0,91605,92199,der_bruder,92024,92027,mir,der_bruder
 qd,qn2w.0,91605,92199,der_bruder,92077,92080,Ich,der_bruder
 qd,qn2w.0,91605,92199,der_bruder,92159,92162,Ich,der_bruder
@@ -672,6 +705,7 @@ qd,qn2w.0,94889,95391,der_bruder,95076,95079,ich,der_bruder
 qd,qn2w.0,94889,95391,der_bruder,95176,95179,Ich,der_bruder
 qd,qn2w.0,95952,96014,der_prinz,95972,95975,ich,der_prinz
 qd,qn2w.0,95952,96014,der_prinz,95987,95990,Ich,der_prinz
+qd,qn2w.0,96019,96294,der_bruder,96119,96128,Der Prinz,der_prinz
 qd,qn2w.0,96299,96442,der_prinz,96328,96331,Ich,der_prinz
 qd,qn2w.0,96299,96442,der_prinz,96345,96348,ich,der_prinz
 qd,qn2w.0,96299,96442,der_prinz,96399,96402,ich,der_prinz
@@ -720,6 +754,7 @@ qd,qn2w.0,102710,102910,der_prinz,102859,102862,mir,der_prinz
 qd,qn2w.0,102710,102910,der_prinz,102869,102873,mein,der_prinz
 qd,qn2w.0,102975,103095,der_prinz,103081,103085,mich,der_prinz
 qd,qn2w.0,103182,103500,der_bruder,103241,103245,Mein,der_bruder
+qd,qn2w.0,103343,103500,_stage,103464,103474,Der Bruder,der_bruder
 qd,qn2w.0,103544,103851,der_prinz,103586,103589,mir,der_prinz
 qd,qn2w.0,103544,103851,der_prinz,103591,103596,meine,der_prinz
 qd,qn2w.0,103544,103851,der_prinz,103619,103622,ich,der_prinz

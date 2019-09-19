@@ -1,6 +1,11 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,qdmw.0,241,1050,_stage,288,299,der Dichter,der_dichter
+qd,qdmw.0,241,1050,_stage,317,328,Der Dichter,der_dichter
+qd,qdmw.0,241,1050,_stage,865,876,der Dichter,der_dichter
 qd,qdmw.0,1053,20761,der_dichter,1141,1144,mir,der_dichter
 qd,qdmw.0,1053,20761,der_dichter,1159,1162,ich,der_dichter
+qd,qdmw.0,1053,20761,der_dichter,1214,1229,Madonna Dianora,dianora
+qd,qdmw.0,1053,20761,der_dichter,1222,1229,Dianora,dianora
 qd,qdmw.0,1053,20761,der_dichter,1300,1303,ich,der_dichter
 qd,qdmw.0,1053,20761,der_dichter,1374,1377,ich,der_dichter
 qd,qdmw.0,1053,20761,der_dichter,1469,1472,ich,der_dichter
@@ -174,30 +179,44 @@ qd,qdmw.0,22243,28921,dianora,27513,27517,mein,dianora
 qd,qdmw.0,22243,28921,dianora,28446,28449,ich,dianora
 qd,qdmw.0,22243,28921,dianora,28503,28509,meinen,dianora
 qd,qdmw.0,22243,28921,dianora,28520,28523,mir,dianora
+qd,qdmw.0,28783,28921,_stage,28840,28844,Amme,amme
+qd,qdmw.0,28926,29079,dianora,28984,28988,Amme,amme
 qd,qdmw.0,28926,29079,dianora,29015,29018,ich,dianora
 qd,qdmw.0,29086,29282,amme,29138,29141,ich,amme
 qd,qdmw.0,29086,29282,amme,29147,29152,meine,amme
 qd,qdmw.0,29086,29282,amme,29218,29221,mir,amme
 qd,qdmw.0,29086,29282,amme,29250,29253,ich,amme
+qd,qdmw.0,29288,29447,dianora,29330,29334,Amme,amme
+qd,qdmw.0,29423,29447,_stage,29423,29427,Amme,amme
+qd,qdmw.0,29580,29611,_stage,29580,29584,Amme,amme
+qd,qdmw.0,29616,29696,dianora,29669,29673,Amme,amme
 qd,qdmw.0,29616,29696,dianora,29683,29686,ich,dianora
 qd,qdmw.0,29841,29888,amme,29848,29851,Ich,amme
 qd,qdmw.0,30022,30101,dianora,30065,30071,meinem,dianora
 qd,qdmw.0,30137,30167,dianora,30151,30157,meinem,dianora
 qd,qdmw.0,30340,30495,amme,30400,30403,ich,amme
 qd,qdmw.0,30340,30495,amme,30419,30425,meinem,amme
+qd,qdmw.0,30631,30648,_stage,30631,30638,Dianora,dianora
 qd,qdmw.0,30653,30726,amme,30667,30670,mir,amme
 qd,qdmw.0,30772,30922,amme,30816,30819,mir,amme
 qd,qdmw.0,30992,31144,amme,31100,31103,ich,amme
 qd,qdmw.0,31258,31409,dianora,31276,31279,ich,dianora
 qd,qdmw.0,31258,31409,dianora,31288,31292,mich,dianora
+qd,qdmw.0,31391,31409,_stage,31391,31395,Amme,amme
 qd,qdmw.0,31414,31552,dianora,31424,31427,Ich,dianora
 qd,qdmw.0,31664,31868,dianora,31700,31703,Ich,dianora
 qd,qdmw.0,31664,31868,dianora,31769,31772,mir,dianora
 qd,qdmw.0,31664,31868,dianora,31814,31817,ich,dianora
 qd,qdmw.0,31664,31868,dianora,31849,31853,mein,dianora
+qd,qdmw.0,32188,32235,_stage,32188,32195,Dianora,dianora
+qd,qdmw.0,32761,32798,_stage,32761,32768,Dianora,dianora
+qd,qdmw.0,34830,34867,_stage,34830,34834,Amme,amme
 qd,qdmw.0,34872,35086,dianora,34892,34895,Ich,dianora
 qd,qdmw.0,34872,35086,dianora,35039,35042,mir,dianora
 qd,qdmw.0,35091,35150,amme,35098,35101,Ich,amme
+qd,qdmw.0,35346,35374,_stage,35346,35353,Dianora,dianora
+qd,qdmw.0,35929,35995,_stage,35929,35936,Dianora,dianora
+qd,qdmw.0,35929,35995,_stage,35962,35966,Amme,amme
 qd,qdmw.0,36000,36600,dianora,36337,36340,ich,dianora
 qd,qdmw.0,36000,36600,dianora,36341,36345,mich,dianora
 qd,qdmw.0,36000,36600,dianora,36359,36364,meine,dianora
@@ -206,7 +225,11 @@ qd,qdmw.0,36000,36600,dianora,36404,36407,ich,dianora
 qd,qdmw.0,36000,36600,dianora,36432,36435,mir,dianora
 qd,qdmw.0,36000,36600,dianora,36487,36490,Ich,dianora
 qd,qdmw.0,36605,36813,amme,36751,36754,ich,amme
+qd,qdmw.0,36819,36909,dianora,36848,36852,Amme,amme
 qd,qdmw.0,36819,36909,dianora,36876,36880,Mich,dianora
+qd,qdmw.0,36895,36909,_stage,36895,36899,Amme,amme
+qd,qdmw.0,36914,36968,dianora,36942,36946,Amme,amme
+qd,qdmw.0,36950,36968,_stage,36950,36954,Amme,amme
 qd,qdmw.0,36973,37032,dianora,37020,37023,ich,dianora
 qd,qdmw.0,37182,38952,dianora,37907,37911,mich,dianora
 qd,qdmw.0,37182,38952,dianora,37933,37937,mich,dianora
@@ -224,10 +247,25 @@ qd,qdmw.0,38957,42368,dianora,39487,39490,ich,dianora
 qd,qdmw.0,38957,42368,dianora,39998,40001,ich,dianora
 qd,qdmw.0,38957,42368,dianora,40088,40091,ich,dianora
 qd,qdmw.0,38957,42368,dianora,40237,40240,ich,dianora
+qd,qdmw.0,40278,41068,_stage,40584,40598,Messer Braccio,messer_braccio
+qd,qdmw.0,40278,41068,_stage,40591,40598,Braccio,messer_braccio
+qd,qdmw.0,40278,41068,_stage,40995,41002,Dianora,dianora
+qd,qdmw.0,41071,41122,_stage,41071,41085,Messer Braccio,messer_braccio
+qd,qdmw.0,41071,41122,_stage,41078,41085,Braccio,messer_braccio
+qd,qdmw.0,41125,41232,_stage,41125,41132,Dianora,dianora
+qd,qdmw.0,41235,41285,_stage,41235,41242,Braccio,messer_braccio
+qd,qdmw.0,41639,42094,_stage,41639,41646,Dianora,dianora
+qd,qdmw.0,42097,42368,_stage,42097,42104,Braccio,messer_braccio
+qd,qdmw.0,42488,42545,_stage,42488,42495,Dianora,dianora
 qd,qdmw.0,42550,42668,messer_braccio,42560,42563,Ich,messer_braccio
+qd,qdmw.0,42575,42668,_stage,42575,42582,Dianora,dianora
+qd,qdmw.0,42956,43030,_stage,42956,42963,Braccio,messer_braccio
+qd,qdmw.0,43064,43088,_stage,43064,43071,Dianora,dianora
+qd,qdmw.0,43151,43168,_stage,43151,43158,Dianora,dianora
 qd,qdmw.0,43173,43474,dianora,43200,43206,Meines,dianora
 qd,qdmw.0,43173,43474,dianora,43259,43263,mich,dianora
 qd,qdmw.0,43173,43474,dianora,43323,43327,mich,dianora
+qd,qdmw.0,43397,43474,_stage,43397,43404,Braccio,messer_braccio
 qd,qdmw.0,43479,43845,dianora,43725,43728,Ich,dianora
 qd,qdmw.0,43479,43845,dianora,43755,43758,mir,dianora
 qd,qdmw.0,43899,44904,dianora,44009,44012,Ich,dianora
@@ -243,6 +281,7 @@ qd,qdmw.0,43899,44904,dianora,44468,44473,Meine,dianora
 qd,qdmw.0,43899,44904,dianora,44494,44497,ich,dianora
 qd,qdmw.0,43899,44904,dianora,44738,44741,mir,dianora
 qd,qdmw.0,43899,44904,dianora,44759,44762,Ich,dianora
+qd,qdmw.0,44808,44904,_stage,44808,44815,Braccio,messer_braccio
 qd,qdmw.0,44909,46260,dianora,44934,44938,mich,dianora
 qd,qdmw.0,44909,46260,dianora,44964,44967,ich,dianora
 qd,qdmw.0,44909,46260,dianora,45061,45065,mich,dianora
@@ -269,6 +308,8 @@ qd,qdmw.0,44909,46260,dianora,46232,46235,ich,dianora
 qd,qdmw.0,44909,46260,dianora,46236,46240,mich,dianora
 qd,qdmw.0,44909,46260,dianora,46246,46249,ich,dianora
 qd,qdmw.0,46604,46742,messer_braccio,46627,46633,meinen,messer_braccio
+qd,qdmw.0,46688,46705,_stage,46688,46695,Dianora,dianora
+qd,qdmw.0,46708,46742,_stage,46708,46715,Braccio,messer_braccio
 qd,qdmw.0,46747,48853,dianora,46797,46801,mein,dianora
 qd,qdmw.0,46747,48853,dianora,46822,46825,ich,dianora
 qd,qdmw.0,46747,48853,dianora,46845,46848,Ich,dianora
@@ -290,6 +331,7 @@ qd,qdmw.0,46747,48853,dianora,48415,48421,meiner,dianora
 qd,qdmw.0,46747,48853,dianora,48598,48601,mir,dianora
 qd,qdmw.0,46747,48853,dianora,48606,48612,meinem,dianora
 qd,qdmw.0,46747,48853,dianora,48639,48642,Ich,dianora
+qd,qdmw.0,48826,48853,_stage,48826,48833,Braccio,messer_braccio
 qd,qdmw.0,48858,49700,dianora,49046,49050,mich,dianora
 qd,qdmw.0,48858,49700,dianora,49092,49095,ich,dianora
 qd,qdmw.0,48858,49700,dianora,49114,49117,ich,dianora
@@ -298,6 +340,9 @@ qd,qdmw.0,48858,49700,dianora,49221,49224,mir,dianora
 qd,qdmw.0,48858,49700,dianora,49250,49253,ich,dianora
 qd,qdmw.0,48858,49700,dianora,49282,49285,mir,dianora
 qd,qdmw.0,48858,49700,dianora,49321,49324,mir,dianora
+qd,qdmw.0,49519,49700,_stage,49581,49588,Braccio,messer_braccio
 qd,qdmw.0,49705,49998,messer_braccio,49846,49849,ich,messer_braccio
 qd,qdmw.0,49705,49998,messer_braccio,49918,49921,mir,messer_braccio
 qd,qdmw.0,49705,49998,messer_braccio,49927,49932,meine,messer_braccio
+qd,qdmw.0,50497,50848,_stage,50497,50511,Messer Braccio,messer_braccio
+qd,qdmw.0,50497,50848,_stage,50504,50511,Braccio,messer_braccio

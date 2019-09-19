@@ -1,16 +1,16 @@
 corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
-qd,t907.0,555,648,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,555,648,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,555,648,_Stage,_Stage,Herr,NN,herr,29480,,(0
+qd,t907.0,555,648,_Stage,_Stage,Gotthart,NE,gotthart,29480,,0)
 qd,t907.0,555,648,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,555,648,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,555,648,_Stage,_Stage,Dr,NE,dr,29480,,
+qd,t907.0,555,648,_Stage,_Stage,Dr,NE,dr,29480,,(1
 qd,t907.0,555,648,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,555,648,_Stage,_Stage,Muskat,NE,muskat,29480,,
+qd,t907.0,555,648,_Stage,_Stage,Muskat,NE,muskat,29480,,1)
 qd,t907.0,555,648,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,555,648,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,555,648,_Stage,_Stage,Dr,NE,dr,29480,,
+qd,t907.0,555,648,_Stage,_Stage,Dr,NE,dr,29480,,(2
 qd,t907.0,555,648,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,555,648,_Stage,_Stage,Krebsstein,NE,krebsstein,29480,,
+qd,t907.0,555,648,_Stage,_Stage,Krebsstein,NE,krebsstein,29480,,2)
 qd,t907.0,555,648,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,555,648,_Stage,_Stage,Sie,PPER,sie,29480,,
 qd,t907.0,555,648,_Stage,_Stage,kommen,VVFIN,kommen,29480,,
@@ -50,17 +50,17 @@ qd,t907.0,12213,12249,HERR GOTTHART,herr_gotthart,an,PTKVZ,an,29480,,
 qd,t907.0,12213,12249,HERR GOTTHART,herr_gotthart,.,$.,--,29480,,
 qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,So,ADV,so,29480,,
 qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,oft,ADV,oft,29480,,
-qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,Dr,NN,dr,29480,,
+qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,Dr,NN,dr,29480,,(2
 qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,.,$.,--,29480,,
-qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,Krebsstein,NE,krebsstein,29480,,
+qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,Krebsstein,NE,krebsstein,29480,,2)
 qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,ein,ART,ein,29480,,
 qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,Brunnenwasser,NN,brunnenwasser,29480,,
 qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,vorschlägt,VVFIN,vorschlagen,29480,,
 qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,",","$,",--,29480,,
 qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,schüttelt,VVFIN,schütteln,29480,,
-qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,Dr,NE,dr,29480,,
+qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,Dr,NE,dr,29480,,(1
 qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,.,$.,--,29480,,
-qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,Muskat,NE,muskat,29480,,
+qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,Muskat,NE,muskat,29480,,1)
 qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,den,ART,der,29480,,
 qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,Kopf,NN,kopf,29480,,
 qd,t907.0,13186,13328,HERR GOTTHART,herr_gotthart,dazu,PROAV,dazu,29480,,
@@ -82,10 +82,10 @@ qd,t907.0,15295,15311,HERR GOTTHART,herr_gotthart,ruft,VVFIN,rufen,29480,,
 qd,t907.0,15295,15311,HERR GOTTHART,herr_gotthart,ihnen,PPER,ihnen,29480,,
 qd,t907.0,15295,15311,HERR GOTTHART,herr_gotthart,nach,PTKVZ,nach,29480,,
 qd,t907.0,15295,15311,HERR GOTTHART,herr_gotthart,.,$.,--,29480,,
-qd,t907.0,15567,15619,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,15567,15619,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,15567,15619,_Stage,_Stage,Herr,NN,herr,29480,,(0
+qd,t907.0,15567,15619,_Stage,_Stage,Gotthart,NE,gotthart,29480,,0)
 qd,t907.0,15567,15619,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,15567,15619,_Stage,_Stage,Heinrich,NE,heinrich,29480,,
+qd,t907.0,15567,15619,_Stage,_Stage,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,15567,15619,_Stage,_Stage,",","$,",--,29480,,
 qd,t907.0,15567,15619,_Stage,_Stage,der,ART,der,29480,,
 qd,t907.0,15567,15619,_Stage,_Stage,hereingestolpert,ADJD,hereingestolpern,29480,,
@@ -124,16 +124,16 @@ qd,t907.0,26044,26057,HERR GOTTHART,herr_gotthart,.,$.,--,29480,,
 qd,t907.0,26267,26279,HERR GOTTHART,herr_gotthart,ganz,ADV,ganz,29480,,
 qd,t907.0,26267,26279,HERR GOTTHART,herr_gotthart,lustig,ADJD,lustig,29480,,
 qd,t907.0,26267,26279,HERR GOTTHART,herr_gotthart,.,$.,--,29480,,
-qd,t907.0,28501,28535,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,28501,28535,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,28501,28535,_Stage,_Stage,Herr,NN,herr,29480,,(0
+qd,t907.0,28501,28535,_Stage,_Stage,Gotthart,NE,gotthart,29480,,0)
 qd,t907.0,28501,28535,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,28501,28535,_Stage,_Stage,Heinrich,NE,heinrich,29480,,
+qd,t907.0,28501,28535,_Stage,_Stage,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,28501,28535,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,28501,28535,_Stage,_Stage,Kathrine,NN,kathrine,29480,,
+qd,t907.0,28501,28535,_Stage,_Stage,Kathrine,NN,kathrine,29480,,(4)
 qd,t907.0,28501,28535,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,29447,29466,_Stage,_Stage,Heinrich,NE,heinrich,29480,,
+qd,t907.0,29447,29466,_Stage,_Stage,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,29447,29466,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,29447,29466,_Stage,_Stage,Kathrine,NN,kathrine,29480,,
+qd,t907.0,29447,29466,_Stage,_Stage,Kathrine,NN,kathrine,29480,,(4)
 qd,t907.0,29447,29466,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,29800,29805,KATHRINE,kathrine,böse,ADJD,böse,29480,,
 qd,t907.0,29800,29805,KATHRINE,kathrine,.,$.,--,29480,,
@@ -153,7 +153,7 @@ qd,t907.0,31901,31930,_Stage,_Stage,Der,ART,der,29480,,
 qd,t907.0,31901,31930,_Stage,_Stage,junge,ADJA,jung,29480,,
 qd,t907.0,31901,31930,_Stage,_Stage,Gotthart,NN,gotthart,29480,,
 qd,t907.0,31901,31930,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,31901,31930,_Stage,_Stage,Heinrich,NE,heinrich,29480,,
+qd,t907.0,31901,31930,_Stage,_Stage,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,31901,31930,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,31949,31964,ERNST GOTTHART,ernst_gotthart,ganz,ADV,ganz,29480,,
 qd,t907.0,31949,31964,ERNST GOTTHART,ernst_gotthart,ängstlich,ADJD,ängstlich,29480,,
@@ -236,21 +236,21 @@ qd,t907.0,42412,42466,_Stage,_Stage,Gotthart,NN,gotthart,29480,,
 qd,t907.0,42412,42466,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,42412,42466,_Stage,_Stage,Der,ART,der,29480,,
 qd,t907.0,42412,42466,_Stage,_Stage,junge,ADJA,jung,29480,,
-qd,t907.0,42412,42466,_Stage,_Stage,Ernst,NN,ernst,29480,,
-qd,t907.0,42412,42466,_Stage,_Stage,Gotthart,VVPP,gotthart,29480,,
+qd,t907.0,42412,42466,_Stage,_Stage,Ernst,NN,ernst,29480,,(5
+qd,t907.0,42412,42466,_Stage,_Stage,Gotthart,VVPP,gotthart,29480,,5)
 qd,t907.0,42412,42466,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,42412,42466,_Stage,_Stage,Heinrich,NE,heinrich,29480,,
+qd,t907.0,42412,42466,_Stage,_Stage,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,42412,42466,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,42484,42497,HERR GOTTHART,herr_gotthart,zum,APPRART,zu,29480,,
-qd,t907.0,42484,42497,HERR GOTTHART,herr_gotthart,Heinrich,NE,heinrich,29480,,
+qd,t907.0,42484,42497,HERR GOTTHART,herr_gotthart,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,42484,42497,HERR GOTTHART,herr_gotthart,.,$.,--,29480,,
 qd,t907.0,44286,44325,_Stage,_Stage,Der,ART,der,29480,,
 qd,t907.0,44286,44325,_Stage,_Stage,alte,ADJA,alt,29480,,
-qd,t907.0,44286,44325,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,44286,44325,_Stage,_Stage,Gotthart,VVPP,gotthart,29480,,
+qd,t907.0,44286,44325,_Stage,_Stage,Herr,NN,herr,29480,,(0
+qd,t907.0,44286,44325,_Stage,_Stage,Gotthart,VVPP,gotthart,29480,,0)
 qd,t907.0,44286,44325,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,44286,44325,_Stage,_Stage,Ernst,NE,ernst,29480,,
-qd,t907.0,44286,44325,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,44286,44325,_Stage,_Stage,Ernst,NE,ernst,29480,,(5
+qd,t907.0,44286,44325,_Stage,_Stage,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,44286,44325,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,44490,44538,ERNST GOTTHART,ernst_gotthart,fällt,VVFIN,fallen,29480,,
 qd,t907.0,44490,44538,ERNST GOTTHART,ernst_gotthart,auf,APPR,auf,29480,,
@@ -272,27 +272,27 @@ qd,t907.0,46094,46124,HERR GOTTHART,herr_gotthart,.,$.,--,29480,,
 qd,t907.0,48211,48233,_Stage,_Stage,Die,ART,der,29480,,
 qd,t907.0,48211,48233,_Stage,_Stage,Vorigen,NN,vorige,29480,,
 qd,t907.0,48211,48233,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,48211,48233,_Stage,_Stage,Kathrine,NN,kathrine,29480,,
+qd,t907.0,48211,48233,_Stage,_Stage,Kathrine,NN,kathrine,29480,,(4)
 qd,t907.0,48211,48233,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,48358,48371,HERR GOTTHART,herr_gotthart,verdrießlich,ADJD,verdrießlich,29480,,
 qd,t907.0,48358,48371,HERR GOTTHART,herr_gotthart,.,$.,--,29480,,
 qd,t907.0,49653,49692,_Stage,_Stage,Der,ART,der,29480,,
 qd,t907.0,49653,49692,_Stage,_Stage,alte,ADJA,alt,29480,,
-qd,t907.0,49653,49692,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,49653,49692,_Stage,_Stage,Gotthart,VVPP,gotthart,29480,,
+qd,t907.0,49653,49692,_Stage,_Stage,Herr,NN,herr,29480,,(0
+qd,t907.0,49653,49692,_Stage,_Stage,Gotthart,VVPP,gotthart,29480,,0)
 qd,t907.0,49653,49692,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,49653,49692,_Stage,_Stage,Ernst,NE,ernst,29480,,
-qd,t907.0,49653,49692,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,49653,49692,_Stage,_Stage,Ernst,NE,ernst,29480,,(5
+qd,t907.0,49653,49692,_Stage,_Stage,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,49653,49692,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,50106,50152,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,50106,50152,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,50106,50152,_Stage,_Stage,Herr,NN,herr,29480,,(0
+qd,t907.0,50106,50152,_Stage,_Stage,Gotthart,NE,gotthart,29480,,0)
 qd,t907.0,50106,50152,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,50106,50152,_Stage,_Stage,Ernst,NE,ernst,29480,,
-qd,t907.0,50106,50152,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,50106,50152,_Stage,_Stage,Ernst,NE,ernst,29480,,(5
+qd,t907.0,50106,50152,_Stage,_Stage,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,50106,50152,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,50106,50152,_Stage,_Stage,Dr,NN,dr,29480,,
+qd,t907.0,50106,50152,_Stage,_Stage,Dr,NN,dr,29480,,(2
 qd,t907.0,50106,50152,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,50106,50152,_Stage,_Stage,Krebsstein,NE,krebsstein,29480,,
+qd,t907.0,50106,50152,_Stage,_Stage,Krebsstein,NE,krebsstein,29480,,2)
 qd,t907.0,50106,50152,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,52254,52266,ERNST GOTTHART,ernst_gotthart,erschrocken,VVIZU,erschrocken,29480,,
 qd,t907.0,52254,52266,ERNST GOTTHART,ernst_gotthart,.,$.,--,29480,,
@@ -366,11 +366,11 @@ qd,t907.0,56414,56502,ERNST GOTTHART,ernst_gotthart,hinter,APPR,hinter,29480,,
 qd,t907.0,56414,56502,ERNST GOTTHART,ernst_gotthart,sich,PRF,sich,29480,,
 qd,t907.0,56414,56502,ERNST GOTTHART,ernst_gotthart,zu,PTKVZ,zu,29480,,
 qd,t907.0,56414,56502,ERNST GOTTHART,ernst_gotthart,.,$.,--,29480,,
-qd,t907.0,56555,56585,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,56555,56585,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,56555,56585,_Stage,_Stage,Herr,NN,herr,29480,,(0
+qd,t907.0,56555,56585,_Stage,_Stage,Gotthart,NE,gotthart,29480,,0)
 qd,t907.0,56555,56585,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,56555,56585,_Stage,_Stage,Ernst,NE,ernst,29480,,
-qd,t907.0,56555,56585,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,56555,56585,_Stage,_Stage,Ernst,NE,ernst,29480,,(5
+qd,t907.0,56555,56585,_Stage,_Stage,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,56555,56585,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,56972,56984,HERR GOTTHART,herr_gotthart,erschrocken,VVIZU,erschrocken,29480,,
 qd,t907.0,56972,56984,HERR GOTTHART,herr_gotthart,.,$.,--,29480,,
@@ -380,10 +380,10 @@ qd,t907.0,58258,58286,ERNST GOTTHART,ernst_gotthart,Gebärden,NN,gebärde,29480,
 qd,t907.0,58258,58286,ERNST GOTTHART,ernst_gotthart,.,$.,--,29480,,
 qd,t907.0,58466,58570,_Stage,_Stage,Der,ART,der,29480,,
 qd,t907.0,58466,58570,_Stage,_Stage,alte,ADJA,alt,29480,,
-qd,t907.0,58466,58570,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,58466,58570,_Stage,_Stage,Gotthart,VVPP,gotthart,29480,,
+qd,t907.0,58466,58570,_Stage,_Stage,Herr,NN,herr,29480,,(0
+qd,t907.0,58466,58570,_Stage,_Stage,Gotthart,VVPP,gotthart,29480,,0)
 qd,t907.0,58466,58570,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,58466,58570,_Stage,_Stage,Heinrich,NE,heinrich,29480,,
+qd,t907.0,58466,58570,_Stage,_Stage,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,58466,58570,_Stage,_Stage,",","$,",--,29480,,
 qd,t907.0,58466,58570,_Stage,_Stage,der,PRELS,der,29480,,
 qd,t907.0,58466,58570,_Stage,_Stage,allerlei,PIAT,allerlei,29480,,
@@ -401,7 +401,7 @@ qd,t907.0,58993,59000,HEINRICH,heinrich,stutzt,ADJD,stutzen,29480,,
 qd,t907.0,58993,59000,HEINRICH,heinrich,.,$.,--,29480,,
 qd,t907.0,59557,59569,HEINRICH,heinrich,verwundernd,ADJD,verwundernd,29480,,
 qd,t907.0,59557,59569,HEINRICH,heinrich,.,$.,--,29480,,
-qd,t907.0,60630,60893,_Stage,_Stage,Heinrich,NE,heinrich,29480,,
+qd,t907.0,60630,60893,_Stage,_Stage,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,60630,60893,_Stage,_Stage,alleine,ADV,alleine,29480,,
 qd,t907.0,60630,60893,_Stage,_Stage,",","$,",--,29480,,
 qd,t907.0,60630,60893,_Stage,_Stage,der,PRELS,der,29480,,
@@ -417,10 +417,10 @@ qd,t907.0,60630,60893,_Stage,_Stage,Bald,ADV,bald,29480,,
 qd,t907.0,60630,60893,_Stage,_Stage,darauf,PROAV,darauf,29480,,
 qd,t907.0,60630,60893,_Stage,_Stage,kommen,VVFIN,kommen,29480,,
 qd,t907.0,60630,60893,_Stage,_Stage,die,ART,der,29480,,
-qd,t907.0,60630,60893,_Stage,_Stage,Frau,NN,frau,29480,,
-qd,t907.0,60630,60893,_Stage,_Stage,Kreuzin,NE,kreuzin,29480,,
+qd,t907.0,60630,60893,_Stage,_Stage,Frau,NN,frau,29480,,(7
+qd,t907.0,60630,60893,_Stage,_Stage,Kreuzin,NE,kreuzin,29480,,7)
 qd,t907.0,60630,60893,_Stage,_Stage,",","$,",--,29480,,
-qd,t907.0,60630,60893,_Stage,_Stage,Jungfer,NE,jungfer,29480,,
+qd,t907.0,60630,60893,_Stage,_Stage,Jungfer,NE,jungfer,29480,,(6)
 qd,t907.0,60630,60893,_Stage,_Stage,Fröhlichin,NE,fröhlichin,29480,,
 qd,t907.0,60630,60893,_Stage,_Stage,",","$,",--,29480,,
 qd,t907.0,60630,60893,_Stage,_Stage,Herr,NN,herr,29480,,
@@ -428,19 +428,19 @@ qd,t907.0,60630,60893,_Stage,_Stage,Fröhlich,NE,fröhlich,29480,,
 qd,t907.0,60630,60893,_Stage,_Stage,",","$,",--,29480,,
 qd,t907.0,60630,60893,_Stage,_Stage,der,ART,der,29480,,
 qd,t907.0,60630,60893,_Stage,_Stage,alte,ADJA,alt,29480,,
-qd,t907.0,60630,60893,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,60630,60893,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,60630,60893,_Stage,_Stage,Herr,NN,herr,29480,,(0
+qd,t907.0,60630,60893,_Stage,_Stage,Gotthart,NE,gotthart,29480,,0)
 qd,t907.0,60630,60893,_Stage,_Stage,und,KON,und,29480,,
 qd,t907.0,60630,60893,_Stage,_Stage,der,ART,der,29480,,
 qd,t907.0,60630,60893,_Stage,_Stage,junge,ADJA,jung,29480,,
-qd,t907.0,60630,60893,_Stage,_Stage,Ernst,NN,ernst,29480,,
-qd,t907.0,60630,60893,_Stage,_Stage,Gotthart,VVPP,gotthart,29480,,
+qd,t907.0,60630,60893,_Stage,_Stage,Ernst,NN,ernst,29480,,(5
+qd,t907.0,60630,60893,_Stage,_Stage,Gotthart,VVPP,gotthart,29480,,5)
 qd,t907.0,60630,60893,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,60630,60893,_Stage,_Stage,Die,ART,der,29480,,
-qd,t907.0,60630,60893,_Stage,_Stage,Frau,NN,frau,29480,,
-qd,t907.0,60630,60893,_Stage,_Stage,Kreuzin,NE,kreuzin,29480,,
+qd,t907.0,60630,60893,_Stage,_Stage,Frau,NN,frau,29480,,(7
+qd,t907.0,60630,60893,_Stage,_Stage,Kreuzin,NE,kreuzin,29480,,7)
 qd,t907.0,60630,60893,_Stage,_Stage,und,KON,und,29480,,
-qd,t907.0,60630,60893,_Stage,_Stage,Jungfer,NE,jungfer,29480,,
+qd,t907.0,60630,60893,_Stage,_Stage,Jungfer,NE,jungfer,29480,,(6)
 qd,t907.0,60630,60893,_Stage,_Stage,Fröhlichin,NE,fröhlichin,29480,,
 qd,t907.0,60630,60893,_Stage,_Stage,nötigen,ADJA,nötigen,29480,,
 qd,t907.0,60630,60893,_Stage,_Stage,einander,ADV,einander,29480,,
@@ -455,22 +455,22 @@ qd,t907.0,62706,62721,HERR GOTTHART,herr_gotthart,.,$.,--,29480,,
 qd,t907.0,63040,63080,HERR GOTTHART,herr_gotthart,Herr,NN,herr,29480,,
 qd,t907.0,63040,63080,HERR GOTTHART,herr_gotthart,Fröhlich,NE,fröhlich,29480,,
 qd,t907.0,63040,63080,HERR GOTTHART,herr_gotthart,und,KON,und,29480,,
-qd,t907.0,63040,63080,HERR GOTTHART,herr_gotthart,Herr,NN,herr,29480,,
-qd,t907.0,63040,63080,HERR GOTTHART,herr_gotthart,Gotthart,NE,gotthart,29480,,
+qd,t907.0,63040,63080,HERR GOTTHART,herr_gotthart,Herr,NN,herr,29480,,(0
+qd,t907.0,63040,63080,HERR GOTTHART,herr_gotthart,Gotthart,NE,gotthart,29480,,0)
 qd,t907.0,63040,63080,HERR GOTTHART,herr_gotthart,gehn,CARD,gehn,29480,,
 qd,t907.0,63040,63080,HERR GOTTHART,herr_gotthart,ab,PTKVZ,ab,29480,,
 qd,t907.0,63040,63080,HERR GOTTHART,herr_gotthart,.,$.,--,29480,,
-qd,t907.0,63130,63235,_Stage,_Stage,Frau,NN,frau,29480,,
-qd,t907.0,63130,63235,_Stage,_Stage,Kreuzin,NE,kreuzin,29480,,
+qd,t907.0,63130,63235,_Stage,_Stage,Frau,NN,frau,29480,,(7
+qd,t907.0,63130,63235,_Stage,_Stage,Kreuzin,NE,kreuzin,29480,,7)
 qd,t907.0,63130,63235,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,63130,63235,_Stage,_Stage,Jungfer,NE,jungfer,29480,,
+qd,t907.0,63130,63235,_Stage,_Stage,Jungfer,NE,jungfer,29480,,(6)
 qd,t907.0,63130,63235,_Stage,_Stage,Fröhlichin,NE,fröhlichin,29480,,
 qd,t907.0,63130,63235,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,63130,63235,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,63130,63235,_Stage,_Stage,Ernst,NE,ernst,29480,,
-qd,t907.0,63130,63235,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,63130,63235,_Stage,_Stage,Ernst,NE,ernst,29480,,(5
+qd,t907.0,63130,63235,_Stage,_Stage,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,63130,63235,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,63130,63235,_Stage,_Stage,Heinrich,NE,heinrich,29480,,
+qd,t907.0,63130,63235,_Stage,_Stage,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,63130,63235,_Stage,_Stage,reicht,VVFIN,reichen,29480,,
 qd,t907.0,63130,63235,_Stage,_Stage,den,ART,der,29480,,
 qd,t907.0,63130,63235,_Stage,_Stage,Kaffee,NN,kaffee,29480,,
@@ -480,18 +480,18 @@ qd,t907.0,63130,63235,_Stage,_Stage,Teller,NN,teller,29480,,
 qd,t907.0,63130,63235,_Stage,_Stage,herum,PTKVZ,herum,29480,,
 qd,t907.0,63130,63235,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,63252,63275,FRAU KREUZIN,frau_kreuzin,zur,APPRART,zu,29480,,
-qd,t907.0,63252,63275,FRAU KREUZIN,frau_kreuzin,Jungfer,NN,jungfer,29480,,
+qd,t907.0,63252,63275,FRAU KREUZIN,frau_kreuzin,Jungfer,NN,jungfer,29480,,(6)
 qd,t907.0,63252,63275,FRAU KREUZIN,frau_kreuzin,Fröhlichin,NE,fröhlichin,29480,,
 qd,t907.0,63252,63275,FRAU KREUZIN,frau_kreuzin,.,$.,--,29480,,
 qd,t907.0,64268,64277,FRAU KREUZIN,frau_kreuzin,seufzend,ADJD,seufzend,29480,,
 qd,t907.0,64268,64277,FRAU KREUZIN,frau_kreuzin,.,$.,--,29480,,
-qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,Ernst,NE,ernst,29480,,
-qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,Gotthart,NE,gotthart,29480,,
+qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,Ernst,NE,ernst,29480,,(5
+qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,höret,VVFIN,höret,29480,,
 qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,emsig,ADJD,emsig,29480,,
 qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,zu,PTKVZ,zu,29480,,
 qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,:,$.,--,29480,,
-qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,Jungfer,NE,jungfer,29480,,
+qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,Jungfer,NE,jungfer,29480,,(6)
 qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,Fröhlichin,NE,fröhlichin,29480,,
 qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,hält,VVFIN,halten,29480,,
 qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,sich,PRF,sich,29480,,
@@ -505,7 +505,7 @@ qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,Lachen,NN,lachen,29480,,
 qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,zu,PTKZU,zu,29480,,
 qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,verbergen,VVINF,verbergen,29480,,
 qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,.,$.,--,29480,,
-qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,Heinrich,NE,heinrich,29480,,
+qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,gibt,VVFIN,geben,29480,,
 qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,Kaffee,NN,kaffee,29480,,
 qd,t907.0,65415,65636,FRAU KREUZIN,frau_kreuzin,herum,PTKVZ,herum,29480,,
@@ -555,9 +555,9 @@ qd,t907.0,71262,71291,_Stage,_Stage,Die,ART,der,29480,,
 qd,t907.0,71262,71291,_Stage,_Stage,Vorigen,NN,vorige,29480,,
 qd,t907.0,71262,71291,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,71262,71291,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,71262,71291,_Stage,_Stage,Dr,NE,dr,29480,,
+qd,t907.0,71262,71291,_Stage,_Stage,Dr,NE,dr,29480,,(1
 qd,t907.0,71262,71291,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,71262,71291,_Stage,_Stage,Muskat,NE,muskat,29480,,
+qd,t907.0,71262,71291,_Stage,_Stage,Muskat,NE,muskat,29480,,1)
 qd,t907.0,71262,71291,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,71742,71750,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,lachend,ADJD,lachend,29480,,
 qd,t907.0,71742,71750,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,.,$.,--,29480,,
@@ -568,22 +568,22 @@ qd,t907.0,72910,72916,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,.,$.,--,29480,,
 qd,t907.0,74133,74155,_Stage,_Stage,Die,ART,der,29480,,
 qd,t907.0,74133,74155,_Stage,_Stage,Vorigen,NN,vorige,29480,,
 qd,t907.0,74133,74155,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,74133,74155,_Stage,_Stage,Heinrich,NE,heinrich,29480,,
+qd,t907.0,74133,74155,_Stage,_Stage,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,74133,74155,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,74915,75068,_Stage,_Stage,Frau,NN,frau,29480,,
-qd,t907.0,74915,75068,_Stage,_Stage,Kreuzin,NE,kreuzin,29480,,
+qd,t907.0,74915,75068,_Stage,_Stage,Frau,NN,frau,29480,,(7
+qd,t907.0,74915,75068,_Stage,_Stage,Kreuzin,NE,kreuzin,29480,,7)
 qd,t907.0,74915,75068,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,74915,75068,_Stage,_Stage,Jungfer,NE,jungfer,29480,,
+qd,t907.0,74915,75068,_Stage,_Stage,Jungfer,NE,jungfer,29480,,(6)
 qd,t907.0,74915,75068,_Stage,_Stage,Fröhlichin,NE,fröhlichin,29480,,
 qd,t907.0,74915,75068,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,74915,75068,_Stage,_Stage,Ernst,NE,ernst,29480,,
-qd,t907.0,74915,75068,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,74915,75068,_Stage,_Stage,Ernst,NE,ernst,29480,,(5
+qd,t907.0,74915,75068,_Stage,_Stage,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,74915,75068,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,74915,75068,_Stage,_Stage,Dr,NN,dr,29480,,
+qd,t907.0,74915,75068,_Stage,_Stage,Dr,NN,dr,29480,,(1
 qd,t907.0,74915,75068,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,74915,75068,_Stage,_Stage,Muskat,NE,muskat,29480,,
+qd,t907.0,74915,75068,_Stage,_Stage,Muskat,NE,muskat,29480,,1)
 qd,t907.0,74915,75068,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,74915,75068,_Stage,_Stage,Heinrich,NE,heinrich,29480,,
+qd,t907.0,74915,75068,_Stage,_Stage,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,74915,75068,_Stage,_Stage,",","$,",--,29480,,
 qd,t907.0,74915,75068,_Stage,_Stage,der,PRELS,der,29480,,
 qd,t907.0,74915,75068,_Stage,_Stage,ein,ART,ein,29480,,
@@ -612,18 +612,18 @@ qd,t907.0,77734,77745,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,sehr,ADV,sehr,2948
 qd,t907.0,77734,77745,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,.,$.,--,29480,,
 qd,t907.0,78876,78882,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,lacht,VVFIN,lachen,29480,,
 qd,t907.0,78876,78882,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,.,$.,--,29480,,
-qd,t907.0,79620,79669,_Stage,_Stage,Frau,NN,frau,29480,,
-qd,t907.0,79620,79669,_Stage,_Stage,Kreuzin,NE,kreuzin,29480,,
+qd,t907.0,79620,79669,_Stage,_Stage,Frau,NN,frau,29480,,(7
+qd,t907.0,79620,79669,_Stage,_Stage,Kreuzin,NE,kreuzin,29480,,7)
 qd,t907.0,79620,79669,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,79620,79669,_Stage,_Stage,Jungfer,NE,jungfer,29480,,
+qd,t907.0,79620,79669,_Stage,_Stage,Jungfer,NE,jungfer,29480,,(6)
 qd,t907.0,79620,79669,_Stage,_Stage,Fröhlichin,NE,fröhlichin,29480,,
 qd,t907.0,79620,79669,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,79620,79669,_Stage,_Stage,Ernst,NE,ernst,29480,,
-qd,t907.0,79620,79669,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,79620,79669,_Stage,_Stage,Ernst,NE,ernst,29480,,(5
+qd,t907.0,79620,79669,_Stage,_Stage,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,79620,79669,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,79692,79709,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,zur,APPRART,zu,29480,,
-qd,t907.0,79692,79709,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Frau,NN,frau,29480,,
-qd,t907.0,79692,79709,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Kreuzin,NE,kreuzin,29480,,
+qd,t907.0,79692,79709,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Frau,NN,frau,29480,,(7
+qd,t907.0,79692,79709,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Kreuzin,NE,kreuzin,29480,,7)
 qd,t907.0,79692,79709,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,.,$.,--,29480,,
 qd,t907.0,80336,80344,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,lachend,ADJD,lachend,29480,,
 qd,t907.0,80336,80344,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,.,$.,--,29480,,
@@ -632,13 +632,13 @@ qd,t907.0,80587,80595,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,.,$.,--,29480,,
 qd,t907.0,81062,81147,_Stage,_Stage,Herr,NN,herr,29480,,
 qd,t907.0,81062,81147,_Stage,_Stage,Fröhlich,NE,fröhlich,29480,,
 qd,t907.0,81062,81147,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,81062,81147,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,81062,81147,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,81062,81147,_Stage,_Stage,Herr,NN,herr,29480,,(0
+qd,t907.0,81062,81147,_Stage,_Stage,Gotthart,NE,gotthart,29480,,0)
 qd,t907.0,81062,81147,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,81062,81147,_Stage,_Stage,Die,ART,der,29480,,
 qd,t907.0,81062,81147,_Stage,_Stage,Vorigen,NN,vorige,29480,,
 qd,t907.0,81062,81147,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,81062,81147,_Stage,_Stage,Heinrich,NE,heinrich,29480,,
+qd,t907.0,81062,81147,_Stage,_Stage,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,81062,81147,_Stage,_Stage,kömmt,VVFIN,kömmen,29480,,
 qd,t907.0,81062,81147,_Stage,_Stage,mit,APPR,mit,29480,,
 qd,t907.0,81062,81147,_Stage,_Stage,dem,ART,der,29480,,
@@ -658,18 +658,18 @@ qd,t907.0,82758,82785,HEINRICH,heinrich,reicht,VVFIN,reichen,29480,,
 qd,t907.0,82758,82785,HEINRICH,heinrich,Tee,NN,tee,29480,,
 qd,t907.0,82758,82785,HEINRICH,heinrich,herum,PTKVZ,herum,29480,,
 qd,t907.0,82758,82785,HEINRICH,heinrich,.,$.,--,29480,,
-qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,Frau,NN,frau,29480,,
-qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,Kreuzin,NE,kreuzin,29480,,
+qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,Frau,NN,frau,29480,,(7
+qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,Kreuzin,NE,kreuzin,29480,,7)
 qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,",","$,",--,29480,,
-qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,Jungfer,NE,jungfer,29480,,
+qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,Jungfer,NE,jungfer,29480,,(6)
 qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,Fröhlichin,NE,fröhlichin,29480,,
 qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,und,KON,und,29480,,
-qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,Herr,NN,herr,29480,,
-qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,Gotthart,NE,gotthart,29480,,
+qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,Herr,NN,herr,29480,,(0
+qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,Gotthart,NE,gotthart,29480,,0)
 qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,gehen,VVFIN,gehen,29480,,
 qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,ab,PTKVZ,ab,29480,,
 qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,.,$.,--,29480,,
-qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,Heinrich,NE,heinrich,29480,,
+qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,trägt,VVFIN,tragen,29480,,
 qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,das,ART,der,29480,,
 qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,Glas,NN,glas,29480,,
@@ -680,17 +680,17 @@ qd,t907.0,84651,84753,HERR FRÖHLICH,herr_fröhlich,.,$.,--,29480,,
 qd,t907.0,84804,84834,_Stage,_Stage,Herr,NN,herr,29480,,
 qd,t907.0,84804,84834,_Stage,_Stage,Fröhlich,NE,fröhlich,29480,,
 qd,t907.0,84804,84834,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,84804,84834,_Stage,_Stage,Ernst,NE,ernst,29480,,
-qd,t907.0,84804,84834,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,84804,84834,_Stage,_Stage,Ernst,NE,ernst,29480,,(5
+qd,t907.0,84804,84834,_Stage,_Stage,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,84804,84834,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,85124,85139,HERR FRÖHLICH,herr_fröhlich,etwas,ADV,etwas,29480,,
 qd,t907.0,85124,85139,HERR FRÖHLICH,herr_fröhlich,verwirrt,VVFIN,verwirren,29480,,
 qd,t907.0,85124,85139,HERR FRÖHLICH,herr_fröhlich,.,$.,--,29480,,
-qd,t907.0,85697,85744,_Stage,_Stage,Jungfer,NE,jungfer,29480,,
+qd,t907.0,85697,85744,_Stage,_Stage,Jungfer,NE,jungfer,29480,,(6)
 qd,t907.0,85697,85744,_Stage,_Stage,Fröhlichin,NE,fröhlichin,29480,,
 qd,t907.0,85697,85744,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,85697,85744,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,85697,85744,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,85697,85744,_Stage,_Stage,Herr,NN,herr,29480,,(0
+qd,t907.0,85697,85744,_Stage,_Stage,Gotthart,NE,gotthart,29480,,0)
 qd,t907.0,85697,85744,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,85697,85744,_Stage,_Stage,Die,ART,der,29480,,
 qd,t907.0,85697,85744,_Stage,_Stage,Vorigen,NN,vorige,29480,,
@@ -710,10 +710,10 @@ qd,t907.0,89538,89556,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,ab,PTKVZ,ab,29480,
 qd,t907.0,89538,89556,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,.,$.,--,29480,,
 qd,t907.0,89665,89672,ERNST GOTTHART,ernst_gotthart,allein,ADV,allein,29480,,
 qd,t907.0,89665,89672,ERNST GOTTHART,ernst_gotthart,.,$.,--,29480,,
-qd,t907.0,89972,90007,_Stage,_Stage,Ernst,NE,ernst,29480,,
-qd,t907.0,89972,90007,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,89972,90007,_Stage,_Stage,Ernst,NE,ernst,29480,,(5
+qd,t907.0,89972,90007,_Stage,_Stage,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,89972,90007,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,89972,90007,_Stage,_Stage,Jungfer,NE,jungfer,29480,,
+qd,t907.0,89972,90007,_Stage,_Stage,Jungfer,NE,jungfer,29480,,(6)
 qd,t907.0,89972,90007,_Stage,_Stage,Fröhlichin,NE,fröhlichin,29480,,
 qd,t907.0,89972,90007,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,92237,92243,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,singt,VVFIN,singen,29480,,
@@ -788,13 +788,13 @@ qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,.,$.,--,29480,,
 qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Am,APPRART,an,29480,,
 qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Ende,NN,ende,29480,,
 qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,kömmt,VVFIN,kömmen,29480,,
-qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Jungfer,NE,jungfer,29480,,
+qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Jungfer,NE,jungfer,29480,,(6)
 qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Fröhlichin,NE,fröhlichin,29480,,
 qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,heraus,PTKVZ,heraus,29480,,
 qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,",","$,",--,29480,,
 qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,und,KON,und,29480,,
-qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Ernst,NE,ernst,29480,,
-qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Gotthart,NE,gotthart,29480,,
+qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Ernst,NE,ernst,29480,,(5
+qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,hilft,VVFIN,helfen,29480,,
 qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,ihr,PPOSAT,ihr,29480,,
 qd,t907.0,101723,101906,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,wieder,ADV,wieder,29480,,
@@ -838,26 +838,26 @@ qd,t907.0,109100,109108,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,lachend,ADJD,lac
 qd,t907.0,109100,109108,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,.,$.,--,29480,,
 qd,t907.0,109566,109625,_Stage,_Stage,Der,ART,der,29480,,
 qd,t907.0,109566,109625,_Stage,_Stage,alte,ADJA,alt,29480,,
-qd,t907.0,109566,109625,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,109566,109625,_Stage,_Stage,Gotthart,VVPP,gotthart,29480,,
+qd,t907.0,109566,109625,_Stage,_Stage,Herr,NN,herr,29480,,(0
+qd,t907.0,109566,109625,_Stage,_Stage,Gotthart,VVPP,gotthart,29480,,0)
 qd,t907.0,109566,109625,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,109566,109625,_Stage,_Stage,Ernst,NE,ernst,29480,,
-qd,t907.0,109566,109625,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,109566,109625,_Stage,_Stage,Ernst,NE,ernst,29480,,(5
+qd,t907.0,109566,109625,_Stage,_Stage,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,109566,109625,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,109566,109625,_Stage,_Stage,Jungfer,NE,jungfer,29480,,
+qd,t907.0,109566,109625,_Stage,_Stage,Jungfer,NE,jungfer,29480,,(6)
 qd,t907.0,109566,109625,_Stage,_Stage,Fröhlichin,NE,fröhlichin,29480,,
 qd,t907.0,109566,109625,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,110585,110595,ERNST GOTTHART,ernst_gotthart,bekümmert,VVFIN,bekümmern,29480,,
 qd,t907.0,110585,110595,ERNST GOTTHART,ernst_gotthart,.,$.,--,29480,,
-qd,t907.0,110874,110897,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Ernst,NE,ernst,29480,,
-qd,t907.0,110874,110897,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Gotthart,NE,gotthart,29480,,
+qd,t907.0,110874,110897,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Ernst,NE,ernst,29480,,(5
+qd,t907.0,110874,110897,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,110874,110897,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,geht,VVFIN,gehen,29480,,
 qd,t907.0,110874,110897,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,ab,PTKVZ,ab,29480,,
 qd,t907.0,110874,110897,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,.,$.,--,29480,,
-qd,t907.0,110947,110981,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,110947,110981,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,110947,110981,_Stage,_Stage,Herr,NN,herr,29480,,(0
+qd,t907.0,110947,110981,_Stage,_Stage,Gotthart,NE,gotthart,29480,,0)
 qd,t907.0,110947,110981,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,110947,110981,_Stage,_Stage,Jungfer,NE,jungfer,29480,,
+qd,t907.0,110947,110981,_Stage,_Stage,Jungfer,NE,jungfer,29480,,(6)
 qd,t907.0,110947,110981,_Stage,_Stage,Fröhlichin,NE,fröhlichin,29480,,
 qd,t907.0,110947,110981,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,111760,111766,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,lacht,VVFIN,lachen,29480,,
@@ -874,13 +874,13 @@ qd,t907.0,117173,117179,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,.,$.,--,29480,,
 qd,t907.0,117446,117457,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,lacht,VVFIN,lachen,29480,,
 qd,t907.0,117446,117457,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,sehr,ADV,sehr,29480,,
 qd,t907.0,117446,117457,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,.,$.,--,29480,,
-qd,t907.0,118491,118535,_Stage,_Stage,Herr,NN,herr,29480,,
-qd,t907.0,118491,118535,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,118491,118535,_Stage,_Stage,Herr,NN,herr,29480,,(0
+qd,t907.0,118491,118535,_Stage,_Stage,Gotthart,NE,gotthart,29480,,0)
 qd,t907.0,118491,118535,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,118491,118535,_Stage,_Stage,Jungfer,NE,jungfer,29480,,
+qd,t907.0,118491,118535,_Stage,_Stage,Jungfer,NE,jungfer,29480,,(6)
 qd,t907.0,118491,118535,_Stage,_Stage,Fröhlichin,NE,fröhlichin,29480,,
 qd,t907.0,118491,118535,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,118491,118535,_Stage,_Stage,Kathrine,NN,kathrine,29480,,
+qd,t907.0,118491,118535,_Stage,_Stage,Kathrine,NN,kathrine,29480,,(4)
 qd,t907.0,118491,118535,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,118553,118575,HERR GOTTHART,herr_gotthart,guckt,ADJD,gucken,29480,,
 qd,t907.0,118553,118575,HERR GOTTHART,herr_gotthart,zur,APPRART,zu,29480,,
@@ -898,10 +898,10 @@ qd,t907.0,121325,121344,HERR GOTTHART,herr_gotthart,schüttelt,VVFIN,schütteln,
 qd,t907.0,121325,121344,HERR GOTTHART,herr_gotthart,den,ART,der,29480,,
 qd,t907.0,121325,121344,HERR GOTTHART,herr_gotthart,Kopf,NN,kopf,29480,,
 qd,t907.0,121325,121344,HERR GOTTHART,herr_gotthart,.,$.,--,29480,,
-qd,t907.0,121780,121830,_Stage,_Stage,Kathrine,NN,kathrine,29480,,
+qd,t907.0,121780,121830,_Stage,_Stage,Kathrine,NN,kathrine,29480,,(4)
 qd,t907.0,121780,121830,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,121780,121830,_Stage,_Stage,Und,KON,und,29480,,
-qd,t907.0,121780,121830,_Stage,_Stage,Heinrich,NE,heinrich,29480,,
+qd,t907.0,121780,121830,_Stage,_Stage,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,121780,121830,_Stage,_Stage,kömmt,VVFIN,kömmen,29480,,
 qd,t907.0,121780,121830,_Stage,_Stage,von,APPR,von,29480,,
 qd,t907.0,121780,121830,_Stage,_Stage,der,ART,der,29480,,
@@ -915,8 +915,8 @@ qd,t907.0,124154,124175,KATHRINE,kathrine,laufen,VVFIN,laufen,29480,,
 qd,t907.0,124154,124175,KATHRINE,kathrine,beide,PIS,beide,29480,,
 qd,t907.0,124154,124175,KATHRINE,kathrine,weg,PTKVZ,weg,29480,,
 qd,t907.0,124154,124175,KATHRINE,kathrine,.,$.,--,29480,,
-qd,t907.0,124268,124392,_Stage,_Stage,Ernst,NE,ernst,29480,,
-qd,t907.0,124268,124392,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,124268,124392,_Stage,_Stage,Ernst,NE,ernst,29480,,(5
+qd,t907.0,124268,124392,_Stage,_Stage,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,124268,124392,_Stage,_Stage,allein,ADV,allein,29480,,
 qd,t907.0,124268,124392,_Stage,_Stage,",","$,",--,29480,,
 qd,t907.0,124268,124392,_Stage,_Stage,wischt,VVFIN,wischen,29480,,
@@ -940,10 +940,10 @@ qd,t907.0,124268,124392,_Stage,_Stage,in,APPR,in,29480,,
 qd,t907.0,124268,124392,_Stage,_Stage,die,ART,der,29480,,
 qd,t907.0,124268,124392,_Stage,_Stage,Szene,NN,szene,29480,,
 qd,t907.0,124268,124392,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,124737,124778,_Stage,_Stage,Ernst,NE,ernst,29480,,
-qd,t907.0,124737,124778,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,124737,124778,_Stage,_Stage,Ernst,NE,ernst,29480,,(5
+qd,t907.0,124737,124778,_Stage,_Stage,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,124737,124778,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,124737,124778,_Stage,_Stage,Heinrich,NE,heinrich,29480,,
+qd,t907.0,124737,124778,_Stage,_Stage,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,124737,124778,_Stage,_Stage,mit,APPR,mit,29480,,
 qd,t907.0,124737,124778,_Stage,_Stage,einem,ART,ein,29480,,
 qd,t907.0,124737,124778,_Stage,_Stage,Buche,NN,buch,29480,,
@@ -1033,8 +1033,8 @@ qd,t907.0,138290,138402,HEINRICH,heinrich,",","$,",--,29480,,
 qd,t907.0,138290,138402,HEINRICH,heinrich,wunderliche,ADJA,wunderlich,29480,,
 qd,t907.0,138290,138402,HEINRICH,heinrich,Stellungen,NN,stellung,29480,,
 qd,t907.0,138290,138402,HEINRICH,heinrich,.,$.,--,29480,,
-qd,t907.0,138452,138502,_Stage,_Stage,Ernst,NE,ernst,29480,,
-qd,t907.0,138452,138502,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,138452,138502,_Stage,_Stage,Ernst,NE,ernst,29480,,(5
+qd,t907.0,138452,138502,_Stage,_Stage,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,138452,138502,_Stage,_Stage,allein,ADV,allein,29480,,
 qd,t907.0,138452,138502,_Stage,_Stage,",","$,",--,29480,,
 qd,t907.0,138452,138502,_Stage,_Stage,wirft,VVFIN,werfen,29480,,
@@ -1043,26 +1043,26 @@ qd,t907.0,138452,138502,_Stage,_Stage,auf,APPR,auf,29480,,
 qd,t907.0,138452,138502,_Stage,_Stage,einen,ART,ein,29480,,
 qd,t907.0,138452,138502,_Stage,_Stage,Stuhl,NN,stuhl,29480,,
 qd,t907.0,138452,138502,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,140748,140800,_Stage,_Stage,Ernst,NE,ernst,29480,,
-qd,t907.0,140748,140800,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,140748,140800,_Stage,_Stage,Ernst,NE,ernst,29480,,(5
+qd,t907.0,140748,140800,_Stage,_Stage,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,140748,140800,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,140748,140800,_Stage,_Stage,Heinrich,NE,heinrich,29480,,
+qd,t907.0,140748,140800,_Stage,_Stage,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,140748,140800,_Stage,_Stage,springt,VVFIN,springen,29480,,
 qd,t907.0,140748,140800,_Stage,_Stage,erschrocken,VVIZU,erschrocken,29480,,
 qd,t907.0,140748,140800,_Stage,_Stage,hervor,PTKVZ,hervor,29480,,
 qd,t907.0,140748,140800,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,140951,140962,ERNST GOTTHART,ernst_gotthart,ohnmächtig,ADJD,ohnmächtig,29480,,
 qd,t907.0,140951,140962,ERNST GOTTHART,ernst_gotthart,.,$.,--,29480,,
-qd,t907.0,141686,141753,_Stage,_Stage,Jungfer,NE,jungfer,29480,,
+qd,t907.0,141686,141753,_Stage,_Stage,Jungfer,NE,jungfer,29480,,(6)
 qd,t907.0,141686,141753,_Stage,_Stage,Fröhlichin,NE,fröhlichin,29480,,
 qd,t907.0,141686,141753,_Stage,_Stage,mit,APPR,mit,29480,,
 qd,t907.0,141686,141753,_Stage,_Stage,einem,ART,ein,29480,,
 qd,t907.0,141686,141753,_Stage,_Stage,Wachsstocke,NN,wachsstocke,29480,,
 qd,t907.0,141686,141753,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,141686,141753,_Stage,_Stage,Heinrich,NE,heinrich,29480,,
+qd,t907.0,141686,141753,_Stage,_Stage,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,141686,141753,_Stage,_Stage,.,$.,--,29480,,
-qd,t907.0,141686,141753,_Stage,_Stage,Ernst,NE,ernst,29480,,
-qd,t907.0,141686,141753,_Stage,_Stage,Gotthart,NE,gotthart,29480,,
+qd,t907.0,141686,141753,_Stage,_Stage,Ernst,NE,ernst,29480,,(5
+qd,t907.0,141686,141753,_Stage,_Stage,Gotthart,NE,gotthart,29480,,5)
 qd,t907.0,141686,141753,_Stage,_Stage,.,$.,--,29480,,
 qd,t907.0,141776,141788,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,erschrocken,VVIZU,erschrocken,29480,,
 qd,t907.0,141776,141788,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,.,$.,--,29480,,
@@ -1155,7 +1155,7 @@ qd,t907.0,149889,149907,ERNST GOTTHART,ernst_gotthart,Hand,NN,hand,29480,,
 qd,t907.0,149889,149907,ERNST GOTTHART,ernst_gotthart,.,$.,--,29480,,
 qd,t907.0,150398,150407,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,lächelnd,ADJD,lächelnd,29480,,
 qd,t907.0,150398,150407,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,.,$.,--,29480,,
-qd,t907.0,150906,150996,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Heinrich,NE,heinrich,29480,,
+qd,t907.0,150906,150996,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,Heinrich,NE,heinrich,29480,,(3)
 qd,t907.0,150906,150996,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,stößt,VVFIN,stoßen,29480,,
 qd,t907.0,150906,150996,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,und,KON,und,29480,,
 qd,t907.0,150906,150996,JUNGFER FRÖHLICHIN,jungfer_fröhlichin,zupft,VVFIN,zupfen,29480,,

@@ -40,6 +40,7 @@ qd,v3w3.0,3530,3556,dirne,3538,3541,Ich,dirne
 qd,v3w3.0,3561,3617,soldat,3592,3595,ich,soldat
 qd,v3w3.0,3672,3736,dirne,3719,3722,mir,dirne
 qd,v3w3.0,3741,3809,soldat,3767,3770,ich,soldat
+qd,v3w3.0,3983,4215,_stage,4189,4195,Soldat,soldat
 qd,v3w3.0,4218,4306,stubenmädchen,4249,4252,mir,stubenmädchen
 qd,v3w3.0,4345,4408,stubenmädchen,4391,4394,Ich,stubenmädchen
 qd,v3w3.0,4449,4540,stubenmädchen,4527,4531,mich,stubenmädchen
@@ -91,17 +92,24 @@ qd,v3w3.0,10350,10558,soldat,10515,10518,ich,soldat
 qd,v3w3.0,10564,10634,stubenmädchen,10584,10587,ich,stubenmädchen
 qd,v3w3.0,10639,10832,soldat,10799,10803,Mein,soldat
 qd,v3w3.0,10639,10832,soldat,10819,10822,ich,soldat
+qd,v3w3.0,10936,11296,_stage,11217,11231,Der junge Herr,der_junge_herr
 qd,v3w3.0,11348,11612,der_junge_herr,11386,11389,ich,der_junge_herr
 qd,v3w3.0,11348,11612,der_junge_herr,11419,11422,ich,der_junge_herr
+qd,v3w3.0,11730,11791,stubenmädchen,11750,11764,Der junge Herr,der_junge_herr
 qd,v3w3.0,11989,12096,der_junge_herr,12029,12032,ich,der_junge_herr
 qd,v3w3.0,12488,12567,stubenmädchen,12513,12516,ich,stubenmädchen
 qd,v3w3.0,12572,13167,der_junge_herr,12623,12626,Ich,der_junge_herr
 qd,v3w3.0,12572,13167,der_junge_herr,12679,12682,mir,der_junge_herr
+qd,v3w3.0,12784,13167,_stage,12784,12798,Der junge Herr,der_junge_herr
+qd,v3w3.0,12784,13167,_stage,12870,12884,der junge Herr,der_junge_herr
+qd,v3w3.0,13588,13688,_stage,13626,13640,der junge Herr,der_junge_herr
 qd,v3w3.0,13990,14098,der_junge_herr,14023,14026,ich,der_junge_herr
 qd,v3w3.0,14605,14670,der_junge_herr,14646,14649,ich,der_junge_herr
+qd,v3w3.0,14675,14720,stubenmädchen,14705,14719,der junge Herr,der_junge_herr
 qd,v3w3.0,14725,14873,der_junge_herr,14768,14771,ich,der_junge_herr
 qd,v3w3.0,14725,14873,der_junge_herr,14851,14854,Ich,der_junge_herr
 qd,v3w3.0,14878,14975,stubenmädchen,14925,14931,meiner,stubenmädchen
+qd,v3w3.0,15319,15374,stubenmädchen,15339,15353,Der junge Herr,der_junge_herr
 qd,v3w3.0,15319,15374,stubenmädchen,15358,15361,mir,stubenmädchen
 qd,v3w3.0,15861,16076,der_junge_herr,15882,15885,mir,der_junge_herr
 qd,v3w3.0,15861,16076,der_junge_herr,15997,16003,meiner,der_junge_herr
@@ -116,6 +124,10 @@ qd,v3w3.0,17799,17895,der_junge_herr,17825,17828,Ich,der_junge_herr
 qd,v3w3.0,17947,18167,der_junge_herr,18020,18023,ich,der_junge_herr
 qd,v3w3.0,17947,18167,der_junge_herr,18025,18028,ich,der_junge_herr
 qd,v3w3.0,17947,18167,der_junge_herr,18033,18036,ich,der_junge_herr
+qd,v3w3.0,18350,19357,_stage,18350,18364,Der junge Herr,der_junge_herr
+qd,v3w3.0,18350,19357,_stage,18788,18802,Der junge Herr,der_junge_herr
+qd,v3w3.0,19361,20465,_stage,20315,20329,Der junge Herr,der_junge_herr
+qd,v3w3.0,19361,20465,_stage,20441,20455,die junge Frau,die_junge_frau
 qd,v3w3.0,20662,20820,der_junge_herr,20804,20807,Ich,der_junge_herr
 qd,v3w3.0,20939,21055,die_junge_frau,20967,20971,mich,die_junge_frau
 qd,v3w3.0,21112,21156,die_junge_frau,21136,21139,ich,die_junge_frau
@@ -281,6 +293,7 @@ qd,v3w3.0,39864,40056,die_junge_frau,39946,39949,ich,die_junge_frau
 qd,v3w3.0,39864,40056,die_junge_frau,39980,39983,ich,die_junge_frau
 qd,v3w3.0,39864,40056,die_junge_frau,40031,40035,mich,die_junge_frau
 qd,v3w3.0,40138,40322,der_junge_herr,40276,40279,ich,der_junge_herr
+qd,v3w3.0,40444,40555,_stage,40507,40516,Der Gatte,der_gatte
 qd,v3w3.0,40624,40675,der_gatte,40642,40645,Ich,der_gatte
 qd,v3w3.0,40708,40822,der_gatte,40720,40723,Ich,der_gatte
 qd,v3w3.0,40708,40822,der_gatte,40728,40732,mich,der_gatte
@@ -361,6 +374,7 @@ qd,v3w3.0,51914,51979,die_junge_frau,51941,51944,ich,die_junge_frau
 qd,v3w3.0,51914,51979,die_junge_frau,51964,51968,mich,die_junge_frau
 qd,v3w3.0,51984,52311,der_gatte,52163,52167,mein,der_gatte
 qd,v3w3.0,52347,52395,der_gatte,52385,52389,mein,der_gatte
+qd,v3w3.0,52604,52631,_stage,52604,52613,Der Gatte,der_gatte
 qd,v3w3.0,53096,53153,das_süsse_mädel,53120,53123,ich,das_süsse_mädel
 qd,v3w3.0,53217,53286,das_süsse_mädel,53260,53263,ich,das_süsse_mädel
 qd,v3w3.0,53467,53546,der_gatte,53542,53545,mir,der_gatte
@@ -523,6 +537,10 @@ qd,v3w3.0,70862,70932,das_süsse_mädel,70928,70931,mir,das_süsse_mädel
 qd,v3w3.0,70937,71156,der_gatte,70964,70968,mich,der_gatte
 qd,v3w3.0,70937,71156,der_gatte,70992,70996,mich,der_gatte
 qd,v3w3.0,70937,71156,der_gatte,71042,71045,ich,der_gatte
+qd,v3w3.0,71597,71890,_stage,71820,71831,Der Dichter,der_dichter
+qd,v3w3.0,71597,71890,_stage,71824,71831,Dichter,der_dichter
+qd,v3w3.0,71597,71890,_stage,71866,71877,Der Dichter,der_dichter
+qd,v3w3.0,71597,71890,_stage,71870,71877,Dichter,der_dichter
 qd,v3w3.0,71893,71933,der_dichter,71911,71915,mein,der_dichter
 qd,v3w3.0,72262,72314,das_süsse_mädel,72285,72288,ich,das_süsse_mädel
 qd,v3w3.0,72495,72567,das_süsse_mädel,72532,72535,Ich,das_süsse_mädel
@@ -678,6 +696,11 @@ qd,v3w3.0,86084,86186,der_dichter,86110,86113,ich,der_dichter
 qd,v3w3.0,86084,86186,der_dichter,86137,86140,ich,der_dichter
 qd,v3w3.0,86191,86231,das_süsse_mädel,86216,86219,ich,das_süsse_mädel
 qd,v3w3.0,86236,86279,der_dichter,86256,86260,mein,der_dichter
+qd,v3w3.0,86381,86656,_stage,86533,86544,Der Dichter,der_dichter
+qd,v3w3.0,86381,86656,_stage,86537,86544,Dichter,der_dichter
+qd,v3w3.0,86381,86656,_stage,86553,86567,Schauspielerin,schauspielerin
+qd,v3w3.0,86381,86656,_stage,86627,86638,der Dichter,der_dichter
+qd,v3w3.0,86381,86656,_stage,86631,86638,Dichter,der_dichter
 qd,v3w3.0,86990,87048,schauspielerin,87037,87040,ich,schauspielerin
 qd,v3w3.0,87087,87143,schauspielerin,87111,87114,ich,schauspielerin
 qd,v3w3.0,87170,87308,schauspielerin,87200,87203,mir,schauspielerin
@@ -713,7 +736,10 @@ qd,v3w3.0,90454,90690,der_dichter,90464,90467,Ich,der_dichter
 qd,v3w3.0,90454,90690,der_dichter,90508,90511,Ich,der_dichter
 qd,v3w3.0,90454,90690,der_dichter,90562,90567,Meine,der_dichter
 qd,v3w3.0,90454,90690,der_dichter,90591,90594,mir,der_dichter
+qd,v3w3.0,90744,90835,der_dichter,90827,90834,Dichter,der_dichter
 qd,v3w3.0,90840,90927,schauspielerin,90884,90887,mir,schauspielerin
+qd,v3w3.0,90951,91211,schauspielerin,91001,91012,der Dichter,der_dichter
+qd,v3w3.0,90951,91211,schauspielerin,91005,91012,Dichter,der_dichter
 qd,v3w3.0,91347,91424,schauspielerin,91392,91395,mir,schauspielerin
 qd,v3w3.0,91347,91424,schauspielerin,91407,91410,mir,schauspielerin
 qd,v3w3.0,91429,91526,der_dichter,91474,91477,ich,der_dichter
@@ -790,9 +816,14 @@ qd,v3w3.0,98344,98494,schauspielerin,98383,98389,meiner,schauspielerin
 qd,v3w3.0,98344,98494,schauspielerin,98437,98440,ich,schauspielerin
 qd,v3w3.0,98551,98644,schauspielerin,98589,98592,Ich,schauspielerin
 qd,v3w3.0,98678,98752,schauspielerin,98711,98714,mir,schauspielerin
+qd,v3w3.0,98846,99109,_stage,98867,98881,Schauspielerin,schauspielerin
+qd,v3w3.0,98846,99109,_stage,99020,99034,Schauspielerin,schauspielerin
+qd,v3w3.0,99112,99202,_stage,99116,99120,Graf,graf
+qd,v3w3.0,99205,99236,schauspielerin,99231,99235,Graf,graf
 qd,v3w3.0,99241,99300,graf,99266,99269,mir,graf
 qd,v3w3.0,99241,99300,graf,99289,99292,ich,graf
 qd,v3w3.0,99355,99513,graf,99426,99429,ich,graf
+qd,v3w3.0,99518,99563,schauspielerin,99558,99562,Graf,graf
 qd,v3w3.0,99568,99666,graf,99591,99594,mir,graf
 qd,v3w3.0,99671,99734,schauspielerin,99704,99707,Ich,schauspielerin
 qd,v3w3.0,99794,99874,schauspielerin,99862,99865,mir,schauspielerin
@@ -801,6 +832,7 @@ qd,v3w3.0,100017,100114,graf,100094,100097,ich,graf
 qd,v3w3.0,100119,100169,schauspielerin,100136,100139,Ich,schauspielerin
 qd,v3w3.0,100431,100538,schauspielerin,100472,100478,meiner,schauspielerin
 qd,v3w3.0,100431,100538,schauspielerin,100510,100513,ich,schauspielerin
+qd,v3w3.0,100685,100771,schauspielerin,100730,100734,Graf,graf
 qd,v3w3.0,100937,101035,graf,100995,100998,ich,graf
 qd,v3w3.0,101065,101281,graf,101135,101138,ich,graf
 qd,v3w3.0,101065,101281,graf,101170,101173,mir,graf
@@ -850,6 +882,7 @@ qd,v3w3.0,105458,105589,graf,105527,105530,ich,graf
 qd,v3w3.0,105787,105883,graf,105794,105797,Ich,graf
 qd,v3w3.0,106011,106051,graf,106022,106025,ich,graf
 qd,v3w3.0,106121,106201,graf,106143,106146,ich,graf
+qd,v3w3.0,106206,106285,schauspielerin,106233,106237,Graf,graf
 qd,v3w3.0,106314,106447,schauspielerin,106403,106406,Ich,schauspielerin
 qd,v3w3.0,106475,106537,schauspielerin,106492,106495,Ich,schauspielerin
 qd,v3w3.0,106542,106595,graf,106559,106563,mich,graf
@@ -860,12 +893,14 @@ qd,v3w3.0,106816,106898,graf,106846,106849,Ich,graf
 qd,v3w3.0,106816,106898,graf,106883,106887,mich,graf
 qd,v3w3.0,107181,107228,schauspielerin,107206,107209,mir,schauspielerin
 qd,v3w3.0,107277,107342,schauspielerin,107305,107308,ich,schauspielerin
+qd,v3w3.0,107383,107431,schauspielerin,107405,107409,Graf,graf
 qd,v3w3.0,107436,107460,graf,107443,107446,Ich,graf
 qd,v3w3.0,107567,107597,graf,107574,107577,Ich,graf
 qd,v3w3.0,107602,107732,schauspielerin,107624,107627,ich,schauspielerin
 qd,v3w3.0,107602,107732,schauspielerin,107671,107675,mich,schauspielerin
 qd,v3w3.0,107602,107732,schauspielerin,107685,107688,Ich,schauspielerin
 qd,v3w3.0,107602,107732,schauspielerin,107717,107720,mir,schauspielerin
+qd,v3w3.0,107602,107732,schauspielerin,107727,107731,Graf,graf
 qd,v3w3.0,107737,107788,graf,107744,107747,Ich,graf
 qd,v3w3.0,107793,107967,schauspielerin,107822,107826,mich,schauspielerin
 qd,v3w3.0,107793,107967,schauspielerin,107870,107873,mir,schauspielerin
@@ -893,6 +928,7 @@ qd,v3w3.0,109657,109860,graf,109672,109675,ich,graf
 qd,v3w3.0,109657,109860,graf,109693,109696,Ich,graf
 qd,v3w3.0,109657,109860,graf,109733,109736,Ich,graf
 qd,v3w3.0,110015,110125,graf,110047,110050,Ich,graf
+qd,v3w3.0,110234,110296,schauspielerin,110260,110264,Graf,graf
 qd,v3w3.0,110301,110349,graf,110327,110330,Ich,graf
 qd,v3w3.0,110899,111031,schauspielerin,111011,111014,ich,schauspielerin
 qd,v3w3.0,111052,111124,schauspielerin,111069,111072,Ich,schauspielerin
@@ -900,6 +936,7 @@ qd,v3w3.0,111052,111124,schauspielerin,111094,111097,ich,schauspielerin
 qd,v3w3.0,111152,111295,schauspielerin,111189,111192,mir,schauspielerin
 qd,v3w3.0,111152,111295,schauspielerin,111266,111269,mir,schauspielerin
 qd,v3w3.0,111320,111413,schauspielerin,111337,111340,Ich,schauspielerin
+qd,v3w3.0,111320,111413,schauspielerin,111370,111374,Graf,graf
 qd,v3w3.0,111320,111413,schauspielerin,111376,111379,ich,schauspielerin
 qd,v3w3.0,111418,111449,graf,111425,111428,Ich,graf
 qd,v3w3.0,111538,111607,schauspielerin,111573,111577,mich,schauspielerin
@@ -925,8 +962,11 @@ qd,v3w3.0,112676,112801,graf,112749,112752,ich,graf
 qd,v3w3.0,112902,113194,schauspielerin,112933,112937,mich,schauspielerin
 qd,v3w3.0,112902,113194,schauspielerin,112960,112963,mir,schauspielerin
 qd,v3w3.0,112902,113194,schauspielerin,112980,112984,mein,schauspielerin
+qd,v3w3.0,112902,113194,schauspielerin,113161,113165,Graf,graf
 qd,v3w3.0,112902,113194,schauspielerin,113174,113177,mir,schauspielerin
 qd,v3w3.0,113199,113264,graf,113206,113209,Ich,graf
+qd,v3w3.0,113408,114214,_stage,114066,114071,Dirne,dirne
+qd,v3w3.0,113408,114214,_stage,114137,114141,Graf,graf
 qd,v3w3.0,114217,116465,graf,114317,114320,ich,graf
 qd,v3w3.0,114217,116465,graf,114349,114352,ich,graf
 qd,v3w3.0,114217,116465,graf,114476,114482,meinem,graf

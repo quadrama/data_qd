@@ -1552,7 +1552,7 @@ qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,Steinkohlenherz,NN,steinkohlenhe
 qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,wie,PWAV,wie,18575,,
 qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,Herr,NN,herr,18575,,
-qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,Bast,NE,bast,18575,,
+qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,Bast,NE,bast,18575,bast,(2)
 qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,hat,VAFIN,haben,18575,,
 qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,kann,VMFIN,können,18575,,
@@ -1582,7 +1582,7 @@ qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,der,ART,der,18575,,
 qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,Möglichkeit,NN,möglichkeit,18575,,
 qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,Ihren,PPOSAT,ihr,18575,,
 qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,geliebten,ADJA,geliebt,18575,,
-qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,,
+qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,zu,PTKZU,zu,18575,,
 qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,erhalten,VVINF,erhalten,18575,,
 qd,vrds.0,9846,10145,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
@@ -1605,7 +1605,7 @@ qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,ihm,PPER,ihm,18575,,
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,eben,ADV,eben,18575,,
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,jetzt,ADV,jetzt,18575,,
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,durch,APPR,durch,18575,,
-qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,,
+qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,geschrieben,VVPP,schreiben,18575,,
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,:,$.,--,18575,,
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,wenn,KOUS,wenn,18575,,
@@ -1686,8 +1686,8 @@ qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,Sie,PPER,sie,18575,,
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,fänden,VVFIN,finden,18575,,
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,Vergnügen,NN,vergnügen,18575,,
-qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,die,ART,der,18575,,
-qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,Narren,NN,narr,18575,,
+qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,die,ART,der,18575,die_narren,(11
+qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,Narren,NN,narr,18575,die_narren,11)
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,zu,PTKZU,zu,18575,,
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,sehen,VVINF,sehen,18575,,
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
@@ -1696,7 +1696,7 @@ qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,Sie,PPER,sie,18575,,
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,alsdenn,VVFIN,alsdenn,18575,,
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,mit,APPR,mit,18575,,
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,Ihrem,PPOSAT,ihr,18575,,
-qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,,
+qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,reden,VVINF,reden,18575,,
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,10202,10816,CLÄRCHEN,clärchen_allein,und,KON,und,18575,,
@@ -1716,7 +1716,7 @@ qd,vrds.0,10821,10907,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht
 qd,vrds.0,10821,10907,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,ich,PPER,ich,18575,constanze,(0)
 qd,vrds.0,10821,10907,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,sollte,VMFIN,sollen,18575,,
 qd,vrds.0,10821,10907,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,meinen,PPOSAT,mein,18575,constanze,(0)
-qd,vrds.0,10821,10907,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Albert,NE,albert,18575,,
+qd,vrds.0,10821,10907,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,10821,10907,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,als,APPR,als,18575,,
 qd,vrds.0,10821,10907,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Narren,NN,narr,18575,,
 qd,vrds.0,10821,10907,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,hier,ADV,hier,18575,,
@@ -1869,7 +1869,7 @@ qd,vrds.0,11635,12198,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht
 qd,vrds.0,11635,12198,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,und,KON,und,18575,,
 qd,vrds.0,11635,12198,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,ich,PPER,ich,18575,constanze,(0)
 qd,vrds.0,11635,12198,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,meinen,VVFIN,mein,18575,,
-qd,vrds.0,11635,12198,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Albert,NE,albert,18575,,
+qd,vrds.0,11635,12198,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,11635,12198,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,erhielte,VVFIN,erhalten,18575,,
 qd,vrds.0,11635,12198,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,"!",$.,--,18575,,
 qd,vrds.0,11635,12198,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,O,NE,O,18575,,
@@ -2022,7 +2022,7 @@ qd,vrds.0,12249,13373,CLÄRCHEN,clärchen_allein,?,$.,--,18575,,
 qd,vrds.0,12249,13373,CLÄRCHEN,clärchen_allein,Sie,PPER,sie,18575,,
 qd,vrds.0,12249,13373,CLÄRCHEN,clärchen_allein,gäbe,VVFIN,geben,18575,,
 qd,vrds.0,12249,13373,CLÄRCHEN,clärchen_allein,Ihren,PPOSAT,ihr,18575,,
-qd,vrds.0,12249,13373,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,,
+qd,vrds.0,12249,13373,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,12249,13373,CLÄRCHEN,clärchen_allein,nicht,PTKNEG,nicht,18575,,
 qd,vrds.0,12249,13373,CLÄRCHEN,clärchen_allein,für,APPR,für,18575,,
 qd,vrds.0,12249,13373,CLÄRCHEN,clärchen_allein,Kro,NE,kro,18575,,
@@ -2275,15 +2275,15 @@ qd,vrds.0,13838,14129,NIKOLO,nikolo,",","$,",--,18575,,
 qd,vrds.0,13838,14129,NIKOLO,nikolo,denn,KON,denn,18575,,
 qd,vrds.0,13838,14129,NIKOLO,nikolo,ich,PPER,ich,18575,nikolo,(5)
 qd,vrds.0,13838,14129,NIKOLO,nikolo,habe,VAFIN,haben,18575,,
-qd,vrds.0,13838,14129,NIKOLO,nikolo,die,ART,der,18575,,
-qd,vrds.0,13838,14129,NIKOLO,nikolo,Narren,NN,narr,18575,,
+qd,vrds.0,13838,14129,NIKOLO,nikolo,die,ART,der,18575,die_narren,(11
+qd,vrds.0,13838,14129,NIKOLO,nikolo,Narren,NN,narr,18575,die_narren,11)
 qd,vrds.0,13838,14129,NIKOLO,nikolo,unter,APPR,unter,18575,,
 qd,vrds.0,13838,14129,NIKOLO,nikolo,mir,PPER,sich,18575,nikolo,(5)
 qd,vrds.0,13838,14129,NIKOLO,nikolo,",","$,",--,18575,,
 qd,vrds.0,13838,14129,NIKOLO,nikolo,und,KON,und,18575,,
 qd,vrds.0,13838,14129,NIKOLO,nikolo,wer,PWS,wer,18575,,
-qd,vrds.0,13838,14129,NIKOLO,nikolo,die,ART,der,18575,,
-qd,vrds.0,13838,14129,NIKOLO,nikolo,Narren,NN,narr,18575,,
+qd,vrds.0,13838,14129,NIKOLO,nikolo,die,ART,der,18575,die_narren,(11
+qd,vrds.0,13838,14129,NIKOLO,nikolo,Narren,NN,narr,18575,die_narren,11)
 qd,vrds.0,13838,14129,NIKOLO,nikolo,unter,APPR,unter,18575,,
 qd,vrds.0,13838,14129,NIKOLO,nikolo,sich,PRF,sich,18575,,
 qd,vrds.0,13838,14129,NIKOLO,nikolo,hat,VAFIN,haben,18575,,
@@ -2699,7 +2699,7 @@ qd,vrds.0,15670,15992,NIKOLO,nikolo,ab,PTKVZ,ab,18575,,
 qd,vrds.0,15670,15992,NIKOLO,nikolo,",","$,",--,18575,,
 qd,vrds.0,15670,15992,NIKOLO,nikolo,und,KON,und,18575,,
 qd,vrds.0,15670,15992,NIKOLO,nikolo,läßt,VVFIN,lassen,18575,,
-qd,vrds.0,15670,15992,NIKOLO,nikolo,Albert,NE,albert,18575,,
+qd,vrds.0,15670,15992,NIKOLO,nikolo,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,15670,15992,NIKOLO,nikolo,herein,PTKVZ,herein,18575,,
 qd,vrds.0,15670,15992,NIKOLO,nikolo,",","$,",--,18575,,
 qd,vrds.0,15670,15992,NIKOLO,nikolo,unter,APPR,unter,18575,,
@@ -2729,7 +2729,7 @@ qd,vrds.0,16066,16128,ALBERT,albert,die,ART,der,18575,,
 qd,vrds.0,16066,16128,ALBERT,albert,Ungetrene,NN,ungetrene,18575,,
 qd,vrds.0,16066,16128,ALBERT,albert,?,$.,--,18575,,
 qd,vrds.0,16133,16336,CLÄRCHEN,clärchen_allein,Herr,NN,herr,18575,,
-qd,vrds.0,16133,16336,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,,
+qd,vrds.0,16133,16336,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,16133,16336,CLÄRCHEN,clärchen_allein,seyn,VVIMP,seyn,18575,,
 qd,vrds.0,16133,16336,CLÄRCHEN,clärchen_allein,Sie,PPER,sie,18575,,
 qd,vrds.0,16133,16336,CLÄRCHEN,clärchen_allein,vernünftig,ADJD,vernünftig,18575,,
@@ -2828,7 +2828,7 @@ qd,vrds.0,16603,16768,CLÄRCHEN,clärchen_allein,wissen,VVINF,wissen,18575,,
 qd,vrds.0,16603,16768,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,16603,16768,CLÄRCHEN,clärchen_allein,daß,KOUS,daß,18575,,
 qd,vrds.0,16603,16768,CLÄRCHEN,clärchen_allein,Mamsell,NE,mamsell,18575,,
-qd,vrds.0,16603,16768,CLÄRCHEN,clärchen_allein,Constanze,NE,constanze,18575,,
+qd,vrds.0,16603,16768,CLÄRCHEN,clärchen_allein,Constanze,NE,constanze,18575,constanze,(0)
 qd,vrds.0,16603,16768,CLÄRCHEN,clärchen_allein,heut,ADV,heut,18575,,
 qd,vrds.0,16603,16768,CLÄRCHEN,clärchen_allein,oder,KON,oder,18575,,
 qd,vrds.0,16603,16768,CLÄRCHEN,clärchen_allein,morgen,ADV,morgen,18575,,
@@ -2907,7 +2907,7 @@ qd,vrds.0,16795,17146,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,16795,17146,CLÄRCHEN,clärchen_allein,die,PRELS,der,18575,,
 qd,vrds.0,16795,17146,CLÄRCHEN,clärchen_allein,Sie,PPER,sie,18575,,
 qd,vrds.0,16795,17146,CLÄRCHEN,clärchen_allein,und,KON,und,18575,,
-qd,vrds.0,16795,17146,CLÄRCHEN,clärchen_allein,Constanze,NE,constanze,18575,,
+qd,vrds.0,16795,17146,CLÄRCHEN,clärchen_allein,Constanze,NE,constanze,18575,constanze,(0)
 qd,vrds.0,16795,17146,CLÄRCHEN,clärchen_allein,wünschen,VVFIN,wünschen,18575,,
 qd,vrds.0,16795,17146,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,16795,17146,CLÄRCHEN,clärchen_allein,«,XY,«,18575,,
@@ -3055,7 +3055,7 @@ qd,vrds.0,17958,18072,CLÄRCHEN,clärchen_allein,Er,PPER,er,18575,,
 qd,vrds.0,17958,18072,CLÄRCHEN,clärchen_allein,hat,VAFIN,haben,18575,,
 qd,vrds.0,17958,18072,CLÄRCHEN,clärchen_allein,recht,ADV,recht,18575,,
 qd,vrds.0,17958,18072,CLÄRCHEN,clärchen_allein,lieber,ADV,lieber,18575,,
-qd,vrds.0,17958,18072,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,,
+qd,vrds.0,17958,18072,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,17958,18072,CLÄRCHEN,clärchen_allein,;,$.,--,18575,,
 qd,vrds.0,17958,18072,CLÄRCHEN,clärchen_allein,Er,PPER,er,18575,,
 qd,vrds.0,17958,18072,CLÄRCHEN,clärchen_allein,sah,VVFIN,sehen,18575,,
@@ -3094,7 +3094,7 @@ qd,vrds.0,18077,18169,NIKOLO,nikolo,leer,ADJD,leer,18575,,
 qd,vrds.0,18077,18169,NIKOLO,nikolo,.,$.,--,18575,,
 qd,vrds.0,18174,18275,CLÄRCHEN,clärchen_allein,Aber,KON,aber,18575,,
 qd,vrds.0,18174,18275,CLÄRCHEN,clärchen_allein,lieber,ADV,lieber,18575,,
-qd,vrds.0,18174,18275,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,,
+qd,vrds.0,18174,18275,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,18174,18275,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,18174,18275,CLÄRCHEN,clärchen_allein,geb,VVFIN,geb,18575,,
 qd,vrds.0,18174,18275,CLÄRCHEN,clärchen_allein,',$[,--,18575,,
@@ -3268,7 +3268,7 @@ qd,vrds.0,19152,19268,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort
 qd,vrds.0,19152,19268,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,",","$,",--,18575,,
 qd,vrds.0,19152,19268,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,lieber,ADV,lieber,18575,,
 qd,vrds.0,19152,19268,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Herr,NN,herr,18575,,
-qd,vrds.0,19152,19268,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Bast,NE,bast,18575,,
+qd,vrds.0,19152,19268,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Bast,NE,bast,18575,bast,(2)
 qd,vrds.0,19152,19268,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,",","$,",--,18575,,
 qd,vrds.0,19152,19268,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,hat,VAFIN,haben,18575,,
 qd,vrds.0,19152,19268,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,seine,PPOSAT,sein,18575,,
@@ -3281,7 +3281,7 @@ qd,vrds.0,19152,19268,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort
 qd,vrds.0,19152,19268,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,abfahren,VVPP,abfahren,18575,,
 qd,vrds.0,19152,19268,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,.,$.,--,18575,,
 qd,vrds.0,19273,19324,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Ist,VAFIN,sein,18575,,
-qd,vrds.0,19273,19324,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Constanze,NE,constanze,18575,,
+qd,vrds.0,19273,19324,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Constanze,NE,constanze,18575,constanze,(0)
 qd,vrds.0,19273,19324,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,nicht,PTKNEG,nicht,18575,,
 qd,vrds.0,19273,19324,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,mehr,ADV,mehr,18575,,
 qd,vrds.0,19273,19324,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,hier,ADV,hier,18575,,
@@ -3356,7 +3356,7 @@ qd,vrds.0,19611,19790,NIKOLO,nikolo,",","$,",--,18575,,
 qd,vrds.0,19611,19790,NIKOLO,nikolo,und,KON,und,18575,,
 qd,vrds.0,19611,19790,NIKOLO,nikolo,die,ART,der,18575,,
 qd,vrds.0,19611,19790,NIKOLO,nikolo,Jungfer,NN,jungfer,18575,,
-qd,vrds.0,19611,19790,NIKOLO,nikolo,Lukrezia,NE,lukrezia,18575,,
+qd,vrds.0,19611,19790,NIKOLO,nikolo,Lukrezia,NE,lukrezia,18575,lukrezia,(8)
 qd,vrds.0,19611,19790,NIKOLO,nikolo,ist,VAFIN,sein,18575,,
 qd,vrds.0,19611,19790,NIKOLO,nikolo,auch,ADV,auch,18575,,
 qd,vrds.0,19611,19790,NIKOLO,nikolo,völlig,ADJD,völlig,18575,,
@@ -3374,7 +3374,7 @@ qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Eurer,ADJA,eurer,18575,,
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Cleopatra,NN,cleopatra,18575,,
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,und,KON,und,18575,,
-qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Lukrezia,NE,lukrezia,18575,,
+qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Lukrezia,NE,lukrezia,18575,lukrezia,(8)
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,"!",$.,--,18575,,
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Ich,PPER,ich,18575,trübe,(7)
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,freue,VVFIN,freuen,18575,,
@@ -3387,7 +3387,7 @@ qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,zu,PTKZU,zu,18575,,
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,wohnen,VVINF,wohnen,18575,,
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Herr,NN,herr,18575,,
-qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Bast,NE,bast,18575,,
+qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Bast,NE,bast,18575,bast,(2)
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,.,$.,--,18575,,
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Das,PDS,der,18575,,
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,wird,VAFIN,werden,18575,,
@@ -3396,8 +3396,8 @@ qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Vergnügen,NN,vergnügen,18575,,
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,seyn,VVFIN,seyn,18575,,
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,",","$,",--,18575,,
-qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,die,ART,der,18575,,
-qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Narren,NN,narr,18575,,
+qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,die,ART,der,18575,die_narren,(11
+qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Narren,NN,narr,18575,die_narren,11)
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,alle,PIDAT,aller,18575,,
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Tage,NN,tag,18575,,
 qd,vrds.0,19797,19989,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,zu,PTKZU,zu,18575,,
@@ -3561,7 +3561,7 @@ qd,vrds.0,20679,20846,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,20679,20846,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,auch,ADV,auch,18575,,
 qd,vrds.0,20679,20846,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,genießen,VVINF,genießen,18575,,
 qd,vrds.0,20679,20846,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,.,$.,--,18575,,
-qd,vrds.0,20679,20846,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,TRÜBE,NE,trübe,18575,,
+qd,vrds.0,20679,20846,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,TRÜBE,NE,trübe,18575,trübe,(7)
 qd,vrds.0,20679,20846,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Er,PPER,er,18575,,
 qd,vrds.0,20679,20846,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,wird,VAFIN,werden,18575,,
 qd,vrds.0,20679,20846,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,es,PPER,es,18575,,
@@ -3942,7 +3942,7 @@ qd,vrds.0,22693,23060,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort
 qd,vrds.0,22693,23060,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,werden,VAINF,werden,18575,,
 qd,vrds.0,22693,23060,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,.,$.,--,18575,,
 qd,vrds.0,22693,23060,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Herr,NN,herr,18575,,
-qd,vrds.0,22693,23060,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Bast,NE,bast,18575,,
+qd,vrds.0,22693,23060,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Bast,NE,bast,18575,bast,(2)
 qd,vrds.0,22693,23060,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,hat,VAFIN,haben,18575,,
 qd,vrds.0,22693,23060,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,einen,ART,ein,18575,,
 qd,vrds.0,22693,23060,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,guten,ADJA,gut,18575,,
@@ -4326,7 +4326,7 @@ qd,vrds.0,24834,24959,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort
 qd,vrds.0,24834,24959,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,",","$,",--,18575,,
 qd,vrds.0,24834,24959,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,lieber,ADV,lieber,18575,,
 qd,vrds.0,24834,24959,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Herr,NN,herr,18575,,
-qd,vrds.0,24834,24959,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Bast,NE,bast,18575,,
+qd,vrds.0,24834,24959,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Bast,NE,bast,18575,bast,(2)
 qd,vrds.0,24834,24959,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,–,XY,–,18575,,
 qd,vrds.0,24834,24959,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,meine,PPOSAT,mein,18575,trübe,(7)
 qd,vrds.0,24834,24959,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Tochter,NN,tochter,18575,,
@@ -4783,7 +4783,7 @@ qd,vrds.0,27503,27706,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,27503,27706,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,der,ART,der,18575,,
 qd,vrds.0,27503,27706,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,berühmte,ADJA,berühmt,18575,,
 qd,vrds.0,27503,27706,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Musikus,NE,musikus,18575,,
-qd,vrds.0,27503,27706,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Orpheus,NE,orpheus,18575,,
+qd,vrds.0,27503,27706,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Orpheus,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,27503,27706,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,sey,NE,sey,18575,,
 qd,vrds.0,27503,27706,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,",","$,",--,18575,,
 qd,vrds.0,27503,27706,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,der,PRELS,der,18575,,
@@ -4848,7 +4848,7 @@ qd,vrds.0,27962,27981,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,27962,27981,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,recht,ADJD,recht,18575,,
 qd,vrds.0,27962,27981,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,.,$.,--,18575,,
 qd,vrds.0,27986,28024,NIKOLO,nikolo,Die,ART,der,18575,,
-qd,vrds.0,27986,28024,NIKOLO,nikolo,Lukrezia,NE,lukrezia,18575,,
+qd,vrds.0,27986,28024,NIKOLO,nikolo,Lukrezia,NE,lukrezia,18575,lukrezia,(8)
 qd,vrds.0,27986,28024,NIKOLO,nikolo,kommt,VVFIN,kommen,18575,,
 qd,vrds.0,27986,28024,NIKOLO,nikolo,schon,ADV,schon,18575,,
 qd,vrds.0,27986,28024,NIKOLO,nikolo,her,PTKVZ,her,18575,,
@@ -4856,7 +4856,7 @@ qd,vrds.0,27986,28024,NIKOLO,nikolo,.,$.,--,18575,,
 qd,vrds.0,28029,28055,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Was,PWS,was,18575,,
 qd,vrds.0,28029,28055,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,?,$.,--,18575,,
 qd,vrds.0,28029,28055,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,die,ART,der,18575,,
-qd,vrds.0,28029,28055,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Lukrezia,NN,lukrezia,18575,,
+qd,vrds.0,28029,28055,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Lukrezia,NN,lukrezia,18575,lukrezia,(8)
 qd,vrds.0,28029,28055,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,?,$.,--,18575,,
 qd,vrds.0,28060,28296,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Ha,NN,ha,18575,,
 qd,vrds.0,28060,28296,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,"!",$.,--,18575,,
@@ -4907,7 +4907,7 @@ qd,vrds.0,28060,28296,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,28060,28296,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,sie,PPER,sie,18575,,
 qd,vrds.0,28060,28296,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,sey,VVFIN,sey,18575,,
 qd,vrds.0,28060,28296,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,die,ART,der,18575,,
-qd,vrds.0,28060,28296,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Lukrezia,NE,lukrezia,18575,,
+qd,vrds.0,28060,28296,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Lukrezia,NE,lukrezia,18575,lukrezia,(8)
 qd,vrds.0,28060,28296,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,.,$.,--,18575,,
 qd,vrds.0,28301,28344,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Ich,PPER,ich,18575,constanze,(0)
 qd,vrds.0,28301,28344,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,will,VMFIN,wollen,18575,,
@@ -5168,7 +5168,7 @@ qd,vrds.0,29856,29889,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,29856,29889,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,da,ADV,da,18575,,
 qd,vrds.0,29856,29889,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,kömmt,VVFIN,kömmen,18575,,
 qd,vrds.0,29856,29889,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,die,ART,der,18575,,
-qd,vrds.0,29856,29889,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Virginia,NE,virginia,18575,,
+qd,vrds.0,29856,29889,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Virginia,NE,virginia,18575,virginia,(9)
 qd,vrds.0,29856,29889,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,.,$.,--,18575,,
 qd,vrds.0,29894,29920,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Was,PWS,was,18575,,
 qd,vrds.0,29894,29920,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,ist,VAFIN,sein,18575,,
@@ -5277,7 +5277,7 @@ qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,die,ART,der,18575,,
 qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Geschichte,NN,geschichte,18575,,
 qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,der,ART,der,18575,,
-qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Virginia,NE,virginia,18575,,
+qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Virginia,NE,virginia,18575,virginia,(9)
 qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,sey,NE,sey,18575,,
 qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,;,$.,--,18575,,
 qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,es,PPER,es,18575,,
@@ -5308,7 +5308,7 @@ qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Narrheit,NN,narrheit,18575,,
 qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,itzt,VVFIN,itzen,18575,,
 qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,die,ART,der,18575,,
-qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Virginia,NE,virginia,18575,,
+qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Virginia,NE,virginia,18575,virginia,(9)
 qd,vrds.0,29925,30646,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,.,$.,--,18575,,
 qd,vrds.0,31255,31297,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Ha,NN,ha,18575,,
 qd,vrds.0,31255,31297,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,"!",$.,--,18575,,
@@ -5338,7 +5338,7 @@ qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,andre,PIS,andre,18575,,
 qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,weint,VVFIN,weinen,18575,,
 qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,.,$.,--,18575,,
-qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,NIKOLO,NE,nikolo,18575,,
+qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,NIKOLO,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,",","$,",--,18575,,
 qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,welcher,ADJA,welcher,18575,,
 qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,einigemal,ADV,einigemal,18575,,
@@ -5352,7 +5352,7 @@ qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Hauptthüre,NN,hauptthüre,18575,,
 qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,",","$,",--,18575,,
 qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,zu,PTKZU,zu,18575,,
-qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Bast,NE,bast,18575,,
+qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Bast,NE,bast,18575,bast,(2)
 qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,.,$.,--,18575,,
 qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Eben,ADV,eben,18575,,
 qd,vrds.0,31302,31537,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,bringen,VVFIN,bringen,18575,,
@@ -5433,7 +5433,7 @@ qd,vrds.0,31542,31859,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,31542,31859,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,«,XY,«,18575,,
 qd,vrds.0,31864,31902,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Das,PDS,der,18575,,
 qd,vrds.0,31864,31902,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,ist,VAFIN,sein,18575,,
-qd,vrds.0,31864,31902,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Albert,NE,albert,18575,,
+qd,vrds.0,31864,31902,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,31864,31902,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,.,$.,--,18575,,
 qd,vrds.0,31907,32002,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Vortreflich,ADJD,vortreflich,18575,,
 qd,vrds.0,31907,32002,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,",","$,",--,18575,,
@@ -5494,7 +5494,7 @@ qd,vrds.0,32693,32780,ALBERT,albert,allen,PIDAT,aller,18575,,
 qd,vrds.0,32693,32780,ALBERT,albert,"!",$.,--,18575,,
 qd,vrds.0,32693,32780,ALBERT,albert,Wogegen,NE,wogegen,18575,,
 qd,vrds.0,32693,32780,ALBERT,albert,selbst,ADV,selbst,18575,,
-qd,vrds.0,32693,32780,ALBERT,albert,Lukrezia,NE,lukrezia,18575,,
+qd,vrds.0,32693,32780,ALBERT,albert,Lukrezia,NE,lukrezia,18575,lukrezia,(8)
 qd,vrds.0,32693,32780,ALBERT,albert,Nur,ADV,nur,18575,,
 qd,vrds.0,32693,32780,ALBERT,albert,eine,ART,ein,18575,,
 qd,vrds.0,32693,32780,ALBERT,albert,feile,ADJA,feil,18575,,
@@ -5503,7 +5503,7 @@ qd,vrds.0,32693,32780,ALBERT,albert,ist,VAFIN,sein,18575,,
 qd,vrds.0,32693,32780,ALBERT,albert,.,$.,--,18575,,
 qd,vrds.0,32786,33024,LUKREZIA,lukrezia_zu_bast,Hier,ADV,hier,18575,,
 qd,vrds.0,32786,33024,LUKREZIA,lukrezia_zu_bast,sieht,VVFIN,sehen,18575,,
-qd,vrds.0,32786,33024,LUKREZIA,lukrezia_zu_bast,Lukrezia,NE,lukrezia,18575,,
+qd,vrds.0,32786,33024,LUKREZIA,lukrezia_zu_bast,Lukrezia,NE,lukrezia,18575,lukrezia,(8)
 qd,vrds.0,32786,33024,LUKREZIA,lukrezia_zu_bast,",","$,",--,18575,,
 qd,vrds.0,32786,33024,LUKREZIA,lukrezia_zu_bast,Verwegner,NN,verwegner,18575,,
 qd,vrds.0,32786,33024,LUKREZIA,lukrezia_zu_bast,"!",$.,--,18575,,
@@ -5654,11 +5654,11 @@ qd,vrds.0,33803,33981,LUKREZIA,lukrezia_zu_bast,weiche,ADJA,weichen,18575,,
 qd,vrds.0,33803,33981,LUKREZIA,lukrezia_zu_bast,nicht,PTKNEG,nicht,18575,,
 qd,vrds.0,33803,33981,LUKREZIA,lukrezia_zu_bast,zurück,PTKVZ,zurück,18575,,
 qd,vrds.0,33803,33981,LUKREZIA,lukrezia_zu_bast,.,$.,--,18575,,
-qd,vrds.0,33803,33981,LUKREZIA,lukrezia_zu_bast,BAST,NE,bast,18575,,
+qd,vrds.0,33803,33981,LUKREZIA,lukrezia_zu_bast,BAST,NE,bast,18575,bast,(2)
 qd,vrds.0,33803,33981,LUKREZIA,lukrezia_zu_bast,",","$,",--,18575,,
-qd,vrds.0,33803,33981,LUKREZIA,lukrezia_zu_bast,TRÜBE,NN,trübe,18575,,
+qd,vrds.0,33803,33981,LUKREZIA,lukrezia_zu_bast,TRÜBE,NN,trübe,18575,trübe,(7)
 qd,vrds.0,33803,33981,LUKREZIA,lukrezia_zu_bast,UND,KON,und,18575,,
-qd,vrds.0,33803,33981,LUKREZIA,lukrezia_zu_bast,NIKOLO,NE,nikolo,18575,,
+qd,vrds.0,33803,33981,LUKREZIA,lukrezia_zu_bast,NIKOLO,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,33803,33981,LUKREZIA,lukrezia_zu_bast,.,$.,--,18575,,
 qd,vrds.0,33803,33981,LUKREZIA,lukrezia_zu_bast,Ha,NN,ha,18575,,
 qd,vrds.0,33803,33981,LUKREZIA,lukrezia_zu_bast,"!",$.,--,18575,,
@@ -5691,11 +5691,11 @@ qd,vrds.0,33803,33981,VIRGINIA,virginia_zu_nikolo,weiche,ADJA,weichen,18575,,
 qd,vrds.0,33803,33981,VIRGINIA,virginia_zu_nikolo,nicht,PTKNEG,nicht,18575,,
 qd,vrds.0,33803,33981,VIRGINIA,virginia_zu_nikolo,zurück,PTKVZ,zurück,18575,,
 qd,vrds.0,33803,33981,VIRGINIA,virginia_zu_nikolo,.,$.,--,18575,,
-qd,vrds.0,33803,33981,VIRGINIA,virginia_zu_nikolo,BAST,NE,bast,18575,,
+qd,vrds.0,33803,33981,VIRGINIA,virginia_zu_nikolo,BAST,NE,bast,18575,bast,(2)
 qd,vrds.0,33803,33981,VIRGINIA,virginia_zu_nikolo,",","$,",--,18575,,
-qd,vrds.0,33803,33981,VIRGINIA,virginia_zu_nikolo,TRÜBE,NN,trübe,18575,,
+qd,vrds.0,33803,33981,VIRGINIA,virginia_zu_nikolo,TRÜBE,NN,trübe,18575,trübe,(7)
 qd,vrds.0,33803,33981,VIRGINIA,virginia_zu_nikolo,UND,KON,und,18575,,
-qd,vrds.0,33803,33981,VIRGINIA,virginia_zu_nikolo,NIKOLO,NE,nikolo,18575,,
+qd,vrds.0,33803,33981,VIRGINIA,virginia_zu_nikolo,NIKOLO,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,33803,33981,VIRGINIA,virginia_zu_nikolo,.,$.,--,18575,,
 qd,vrds.0,33803,33981,VIRGINIA,virginia_zu_nikolo,Ha,NN,ha,18575,,
 qd,vrds.0,33803,33981,VIRGINIA,virginia_zu_nikolo,"!",$.,--,18575,,
@@ -6056,11 +6056,11 @@ qd,vrds.0,35828,35944,VIRGINIA,virginia_zu_nikolo,.,$.,--,18575,,
 qd,vrds.0,36024,36104,ALBERT,albert,Ha,NN,ha,18575,,
 qd,vrds.0,36024,36104,ALBERT,albert,"!",$.,--,18575,,
 qd,vrds.0,36024,36104,ALBERT,albert,meine,PPOSAT,mein,18575,albert,(6)
-qd,vrds.0,36024,36104,ALBERT,albert,Constanze,NE,constanze,18575,,
+qd,vrds.0,36024,36104,ALBERT,albert,Constanze,NE,constanze,18575,constanze,(0)
 qd,vrds.0,36024,36104,ALBERT,albert,"!",$.,--,18575,,
 qd,vrds.0,36109,36136,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Ach,ITJ,ach,18575,,
 qd,vrds.0,36109,36136,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,mein,PPOSAT,mein,18575,constanze,(0)
-qd,vrds.0,36109,36136,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Albert,NE,albert,18575,,
+qd,vrds.0,36109,36136,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,36109,36136,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,"!",$.,--,18575,,
 qd,vrds.0,36141,36173,ALBERT,albert,Ich,PPER,ich,18575,albert,(6)
 qd,vrds.0,36141,36173,ALBERT,albert,soll,VMFIN,sollen,18575,,
@@ -6191,7 +6191,7 @@ qd,vrds.0,36820,36958,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,37155,37200,CLÄRCHEN,clärchen_allein,Ganz,ADV,ganz,18575,,
 qd,vrds.0,37155,37200,CLÄRCHEN,clärchen_allein,vortreflich,ADJD,vortreflich,18575,,
 qd,vrds.0,37155,37200,CLÄRCHEN,clärchen_allein,Monsieur,NN,Monsieur,18575,,
-qd,vrds.0,37155,37200,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,,
+qd,vrds.0,37155,37200,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,37155,37200,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,37205,37338,ORPHEUS,orpheus,Sie,PPER,sie,18575,,
 qd,vrds.0,37205,37338,ORPHEUS,orpheus,kennen,VVFIN,kennen,18575,,
@@ -6329,7 +6329,7 @@ qd,vrds.0,37404,37964,ORPHEUS,orpheus,Gedanken,NN,gedanke,18575,,
 qd,vrds.0,37404,37964,ORPHEUS,orpheus,.,$.,--,18575,,
 qd,vrds.0,37969,38122,CLÄRCHEN,clärchen_allein,Richtig,ADJD,richtig,18575,,
 qd,vrds.0,37969,38122,CLÄRCHEN,clärchen_allein,Monsieur,NN,Monsieur,18575,,
-qd,vrds.0,37969,38122,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,,
+qd,vrds.0,37969,38122,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,37969,38122,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,37969,38122,CLÄRCHEN,clärchen_allein,So,ADV,so,18575,,
 qd,vrds.0,37969,38122,CLÄRCHEN,clärchen_allein,geht,VVFIN,gehen,18575,,
@@ -6400,7 +6400,7 @@ qd,vrds.0,38312,38408,CLÄRCHEN,clärchen_allein,Was,PWS,was,18575,,
 qd,vrds.0,38312,38408,CLÄRCHEN,clärchen_allein,Sie,PPER,sie,18575,,
 qd,vrds.0,38312,38408,CLÄRCHEN,clärchen_allein,sagen,VVFIN,sagen,18575,,
 qd,vrds.0,38312,38408,CLÄRCHEN,clärchen_allein,Monsieur,NN,Monsieur,18575,,
-qd,vrds.0,38312,38408,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,,
+qd,vrds.0,38312,38408,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,38312,38408,CLÄRCHEN,clärchen_allein,"!",$.,--,18575,,
 qd,vrds.0,38312,38408,CLÄRCHEN,clärchen_allein,Und,KON,und,18575,,
 qd,vrds.0,38312,38408,CLÄRCHEN,clärchen_allein,haben,VAFIN,haben,18575,,
@@ -6861,11 +6861,11 @@ qd,vrds.0,40955,41192,ALBERT,albert,gewinnt,VVFIN,gewinnen,18575,,
 qd,vrds.0,40955,41192,ALBERT,albert,auch,ADV,auch,18575,,
 qd,vrds.0,40955,41192,ALBERT,albert,nicht,PTKNEG,nicht,18575,,
 qd,vrds.0,40955,41192,ALBERT,albert,.,$.,--,18575,,
-qd,vrds.0,40955,41192,ALBERT,albert,CLÄRCHEN,NE,clärchen,18575,,
+qd,vrds.0,40955,41192,ALBERT,albert,CLÄRCHEN,NE,clärchen,18575,clärchen,(1)
 qd,vrds.0,40955,41192,ALBERT,albert,",","$,",--,18575,,
-qd,vrds.0,40955,41192,ALBERT,albert,CONSTANZE,NN,constanze,18575,,
+qd,vrds.0,40955,41192,ALBERT,albert,CONSTANZE,NN,constanze,18575,constanze,(0)
 qd,vrds.0,40955,41192,ALBERT,albert,UND,KON,und,18575,,
-qd,vrds.0,40955,41192,ALBERT,albert,ALBERT,NE,albert,18575,,
+qd,vrds.0,40955,41192,ALBERT,albert,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,40955,41192,ALBERT,albert,.,$.,--,18575,,
 qd,vrds.0,40955,41192,ALBERT,albert,Die,ART,der,18575,,
 qd,vrds.0,40955,41192,ALBERT,albert,sich,PRF,sich,18575,,
@@ -6976,7 +6976,7 @@ qd,vrds.0,41780,41866,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,41780,41866,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,so,ADV,so,18575,,
 qd,vrds.0,41780,41866,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,bang,ADJD,bang,18575,,
 qd,vrds.0,41780,41866,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,.,$.,--,18575,,
-qd,vrds.0,41780,41866,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,CLÄRCHEN,NE,clärchen,18575,,
+qd,vrds.0,41780,41866,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,CLÄRCHEN,NE,clärchen,18575,clärchen,(1)
 qd,vrds.0,41780,41866,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,So,ADV,so,18575,,
 qd,vrds.0,41780,41866,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,ist,VAFIN,sein,18575,,
 qd,vrds.0,41780,41866,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Ihr,PPOSAT,ihr,18575,,
@@ -6996,7 +6996,7 @@ qd,vrds.0,41872,41916,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht
 qd,vrds.0,41921,42040,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,etwas,ADV,etwas,18575,,
 qd,vrds.0,41921,42040,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,heimlich,ADJD,heimlich,18575,,
 qd,vrds.0,41921,42040,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,zu,PTKZU,zu,18575,,
-qd,vrds.0,41921,42040,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Bast,NE,bast,18575,,
+qd,vrds.0,41921,42040,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Bast,NE,bast,18575,bast,(2)
 qd,vrds.0,41921,42040,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,.,$.,--,18575,,
 qd,vrds.0,41921,42040,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Sie,PPER,sie,18575,,
 qd,vrds.0,41921,42040,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,müssen,VMFIN,müssen,18575,,
@@ -7017,7 +7017,7 @@ qd,vrds.0,41921,42040,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht
 qd,vrds.0,41921,42040,CLÄRCHEN,clärchen_allein,etwas,ADV,etwas,18575,,
 qd,vrds.0,41921,42040,CLÄRCHEN,clärchen_allein,heimlich,ADJD,heimlich,18575,,
 qd,vrds.0,41921,42040,CLÄRCHEN,clärchen_allein,zu,PTKZU,zu,18575,,
-qd,vrds.0,41921,42040,CLÄRCHEN,clärchen_allein,Bast,NE,bast,18575,,
+qd,vrds.0,41921,42040,CLÄRCHEN,clärchen_allein,Bast,NE,bast,18575,bast,(2)
 qd,vrds.0,41921,42040,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,41921,42040,CLÄRCHEN,clärchen_allein,Sie,PPER,sie,18575,,
 qd,vrds.0,41921,42040,CLÄRCHEN,clärchen_allein,müssen,VMFIN,müssen,18575,,
@@ -7085,7 +7085,7 @@ qd,vrds.0,42367,42483,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,42367,42483,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,kannst,VMFIN,können,18575,,
 qd,vrds.0,42367,42483,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,ihn,PPER,ihn,18575,,
 qd,vrds.0,42367,42483,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,zum,APPRART,zu,18575,,
-qd,vrds.0,42367,42483,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Orpheus,NN,orpheus,18575,,
+qd,vrds.0,42367,42483,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Orpheus,NN,orpheus,18575,orpheus,(10)
 qd,vrds.0,42367,42483,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,führen,VVFIN,führen,18575,,
 qd,vrds.0,42367,42483,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,",","$,",--,18575,,
 qd,vrds.0,42367,42483,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Sie,PPER,sie,18575,,
@@ -7185,9 +7185,9 @@ qd,vrds.0,42788,42915,NIKOLO,nikolo,/,APPR,--,18575,,
 qd,vrds.0,42788,42915,NIKOLO,nikolo,izt,ADJD,izt,18575,,
 qd,vrds.0,42788,42915,NIKOLO,nikolo,fort,PTKVZ,fort,18575,,
 qd,vrds.0,42788,42915,NIKOLO,nikolo,.,$.,--,18575,,
-qd,vrds.0,42921,43087,ALBERT,albert,CONSTANZE,NN,constanze,18575,,
+qd,vrds.0,42921,43087,ALBERT,albert,CONSTANZE,NN,constanze,18575,constanze,(0)
 qd,vrds.0,42921,43087,ALBERT,albert,UND,KON,und,18575,,
-qd,vrds.0,42921,43087,ALBERT,albert,CLÄRCHEN,NE,clärchen,18575,,
+qd,vrds.0,42921,43087,ALBERT,albert,CLÄRCHEN,NE,clärchen,18575,clärchen,(1)
 qd,vrds.0,42921,43087,ALBERT,albert,eine,ART,ein,18575,,
 qd,vrds.0,42921,43087,ALBERT,albert,zur,APPRART,zu,18575,,
 qd,vrds.0,42921,43087,ALBERT,albert,andern,VVINF,anderer,18575,,
@@ -7426,7 +7426,7 @@ qd,vrds.0,44378,44621,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht
 qd,vrds.0,44378,44621,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,meinem,PPOSAT,mein,18575,,
 qd,vrds.0,44378,44621,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,/,NN,--,18575,,
 qd,vrds.0,44378,44621,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Ihrem,PPOSAT,ihr,18575,,
-qd,vrds.0,44378,44621,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Albert,NE,albert,18575,,
+qd,vrds.0,44378,44621,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,44378,44621,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,seyn,VVFIN,seyn,18575,,
 qd,vrds.0,44378,44621,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,.,$.,--,18575,,
 qd,vrds.0,44378,44621,CLÄRCHEN,clärchen_allein,O,NE,O,18575,,
@@ -7450,7 +7450,7 @@ qd,vrds.0,44378,44621,CLÄRCHEN,clärchen_allein,Bey,NE,bey,18575,,
 qd,vrds.0,44378,44621,CLÄRCHEN,clärchen_allein,meinem,PPOSAT,mein,18575,,
 qd,vrds.0,44378,44621,CLÄRCHEN,clärchen_allein,/,NN,--,18575,,
 qd,vrds.0,44378,44621,CLÄRCHEN,clärchen_allein,Ihrem,PPOSAT,ihr,18575,,
-qd,vrds.0,44378,44621,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,,
+qd,vrds.0,44378,44621,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,44378,44621,CLÄRCHEN,clärchen_allein,seyn,VVFIN,seyn,18575,,
 qd,vrds.0,44378,44621,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,44628,44690,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Nun,ADV,nun,18575,,
@@ -7576,7 +7576,7 @@ qd,vrds.0,45548,45591,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht
 qd,vrds.0,45548,45591,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,will,VMFIN,wollen,18575,,
 qd,vrds.0,45548,45591,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,zu,APPR,zu,18575,,
 qd,vrds.0,45548,45591,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,meinem,PPOSAT,mein,18575,constanze,(0)
-qd,vrds.0,45548,45591,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Albert,NE,albert,18575,,
+qd,vrds.0,45548,45591,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,45548,45591,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,gehen,VVINF,gehen,18575,,
 qd,vrds.0,45548,45591,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,.,$.,--,18575,,
 qd,vrds.0,45596,45729,CLÄRCHEN,clärchen_allein,Ganz,ADV,ganz,18575,,
@@ -7860,7 +7860,7 @@ qd,vrds.0,47440,47491,ORPHEUS,orpheus,mir,PPER,sich,18575,orpheus,(10)
 qd,vrds.0,47440,47491,ORPHEUS,orpheus,bekannt,ADJD,bekannt,18575,,
 qd,vrds.0,47440,47491,ORPHEUS,orpheus,.,$.,--,18575,,
 qd,vrds.0,47496,47562,CLÄRCHEN,clärchen_allein,Herr,NN,herr,18575,,
-qd,vrds.0,47496,47562,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,,
+qd,vrds.0,47496,47562,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,47496,47562,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,47496,47562,CLÄRCHEN,clärchen_allein,kommen,VVFIN,kommen,18575,,
 qd,vrds.0,47496,47562,CLÄRCHEN,clärchen_allein,Sie,PPER,sie,18575,,
@@ -7882,9 +7882,9 @@ qd,vrds.0,47643,47674,CLÄRCHEN,clärchen_allein,ist,VAFIN,sein,18575,,
 qd,vrds.0,47643,47674,CLÄRCHEN,clärchen_allein,verlorne,ADJA,verlorne,18575,,
 qd,vrds.0,47643,47674,CLÄRCHEN,clärchen_allein,Müh,NN,müh,18575,,
 qd,vrds.0,47643,47674,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
-qd,vrds.0,47680,47870,,,VIRGINIA,NN,virginia,18575,,
+qd,vrds.0,47680,47870,,,VIRGINIA,NN,virginia,18575,virginia,(9)
 qd,vrds.0,47680,47870,,,UND,KON,und,18575,,
-qd,vrds.0,47680,47870,,,LUKREZIA,NE,lukrezia,18575,,
+qd,vrds.0,47680,47870,,,LUKREZIA,NE,lukrezia,18575,lukrezia,(8)
 qd,vrds.0,47680,47870,,,zu,APPR,zu,18575,,
 qd,vrds.0,47680,47870,,,den,ART,der,18575,,
 qd,vrds.0,47680,47870,,,Poeten,NN,poet,18575,,
@@ -7941,9 +7941,9 @@ qd,vrds.0,48019,48340,ORPHEUS,orpheus,und,KON,und,18575,,
 qd,vrds.0,48019,48340,ORPHEUS,orpheus,machen,VVFIN,machen,18575,,
 qd,vrds.0,48019,48340,ORPHEUS,orpheus,sich,PRF,sich,18575,,
 qd,vrds.0,48019,48340,ORPHEUS,orpheus,von,APPR,von,18575,,
-qd,vrds.0,48019,48340,ORPHEUS,orpheus,Virginia,NE,virginia,18575,,
+qd,vrds.0,48019,48340,ORPHEUS,orpheus,Virginia,NE,virginia,18575,virginia,(9)
 qd,vrds.0,48019,48340,ORPHEUS,orpheus,und,KON,und,18575,,
-qd,vrds.0,48019,48340,ORPHEUS,orpheus,Lukrezia,NE,lukrezia,18575,,
+qd,vrds.0,48019,48340,ORPHEUS,orpheus,Lukrezia,NE,lukrezia,18575,lukrezia,(8)
 qd,vrds.0,48019,48340,ORPHEUS,orpheus,los,PTKVZ,los,18575,,
 qd,vrds.0,48019,48340,ORPHEUS,orpheus,.,$.,--,18575,,
 qd,vrds.0,48019,48340,ORPHEUS,orpheus,Kann,VMFIN,können,18575,,
@@ -7989,7 +7989,7 @@ qd,vrds.0,48423,48802,,,Dich,NE,dich,18575,,
 qd,vrds.0,48423,48802,,,keine,PIAT,kein,18575,,
 qd,vrds.0,48423,48802,,,Welt,NN,welt,18575,,
 qd,vrds.0,48423,48802,,,.,$.,--,18575,,
-qd,vrds.0,48423,48802,,,ORPHEUS,NE,orpheus,18575,,
+qd,vrds.0,48423,48802,,,ORPHEUS,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,48423,48802,,,betrübt,ADJD,betrüben,18575,,
 qd,vrds.0,48423,48802,,,seine,PPOSAT,sein,18575,,
 qd,vrds.0,48423,48802,,,Violine,NN,violine,18575,,
@@ -8405,21 +8405,21 @@ qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,',$[,--,18575,,
 qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,ich,PPER,ich,18575,,
 qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,"!",$.,--,18575,,
-qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Constanze,NE,constanze,18575,,
+qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Constanze,NE,constanze,18575,constanze,(0)
 qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,kömmt,VVFIN,kömmen,18575,,
 qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,da,ADV,da,18575,,
 qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,?,$.,--,18575,,
-qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,BAST,NE,bast,18575,,
+qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,BAST,NE,bast,18575,bast,(2)
 qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,",","$,",--,18575,,
-qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,TRÜBE,NE,trübe,18575,,
+qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,TRÜBE,NE,trübe,18575,trübe,(7)
 qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,",","$,",--,18575,,
-qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,NIKOLO,NE,nikolo,18575,,
+qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,NIKOLO,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,",","$,",--,18575,,
-qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,ALBERT,NE,albert,18575,,
+qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,",","$,",--,18575,,
-qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,CONSTANZE,NN,constanze,18575,,
+qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,CONSTANZE,NN,constanze,18575,constanze,(0)
 qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,UND,KON,und,18575,,
-qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,CLÄRCHEN,NE,clärchen,18575,,
+qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,CLÄRCHEN,NE,clärchen,18575,clärchen,(1)
 qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,.,$.,--,18575,,
 qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Das,PDS,der,18575,,
 qd,vrds.0,50988,51367,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,hat,VAFIN,haben,18575,,
@@ -8443,21 +8443,21 @@ qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort
 qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,',$[,--,18575,,
 qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,ich,PPER,ich,18575,,
 qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,"!",$.,--,18575,,
-qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Constanze,NE,constanze,18575,,
+qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Constanze,NE,constanze,18575,constanze,(0)
 qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,kömmt,VVFIN,kömmen,18575,,
 qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,da,ADV,da,18575,,
 qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,?,$.,--,18575,,
-qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,BAST,NE,bast,18575,,
+qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,BAST,NE,bast,18575,bast,(2)
 qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,",","$,",--,18575,,
-qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,TRÜBE,NE,trübe,18575,,
+qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,TRÜBE,NE,trübe,18575,trübe,(7)
 qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,",","$,",--,18575,,
-qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,NIKOLO,NE,nikolo,18575,,
+qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,NIKOLO,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,",","$,",--,18575,,
-qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,ALBERT,NE,albert,18575,,
+qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,",","$,",--,18575,,
-qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,CONSTANZE,NN,constanze,18575,,
+qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,CONSTANZE,NN,constanze,18575,constanze,(0)
 qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,UND,KON,und,18575,,
-qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,CLÄRCHEN,NE,clärchen,18575,,
+qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,CLÄRCHEN,NE,clärchen,18575,clärchen,(1)
 qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,.,$.,--,18575,,
 qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Das,PDS,der,18575,,
 qd,vrds.0,50988,51367,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,hat,VAFIN,haben,18575,,
@@ -8559,8 +8559,8 @@ qd,vrds.0,51768,51886,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,51768,51886,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,das,ART,der,18575,,
 qd,vrds.0,51768,51886,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,für,APPR,für,18575,,
 qd,vrds.0,51768,51886,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Manier,NN,manier,18575,,
-qd,vrds.0,51768,51886,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Die,ART,der,18575,,
-qd,vrds.0,51768,51886,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Narren,NN,narr,18575,,
+qd,vrds.0,51768,51886,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Die,ART,der,18575,die_narren,(11
+qd,vrds.0,51768,51886,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Narren,NN,narr,18575,die_narren,11)
 qd,vrds.0,51768,51886,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,alle,PIDAT,aller,18575,,
 qd,vrds.0,51768,51886,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,hier,ADV,hier,18575,,
 qd,vrds.0,51768,51886,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,?,$.,--,18575,,
@@ -8622,13 +8622,13 @@ qd,vrds.0,52171,52368,,,ha,XY,ha,18575,,
 qd,vrds.0,52171,52368,,,",","$,",--,18575,,
 qd,vrds.0,52171,52368,,,ha,XY,ha,18575,,
 qd,vrds.0,52171,52368,,,"!",$.,--,18575,,
-qd,vrds.0,52171,52368,,,TRÜBE,NE,trübe,18575,,
+qd,vrds.0,52171,52368,,,TRÜBE,NE,trübe,18575,trübe,(7)
 qd,vrds.0,52171,52368,,,",","$,",--,18575,,
-qd,vrds.0,52171,52368,,,CONSTANZE,NE,constanze,18575,,
+qd,vrds.0,52171,52368,,,CONSTANZE,NE,constanze,18575,constanze,(0)
 qd,vrds.0,52171,52368,,,",","$,",--,18575,,
-qd,vrds.0,52171,52368,,,CLÄRCHEN,NN,clärchen,18575,,
+qd,vrds.0,52171,52368,,,CLÄRCHEN,NN,clärchen,18575,clärchen,(1)
 qd,vrds.0,52171,52368,,,UND,KON,und,18575,,
-qd,vrds.0,52171,52368,,,NIKOLO,NE,nikolo,18575,,
+qd,vrds.0,52171,52368,,,NIKOLO,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,52171,52368,,,.,$.,--,18575,,
 qd,vrds.0,52171,52368,,,Kann,VMFIN,können,18575,,
 qd,vrds.0,52171,52368,,,man,PIS,man,18575,,
@@ -8796,15 +8796,15 @@ qd,vrds.0,53041,53325,NIKOLO,nikolo,nicht,PTKNEG,nicht,18575,,
 qd,vrds.0,53041,53325,NIKOLO,nikolo,mehr,ADV,mehr,18575,,
 qd,vrds.0,53041,53325,NIKOLO,nikolo,frey,ADJD,frey,18575,,
 qd,vrds.0,53041,53325,NIKOLO,nikolo,.,$.,--,18575,,
-qd,vrds.0,53041,53325,NIKOLO,nikolo,BAST,NE,bast,18575,,
+qd,vrds.0,53041,53325,NIKOLO,nikolo,BAST,NE,bast,18575,bast,(2)
 qd,vrds.0,53041,53325,NIKOLO,nikolo,",","$,",--,18575,,
-qd,vrds.0,53041,53325,NIKOLO,nikolo,CONSTANZE,NE,constanze,18575,,
+qd,vrds.0,53041,53325,NIKOLO,nikolo,CONSTANZE,NE,constanze,18575,constanze,(0)
 qd,vrds.0,53041,53325,NIKOLO,nikolo,",","$,",--,18575,,
-qd,vrds.0,53041,53325,NIKOLO,nikolo,ALBERT,NE,albert,18575,,
+qd,vrds.0,53041,53325,NIKOLO,nikolo,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,53041,53325,NIKOLO,nikolo,",","$,",--,18575,,
-qd,vrds.0,53041,53325,NIKOLO,nikolo,TRÜBE,NN,trübe,18575,,
+qd,vrds.0,53041,53325,NIKOLO,nikolo,TRÜBE,NN,trübe,18575,trübe,(7)
 qd,vrds.0,53041,53325,NIKOLO,nikolo,UND,KON,und,18575,,
-qd,vrds.0,53041,53325,NIKOLO,nikolo,CLÄRCHEN,NE,clärchen,18575,,
+qd,vrds.0,53041,53325,NIKOLO,nikolo,CLÄRCHEN,NE,clärchen,18575,clärchen,(1)
 qd,vrds.0,53041,53325,NIKOLO,nikolo,.,$.,--,18575,,
 qd,vrds.0,53041,53325,NIKOLO,nikolo,Nach,APPR,nach,18575,,
 qd,vrds.0,53041,53325,NIKOLO,nikolo,Regen,NN,regen,18575,,
@@ -9177,7 +9177,7 @@ qd,vrds.0,55577,55743,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,55577,55743,CLÄRCHEN,clärchen_allein,So,ADV,so,18575,,
 qd,vrds.0,55577,55743,CLÄRCHEN,clärchen_allein,lange,ADV,lange,18575,,
 qd,vrds.0,55577,55743,CLÄRCHEN,clärchen_allein,aber,ADV,aber,18575,,
-qd,vrds.0,55577,55743,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,,
+qd,vrds.0,55577,55743,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,55577,55743,CLÄRCHEN,clärchen_allein,im,APPRART,in,18575,,
 qd,vrds.0,55577,55743,CLÄRCHEN,clärchen_allein,Hause,NN,haus,18575,,
 qd,vrds.0,55577,55743,CLÄRCHEN,clärchen_allein,ist,VAFIN,sein,18575,,
@@ -9280,7 +9280,7 @@ qd,vrds.0,56465,56507,CLÄRCHEN,clärchen_allein,Vortreflich,ADJD,vortreflich,18
 qd,vrds.0,56465,56507,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,56465,56507,CLÄRCHEN,clärchen_allein,nicht,PTKNEG,nicht,18575,,
 qd,vrds.0,56465,56507,CLÄRCHEN,clärchen_allein,wahr,ADJD,wahr,18575,,
-qd,vrds.0,56465,56507,CLÄRCHEN,clärchen_allein,Nikolo,NN,nikolo,18575,,
+qd,vrds.0,56465,56507,CLÄRCHEN,clärchen_allein,Nikolo,NN,nikolo,18575,nikolo,(5)
 qd,vrds.0,56465,56507,CLÄRCHEN,clärchen_allein,?,$.,--,18575,,
 qd,vrds.0,56513,56688,NIKOLO,nikolo,Ja,PTKANT,ja,18575,,
 qd,vrds.0,56513,56688,NIKOLO,nikolo,singen,VVINF,singen,18575,,
@@ -9369,7 +9369,7 @@ qd,vrds.0,56861,57046,NIKOLO,nikolo,ich,PPER,ich,18575,nikolo,(5)
 qd,vrds.0,56861,57046,NIKOLO,nikolo,soll,VMFIN,sollen,18575,,
 qd,vrds.0,56861,57046,NIKOLO,nikolo,ihn,PPER,ihn,18575,,
 qd,vrds.0,56861,57046,NIKOLO,nikolo,zum,APPRART,zu,18575,,
-qd,vrds.0,56861,57046,NIKOLO,nikolo,Orpheus,NN,orpheus,18575,,
+qd,vrds.0,56861,57046,NIKOLO,nikolo,Orpheus,NN,orpheus,18575,orpheus,(10)
 qd,vrds.0,56861,57046,NIKOLO,nikolo,sperren,VVINF,sperren,18575,,
 qd,vrds.0,56861,57046,NIKOLO,nikolo,.,$.,--,18575,,
 qd,vrds.0,56861,57046,NIKOLO,nikolo,Da,ADV,da,18575,,
@@ -9449,7 +9449,7 @@ qd,vrds.0,57382,57541,NIKOLO,nikolo,gesagt,VVPP,sagen,18575,,
 qd,vrds.0,57382,57541,NIKOLO,nikolo,hat,VAFIN,haben,18575,,
 qd,vrds.0,57382,57541,NIKOLO,nikolo,–,PPER,–,18575,,
 qd,vrds.0,57382,57541,NIKOLO,nikolo,Zu,APPR,zu,18575,,
-qd,vrds.0,57382,57541,NIKOLO,nikolo,Albert,NE,albert,18575,,
+qd,vrds.0,57382,57541,NIKOLO,nikolo,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,57382,57541,NIKOLO,nikolo,.,$.,--,18575,,
 qd,vrds.0,57382,57541,NIKOLO,nikolo,Mein,PPOSAT,mein,18575,nikolo,(5)
 qd,vrds.0,57382,57541,NIKOLO,nikolo,Freund,NN,freund,18575,,
@@ -9475,7 +9475,7 @@ qd,vrds.0,57546,57684,CLÄRCHEN,clärchen_allein,hat,VAFIN,haben,18575,,
 qd,vrds.0,57546,57684,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,57546,57684,CLÄRCHEN,clärchen_allein,Heimlich,ADV,heimlich,18575,,
 qd,vrds.0,57546,57684,CLÄRCHEN,clärchen_allein,zu,APPR,zu,18575,,
-qd,vrds.0,57546,57684,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,,
+qd,vrds.0,57546,57684,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,57546,57684,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,57546,57684,CLÄRCHEN,clärchen_allein,Nur,ADV,nur,18575,,
 qd,vrds.0,57546,57684,CLÄRCHEN,clärchen_allein,Kourage,NN,kourage,18575,,
@@ -9734,7 +9734,7 @@ qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,Ich,PPER,ich,18575,clärchen,(1)
 qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,schicke,VVFIN,schicken,18575,,
 qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,den,ART,der,18575,,
-qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,Nikolo,NN,nikolo,18575,,
+qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,Nikolo,NN,nikolo,18575,nikolo,(5)
 qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,weg,ADV,weg,18575,,
 qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,–,XY,–,18575,,
 qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,–,XY,–,18575,,
@@ -9752,7 +9752,7 @@ qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,Wir,PPER,wir,18575,,
 qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,setzen,VVFIN,setzen,18575,,
 qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,also,ADV,also,18575,,
-qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,,
+qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,auf,APPR,auf,18575,,
 qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,freyen,ADJA,freyen,18575,,
 qd,vrds.0,59126,59392,CLÄRCHEN,clärchen_allein,Fuß,NN,fuß,18575,,
@@ -9953,7 +9953,7 @@ qd,vrds.0,60336,60446,CLÄRCHEN,clärchen_allein,itzt,ADJD,itzen,18575,,
 qd,vrds.0,60336,60446,CLÄRCHEN,clärchen_allein,höre,VVFIN,hören,18575,,
 qd,vrds.0,60336,60446,CLÄRCHEN,clärchen_allein,Er,PPER,er,18575,,
 qd,vrds.0,60336,60446,CLÄRCHEN,clärchen_allein,lieber,ADV,lieber,18575,,
-qd,vrds.0,60336,60446,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,,
+qd,vrds.0,60336,60446,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,60336,60446,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,60336,60446,CLÄRCHEN,clärchen_allein,Er,PPER,er,18575,,
 qd,vrds.0,60336,60446,CLÄRCHEN,clärchen_allein,muß,VMFIN,müssen,18575,,
@@ -10236,8 +10236,8 @@ qd,vrds.0,61918,62037,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort
 qd,vrds.0,61918,62037,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,doch,ADV,doch,18575,,
 qd,vrds.0,61918,62037,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,ein,ART,ein,18575,,
 qd,vrds.0,61918,62037,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,wenig,PIS,wenig,18575,,
-qd,vrds.0,61918,62037,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,die,ART,der,18575,,
-qd,vrds.0,61918,62037,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Narren,NN,narr,18575,,
+qd,vrds.0,61918,62037,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,die,ART,der,18575,die_narren,(11
+qd,vrds.0,61918,62037,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Narren,NN,narr,18575,die_narren,11)
 qd,vrds.0,61918,62037,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,sehen,VVFIN,sehen,18575,,
 qd,vrds.0,61918,62037,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,–,XY,–,18575,,
 qd,vrds.0,61918,62037,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,–,XY,–,18575,,
@@ -10347,7 +10347,7 @@ qd,vrds.0,62525,62807,CLÄRCHEN,clärchen_allein,–,XY,–,18575,,
 qd,vrds.0,62525,62807,CLÄRCHEN,clärchen_allein,Zu,PTKZU,zu,18575,,
 qd,vrds.0,62525,62807,CLÄRCHEN,clärchen_allein,Trübe,VVINF,trübe,18575,,
 qd,vrds.0,62525,62807,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
-qd,vrds.0,62525,62807,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,,
+qd,vrds.0,62525,62807,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,62525,62807,CLÄRCHEN,clärchen_allein,kann,VMFIN,können,18575,,
 qd,vrds.0,62525,62807,CLÄRCHEN,clärchen_allein,niemand,PIS,niemand,18575,,
 qd,vrds.0,62525,62807,CLÄRCHEN,clärchen_allein,anders,ADV,anders,18575,,
@@ -10413,7 +10413,7 @@ qd,vrds.0,62912,62984,CLÄRCHEN,clärchen_allein,Geh,VVIMP,geh,18575,,
 qd,vrds.0,62912,62984,CLÄRCHEN,clärchen_allein,',$[,--,18575,,
 qd,vrds.0,62912,62984,CLÄRCHEN,clärchen_allein,Er,PPER,er,18575,,
 qd,vrds.0,62912,62984,CLÄRCHEN,clärchen_allein,nur,ADV,nur,18575,,
-qd,vrds.0,62912,62984,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,,
+qd,vrds.0,62912,62984,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,62912,62984,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,62912,62984,CLÄRCHEN,clärchen_allein,und,KON,und,18575,,
 qd,vrds.0,62912,62984,CLÄRCHEN,clärchen_allein,komm,ADJD,komm,18575,,
@@ -10463,7 +10463,7 @@ qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort
 qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,meine,PPOSAT,mein,18575,trübe,(7)
 qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Tochter,NN,tochter,18575,,
 qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Herrn,NN,herr,18575,,
-qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Bast,NE,bast,18575,,
+qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Bast,NE,bast,18575,bast,(2)
 qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,verheirathe,VVFIN,verheirathen,18575,,
 qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,",","$,",--,18575,,
 qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,damit,KOUS,damit,18575,,
@@ -10472,8 +10472,8 @@ qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort
 qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Gelegenheit,NN,gelegenheit,18575,,
 qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,habe,VAFIN,haben,18575,,
 qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,",","$,",--,18575,,
-qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,die,ART,der,18575,,
-qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Narren,NN,narr,18575,,
+qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,die,ART,der,18575,die_narren,(11
+qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Narren,NN,narr,18575,die_narren,11)
 qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,zu,PTKZU,zu,18575,,
 qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,sehen,VVINF,sehen,18575,,
 qd,vrds.0,63367,63540,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,.,$.,--,18575,,
@@ -10757,7 +10757,7 @@ qd,vrds.0,65038,65132,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort
 qd,vrds.0,65038,65132,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,und,KON,und,18575,,
 qd,vrds.0,65038,65132,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,es,PPER,es,18575,,
 qd,vrds.0,65038,65132,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,erscheint,VVFIN,erscheinen,18575,,
-qd,vrds.0,65038,65132,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Virginia,NE,virginia,18575,,
+qd,vrds.0,65038,65132,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Virginia,NE,virginia,18575,virginia,(9)
 qd,vrds.0,65038,65132,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,.,$.,--,18575,,
 qd,vrds.0,65138,65371,VIRGINIA,virginia_zu_nikolo,Guckguck,NE,guckguck,18575,,
 qd,vrds.0,65138,65371,VIRGINIA,virginia_zu_nikolo,"!",$.,--,18575,,
@@ -10949,9 +10949,9 @@ qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,willen,APZR,willen,18575,,
 qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,"!",$.,--,18575,,
 qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,Clärchen,NN,clärchen,18575,,
 qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
-qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,,
+qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,und,KON,und,18575,,
-qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,,
+qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,reden,VVFIN,reden,18575,,
 qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,heimlich,ADJD,heimlich,18575,,
 qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
@@ -10962,7 +10962,7 @@ qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,ihrer,PPOSAT,ihr,18575,,
 qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,Pantomime,NN,pantomime,18575,,
 qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,daß,KOUS,daß,18575,,
-qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,,
+qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,versichert,VVFIN,versichern,18575,,
 qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,ruhig,ADJD,ruhig,18575,,
 qd,vrds.0,66399,66543,CLÄRCHEN,clärchen_allein,zu,PTKZU,zu,18575,,
@@ -11286,7 +11286,7 @@ qd,vrds.0,68701,68798,CLÄRCHEN,clärchen_allein,Herr,NN,herr,18575,,
 qd,vrds.0,68701,68798,CLÄRCHEN,clärchen_allein,Trübe,NE,trübe,18575,,
 qd,vrds.0,68701,68798,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,68701,68798,CLÄRCHEN,clärchen_allein,Mamsell,NE,mamsell,18575,,
-qd,vrds.0,68701,68798,CLÄRCHEN,clärchen_allein,Constanze,NE,constanze,18575,,
+qd,vrds.0,68701,68798,CLÄRCHEN,clärchen_allein,Constanze,NE,constanze,18575,constanze,(0)
 qd,vrds.0,68701,68798,CLÄRCHEN,clärchen_allein,läße,VVFIN,läß,18575,,
 qd,vrds.0,68701,68798,CLÄRCHEN,clärchen_allein,schön,ADJD,schön,18575,,
 qd,vrds.0,68701,68798,CLÄRCHEN,clärchen_allein,bitten,VVFIN,bitten,18575,,
@@ -11321,7 +11321,7 @@ qd,vrds.0,68804,68900,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort
 qd,vrds.0,68804,68900,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,.,$.,--,18575,,
 qd,vrds.0,68906,69102,CLÄRCHEN,clärchen_allein,Geschwind,NE,geschwind,18575,,
 qd,vrds.0,68906,69102,CLÄRCHEN,clärchen_allein,Herr,NN,herr,18575,,
-qd,vrds.0,68906,69102,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,,
+qd,vrds.0,68906,69102,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,68906,69102,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,68906,69102,CLÄRCHEN,clärchen_allein,gehen,VVFIN,gehen,18575,,
 qd,vrds.0,68906,69102,CLÄRCHEN,clärchen_allein,Sie,PPER,sie,18575,,
@@ -11366,7 +11366,7 @@ qd,vrds.0,69190,69241,CLÄRCHEN,clärchen_allein,nicht,PTKNEG,nicht,18575,,
 qd,vrds.0,69190,69241,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,69190,69241,CLÄRCHEN,clärchen_allein,lieber,ADV,lieber,18575,,
 qd,vrds.0,69190,69241,CLÄRCHEN,clärchen_allein,Herr,NN,herr,18575,,
-qd,vrds.0,69190,69241,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,,
+qd,vrds.0,69190,69241,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,69190,69241,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,69246,69327,ORPHEUS,orpheus,Warum,PWAV,warum,18575,,
 qd,vrds.0,69246,69327,ORPHEUS,orpheus,sind,VAFIN,sein,18575,,
@@ -11419,7 +11419,7 @@ qd,vrds.0,69471,69650,CLÄRCHEN,clärchen_allein,irren,VVFIN,irren,18575,,
 qd,vrds.0,69471,69650,CLÄRCHEN,clärchen_allein,sich,PRF,sich,18575,,
 qd,vrds.0,69471,69650,CLÄRCHEN,clärchen_allein,lieber,ADV,lieber,18575,,
 qd,vrds.0,69471,69650,CLÄRCHEN,clärchen_allein,Herr,NN,herr,18575,,
-qd,vrds.0,69471,69650,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,,
+qd,vrds.0,69471,69650,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,69471,69650,CLÄRCHEN,clärchen_allein,–,XY,–,18575,,
 qd,vrds.0,69471,69650,CLÄRCHEN,clärchen_allein,–,XY,–,18575,,
 qd,vrds.0,69471,69650,CLÄRCHEN,clärchen_allein,wenn,KOUS,wenn,18575,,
@@ -11562,7 +11562,7 @@ qd,vrds.0,70443,70518,CLÄRCHEN,clärchen_allein,–,XY,–,18575,,
 qd,vrds.0,70443,70518,CLÄRCHEN,clärchen_allein,Nun,ADV,nun,18575,,
 qd,vrds.0,70443,70518,CLÄRCHEN,clärchen_allein,lieber,ADV,lieber,18575,,
 qd,vrds.0,70443,70518,CLÄRCHEN,clärchen_allein,Herr,NN,herr,18575,,
-qd,vrds.0,70443,70518,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,,
+qd,vrds.0,70443,70518,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,70443,70518,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,70443,70518,CLÄRCHEN,clärchen_allein,was,PWS,was,18575,,
 qd,vrds.0,70443,70518,CLÄRCHEN,clärchen_allein,kann,VMFIN,können,18575,,
@@ -11588,7 +11588,7 @@ qd,vrds.0,70523,70645,ORPHEUS,orpheus,",","$,",--,18575,,
 qd,vrds.0,70523,70645,ORPHEUS,orpheus,warum,PWAV,warum,18575,,
 qd,vrds.0,70523,70645,ORPHEUS,orpheus,Sie,PPER,sie,18575,,
 qd,vrds.0,70523,70645,ORPHEUS,orpheus,mich,PRF,mich,18575,orpheus,(10)
-qd,vrds.0,70523,70645,ORPHEUS,orpheus,Orpheus,NE,orpheus,18575,,
+qd,vrds.0,70523,70645,ORPHEUS,orpheus,Orpheus,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,70523,70645,ORPHEUS,orpheus,nennen,VVFIN,nennen,18575,,
 qd,vrds.0,70523,70645,ORPHEUS,orpheus,?,$.,--,18575,,
 qd,vrds.0,70523,70645,ORPHEUS,orpheus,das,PDS,der,18575,,
@@ -12018,7 +12018,7 @@ qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,so,ADV,so,18575,,
 qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,laut,ADJD,laut,18575,,
 qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,?,$.,--,18575,,
 qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,Auf,APPR,auf,18575,,
-qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,,
+qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,deutend,ADJD,deutend,18575,,
 qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,Sehen,NN,sehen,18575,,
@@ -12052,7 +12052,7 @@ qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,Wir,PPER,wir,18575,,
 qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,müssen,VMFIN,müssen,18575,,
 qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,warten,VVINF,warten,18575,,
 qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,bis,APPR,bis,18575,,
-qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,,
+qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,zurückkommt,VVFIN,zurückkommen,18575,,
 qd,vrds.0,73164,73448,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,73453,73533,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Unterdessen,ADV,unterdessen,18575,,
@@ -12246,7 +12246,7 @@ qd,vrds.0,74633,74713,ORPHEUS,orpheus,fortzugehen,VVIZU,fortzugehen,18575,,
 qd,vrds.0,74633,74713,ORPHEUS,orpheus,.,$.,--,18575,,
 qd,vrds.0,74719,74769,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,He,NN,--,18575,,
 qd,vrds.0,74719,74769,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,"!",$.,--,18575,,
-qd,vrds.0,74719,74769,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Nikolo,NE,nikolo,18575,,
+qd,vrds.0,74719,74769,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Nikolo,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,74719,74769,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,"!",$.,--,18575,,
 qd,vrds.0,74719,74769,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,–,XY,–,18575,,
 qd,vrds.0,74719,74769,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Clärchen,VVINF,clärchen,18575,,
@@ -12283,7 +12283,7 @@ qd,vrds.0,74922,74971,CLÄRCHEN,clärchen_allein,"!",$.,--,18575,,
 qd,vrds.0,74922,74971,CLÄRCHEN,clärchen_allein,Denkt,NN,denken,18575,,
 qd,vrds.0,74922,74971,CLÄRCHEN,clärchen_allein,nach,PTKVZ,nach,18575,,
 qd,vrds.0,74922,74971,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
-qd,vrds.0,74978,75018,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Nikolo,NE,nikolo,18575,,
+qd,vrds.0,74978,75018,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Nikolo,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,74978,75018,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,"!",$.,--,18575,,
 qd,vrds.0,74978,75018,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,–,XY,–,18575,,
 qd,vrds.0,74978,75018,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,–,XY,–,18575,,
@@ -12310,9 +12310,9 @@ qd,vrds.0,75023,75188,CLÄRCHEN,clärchen_allein,dort,ADV,dort,18575,,
 qd,vrds.0,75023,75188,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,75023,75188,CLÄRCHEN,clärchen_allein,–,XY,–,18575,,
 qd,vrds.0,75023,75188,CLÄRCHEN,clärchen_allein,Stößt,VMFIN,stößt,18575,,
-qd,vrds.0,75023,75188,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,,
+qd,vrds.0,75023,75188,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,75023,75188,CLÄRCHEN,clärchen_allein,und,KON,und,18575,,
-qd,vrds.0,75023,75188,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,,
+qd,vrds.0,75023,75188,CLÄRCHEN,clärchen_allein,Orpheus,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,75023,75188,CLÄRCHEN,clärchen_allein,fort,PTKVZ,fort,18575,,
 qd,vrds.0,75023,75188,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,75023,75188,CLÄRCHEN,clärchen_allein,Gehn,VVIMP,gehn,18575,,
@@ -12331,7 +12331,7 @@ qd,vrds.0,75193,75394,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht
 qd,vrds.0,75193,75394,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,wahr,ADJD,wahr,18575,,
 qd,vrds.0,75193,75394,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Clärchen,VVINF,clärchen,18575,,
 qd,vrds.0,75193,75394,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,?,$.,--,18575,,
-qd,vrds.0,75193,75394,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,CLÄRCHEN,NE,clärchen,18575,,
+qd,vrds.0,75193,75394,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,CLÄRCHEN,NE,clärchen,18575,clärchen,(1)
 qd,vrds.0,75193,75394,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,",","$,",--,18575,,
 qd,vrds.0,75193,75394,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,die,PRELS,der,18575,,
 qd,vrds.0,75193,75394,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,aufzuschließen,VVIZU,aufschließen,18575,,
@@ -13204,7 +13204,7 @@ qd,vrds.0,80033,80268,CLÄRCHEN,clärchen_allein,wenn,KOUS,wenn,18575,,
 qd,vrds.0,80033,80268,CLÄRCHEN,clärchen_allein,nur,ADV,nur,18575,,
 qd,vrds.0,80033,80268,CLÄRCHEN,clärchen_allein,der,ART,der,18575,,
 qd,vrds.0,80033,80268,CLÄRCHEN,clärchen_allein,gute,ADJA,gut,18575,,
-qd,vrds.0,80033,80268,CLÄRCHEN,clärchen_allein,Orpheus,NN,orpheus,18575,,
+qd,vrds.0,80033,80268,CLÄRCHEN,clärchen_allein,Orpheus,NN,orpheus,18575,orpheus,(10)
 qd,vrds.0,80033,80268,CLÄRCHEN,clärchen_allein,nicht,PTKNEG,nicht,18575,,
 qd,vrds.0,80033,80268,CLÄRCHEN,clärchen_allein,seine,PPOSAT,sein,18575,,
 qd,vrds.0,80033,80268,CLÄRCHEN,clärchen_allein,Geige,NN,geige,18575,,
@@ -13252,7 +13252,7 @@ qd,vrds.0,80310,80417,CLÄRCHEN,clärchen_allein,trachten,VVFIN,trachen,18575,,
 qd,vrds.0,80310,80417,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,80310,80417,CLÄRCHEN,clärchen_allein,sonst,ADV,sonst,18575,,
 qd,vrds.0,80310,80417,CLÄRCHEN,clärchen_allein,kommt,VVFIN,kommen,18575,,
-qd,vrds.0,80310,80417,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,,
+qd,vrds.0,80310,80417,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,80310,80417,CLÄRCHEN,clärchen_allein,zurück,PTKVZ,zurück,18575,,
 qd,vrds.0,80310,80417,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,80310,80417,CLÄRCHEN,clärchen_allein,Was,PWS,was,18575,,
@@ -13303,7 +13303,7 @@ qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,daß,KOUS,daß,18575,,
 qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,Sie,PPER,sie,18575,,
 qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,mit,APPR,mit,18575,,
 qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,Herrn,NN,herr,18575,,
-qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,,
+qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,entwischen,VVINF,entwischen,18575,,
 qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,können,VMFIN,können,18575,,
 qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
@@ -13311,7 +13311,7 @@ qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,und,KON,und,18575,,
 qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,schließen,VVFIN,schließen,18575,,
 qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,Sie,PPER,sie,18575,,
 qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,den,ART,der,18575,,
-qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,Orpheus,NN,orpheus,18575,,
+qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,Orpheus,NN,orpheus,18575,orpheus,(10)
 qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,ein,PTKVZ,ein,18575,,
 qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,80463,80759,CLÄRCHEN,clärchen_allein,ich,PPER,ich,18575,clärchen,(1)
@@ -13341,7 +13341,7 @@ qd,vrds.0,80814,80930,CLÄRCHEN,clärchen_allein,es,PPER,es,18575,,
 qd,vrds.0,80814,80930,CLÄRCHEN,clärchen_allein,nur,ADV,nur,18575,,
 qd,vrds.0,80814,80930,CLÄRCHEN,clärchen_allein,dem,ART,der,18575,,
 qd,vrds.0,80814,80930,CLÄRCHEN,clärchen_allein,Herrn,NN,herr,18575,,
-qd,vrds.0,80814,80930,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,,
+qd,vrds.0,80814,80930,CLÄRCHEN,clärchen_allein,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,80814,80930,CLÄRCHEN,clärchen_allein,heimlich,ADJD,heimlich,18575,,
 qd,vrds.0,80814,80930,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,80814,80930,CLÄRCHEN,clärchen_allein,der,PDS,der,18575,,
@@ -13638,7 +13638,7 @@ qd,vrds.0,82338,83168,CLÄRCHEN,clärchen_allein,etwan,ADV,etwan,18575,,
 qd,vrds.0,82338,83168,CLÄRCHEN,clärchen_allein,aus,APPR,aus,18575,,
 qd,vrds.0,82338,83168,CLÄRCHEN,clärchen_allein,Diensteifer,NN,diensteifer,18575,,
 qd,vrds.0,82338,83168,CLÄRCHEN,clärchen_allein,den,ART,der,18575,,
-qd,vrds.0,82338,83168,CLÄRCHEN,clärchen_allein,Orpheus,NN,orpheus,18575,,
+qd,vrds.0,82338,83168,CLÄRCHEN,clärchen_allein,Orpheus,NN,orpheus,18575,orpheus,(10)
 qd,vrds.0,82338,83168,CLÄRCHEN,clärchen_allein,heirathen,VVFIN,heirathen,18575,,
 qd,vrds.0,82338,83168,CLÄRCHEN,clärchen_allein,müßte,VMFIN,müssen,18575,,
 qd,vrds.0,82338,83168,CLÄRCHEN,clärchen_allein,"!",$.,--,18575,,
@@ -13774,7 +13774,7 @@ qd,vrds.0,83264,83376,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht
 qd,vrds.0,83264,83376,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,bringen,VVINF,bringen,18575,,
 qd,vrds.0,83264,83376,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,.,$.,--,18575,,
 qd,vrds.0,83264,83376,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Auf,APPR,auf,18575,,
-qd,vrds.0,83264,83376,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Orpheus,NE,orpheus,18575,,
+qd,vrds.0,83264,83376,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Orpheus,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,83264,83376,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,deutend,ADJD,deutend,18575,,
 qd,vrds.0,83264,83376,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,.,$.,--,18575,,
 qd,vrds.0,83382,83432,ORPHEUS,orpheus,Ey,NE,ey,18575,,
@@ -13815,7 +13815,7 @@ qd,vrds.0,83438,83997,ORPHEUS,orpheus,verfolge,VVFIN,verfolgen,18575,,
 qd,vrds.0,83438,83997,ORPHEUS,orpheus,–,XY,–,18575,,
 qd,vrds.0,83438,83997,ORPHEUS,orpheus,–,XY,–,18575,,
 qd,vrds.0,83438,83997,ORPHEUS,orpheus,–,XY,–,18575,,
-qd,vrds.0,83438,83997,ORPHEUS,orpheus,Albert,NE,albert,18575,,
+qd,vrds.0,83438,83997,ORPHEUS,orpheus,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,83438,83997,ORPHEUS,orpheus,hat,VAFIN,haben,18575,,
 qd,vrds.0,83438,83997,ORPHEUS,orpheus,mir,PPER,sich,18575,orpheus,(10)
 qd,vrds.0,83438,83997,ORPHEUS,orpheus,Ihr,PPOSAT,ihr,18575,,
@@ -13938,11 +13938,11 @@ qd,vrds.0,84263,84368,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht
 qd,vrds.0,84263,84368,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Männchen,NN,männchen,18575,,
 qd,vrds.0,84263,84368,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,nimmt,VVFIN,nehmen,18575,,
 qd,vrds.0,84263,84368,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,–,PPER,–,18575,,
-qd,vrds.0,84263,84368,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,ALBERT,NE,albert,18575,,
+qd,vrds.0,84263,84368,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,84263,84368,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,",","$,",--,18575,,
-qd,vrds.0,84263,84368,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,CONSTANZE,NN,constanze,18575,,
+qd,vrds.0,84263,84368,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,CONSTANZE,NN,constanze,18575,constanze,(0)
 qd,vrds.0,84263,84368,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,UND,KON,und,18575,,
-qd,vrds.0,84263,84368,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,ORPHEUS,NE,orpheus,18575,,
+qd,vrds.0,84263,84368,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,ORPHEUS,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,84263,84368,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,.,$.,--,18575,,
 qd,vrds.0,84263,84368,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,Dazu,PROAV,dazu,18575,,
 qd,vrds.0,84263,84368,CONSTANZE,constanze_die_sich_stellt_als_ob_sie_das_gesicht_vor_schmerz_von_ihm_wegwendete_aber_dabey_lacht,sind,VAFIN,sein,18575,,
@@ -13963,11 +13963,11 @@ qd,vrds.0,84374,84545,CLÄRCHEN,clärchen_allein,meinem,PPOSAT,mein,18575,clärc
 qd,vrds.0,84374,84545,CLÄRCHEN,clärchen_allein,Herzen,NN,herz,18575,,
 qd,vrds.0,84374,84545,CLÄRCHEN,clärchen_allein,regt,VVFIN,regen,18575,,
 qd,vrds.0,84374,84545,CLÄRCHEN,clärchen_allein,?,$.,--,18575,,
-qd,vrds.0,84374,84545,CLÄRCHEN,clärchen_allein,ALBERT,NE,albert,18575,,
+qd,vrds.0,84374,84545,CLÄRCHEN,clärchen_allein,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,84374,84545,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
-qd,vrds.0,84374,84545,CLÄRCHEN,clärchen_allein,CONSTANZE,NN,constanze,18575,,
+qd,vrds.0,84374,84545,CLÄRCHEN,clärchen_allein,CONSTANZE,NN,constanze,18575,constanze,(0)
 qd,vrds.0,84374,84545,CLÄRCHEN,clärchen_allein,UND,KON,und,18575,,
-qd,vrds.0,84374,84545,CLÄRCHEN,clärchen_allein,ORPHEUS,NE,orpheus,18575,,
+qd,vrds.0,84374,84545,CLÄRCHEN,clärchen_allein,ORPHEUS,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,84374,84545,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,84374,84545,CLÄRCHEN,clärchen_allein,Schnell,ADJD,schnell,18575,,
 qd,vrds.0,84374,84545,CLÄRCHEN,clärchen_allein,entstehn,CARD,entstehn,18575,,
@@ -13989,11 +13989,11 @@ qd,vrds.0,84552,84791,,,es,PPER,es,18575,,
 qd,vrds.0,84552,84791,,,keiner,PIS,keiner,18575,,
 qd,vrds.0,84552,84791,,,wagen,VVFIN,wagen,18575,,
 qd,vrds.0,84552,84791,,,",","$,",--,18575,,
-qd,vrds.0,84552,84791,,,ALBERT,NE,albert,18575,,
+qd,vrds.0,84552,84791,,,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,84552,84791,,,",","$,",--,18575,,
-qd,vrds.0,84552,84791,,,CONSTANZE,NN,constanze,18575,,
+qd,vrds.0,84552,84791,,,CONSTANZE,NN,constanze,18575,constanze,(0)
 qd,vrds.0,84552,84791,,,UND,KON,und,18575,,
-qd,vrds.0,84552,84791,,,ORPHEUS,NE,orpheus,18575,,
+qd,vrds.0,84552,84791,,,ORPHEUS,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,84552,84791,,,.,$.,--,18575,,
 qd,vrds.0,84552,84791,,,Niemand,PIS,niemand,18575,,
 qd,vrds.0,84552,84791,,,kann,VMFIN,können,18575,,
@@ -14002,13 +14002,13 @@ qd,vrds.0,84552,84791,,,leicht,ADJD,leicht,18575,,
 qd,vrds.0,84552,84791,,,es,PPER,es,18575,,
 qd,vrds.0,84552,84791,,,wagen,VVFIN,wagen,18575,,
 qd,vrds.0,84552,84791,,,",","$,",--,18575,,
-qd,vrds.0,84552,84791,,,CLÄRCHEN,NE,clärchen,18575,,
+qd,vrds.0,84552,84791,,,CLÄRCHEN,NE,clärchen,18575,clärchen,(1)
 qd,vrds.0,84552,84791,,,",","$,",--,18575,,
-qd,vrds.0,84552,84791,,,ALBERT,NE,albert,18575,,
+qd,vrds.0,84552,84791,,,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,84552,84791,,,",","$,",--,18575,,
-qd,vrds.0,84552,84791,,,CONSTANZE,NN,constanze,18575,,
+qd,vrds.0,84552,84791,,,CONSTANZE,NN,constanze,18575,constanze,(0)
 qd,vrds.0,84552,84791,,,UND,KON,und,18575,,
-qd,vrds.0,84552,84791,,,ORPHEUS,NE,orpheus,18575,,
+qd,vrds.0,84552,84791,,,ORPHEUS,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,84552,84791,,,.,$.,--,18575,,
 qd,vrds.0,84552,84791,,,Stolz,NN,stolz,18575,,
 qd,vrds.0,84552,84791,,,der,ART,der,18575,,
@@ -14057,11 +14057,11 @@ qd,vrds.0,84797,85075,ORPHEUS,orpheus,und,KON,und,18575,,
 qd,vrds.0,84797,85075,ORPHEUS,orpheus,Ruh,NN,ruh,18575,,
 qd,vrds.0,84797,85075,ORPHEUS,orpheus,zurück,PTKVZ,zurück,18575,,
 qd,vrds.0,84797,85075,ORPHEUS,orpheus,?,$.,--,18575,,
-qd,vrds.0,84797,85075,ORPHEUS,orpheus,ALBERT,NE,albert,18575,,
+qd,vrds.0,84797,85075,ORPHEUS,orpheus,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,84797,85075,ORPHEUS,orpheus,",","$,",--,18575,,
-qd,vrds.0,84797,85075,ORPHEUS,orpheus,CONSTANZE,NN,constanze,18575,,
+qd,vrds.0,84797,85075,ORPHEUS,orpheus,CONSTANZE,NN,constanze,18575,constanze,(0)
 qd,vrds.0,84797,85075,ORPHEUS,orpheus,UND,KON,und,18575,,
-qd,vrds.0,84797,85075,ORPHEUS,orpheus,ORPHEUS,NE,orpheus,18575,,
+qd,vrds.0,84797,85075,ORPHEUS,orpheus,ORPHEUS,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,84797,85075,ORPHEUS,orpheus,.,$.,--,18575,,
 qd,vrds.0,84797,85075,ORPHEUS,orpheus,Dankbar,ADJD,dankbar,18575,,
 qd,vrds.0,84797,85075,ORPHEUS,orpheus,wird,VAFIN,werden,18575,,
@@ -14147,13 +14147,13 @@ qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,fort,PTKVZ,fort,18575,,
 qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,fort,PTKVZ,fort,18575,,
 qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
-qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,ALBERT,NE,albert,18575,,
+qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
-qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,CONSTANZE,NE,constanze,18575,,
+qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,CONSTANZE,NE,constanze,18575,constanze,(0)
 qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
-qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,CLÄRCHEN,NN,clärchen,18575,,
+qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,CLÄRCHEN,NN,clärchen,18575,clärchen,(1)
 qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,UND,KON,und,18575,,
-qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,ORPHEUS,NE,orpheus,18575,,
+qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,ORPHEUS,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,Ja,PTKANT,ja,18575,,
 qd,vrds.0,85297,85737,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
@@ -14206,11 +14206,11 @@ qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,wollt,VVFIN,wollen,18575,,
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,',$[,--,18575,,
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,ich,PPER,ich,18575,clärchen,(1)
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,"!",$.,--,18575,,
-qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,ALBERT,NE,albert,18575,,
+qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,CONSTANZIA,NN,constanzia,18575,,
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,UND,KON,und,18575,,
-qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,ORPHEUS,NE,orpheus,18575,,
+qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,ORPHEUS,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,ebenfalls,ADV,ebenfalls,18575,,
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,für,APPR,für,18575,,
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,sich,PRF,sich,18575,,
@@ -14219,13 +14219,13 @@ qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,Wieder,ADV,wieder,18575,,
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,was,PWS,was,18575,,
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,"!",$.,--,18575,,
-qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,NIKOLO,NE,nikolo,18575,,
+qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,NIKOLO,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
-qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,ALBERT,NE,albert,18575,,
+qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,CONSTANZIA,NN,constanzia,18575,,
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,UND,KON,und,18575,,
-qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,ORPHEUS,NE,orpheus,18575,,
+qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,ORPHEUS,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,unter,APPR,unter,18575,,
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,sich,PRF,sich,18575,,
 qd,vrds.0,85937,86136,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
@@ -14248,7 +14248,7 @@ qd,vrds.0,86226,86397,CLÄRCHEN,clärchen_allein,mich,PRF,mich,18575,clärchen,(
 qd,vrds.0,86226,86397,CLÄRCHEN,clärchen_allein,machen,VVINF,machen,18575,,
 qd,vrds.0,86226,86397,CLÄRCHEN,clärchen_allein,.,$.,--,18575,,
 qd,vrds.0,86226,86397,CLÄRCHEN,clärchen_allein,Ach,ITJ,ach,18575,,
-qd,vrds.0,86226,86397,CLÄRCHEN,clärchen_allein,Nikolo,ITJ,nikolo,18575,,
+qd,vrds.0,86226,86397,CLÄRCHEN,clärchen_allein,Nikolo,ITJ,nikolo,18575,nikolo,(5)
 qd,vrds.0,86226,86397,CLÄRCHEN,clärchen_allein,"!",$.,--,18575,,
 qd,vrds.0,86226,86397,CLÄRCHEN,clärchen_allein,da,ADV,da,18575,,
 qd,vrds.0,86226,86397,CLÄRCHEN,clärchen_allein,giebt,VVFIN,gieben,18575,,
@@ -14334,7 +14334,7 @@ qd,vrds.0,86745,86906,CLÄRCHEN,clärchen_allein,–,XY,–,18575,,
 qd,vrds.0,86745,86906,CLÄRCHEN,clärchen_allein,Du,PPER,du,18575,,
 qd,vrds.0,86745,86906,CLÄRCHEN,clärchen_allein,liebst,VVFIN,liebst,18575,,
 qd,vrds.0,86745,86906,CLÄRCHEN,clärchen_allein,mich,PPER,mich,18575,clärchen,(1)
-qd,vrds.0,86745,86906,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,,
+qd,vrds.0,86745,86906,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,86745,86906,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,86745,86906,CLÄRCHEN,clärchen_allein,nicht,PTKNEG,nicht,18575,,
 qd,vrds.0,86745,86906,CLÄRCHEN,clärchen_allein,wahr,ADJD,wahr,18575,,
@@ -14379,11 +14379,11 @@ qd,vrds.0,87040,87279,NIKOLO,nikolo,ich,PPER,ich,18575,nikolo,(5)
 qd,vrds.0,87040,87279,NIKOLO,nikolo,zu,APPR,zu,18575,,
 qd,vrds.0,87040,87279,NIKOLO,nikolo,Gebot,NN,gebot,18575,,
 qd,vrds.0,87040,87279,NIKOLO,nikolo,.,$.,--,18575,,
-qd,vrds.0,87040,87279,NIKOLO,nikolo,ORPHEUS,NE,orpheus,18575,,
+qd,vrds.0,87040,87279,NIKOLO,nikolo,ORPHEUS,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,87040,87279,NIKOLO,nikolo,",","$,",--,18575,,
-qd,vrds.0,87040,87279,NIKOLO,nikolo,ALBERT,NE,albert,18575,,
+qd,vrds.0,87040,87279,NIKOLO,nikolo,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,87040,87279,NIKOLO,nikolo,UND,KON,und,18575,,
-qd,vrds.0,87040,87279,NIKOLO,nikolo,CONSTANZE,NE,constanze,18575,,
+qd,vrds.0,87040,87279,NIKOLO,nikolo,CONSTANZE,NE,constanze,18575,constanze,(0)
 qd,vrds.0,87040,87279,NIKOLO,nikolo,.,$.,--,18575,,
 qd,vrds.0,87040,87279,NIKOLO,nikolo,Wie,PWAV,wie,18575,,
 qd,vrds.0,87040,87279,NIKOLO,nikolo,sie,PPER,sie,18575,,
@@ -14589,7 +14589,7 @@ qd,vrds.0,88141,88325,ALBERT,albert,erreicht,VVPP,erreichen,18575,,
 qd,vrds.0,88141,88325,ALBERT,albert,.,$.,--,18575,,
 qd,vrds.0,88331,88503,CLÄRCHEN,clärchen_allein,Geh,VVIMP,geh,18575,,
 qd,vrds.0,88331,88503,CLÄRCHEN,clärchen_allein,lieber,ADV,lieber,18575,,
-qd,vrds.0,88331,88503,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,,
+qd,vrds.0,88331,88503,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,88331,88503,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,88331,88503,CLÄRCHEN,clärchen_allein,sieh,VVIMP,sieh,18575,,
 qd,vrds.0,88331,88503,CLÄRCHEN,clärchen_allein,',$[,--,18575,,
@@ -14742,7 +14742,7 @@ qd,vrds.0,89305,89446,CLÄRCHEN,clärchen_allein,nämliche,ADJA,nämlich,18575,,
 qd,vrds.0,89305,89446,CLÄRCHEN,clärchen_allein,Bemerkung,NN,bemerkung,18575,,
 qd,vrds.0,89305,89446,CLÄRCHEN,clärchen_allein,wegen,APPR,wegen,18575,,
 qd,vrds.0,89305,89446,CLÄRCHEN,clärchen_allein,Herrn,NN,herr,18575,,
-qd,vrds.0,89305,89446,CLÄRCHEN,clärchen_allein,Bast,NE,bast,18575,,
+qd,vrds.0,89305,89446,CLÄRCHEN,clärchen_allein,Bast,NE,bast,18575,bast,(2)
 qd,vrds.0,89305,89446,CLÄRCHEN,clärchen_allein,gemacht,VVPP,machen,18575,,
 qd,vrds.0,89305,89446,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,89305,89446,CLÄRCHEN,clärchen_allein,wie,PWAV,wie,18575,,
@@ -14992,10 +14992,10 @@ qd,vrds.0,90971,91098,CLÄRCHEN,clärchen_allein,Kein,PIAT,kein,18575,,
 qd,vrds.0,90971,91098,CLÄRCHEN,clärchen_allein,ander,ADJA,ander,18575,,
 qd,vrds.0,90971,91098,CLÄRCHEN,clärchen_allein,Mittel,NN,mittel,18575,,
 qd,vrds.0,90971,91098,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
-qd,vrds.0,90971,91098,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,,
+qd,vrds.0,90971,91098,CLÄRCHEN,clärchen_allein,Nikolo,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,90971,91098,CLÄRCHEN,clärchen_allein,muß,VMFIN,müssen,18575,,
-qd,vrds.0,90971,91098,CLÄRCHEN,clärchen_allein,die,ART,der,18575,,
-qd,vrds.0,90971,91098,CLÄRCHEN,clärchen_allein,Narren,NN,narr,18575,,
+qd,vrds.0,90971,91098,CLÄRCHEN,clärchen_allein,die,ART,der,18575,die_narren,(11
+qd,vrds.0,90971,91098,CLÄRCHEN,clärchen_allein,Narren,NN,narr,18575,die_narren,11)
 qd,vrds.0,90971,91098,CLÄRCHEN,clärchen_allein,herauslassen,VVFIN,herauslassen,18575,,
 qd,vrds.0,90971,91098,CLÄRCHEN,clärchen_allein,",","$,",--,18575,,
 qd,vrds.0,90971,91098,CLÄRCHEN,clärchen_allein,daß,KOUS,daß,18575,,
@@ -15138,13 +15138,13 @@ qd,vrds.0,91898,92157,,,wäre,VAFIN,sein,18575,,
 qd,vrds.0,91898,92157,,,zu,PTKZU,zu,18575,,
 qd,vrds.0,91898,92157,,,beklagen,VVINF,beklagen,18575,,
 qd,vrds.0,91898,92157,,,.,$.,--,18575,,
-qd,vrds.0,91898,92157,,,ALBERT,NE,albert,18575,,
+qd,vrds.0,91898,92157,,,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,91898,92157,,,",","$,",--,18575,,
-qd,vrds.0,91898,92157,,,CONSTANZE,NE,constanze,18575,,
+qd,vrds.0,91898,92157,,,CONSTANZE,NE,constanze,18575,constanze,(0)
 qd,vrds.0,91898,92157,,,",","$,",--,18575,,
-qd,vrds.0,91898,92157,,,ORPHEUS,NN,orpheus,18575,,
+qd,vrds.0,91898,92157,,,ORPHEUS,NN,orpheus,18575,orpheus,(10)
 qd,vrds.0,91898,92157,,,UND,KON,und,18575,,
-qd,vrds.0,91898,92157,,,CLÄRCHEN,NE,clärchen,18575,,
+qd,vrds.0,91898,92157,,,CLÄRCHEN,NE,clärchen,18575,clärchen,(1)
 qd,vrds.0,91898,92157,,,alle,PIDAT,aller,18575,,
 qd,vrds.0,91898,92157,,,erschrocken,VVIZU,erschrocken,18575,,
 qd,vrds.0,91898,92157,,,und,KON,und,18575,,
@@ -15206,7 +15206,7 @@ qd,vrds.0,92164,92443,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,92164,92443,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,:,$.,--,18575,,
 qd,vrds.0,92164,92443,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Einen,ART,ein,18575,,
 qd,vrds.0,92164,92443,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,sichern,VVINF,sichern,18575,,
-qd,vrds.0,92164,92443,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Albert,NE,albert,18575,,
+qd,vrds.0,92164,92443,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,92164,92443,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Kron,NE,kron,18575,,
 qd,vrds.0,92164,92443,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,",","$,",--,18575,,
 qd,vrds.0,92164,92443,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wuth,Meinen,NN,meinen,18575,,
@@ -15249,26 +15249,26 @@ qd,vrds.0,92649,92994,ALBERT,albert,ich,PPER,ich,18575,albert,(6)
 qd,vrds.0,92649,92994,ALBERT,albert,bin,VAFIN,sein,18575,,
 qd,vrds.0,92649,92994,ALBERT,albert,es,PPER,es,18575,,
 qd,vrds.0,92649,92994,ALBERT,albert,"!",$.,--,18575,,
-qd,vrds.0,92649,92994,ALBERT,albert,ALBERT,NE,albert,18575,,
+qd,vrds.0,92649,92994,ALBERT,albert,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,92649,92994,ALBERT,albert,",","$,",--,18575,,
-qd,vrds.0,92649,92994,ALBERT,albert,ORPHEUS,NE,orpheus,18575,,
+qd,vrds.0,92649,92994,ALBERT,albert,ORPHEUS,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,92649,92994,ALBERT,albert,",","$,",--,18575,,
-qd,vrds.0,92649,92994,ALBERT,albert,CONSTANZE,NN,constanze,18575,,
+qd,vrds.0,92649,92994,ALBERT,albert,CONSTANZE,NN,constanze,18575,constanze,(0)
 qd,vrds.0,92649,92994,ALBERT,albert,UND,KON,und,18575,,
-qd,vrds.0,92649,92994,ALBERT,albert,CLÄRCHEN,NE,clärchen,18575,,
+qd,vrds.0,92649,92994,ALBERT,albert,CLÄRCHEN,NE,clärchen,18575,clärchen,(1)
 qd,vrds.0,92649,92994,ALBERT,albert,.,$.,--,18575,,
 qd,vrds.0,92649,92994,ALBERT,albert,O,NE,O,18575,,
 qd,vrds.0,92649,92994,ALBERT,albert,"!",$.,--,18575,,
 qd,vrds.0,92649,92994,ALBERT,albert,welch,PWAT,welcher,18575,,
 qd,vrds.0,92649,92994,ALBERT,albert,Glück,NN,glück,18575,,
 qd,vrds.0,92649,92994,ALBERT,albert,"!",$.,--,18575,,
-qd,vrds.0,92649,92994,ALBERT,albert,CONSTANZE,NE,constanze,18575,,
+qd,vrds.0,92649,92994,ALBERT,albert,CONSTANZE,NE,constanze,18575,constanze,(0)
 qd,vrds.0,92649,92994,ALBERT,albert,",","$,",--,18575,,
-qd,vrds.0,92649,92994,ALBERT,albert,ALBERT,NE,albert,18575,,
+qd,vrds.0,92649,92994,ALBERT,albert,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,92649,92994,ALBERT,albert,",","$,",--,18575,,
-qd,vrds.0,92649,92994,ALBERT,albert,ORPHEUS,NN,orpheus,18575,,
+qd,vrds.0,92649,92994,ALBERT,albert,ORPHEUS,NN,orpheus,18575,orpheus,(10)
 qd,vrds.0,92649,92994,ALBERT,albert,UND,KON,und,18575,,
-qd,vrds.0,92649,92994,ALBERT,albert,CLÄRCHEN,NE,clärchen,18575,,
+qd,vrds.0,92649,92994,ALBERT,albert,CLÄRCHEN,NE,clärchen,18575,clärchen,(1)
 qd,vrds.0,92649,92994,ALBERT,albert,umringen,NE,umringen,18575,,
 qd,vrds.0,92649,92994,ALBERT,albert,Trübe,NE,trübe,18575,,
 qd,vrds.0,92649,92994,ALBERT,albert,.,$.,--,18575,,
@@ -15296,7 +15296,7 @@ qd,vrds.0,92649,92994,ALBERT,albert,"!",$.,--,18575,,
 qd,vrds.0,92649,92994,ALBERT,albert,Hier,ADV,hier,18575,,
 qd,vrds.0,92649,92994,ALBERT,albert,ist,VAFIN,sein,18575,,
 qd,vrds.0,92649,92994,ALBERT,albert,dieser,PDAT,dieser,18575,,
-qd,vrds.0,92649,92994,ALBERT,albert,Albert,NE,albert,18575,,
+qd,vrds.0,92649,92994,ALBERT,albert,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,92649,92994,ALBERT,albert,Kron,NE,kron,18575,,
 qd,vrds.0,92649,92994,ALBERT,albert,Lange,NE,lange,18575,,
 qd,vrds.0,92649,92994,ALBERT,albert,lieben,ADJA,lieben,18575,,
@@ -15365,7 +15365,7 @@ qd,vrds.0,93266,93318,,,/,PPER,--,18575,,
 qd,vrds.0,93266,93318,,,ich,PPER,ich,18575,,
 qd,vrds.0,93266,93318,,,bin,VAFIN,sein,18575,,
 qd,vrds.0,93266,93318,,,der,ART,der,18575,,
-qd,vrds.0,93266,93318,,,Albert,NE,albert,18575,,
+qd,vrds.0,93266,93318,,,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,93266,93318,,,Kron,NE,kron,18575,,
 qd,vrds.0,93266,93318,,,"!",$.,--,18575,,
 qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Aber,KON,aber,18575,,
@@ -15373,13 +15373,13 @@ qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort
 qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Narren,NN,narr,18575,,
 qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,wählen,VVINF,wählen,18575,,
 qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,"!",$.,--,18575,,
-qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,ALBERT,NE,albert,18575,,
+qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,",","$,",--,18575,,
-qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,CONSTANZE,NE,constanze,18575,,
+qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,CONSTANZE,NE,constanze,18575,constanze,(0)
 qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,",","$,",--,18575,,
-qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,CLÄRCHEN,NN,clärchen,18575,,
+qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,CLÄRCHEN,NN,clärchen,18575,clärchen,(1)
 qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,UND,KON,und,18575,,
-qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,ORPHEUS,NE,orpheus,18575,,
+qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,ORPHEUS,NE,orpheus,18575,orpheus,(10)
 qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,.,$.,--,18575,,
 qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,O,NE,O,18575,,
 qd,vrds.0,93323,93450,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Ich,PPER,ich,18575,trübe,(7)
@@ -15413,20 +15413,20 @@ qd,vrds.0,93527,93791,,,will,VMFIN,wollen,18575,,
 qd,vrds.0,93527,93791,,,Dich,PRF,dich,18575,,
 qd,vrds.0,93527,93791,,,führen,VVINF,führen,18575,,
 qd,vrds.0,93527,93791,,,"!",$.,--,18575,,
-qd,vrds.0,93527,93791,,,Nikolo,NE,nikolo,18575,,
+qd,vrds.0,93527,93791,,,Nikolo,NE,nikolo,18575,nikolo,(5)
 qd,vrds.0,93527,93791,,,gleich,ADV,gleich,18575,,
 qd,vrds.0,93527,93791,,,sperr,ADJD,sperr,18575,,
 qd,vrds.0,93527,93791,,,',$[,--,18575,,
 qd,vrds.0,93527,93791,,,ihn,PPER,ihn,18575,,
 qd,vrds.0,93527,93791,,,ein,PTKVZ,ein,18575,,
 qd,vrds.0,93527,93791,,,"!",$.,--,18575,,
-qd,vrds.0,93527,93791,,,ALBERT,NE,albert,18575,,
+qd,vrds.0,93527,93791,,,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,93527,93791,,,",","$,",--,18575,,
-qd,vrds.0,93527,93791,,,CONSTANZE,NE,constanze,18575,,
+qd,vrds.0,93527,93791,,,CONSTANZE,NE,constanze,18575,constanze,(0)
 qd,vrds.0,93527,93791,,,",","$,",--,18575,,
-qd,vrds.0,93527,93791,,,ORPHEUS,NN,orpheus,18575,,
+qd,vrds.0,93527,93791,,,ORPHEUS,NN,orpheus,18575,orpheus,(10)
 qd,vrds.0,93527,93791,,,UND,KON,und,18575,,
-qd,vrds.0,93527,93791,,,CLÄRCHEN,NE,clärchen,18575,,
+qd,vrds.0,93527,93791,,,CLÄRCHEN,NE,clärchen,18575,clärchen,(1)
 qd,vrds.0,93527,93791,,,.,$.,--,18575,,
 qd,vrds.0,93527,93791,,,Niemals,ADV,niemals,18575,,
 qd,vrds.0,93527,93791,,,werden,VAFIN,werden,18575,,
@@ -15536,7 +15536,7 @@ qd,vrds.0,94412,94470,"BAST ebenfalls heimlich, mehr gegen Nikolo",bast_voll_wut
 qd,vrds.0,94475,94535,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Halt,NN,halten,18575,,
 qd,vrds.0,94475,94535,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,"!",$.,--,18575,,
 qd,vrds.0,94475,94535,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,nimmt,VVFIN,nehmen,18575,,
-qd,vrds.0,94475,94535,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Albert,NE,albert,18575,,
+qd,vrds.0,94475,94535,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,Albert,NE,albert,18575,albert,(6)
 qd,vrds.0,94475,94535,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,weg,PTKVZ,weg,18575,,
 qd,vrds.0,94475,94535,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,.,$.,--,18575,,
 qd,vrds.0,94475,94535,"TRÜBE zieht ihn fort, erst allein",trübe_zieht_ihn_fort_erst_allein,der,ART,der,18575,,
@@ -15910,9 +15910,9 @@ qd,vrds.0,96344,96467,,,Appius,NN,appius,18575,,
 qd,vrds.0,96344,96467,,,und,KON,und,18575,,
 qd,vrds.0,96344,96467,,,denke,VVFIN,denken,18575,,
 qd,vrds.0,96344,96467,,,",","$,",--,18575,,
-qd,vrds.0,96344,96467,,,LUKREZIA,NE,lukrezia,18575,,
+qd,vrds.0,96344,96467,,,LUKREZIA,NE,lukrezia,18575,lukrezia,(8)
 qd,vrds.0,96344,96467,,,",","$,",--,18575,,
-qd,vrds.0,96344,96467,,,VIRGINIA,NE,virginia,18575,,
+qd,vrds.0,96344,96467,,,VIRGINIA,NE,virginia,18575,virginia,(9)
 qd,vrds.0,96344,96467,,,.,$.,--,18575,,
 qd,vrds.0,96344,96467,,,Daß,KOUS,daß,18575,,
 qd,vrds.0,96344,96467,,,ich,PPER,ich,18575,,
@@ -15942,15 +15942,15 @@ qd,vrds.0,96473,96714,,,so,ADV,so,18575,,
 qd,vrds.0,96473,96714,,,zahlreich,ADJD,zahlreich,18575,,
 qd,vrds.0,96473,96714,,,seyn,VVFIN,seyn,18575,,
 qd,vrds.0,96473,96714,,,.,$.,--,18575,,
-qd,vrds.0,96473,96714,,,TRÜBE,NE,trübe,18575,,
+qd,vrds.0,96473,96714,,,TRÜBE,NE,trübe,18575,trübe,(7)
 qd,vrds.0,96473,96714,,,",","$,",--,18575,,
-qd,vrds.0,96473,96714,,,ALBERT,NE,albert,18575,,
+qd,vrds.0,96473,96714,,,ALBERT,NE,albert,18575,albert,(6)
 qd,vrds.0,96473,96714,,,",","$,",--,18575,,
-qd,vrds.0,96473,96714,,,CONSTANZE,NE,constanze,18575,,
+qd,vrds.0,96473,96714,,,CONSTANZE,NE,constanze,18575,constanze,(0)
 qd,vrds.0,96473,96714,,,",","$,",--,18575,,
-qd,vrds.0,96473,96714,,,ORPHEUS,NN,orpheus,18575,,
+qd,vrds.0,96473,96714,,,ORPHEUS,NN,orpheus,18575,orpheus,(10)
 qd,vrds.0,96473,96714,,,UND,KON,und,18575,,
-qd,vrds.0,96473,96714,,,CLÄRCHEN,NE,clärchen,18575,,
+qd,vrds.0,96473,96714,,,CLÄRCHEN,NE,clärchen,18575,clärchen,(1)
 qd,vrds.0,96473,96714,,,.,$.,--,18575,,
 qd,vrds.0,96473,96714,,,Schlägt,NE,schlägen,18575,,
 qd,vrds.0,96473,96714,,,wem,VVFIN,wem,18575,,

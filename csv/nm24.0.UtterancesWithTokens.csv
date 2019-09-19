@@ -6176,9 +6176,9 @@ qd,nm24.0,38628,38798,HERR VON KREUZWEG,herr_von_kreuzweg,Ihr,PPOSAT,ihr,30070,,
 qd,nm24.0,38628,38798,HERR VON KREUZWEG,herr_von_kreuzweg,Diener,NN,diener,30070,,
 qd,nm24.0,38628,38798,HERR VON KREUZWEG,herr_von_kreuzweg,",","$,",--,30070,,
 qd,nm24.0,38628,38798,HERR VON KREUZWEG,herr_von_kreuzweg,mein,PPOSAT,mein,30070,herr_von_kreuzweg,(6)
-qd,nm24.0,38628,38798,HERR VON KREUZWEG,herr_von_kreuzweg,Herr,NN,herr,30070,,
-qd,nm24.0,38628,38798,HERR VON KREUZWEG,herr_von_kreuzweg,von,APPR,von,30070,,
-qd,nm24.0,38628,38798,HERR VON KREUZWEG,herr_von_kreuzweg,Kaltenbrunn,NN,kaltenbrunn,30070,,
+qd,nm24.0,38628,38798,HERR VON KREUZWEG,herr_von_kreuzweg,Herr,NN,herr,30070,herr_von_kaltenbrunn,(5
+qd,nm24.0,38628,38798,HERR VON KREUZWEG,herr_von_kreuzweg,von,APPR,von,30070,herr_von_kaltenbrunn,
+qd,nm24.0,38628,38798,HERR VON KREUZWEG,herr_von_kreuzweg,Kaltenbrunn,NN,kaltenbrunn,30070,herr_von_kaltenbrunn,5)
 qd,nm24.0,38628,38798,HERR VON KREUZWEG,herr_von_kreuzweg,.,$.,--,30070,,
 qd,nm24.0,38803,38965,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Nehmen,VVFIN,nehmen,30070,,
 qd,nm24.0,38803,38965,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Sie,PPER,sie,30070,,
@@ -6188,9 +6188,9 @@ qd,nm24.0,38803,38965,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,nicht,PTKNEG,nic
 qd,nm24.0,38803,38965,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,übel,ADJD,übel,30070,,
 qd,nm24.0,38803,38965,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,",","$,",--,30070,,
 qd,nm24.0,38803,38965,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,mein,PPOSAT,mein,30070,herr_von_kaltenbrunn,(5)
-qd,nm24.0,38803,38965,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Herr,NN,herr,30070,,
-qd,nm24.0,38803,38965,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,von,APPR,von,30070,,
-qd,nm24.0,38803,38965,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Kreuzweg,NE,kreuzweg,30070,,
+qd,nm24.0,38803,38965,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,38803,38965,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,38803,38965,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Kreuzweg,NE,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,38803,38965,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,",","$,",--,30070,,
 qd,nm24.0,38803,38965,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,daß,KOUS,daß,30070,,
 qd,nm24.0,38803,38965,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,ich,PPER,ich,30070,herr_von_kaltenbrunn,(5)
@@ -6320,9 +6320,9 @@ qd,nm24.0,39483,39749,FRÄULEIN AMALIE,fräulein_amalie,artiger,ADJA,artig,30070
 qd,nm24.0,39483,39749,FRÄULEIN AMALIE,fräulein_amalie,Kavalier,NN,kavalier,30070,,
 qd,nm24.0,39483,39749,FRÄULEIN AMALIE,fräulein_amalie,als,APPR,als,30070,,
 qd,nm24.0,39483,39749,FRÄULEIN AMALIE,fräulein_amalie,der,ART,der,30070,,
-qd,nm24.0,39483,39749,FRÄULEIN AMALIE,fräulein_amalie,Herr,NN,herr,30070,,
-qd,nm24.0,39483,39749,FRÄULEIN AMALIE,fräulein_amalie,von,APPR,von,30070,,
-qd,nm24.0,39483,39749,FRÄULEIN AMALIE,fräulein_amalie,Kreuzweg,ADV,kreuzweg,30070,,
+qd,nm24.0,39483,39749,FRÄULEIN AMALIE,fräulein_amalie,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,39483,39749,FRÄULEIN AMALIE,fräulein_amalie,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,39483,39749,FRÄULEIN AMALIE,fräulein_amalie,Kreuzweg,ADV,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,39483,39749,FRÄULEIN AMALIE,fräulein_amalie,ist,VAFIN,sein,30070,,
 qd,nm24.0,39483,39749,FRÄULEIN AMALIE,fräulein_amalie,allemal,ADV,allemal,30070,,
 qd,nm24.0,39483,39749,FRÄULEIN AMALIE,fräulein_amalie,willkommen,ADJD,willkommen,30070,,
@@ -6370,9 +6370,9 @@ qd,nm24.0,40071,40168,HERR VON KREUZWEG,herr_von_kreuzweg,ist,VAFIN,sein,30070,,
 qd,nm24.0,40071,40168,HERR VON KREUZWEG,herr_von_kreuzweg,nicht,PTKNEG,nicht,30070,,
 qd,nm24.0,40071,40168,HERR VON KREUZWEG,herr_von_kreuzweg,anders,ADV,anders,30070,,
 qd,nm24.0,40071,40168,HERR VON KREUZWEG,herr_von_kreuzweg,.,$.,--,30070,,
-qd,nm24.0,40071,40168,HERR VON KREUZWEG,herr_von_kreuzweg,Herr,NN,herr,30070,,
-qd,nm24.0,40071,40168,HERR VON KREUZWEG,herr_von_kreuzweg,von,APPR,von,30070,,
-qd,nm24.0,40071,40168,HERR VON KREUZWEG,herr_von_kreuzweg,Ziegendorf,NE,ziegendorf,30070,,
+qd,nm24.0,40071,40168,HERR VON KREUZWEG,herr_von_kreuzweg,Herr,NN,herr,30070,herr_von_ziegendorf,(7
+qd,nm24.0,40071,40168,HERR VON KREUZWEG,herr_von_kreuzweg,von,APPR,von,30070,herr_von_ziegendorf,
+qd,nm24.0,40071,40168,HERR VON KREUZWEG,herr_von_kreuzweg,Ziegendorf,NE,ziegendorf,30070,herr_von_ziegendorf,7)
 qd,nm24.0,40071,40168,HERR VON KREUZWEG,herr_von_kreuzweg,ist,VAFIN,sein,30070,,
 qd,nm24.0,40071,40168,HERR VON KREUZWEG,herr_von_kreuzweg,bei,APPR,bei,30070,,
 qd,nm24.0,40071,40168,HERR VON KREUZWEG,herr_von_kreuzweg,der,ART,der,30070,,
@@ -6423,9 +6423,9 @@ qd,nm24.0,40342,40633,FRÄULEIN AMALIE,fräulein_amalie,nicht,PTKNEG,nicht,30070
 qd,nm24.0,40342,40633,FRÄULEIN AMALIE,fräulein_amalie,übelnehmen,VVINF,übelnehmen,30070,,
 qd,nm24.0,40342,40633,FRÄULEIN AMALIE,fräulein_amalie,",","$,",--,30070,,
 qd,nm24.0,40342,40633,FRÄULEIN AMALIE,fräulein_amalie,mein,PPOSAT,mein,30070,fräulein_amalie,(0)
-qd,nm24.0,40342,40633,FRÄULEIN AMALIE,fräulein_amalie,Herr,NN,herr,30070,,
-qd,nm24.0,40342,40633,FRÄULEIN AMALIE,fräulein_amalie,von,APPR,von,30070,,
-qd,nm24.0,40342,40633,FRÄULEIN AMALIE,fräulein_amalie,Kreuzweg,NE,kreuzweg,30070,,
+qd,nm24.0,40342,40633,FRÄULEIN AMALIE,fräulein_amalie,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,40342,40633,FRÄULEIN AMALIE,fräulein_amalie,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,40342,40633,FRÄULEIN AMALIE,fräulein_amalie,Kreuzweg,NE,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,40342,40633,FRÄULEIN AMALIE,fräulein_amalie,.,$.,--,30070,,
 qd,nm24.0,40342,40633,FRÄULEIN AMALIE,fräulein_amalie,Ich,PPER,ich,30070,fräulein_amalie,(0)
 qd,nm24.0,40342,40633,FRÄULEIN AMALIE,fräulein_amalie,muß,VMFIN,müssen,30070,,
@@ -6467,9 +6467,9 @@ qd,nm24.0,40724,40927,FRÄULEIN KAROLINE,fräulein_karoline,sich,PRF,sich,30070,
 qd,nm24.0,40724,40927,FRÄULEIN KAROLINE,fräulein_karoline,doch,ADV,doch,30070,,
 qd,nm24.0,40724,40927,FRÄULEIN KAROLINE,fräulein_karoline,",","$,",--,30070,,
 qd,nm24.0,40724,40927,FRÄULEIN KAROLINE,fräulein_karoline,mein,PPOSAT,mein,30070,fräulein_karoline,(1)
-qd,nm24.0,40724,40927,FRÄULEIN KAROLINE,fräulein_karoline,Herr,NN,herr,30070,,
-qd,nm24.0,40724,40927,FRÄULEIN KAROLINE,fräulein_karoline,von,APPR,von,30070,,
-qd,nm24.0,40724,40927,FRÄULEIN KAROLINE,fräulein_karoline,Kreuzweg,NE,kreuzweg,30070,,
+qd,nm24.0,40724,40927,FRÄULEIN KAROLINE,fräulein_karoline,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,40724,40927,FRÄULEIN KAROLINE,fräulein_karoline,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,40724,40927,FRÄULEIN KAROLINE,fräulein_karoline,Kreuzweg,NE,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,40724,40927,FRÄULEIN KAROLINE,fräulein_karoline,.,$.,--,30070,,
 qd,nm24.0,40724,40927,FRÄULEIN KAROLINE,fräulein_karoline,Sie,PPER,sie,30070,,
 qd,nm24.0,40724,40927,FRÄULEIN KAROLINE,fräulein_karoline,setzen,VVFIN,setzen,30070,,
@@ -6943,9 +6943,9 @@ qd,nm24.0,43399,43608,FRÄULEIN KAROLINE,fräulein_karoline,.,$.,--,30070,,
 qd,nm24.0,43720,43902,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,O,NE,O,30070,,
 qd,nm24.0,43720,43902,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,mein,PPOSAT,mein,30070,herr_von_kaltenbrunn,(5)
 qd,nm24.0,43720,43902,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,allerliebster,ADJA,allerliebster,30070,,
-qd,nm24.0,43720,43902,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Herr,NN,herr,30070,,
-qd,nm24.0,43720,43902,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,von,APPR,von,30070,,
-qd,nm24.0,43720,43902,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Kreuzweg,NN,kreuzweg,30070,,
+qd,nm24.0,43720,43902,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,43720,43902,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,43720,43902,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Kreuzweg,NN,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,43720,43902,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,"!",$.,--,30070,,
 qd,nm24.0,43720,43902,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,tun,VVFIN,tun,30070,,
 qd,nm24.0,43720,43902,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Sie,PPER,sie,30070,,
@@ -7116,9 +7116,9 @@ qd,nm24.0,44702,44855,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Liebe,NN,liebe,3
 qd,nm24.0,44702,44855,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,tun,VVINF,tun,30070,,
 qd,nm24.0,44702,44855,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,",","$,",--,30070,,
 qd,nm24.0,44702,44855,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,mein,PPOSAT,mein,30070,herr_von_kaltenbrunn,(5)
-qd,nm24.0,44702,44855,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Herr,NN,herr,30070,,
-qd,nm24.0,44702,44855,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,von,APPR,von,30070,,
-qd,nm24.0,44702,44855,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Kreuzweg,NN,kreuzweg,30070,,
+qd,nm24.0,44702,44855,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,44702,44855,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,44702,44855,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Kreuzweg,NN,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,44702,44855,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,?,$.,--,30070,,
 qd,nm24.0,44860,44967,HERR VON KREUZWEG,herr_von_kreuzweg,O,NE,O,30070,,
 qd,nm24.0,44860,44967,HERR VON KREUZWEG,herr_von_kreuzweg,ja,ADV,ja,30070,,
@@ -14032,7 +14032,7 @@ qd,nm24.0,89956,90020,FRAU VON TIEFENBORN,frau_von_tiefenborn,wird,VAFIN,werden,
 qd,nm24.0,89956,90020,FRAU VON TIEFENBORN,frau_von_tiefenborn,doch,ADV,doch,30070,,
 qd,nm24.0,89956,90020,FRAU VON TIEFENBORN,frau_von_tiefenborn,auch,ADV,auch,30070,,
 qd,nm24.0,89956,90020,FRAU VON TIEFENBORN,frau_von_tiefenborn,den,ART,der,30070,,
-qd,nm24.0,89956,90020,FRAU VON TIEFENBORN,frau_von_tiefenborn,Notarius,NN,notarius,30070,,
+qd,nm24.0,89956,90020,FRAU VON TIEFENBORN,frau_von_tiefenborn,Notarius,NN,notarius,30070,notarius,(10)
 qd,nm24.0,89956,90020,FRAU VON TIEFENBORN,frau_von_tiefenborn,mitbringen,VVINF,mitbringen,30070,,
 qd,nm24.0,89956,90020,FRAU VON TIEFENBORN,frau_von_tiefenborn,?,$.,--,30070,,
 qd,nm24.0,90025,90152,HERR VON ZIEGENDORF,herr_von_ziegendorf,Den,ART,der,30070,,
@@ -16224,9 +16224,9 @@ qd,nm24.0,102336,102593,DR,dr,denn,ADV,denn,30070,,
 qd,nm24.0,102336,102593,DR,dr,das,PDS,der,30070,,
 qd,nm24.0,102336,102593,DR,dr,nicht,PTKNEG,nicht,30070,,
 qd,nm24.0,102336,102593,DR,dr,",","$,",--,30070,,
-qd,nm24.0,102336,102593,DR,dr,Herr,NN,herr,30070,,
-qd,nm24.0,102336,102593,DR,dr,von,APPR,von,30070,,
-qd,nm24.0,102336,102593,DR,dr,Kaltenbrunn,NN,kaltenbrunn,30070,,
+qd,nm24.0,102336,102593,DR,dr,Herr,NN,herr,30070,herr_von_kaltenbrunn,(5
+qd,nm24.0,102336,102593,DR,dr,von,APPR,von,30070,herr_von_kaltenbrunn,
+qd,nm24.0,102336,102593,DR,dr,Kaltenbrunn,NN,kaltenbrunn,30070,herr_von_kaltenbrunn,5)
 qd,nm24.0,102336,102593,DR,dr,?,$.,--,30070,,
 qd,nm24.0,102336,102593,DR,dr,Sie,PPER,sie,30070,,
 qd,nm24.0,102336,102593,DR,dr,sind,VAFIN,sein,30070,,
@@ -20080,7 +20080,7 @@ qd,nm24.0,126279,126450,HERR VON ZIEGENDORF,herr_von_ziegendorf,Sie,PPER,sie,300
 qd,nm24.0,126279,126450,HERR VON ZIEGENDORF,herr_von_ziegendorf,sich,PRF,sich,30070,,
 qd,nm24.0,126279,126450,HERR VON ZIEGENDORF,herr_von_ziegendorf,"!",$.,--,30070,,
 qd,nm24.0,126279,126450,HERR VON ZIEGENDORF,herr_von_ziegendorf,der,ART,der,30070,,
-qd,nm24.0,126279,126450,HERR VON ZIEGENDORF,herr_von_ziegendorf,Notarius,NN,notarius,30070,,
+qd,nm24.0,126279,126450,HERR VON ZIEGENDORF,herr_von_ziegendorf,Notarius,NN,notarius,30070,notarius,(10)
 qd,nm24.0,126279,126450,HERR VON ZIEGENDORF,herr_von_ziegendorf,ist,VAFIN,sein,30070,,
 qd,nm24.0,126279,126450,HERR VON ZIEGENDORF,herr_von_ziegendorf,schon,ADV,schon,30070,,
 qd,nm24.0,126279,126450,HERR VON ZIEGENDORF,herr_von_ziegendorf,unterwegens,ADV,unterwegens,30070,,
@@ -20604,9 +20604,9 @@ qd,nm24.0,129410,129522,FRÄULEIN AMALIE,fräulein_amalie,denn,ADV,denn,30070,,
 qd,nm24.0,129410,129522,FRÄULEIN AMALIE,fräulein_amalie,ist,VAFIN,sein,30070,,
 qd,nm24.0,129410,129522,FRÄULEIN AMALIE,fräulein_amalie,hier,ADV,hier,30070,,
 qd,nm24.0,129410,129522,FRÄULEIN AMALIE,fräulein_amalie,der,ART,der,30070,,
-qd,nm24.0,129410,129522,FRÄULEIN AMALIE,fräulein_amalie,Herr,NN,herr,30070,,
-qd,nm24.0,129410,129522,FRÄULEIN AMALIE,fräulein_amalie,von,APPR,von,30070,,
-qd,nm24.0,129410,129522,FRÄULEIN AMALIE,fräulein_amalie,Kreuzweg,NE,kreuzweg,30070,,
+qd,nm24.0,129410,129522,FRÄULEIN AMALIE,fräulein_amalie,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,129410,129522,FRÄULEIN AMALIE,fräulein_amalie,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,129410,129522,FRÄULEIN AMALIE,fräulein_amalie,Kreuzweg,NE,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,129410,129522,FRÄULEIN AMALIE,fräulein_amalie,",","$,",--,30070,,
 qd,nm24.0,129410,129522,FRÄULEIN AMALIE,fräulein_amalie,der,ART,der,30070,,
 qd,nm24.0,129410,129522,FRÄULEIN AMALIE,fräulein_amalie,geht,VVFIN,gehen,30070,,
@@ -20927,9 +20927,9 @@ qd,nm24.0,131423,131493,HERR VON ZIEGENDORF,herr_von_ziegendorf,",","$,",--,3007
 qd,nm24.0,131423,131493,HERR VON ZIEGENDORF,herr_von_ziegendorf,guten,ADJA,gut,30070,,
 qd,nm24.0,131423,131493,HERR VON ZIEGENDORF,herr_von_ziegendorf,Morgen,NN,morgen,30070,,
 qd,nm24.0,131423,131493,HERR VON ZIEGENDORF,herr_von_ziegendorf,",","$,",--,30070,,
-qd,nm24.0,131423,131493,HERR VON ZIEGENDORF,herr_von_ziegendorf,Herr,NN,herr,30070,,
-qd,nm24.0,131423,131493,HERR VON ZIEGENDORF,herr_von_ziegendorf,von,APPR,von,30070,,
-qd,nm24.0,131423,131493,HERR VON ZIEGENDORF,herr_von_ziegendorf,Kreuzweg,NN,kreuzweg,30070,,
+qd,nm24.0,131423,131493,HERR VON ZIEGENDORF,herr_von_ziegendorf,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,131423,131493,HERR VON ZIEGENDORF,herr_von_ziegendorf,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,131423,131493,HERR VON ZIEGENDORF,herr_von_ziegendorf,Kreuzweg,NN,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,131423,131493,HERR VON ZIEGENDORF,herr_von_ziegendorf,"!",$.,--,30070,,
 qd,nm24.0,131498,131561,FRÄULEIN AMALIE,fräulein_amalie,Hat,VAFIN,haben,30070,,
 qd,nm24.0,131498,131561,FRÄULEIN AMALIE,fräulein_amalie,Ihnen,PPER,ihnen,30070,,
@@ -21138,9 +21138,9 @@ qd,nm24.0,132677,132823,HERR VON KREUZWEG,herr_von_kreuzweg,möchte,VMFIN,möcht
 qd,nm24.0,132677,132823,HERR VON KREUZWEG,herr_von_kreuzweg,.,$.,--,30070,,
 qd,nm24.0,132828,133081,FRÄULEIN AMALIE,fräulein_amalie,Warum,PWAV,warum,30070,,
 qd,nm24.0,132828,133081,FRÄULEIN AMALIE,fräulein_amalie,",","$,",--,30070,,
-qd,nm24.0,132828,133081,FRÄULEIN AMALIE,fräulein_amalie,Herr,NN,herr,30070,,
-qd,nm24.0,132828,133081,FRÄULEIN AMALIE,fräulein_amalie,von,APPR,von,30070,,
-qd,nm24.0,132828,133081,FRÄULEIN AMALIE,fräulein_amalie,Kreuzweg,NN,kreuzweg,30070,,
+qd,nm24.0,132828,133081,FRÄULEIN AMALIE,fräulein_amalie,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,132828,133081,FRÄULEIN AMALIE,fräulein_amalie,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,132828,133081,FRÄULEIN AMALIE,fräulein_amalie,Kreuzweg,NN,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,132828,133081,FRÄULEIN AMALIE,fräulein_amalie,?,$.,--,30070,,
 qd,nm24.0,132828,133081,FRÄULEIN AMALIE,fräulein_amalie,Die,ART,der,30070,,
 qd,nm24.0,132828,133081,FRÄULEIN AMALIE,fräulein_amalie,Gesellschaft,NN,gesellschaft,30070,,
@@ -21204,9 +21204,9 @@ qd,nm24.0,133086,133248,HERR VON KREUZWEG,herr_von_kreuzweg,scheuen,VVINF,scheue
 qd,nm24.0,133086,133248,HERR VON KREUZWEG,herr_von_kreuzweg,.,$.,--,30070,,
 qd,nm24.0,133253,133410,HERR VON ZIEGENDORF,herr_von_ziegendorf,Ei,ITJ,ei,30070,,
 qd,nm24.0,133253,133410,HERR VON ZIEGENDORF,herr_von_ziegendorf,"!",$.,--,30070,,
-qd,nm24.0,133253,133410,HERR VON ZIEGENDORF,herr_von_ziegendorf,Herr,NN,herr,30070,,
-qd,nm24.0,133253,133410,HERR VON ZIEGENDORF,herr_von_ziegendorf,von,APPR,von,30070,,
-qd,nm24.0,133253,133410,HERR VON ZIEGENDORF,herr_von_ziegendorf,Kreuzweg,NN,kreuzweg,30070,,
+qd,nm24.0,133253,133410,HERR VON ZIEGENDORF,herr_von_ziegendorf,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,133253,133410,HERR VON ZIEGENDORF,herr_von_ziegendorf,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,133253,133410,HERR VON ZIEGENDORF,herr_von_ziegendorf,Kreuzweg,NN,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,133253,133410,HERR VON ZIEGENDORF,herr_von_ziegendorf,"!",$.,--,30070,,
 qd,nm24.0,133253,133410,HERR VON ZIEGENDORF,herr_von_ziegendorf,wer,PWS,wer,30070,,
 qd,nm24.0,133253,133410,HERR VON ZIEGENDORF,herr_von_ziegendorf,wird,VAFIN,werden,30070,,
@@ -21256,9 +21256,9 @@ qd,nm24.0,133505,133720,HERR VON ZIEGENDORF,herr_von_ziegendorf,.,$.,--,30070,,
 qd,nm24.0,133505,133720,HERR VON ZIEGENDORF,herr_von_ziegendorf,Wenn,KOUS,wenn,30070,,
 qd,nm24.0,133505,133720,HERR VON ZIEGENDORF,herr_von_ziegendorf,nun,ADV,nun,30070,,
 qd,nm24.0,133505,133720,HERR VON ZIEGENDORF,herr_von_ziegendorf,der,ART,der,30070,,
-qd,nm24.0,133505,133720,HERR VON ZIEGENDORF,herr_von_ziegendorf,Herr,NN,herr,30070,,
-qd,nm24.0,133505,133720,HERR VON ZIEGENDORF,herr_von_ziegendorf,von,APPR,von,30070,,
-qd,nm24.0,133505,133720,HERR VON ZIEGENDORF,herr_von_ziegendorf,Kreuzweg,NN,kreuzweg,30070,,
+qd,nm24.0,133505,133720,HERR VON ZIEGENDORF,herr_von_ziegendorf,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,133505,133720,HERR VON ZIEGENDORF,herr_von_ziegendorf,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,133505,133720,HERR VON ZIEGENDORF,herr_von_ziegendorf,Kreuzweg,NN,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,133505,133720,HERR VON ZIEGENDORF,herr_von_ziegendorf,Ihnen,PPER,ihnen,30070,,
 qd,nm24.0,133505,133720,HERR VON ZIEGENDORF,herr_von_ziegendorf,sagte,VVFIN,sagen,30070,,
 qd,nm24.0,133505,133720,HERR VON ZIEGENDORF,herr_von_ziegendorf,",","$,",--,30070,,
@@ -21320,9 +21320,9 @@ qd,nm24.0,133989,134150,HERR VON ZIEGENDORF,herr_von_ziegendorf,Sie,PPER,sie,300
 qd,nm24.0,133989,134150,HERR VON ZIEGENDORF,herr_von_ziegendorf,mir,PPER,sich,30070,herr_von_ziegendorf,(7)
 qd,nm24.0,133989,134150,HERR VON ZIEGENDORF,herr_von_ziegendorf,nur,ADV,nur,30070,,
 qd,nm24.0,133989,134150,HERR VON ZIEGENDORF,herr_von_ziegendorf,",","$,",--,30070,,
-qd,nm24.0,133989,134150,HERR VON ZIEGENDORF,herr_von_ziegendorf,Herr,NN,herr,30070,,
-qd,nm24.0,133989,134150,HERR VON ZIEGENDORF,herr_von_ziegendorf,von,APPR,von,30070,,
-qd,nm24.0,133989,134150,HERR VON ZIEGENDORF,herr_von_ziegendorf,Kreuzweg,NN,kreuzweg,30070,,
+qd,nm24.0,133989,134150,HERR VON ZIEGENDORF,herr_von_ziegendorf,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,133989,134150,HERR VON ZIEGENDORF,herr_von_ziegendorf,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,133989,134150,HERR VON ZIEGENDORF,herr_von_ziegendorf,Kreuzweg,NN,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,133989,134150,HERR VON ZIEGENDORF,herr_von_ziegendorf,",","$,",--,30070,,
 qd,nm24.0,133989,134150,HERR VON ZIEGENDORF,herr_von_ziegendorf,dergleichen,PIS,dergleich,30070,,
 qd,nm24.0,133989,134150,HERR VON ZIEGENDORF,herr_von_ziegendorf,Sachen,NN,sache,30070,,
@@ -21756,7 +21756,7 @@ qd,nm24.0,136405,136601,DER DIENER,der_diener,Oberstin,NE,oberstin,30070,,
 qd,nm24.0,136405,136601,DER DIENER,der_diener,würde,VAFIN,werden,30070,,
 qd,nm24.0,136405,136601,DER DIENER,der_diener,mit,APPR,mit,30070,,
 qd,nm24.0,136405,136601,DER DIENER,der_diener,dem,ART,der,30070,,
-qd,nm24.0,136405,136601,DER DIENER,der_diener,Notarius,NN,notarius,30070,,
+qd,nm24.0,136405,136601,DER DIENER,der_diener,Notarius,NN,notarius,30070,notarius,(10)
 qd,nm24.0,136405,136601,DER DIENER,der_diener,bald,ADV,bald,30070,,
 qd,nm24.0,136405,136601,DER DIENER,der_diener,hieher,ADV,hieher,30070,,
 qd,nm24.0,136405,136601,DER DIENER,der_diener,kommen,VVINF,kommen,30070,,
@@ -22016,9 +22016,9 @@ qd,nm24.0,138280,138338,FRÄULEIN AMALIE,fräulein_amalie,Sie,PPER,sie,30070,,
 qd,nm24.0,138280,138338,FRÄULEIN AMALIE,fräulein_amalie,das,PDS,der,30070,,
 qd,nm24.0,138280,138338,FRÄULEIN AMALIE,fräulein_amalie,",","$,",--,30070,,
 qd,nm24.0,138280,138338,FRÄULEIN AMALIE,fräulein_amalie,mein,PPOSAT,mein,30070,fräulein_amalie,(0)
-qd,nm24.0,138280,138338,FRÄULEIN AMALIE,fräulein_amalie,Herr,NN,herr,30070,,
-qd,nm24.0,138280,138338,FRÄULEIN AMALIE,fräulein_amalie,von,APPR,von,30070,,
-qd,nm24.0,138280,138338,FRÄULEIN AMALIE,fräulein_amalie,Kreuzweg,NN,kreuzweg,30070,,
+qd,nm24.0,138280,138338,FRÄULEIN AMALIE,fräulein_amalie,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,138280,138338,FRÄULEIN AMALIE,fräulein_amalie,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,138280,138338,FRÄULEIN AMALIE,fräulein_amalie,Kreuzweg,NN,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,138280,138338,FRÄULEIN AMALIE,fräulein_amalie,?,$.,--,30070,,
 qd,nm24.0,138343,138484,HERR VON KREUZWEG,herr_von_kreuzweg,Allerdings,ADV,allerdings,30070,,
 qd,nm24.0,138343,138484,HERR VON KREUZWEG,herr_von_kreuzweg,"!",$.,--,30070,,
@@ -22268,9 +22268,9 @@ qd,nm24.0,140050,140305,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,.,$.,--,30070,
 qd,nm24.0,140050,140305,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Sieh,VVIMP,sieh,30070,,
 qd,nm24.0,140050,140305,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,da,ADV,da,30070,,
 qd,nm24.0,140050,140305,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,"!",$.,--,30070,,
-qd,nm24.0,140050,140305,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Herr,NN,herr,30070,,
-qd,nm24.0,140050,140305,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,von,APPR,von,30070,,
-qd,nm24.0,140050,140305,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Kreuzweg,NN,kreuzweg,30070,,
+qd,nm24.0,140050,140305,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,140050,140305,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,140050,140305,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Kreuzweg,NN,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,140050,140305,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,"!",$.,--,30070,,
 qd,nm24.0,140050,140305,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,wo,PWAV,wo,30070,,
 qd,nm24.0,140050,140305,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,sind,VAFIN,sein,30070,,
@@ -22360,9 +22360,9 @@ qd,nm24.0,140710,140841,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Du,PPER,du,300
 qd,nm24.0,140710,140841,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Vogel,NN,vogel,30070,,
 qd,nm24.0,140710,140841,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,"!",$.,--,30070,,
 qd,nm24.0,140710,140841,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,der,ART,der,30070,,
-qd,nm24.0,140710,140841,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Herr,NN,herr,30070,,
-qd,nm24.0,140710,140841,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,von,APPR,von,30070,,
-qd,nm24.0,140710,140841,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Kreuzweg,NN,kreuzweg,30070,,
+qd,nm24.0,140710,140841,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,140710,140841,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,140710,140841,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Kreuzweg,NN,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,140710,140841,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,sollte,VMFIN,sollen,30070,,
 qd,nm24.0,140710,140841,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,wohl,ADV,wohl,30070,,
 qd,nm24.0,140710,140841,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,wunder,PTKVZ,wund,30070,,
@@ -22598,9 +22598,9 @@ qd,nm24.0,142303,142440,HERR VON KREUZWEG,herr_von_kreuzweg,nicht,PTKNEG,nicht,3
 qd,nm24.0,142303,142440,HERR VON KREUZWEG,herr_von_kreuzweg,spinnefeind,ADJD,spinnefeind,30070,,
 qd,nm24.0,142303,142440,HERR VON KREUZWEG,herr_von_kreuzweg,wären,VAFIN,sein,30070,,
 qd,nm24.0,142303,142440,HERR VON KREUZWEG,herr_von_kreuzweg,",","$,",--,30070,,
-qd,nm24.0,142303,142440,HERR VON KREUZWEG,herr_von_kreuzweg,Herr,NN,herr,30070,,
-qd,nm24.0,142303,142440,HERR VON KREUZWEG,herr_von_kreuzweg,von,APPR,von,30070,,
-qd,nm24.0,142303,142440,HERR VON KREUZWEG,herr_von_kreuzweg,Kaltenbrunn,NN,kaltenbrunn,30070,,
+qd,nm24.0,142303,142440,HERR VON KREUZWEG,herr_von_kreuzweg,Herr,NN,herr,30070,herr_von_kaltenbrunn,(5
+qd,nm24.0,142303,142440,HERR VON KREUZWEG,herr_von_kreuzweg,von,APPR,von,30070,herr_von_kaltenbrunn,
+qd,nm24.0,142303,142440,HERR VON KREUZWEG,herr_von_kreuzweg,Kaltenbrunn,NN,kaltenbrunn,30070,herr_von_kaltenbrunn,5)
 qd,nm24.0,142303,142440,HERR VON KREUZWEG,herr_von_kreuzweg,",","$,",--,30070,,
 qd,nm24.0,142303,142440,HERR VON KREUZWEG,herr_von_kreuzweg,so,ADV,so,30070,,
 qd,nm24.0,142303,142440,HERR VON KREUZWEG,herr_von_kreuzweg,wollte,VMFIN,wollen,30070,,
@@ -22764,9 +22764,9 @@ qd,nm24.0,143508,143579,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,mich,PPER,mich
 qd,nm24.0,143508,143579,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,auch,ADV,auch,30070,,
 qd,nm24.0,143508,143579,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,aus,PTKVZ,aus,30070,,
 qd,nm24.0,143508,143579,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,",","$,",--,30070,,
-qd,nm24.0,143508,143579,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Herr,NN,herr,30070,,
-qd,nm24.0,143508,143579,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,von,APPR,von,30070,,
-qd,nm24.0,143508,143579,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Kreuzweg,NN,kreuzweg,30070,,
+qd,nm24.0,143508,143579,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,143508,143579,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,143508,143579,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,Kreuzweg,NN,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,143508,143579,HERR VON KALTENBRUNN,herr_von_kaltenbrunn,?,$.,--,30070,,
 qd,nm24.0,143584,143659,HERR VON KREUZWEG,herr_von_kreuzweg,Ich,PPER,ich,30070,herr_von_kreuzweg,(6)
 qd,nm24.0,143584,143659,HERR VON KREUZWEG,herr_von_kreuzweg,leiste,VVFIN,leisen,30070,,
@@ -22971,7 +22971,7 @@ qd,nm24.0,145592,145657,FRAU VON TIEFENBORN,frau_von_tiefenborn,fertig,ADJD,fert
 qd,nm24.0,145592,145657,FRAU VON TIEFENBORN,frau_von_tiefenborn,gemacht,VVPP,machen,30070,,
 qd,nm24.0,145592,145657,FRAU VON TIEFENBORN,frau_von_tiefenborn,",","$,",--,30070,,
 qd,nm24.0,145592,145657,FRAU VON TIEFENBORN,frau_von_tiefenborn,Herr,NN,herr,30070,,
-qd,nm24.0,145592,145657,FRAU VON TIEFENBORN,frau_von_tiefenborn,Notarius,NE,notarius,30070,,
+qd,nm24.0,145592,145657,FRAU VON TIEFENBORN,frau_von_tiefenborn,Notarius,NE,notarius,30070,notarius,(10)
 qd,nm24.0,145592,145657,FRAU VON TIEFENBORN,frau_von_tiefenborn,?,$.,--,30070,,
 qd,nm24.0,145662,145834,NOTARIUS,notarius,Ja,PTKANT,ja,30070,,
 qd,nm24.0,145662,145834,NOTARIUS,notarius,",","$,",--,30070,,
@@ -23326,7 +23326,7 @@ qd,nm24.0,147249,148612,NOTARIUS,notarius,Remigius,NE,remigius,30070,,
 qd,nm24.0,147249,148612,NOTARIUS,notarius,Leodegarius,NE,leodegarius,30070,,
 qd,nm24.0,147249,148612,NOTARIUS,notarius,Gänsekiel,NE,gänsekiel,30070,,
 qd,nm24.0,147249,148612,NOTARIUS,notarius,",","$,",--,30070,,
-qd,nm24.0,147249,148612,NOTARIUS,notarius,Notarius,NE,notarius,30070,,
+qd,nm24.0,147249,148612,NOTARIUS,notarius,Notarius,NE,notarius,30070,notarius,(10)
 qd,nm24.0,147249,148612,NOTARIUS,notarius,Publicus,NE,publicus,30070,,
 qd,nm24.0,147249,148612,NOTARIUS,notarius,",","$,",--,30070,,
 qd,nm24.0,147249,148612,NOTARIUS,notarius,mich,PRF,mich,30070,notarius,(10)
@@ -23465,7 +23465,7 @@ qd,nm24.0,148618,148670,FRAU VON TIEFENBORN,frau_von_tiefenborn,Er,PPER,er,30070
 qd,nm24.0,148618,148670,FRAU VON TIEFENBORN,frau_von_tiefenborn,hin,PTKVZ,hin,30070,,
 qd,nm24.0,148618,148670,FRAU VON TIEFENBORN,frau_von_tiefenborn,",","$,",--,30070,,
 qd,nm24.0,148618,148670,FRAU VON TIEFENBORN,frau_von_tiefenborn,Herr,NN,herr,30070,,
-qd,nm24.0,148618,148670,FRAU VON TIEFENBORN,frau_von_tiefenborn,Notarius,NE,notarius,30070,,
+qd,nm24.0,148618,148670,FRAU VON TIEFENBORN,frau_von_tiefenborn,Notarius,NE,notarius,30070,notarius,(10)
 qd,nm24.0,148618,148670,FRAU VON TIEFENBORN,frau_von_tiefenborn,?,$.,--,30070,,
 qd,nm24.0,148675,148755,NOTARIUS,notarius,Ich,PPER,ich,30070,notarius,(10)
 qd,nm24.0,148675,148755,NOTARIUS,notarius,habe,VAFIN,haben,30070,,
@@ -23767,7 +23767,7 @@ qd,nm24.0,150641,150728,NOTARIUS,notarius,.,$.,--,30070,,
 qd,nm24.0,150641,150728,NOTARIUS,notarius,.,$.,--,30070,,
 qd,nm24.0,150641,150728,NOTARIUS,notarius,«,XY,«,30070,,
 qd,nm24.0,150641,150728,NOTARIUS,notarius,Zum,APPRART,zu,30070,,
-qd,nm24.0,150641,150728,NOTARIUS,notarius,Dr,NN,dr,30070,,
+qd,nm24.0,150641,150728,NOTARIUS,notarius,Dr,NN,dr,30070,dr,(2)
 qd,nm24.0,150641,150728,NOTARIUS,notarius,.,$.,--,30070,,
 qd,nm24.0,150641,150728,NOTARIUS,notarius,Hippokras,NE,hippokras,30070,,
 qd,nm24.0,150641,150728,NOTARIUS,notarius,.,$.,--,30070,,
@@ -23928,7 +23928,7 @@ qd,nm24.0,151708,151866,NOTARIUS,notarius,.,$.,--,30070,,
 qd,nm24.0,151708,151866,NOTARIUS,notarius,.,$.,--,30070,,
 qd,nm24.0,151708,151866,NOTARIUS,notarius,«,XY,«,30070,,
 qd,nm24.0,151708,151866,NOTARIUS,notarius,Zum,APPRART,zu,30070,,
-qd,nm24.0,151708,151866,NOTARIUS,notarius,Dr,NN,dr,30070,,
+qd,nm24.0,151708,151866,NOTARIUS,notarius,Dr,NN,dr,30070,dr,(2)
 qd,nm24.0,151708,151866,NOTARIUS,notarius,.,$.,--,30070,,
 qd,nm24.0,151708,151866,NOTARIUS,notarius,Schlagbalsam,NE,schlagbalsam,30070,,
 qd,nm24.0,151708,151866,NOTARIUS,notarius,.,$.,--,30070,,
@@ -23996,7 +23996,7 @@ qd,nm24.0,152074,152259,NOTARIUS,notarius,Testament,NN,testament,30070,,
 qd,nm24.0,152074,152259,NOTARIUS,notarius,hätte,VAFIN,haben,30070,,
 qd,nm24.0,152074,152259,NOTARIUS,notarius,kein,PIAT,kein,30070,,
 qd,nm24.0,152074,152259,NOTARIUS,notarius,ehrlicher,ADJA,ehrlich,30070,,
-qd,nm24.0,152074,152259,NOTARIUS,notarius,Notarius,NN,notarius,30070,,
+qd,nm24.0,152074,152259,NOTARIUS,notarius,Notarius,NN,notarius,30070,notarius,(10)
 qd,nm24.0,152074,152259,NOTARIUS,notarius,Publikus,NN,publikus,30070,,
 qd,nm24.0,152074,152259,NOTARIUS,notarius,gemacht,VVPP,machen,30070,,
 qd,nm24.0,152074,152259,NOTARIUS,notarius,.,$.,--,30070,,
@@ -24514,7 +24514,7 @@ qd,nm24.0,155017,155590,NOTARIUS,notarius,Leodegarius,NE,leodegarius,30070,,
 qd,nm24.0,155017,155590,NOTARIUS,notarius,Gänsekiel,NE,gänsekiel,30070,,
 qd,nm24.0,155017,155590,NOTARIUS,notarius,",","$,",--,30070,,
 qd,nm24.0,155017,155590,NOTARIUS,notarius,kaiserlicher,ADJA,kaiserlich,30070,,
-qd,nm24.0,155017,155590,NOTARIUS,notarius,Notarius,NN,notarius,30070,,
+qd,nm24.0,155017,155590,NOTARIUS,notarius,Notarius,NN,notarius,30070,notarius,(10)
 qd,nm24.0,155017,155590,NOTARIUS,notarius,Publikus,NE,publikus,30070,,
 qd,nm24.0,155017,155590,NOTARIUS,notarius,.,$.,--,30070,,
 qd,nm24.0,155017,155590,NOTARIUS,notarius,«,XY,«,30070,,
@@ -24525,7 +24525,7 @@ qd,nm24.0,155595,155705,FRAU VON TIEFENBORN,frau_von_tiefenborn,ist,VAFIN,sein,3
 qd,nm24.0,155595,155705,FRAU VON TIEFENBORN,frau_von_tiefenborn,gut,ADJD,gut,30070,,
 qd,nm24.0,155595,155705,FRAU VON TIEFENBORN,frau_von_tiefenborn,",","$,",--,30070,,
 qd,nm24.0,155595,155705,FRAU VON TIEFENBORN,frau_von_tiefenborn,Herr,NN,herr,30070,,
-qd,nm24.0,155595,155705,FRAU VON TIEFENBORN,frau_von_tiefenborn,Notarius,NE,notarius,30070,,
+qd,nm24.0,155595,155705,FRAU VON TIEFENBORN,frau_von_tiefenborn,Notarius,NE,notarius,30070,notarius,(10)
 qd,nm24.0,155595,155705,FRAU VON TIEFENBORN,frau_von_tiefenborn,.,$.,--,30070,,
 qd,nm24.0,155595,155705,FRAU VON TIEFENBORN,frau_von_tiefenborn,Mein,PPOSAT,mein,30070,frau_von_tiefenborn,(3)
 qd,nm24.0,155595,155705,FRAU VON TIEFENBORN,frau_von_tiefenborn,Kassierer,NN,kassierer,30070,,
@@ -24945,9 +24945,9 @@ qd,nm24.0,158444,159073,FRÄULEIN KAROLINE,fräulein_karoline,die,ART,der,30070,
 qd,nm24.0,158444,159073,FRÄULEIN KAROLINE,fräulein_karoline,Mühe,NN,mühe,30070,,
 qd,nm24.0,158444,159073,FRÄULEIN KAROLINE,fräulein_karoline,",","$,",--,30070,,
 qd,nm24.0,158444,159073,FRÄULEIN KAROLINE,fräulein_karoline,mein,PPOSAT,mein,30070,fräulein_karoline,(1)
-qd,nm24.0,158444,159073,FRÄULEIN KAROLINE,fräulein_karoline,Herr,NN,herr,30070,,
-qd,nm24.0,158444,159073,FRÄULEIN KAROLINE,fräulein_karoline,von,APPR,von,30070,,
-qd,nm24.0,158444,159073,FRÄULEIN KAROLINE,fräulein_karoline,Kreuzweg,NE,kreuzweg,30070,,
+qd,nm24.0,158444,159073,FRÄULEIN KAROLINE,fräulein_karoline,Herr,NN,herr,30070,herr_von_kreuzweg,(6
+qd,nm24.0,158444,159073,FRÄULEIN KAROLINE,fräulein_karoline,von,APPR,von,30070,herr_von_kreuzweg,
+qd,nm24.0,158444,159073,FRÄULEIN KAROLINE,fräulein_karoline,Kreuzweg,NE,kreuzweg,30070,herr_von_kreuzweg,6)
 qd,nm24.0,158444,159073,FRÄULEIN KAROLINE,fräulein_karoline,.,$.,--,30070,,
 qd,nm24.0,158444,159073,FRÄULEIN KAROLINE,fräulein_karoline,Ich,PPER,ich,30070,fräulein_karoline,(1)
 qd,nm24.0,158444,159073,FRÄULEIN KAROLINE,fräulein_karoline,habe,VAFIN,haben,30070,,

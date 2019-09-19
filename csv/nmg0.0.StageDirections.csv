@@ -6,14 +6,14 @@ qd,nmg0.0,449,484,_Stage,_Stage,des,ART,der,30261,,
 qd,nmg0.0,449,484,_Stage,_Stage,spanischen,ADJA,spanisch,30261,,
 qd,nmg0.0,449,484,_Stage,_Stage,Platzes,NN,platz,30261,,
 qd,nmg0.0,449,484,_Stage,_Stage,.,$.,--,30261,,
-qd,nmg0.0,487,532,_Stage,_Stage,Don,NE,don,30261,,
-qd,nmg0.0,487,532,_Stage,_Stage,Juan,NE,juan,30261,,
+qd,nmg0.0,487,532,_Stage,_Stage,Don,NE,don,30261,,(0
+qd,nmg0.0,487,532,_Stage,_Stage,Juan,NE,juan,30261,,0)
 qd,nmg0.0,487,532,_Stage,_Stage,tritt,VVFIN,treten,30261,,
 qd,nmg0.0,487,532,_Stage,_Stage,auf,PTKVZ,auf,30261,,
 qd,nmg0.0,487,532,_Stage,_Stage,",","$,",--,30261,,
 qd,nmg0.0,487,532,_Stage,_Stage,gleich,ADV,gleich,30261,,
 qd,nmg0.0,487,532,_Stage,_Stage,nachher,ADV,nachher,30261,,
-qd,nmg0.0,487,532,_Stage,_Stage,Leporello,NE,leporello,30261,,
+qd,nmg0.0,487,532,_Stage,_Stage,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,487,532,_Stage,_Stage,.,$.,--,30261,,
 qd,nmg0.0,834,852,VON JUAN,von_juan,Weiter,ADV,weiter,30261,,
 qd,nmg0.0,834,852,VON JUAN,von_juan,vortretend,ADJD,vortretend,30261,,
@@ -23,7 +23,7 @@ qd,nmg0.0,4090,4109,VON JUAN,von_juan,zieht,VVFIN,ziehen,30261,,
 qd,nmg0.0,4090,4109,VON JUAN,von_juan,den,ART,der,30261,,
 qd,nmg0.0,4090,4109,VON JUAN,von_juan,Degen,NN,degen,30261,,
 qd,nmg0.0,4090,4109,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,5015,5065,VON JUAN,von_juan,Leporello,NE,leporello,30261,,
+qd,nmg0.0,5015,5065,VON JUAN,von_juan,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,5015,5065,VON JUAN,von_juan,ab,PTKVZ,ab,30261,,
 qd,nmg0.0,5015,5065,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,5015,5065,VON JUAN,von_juan,Getümmel,NE,getümmel,30261,,
@@ -57,8 +57,8 @@ qd,nmg0.0,5551,5719,VON JUAN,von_juan,Armleuchtern,NN,armleuchter,30261,,
 qd,nmg0.0,5551,5719,VON JUAN,von_juan,",","$,",--,30261,,
 qd,nmg0.0,5551,5719,VON JUAN,von_juan,–,XY,–,30261,,
 qd,nmg0.0,5551,5719,VON JUAN,von_juan,dann,ADV,dann,30261,,
-qd,nmg0.0,5551,5719,VON JUAN,von_juan,Donna,NE,donna,30261,,
-qd,nmg0.0,5551,5719,VON JUAN,von_juan,Anna,NE,anna,30261,,
+qd,nmg0.0,5551,5719,VON JUAN,von_juan,Donna,NE,donna,30261,,(7|(7)
+qd,nmg0.0,5551,5719,VON JUAN,von_juan,Anna,NE,anna,30261,,7)
 qd,nmg0.0,5551,5719,VON JUAN,von_juan,",","$,",--,30261,,
 qd,nmg0.0,5551,5719,VON JUAN,von_juan,die,PRELS,der,30261,,
 qd,nmg0.0,5551,5719,VON JUAN,von_juan,einen,ART,ein,30261,,
@@ -68,11 +68,11 @@ qd,nmg0.0,5551,5719,VON JUAN,von_juan,hinaussieht,VVFIN,hinaussehen,30261,,
 qd,nmg0.0,5551,5719,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,5734,5758,VON JUAN,von_juan,erblickt,VVFIN,erblicken,30261,,
 qd,nmg0.0,5734,5758,VON JUAN,von_juan,die,ART,der,30261,,
-qd,nmg0.0,5734,5758,VON JUAN,von_juan,Donna,NE,donna,30261,,
-qd,nmg0.0,5734,5758,VON JUAN,von_juan,Anna,NE,anna,30261,,
+qd,nmg0.0,5734,5758,VON JUAN,von_juan,Donna,NE,donna,30261,,(7|(7)
+qd,nmg0.0,5734,5758,VON JUAN,von_juan,Anna,NE,anna,30261,,7)
 qd,nmg0.0,5734,5758,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,6017,6069,VON JUAN,von_juan,Donna,NE,donna,30261,,
-qd,nmg0.0,6017,6069,VON JUAN,von_juan,Anna,NE,anna,30261,,
+qd,nmg0.0,6017,6069,VON JUAN,von_juan,Donna,NE,donna,30261,,(7|(7)
+qd,nmg0.0,6017,6069,VON JUAN,von_juan,Anna,NE,anna,30261,,7)
 qd,nmg0.0,6017,6069,VON JUAN,von_juan,winkt,VVFIN,winken,30261,,
 qd,nmg0.0,6017,6069,VON JUAN,von_juan,ihn,PPER,ihn,30261,,
 qd,nmg0.0,6017,6069,VON JUAN,von_juan,zürnend,ADJD,zürnend,30261,,
@@ -81,11 +81,11 @@ qd,nmg0.0,6017,6069,VON JUAN,von_juan,und,KON,und,30261,,
 qd,nmg0.0,6017,6069,VON JUAN,von_juan,entfernt,VVFIN,entfernen,30261,,
 qd,nmg0.0,6017,6069,VON JUAN,von_juan,sich,PRF,sich,30261,,
 qd,nmg0.0,6017,6069,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,6226,6303,VON JUAN,von_juan,Der,ART,der,30261,,
-qd,nmg0.0,6226,6303,VON JUAN,von_juan,Gouverneur,NN,gouverneur,30261,,
+qd,nmg0.0,6226,6303,VON JUAN,von_juan,Der,ART,der,30261,,(2
+qd,nmg0.0,6226,6303,VON JUAN,von_juan,Gouverneur,NN,gouverneur,30261,,2)
 qd,nmg0.0,6226,6303,VON JUAN,von_juan,",","$,",--,30261,,
-qd,nmg0.0,6226,6303,VON JUAN,von_juan,Don,NE,don,30261,,
-qd,nmg0.0,6226,6303,VON JUAN,von_juan,Octavio,NE,octavio,30261,,
+qd,nmg0.0,6226,6303,VON JUAN,von_juan,Don,NE,don,30261,,(3
+qd,nmg0.0,6226,6303,VON JUAN,von_juan,Octavio,NE,octavio,30261,,3)
 qd,nmg0.0,6226,6303,VON JUAN,von_juan,",","$,",--,30261,,
 qd,nmg0.0,6226,6303,VON JUAN,von_juan,und,KON,und,30261,,
 qd,nmg0.0,6226,6303,VON JUAN,von_juan,Diener,NN,diener,30261,,
@@ -112,14 +112,14 @@ qd,nmg0.0,10493,10502,VON JUAN,von_juan,für,APPR,für,30261,,
 qd,nmg0.0,10493,10502,VON JUAN,von_juan,sich,PRF,sich,30261,,
 qd,nmg0.0,10493,10502,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,11033,11045,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Zu,APPR,zu,30261,,
-qd,nmg0.0,11033,11045,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Don,NE,don,30261,,
-qd,nmg0.0,11033,11045,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Juan,NE,juan,30261,,
+qd,nmg0.0,11033,11045,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Don,NE,don,30261,,(0
+qd,nmg0.0,11033,11045,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Juan,NE,juan,30261,,0)
 qd,nmg0.0,11033,11045,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,.,$.,--,30261,,
 qd,nmg0.0,11647,11656,VON JUAN,von_juan,für,APPR,für,30261,,
 qd,nmg0.0,11647,11656,VON JUAN,von_juan,sich,PRF,sich,30261,,
 qd,nmg0.0,11647,11656,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,11685,11715,VON JUAN,von_juan,Der,ART,der,30261,,
-qd,nmg0.0,11685,11715,VON JUAN,von_juan,Gouverneur,NN,gouverneur,30261,,
+qd,nmg0.0,11685,11715,VON JUAN,von_juan,Der,ART,der,30261,,(2
+qd,nmg0.0,11685,11715,VON JUAN,von_juan,Gouverneur,NN,gouverneur,30261,,2)
 qd,nmg0.0,11685,11715,VON JUAN,von_juan,und,KON,und,30261,,
 qd,nmg0.0,11685,11715,VON JUAN,von_juan,Octavio,NE,octavio,30261,,
 qd,nmg0.0,11685,11715,VON JUAN,von_juan,ab,PTKVZ,ab,30261,,
@@ -154,7 +154,7 @@ qd,nmg0.0,18768,18785,LISETTE,lisette,Ring,NN,ring,30261,,
 qd,nmg0.0,18768,18785,LISETTE,lisette,nehmend,ADJD,nehmend,30261,,
 qd,nmg0.0,18768,18785,LISETTE,lisette,.,$.,--,30261,,
 qd,nmg0.0,20269,20282,VON JUAN,von_juan,zu,APPR,zu,30261,,
-qd,nmg0.0,20269,20282,VON JUAN,von_juan,Leporello,NE,leporello,30261,,
+qd,nmg0.0,20269,20282,VON JUAN,von_juan,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,20269,20282,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,21069,21071,VON JUAN,von_juan,Ab,APPR,ab,30261,,
 qd,nmg0.0,21265,21268,LEPORELLO,leporello,Ab,APPR,ab,30261,,
@@ -164,7 +164,7 @@ qd,nmg0.0,21312,21376,_Stage,_Stage,.,$.,--,30261,,
 qd,nmg0.0,21312,21376,_Stage,_Stage,Zimmer,NN,zimmer,30261,,
 qd,nmg0.0,21312,21376,_Stage,_Stage,des,ART,der,30261,,
 qd,nmg0.0,21312,21376,_Stage,_Stage,Doktor,NN,doktor,30261,,
-qd,nmg0.0,21312,21376,_Stage,_Stage,Faust,NN,faust,30261,,
+qd,nmg0.0,21312,21376,_Stage,_Stage,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,21312,21376,_Stage,_Stage,auf,APPR,auf,30261,,
 qd,nmg0.0,21312,21376,_Stage,_Stage,dem,ART,der,30261,,
 qd,nmg0.0,21312,21376,_Stage,_Stage,Aventin,NN,aventin,30261,,
@@ -183,7 +183,7 @@ qd,nmg0.0,29085,29140,FAUST,faust,hinter,APPR,hinter,30261,,
 qd,nmg0.0,29085,29140,FAUST,faust,der,ART,der,30261,,
 qd,nmg0.0,29085,29140,FAUST,faust,Szene,NN,szene,30261,,
 qd,nmg0.0,29085,29140,FAUST,faust,.,$.,--,30261,,
-qd,nmg0.0,29085,29140,FAUST,faust,Faust,NN,faust,30261,,
+qd,nmg0.0,29085,29140,FAUST,faust,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,29085,29140,FAUST,faust,tritt,VVFIN,treten,30261,,
 qd,nmg0.0,29085,29140,FAUST,faust,ans,APPRART,an,30261,,
 qd,nmg0.0,29085,29140,FAUST,faust,Fenster,NN,fenster,30261,,
@@ -253,7 +253,7 @@ qd,nmg0.0,29851,30030,FAUST,faust,ganzen,ADJA,ganz,30261,,
 qd,nmg0.0,29851,30030,FAUST,faust,folgenden,ADJA,folgend,30261,,
 qd,nmg0.0,29851,30030,FAUST,faust,Szene,NN,szene,30261,,
 qd,nmg0.0,29851,30030,FAUST,faust,.,$.,--,30261,,
-qd,nmg0.0,29851,30030,FAUST,faust,Faust,NN,faust,30261,,
+qd,nmg0.0,29851,30030,FAUST,faust,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,29851,30030,FAUST,faust,faßt,VVFIN,fassen,30261,,
 qd,nmg0.0,29851,30030,FAUST,faust,sich,PRF,sich,30261,,
 qd,nmg0.0,29851,30030,FAUST,faust,",","$,",--,30261,,
@@ -309,7 +309,7 @@ qd,nmg0.0,32203,32257,FAUST,faust,zwölf,CARD,zwölf,30261,,
 qd,nmg0.0,32203,32257,FAUST,faust,Uhr,NN,uhr,30261,,
 qd,nmg0.0,32203,32257,FAUST,faust,nachts,ADV,nachts,30261,,
 qd,nmg0.0,32203,32257,FAUST,faust,.,$.,--,30261,,
-qd,nmg0.0,32203,32257,FAUST,faust,Faust,NN,faust,30261,,
+qd,nmg0.0,32203,32257,FAUST,faust,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,32203,32257,FAUST,faust,horcht,VVFIN,horchen,30261,,
 qd,nmg0.0,32203,32257,FAUST,faust,auf,PTKVZ,auf,30261,,
 qd,nmg0.0,32203,32257,FAUST,faust,.,$.,--,30261,,
@@ -360,7 +360,7 @@ qd,nmg0.0,32753,32891,FAUST,faust,tritt,VVFIN,treten,30261,,
 qd,nmg0.0,32753,32891,FAUST,faust,herein,PTKVZ,herein,30261,,
 qd,nmg0.0,32753,32891,FAUST,faust,.,$.,--,30261,,
 qd,nmg0.0,33015,33034,DER RITTER,der_ritter,Den,ART,der,30261,,
-qd,nmg0.0,33015,33034,DER RITTER,der_ritter,Faust,NN,faust,30261,,
+qd,nmg0.0,33015,33034,DER RITTER,der_ritter,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,33015,33034,DER RITTER,der_ritter,rüttelnd,ADJD,rüttelnd,30261,,
 qd,nmg0.0,33015,33034,DER RITTER,der_ritter,.,$.,--,30261,,
 qd,nmg0.0,33062,33097,FAUST,faust,aus,APPR,aus,30261,,
@@ -412,13 +412,13 @@ qd,nmg0.0,38604,38618,DER RITTER,der_ritter,.,$.,--,30261,,
 qd,nmg0.0,41047,41069,DER RITTER,der_ritter,Er,PPER,er,30261,,
 qd,nmg0.0,41047,41069,DER RITTER,der_ritter,versinkt,VVFIN,versinken,30261,,
 qd,nmg0.0,41047,41069,DER RITTER,der_ritter,mit,APPR,mit,30261,,
-qd,nmg0.0,41047,41069,DER RITTER,der_ritter,Faust,NN,faust,30261,,
+qd,nmg0.0,41047,41069,DER RITTER,der_ritter,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,41047,41069,DER RITTER,der_ritter,.,$.,--,30261,,
-qd,nmg0.0,41072,41122,DER RITTER,der_ritter,Der,ART,der,30261,,
-qd,nmg0.0,41072,41122,DER RITTER,der_ritter,Gouverneur,NN,gouverneur,30261,,
+qd,nmg0.0,41072,41122,DER RITTER,der_ritter,Der,ART,der,30261,,(2
+qd,nmg0.0,41072,41122,DER RITTER,der_ritter,Gouverneur,NN,gouverneur,30261,,2)
 qd,nmg0.0,41072,41122,DER RITTER,der_ritter,",","$,",--,30261,,
-qd,nmg0.0,41072,41122,DER RITTER,der_ritter,Don,NE,don,30261,,
-qd,nmg0.0,41072,41122,DER RITTER,der_ritter,Octavio,NE,octavio,30261,,
+qd,nmg0.0,41072,41122,DER RITTER,der_ritter,Don,NE,don,30261,,(3
+qd,nmg0.0,41072,41122,DER RITTER,der_ritter,Octavio,NE,octavio,30261,,3)
 qd,nmg0.0,41072,41122,DER RITTER,der_ritter,und,KON,und,30261,,
 qd,nmg0.0,41072,41122,DER RITTER,der_ritter,Diener,NN,diener,30261,,
 qd,nmg0.0,41072,41122,DER RITTER,der_ritter,treten,VVFIN,treten,30261,,
@@ -449,24 +449,24 @@ qd,nmg0.0,41838,41866,_Stage,_Stage,Garten,NN,garten,30261,,
 qd,nmg0.0,41838,41866,_Stage,_Stage,des,ART,der,30261,,
 qd,nmg0.0,41838,41866,_Stage,_Stage,Gouverneurs,NN,gouverneur,30261,,
 qd,nmg0.0,41838,41866,_Stage,_Stage,.,$.,--,30261,,
-qd,nmg0.0,41869,41903,_Stage,_Stage,Don,NE,don,30261,,
-qd,nmg0.0,41869,41903,_Stage,_Stage,Juan,NE,juan,30261,,
+qd,nmg0.0,41869,41903,_Stage,_Stage,Don,NE,don,30261,,(0
+qd,nmg0.0,41869,41903,_Stage,_Stage,Juan,NE,juan,30261,,0)
 qd,nmg0.0,41869,41903,_Stage,_Stage,und,KON,und,30261,,
-qd,nmg0.0,41869,41903,_Stage,_Stage,Leporello,NE,leporello,30261,,
+qd,nmg0.0,41869,41903,_Stage,_Stage,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,41869,41903,_Stage,_Stage,treten,VVFIN,treten,30261,,
 qd,nmg0.0,41869,41903,_Stage,_Stage,auf,PTKVZ,auf,30261,,
 qd,nmg0.0,41869,41903,_Stage,_Stage,.,$.,--,30261,,
-qd,nmg0.0,44326,44419,VON JUAN,von_juan,Leporello,NE,leporello,30261,,
+qd,nmg0.0,44326,44419,VON JUAN,von_juan,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,44326,44419,VON JUAN,von_juan,entfernt,VVFIN,entfernen,30261,,
 qd,nmg0.0,44326,44419,VON JUAN,von_juan,sich,PRF,sich,30261,,
 qd,nmg0.0,44326,44419,VON JUAN,von_juan,",","$,",--,30261,,
-qd,nmg0.0,44326,44419,VON JUAN,von_juan,Donna,NE,donna,30261,,
-qd,nmg0.0,44326,44419,VON JUAN,von_juan,Anna,NE,anna,30261,,
+qd,nmg0.0,44326,44419,VON JUAN,von_juan,Donna,NE,donna,30261,,(7|(7)
+qd,nmg0.0,44326,44419,VON JUAN,von_juan,Anna,NE,anna,30261,,7)
 qd,nmg0.0,44326,44419,VON JUAN,von_juan,kommt,VVFIN,kommen,30261,,
 qd,nmg0.0,44326,44419,VON JUAN,von_juan,",","$,",--,30261,,
 qd,nmg0.0,44326,44419,VON JUAN,von_juan,ohne,APPR,ohne,30261,,
-qd,nmg0.0,44326,44419,VON JUAN,von_juan,Don,NE,don,30261,,
-qd,nmg0.0,44326,44419,VON JUAN,von_juan,Juan,NE,juan,30261,,
+qd,nmg0.0,44326,44419,VON JUAN,von_juan,Don,NE,don,30261,,(0
+qd,nmg0.0,44326,44419,VON JUAN,von_juan,Juan,NE,juan,30261,,0)
 qd,nmg0.0,44326,44419,VON JUAN,von_juan,zu,PTKZU,zu,30261,,
 qd,nmg0.0,44326,44419,VON JUAN,von_juan,bemerken,VVINF,bemerken,30261,,
 qd,nmg0.0,44326,44419,VON JUAN,von_juan,;,$.,--,30261,,
@@ -490,8 +490,8 @@ qd,nmg0.0,45419,45472,DONNA ANNA,donna_anna,.,$.,--,30261,,
 qd,nmg0.0,46072,46096,VON JUAN,von_juan,Er,PPER,er,30261,,
 qd,nmg0.0,46072,46096,VON JUAN,von_juan,tritt,VVFIN,treten,30261,,
 qd,nmg0.0,46072,46096,VON JUAN,von_juan,zur,APPRART,zu,30261,,
-qd,nmg0.0,46072,46096,VON JUAN,von_juan,Donna,NE,donna,30261,,
-qd,nmg0.0,46072,46096,VON JUAN,von_juan,Anna,NE,anna,30261,,
+qd,nmg0.0,46072,46096,VON JUAN,von_juan,Donna,NE,donna,30261,,(7|(7)
+qd,nmg0.0,46072,46096,VON JUAN,von_juan,Anna,NE,anna,30261,,7)
 qd,nmg0.0,46072,46096,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,46130,46162,DONNA ANNA,donna_anna,aus,APPR,aus,30261,,
 qd,nmg0.0,46130,46162,DONNA ANNA,donna_anna,ihrem,PPOSAT,ihr,30261,,
@@ -546,11 +546,11 @@ qd,nmg0.0,54286,54295,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,54489,54498,VON JUAN,von_juan,für,APPR,für,30261,,
 qd,nmg0.0,54489,54498,VON JUAN,von_juan,sich,PRF,sich,30261,,
 qd,nmg0.0,54489,54498,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,55122,55152,DON OCTAVIO,don_octavio,Don,NE,don,30261,,
-qd,nmg0.0,55122,55152,DON OCTAVIO,don_octavio,Octavio,NE,octavio,30261,,
+qd,nmg0.0,55122,55152,DON OCTAVIO,don_octavio,Don,NE,don,30261,,(3
+qd,nmg0.0,55122,55152,DON OCTAVIO,don_octavio,Octavio,NE,octavio,30261,,3)
 qd,nmg0.0,55122,55152,DON OCTAVIO,don_octavio,und,KON,und,30261,,
-qd,nmg0.0,55122,55152,DON OCTAVIO,don_octavio,Donna,NE,donna,30261,,
-qd,nmg0.0,55122,55152,DON OCTAVIO,don_octavio,Anna,NE,anna,30261,,
+qd,nmg0.0,55122,55152,DON OCTAVIO,don_octavio,Donna,NE,donna,30261,,(7|(7)
+qd,nmg0.0,55122,55152,DON OCTAVIO,don_octavio,Anna,NE,anna,30261,,7)
 qd,nmg0.0,55122,55152,DON OCTAVIO,don_octavio,ab,PTKVZ,ab,30261,,
 qd,nmg0.0,55122,55152,DON OCTAVIO,don_octavio,.,$.,--,30261,,
 qd,nmg0.0,55167,55184,VON JUAN,von_juan,tritt,VVFIN,treten,30261,,
@@ -563,10 +563,10 @@ qd,nmg0.0,57032,57035,VON JUAN,von_juan,Ab,APPR,ab,30261,,
 qd,nmg0.0,57032,57035,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,57542,57545,LEPORELLO,leporello,Ab,APPR,ab,30261,,
 qd,nmg0.0,57542,57545,LEPORELLO,leporello,.,$.,--,30261,,
-qd,nmg0.0,57548,57580,LEPORELLO,leporello,Der,ART,der,30261,,
-qd,nmg0.0,57548,57580,LEPORELLO,leporello,Ritter,NN,ritter,30261,,
+qd,nmg0.0,57548,57580,LEPORELLO,leporello,Der,ART,der,30261,,(6
+qd,nmg0.0,57548,57580,LEPORELLO,leporello,Ritter,NN,ritter,30261,,6)
 qd,nmg0.0,57548,57580,LEPORELLO,leporello,und,KON,und,30261,,
-qd,nmg0.0,57548,57580,LEPORELLO,leporello,Faust,NN,faust,30261,,
+qd,nmg0.0,57548,57580,LEPORELLO,leporello,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,57548,57580,LEPORELLO,leporello,treten,VVFIN,treten,30261,,
 qd,nmg0.0,57548,57580,LEPORELLO,leporello,auf,PTKVZ,auf,30261,,
 qd,nmg0.0,57548,57580,LEPORELLO,leporello,.,$.,--,30261,,
@@ -586,7 +586,7 @@ qd,nmg0.0,61572,61581,DER RITTER,der_ritter,für,APPR,für,30261,,
 qd,nmg0.0,61572,61581,DER RITTER,der_ritter,sich,PRF,sich,30261,,
 qd,nmg0.0,61572,61581,DER RITTER,der_ritter,.,$.,--,30261,,
 qd,nmg0.0,63140,63173,DER RITTER,der_ritter,Dem,ART,der,30261,,
-qd,nmg0.0,63140,63173,DER RITTER,der_ritter,Faust,NN,faust,30261,,
+qd,nmg0.0,63140,63173,DER RITTER,der_ritter,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,63140,63173,DER RITTER,der_ritter,ein,ART,ein,30261,,
 qd,nmg0.0,63140,63173,DER RITTER,der_ritter,Bildnis,NN,bildnis,30261,,
 qd,nmg0.0,63140,63173,DER RITTER,der_ritter,vorhaltend,ADJD,vorhaltend,30261,,
@@ -605,7 +605,7 @@ qd,nmg0.0,65861,65870,DER RITTER,der_ritter,für,APPR,für,30261,,
 qd,nmg0.0,65861,65870,DER RITTER,der_ritter,sich,PRF,sich,30261,,
 qd,nmg0.0,65861,65870,DER RITTER,der_ritter,.,$.,--,30261,,
 qd,nmg0.0,66068,66081,DER RITTER,der_ritter,Mit,APPR,mit,30261,,
-qd,nmg0.0,66068,66081,DER RITTER,der_ritter,Faust,NN,faust,30261,,
+qd,nmg0.0,66068,66081,DER RITTER,der_ritter,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,66068,66081,DER RITTER,der_ritter,ab,PTKVZ,ab,30261,,
 qd,nmg0.0,66068,66081,DER RITTER,der_ritter,.,$.,--,30261,,
 qd,nmg0.0,66124,66274,_Stage,_Stage,Rom,NE,rom,30261,,
@@ -636,11 +636,11 @@ qd,nmg0.0,66124,66274,_Stage,_Stage,ist,VAFIN,sein,30261,,
 qd,nmg0.0,66124,66274,_Stage,_Stage,.,$.,--,30261,,
 qd,nmg0.0,66124,66274,_Stage,_Stage,Musik,NN,musik,30261,,
 qd,nmg0.0,66124,66274,_Stage,_Stage,.,$.,--,30261,,
-qd,nmg0.0,66277,66314,_Stage,_Stage,Signor,NE,signor,30261,,
-qd,nmg0.0,66277,66314,_Stage,_Stage,Rubio,NE,rubio,30261,,
+qd,nmg0.0,66277,66314,_Stage,_Stage,Signor,NE,signor,30261,,(8
+qd,nmg0.0,66277,66314,_Stage,_Stage,Rubio,NE,rubio,30261,,8)
 qd,nmg0.0,66277,66314,_Stage,_Stage,und,KON,und,30261,,
-qd,nmg0.0,66277,66314,_Stage,_Stage,Signor,NN,signor,30261,,
-qd,nmg0.0,66277,66314,_Stage,_Stage,Negro,NE,negro,30261,,
+qd,nmg0.0,66277,66314,_Stage,_Stage,Signor,NN,signor,30261,,(9
+qd,nmg0.0,66277,66314,_Stage,_Stage,Negro,NE,negro,30261,,9)
 qd,nmg0.0,66277,66314,_Stage,_Stage,kommen,VVFIN,kommen,30261,,
 qd,nmg0.0,66277,66314,_Stage,_Stage,.,$.,--,30261,,
 qd,nmg0.0,68220,68250,SIGNOR RUBIO,signor_rubio,Er,PPER,er,30261,,
@@ -661,20 +661,20 @@ qd,nmg0.0,68501,68536,SIGNOR NEGRO,stimme_des_signor_negro,die,ART,der,30261,,
 qd,nmg0.0,68501,68536,SIGNOR NEGRO,stimme_des_signor_negro,Tanzsäle,NN,tanzsäle,30261,,
 qd,nmg0.0,68501,68536,SIGNOR NEGRO,stimme_des_signor_negro,gesehen,VVPP,sehen,30261,,
 qd,nmg0.0,68501,68536,SIGNOR NEGRO,stimme_des_signor_negro,.,$.,--,30261,,
-qd,nmg0.0,68590,68624,SIGNOR NEGRO,stimme_des_signor_negro,Don,NE,don,30261,,
-qd,nmg0.0,68590,68624,SIGNOR NEGRO,stimme_des_signor_negro,Juan,NE,juan,30261,,
+qd,nmg0.0,68590,68624,SIGNOR NEGRO,stimme_des_signor_negro,Don,NE,don,30261,,(0
+qd,nmg0.0,68590,68624,SIGNOR NEGRO,stimme_des_signor_negro,Juan,NE,juan,30261,,0)
 qd,nmg0.0,68590,68624,SIGNOR NEGRO,stimme_des_signor_negro,und,KON,und,30261,,
-qd,nmg0.0,68590,68624,SIGNOR NEGRO,stimme_des_signor_negro,Leporello,NE,leporello,30261,,
+qd,nmg0.0,68590,68624,SIGNOR NEGRO,stimme_des_signor_negro,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,68590,68624,SIGNOR NEGRO,stimme_des_signor_negro,treten,VVFIN,treten,30261,,
 qd,nmg0.0,68590,68624,SIGNOR NEGRO,stimme_des_signor_negro,ein,PTKVZ,ein,30261,,
 qd,nmg0.0,68590,68624,SIGNOR NEGRO,stimme_des_signor_negro,.,$.,--,30261,,
 qd,nmg0.0,68734,68759,SIGNOR NEGRO,stimme_des_signor_negro,Den,ART,der,30261,,
-qd,nmg0.0,68734,68759,SIGNOR NEGRO,stimme_des_signor_negro,Don,NE,don,30261,,
-qd,nmg0.0,68734,68759,SIGNOR NEGRO,stimme_des_signor_negro,Juan,NE,juan,30261,,
+qd,nmg0.0,68734,68759,SIGNOR NEGRO,stimme_des_signor_negro,Don,NE,don,30261,,(0
+qd,nmg0.0,68734,68759,SIGNOR NEGRO,stimme_des_signor_negro,Juan,NE,juan,30261,,0)
 qd,nmg0.0,68734,68759,SIGNOR NEGRO,stimme_des_signor_negro,betrachtend,ADJD,betrachtend,30261,,
 qd,nmg0.0,68734,68759,SIGNOR NEGRO,stimme_des_signor_negro,.,$.,--,30261,,
 qd,nmg0.0,68859,68872,VON JUAN,von_juan,zu,APPR,zu,30261,,
-qd,nmg0.0,68859,68872,VON JUAN,von_juan,Leporello,NE,leporello,30261,,
+qd,nmg0.0,68859,68872,VON JUAN,von_juan,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,68859,68872,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,69078,69136,LEPORELLO,leporello,holt,VVFIN,holen,30261,,
 qd,nmg0.0,69078,69136,LEPORELLO,leporello,aus,APPR,aus,30261,,
@@ -685,14 +685,14 @@ qd,nmg0.0,69078,69136,LEPORELLO,leporello,Büfett,NN,büfett,30261,,
 qd,nmg0.0,69078,69136,LEPORELLO,leporello,mehrere,PIAT,mehrere,30261,,
 qd,nmg0.0,69078,69136,LEPORELLO,leporello,Flaschen,NN,flasche,30261,,
 qd,nmg0.0,69078,69136,LEPORELLO,leporello,.,$.,--,30261,,
-qd,nmg0.0,69226,69280,VON JUAN,von_juan,Der,ART,der,30261,,
-qd,nmg0.0,69226,69280,VON JUAN,von_juan,Gouverneur,NN,gouverneur,30261,,
+qd,nmg0.0,69226,69280,VON JUAN,von_juan,Der,ART,der,30261,,(2
+qd,nmg0.0,69226,69280,VON JUAN,von_juan,Gouverneur,NN,gouverneur,30261,,2)
 qd,nmg0.0,69226,69280,VON JUAN,von_juan,",","$,",--,30261,,
-qd,nmg0.0,69226,69280,VON JUAN,von_juan,Donna,NE,donna,30261,,
-qd,nmg0.0,69226,69280,VON JUAN,von_juan,Anna,NE,anna,30261,,
+qd,nmg0.0,69226,69280,VON JUAN,von_juan,Donna,NE,donna,30261,,(7|(7)
+qd,nmg0.0,69226,69280,VON JUAN,von_juan,Anna,NE,anna,30261,,7)
 qd,nmg0.0,69226,69280,VON JUAN,von_juan,und,KON,und,30261,,
-qd,nmg0.0,69226,69280,VON JUAN,von_juan,Don,NE,don,30261,,
-qd,nmg0.0,69226,69280,VON JUAN,von_juan,Octavio,NE,octavio,30261,,
+qd,nmg0.0,69226,69280,VON JUAN,von_juan,Don,NE,don,30261,,(3
+qd,nmg0.0,69226,69280,VON JUAN,von_juan,Octavio,NE,octavio,30261,,3)
 qd,nmg0.0,69226,69280,VON JUAN,von_juan,treten,VVFIN,treten,30261,,
 qd,nmg0.0,69226,69280,VON JUAN,von_juan,ein,PTKVZ,ein,30261,,
 qd,nmg0.0,69226,69280,VON JUAN,von_juan,.,$.,--,30261,,
@@ -705,8 +705,8 @@ qd,nmg0.0,69796,69805,DONNA ANNA,donna_anna,.,$.,--,30261,,
 qd,nmg0.0,69935,69976,DONNA ANNA,donna_anna,erblickt,ADJD,erblicken,30261,,
 qd,nmg0.0,69935,69976,DONNA ANNA,donna_anna,zusammenschreckend,ADJD,zusammenschreckend,30261,,
 qd,nmg0.0,69935,69976,DONNA ANNA,donna_anna,den,ART,der,30261,,
-qd,nmg0.0,69935,69976,DONNA ANNA,donna_anna,Don,NE,don,30261,,
-qd,nmg0.0,69935,69976,DONNA ANNA,donna_anna,Juan,NE,juan,30261,,
+qd,nmg0.0,69935,69976,DONNA ANNA,donna_anna,Don,NE,don,30261,,(0
+qd,nmg0.0,69935,69976,DONNA ANNA,donna_anna,Juan,NE,juan,30261,,0)
 qd,nmg0.0,69935,69976,DONNA ANNA,donna_anna,.,$.,--,30261,,
 qd,nmg0.0,70112,70121,VON JUAN,von_juan,für,APPR,für,30261,,
 qd,nmg0.0,70112,70121,VON JUAN,von_juan,sich,PRF,sich,30261,,
@@ -714,11 +714,11 @@ qd,nmg0.0,70112,70121,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,70225,70240,SIGNOR NEGRO,stimme_des_signor_negro,zum,APPRART,zu,30261,,
 qd,nmg0.0,70225,70240,SIGNOR NEGRO,stimme_des_signor_negro,Gouverneur,NN,gouverneur,30261,,
 qd,nmg0.0,70225,70240,SIGNOR NEGRO,stimme_des_signor_negro,.,$.,--,30261,,
-qd,nmg0.0,70660,70717,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Der,ART,der,30261,,
-qd,nmg0.0,70660,70717,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Gouverneur,NN,gouverneur,30261,,
+qd,nmg0.0,70660,70717,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Der,ART,der,30261,,(2
+qd,nmg0.0,70660,70717,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Gouverneur,NN,gouverneur,30261,,2)
 qd,nmg0.0,70660,70717,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,und,KON,und,30261,,
-qd,nmg0.0,70660,70717,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Signor,NN,signor,30261,,
-qd,nmg0.0,70660,70717,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Negro,NE,negro,30261,,
+qd,nmg0.0,70660,70717,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Signor,NN,signor,30261,,(9
+qd,nmg0.0,70660,70717,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Negro,NE,negro,30261,,9)
 qd,nmg0.0,70660,70717,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,gehen,VVFIN,gehen,30261,,
 qd,nmg0.0,70660,70717,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,nach,APPR,nach,30261,,
 qd,nmg0.0,70660,70717,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,den,ART,der,30261,,
@@ -732,14 +732,14 @@ qd,nmg0.0,71370,71441,VON JUAN,von_juan,sich,PRF,sich,30261,,
 qd,nmg0.0,71370,71441,VON JUAN,von_juan,unter,APPR,unter,30261,,
 qd,nmg0.0,71370,71441,VON JUAN,von_juan,die,ART,der,30261,,
 qd,nmg0.0,71370,71441,VON JUAN,von_juan,Tanzenden,NN,tanzend,30261,,
-qd,nmg0.0,71370,71441,VON JUAN,von_juan,Leporello,NE,leporello,30261,,
+qd,nmg0.0,71370,71441,VON JUAN,von_juan,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,71370,71441,VON JUAN,von_juan,tritt,VVFIN,treten,30261,,
 qd,nmg0.0,71370,71441,VON JUAN,von_juan,beiseite,ADV,beiseite,30261,,
 qd,nmg0.0,71370,71441,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,71444,71536,VON JUAN,von_juan,Der,ART,der,30261,,
-qd,nmg0.0,71444,71536,VON JUAN,von_juan,Ritter,NN,ritter,30261,,
+qd,nmg0.0,71444,71536,VON JUAN,von_juan,Der,ART,der,30261,,(6
+qd,nmg0.0,71444,71536,VON JUAN,von_juan,Ritter,NN,ritter,30261,,6)
 qd,nmg0.0,71444,71536,VON JUAN,von_juan,und,KON,und,30261,,
-qd,nmg0.0,71444,71536,VON JUAN,von_juan,Faust,NN,faust,30261,,
+qd,nmg0.0,71444,71536,VON JUAN,von_juan,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,71444,71536,VON JUAN,von_juan,",","$,",--,30261,,
 qd,nmg0.0,71444,71536,VON JUAN,von_juan,letzterer,ADJA,letzterer,30261,,
 qd,nmg0.0,71444,71536,VON JUAN,von_juan,verjüngten,ADJA,verjüngt,30261,,
@@ -770,16 +770,16 @@ qd,nmg0.0,72170,72240,FAUST,faust,.,$.,--,30261,,
 qd,nmg0.0,72939,73049,DER RITTER,der_ritter,Er,PPER,er,30261,,
 qd,nmg0.0,72939,73049,DER RITTER,der_ritter,tritt,VVFIN,treten,30261,,
 qd,nmg0.0,72939,73049,DER RITTER,der_ritter,mit,APPR,mit,30261,,
-qd,nmg0.0,72939,73049,DER RITTER,der_ritter,Faust,NN,faust,30261,,
+qd,nmg0.0,72939,73049,DER RITTER,der_ritter,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,72939,73049,DER RITTER,der_ritter,in,APPR,in,30261,,
 qd,nmg0.0,72939,73049,DER RITTER,der_ritter,den,ART,der,30261,,
 qd,nmg0.0,72939,73049,DER RITTER,der_ritter,Ballsaal,NN,ballsaal,30261,,
 qd,nmg0.0,72939,73049,DER RITTER,der_ritter,.,$.,--,30261,,
-qd,nmg0.0,72939,73049,DER RITTER,der_ritter,Der,ART,der,30261,,
-qd,nmg0.0,72939,73049,DER RITTER,der_ritter,Gouverneur,NN,gouverneur,30261,,
+qd,nmg0.0,72939,73049,DER RITTER,der_ritter,Der,ART,der,30261,,(2
+qd,nmg0.0,72939,73049,DER RITTER,der_ritter,Gouverneur,NN,gouverneur,30261,,2)
 qd,nmg0.0,72939,73049,DER RITTER,der_ritter,",","$,",--,30261,,
-qd,nmg0.0,72939,73049,DER RITTER,der_ritter,Signor,NE,signor,30261,,
-qd,nmg0.0,72939,73049,DER RITTER,der_ritter,Negro,NE,negro,30261,,
+qd,nmg0.0,72939,73049,DER RITTER,der_ritter,Signor,NE,signor,30261,,(9
+qd,nmg0.0,72939,73049,DER RITTER,der_ritter,Negro,NE,negro,30261,,9)
 qd,nmg0.0,72939,73049,DER RITTER,der_ritter,und,KON,und,30261,,
 qd,nmg0.0,72939,73049,DER RITTER,der_ritter,andere,PIS,anderer,30261,,
 qd,nmg0.0,72939,73049,DER RITTER,der_ritter,stürzen,VVFIN,stürzen,30261,,
@@ -804,26 +804,26 @@ qd,nmg0.0,74510,74592,SIGNOR NEGRO,stimme_des_signor_negro,in,APPR,in,30261,,
 qd,nmg0.0,74510,74592,SIGNOR NEGRO,stimme_des_signor_negro,die,ART,der,30261,,
 qd,nmg0.0,74510,74592,SIGNOR NEGRO,stimme_des_signor_negro,Tanzsäle,NN,tanzsäle,30261,,
 qd,nmg0.0,74510,74592,SIGNOR NEGRO,stimme_des_signor_negro,–,XY,–,30261,,
-qd,nmg0.0,74510,74592,SIGNOR NEGRO,stimme_des_signor_negro,Faust,NN,faust,30261,,
+qd,nmg0.0,74510,74592,SIGNOR NEGRO,stimme_des_signor_negro,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,74510,74592,SIGNOR NEGRO,stimme_des_signor_negro,und,KON,und,30261,,
-qd,nmg0.0,74510,74592,SIGNOR NEGRO,stimme_des_signor_negro,der,ART,der,30261,,
-qd,nmg0.0,74510,74592,SIGNOR NEGRO,stimme_des_signor_negro,Ritter,NN,ritter,30261,,
+qd,nmg0.0,74510,74592,SIGNOR NEGRO,stimme_des_signor_negro,der,ART,der,30261,,(6
+qd,nmg0.0,74510,74592,SIGNOR NEGRO,stimme_des_signor_negro,Ritter,NN,ritter,30261,,6)
 qd,nmg0.0,74510,74592,SIGNOR NEGRO,stimme_des_signor_negro,kommen,VVFIN,kommen,30261,,
 qd,nmg0.0,74510,74592,SIGNOR NEGRO,stimme_des_signor_negro,daraus,PROAV,daraus,30261,,
 qd,nmg0.0,74510,74592,SIGNOR NEGRO,stimme_des_signor_negro,zurück,PTKVZ,zurück,30261,,
 qd,nmg0.0,74510,74592,SIGNOR NEGRO,stimme_des_signor_negro,.,$.,--,30261,,
 qd,nmg0.0,77249,77287,VON JUAN,von_juan,mit,APPR,mit,30261,,
-qd,nmg0.0,77249,77287,VON JUAN,von_juan,Leporello,NE,leporello,30261,,
+qd,nmg0.0,77249,77287,VON JUAN,von_juan,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,77249,77287,VON JUAN,von_juan,in,APPR,in,30261,,
 qd,nmg0.0,77249,77287,VON JUAN,von_juan,den,ART,der,30261,,
 qd,nmg0.0,77249,77287,VON JUAN,von_juan,Vorgrund,NN,vorgrund,30261,,
 qd,nmg0.0,77249,77287,VON JUAN,von_juan,tretend,ADJD,tretend,30261,,
 qd,nmg0.0,77249,77287,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,77427,77529,VON JUAN,von_juan,Donna,NE,donna,30261,,
-qd,nmg0.0,77427,77529,VON JUAN,von_juan,Anna,NE,anna,30261,,
+qd,nmg0.0,77427,77529,VON JUAN,von_juan,Donna,NE,donna,30261,,(7|(7)
+qd,nmg0.0,77427,77529,VON JUAN,von_juan,Anna,NE,anna,30261,,7)
 qd,nmg0.0,77427,77529,VON JUAN,von_juan,",","$,",--,30261,,
-qd,nmg0.0,77427,77529,VON JUAN,von_juan,Don,NE,don,30261,,
-qd,nmg0.0,77427,77529,VON JUAN,von_juan,Octavio,NE,octavio,30261,,
+qd,nmg0.0,77427,77529,VON JUAN,von_juan,Don,NE,don,30261,,(3
+qd,nmg0.0,77427,77529,VON JUAN,von_juan,Octavio,NE,octavio,30261,,3)
 qd,nmg0.0,77427,77529,VON JUAN,von_juan,",","$,",--,30261,,
 qd,nmg0.0,77427,77529,VON JUAN,von_juan,Herren,NN,herr,30261,,
 qd,nmg0.0,77427,77529,VON JUAN,von_juan,und,KON,und,30261,,
@@ -838,19 +838,19 @@ qd,nmg0.0,77427,77529,VON JUAN,von_juan,Saal,NN,saal,30261,,
 qd,nmg0.0,77427,77529,VON JUAN,von_juan,gekommen,VVPP,kommen,30261,,
 qd,nmg0.0,77427,77529,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,77545,77557,LEPORELLO,leporello,zu,APPR,zu,30261,,
-qd,nmg0.0,77545,77557,LEPORELLO,leporello,Don,NE,don,30261,,
-qd,nmg0.0,77545,77557,LEPORELLO,leporello,Juan,NE,juan,30261,,
+qd,nmg0.0,77545,77557,LEPORELLO,leporello,Don,NE,don,30261,,(0
+qd,nmg0.0,77545,77557,LEPORELLO,leporello,Juan,NE,juan,30261,,0)
 qd,nmg0.0,77545,77557,LEPORELLO,leporello,.,$.,--,30261,,
 qd,nmg0.0,77590,77605,LEPORELLO,leporello,Zu,APPR,zu,30261,,
-qd,nmg0.0,77590,77605,LEPORELLO,leporello,Don,NE,don,30261,,
-qd,nmg0.0,77590,77605,LEPORELLO,leporello,Octavio,NE,octavio,30261,,
+qd,nmg0.0,77590,77605,LEPORELLO,leporello,Don,NE,don,30261,,(3
+qd,nmg0.0,77590,77605,LEPORELLO,leporello,Octavio,NE,octavio,30261,,3)
 qd,nmg0.0,77590,77605,LEPORELLO,leporello,.,$.,--,30261,,
 qd,nmg0.0,77795,77833,DON OCTAVIO,don_octavio,zu,APPR,zu,30261,,
 qd,nmg0.0,77795,77833,DON OCTAVIO,don_octavio,den,ART,der,30261,,
 qd,nmg0.0,77795,77833,DON OCTAVIO,don_octavio,Dienern,NN,diener,30261,,
 qd,nmg0.0,77795,77833,DON OCTAVIO,don_octavio,",","$,",--,30261,,
 qd,nmg0.0,77795,77833,DON OCTAVIO,don_octavio,auf,APPR,auf,30261,,
-qd,nmg0.0,77795,77833,DON OCTAVIO,don_octavio,Leporello,NE,leporello,30261,,
+qd,nmg0.0,77795,77833,DON OCTAVIO,don_octavio,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,77795,77833,DON OCTAVIO,don_octavio,deutend,ADJD,deutend,30261,,
 qd,nmg0.0,77795,77833,DON OCTAVIO,don_octavio,.,$.,--,30261,,
 qd,nmg0.0,78198,78208,VON JUAN,von_juan,tritt,VVFIN,treten,30261,,
@@ -860,16 +860,16 @@ qd,nmg0.0,78490,78500,DONNA ANNA,donna_anna,Diener,NN,diener,30261,,
 qd,nmg0.0,78490,78500,DONNA ANNA,donna_anna,ab,PTKVZ,ab,30261,,
 qd,nmg0.0,78490,78500,DONNA ANNA,donna_anna,.,$.,--,30261,,
 qd,nmg0.0,78518,78530,DON OCTAVIO,don_octavio,zu,APPR,zu,30261,,
-qd,nmg0.0,78518,78530,DON OCTAVIO,don_octavio,Don,NE,don,30261,,
-qd,nmg0.0,78518,78530,DON OCTAVIO,don_octavio,Juan,NE,juan,30261,,
+qd,nmg0.0,78518,78530,DON OCTAVIO,don_octavio,Don,NE,don,30261,,(0
+qd,nmg0.0,78518,78530,DON OCTAVIO,don_octavio,Juan,NE,juan,30261,,0)
 qd,nmg0.0,78518,78530,DON OCTAVIO,don_octavio,.,$.,--,30261,,
 qd,nmg0.0,78617,78629,LEPORELLO,leporello,zu,APPR,zu,30261,,
-qd,nmg0.0,78617,78629,LEPORELLO,leporello,Don,NE,don,30261,,
-qd,nmg0.0,78617,78629,LEPORELLO,leporello,Juan,NE,juan,30261,,
+qd,nmg0.0,78617,78629,LEPORELLO,leporello,Don,NE,don,30261,,(0
+qd,nmg0.0,78617,78629,LEPORELLO,leporello,Juan,NE,juan,30261,,0)
 qd,nmg0.0,78617,78629,LEPORELLO,leporello,.,$.,--,30261,,
 qd,nmg0.0,78975,78987,DON OCTAVIO,don_octavio,zu,APPR,zu,30261,,
-qd,nmg0.0,78975,78987,DON OCTAVIO,don_octavio,Don,NE,don,30261,,
-qd,nmg0.0,78975,78987,DON OCTAVIO,don_octavio,Juan,NE,juan,30261,,
+qd,nmg0.0,78975,78987,DON OCTAVIO,don_octavio,Don,NE,don,30261,,(0
+qd,nmg0.0,78975,78987,DON OCTAVIO,don_octavio,Juan,NE,juan,30261,,0)
 qd,nmg0.0,78975,78987,DON OCTAVIO,don_octavio,.,$.,--,30261,,
 qd,nmg0.0,79051,79084,VON JUAN,von_juan,Gefecht,NN,gefecht,30261,,
 qd,nmg0.0,79051,79084,VON JUAN,von_juan,zwischen,APPR,zwischen,30261,,
@@ -909,8 +909,8 @@ qd,nmg0.0,79470,79492,,,Tusch,NE,tusch,30261,,
 qd,nmg0.0,79470,79492,,,.,$.,--,30261,,
 qd,nmg0.0,79633,79685,FAUST,faust,tritt,VVFIN,treten,30261,,
 qd,nmg0.0,79633,79685,FAUST,faust,hinter,APPR,hinter,30261,,
-qd,nmg0.0,79633,79685,FAUST,faust,Don,NE,don,30261,,
-qd,nmg0.0,79633,79685,FAUST,faust,Juan,NE,juan,30261,,
+qd,nmg0.0,79633,79685,FAUST,faust,Don,NE,don,30261,,(0
+qd,nmg0.0,79633,79685,FAUST,faust,Juan,NE,juan,30261,,0)
 qd,nmg0.0,79633,79685,FAUST,faust,und,KON,und,30261,,
 qd,nmg0.0,79633,79685,FAUST,faust,klopft,VVFIN,klopfen,30261,,
 qd,nmg0.0,79633,79685,FAUST,faust,ihm,PPER,ihm,30261,,
@@ -924,16 +924,16 @@ qd,nmg0.0,79780,79808,DONNA ANNA,donna_anna,Leiche,NN,leiche,30261,,
 qd,nmg0.0,79780,79808,DONNA ANNA,donna_anna,deutend,ADJD,deutend,30261,,
 qd,nmg0.0,79780,79808,DONNA ANNA,donna_anna,.,$.,--,30261,,
 qd,nmg0.0,79859,79894,VIELE ANWESENDE,viele_anwesende,auf,APPR,auf,30261,,
-qd,nmg0.0,79859,79894,VIELE ANWESENDE,viele_anwesende,Don,NE,don,30261,,
-qd,nmg0.0,79859,79894,VIELE ANWESENDE,viele_anwesende,Juan,NE,juan,30261,,
+qd,nmg0.0,79859,79894,VIELE ANWESENDE,viele_anwesende,Don,NE,don,30261,,(0
+qd,nmg0.0,79859,79894,VIELE ANWESENDE,viele_anwesende,Juan,NE,juan,30261,,0)
 qd,nmg0.0,79859,79894,VIELE ANWESENDE,viele_anwesende,und,KON,und,30261,,
-qd,nmg0.0,79859,79894,VIELE ANWESENDE,viele_anwesende,Faust,NN,faust,30261,,
+qd,nmg0.0,79859,79894,VIELE ANWESENDE,viele_anwesende,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,79859,79894,VIELE ANWESENDE,viele_anwesende,losdrängend,ADJD,losdrängend,30261,,
 qd,nmg0.0,79859,79894,VIELE ANWESENDE,viele_anwesende,.,$.,--,30261,,
 qd,nmg0.0,80177,80206,DER RITTER,der_ritter,schnell,ADJD,schnell,30261,,
 qd,nmg0.0,80177,80206,DER RITTER,der_ritter,dem,ART,der,30261,,
-qd,nmg0.0,80177,80206,DER RITTER,der_ritter,Don,NE,don,30261,,
-qd,nmg0.0,80177,80206,DER RITTER,der_ritter,Juan,NE,juan,30261,,
+qd,nmg0.0,80177,80206,DER RITTER,der_ritter,Don,NE,don,30261,,(0
+qd,nmg0.0,80177,80206,DER RITTER,der_ritter,Juan,NE,juan,30261,,0)
 qd,nmg0.0,80177,80206,DER RITTER,der_ritter,ins,APPRART,in,30261,,
 qd,nmg0.0,80177,80206,DER RITTER,der_ritter,Ohr,NN,ohr,30261,,
 qd,nmg0.0,80177,80206,DER RITTER,der_ritter,.,$.,--,30261,,
@@ -943,26 +943,26 @@ qd,nmg0.0,80300,80342,DER RITTER,der_ritter,Montblanc,NN,montblanc,30261,,
 qd,nmg0.0,80300,80342,DER RITTER,der_ritter,führt,VVFIN,führen,30261,,
 qd,nmg0.0,80300,80342,DER RITTER,der_ritter,er,PPER,er,30261,,
 qd,nmg0.0,80300,80342,DER RITTER,der_ritter,die,ART,der,30261,,
-qd,nmg0.0,80300,80342,DER RITTER,der_ritter,Donna,NE,donna,30261,,
-qd,nmg0.0,80300,80342,DER RITTER,der_ritter,Anna,NE,anna,30261,,
+qd,nmg0.0,80300,80342,DER RITTER,der_ritter,Donna,NE,donna,30261,,(7|(7)
+qd,nmg0.0,80300,80342,DER RITTER,der_ritter,Anna,NE,anna,30261,,7)
 qd,nmg0.0,80300,80342,DER RITTER,der_ritter,"!",$.,--,30261,,
 qd,nmg0.0,80345,80354,DER RITTER,der_ritter,Für,APPR,für,30261,,
 qd,nmg0.0,80345,80354,DER RITTER,der_ritter,sich,PRF,sich,30261,,
 qd,nmg0.0,80345,80354,DER RITTER,der_ritter,.,$.,--,30261,,
-qd,nmg0.0,80444,80483,DER RITTER,der_ritter,Faust,NN,faust,30261,,
+qd,nmg0.0,80444,80483,DER RITTER,der_ritter,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,80444,80483,DER RITTER,der_ritter,und,KON,und,30261,,
-qd,nmg0.0,80444,80483,DER RITTER,der_ritter,der,ART,der,30261,,
-qd,nmg0.0,80444,80483,DER RITTER,der_ritter,Ritter,NN,ritter,30261,,
+qd,nmg0.0,80444,80483,DER RITTER,der_ritter,der,ART,der,30261,,(6
+qd,nmg0.0,80444,80483,DER RITTER,der_ritter,Ritter,NN,ritter,30261,,6)
 qd,nmg0.0,80444,80483,DER RITTER,der_ritter,mit,APPR,mit,30261,,
-qd,nmg0.0,80444,80483,DER RITTER,der_ritter,Donna,NE,donna,30261,,
-qd,nmg0.0,80444,80483,DER RITTER,der_ritter,Anna,NE,anna,30261,,
+qd,nmg0.0,80444,80483,DER RITTER,der_ritter,Donna,NE,donna,30261,,(7|(7)
+qd,nmg0.0,80444,80483,DER RITTER,der_ritter,Anna,NE,anna,30261,,7)
 qd,nmg0.0,80444,80483,DER RITTER,der_ritter,ab,PTKVZ,ab,30261,,
 qd,nmg0.0,80444,80483,DER RITTER,der_ritter,.,$.,--,30261,,
-qd,nmg0.0,80486,80548,DER RITTER,der_ritter,Der,ART,der,30261,,
-qd,nmg0.0,80486,80548,DER RITTER,der_ritter,Gouverneur,NN,gouverneur,30261,,
+qd,nmg0.0,80486,80548,DER RITTER,der_ritter,Der,ART,der,30261,,(2
+qd,nmg0.0,80486,80548,DER RITTER,der_ritter,Gouverneur,NN,gouverneur,30261,,2)
 qd,nmg0.0,80486,80548,DER RITTER,der_ritter,",","$,",--,30261,,
-qd,nmg0.0,80486,80548,DER RITTER,der_ritter,Signor,NE,signor,30261,,
-qd,nmg0.0,80486,80548,DER RITTER,der_ritter,Negro,NE,negro,30261,,
+qd,nmg0.0,80486,80548,DER RITTER,der_ritter,Signor,NE,signor,30261,,(9
+qd,nmg0.0,80486,80548,DER RITTER,der_ritter,Negro,NE,negro,30261,,9)
 qd,nmg0.0,80486,80548,DER RITTER,der_ritter,und,KON,und,30261,,
 qd,nmg0.0,80486,80548,DER RITTER,der_ritter,andere,ADJA,anderer,30261,,
 qd,nmg0.0,80486,80548,DER RITTER,der_ritter,Herren,NN,herr,30261,,
@@ -991,18 +991,18 @@ qd,nmg0.0,83569,83597,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverne
 qd,nmg0.0,83569,83597,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Leichnam,NN,leichnam,30261,,
 qd,nmg0.0,83569,83597,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,.,$.,--,30261,,
 qd,nmg0.0,83628,83640,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Zu,APPR,zu,30261,,
-qd,nmg0.0,83628,83640,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Don,NE,don,30261,,
-qd,nmg0.0,83628,83640,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Juan,NE,juan,30261,,
+qd,nmg0.0,83628,83640,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Don,NE,don,30261,,(0
+qd,nmg0.0,83628,83640,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Juan,NE,juan,30261,,0)
 qd,nmg0.0,83628,83640,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,.,$.,--,30261,,
-qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Der,ART,der,30261,,
-qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Gouverneur,NN,gouverneur,30261,,
+qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Der,ART,der,30261,,(2
+qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Gouverneur,NN,gouverneur,30261,,2)
 qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,mit,APPR,mit,30261,,
-qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Don,NE,don,30261,,
-qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Juan,NE,juan,30261,,
+qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Don,NE,don,30261,,(0
+qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Juan,NE,juan,30261,,0)
 qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,",","$,",--,30261,,
-qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Gasparo,NE,gasparo,30261,,
+qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Gasparo,NE,gasparo,30261,,(13)
 qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,und,KON,und,30261,,
-qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Leporello,NE,leporello,30261,,
+qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,ab,PTKVZ,ab,30261,,
 qd,nmg0.0,83666,83720,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,.,$.,--,30261,,
 qd,nmg0.0,84020,84030,VIELE ANWESENDE,viele_anwesende,Alle,PIDAT,alle,30261,,
@@ -1024,17 +1024,17 @@ qd,nmg0.0,84089,84164,_Stage,_Stage,nicht,PTKNEG,nicht,30261,,
 qd,nmg0.0,84089,84164,_Stage,_Stage,sehr,ADV,sehr,30261,,
 qd,nmg0.0,84089,84164,_Stage,_Stage,finster,ADJD,finster,30261,,
 qd,nmg0.0,84089,84164,_Stage,_Stage,.,$.,--,30261,,
-qd,nmg0.0,84167,84239,_Stage,_Stage,Der,ART,der,30261,,
-qd,nmg0.0,84167,84239,_Stage,_Stage,Gouverneur,NN,gouverneur,30261,,
+qd,nmg0.0,84167,84239,_Stage,_Stage,Der,ART,der,30261,,(2
+qd,nmg0.0,84167,84239,_Stage,_Stage,Gouverneur,NN,gouverneur,30261,,2)
 qd,nmg0.0,84167,84239,_Stage,_Stage,",","$,",--,30261,,
 qd,nmg0.0,84167,84239,_Stage,_Stage,sein,PPOSAT,sein,30261,,
 qd,nmg0.0,84167,84239,_Stage,_Stage,Diener,NN,diener,30261,,
-qd,nmg0.0,84167,84239,_Stage,_Stage,Gasparo,NE,gasparo,30261,,
+qd,nmg0.0,84167,84239,_Stage,_Stage,Gasparo,NE,gasparo,30261,,(13)
 qd,nmg0.0,84167,84239,_Stage,_Stage,",","$,",--,30261,,
-qd,nmg0.0,84167,84239,_Stage,_Stage,Don,NE,don,30261,,
-qd,nmg0.0,84167,84239,_Stage,_Stage,Juan,NE,juan,30261,,
+qd,nmg0.0,84167,84239,_Stage,_Stage,Don,NE,don,30261,,(0
+qd,nmg0.0,84167,84239,_Stage,_Stage,Juan,NE,juan,30261,,0)
 qd,nmg0.0,84167,84239,_Stage,_Stage,und,KON,und,30261,,
-qd,nmg0.0,84167,84239,_Stage,_Stage,Leporello,NE,leporello,30261,,
+qd,nmg0.0,84167,84239,_Stage,_Stage,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,84167,84239,_Stage,_Stage,",","$,",--,30261,,
 qd,nmg0.0,84167,84239,_Stage,_Stage,treten,VVFIN,treten,30261,,
 qd,nmg0.0,84167,84239,_Stage,_Stage,auf,PTKVZ,auf,30261,,
@@ -1044,17 +1044,17 @@ qd,nmg0.0,84454,84463,LEPORELLO,leporello,sich,PRF,sich,30261,,
 qd,nmg0.0,84454,84463,LEPORELLO,leporello,.,$.,--,30261,,
 qd,nmg0.0,84725,84733,VON JUAN,von_juan,Gefecht,NN,gefecht,30261,,
 qd,nmg0.0,84725,84733,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,85086,85097,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Gasparo,NE,gasparo,30261,,
+qd,nmg0.0,85086,85097,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Gasparo,NE,gasparo,30261,,(13)
 qd,nmg0.0,85086,85097,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,ab,PTKVZ,ab,30261,,
 qd,nmg0.0,85086,85097,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,.,$.,--,30261,,
 qd,nmg0.0,89103,89120,VON JUAN,von_juan,Mit,APPR,mit,30261,,
-qd,nmg0.0,89103,89120,VON JUAN,von_juan,Leporello,NE,leporello,30261,,
+qd,nmg0.0,89103,89120,VON JUAN,von_juan,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,89103,89120,VON JUAN,von_juan,ab,PTKVZ,ab,30261,,
 qd,nmg0.0,89103,89120,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,89507,89517,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Er,PPER,er,30261,,
 qd,nmg0.0,89507,89517,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,stirbt,VVFIN,sterben,30261,,
 qd,nmg0.0,89507,89517,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,.,$.,--,30261,,
-qd,nmg0.0,89520,89560,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Gasparo,NE,gasparo,30261,,
+qd,nmg0.0,89520,89560,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Gasparo,NE,gasparo,30261,,(13)
 qd,nmg0.0,89520,89560,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,kommt,VVFIN,kommen,30261,,
 qd,nmg0.0,89520,89560,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,mit,APPR,mit,30261,,
 qd,nmg0.0,89520,89560,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,einem,ART,ein,30261,,
@@ -1063,8 +1063,8 @@ qd,nmg0.0,89520,89560,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverne
 qd,nmg0.0,89520,89560,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,.,$.,--,30261,,
 qd,nmg0.0,90167,90212,GASPARO,gasparo,Er,PPER,er,30261,,
 qd,nmg0.0,90167,90212,GASPARO,gasparo,und,KON,und,30261,,
-qd,nmg0.0,90167,90212,GASPARO,gasparo,der,ART,der,30261,,
-qd,nmg0.0,90167,90212,GASPARO,gasparo,Priester,NN,priester,30261,,
+qd,nmg0.0,90167,90212,GASPARO,gasparo,der,ART,der,30261,,(15
+qd,nmg0.0,90167,90212,GASPARO,gasparo,Priester,NN,priester,30261,,15)
 qd,nmg0.0,90167,90212,GASPARO,gasparo,tragen,VVFIN,tragen,30261,,
 qd,nmg0.0,90167,90212,GASPARO,gasparo,den,ART,der,30261,,
 qd,nmg0.0,90167,90212,GASPARO,gasparo,Leichnam,NN,leichnam,30261,,
@@ -1079,7 +1079,7 @@ qd,nmg0.0,90255,90352,_Stage,_Stage,Gemach,NN,gemach,30261,,
 qd,nmg0.0,90255,90352,_Stage,_Stage,im,APPRART,in,30261,,
 qd,nmg0.0,90255,90352,_Stage,_Stage,Zauberschlosse,NN,zauberschlosse,30261,,
 qd,nmg0.0,90255,90352,_Stage,_Stage,des,ART,der,30261,,
-qd,nmg0.0,90255,90352,_Stage,_Stage,Faust,NN,faust,30261,,
+qd,nmg0.0,90255,90352,_Stage,_Stage,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,90255,90352,_Stage,_Stage,.,$.,--,30261,,
 qd,nmg0.0,90255,90352,_Stage,_Stage,Aussicht,NN,aussicht,30261,,
 qd,nmg0.0,90255,90352,_Stage,_Stage,auf,APPR,auf,30261,,
@@ -1087,17 +1087,17 @@ qd,nmg0.0,90255,90352,_Stage,_Stage,Alpen,NN,alpen,30261,,
 qd,nmg0.0,90255,90352,_Stage,_Stage,und,KON,und,30261,,
 qd,nmg0.0,90255,90352,_Stage,_Stage,Land,NN,land,30261,,
 qd,nmg0.0,90255,90352,_Stage,_Stage,.,$.,--,30261,,
-qd,nmg0.0,90355,90387,_Stage,_Stage,Faust,NN,faust,30261,,
+qd,nmg0.0,90355,90387,_Stage,_Stage,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,90355,90387,_Stage,_Stage,und,KON,und,30261,,
-qd,nmg0.0,90355,90387,_Stage,_Stage,der,ART,der,30261,,
-qd,nmg0.0,90355,90387,_Stage,_Stage,Ritter,NN,ritter,30261,,
+qd,nmg0.0,90355,90387,_Stage,_Stage,der,ART,der,30261,,(6
+qd,nmg0.0,90355,90387,_Stage,_Stage,Ritter,NN,ritter,30261,,6)
 qd,nmg0.0,90355,90387,_Stage,_Stage,treten,VVFIN,treten,30261,,
 qd,nmg0.0,90355,90387,_Stage,_Stage,ein,PTKVZ,ein,30261,,
 qd,nmg0.0,90355,90387,_Stage,_Stage,.,$.,--,30261,,
 qd,nmg0.0,90397,90404,FAUST,faust,zornig,ADV,zornig,30261,,
 qd,nmg0.0,90397,90404,FAUST,faust,.,$.,--,30261,,
-qd,nmg0.0,91854,91868,FAUST,faust,Der,ART,der,30261,,
-qd,nmg0.0,91854,91868,FAUST,faust,Ritter,NN,ritter,30261,,
+qd,nmg0.0,91854,91868,FAUST,faust,Der,ART,der,30261,,(6
+qd,nmg0.0,91854,91868,FAUST,faust,Ritter,NN,ritter,30261,,6)
 qd,nmg0.0,91854,91868,FAUST,faust,ab,PTKVZ,ab,30261,,
 qd,nmg0.0,91854,91868,FAUST,faust,.,$.,--,30261,,
 qd,nmg0.0,92206,92253,FAUST,faust,Musik,NN,musik,30261,,
@@ -1105,8 +1105,8 @@ qd,nmg0.0,92206,92253,FAUST,faust,und,KON,und,30261,,
 qd,nmg0.0,92206,92253,FAUST,faust,sonniger,ADJA,sonnig,30261,,
 qd,nmg0.0,92206,92253,FAUST,faust,Glanz,NN,glanz,30261,,
 qd,nmg0.0,92206,92253,FAUST,faust,.,$.,--,30261,,
-qd,nmg0.0,92206,92253,FAUST,faust,Donna,NE,donna,30261,,
-qd,nmg0.0,92206,92253,FAUST,faust,Anna,NE,anna,30261,,
+qd,nmg0.0,92206,92253,FAUST,faust,Donna,NE,donna,30261,,(7|(7)
+qd,nmg0.0,92206,92253,FAUST,faust,Anna,NE,anna,30261,,7)
 qd,nmg0.0,92206,92253,FAUST,faust,tritt,VVFIN,treten,30261,,
 qd,nmg0.0,92206,92253,FAUST,faust,auf,PTKVZ,auf,30261,,
 qd,nmg0.0,92206,92253,FAUST,faust,.,$.,--,30261,,
@@ -1125,14 +1125,14 @@ qd,nmg0.0,94306,94317,DONNA ANNA,donna_anna,.,$.,--,30261,,
 qd,nmg0.0,96395,96401,DER RITTER,der_ritter,kommt,VVFIN,kommen,30261,,
 qd,nmg0.0,96395,96401,DER RITTER,der_ritter,.,$.,--,30261,,
 qd,nmg0.0,97862,97877,FAUST,faust,zur,APPRART,zu,30261,,
-qd,nmg0.0,97862,97877,FAUST,faust,Donna,NE,donna,30261,,
-qd,nmg0.0,97862,97877,FAUST,faust,Anna,NE,anna,30261,,
+qd,nmg0.0,97862,97877,FAUST,faust,Donna,NE,donna,30261,,(7|(7)
+qd,nmg0.0,97862,97877,FAUST,faust,Anna,NE,anna,30261,,7)
 qd,nmg0.0,97862,97877,FAUST,faust,.,$.,--,30261,,
 qd,nmg0.0,98280,98306,FAUST,faust,noch,ADV,noch,30261,,
 qd,nmg0.0,98280,98306,FAUST,faust,immer,ADV,immer,30261,,
 qd,nmg0.0,98280,98306,FAUST,faust,zur,APPRART,zu,30261,,
-qd,nmg0.0,98280,98306,FAUST,faust,Donna,NE,donna,30261,,
-qd,nmg0.0,98280,98306,FAUST,faust,Anna,NE,anna,30261,,
+qd,nmg0.0,98280,98306,FAUST,faust,Donna,NE,donna,30261,,(7|(7)
+qd,nmg0.0,98280,98306,FAUST,faust,Anna,NE,anna,30261,,7)
 qd,nmg0.0,98280,98306,FAUST,faust,.,$.,--,30261,,
 qd,nmg0.0,99217,99238,DER RITTER,der_ritter,Er,PPER,er,30261,,
 qd,nmg0.0,99217,99238,DER RITTER,der_ritter,wird,VAFIN,werden,30261,,
@@ -1155,10 +1155,10 @@ qd,nmg0.0,102676,102702,_Stage,_Stage,Gegend,NN,gegend,30261,,
 qd,nmg0.0,102676,102702,_Stage,_Stage,am,APPRART,an,30261,,
 qd,nmg0.0,102676,102702,_Stage,_Stage,Montblanc,NE,montblanc,30261,,
 qd,nmg0.0,102676,102702,_Stage,_Stage,.,$.,--,30261,,
-qd,nmg0.0,102705,102739,_Stage,_Stage,Don,NE,don,30261,,
-qd,nmg0.0,102705,102739,_Stage,_Stage,Juan,NE,juan,30261,,
+qd,nmg0.0,102705,102739,_Stage,_Stage,Don,NE,don,30261,,(0
+qd,nmg0.0,102705,102739,_Stage,_Stage,Juan,NE,juan,30261,,0)
 qd,nmg0.0,102705,102739,_Stage,_Stage,und,KON,und,30261,,
-qd,nmg0.0,102705,102739,_Stage,_Stage,Leporello,NE,leporello,30261,,
+qd,nmg0.0,102705,102739,_Stage,_Stage,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,102705,102739,_Stage,_Stage,treten,VVFIN,treten,30261,,
 qd,nmg0.0,102705,102739,_Stage,_Stage,auf,PTKVZ,auf,30261,,
 qd,nmg0.0,102705,102739,_Stage,_Stage,.,$.,--,30261,,
@@ -1168,28 +1168,28 @@ qd,nmg0.0,104499,104535,VON JUAN,von_juan,einen,ART,ein,30261,,
 qd,nmg0.0,104499,104535,VON JUAN,von_juan,Augenblick,NN,augenblick,30261,,
 qd,nmg0.0,104499,104535,VON JUAN,von_juan,ernsthaft,ADJD,ernsthaft,30261,,
 qd,nmg0.0,104499,104535,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,105756,105811,LEPORELLO,leporello,Don,NE,don,30261,,
-qd,nmg0.0,105756,105811,LEPORELLO,leporello,Juan,NE,juan,30261,,
+qd,nmg0.0,105756,105811,LEPORELLO,leporello,Don,NE,don,30261,,(0
+qd,nmg0.0,105756,105811,LEPORELLO,leporello,Juan,NE,juan,30261,,0)
 qd,nmg0.0,105756,105811,LEPORELLO,leporello,will,VMFIN,wollen,30261,,
 qd,nmg0.0,105756,105811,LEPORELLO,leporello,weitersteigen,VVINF,weitersteigen,30261,,
 qd,nmg0.0,105756,105811,LEPORELLO,leporello,.,$.,--,30261,,
-qd,nmg0.0,105756,105811,LEPORELLO,leporello,Leporello,NE,leporello,30261,,
+qd,nmg0.0,105756,105811,LEPORELLO,leporello,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,105756,105811,LEPORELLO,leporello,hält,VVFIN,halten,30261,,
 qd,nmg0.0,105756,105811,LEPORELLO,leporello,ihn,PPER,ihn,30261,,
 qd,nmg0.0,105756,105811,LEPORELLO,leporello,zurück,PTKVZ,zurück,30261,,
 qd,nmg0.0,105756,105811,LEPORELLO,leporello,.,$.,--,30261,,
 qd,nmg0.0,106112,106124,FAUST,faust,erscheinend,ADJD,erscheinend,30261,,
 qd,nmg0.0,106112,106124,FAUST,faust,.,$.,--,30261,,
-qd,nmg0.0,108392,108467,LEPORELLO,leporello,Don,NE,don,30261,,
-qd,nmg0.0,108392,108467,LEPORELLO,leporello,Juan,NE,juan,30261,,
+qd,nmg0.0,108392,108467,LEPORELLO,leporello,Don,NE,don,30261,,(0
+qd,nmg0.0,108392,108467,LEPORELLO,leporello,Juan,NE,juan,30261,,0)
 qd,nmg0.0,108392,108467,LEPORELLO,leporello,und,KON,und,30261,,
-qd,nmg0.0,108392,108467,LEPORELLO,leporello,Leporello,NE,leporello,30261,,
+qd,nmg0.0,108392,108467,LEPORELLO,leporello,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,108392,108467,LEPORELLO,leporello,werden,VAFIN,werden,30261,,
 qd,nmg0.0,108392,108467,LEPORELLO,leporello,auf,APPR,auf,30261,,
 qd,nmg0.0,108392,108467,LEPORELLO,leporello,den,ART,der,30261,,
 qd,nmg0.0,108392,108467,LEPORELLO,leporello,Wink,NN,wink,30261,,
 qd,nmg0.0,108392,108467,LEPORELLO,leporello,des,ART,der,30261,,
-qd,nmg0.0,108392,108467,LEPORELLO,leporello,Faust,NN,faust,30261,,
+qd,nmg0.0,108392,108467,LEPORELLO,leporello,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,108392,108467,LEPORELLO,leporello,im,APPRART,in,30261,,
 qd,nmg0.0,108392,108467,LEPORELLO,leporello,Sturm,NN,sturm,30261,,
 qd,nmg0.0,108392,108467,LEPORELLO,leporello,davongeführt,VVPP,davonführen,30261,,
@@ -1209,10 +1209,10 @@ qd,nmg0.0,108916,108988,_Stage,_Stage,.,$.,--,30261,,
 qd,nmg0.0,108916,108988,_Stage,_Stage,Anbrechender,ADJA,anbrechend,30261,,
 qd,nmg0.0,108916,108988,_Stage,_Stage,Abend,NN,abend,30261,,
 qd,nmg0.0,108916,108988,_Stage,_Stage,.,$.,--,30261,,
-qd,nmg0.0,108991,109014,_Stage,_Stage,Don,NE,don,30261,,
-qd,nmg0.0,108991,109014,_Stage,_Stage,Juan,NE,juan,30261,,
+qd,nmg0.0,108991,109014,_Stage,_Stage,Don,NE,don,30261,,(0
+qd,nmg0.0,108991,109014,_Stage,_Stage,Juan,NE,juan,30261,,0)
 qd,nmg0.0,108991,109014,_Stage,_Stage,und,KON,und,30261,,
-qd,nmg0.0,108991,109014,_Stage,_Stage,Leporello,NE,leporello,30261,,
+qd,nmg0.0,108991,109014,_Stage,_Stage,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,108991,109014,_Stage,_Stage,.,$.,--,30261,,
 qd,nmg0.0,112099,112108,LEPORELLO,leporello,Für,APPR,für,30261,,
 qd,nmg0.0,112099,112108,LEPORELLO,leporello,sich,PRF,sich,30261,,
@@ -1267,7 +1267,7 @@ qd,nmg0.0,116251,116272,VON JUAN,von_juan,zur,APPRART,zu,30261,,
 qd,nmg0.0,116251,116272,VON JUAN,von_juan,Bildsäule,NN,bildsäule,30261,,
 qd,nmg0.0,116251,116272,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,116322,116335,VON JUAN,von_juan,Zu,APPR,zu,30261,,
-qd,nmg0.0,116322,116335,VON JUAN,von_juan,Leporello,NE,leporello,30261,,
+qd,nmg0.0,116322,116335,VON JUAN,von_juan,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,116322,116335,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,116663,116745,LEPORELLO,leporello,Beide,PIDAT,beide,30261,,
 qd,nmg0.0,116663,116745,LEPORELLO,leporello,gehen,VVFIN,gehen,30261,,
@@ -1281,7 +1281,7 @@ qd,nmg0.0,116663,116745,LEPORELLO,leporello,Szene,NN,szene,30261,,
 qd,nmg0.0,116663,116745,LEPORELLO,leporello,sind,VAFIN,sein,30261,,
 qd,nmg0.0,116663,116745,LEPORELLO,leporello,",","$,",--,30261,,
 qd,nmg0.0,116663,116745,LEPORELLO,leporello,nimmt,VVFIN,nehmen,30261,,
-qd,nmg0.0,116663,116745,LEPORELLO,leporello,Leporello,NE,leporello,30261,,
+qd,nmg0.0,116663,116745,LEPORELLO,leporello,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,116663,116745,LEPORELLO,leporello,einen,ART,ein,30261,,
 qd,nmg0.0,116663,116745,LEPORELLO,leporello,Stein,NN,stein,30261,,
 qd,nmg0.0,116663,116745,LEPORELLO,leporello,auf,PTKVZ,auf,30261,,
@@ -1336,7 +1336,7 @@ qd,nmg0.0,120791,120837,_Stage,_Stage,Zimmer,NN,zimmer,30261,,
 qd,nmg0.0,120791,120837,_Stage,_Stage,im,APPRART,in,30261,,
 qd,nmg0.0,120791,120837,_Stage,_Stage,Zauberschlosse,NN,zauberschlosse,30261,,
 qd,nmg0.0,120791,120837,_Stage,_Stage,des,ART,der,30261,,
-qd,nmg0.0,120791,120837,_Stage,_Stage,Faust,NN,faust,30261,,
+qd,nmg0.0,120791,120837,_Stage,_Stage,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,120791,120837,_Stage,_Stage,.,$.,--,30261,,
 qd,nmg0.0,120847,120857,FAUST,faust,tritt,VVFIN,treten,30261,,
 qd,nmg0.0,120847,120857,FAUST,faust,auf,PTKVZ,auf,30261,,
@@ -1346,7 +1346,7 @@ qd,nmg0.0,123548,123581,DONNA ANNA,donna_anna,auf,PTKVZ,auf,30261,,
 qd,nmg0.0,123548,123581,DONNA ANNA,donna_anna,und,KON,und,30261,,
 qd,nmg0.0,123548,123581,DONNA ANNA,donna_anna,erblickt,VVFIN,erblicken,30261,,
 qd,nmg0.0,123548,123581,DONNA ANNA,donna_anna,den,ART,der,30261,,
-qd,nmg0.0,123548,123581,DONNA ANNA,donna_anna,Faust,NN,faust,30261,,
+qd,nmg0.0,123548,123581,DONNA ANNA,donna_anna,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,123548,123581,DONNA ANNA,donna_anna,.,$.,--,30261,,
 qd,nmg0.0,123928,123968,DONNA ANNA,donna_anna,Mit,APPR,mit,30261,,
 qd,nmg0.0,123928,123968,DONNA ANNA,donna_anna,stolzem,ADJA,stolz,30261,,
@@ -1358,15 +1358,15 @@ qd,nmg0.0,123928,123968,DONNA ANNA,donna_anna,ihn,PPER,ihn,30261,,
 qd,nmg0.0,123928,123968,DONNA ANNA,donna_anna,hin,PTKVZ,hin,30261,,
 qd,nmg0.0,123928,123968,DONNA ANNA,donna_anna,"!",$.,--,30261,,
 qd,nmg0.0,123980,123995,FAUST,faust,zur,APPRART,zu,30261,,
-qd,nmg0.0,123980,123995,FAUST,faust,Donna,NE,donna,30261,,
-qd,nmg0.0,123980,123995,FAUST,faust,Anna,NE,anna,30261,,
+qd,nmg0.0,123980,123995,FAUST,faust,Donna,NE,donna,30261,,(7|(7)
+qd,nmg0.0,123980,123995,FAUST,faust,Anna,NE,anna,30261,,7)
 qd,nmg0.0,123980,123995,FAUST,faust,.,$.,--,30261,,
 qd,nmg0.0,125256,125273,DONNA ANNA,donna_anna,schläft,VVFIN,schlafen,30261,,
 qd,nmg0.0,125256,125273,DONNA ANNA,donna_anna,der,ART,der,30261,,
 qd,nmg0.0,125256,125273,DONNA ANNA,donna_anna,Löwe,NN,löwe,30261,,
 qd,nmg0.0,125256,125273,DONNA ANNA,donna_anna,.,$.,--,30261,,
 qd,nmg0.0,126735,126770,DONNA ANNA,donna_anna,von,APPR,von,30261,,
-qd,nmg0.0,126735,126770,DONNA ANNA,donna_anna,Faust,NN,faust,30261,,
+qd,nmg0.0,126735,126770,DONNA ANNA,donna_anna,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,126735,126770,DONNA ANNA,donna_anna,weggewandt,VVPP,weggewandt,30261,,
 qd,nmg0.0,126735,126770,DONNA ANNA,donna_anna,emporblickend,ADJD,emporblickend,30261,,
 qd,nmg0.0,126735,126770,DONNA ANNA,donna_anna,.,$.,--,30261,,
@@ -1397,8 +1397,8 @@ qd,nmg0.0,129604,129700,_Stage,_Stage,Saal,NN,saal,30261,,
 qd,nmg0.0,129604,129700,_Stage,_Stage,im,APPRART,in,30261,,
 qd,nmg0.0,129604,129700,_Stage,_Stage,Hause,NN,haus,30261,,
 qd,nmg0.0,129604,129700,_Stage,_Stage,des,ART,der,30261,,
-qd,nmg0.0,129604,129700,_Stage,_Stage,Don,NE,don,30261,,
-qd,nmg0.0,129604,129700,_Stage,_Stage,Juan,NE,juan,30261,,
+qd,nmg0.0,129604,129700,_Stage,_Stage,Don,NE,don,30261,,(0
+qd,nmg0.0,129604,129700,_Stage,_Stage,Juan,NE,juan,30261,,0)
 qd,nmg0.0,129604,129700,_Stage,_Stage,.,$.,--,30261,,
 qd,nmg0.0,129604,129700,_Stage,_Stage,Mondschein,NN,mondschein,30261,,
 qd,nmg0.0,129604,129700,_Stage,_Stage,und,KON,und,30261,,
@@ -1408,8 +1408,8 @@ qd,nmg0.0,129604,129700,_Stage,_Stage,durch,APPR,durch,30261,,
 qd,nmg0.0,129604,129700,_Stage,_Stage,die,ART,der,30261,,
 qd,nmg0.0,129604,129700,_Stage,_Stage,Fenster,NN,fenster,30261,,
 qd,nmg0.0,129604,129700,_Stage,_Stage,.,$.,--,30261,,
-qd,nmg0.0,129703,129724,_Stage,_Stage,Der,ART,der,30261,,
-qd,nmg0.0,129703,129724,_Stage,_Stage,Ritter,NN,ritter,30261,,
+qd,nmg0.0,129703,129724,_Stage,_Stage,Der,ART,der,30261,,(6
+qd,nmg0.0,129703,129724,_Stage,_Stage,Ritter,NN,ritter,30261,,6)
 qd,nmg0.0,129703,129724,_Stage,_Stage,erscheint,VVFIN,erscheinen,30261,,
 qd,nmg0.0,129703,129724,_Stage,_Stage,.,$.,--,30261,,
 qd,nmg0.0,130231,130268,DER RITTER,der_ritter,Es,PPER,es,30261,,
@@ -1455,10 +1455,10 @@ qd,nmg0.0,131164,131212,DER RITTER,der_ritter,auf,PTKVZ,auf,30261,,
 qd,nmg0.0,131164,131212,DER RITTER,der_ritter,und,KON,und,30261,,
 qd,nmg0.0,131164,131212,DER RITTER,der_ritter,ab,PTKVZ,ab,30261,,
 qd,nmg0.0,131164,131212,DER RITTER,der_ritter,.,$.,--,30261,,
-qd,nmg0.0,131215,131245,DER RITTER,der_ritter,Don,NE,don,30261,,
-qd,nmg0.0,131215,131245,DER RITTER,der_ritter,Juan,NE,juan,30261,,
+qd,nmg0.0,131215,131245,DER RITTER,der_ritter,Don,NE,don,30261,,(0
+qd,nmg0.0,131215,131245,DER RITTER,der_ritter,Juan,NE,juan,30261,,0)
 qd,nmg0.0,131215,131245,DER RITTER,der_ritter,und,KON,und,30261,,
-qd,nmg0.0,131215,131245,DER RITTER,der_ritter,Leporello,NE,leporello,30261,,
+qd,nmg0.0,131215,131245,DER RITTER,der_ritter,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,131215,131245,DER RITTER,der_ritter,kommen,VVFIN,kommen,30261,,
 qd,nmg0.0,131215,131245,DER RITTER,der_ritter,.,$.,--,30261,,
 qd,nmg0.0,131830,131903,LEPORELLO,leporello,in,APPR,in,30261,,
@@ -1470,15 +1470,15 @@ qd,nmg0.0,131830,131903,LEPORELLO,leporello,Gegend,NN,gegend,30261,,
 qd,nmg0.0,131830,131903,LEPORELLO,leporello,deutend,ADJD,deutend,30261,,
 qd,nmg0.0,131830,131903,LEPORELLO,leporello,",","$,",--,30261,,
 qd,nmg0.0,131830,131903,LEPORELLO,leporello,wo,PWAV,wo,30261,,
-qd,nmg0.0,131830,131903,LEPORELLO,leporello,der,ART,der,30261,,
-qd,nmg0.0,131830,131903,LEPORELLO,leporello,Ritter,NN,ritter,30261,,
+qd,nmg0.0,131830,131903,LEPORELLO,leporello,der,ART,der,30261,,(6
+qd,nmg0.0,131830,131903,LEPORELLO,leporello,Ritter,NN,ritter,30261,,6)
 qd,nmg0.0,131830,131903,LEPORELLO,leporello,auf-,TRUNC,auf,30261,,
 qd,nmg0.0,131830,131903,LEPORELLO,leporello,und,KON,und,30261,,
 qd,nmg0.0,131830,131903,LEPORELLO,leporello,abgeht,VVFIN,abgehen,30261,,
 qd,nmg0.0,131830,131903,LEPORELLO,leporello,.,$.,--,30261,,
 qd,nmg0.0,132039,132042,LEPORELLO,leporello,Ab,APPR,ab,30261,,
 qd,nmg0.0,132039,132042,LEPORELLO,leporello,.,$.,--,30261,,
-qd,nmg0.0,132441,132511,VON JUAN,von_juan,Leporello,NE,leporello,30261,,
+qd,nmg0.0,132441,132511,VON JUAN,von_juan,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,132441,132511,VON JUAN,von_juan,kommt,VVFIN,kommen,30261,,
 qd,nmg0.0,132441,132511,VON JUAN,von_juan,zurück,ADV,zurück,30261,,
 qd,nmg0.0,132441,132511,VON JUAN,von_juan,mit,APPR,mit,30261,,
@@ -1490,25 +1490,25 @@ qd,nmg0.0,132441,132511,VON JUAN,von_juan,die,ART,der,30261,,
 qd,nmg0.0,132441,132511,VON JUAN,von_juan,Kerzen,NN,kerze,30261,,
 qd,nmg0.0,132441,132511,VON JUAN,von_juan,brennen,VVFIN,brennen,30261,,
 qd,nmg0.0,132441,132511,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,132927,132987,VON JUAN,von_juan,Signor,NE,signor,30261,,
-qd,nmg0.0,132927,132987,VON JUAN,von_juan,Rubio,NE,rubio,30261,,
+qd,nmg0.0,132927,132987,VON JUAN,von_juan,Signor,NE,signor,30261,,(8
+qd,nmg0.0,132927,132987,VON JUAN,von_juan,Rubio,NE,rubio,30261,,8)
 qd,nmg0.0,132927,132987,VON JUAN,von_juan,und,KON,und,30261,,
-qd,nmg0.0,132927,132987,VON JUAN,von_juan,Signor,NN,signor,30261,,
-qd,nmg0.0,132927,132987,VON JUAN,von_juan,Negro,NE,negro,30261,,
+qd,nmg0.0,132927,132987,VON JUAN,von_juan,Signor,NN,signor,30261,,(9
+qd,nmg0.0,132927,132987,VON JUAN,von_juan,Negro,NE,negro,30261,,9)
 qd,nmg0.0,132927,132987,VON JUAN,von_juan,mit,APPR,mit,30261,,
 qd,nmg0.0,132927,132987,VON JUAN,von_juan,Polizeidienern,NN,polizeidiener,30261,,
 qd,nmg0.0,132927,132987,VON JUAN,von_juan,treten,VVFIN,treten,30261,,
 qd,nmg0.0,132927,132987,VON JUAN,von_juan,ein,PTKVZ,ein,30261,,
 qd,nmg0.0,132927,132987,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,134079,134095,LEPORELLO,leporello,zu,APPR,zu,30261,,
-qd,nmg0.0,134079,134095,LEPORELLO,leporello,Signor,NN,signor,30261,,
-qd,nmg0.0,134079,134095,LEPORELLO,leporello,Negro,NE,negro,30261,,
+qd,nmg0.0,134079,134095,LEPORELLO,leporello,Signor,NN,signor,30261,,(9
+qd,nmg0.0,134079,134095,LEPORELLO,leporello,Negro,NE,negro,30261,,9)
 qd,nmg0.0,134079,134095,LEPORELLO,leporello,.,$.,--,30261,,
-qd,nmg0.0,134334,134396,SIGNOR RUBIO,signor_rubio,Leporello,NE,leporello,30261,,
+qd,nmg0.0,134334,134396,SIGNOR RUBIO,signor_rubio,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,134334,134396,SIGNOR RUBIO,signor_rubio,wirft,VVFIN,werfen,30261,,
 qd,nmg0.0,134334,134396,SIGNOR RUBIO,signor_rubio,den,ART,der,30261,,
-qd,nmg0.0,134334,134396,SIGNOR RUBIO,signor_rubio,Signor,NN,signor,30261,,
-qd,nmg0.0,134334,134396,SIGNOR RUBIO,signor_rubio,Negro,NE,negro,30261,,
+qd,nmg0.0,134334,134396,SIGNOR RUBIO,signor_rubio,Signor,NN,signor,30261,,(9
+qd,nmg0.0,134334,134396,SIGNOR RUBIO,signor_rubio,Negro,NE,negro,30261,,9)
 qd,nmg0.0,134334,134396,SIGNOR RUBIO,signor_rubio,aus,APPR,aus,30261,,
 qd,nmg0.0,134334,134396,SIGNOR RUBIO,signor_rubio,der,ART,der,30261,,
 qd,nmg0.0,134334,134396,SIGNOR RUBIO,signor_rubio,Tür,NN,tür,30261,,
@@ -1516,29 +1516,29 @@ qd,nmg0.0,134334,134396,SIGNOR RUBIO,signor_rubio,und,KON,und,30261,,
 qd,nmg0.0,134334,134396,SIGNOR RUBIO,signor_rubio,verfolgt,VVFIN,verfolgen,30261,,
 qd,nmg0.0,134334,134396,SIGNOR RUBIO,signor_rubio,ihn,PPER,ihn,30261,,
 qd,nmg0.0,134334,134396,SIGNOR RUBIO,signor_rubio,.,$.,--,30261,,
-qd,nmg0.0,134411,134455,VON JUAN,von_juan,Signor,NE,signor,30261,,
-qd,nmg0.0,134411,134455,VON JUAN,von_juan,Rubio,NE,rubio,30261,,
+qd,nmg0.0,134411,134455,VON JUAN,von_juan,Signor,NE,signor,30261,,(8
+qd,nmg0.0,134411,134455,VON JUAN,von_juan,Rubio,NE,rubio,30261,,8)
 qd,nmg0.0,134411,134455,VON JUAN,von_juan,und,KON,und,30261,,
 qd,nmg0.0,134411,134455,VON JUAN,von_juan,dessen,PRELAT,der,30261,,
 qd,nmg0.0,134411,134455,VON JUAN,von_juan,Leute,NN,leute,30261,,
 qd,nmg0.0,134411,134455,VON JUAN,von_juan,zurückhaltend,ADJD,zurückhaltend,30261,,
 qd,nmg0.0,134411,134455,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,137456,137546,VON JUAN,von_juan,Signor,NE,signor,30261,,
-qd,nmg0.0,137456,137546,VON JUAN,von_juan,Rubio,NE,rubio,30261,,
+qd,nmg0.0,137456,137546,VON JUAN,von_juan,Signor,NE,signor,30261,,(8
+qd,nmg0.0,137456,137546,VON JUAN,von_juan,Rubio,NE,rubio,30261,,8)
 qd,nmg0.0,137456,137546,VON JUAN,von_juan,nebst,VVFIN,nebst,30261,,
 qd,nmg0.0,137456,137546,VON JUAN,von_juan,seinem,PPOSAT,sein,30261,,
 qd,nmg0.0,137456,137546,VON JUAN,von_juan,Gefolge,NN,gefolge,30261,,
 qd,nmg0.0,137456,137546,VON JUAN,von_juan,wird,VAFIN,werden,30261,,
 qd,nmg0.0,137456,137546,VON JUAN,von_juan,von,APPR,von,30261,,
-qd,nmg0.0,137456,137546,VON JUAN,von_juan,Don,NE,don,30261,,
-qd,nmg0.0,137456,137546,VON JUAN,von_juan,Juan,NE,juan,30261,,
+qd,nmg0.0,137456,137546,VON JUAN,von_juan,Don,NE,don,30261,,(0
+qd,nmg0.0,137456,137546,VON JUAN,von_juan,Juan,NE,juan,30261,,0)
 qd,nmg0.0,137456,137546,VON JUAN,von_juan,fortgetrieben,VVPP,fogetreiben,30261,,
 qd,nmg0.0,137456,137546,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,137456,137546,VON JUAN,von_juan,Leporello,NE,leporello,30261,,
+qd,nmg0.0,137456,137546,VON JUAN,von_juan,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,137456,137546,VON JUAN,von_juan,kommt,VVFIN,kommen,30261,,
 qd,nmg0.0,137456,137546,VON JUAN,von_juan,zurück,PTKVZ,zurück,30261,,
 qd,nmg0.0,137456,137546,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,138181,138292,VON JUAN,von_juan,Faust,NN,faust,30261,,
+qd,nmg0.0,138181,138292,VON JUAN,von_juan,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,138181,138292,VON JUAN,von_juan,",","$,",--,30261,,
 qd,nmg0.0,138181,138292,VON JUAN,von_juan,bleich,ADJD,bleich,30261,,
 qd,nmg0.0,138181,138292,VON JUAN,von_juan,",","$,",--,30261,,
@@ -1563,8 +1563,8 @@ qd,nmg0.0,138304,138318,FAUST,faust,dem,ART,der,30261,,
 qd,nmg0.0,138304,138318,FAUST,faust,Ritter,NN,ritter,30261,,
 qd,nmg0.0,138304,138318,FAUST,faust,.,$.,--,30261,,
 qd,nmg0.0,138699,138711,FAUST,faust,Zu,APPR,zu,30261,,
-qd,nmg0.0,138699,138711,FAUST,faust,Don,NE,don,30261,,
-qd,nmg0.0,138699,138711,FAUST,faust,Juan,NE,juan,30261,,
+qd,nmg0.0,138699,138711,FAUST,faust,Don,NE,don,30261,,(0
+qd,nmg0.0,138699,138711,FAUST,faust,Juan,NE,juan,30261,,0)
 qd,nmg0.0,138699,138711,FAUST,faust,.,$.,--,30261,,
 qd,nmg0.0,140155,140206,FAUST,faust,Zum,APPRART,zu,30261,,
 qd,nmg0.0,140155,140206,FAUST,faust,Ritter,NN,ritter,30261,,
@@ -1572,13 +1572,13 @@ qd,nmg0.0,140155,140206,FAUST,faust,",","$,",--,30261,,
 qd,nmg0.0,140155,140206,FAUST,faust,der,PRELS,der,30261,,
 qd,nmg0.0,140155,140206,FAUST,faust,sich,PRF,sich,30261,,
 qd,nmg0.0,140155,140206,FAUST,faust,dem,ART,der,30261,,
-qd,nmg0.0,140155,140206,FAUST,faust,Faust,NN,faust,30261,,
+qd,nmg0.0,140155,140206,FAUST,faust,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,140155,140206,FAUST,faust,wieder,ADV,wieder,30261,,
 qd,nmg0.0,140155,140206,FAUST,faust,genähert,VVPP,nähern,30261,,
 qd,nmg0.0,140155,140206,FAUST,faust,hat,VAFIN,haben,30261,,
 qd,nmg0.0,140155,140206,FAUST,faust,.,$.,--,30261,,
 qd,nmg0.0,140433,140474,DER RITTER,der_ritter,den,ART,der,30261,,
-qd,nmg0.0,140433,140474,DER RITTER,der_ritter,Faust,NN,faust,30261,,
+qd,nmg0.0,140433,140474,DER RITTER,der_ritter,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,140433,140474,DER RITTER,der_ritter,packend,ADJD,packend,30261,,
 qd,nmg0.0,140433,140474,DER RITTER,der_ritter,und,KON,und,30261,,
 qd,nmg0.0,140433,140474,DER RITTER,der_ritter,sofort,ADV,sofort,30261,,
@@ -1599,8 +1599,8 @@ qd,nmg0.0,140733,140834,DER RITTER,der_ritter,Szene,NN,szene,30261,,
 qd,nmg0.0,140733,140834,DER RITTER,der_ritter,darin,PROAV,darin,30261,,
 qd,nmg0.0,140733,140834,DER RITTER,der_ritter,",","$,",--,30261,,
 qd,nmg0.0,140733,140834,DER RITTER,der_ritter,den,ART,der,30261,,
-qd,nmg0.0,140733,140834,DER RITTER,der_ritter,Don,NE,don,30261,,
-qd,nmg0.0,140733,140834,DER RITTER,der_ritter,Juan,NE,juan,30261,,
+qd,nmg0.0,140733,140834,DER RITTER,der_ritter,Don,NE,don,30261,,(0
+qd,nmg0.0,140733,140834,DER RITTER,der_ritter,Juan,NE,juan,30261,,0)
 qd,nmg0.0,140733,140834,DER RITTER,der_ritter,fixierend,ADJD,fixierend,30261,,
 qd,nmg0.0,140733,140834,DER RITTER,der_ritter,.,$.,--,30261,,
 qd,nmg0.0,141393,141401,VON JUAN,von_juan,drohend,ADJD,drohend,30261,,
@@ -1610,7 +1610,7 @@ qd,nmg0.0,141437,141500,LEPORELLO,leporello,bebend,ADJD,bebend,30261,,
 qd,nmg0.0,141437,141500,LEPORELLO,leporello,den,ART,der,30261,,
 qd,nmg0.0,141437,141500,LEPORELLO,leporello,Leichnam,NN,leichnam,30261,,
 qd,nmg0.0,141437,141500,LEPORELLO,leporello,des,ART,der,30261,,
-qd,nmg0.0,141437,141500,LEPORELLO,leporello,Faust,NN,faust,30261,,
+qd,nmg0.0,141437,141500,LEPORELLO,leporello,Faust,NN,faust,30261,,(5)
 qd,nmg0.0,141437,141500,LEPORELLO,leporello,beiseit,VVFIN,beiseit,30261,,
 qd,nmg0.0,141437,141500,LEPORELLO,leporello,und,KON,und,30261,,
 qd,nmg0.0,141437,141500,LEPORELLO,leporello,kehrt,VVFIN,kehren,30261,,
@@ -1634,7 +1634,7 @@ qd,nmg0.0,142260,142283,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,142660,142667,VON JUAN,von_juan,Er,PPER,er,30261,,
 qd,nmg0.0,142660,142667,VON JUAN,von_juan,ißt,VVFIN,essen,30261,,
 qd,nmg0.0,142660,142667,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,142931,142980,VON JUAN,von_juan,Leporello,NE,leporello,30261,,
+qd,nmg0.0,142931,142980,VON JUAN,von_juan,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,142931,142980,VON JUAN,von_juan,ab,PTKVZ,ab,30261,,
 qd,nmg0.0,142931,142980,VON JUAN,von_juan,und,KON,und,30261,,
 qd,nmg0.0,142931,142980,VON JUAN,von_juan,kommt,VVFIN,kommen,30261,,
@@ -1647,9 +1647,9 @@ qd,nmg0.0,142931,142980,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,143098,143107,VON JUAN,von_juan,Speisend,ADJD,speisend,30261,,
 qd,nmg0.0,143098,143107,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,143143,143156,VON JUAN,von_juan,Zu,APPR,zu,30261,,
-qd,nmg0.0,143143,143156,VON JUAN,von_juan,Leporello,NE,leporello,30261,,
+qd,nmg0.0,143143,143156,VON JUAN,von_juan,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,143143,143156,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,143542,143576,VON JUAN,von_juan,Leporello,NE,leporello,30261,,
+qd,nmg0.0,143542,143576,VON JUAN,von_juan,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,143542,143576,VON JUAN,von_juan,setzt,VVFIN,setzen,30261,,
 qd,nmg0.0,143542,143576,VON JUAN,von_juan,neue,ADJA,neu,30261,,
 qd,nmg0.0,143542,143576,VON JUAN,von_juan,Flaschen,NN,flasche,30261,,
@@ -1681,7 +1681,7 @@ qd,nmg0.0,145073,145096,VON JUAN,von_juan,Schwert,NN,schwert,30261,,
 qd,nmg0.0,145073,145096,VON JUAN,von_juan,entblößend,ADJD,entblößend,30261,,
 qd,nmg0.0,145073,145096,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,145316,145329,VON JUAN,von_juan,Zu,APPR,zu,30261,,
-qd,nmg0.0,145316,145329,VON JUAN,von_juan,Leporello,NE,leporello,30261,,
+qd,nmg0.0,145316,145329,VON JUAN,von_juan,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,145316,145329,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,145528,145578,VON JUAN,von_juan,Die,ART,der,30261,,
 qd,nmg0.0,145528,145578,VON JUAN,von_juan,Bildsäule,NN,bildsäule,30261,,
@@ -1726,7 +1726,7 @@ qd,nmg0.0,146954,147008,VON JUAN,von_juan,das,ART,der,30261,,
 qd,nmg0.0,146954,147008,VON JUAN,von_juan,Haupt,NN,haupt,30261,,
 qd,nmg0.0,146954,147008,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,147069,147082,VON JUAN,von_juan,Zu,APPR,zu,30261,,
-qd,nmg0.0,147069,147082,VON JUAN,von_juan,Leporello,NE,leporello,30261,,
+qd,nmg0.0,147069,147082,VON JUAN,von_juan,Leporello,NE,leporello,30261,,(1)
 qd,nmg0.0,147069,147082,VON JUAN,von_juan,.,$.,--,30261,,
 qd,nmg0.0,147155,147172,VON JUAN,von_juan,Donner,NE,donner,30261,,
 qd,nmg0.0,147155,147172,VON JUAN,von_juan,und,KON,und,30261,,
@@ -1761,15 +1761,15 @@ qd,nmg0.0,149330,149388,VON JUAN,von_juan,dem,ART,der,30261,,
 qd,nmg0.0,149330,149388,VON JUAN,von_juan,Dolche,NN,dolche,30261,,
 qd,nmg0.0,149330,149388,VON JUAN,von_juan,an,PTKVZ,an,30261,,
 qd,nmg0.0,149330,149388,VON JUAN,von_juan,.,$.,--,30261,,
-qd,nmg0.0,149433,149457,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Don,NE,don,30261,,
-qd,nmg0.0,149433,149457,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Juan,NE,juan,30261,,
+qd,nmg0.0,149433,149457,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Don,NE,don,30261,,(0
+qd,nmg0.0,149433,149457,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Juan,NE,juan,30261,,0)
 qd,nmg0.0,149433,149457,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,taumelt,VVFIN,taumeln,30261,,
 qd,nmg0.0,149433,149457,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,zurück,PTKVZ,zurück,30261,,
 qd,nmg0.0,149433,149457,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,.,$.,--,30261,,
 qd,nmg0.0,149684,149708,LEPORELLO,leporello,Auf,APPR,auf,30261,,
 qd,nmg0.0,149684,149708,LEPORELLO,leporello,den,ART,der,30261,,
-qd,nmg0.0,149684,149708,LEPORELLO,leporello,Don,NE,don,30261,,
-qd,nmg0.0,149684,149708,LEPORELLO,leporello,Juan,NE,juan,30261,,
+qd,nmg0.0,149684,149708,LEPORELLO,leporello,Don,NE,don,30261,,(0
+qd,nmg0.0,149684,149708,LEPORELLO,leporello,Juan,NE,juan,30261,,0)
 qd,nmg0.0,149684,149708,LEPORELLO,leporello,deutend,ADJD,deutend,30261,,
 qd,nmg0.0,150322,150335,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,Sie,PPER,sie,30261,,
 qd,nmg0.0,150322,150335,DIE BILDSÄULE DES GOUVERNEURS,die_bildsäule_des_gouverneurs,versinkt,VVFIN,versinken,30261,,
@@ -1786,15 +1786,15 @@ qd,nmg0.0,150545,150566,DER RITTER,der_ritter,Feuer,NN,feuer,30261,,
 qd,nmg0.0,150545,150566,DER RITTER,der_ritter,und,KON,und,30261,,
 qd,nmg0.0,150545,150566,DER RITTER,der_ritter,Feuerregen,NN,feuerregen,30261,,
 qd,nmg0.0,150545,150566,DER RITTER,der_ritter,.,$.,--,30261,,
-qd,nmg0.0,150825,150878,VON JUAN,von_juan,Der,ART,der,30261,,
-qd,nmg0.0,150825,150878,VON JUAN,von_juan,Ritter,NN,ritter,30261,,
+qd,nmg0.0,150825,150878,VON JUAN,von_juan,Der,ART,der,30261,,(6
+qd,nmg0.0,150825,150878,VON JUAN,von_juan,Ritter,NN,ritter,30261,,6)
 qd,nmg0.0,150825,150878,VON JUAN,von_juan,versinkt,VVFIN,versinken,30261,,
 qd,nmg0.0,150825,150878,VON JUAN,von_juan,",","$,",--,30261,,
 qd,nmg0.0,150825,150878,VON JUAN,von_juan,und,KON,und,30261,,
 qd,nmg0.0,150825,150878,VON JUAN,von_juan,reißt,VVFIN,reißen,30261,,
 qd,nmg0.0,150825,150878,VON JUAN,von_juan,den,ART,der,30261,,
-qd,nmg0.0,150825,150878,VON JUAN,von_juan,Don,NE,don,30261,,
-qd,nmg0.0,150825,150878,VON JUAN,von_juan,Juan,NE,juan,30261,,
+qd,nmg0.0,150825,150878,VON JUAN,von_juan,Don,NE,don,30261,,(0
+qd,nmg0.0,150825,150878,VON JUAN,von_juan,Juan,NE,juan,30261,,0)
 qd,nmg0.0,150825,150878,VON JUAN,von_juan,mit,APPR,mit,30261,,
 qd,nmg0.0,150825,150878,VON JUAN,von_juan,fort,PTKVZ,fort,30261,,
 qd,nmg0.0,150825,150878,VON JUAN,von_juan,.,$.,--,30261,,

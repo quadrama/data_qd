@@ -1,4 +1,5 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,rfx8.0,57,101,_stage,71,85,Der Kammerherr,der_kammerherr
 qd,rfx8.0,104,497,der_fürst,243,246,ich,der_fürst
 qd,rfx8.0,104,497,der_fürst,287,290,ich,der_fürst
 qd,rfx8.0,104,497,der_fürst,330,333,mir,der_fürst

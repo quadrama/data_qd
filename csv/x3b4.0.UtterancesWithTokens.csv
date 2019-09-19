@@ -651,8 +651,8 @@ qd,x3b4.0,4592,5282,KÖNIG PIETRO,könig_pietro,sichert,VVFIN,sichern,22690,,
 qd,x3b4.0,4592,5282,KÖNIG PIETRO,könig_pietro,"!",$.,--,22690,,
 qd,x3b4.0,5287,5322,DIE BÜRGER,die_bürger,Es,PPER,es,22690,,
 qd,x3b4.0,5287,5322,DIE BÜRGER,die_bürger,lebe,VVFIN,leben,22690,,
-qd,x3b4.0,5287,5322,DIE BÜRGER,die_bürger,Pietro,NE,pietro,22690,,
-qd,x3b4.0,5287,5322,DIE BÜRGER,die_bürger,Folchi,NE,folchi,22690,,
+qd,x3b4.0,5287,5322,DIE BÜRGER,die_bürger,Pietro,NE,pietro,22690,pietro_folchi,(4
+qd,x3b4.0,5287,5322,DIE BÜRGER,die_bürger,Folchi,NE,folchi,22690,pietro_folchi,4)
 qd,x3b4.0,5287,5322,DIE BÜRGER,die_bürger,"!",$.,--,22690,,
 qd,x3b4.0,5327,5891,ANDREA VALORI,andrea_valori,Mitbürger,NN,mitbürger,22690,,
 qd,x3b4.0,5327,5891,ANDREA VALORI,andrea_valori,"!",$.,--,22690,,
@@ -775,8 +775,8 @@ qd,x3b4.0,6054,6133,DIE BÜRGER,die_bürger,Es,PPER,es,22690,,
 qd,x3b4.0,6054,6133,DIE BÜRGER,die_bürger,lebe,VVFIN,leben,22690,,
 qd,x3b4.0,6054,6133,DIE BÜRGER,die_bürger,unser,PPOSAT,unser,22690,,
 qd,x3b4.0,6054,6133,DIE BÜRGER,die_bürger,Podesta,NN,podesta,22690,,
-qd,x3b4.0,6054,6133,DIE BÜRGER,die_bürger,Pietro,NE,pietro,22690,,
-qd,x3b4.0,6054,6133,DIE BÜRGER,die_bürger,Folchi,NE,folchi,22690,,
+qd,x3b4.0,6054,6133,DIE BÜRGER,die_bürger,Pietro,NE,pietro,22690,pietro_folchi,(4
+qd,x3b4.0,6054,6133,DIE BÜRGER,die_bürger,Folchi,NE,folchi,22690,pietro_folchi,4)
 qd,x3b4.0,6054,6133,DIE BÜRGER,die_bürger,"!",$.,--,22690,,
 qd,x3b4.0,6054,6133,DIE BÜRGER,die_bürger,Es,PPER,es,22690,,
 qd,x3b4.0,6054,6133,DIE BÜRGER,die_bürger,lebe,VVFIN,leben,22690,,
@@ -970,8 +970,8 @@ qd,x3b4.0,7188,7242,DIE BÜRGER,die_bürger,König,NN,könig,22690,,
 qd,x3b4.0,7188,7242,DIE BÜRGER,die_bürger,"!",$.,--,22690,,
 qd,x3b4.0,7188,7242,DIE BÜRGER,die_bürger,Es,PPER,es,22690,,
 qd,x3b4.0,7188,7242,DIE BÜRGER,die_bürger,lebe,VVFIN,leben,22690,,
-qd,x3b4.0,7188,7242,DIE BÜRGER,die_bürger,Pietro,NE,pietro,22690,,
-qd,x3b4.0,7188,7242,DIE BÜRGER,die_bürger,Folchi,NE,folchi,22690,,
+qd,x3b4.0,7188,7242,DIE BÜRGER,die_bürger,Pietro,NE,pietro,22690,pietro_folchi,(4
+qd,x3b4.0,7188,7242,DIE BÜRGER,die_bürger,Folchi,NE,folchi,22690,pietro_folchi,4)
 qd,x3b4.0,7188,7242,DIE BÜRGER,die_bürger,"!",$.,--,22690,,
 qd,x3b4.0,7247,7285,EINIGE BÜRGER,einige_stimmen,Es,PPER,es,22690,,
 qd,x3b4.0,7247,7285,EINIGE BÜRGER,einige_stimmen,lebe,VVFIN,leben,22690,,
@@ -982,8 +982,8 @@ qd,x3b4.0,7290,7368,DIE BÜRGER,die_bürger,Es,PPER,es,22690,,
 qd,x3b4.0,7290,7368,DIE BÜRGER,die_bürger,lebe,VVFIN,leben,22690,,
 qd,x3b4.0,7290,7368,DIE BÜRGER,die_bürger,unser,PPOSAT,unser,22690,,
 qd,x3b4.0,7290,7368,DIE BÜRGER,die_bürger,König,NN,könig,22690,,
-qd,x3b4.0,7290,7368,DIE BÜRGER,die_bürger,Pietro,NE,pietro,22690,,
-qd,x3b4.0,7290,7368,DIE BÜRGER,die_bürger,Folchi,NE,folchi,22690,,
+qd,x3b4.0,7290,7368,DIE BÜRGER,die_bürger,Pietro,NE,pietro,22690,pietro_folchi,(4
+qd,x3b4.0,7290,7368,DIE BÜRGER,die_bürger,Folchi,NE,folchi,22690,pietro_folchi,4)
 qd,x3b4.0,7290,7368,DIE BÜRGER,die_bürger,"!",$.,--,22690,,
 qd,x3b4.0,7290,7368,DIE BÜRGER,die_bürger,Es,PPER,es,22690,,
 qd,x3b4.0,7290,7368,DIE BÜRGER,die_bürger,lebe,VVFIN,leben,22690,,
@@ -1097,7 +1097,7 @@ qd,x3b4.0,7555,8054,KÖNIG PIETRO,könig_pietro,Wo,PWAV,wo,22690,,
 qd,x3b4.0,7555,8054,KÖNIG PIETRO,könig_pietro,ist,VAFIN,sein,22690,,
 qd,x3b4.0,7555,8054,KÖNIG PIETRO,könig_pietro,mein,PPOSAT,mein,22690,pietro_folchi,(4)
 qd,x3b4.0,7555,8054,KÖNIG PIETRO,könig_pietro,Sohn,NN,sohn,22690,,
-qd,x3b4.0,7555,8054,KÖNIG PIETRO,könig_pietro,Filipo,NE,filipo,22690,,
+qd,x3b4.0,7555,8054,KÖNIG PIETRO,könig_pietro,Filipo,NE,filipo,22690,filipo_folchi,(8)
 qd,x3b4.0,7555,8054,KÖNIG PIETRO,könig_pietro,?,$.,--,22690,,
 qd,x3b4.0,8059,8127,PRINZ FILIPO,prinz_filipo,Was,PWS,was,22690,,
 qd,x3b4.0,8059,8127,PRINZ FILIPO,prinz_filipo,befehlt,VVFIN,befehlen,22690,,
@@ -1243,8 +1243,8 @@ qd,x3b4.0,8890,8946,KÖNIG PIETRO,könig_pietro,ist,VAFIN,sein,22690,,
 qd,x3b4.0,8890,8946,KÖNIG PIETRO,könig_pietro,mein,PPOSAT,mein,22690,pietro_folchi,(4)
 qd,x3b4.0,8890,8946,KÖNIG PIETRO,könig_pietro,Schwiegersohn,NN,schwiegersohn,22690,,
 qd,x3b4.0,8890,8946,KÖNIG PIETRO,könig_pietro,",","$,",--,22690,,
-qd,x3b4.0,8890,8946,KÖNIG PIETRO,könig_pietro,Andrea,NE,andrea,22690,,
-qd,x3b4.0,8890,8946,KÖNIG PIETRO,könig_pietro,Valori,NE,valori,22690,,
+qd,x3b4.0,8890,8946,KÖNIG PIETRO,könig_pietro,Andrea,NE,andrea,22690,andrea_valori,(6
+qd,x3b4.0,8890,8946,KÖNIG PIETRO,könig_pietro,Valori,NE,valori,22690,andrea_valori,6)
 qd,x3b4.0,8890,8946,KÖNIG PIETRO,könig_pietro,?,$.,--,22690,,
 qd,x3b4.0,8951,9022,ANDREA VALORI,andrea_valori,Hier,ADV,hier,22690,,
 qd,x3b4.0,8951,9022,ANDREA VALORI,andrea_valori,",","$,",--,22690,,
@@ -2230,8 +2230,8 @@ qd,x3b4.0,14721,15157,KÖNIG PIETRO,könig_pietro,ablegt,VVFIN,ablegen,22690,,
 qd,x3b4.0,14721,15157,KÖNIG PIETRO,könig_pietro,",","$,",--,22690,,
 qd,x3b4.0,14721,15157,KÖNIG PIETRO,könig_pietro,meinem,PPOSAT,mein,22690,pietro_folchi,(4)
 qd,x3b4.0,14721,15157,KÖNIG PIETRO,könig_pietro,Sohne,NN,sohne,22690,,
-qd,x3b4.0,14721,15157,KÖNIG PIETRO,könig_pietro,Filipo,NE,filipo,22690,,
-qd,x3b4.0,14721,15157,KÖNIG PIETRO,könig_pietro,Folchi,NE,folchi,22690,,
+qd,x3b4.0,14721,15157,KÖNIG PIETRO,könig_pietro,Filipo,NE,filipo,22690,filipo_folchi,(8|(8)
+qd,x3b4.0,14721,15157,KÖNIG PIETRO,könig_pietro,Folchi,NE,folchi,22690,filipo_folchi,8)
 qd,x3b4.0,14721,15157,KÖNIG PIETRO,könig_pietro,",","$,",--,22690,,
 qd,x3b4.0,14721,15157,KÖNIG PIETRO,könig_pietro,der,PRELS,der,22690,,
 qd,x3b4.0,14721,15157,KÖNIG PIETRO,könig_pietro,mein,PPOSAT,mein,22690,pietro_folchi,(4)
@@ -2353,8 +2353,8 @@ qd,x3b4.0,15904,16320,BENEDETTO NARDI,benedetto_nardi,Dieser,PDAT,dieser,22690,,
 qd,x3b4.0,15904,16320,BENEDETTO NARDI,benedetto_nardi,dein,PPOSAT,dein,22690,,
 qd,x3b4.0,15904,16320,BENEDETTO NARDI,benedetto_nardi,Sohn,NN,sohn,22690,,
 qd,x3b4.0,15904,16320,BENEDETTO NARDI,benedetto_nardi,",","$,",--,22690,,
-qd,x3b4.0,15904,16320,BENEDETTO NARDI,benedetto_nardi,Pietro,NE,pietro,22690,,
-qd,x3b4.0,15904,16320,BENEDETTO NARDI,benedetto_nardi,Folchi,NE,folchi,22690,,
+qd,x3b4.0,15904,16320,BENEDETTO NARDI,benedetto_nardi,Pietro,NE,pietro,22690,pietro_folchi,(4
+qd,x3b4.0,15904,16320,BENEDETTO NARDI,benedetto_nardi,Folchi,NE,folchi,22690,pietro_folchi,4)
 qd,x3b4.0,15904,16320,BENEDETTO NARDI,benedetto_nardi,",","$,",--,22690,,
 qd,x3b4.0,15904,16320,BENEDETTO NARDI,benedetto_nardi,hetzte,VVFIN,hetzen,22690,,
 qd,x3b4.0,15904,16320,BENEDETTO NARDI,benedetto_nardi,gestern,ADV,gestern,22690,,
@@ -4131,8 +4131,8 @@ qd,x3b4.0,26809,27369,MEISTER PANDOLFO,meister_pandolfo,rüttle,VVFIN,rüttlen,2
 qd,x3b4.0,26809,27369,MEISTER PANDOLFO,meister_pandolfo,mir,PPER,sich,22690,meister_pandolfo,(13)
 qd,x3b4.0,26809,27369,MEISTER PANDOLFO,meister_pandolfo,nur,ADV,nur,22690,,
 qd,x3b4.0,26809,27369,MEISTER PANDOLFO,meister_pandolfo,auch,ADV,auch,22690,,
-qd,x3b4.0,26809,27369,MEISTER PANDOLFO,meister_pandolfo,die,ART,der,22690,,
-qd,x3b4.0,26809,27369,MEISTER PANDOLFO,meister_pandolfo,Gesellen,NN,geselle,22690,,
+qd,x3b4.0,26809,27369,MEISTER PANDOLFO,meister_pandolfo,die,ART,der,22690,die_gesellen,(17
+qd,x3b4.0,26809,27369,MEISTER PANDOLFO,meister_pandolfo,Gesellen,NN,geselle,22690,die_gesellen,17)
 qd,x3b4.0,26809,27369,MEISTER PANDOLFO,meister_pandolfo,gleich,ADV,gleich,22690,,
 qd,x3b4.0,26809,27369,MEISTER PANDOLFO,meister_pandolfo,aus,APPR,aus,22690,,
 qd,x3b4.0,26809,27369,MEISTER PANDOLFO,meister_pandolfo,dem,ART,der,22690,,
@@ -4368,8 +4368,8 @@ qd,x3b4.0,27777,28459,MEISTER PANDOLFO,meister_pandolfo,von,APPR,von,22690,,
 qd,x3b4.0,27777,28459,MEISTER PANDOLFO,meister_pandolfo,Perugia,NE,perugia,22690,,
 qd,x3b4.0,27777,28459,MEISTER PANDOLFO,meister_pandolfo,sagen,VVINF,sagen,22690,,
 qd,x3b4.0,27777,28459,MEISTER PANDOLFO,meister_pandolfo,:,$.,--,22690,,
-qd,x3b4.0,27777,28459,MEISTER PANDOLFO,meister_pandolfo,Meister,NN,meister,22690,,
-qd,x3b4.0,27777,28459,MEISTER PANDOLFO,meister_pandolfo,Pandolfo,NE,pandolfo,22690,,
+qd,x3b4.0,27777,28459,MEISTER PANDOLFO,meister_pandolfo,Meister,NN,meister,22690,meister_pandolfo,(13
+qd,x3b4.0,27777,28459,MEISTER PANDOLFO,meister_pandolfo,Pandolfo,NE,pandolfo,22690,meister_pandolfo,13)
 qd,x3b4.0,27777,28459,MEISTER PANDOLFO,meister_pandolfo,",","$,",--,22690,,
 qd,x3b4.0,27777,28459,MEISTER PANDOLFO,meister_pandolfo,seit,APPR,seit,22690,,
 qd,x3b4.0,27777,28459,MEISTER PANDOLFO,meister_pandolfo,der,ART,der,22690,,
@@ -4436,8 +4436,8 @@ qd,x3b4.0,27777,28459,MEISTER PANDOLFO,meister_pandolfo,?,$.,--,22690,,
 qd,x3b4.0,27777,28459,MEISTER PANDOLFO,meister_pandolfo,"!",$.,--,22690,,
 qd,x3b4.0,28464,28607,KÖNIG PIETRO,könig_pietro,Gut,ADJD,gut,22690,,
 qd,x3b4.0,28464,28607,KÖNIG PIETRO,könig_pietro,",","$,",--,22690,,
-qd,x3b4.0,28464,28607,KÖNIG PIETRO,könig_pietro,Meister,NN,meister,22690,,
-qd,x3b4.0,28464,28607,KÖNIG PIETRO,könig_pietro,Pandolfo,NE,pandolfo,22690,,
+qd,x3b4.0,28464,28607,KÖNIG PIETRO,könig_pietro,Meister,NN,meister,22690,meister_pandolfo,(13
+qd,x3b4.0,28464,28607,KÖNIG PIETRO,könig_pietro,Pandolfo,NE,pandolfo,22690,meister_pandolfo,13)
 qd,x3b4.0,28464,28607,KÖNIG PIETRO,könig_pietro,",","$,",--,22690,,
 qd,x3b4.0,28464,28607,KÖNIG PIETRO,könig_pietro,ich,PPER,ich,22690,pietro_folchi,(4)
 qd,x3b4.0,28464,28607,KÖNIG PIETRO,könig_pietro,bleibe,VVFIN,bleiben,22690,,
@@ -4554,8 +4554,8 @@ qd,x3b4.0,29290,29726,KÖNIG PIETRO,könig_pietro,oben,ADV,oben,22690,,
 qd,x3b4.0,29290,29726,KÖNIG PIETRO,könig_pietro,beim,APPRART,bei,22690,,
 qd,x3b4.0,29290,29726,KÖNIG PIETRO,könig_pietro,Frühtrunk,NN,frühtrunk,22690,,
 qd,x3b4.0,29290,29726,KÖNIG PIETRO,könig_pietro,und,KON,und,22690,,
-qd,x3b4.0,29290,29726,KÖNIG PIETRO,könig_pietro,die,ART,der,22690,,
-qd,x3b4.0,29290,29726,KÖNIG PIETRO,könig_pietro,Gesellen,NN,geselle,22690,,
+qd,x3b4.0,29290,29726,KÖNIG PIETRO,könig_pietro,die,ART,der,22690,die_gesellen,(17
+qd,x3b4.0,29290,29726,KÖNIG PIETRO,könig_pietro,Gesellen,NN,geselle,22690,die_gesellen,17)
 qd,x3b4.0,29290,29726,KÖNIG PIETRO,könig_pietro,schlafen,VVFIN,schlafen,22690,,
 qd,x3b4.0,29290,29726,KÖNIG PIETRO,könig_pietro,noch,ADV,noch,22690,,
 qd,x3b4.0,29290,29726,KÖNIG PIETRO,könig_pietro,.,$.,--,22690,,
@@ -4994,8 +4994,8 @@ qd,x3b4.0,31626,33382,KÖNIG PIETRO,könig_pietro,Ursachen,NN,ursache,22690,,
 qd,x3b4.0,31626,33382,KÖNIG PIETRO,könig_pietro,werde,VAFIN,werden,22690,,
 qd,x3b4.0,31626,33382,KÖNIG PIETRO,könig_pietro,ich,PPER,ich,22690,pietro_folchi,(4)
 qd,x3b4.0,31626,33382,KÖNIG PIETRO,könig_pietro,von,APPR,von,22690,,
-qd,x3b4.0,31626,33382,KÖNIG PIETRO,könig_pietro,Meister,NN,meister,22690,,
-qd,x3b4.0,31626,33382,KÖNIG PIETRO,könig_pietro,Pandolfo,NE,pandolfo,22690,,
+qd,x3b4.0,31626,33382,KÖNIG PIETRO,könig_pietro,Meister,NN,meister,22690,meister_pandolfo,(13
+qd,x3b4.0,31626,33382,KÖNIG PIETRO,könig_pietro,Pandolfo,NE,pandolfo,22690,meister_pandolfo,13)
 qd,x3b4.0,31626,33382,KÖNIG PIETRO,könig_pietro,als,APPR,als,22690,,
 qd,x3b4.0,31626,33382,KÖNIG PIETRO,könig_pietro,sein,PPOSAT,sein,22690,,
 qd,x3b4.0,31626,33382,KÖNIG PIETRO,könig_pietro,fleißigster,ADJA,fleißig,22690,,
@@ -5594,8 +5594,8 @@ qd,x3b4.0,34810,35109,KÖNIG PIETRO,könig_pietro,Kind,NN,kind,22690,,
 qd,x3b4.0,34810,35109,KÖNIG PIETRO,könig_pietro,.,$.,--,22690,,
 qd,x3b4.0,34810,35109,KÖNIG PIETRO,könig_pietro,Ich,PPER,ich,22690,pietro_folchi,(4)
 qd,x3b4.0,34810,35109,KÖNIG PIETRO,könig_pietro,höre,VVFIN,hören,22690,,
-qd,x3b4.0,34810,35109,KÖNIG PIETRO,könig_pietro,die,ART,der,22690,,
-qd,x3b4.0,34810,35109,KÖNIG PIETRO,könig_pietro,Gesellen,NN,geselle,22690,,
+qd,x3b4.0,34810,35109,KÖNIG PIETRO,könig_pietro,die,ART,der,22690,die_gesellen,(17
+qd,x3b4.0,34810,35109,KÖNIG PIETRO,könig_pietro,Gesellen,NN,geselle,22690,die_gesellen,17)
 qd,x3b4.0,34810,35109,KÖNIG PIETRO,könig_pietro,oben,ADV,oben,22690,,
 qd,x3b4.0,34810,35109,KÖNIG PIETRO,könig_pietro,trampeln,VVINF,trampeln,22690,,
 qd,x3b4.0,34810,35109,KÖNIG PIETRO,könig_pietro,und,KON,und,22690,,
@@ -6189,12 +6189,12 @@ qd,x3b4.0,38765,38874,MICHELE,michele,ihn,PPER,ihn,22690,,
 qd,x3b4.0,38765,38874,MICHELE,michele,fest,PTKVZ,fest,22690,,
 qd,x3b4.0,38765,38874,MICHELE,michele,"!",$.,--,22690,,
 qd,x3b4.0,38765,38874,MICHELE,michele,–,XY,–,22690,,
-qd,x3b4.0,38765,38874,MICHELE,michele,Meister,NN,meister,22690,,
-qd,x3b4.0,38765,38874,MICHELE,michele,Pandolfo,NE,pandolfo,22690,,
+qd,x3b4.0,38765,38874,MICHELE,michele,Meister,NN,meister,22690,meister_pandolfo,(13
+qd,x3b4.0,38765,38874,MICHELE,michele,Pandolfo,NE,pandolfo,22690,meister_pandolfo,13)
 qd,x3b4.0,38765,38874,MICHELE,michele,"!",$.,--,22690,,
 qd,x3b4.0,38765,38874,MICHELE,michele,–,XY,–,22690,,
-qd,x3b4.0,38765,38874,MICHELE,michele,Meister,NN,meister,22690,,
-qd,x3b4.0,38765,38874,MICHELE,michele,Pandolfo,NE,pandolfo,22690,,
+qd,x3b4.0,38765,38874,MICHELE,michele,Meister,NN,meister,22690,meister_pandolfo,(13
+qd,x3b4.0,38765,38874,MICHELE,michele,Pandolfo,NE,pandolfo,22690,meister_pandolfo,13)
 qd,x3b4.0,38765,38874,MICHELE,michele,"!",$.,--,22690,,
 qd,x3b4.0,38765,38874,MICHELE,michele,–,XY,–,22690,,
 qd,x3b4.0,38765,38874,MICHELE,michele,Schlagt,VVFIN,schlagen,22690,,
@@ -6265,8 +6265,8 @@ qd,x3b4.0,39301,39347,DIE GESELLEN,die_gesellen,Hört,NE,hören,22690,,
 qd,x3b4.0,39301,39347,DIE GESELLEN,die_gesellen,Ihr,PPOSAT,ihr,22690,,
 qd,x3b4.0,39301,39347,DIE GESELLEN,die_gesellen,ihn,PPER,ihn,22690,,
 qd,x3b4.0,39301,39347,DIE GESELLEN,die_gesellen,",","$,",--,22690,,
-qd,x3b4.0,39301,39347,DIE GESELLEN,die_gesellen,Meister,NN,meister,22690,,
-qd,x3b4.0,39301,39347,DIE GESELLEN,die_gesellen,Pandolfo,NE,pandolfo,22690,,
+qd,x3b4.0,39301,39347,DIE GESELLEN,die_gesellen,Meister,NN,meister,22690,meister_pandolfo,(13
+qd,x3b4.0,39301,39347,DIE GESELLEN,die_gesellen,Pandolfo,NE,pandolfo,22690,meister_pandolfo,13)
 qd,x3b4.0,39301,39347,DIE GESELLEN,die_gesellen,"!",$.,--,22690,,
 qd,x3b4.0,39352,39391,KÖNIG PIETRO,könig_pietro,Mein,PPOSAT,mein,22690,pietro_folchi,(4)
 qd,x3b4.0,39352,39391,KÖNIG PIETRO,könig_pietro,armes,ADJA,arm,22690,,
@@ -6307,8 +6307,8 @@ qd,x3b4.0,39396,39761,MEISTER PANDOLFO,meister_pandolfo,Hund,NN,hund,22690,,
 qd,x3b4.0,39396,39761,MEISTER PANDOLFO,meister_pandolfo,zum,APPRART,zu,22690,,
 qd,x3b4.0,39396,39761,MEISTER PANDOLFO,meister_pandolfo,Gericht,NN,gericht,22690,,
 qd,x3b4.0,39396,39761,MEISTER PANDOLFO,meister_pandolfo,"!",$.,--,22690,,
-qd,x3b4.0,39396,39761,MEISTER PANDOLFO,meister_pandolfo,Der,ART,der,22690,,
-qd,x3b4.0,39396,39761,MEISTER PANDOLFO,meister_pandolfo,Landstreicher,NN,landstreicher,22690,,
+qd,x3b4.0,39396,39761,MEISTER PANDOLFO,meister_pandolfo,Der,ART,der,22690,ein_landstreicher,(12
+qd,x3b4.0,39396,39761,MEISTER PANDOLFO,meister_pandolfo,Landstreicher,NN,landstreicher,22690,ein_landstreicher,12)
 qd,x3b4.0,39396,39761,MEISTER PANDOLFO,meister_pandolfo,verjagt,VVFIN,verjagen,22690,,
 qd,x3b4.0,39396,39761,MEISTER PANDOLFO,meister_pandolfo,mir,PPER,sich,22690,meister_pandolfo,(13)
 qd,x3b4.0,39396,39761,MEISTER PANDOLFO,meister_pandolfo,die,ART,der,22690,,
@@ -7656,8 +7656,8 @@ qd,x3b4.0,47927,50055,DER VERTEIDIGER,der_verteidiger,",","$,",--,22690,,
 qd,x3b4.0,47927,50055,DER VERTEIDIGER,der_verteidiger,dessen,PRELAT,der,22690,,
 qd,x3b4.0,47927,50055,DER VERTEIDIGER,der_verteidiger,glaube,VVFIN,glauben,22690,,
 qd,x3b4.0,47927,50055,DER VERTEIDIGER,der_verteidiger,ich,PPER,ich,22690,der_verteidiger,(21)
-qd,x3b4.0,47927,50055,DER VERTEIDIGER,der_verteidiger,Meister,NN,meister,22690,,
-qd,x3b4.0,47927,50055,DER VERTEIDIGER,der_verteidiger,Pandolfo,NE,pandolfo,22690,,
+qd,x3b4.0,47927,50055,DER VERTEIDIGER,der_verteidiger,Meister,NN,meister,22690,meister_pandolfo,(13
+qd,x3b4.0,47927,50055,DER VERTEIDIGER,der_verteidiger,Pandolfo,NE,pandolfo,22690,meister_pandolfo,13)
 qd,x3b4.0,47927,50055,DER VERTEIDIGER,der_verteidiger,in,APPR,in,22690,,
 qd,x3b4.0,47927,50055,DER VERTEIDIGER,der_verteidiger,unser,PPOSAT,unser,22690,,
 qd,x3b4.0,47927,50055,DER VERTEIDIGER,der_verteidiger,aller,PIDAT,aller,22690,,
@@ -9441,7 +9441,7 @@ qd,x3b4.0,60134,61308,KÖNIG PIETRO,könig_pietro,Mensch,NN,mensch,22690,,
 qd,x3b4.0,60134,61308,KÖNIG PIETRO,könig_pietro,gegen,APPR,gegen,22690,,
 qd,x3b4.0,60134,61308,KÖNIG PIETRO,könig_pietro,Mensch,NN,mensch,22690,,
 qd,x3b4.0,60134,61308,KÖNIG PIETRO,könig_pietro,"!",$.,--,22690,,
-qd,x3b4.0,61313,61395,KÖNIG PIETRO,könig_pietro,Alma,NE,Alma,22690,,
+qd,x3b4.0,61313,61395,KÖNIG PIETRO,könig_pietro,Alma,NE,Alma,22690,prinzessin_alma,(1)
 qd,x3b4.0,61313,61395,KÖNIG PIETRO,könig_pietro,?,$.,--,22690,,
 qd,x3b4.0,61313,61395,KÖNIG PIETRO,könig_pietro,"!",$.,--,22690,,
 qd,x3b4.0,61313,61395,KÖNIG PIETRO,könig_pietro,Mein,PPOSAT,mein,22690,pietro_folchi,(4)
@@ -11074,7 +11074,7 @@ qd,x3b4.0,70603,70941,DER KUNSTREITER,der_kunstreiter,wird,VAFIN,werden,22690,,
 qd,x3b4.0,70603,70941,DER KUNSTREITER,der_kunstreiter,.,$.,--,22690,,
 qd,x3b4.0,70603,70941,DER KUNSTREITER,der_kunstreiter,–,XY,–,22690,,
 qd,x3b4.0,70603,70941,DER KUNSTREITER,der_kunstreiter,Zu,APPR,zu,22690,,
-qd,x3b4.0,70603,70941,DER KUNSTREITER,der_kunstreiter,Alma,NE,Alma,22690,,
+qd,x3b4.0,70603,70941,DER KUNSTREITER,der_kunstreiter,Alma,NE,Alma,22690,prinzessin_alma,(1)
 qd,x3b4.0,70603,70941,DER KUNSTREITER,der_kunstreiter,.,$.,--,22690,,
 qd,x3b4.0,70603,70941,DER KUNSTREITER,der_kunstreiter,Nun,ADV,nun,22690,,
 qd,x3b4.0,70603,70941,DER KUNSTREITER,der_kunstreiter,",","$,",--,22690,,
@@ -11500,7 +11500,7 @@ qd,x3b4.0,73959,74869,DIE KUPPLERIN,die_kupplerin,Welt,NN,welt,22690,,
 qd,x3b4.0,73959,74869,DIE KUPPLERIN,die_kupplerin,findet,VVFIN,finden,22690,,
 qd,x3b4.0,73959,74869,DIE KUPPLERIN,die_kupplerin,.,$.,--,22690,,
 qd,x3b4.0,73959,74869,DIE KUPPLERIN,die_kupplerin,Zu,APPR,zu,22690,,
-qd,x3b4.0,73959,74869,DIE KUPPLERIN,die_kupplerin,Alma,NE,Alma,22690,,
+qd,x3b4.0,73959,74869,DIE KUPPLERIN,die_kupplerin,Alma,NE,Alma,22690,prinzessin_alma,(1)
 qd,x3b4.0,73959,74869,DIE KUPPLERIN,die_kupplerin,.,$.,--,22690,,
 qd,x3b4.0,73959,74869,DIE KUPPLERIN,die_kupplerin,Zier,NE,zier,22690,,
 qd,x3b4.0,73959,74869,DIE KUPPLERIN,die_kupplerin,dich,PRF,dich,22690,,
@@ -11637,7 +11637,7 @@ qd,x3b4.0,74874,75598,KÖNIG PIETRO,könig_pietro,Geld,NN,geld,22690,,
 qd,x3b4.0,74874,75598,KÖNIG PIETRO,könig_pietro,.,$.,--,22690,,
 qd,x3b4.0,74874,75598,KÖNIG PIETRO,könig_pietro,–,XY,–,22690,,
 qd,x3b4.0,74874,75598,KÖNIG PIETRO,könig_pietro,Zu,APPR,zu,22690,,
-qd,x3b4.0,74874,75598,KÖNIG PIETRO,könig_pietro,Alma,NE,Alma,22690,,
+qd,x3b4.0,74874,75598,KÖNIG PIETRO,könig_pietro,Alma,NE,Alma,22690,prinzessin_alma,(1)
 qd,x3b4.0,74874,75598,KÖNIG PIETRO,könig_pietro,.,$.,--,22690,,
 qd,x3b4.0,74874,75598,KÖNIG PIETRO,könig_pietro,Das,ART,der,22690,,
 qd,x3b4.0,74874,75598,KÖNIG PIETRO,könig_pietro,alberne,ADJA,albern,22690,,
@@ -13846,7 +13846,7 @@ qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,königlichen
 qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,Hoheit,NN,hoheit,22690,,
 qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,dem,ART,der,22690,,
 qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,Erbprinzen,NN,erbprinz,22690,,
-qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,Filipo,NE,filipo,22690,,
+qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,Filipo,NE,filipo,22690,filipo_folchi,(8)
 qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,"!",$.,--,22690,,
 qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,Hast,VAFIN,haben,22690,,
 qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,du,PPER,du,22690,,
@@ -13866,7 +13866,7 @@ qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,stellen,VVIN
 qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,lassen,VVINF,lassen,22690,,
 qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,"!",$.,--,22690,,
 qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,Zu,APPR,zu,22690,,
-qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,Alma,NE,Alma,22690,,
+qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,Alma,NE,Alma,22690,prinzessin_alma,(1)
 qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,.,$.,--,22690,,
 qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,In,APPR,in,22690,,
 qd,x3b4.0,89703,90648,DER THEATERBESITZER,der_erste_theaterbesitzer,dem,ART,der,22690,,
@@ -15525,7 +15525,7 @@ qd,x3b4.0,100584,100824,KÖNIG PIETRO,könig_pietro,zu,PTKZU,zu,22690,,
 qd,x3b4.0,100584,100824,KÖNIG PIETRO,könig_pietro,finden,VVINF,finden,22690,,
 qd,x3b4.0,100584,100824,KÖNIG PIETRO,könig_pietro,"!",$.,--,22690,,
 qd,x3b4.0,100584,100824,KÖNIG PIETRO,könig_pietro,Zu,APPR,zu,22690,,
-qd,x3b4.0,100584,100824,KÖNIG PIETRO,könig_pietro,Alma,NE,Alma,22690,,
+qd,x3b4.0,100584,100824,KÖNIG PIETRO,könig_pietro,Alma,NE,Alma,22690,prinzessin_alma,(1)
 qd,x3b4.0,100584,100824,KÖNIG PIETRO,könig_pietro,.,$.,--,22690,,
 qd,x3b4.0,100584,100824,KÖNIG PIETRO,könig_pietro,Es,PPER,es,22690,,
 qd,x3b4.0,100584,100824,KÖNIG PIETRO,könig_pietro,tut,VVFIN,tun,22690,,
@@ -16787,7 +16787,7 @@ qd,x3b4.0,109403,109623,KÖNIG PIETRO,könig_pietro,Blick,NN,blick,22690,,
 qd,x3b4.0,109403,109623,KÖNIG PIETRO,könig_pietro,getäuscht,VVPP,täuschen,22690,,
 qd,x3b4.0,109403,109623,KÖNIG PIETRO,könig_pietro,"!",$.,--,22690,,
 qd,x3b4.0,109403,109623,KÖNIG PIETRO,könig_pietro,Zu,APPR,zu,22690,,
-qd,x3b4.0,109403,109623,KÖNIG PIETRO,könig_pietro,Alma,NE,Alma,22690,,
+qd,x3b4.0,109403,109623,KÖNIG PIETRO,könig_pietro,Alma,NE,Alma,22690,prinzessin_alma,(1)
 qd,x3b4.0,109403,109623,KÖNIG PIETRO,könig_pietro,.,$.,--,22690,,
 qd,x3b4.0,109403,109623,KÖNIG PIETRO,könig_pietro,Deine,ADJA,dein,22690,,
 qd,x3b4.0,109403,109623,KÖNIG PIETRO,könig_pietro,verwegenen,ADJA,verwegen,22690,,
@@ -17289,7 +17289,7 @@ qd,x3b4.0,112631,112814,PRINZ FILIPO,prinz_filipo,werde,VAFIN,werden,22690,,
 qd,x3b4.0,112631,112814,PRINZ FILIPO,prinz_filipo,",","$,",--,22690,,
 qd,x3b4.0,112631,112814,PRINZ FILIPO,prinz_filipo,als,KOUS,als,22690,,
 qd,x3b4.0,112631,112814,PRINZ FILIPO,prinz_filipo,Donna,NE,donna,22690,,
-qd,x3b4.0,112631,112814,PRINZ FILIPO,prinz_filipo,Alma,NE,Alma,22690,,
+qd,x3b4.0,112631,112814,PRINZ FILIPO,prinz_filipo,Alma,NE,Alma,22690,prinzessin_alma,(1)
 qd,x3b4.0,112631,112814,PRINZ FILIPO,prinz_filipo,",","$,",--,22690,,
 qd,x3b4.0,112631,112814,PRINZ FILIPO,prinz_filipo,die,ART,der,22690,,
 qd,x3b4.0,112631,112814,PRINZ FILIPO,prinz_filipo,Tochter,NN,tochter,22690,,
@@ -17733,7 +17733,7 @@ qd,x3b4.0,115480,115541,PRINZ FILIPO,prinz_filipo,Das,PDS,der,22690,,
 qd,x3b4.0,115480,115541,PRINZ FILIPO,prinz_filipo,wird,VAFIN,werden,22690,,
 qd,x3b4.0,115480,115541,PRINZ FILIPO,prinz_filipo,sich,PRF,sich,22690,,
 qd,x3b4.0,115480,115541,PRINZ FILIPO,prinz_filipo,Donna,NE,donna,22690,,
-qd,x3b4.0,115480,115541,PRINZ FILIPO,prinz_filipo,Alma,NE,Alma,22690,,
+qd,x3b4.0,115480,115541,PRINZ FILIPO,prinz_filipo,Alma,NE,Alma,22690,prinzessin_alma,(1)
 qd,x3b4.0,115480,115541,PRINZ FILIPO,prinz_filipo,nimmermehr,NE,nimmermehr,22690,,
 qd,x3b4.0,115480,115541,PRINZ FILIPO,prinz_filipo,befehlen,VVINF,befehlen,22690,,
 qd,x3b4.0,115480,115541,PRINZ FILIPO,prinz_filipo,lassen,VVINF,lassen,22690,,
@@ -18787,7 +18787,7 @@ qd,x3b4.0,121664,121704,PRINZ FILIPO,prinz_filipo,Eure,NE,euer,22690,,
 qd,x3b4.0,121664,121704,PRINZ FILIPO,prinz_filipo,Reden,NN,rede,22690,,
 qd,x3b4.0,121664,121704,PRINZ FILIPO,prinz_filipo,",","$,",--,22690,,
 qd,x3b4.0,121664,121704,PRINZ FILIPO,prinz_filipo,Donna,NE,donna,22690,,
-qd,x3b4.0,121664,121704,PRINZ FILIPO,prinz_filipo,Alma,NE,Alma,22690,,
+qd,x3b4.0,121664,121704,PRINZ FILIPO,prinz_filipo,Alma,NE,Alma,22690,prinzessin_alma,(1)
 qd,x3b4.0,121664,121704,PRINZ FILIPO,prinz_filipo,"!",$.,--,22690,,
 qd,x3b4.0,121709,121737,ALMA,alma,Er,PPER,er,22690,,
 qd,x3b4.0,121709,121737,ALMA,alma,ist,VAFIN,sein,22690,,
@@ -18850,7 +18850,7 @@ qd,x3b4.0,122017,122076,PRINZ FILIPO,prinz_filipo,König,NN,könig,22690,,
 qd,x3b4.0,122017,122076,PRINZ FILIPO,prinz_filipo,Nicolos,NE,nicolo,22690,,
 qd,x3b4.0,122017,122076,PRINZ FILIPO,prinz_filipo,Tochter,NN,tochter,22690,,
 qd,x3b4.0,122017,122076,PRINZ FILIPO,prinz_filipo,nicht,PTKNEG,nicht,22690,,
-qd,x3b4.0,122017,122076,PRINZ FILIPO,prinz_filipo,Alma,NE,Alma,22690,,
+qd,x3b4.0,122017,122076,PRINZ FILIPO,prinz_filipo,Alma,NE,Alma,22690,prinzessin_alma,(1)
 qd,x3b4.0,122017,122076,PRINZ FILIPO,prinz_filipo,?,$.,--,22690,,
 qd,x3b4.0,122081,122147,KÖNIG PIETRO,könig_pietro,Tausend,ADJD,tausend,22690,,
 qd,x3b4.0,122081,122147,KÖNIG PIETRO,könig_pietro,Kinder,NN,kind,22690,,
@@ -19026,7 +19026,7 @@ qd,x3b4.0,122858,123035,ALMA,alma,"!",$.,--,22690,,
 qd,x3b4.0,123041,123143,PRINZ FILIPO,prinz_filipo,Geht,VVFIN,gehen,22690,,
 qd,x3b4.0,123041,123143,PRINZ FILIPO,prinz_filipo,",","$,",--,22690,,
 qd,x3b4.0,123041,123143,PRINZ FILIPO,prinz_filipo,Donna,NE,donna,22690,,
-qd,x3b4.0,123041,123143,PRINZ FILIPO,prinz_filipo,Alma,NE,Alma,22690,,
+qd,x3b4.0,123041,123143,PRINZ FILIPO,prinz_filipo,Alma,NE,Alma,22690,prinzessin_alma,(1)
 qd,x3b4.0,123041,123143,PRINZ FILIPO,prinz_filipo,"!",$.,--,22690,,
 qd,x3b4.0,123041,123143,PRINZ FILIPO,prinz_filipo,Die,ART,der,22690,,
 qd,x3b4.0,123041,123143,PRINZ FILIPO,prinz_filipo,Kraft,NN,kraft,22690,,
@@ -19238,7 +19238,7 @@ qd,x3b4.0,124147,124190,PRINZ FILIPO,prinz_filipo,Euren,NE,euren,22690,,
 qd,x3b4.0,124147,124190,PRINZ FILIPO,prinz_filipo,Schmerz,NN,schmerz,22690,,
 qd,x3b4.0,124147,124190,PRINZ FILIPO,prinz_filipo,",","$,",--,22690,,
 qd,x3b4.0,124147,124190,PRINZ FILIPO,prinz_filipo,Donna,NE,donna,22690,,
-qd,x3b4.0,124147,124190,PRINZ FILIPO,prinz_filipo,Alma,NE,Alma,22690,,
+qd,x3b4.0,124147,124190,PRINZ FILIPO,prinz_filipo,Alma,NE,Alma,22690,prinzessin_alma,(1)
 qd,x3b4.0,124147,124190,PRINZ FILIPO,prinz_filipo,"!",$.,--,22690,,
 qd,x3b4.0,124195,124335,KÖNIG PIETRO,könig_pietro,Ich,PPER,ich,22690,pietro_folchi,(4)
 qd,x3b4.0,124195,124335,KÖNIG PIETRO,könig_pietro,will,VMFIN,wollen,22690,,

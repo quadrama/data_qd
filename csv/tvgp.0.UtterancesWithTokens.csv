@@ -328,7 +328,7 @@ qd,tvgp.0,2266,2303,MOSSINO,mossino,.,$.,--,512,,
 qd,tvgp.0,2308,2369,MARIKANNO,marikanno,Und,KON,und,512,,
 qd,tvgp.0,2308,2369,MARIKANNO,marikanno,da,ADV,da,512,,
 qd,tvgp.0,2308,2369,MARIKANNO,marikanno,schimpft,VVFIN,schimpfen,512,,
-qd,tvgp.0,2308,2369,MARIKANNO,marikanno,Kefinska,NE,kefinska,512,,
+qd,tvgp.0,2308,2369,MARIKANNO,marikanno,Kefinska,NE,kefinska,512,kefinska,(3)
 qd,tvgp.0,2308,2369,MARIKANNO,marikanno,noch,ADV,noch,512,,
 qd,tvgp.0,2308,2369,MARIKANNO,marikanno,über,APPR,über,512,,
 qd,tvgp.0,2308,2369,MARIKANNO,marikanno,die,ART,der,512,,

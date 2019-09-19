@@ -1,4 +1,5 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,qd27.0,244,890,_stage,262,269,Claudio,claudio
 qd,qd27.0,893,7469,claudio,1387,1393,meiner,claudio
 qd,qd27.0,893,7469,claudio,2376,2379,ich,claudio
 qd,qd27.0,893,7469,claudio,2464,2468,mein,claudio
@@ -19,6 +20,7 @@ qd,qd27.0,893,7469,claudio,4056,4060,mich,claudio
 qd,qd27.0,893,7469,claudio,4062,4065,ich,claudio
 qd,qd27.0,893,7469,claudio,4158,4161,Ich,claudio
 qd,qd27.0,893,7469,claudio,4227,4230,ich,claudio
+qd,qd27.0,4272,4319,_stage,4276,4282,Diener,diener
 qd,qd27.0,893,7469,claudio,4349,4353,mich,claudio
 qd,qd27.0,893,7469,claudio,4413,4416,ich,claudio
 qd,qd27.0,893,7469,claudio,4422,4426,mich,claudio
@@ -48,6 +50,7 @@ qd,qd27.0,893,7469,claudio,6797,6800,Ich,claudio
 qd,qd27.0,893,7469,claudio,6808,6812,mich,claudio
 qd,qd27.0,893,7469,claudio,7224,7227,ich,claudio
 qd,qd27.0,893,7469,claudio,7337,7340,ich,claudio
+qd,qd27.0,7366,7469,_stage,7370,7376,Diener,diener
 qd,qd27.0,7682,7767,diener,7706,7709,ich,diener
 qd,qd27.0,7795,7821,diener,7803,7806,Ich,diener
 qd,qd27.0,7826,7935,claudio,7923,7927,mich,claudio
@@ -77,7 +80,10 @@ qd,qd27.0,8916,12006,claudio,10558,10562,mein,claudio
 qd,qd27.0,8916,12006,claudio,11089,11093,mich,claudio
 qd,qd27.0,8916,12006,claudio,11118,11121,ich,claudio
 qd,qd27.0,8916,12006,claudio,11355,11358,Ich,claudio
+qd,qd27.0,11399,11615,_stage,11495,11502,der Tod,der_tod
+qd,qd27.0,11399,11615,_stage,11571,11578,Claudio,claudio
 qd,qd27.0,8916,12006,claudio,11628,11632,mich,claudio
+qd,qd27.0,8916,12006,claudio,11818,11825,der Tod,der_tod
 qd,qd27.0,8916,12006,claudio,11848,11851,Ich,claudio
 qd,qd27.0,8916,12006,claudio,11860,11864,mich,claudio
 qd,qd27.0,8916,12006,claudio,11875,11878,Ich,claudio
@@ -133,6 +139,9 @@ qd,qd27.0,14550,16276,claudio,16071,16074,ich,claudio
 qd,qd27.0,14550,16276,claudio,16079,16082,ich,claudio
 qd,qd27.0,14550,16276,claudio,16104,16107,ich,claudio
 qd,qd27.0,16282,17011,der_tod,16318,16321,ich,der_tod
+qd,qd27.0,16559,17011,_stage,16559,16566,Der Tod,der_tod
+qd,qd27.0,16559,17011,_stage,16670,16677,Claudio,claudio
+qd,qd27.0,16559,17011,_stage,16737,16747,die Mutter,die_mutter
 qd,qd27.0,17016,18357,die_mutter,17059,17062,ich,die_mutter
 qd,qd27.0,17016,18357,die_mutter,17151,17157,meinem,die_mutter
 qd,qd27.0,17016,18357,die_mutter,17479,17482,ich,die_mutter
@@ -147,6 +156,7 @@ qd,qd27.0,18736,18776,der_tod,18758,18762,mein,der_tod
 qd,qd27.0,18781,19297,claudio,18840,18843,ich,claudio
 qd,qd27.0,18781,19297,claudio,18874,18880,meines,claudio
 qd,qd27.0,18781,19297,claudio,18980,18984,mich,claudio
+qd,qd27.0,19064,19112,_stage,19064,19071,Der Tod,der_tod
 qd,qd27.0,19302,21525,das_junge_mädchen,19389,19392,mir,das_junge_mädchen
 qd,qd27.0,19302,21525,das_junge_mädchen,19462,19465,Ich,das_junge_mädchen
 qd,qd27.0,19302,21525,das_junge_mädchen,19571,19576,meine,das_junge_mädchen
@@ -168,6 +178,8 @@ qd,qd27.0,19302,21525,das_junge_mädchen,20746,20749,Ich,das_junge_mädchen
 qd,qd27.0,19302,21525,das_junge_mädchen,20946,20949,ich,das_junge_mädchen
 qd,qd27.0,19302,21525,das_junge_mädchen,20950,20954,mich,das_junge_mädchen
 qd,qd27.0,19302,21525,das_junge_mädchen,20985,20988,ich,das_junge_mädchen
+qd,qd27.0,21197,21292,_stage,21210,21217,Claudio,claudio
+qd,qd27.0,21296,21525,_stage,21498,21505,Claudio,claudio
 qd,qd27.0,21530,24322,der_mann,21689,21692,mir,der_mann
 qd,qd27.0,21530,24322,der_mann,21733,21737,mich,der_mann
 qd,qd27.0,21530,24322,der_mann,21751,21754,Ich,der_mann
@@ -213,3 +225,5 @@ qd,qd27.0,24327,26245,claudio,26002,26005,ich,claudio
 qd,qd27.0,24327,26245,claudio,26019,26022,ich,claudio
 qd,qd27.0,24327,26245,claudio,26028,26031,ich,claudio
 qd,qd27.0,24327,26245,claudio,26127,26130,ich,claudio
+qd,qd27.0,26589,26734,_stage,26656,26666,die Mutter,die_mutter
+qd,qd27.0,26589,26734,_stage,26707,26714,Claudio,claudio

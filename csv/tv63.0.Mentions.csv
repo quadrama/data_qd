@@ -32,6 +32,9 @@ qd,tv63.0,5255,5309,zibólko,5264,5267,Ich,zibólko
 qd,tv63.0,5522,5635,susanne,5553,5556,ich,susanne
 qd,tv63.0,5522,5635,susanne,5610,5613,Ich,susanne
 qd,tv63.0,5640,5750,zibólko,5650,5653,Ich,zibólko
+qd,tv63.0,5640,5750,zibólko,5729,5736,Susanne,susanne
+qd,tv63.0,5755,5801,napoleon,5793,5800,Susanne,susanne
+qd,tv63.0,5870,5940,_stage,5891,5898,Susanne,susanne
 qd,tv63.0,6231,6354,susanne,6268,6271,Ich,susanne
 qd,tv63.0,6231,6354,susanne,6304,6307,Ich,susanne
 qd,tv63.0,6422,7295,susanne,6436,6440,mein,susanne
@@ -41,12 +44,19 @@ qd,tv63.0,6422,7295,susanne,6556,6559,Ich,susanne
 qd,tv63.0,6422,7295,susanne,6598,6601,ich,susanne
 qd,tv63.0,6422,7295,susanne,6641,6645,mein,susanne
 qd,tv63.0,6422,7295,susanne,6668,6672,mein,susanne
+qd,tv63.0,6716,7295,_stage,6786,6793,Susanne,susanne
 qd,tv63.0,7300,7447,susanne,7327,7330,mir,susanne
 qd,tv63.0,7300,7447,susanne,7361,7365,Mein,susanne
+qd,tv63.0,7452,7530,napoleon,7497,7504,Susanne,susanne
 qd,tv63.0,7452,7530,napoleon,7506,7509,ich,napoleon
 qd,tv63.0,7535,7573,susanne,7550,7555,meine,susanne
+qd,tv63.0,7602,7706,_stage,7602,7609,Susanne,susanne
 qd,tv63.0,7711,7949,susanne,7725,7728,mir,susanne
+qd,tv63.0,7768,7949,_stage,7833,7840,Susanne,susanne
+qd,tv63.0,7954,7994,napoleon,7965,7972,Susanne,susanne
 qd,tv63.0,7999,8122,susanne,8032,8035,ich,susanne
+qd,tv63.0,8127,9832,zibólko,8150,8157,Susanne,susanne
+qd,tv63.0,8127,9832,zibólko,8205,8212,Susanne,susanne
 qd,tv63.0,8127,9832,zibólko,8309,8313,mich,zibólko
 qd,tv63.0,8127,9832,zibólko,8349,8352,ich,zibólko
 qd,tv63.0,8127,9832,zibólko,8436,8439,Ich,zibólko
@@ -54,9 +64,12 @@ qd,tv63.0,8127,9832,zibólko,8483,8486,ich,zibólko
 qd,tv63.0,9837,10038,susanne,9905,9908,ich,susanne
 qd,tv63.0,9837,10038,susanne,9919,9922,ich,susanne
 qd,tv63.0,9837,10038,susanne,10024,10027,mir,susanne
+qd,tv63.0,10043,10204,zibólko,10053,10060,Susanne,susanne
 qd,tv63.0,10043,10204,zibólko,10130,10133,ich,zibólko
+qd,tv63.0,10209,10377,napoleon,10279,10286,Susanne,susanne
 qd,tv63.0,10382,10637,zibólko,10505,10508,ich,zibólko
 qd,tv63.0,10382,10637,zibólko,10562,10565,Ich,zibólko
+qd,tv63.0,10700,10760,zibólko,10710,10717,Susanne,susanne
 qd,tv63.0,10983,11811,zibólko,11551,11554,ich,zibólko
 qd,tv63.0,10983,11811,zibólko,11604,11607,mir,zibólko
 qd,tv63.0,10983,11811,zibólko,11612,11615,Ich,zibólko
@@ -65,3 +78,4 @@ qd,tv63.0,10983,11811,zibólko,11737,11740,Ich,zibólko
 qd,tv63.0,10983,11811,zibólko,11753,11756,Ich,zibólko
 qd,tv63.0,12029,12210,zibólko,12192,12196,mein,zibólko
 qd,tv63.0,12272,12820,zibólko,12523,12526,ich,zibólko
+qd,tv63.0,12547,12809,_stage,12547,12554,Susanne,susanne

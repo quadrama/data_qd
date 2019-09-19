@@ -57,6 +57,7 @@ qd,nm24.0,10094,10631,fräulein_karoline,10341,10344,ich,fräulein_karoline
 qd,nm24.0,10094,10631,fräulein_karoline,10369,10372,ich,fräulein_karoline
 qd,nm24.0,10094,10631,fräulein_karoline,10458,10461,mir,fräulein_karoline
 qd,nm24.0,10094,10631,fräulein_karoline,10560,10566,meiner,fräulein_karoline
+qd,nm24.0,10769,10819,_stage,10805,10807,Dr,dr
 qd,nm24.0,10822,10990,dr,10878,10881,ich,dr
 qd,nm24.0,10822,10990,dr,10946,10949,ich,dr
 qd,nm24.0,10995,11150,fräulein_amalie,11066,11071,meine,fräulein_amalie
@@ -144,6 +145,8 @@ qd,nm24.0,23159,23637,fräulein_karoline,23420,23423,ich,fräulein_karoline
 qd,nm24.0,23159,23637,fräulein_karoline,23424,23427,mir,fräulein_karoline
 qd,nm24.0,23159,23637,fräulein_karoline,23474,23477,ich,fräulein_karoline
 qd,nm24.0,23159,23637,fräulein_karoline,23547,23550,ich,fräulein_karoline
+qd,nm24.0,23688,23740,_stage,23688,23707,Frau von Tiefenborn,frau_von_tiefenborn
+qd,nm24.0,23688,23740,_stage,23726,23728,Dr,dr
 qd,nm24.0,24115,24195,fräulein_amalie,24152,24155,Ich,fräulein_amalie
 qd,nm24.0,24200,24477,frau_von_tiefenborn,24439,24442,mir,frau_von_tiefenborn
 qd,nm24.0,24665,24728,frau_von_tiefenborn,24693,24696,mir,frau_von_tiefenborn
@@ -151,6 +154,8 @@ qd,nm24.0,24896,25058,frau_von_tiefenborn,24918,24921,Ich,frau_von_tiefenborn
 qd,nm24.0,24896,25058,frau_von_tiefenborn,24937,24940,ich,frau_von_tiefenborn
 qd,nm24.0,25063,25194,fräulein_amalie,25101,25104,ich,fräulein_amalie
 qd,nm24.0,25063,25194,fräulein_amalie,25147,25150,Ich,fräulein_amalie
+qd,nm24.0,25245,25337,_stage,25245,25264,Frau von Tiefenborn,frau_von_tiefenborn
+qd,nm24.0,25245,25337,_stage,25323,25325,Dr,dr
 qd,nm24.0,25340,25583,frau_von_tiefenborn,25377,25382,meine,frau_von_tiefenborn
 qd,nm24.0,25340,25583,frau_von_tiefenborn,25467,25470,ich,frau_von_tiefenborn
 qd,nm24.0,25340,25583,frau_von_tiefenborn,25512,25516,mich,frau_von_tiefenborn
@@ -182,8 +187,10 @@ qd,nm24.0,28697,28761,dr,28713,28716,Ich,dr
 qd,nm24.0,28766,28867,frau_von_tiefenborn,28792,28795,ich,frau_von_tiefenborn
 qd,nm24.0,28927,29093,frau_von_tiefenborn,28960,28964,mich,frau_von_tiefenborn
 qd,nm24.0,28927,29093,frau_von_tiefenborn,28987,28990,Ich,frau_von_tiefenborn
+qd,nm24.0,29144,29166,_stage,29157,29165,Heinrich,heinrich
 qd,nm24.0,29289,29475,frau_von_tiefenborn,29328,29331,ich,frau_von_tiefenborn
 qd,nm24.0,29289,29475,frau_von_tiefenborn,29344,29350,meinem,frau_von_tiefenborn
+qd,nm24.0,29540,29578,_stage,29557,29577,Herr von Kaltenbrunn,herr_von_kaltenbrunn
 qd,nm24.0,29658,29941,fräulein_amalie,29866,29869,Ich,fräulein_amalie
 qd,nm24.0,29947,30092,herr_von_kaltenbrunn,30008,30012,mein,herr_von_kaltenbrunn
 qd,nm24.0,29947,30092,herr_von_kaltenbrunn,30028,30031,Ich,herr_von_kaltenbrunn
@@ -264,24 +271,33 @@ qd,nm24.0,37937,38131,fräulein_karoline,38032,38035,ich,fräulein_karoline
 qd,nm24.0,37937,38131,fräulein_karoline,38073,38076,mir,fräulein_karoline
 qd,nm24.0,38340,38499,fräulein_karoline,38400,38403,mir,fräulein_karoline
 qd,nm24.0,38340,38499,fräulein_karoline,38457,38461,mich,fräulein_karoline
+qd,nm24.0,38549,38625,_stage,38585,38605,Herr von Kaltenbrunn,herr_von_kaltenbrunn
+qd,nm24.0,38549,38625,_stage,38607,38624,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,38628,38798,herr_von_kreuzweg,38772,38776,mein,herr_von_kreuzweg
+qd,nm24.0,38628,38798,herr_von_kreuzweg,38777,38797,Herr von Kaltenbrunn,herr_von_kaltenbrunn
 qd,nm24.0,38803,38965,herr_von_kaltenbrunn,38855,38859,mein,herr_von_kaltenbrunn
+qd,nm24.0,38803,38965,herr_von_kaltenbrunn,38860,38877,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,38803,38965,herr_von_kaltenbrunn,38883,38886,ich,herr_von_kaltenbrunn
 qd,nm24.0,38803,38965,herr_von_kaltenbrunn,38917,38920,Ich,herr_von_kaltenbrunn
 qd,nm24.0,38970,39073,herr_von_kreuzweg,38990,38993,Ich,herr_von_kreuzweg
 qd,nm24.0,38970,39073,herr_von_kreuzweg,39045,39049,mich,herr_von_kreuzweg
 qd,nm24.0,39267,39329,herr_von_kreuzweg,39287,39291,Mich,herr_von_kreuzweg
 qd,nm24.0,39334,39478,herr_von_kaltenbrunn,39373,39376,ich,herr_von_kaltenbrunn
+qd,nm24.0,39483,39749,fräulein_amalie,39708,39725,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,39754,39947,herr_von_kreuzweg,39812,39815,Ich,herr_von_kreuzweg
 qd,nm24.0,39754,39947,herr_von_kreuzweg,39888,39891,ich,herr_von_kreuzweg
+qd,nm24.0,40071,40168,herr_von_kreuzweg,40112,40131,Herr von Ziegendorf,herr_von_ziegendorf
 qd,nm24.0,40174,40336,herr_von_kaltenbrunn,40205,40208,ich,herr_von_kaltenbrunn
 qd,nm24.0,40174,40336,herr_von_kaltenbrunn,40272,40278,meinen,herr_von_kaltenbrunn
 qd,nm24.0,40342,40633,fräulein_amalie,40364,40367,ich,fräulein_amalie
 qd,nm24.0,40342,40633,fräulein_amalie,40437,40441,mein,fräulein_amalie
+qd,nm24.0,40342,40633,fräulein_amalie,40442,40459,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,40342,40633,fräulein_amalie,40461,40464,Ich,fräulein_amalie
 qd,nm24.0,40342,40633,fräulein_amalie,40473,40477,mein,fräulein_amalie
 qd,nm24.0,40342,40633,fräulein_amalie,40482,40488,meines,fräulein_amalie
+qd,nm24.0,40684,40721,_stage,40703,40720,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,40724,40927,fräulein_karoline,40766,40770,mein,fräulein_karoline
+qd,nm24.0,40724,40927,fräulein_karoline,40771,40788,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,41418,41587,fräulein_karoline,41483,41486,Ich,fräulein_karoline
 qd,nm24.0,41645,41953,fräulein_karoline,41665,41668,Ich,fräulein_karoline
 qd,nm24.0,41645,41953,fräulein_karoline,41703,41706,Ich,fräulein_karoline
@@ -310,7 +326,10 @@ qd,nm24.0,43399,43608,fräulein_karoline,43463,43466,Ich,fräulein_karoline
 qd,nm24.0,43399,43608,fräulein_karoline,43491,43494,mir,fräulein_karoline
 qd,nm24.0,43399,43608,fräulein_karoline,43512,43518,meiner,fräulein_karoline
 qd,nm24.0,43399,43608,fräulein_karoline,43550,43553,ich,fräulein_karoline
+qd,nm24.0,43658,43717,_stage,43677,43694,Herr von Kreuzweg,herr_von_kreuzweg
+qd,nm24.0,43658,43717,_stage,43696,43716,Herr von Kaltenbrunn,herr_von_kaltenbrunn
 qd,nm24.0,43720,43902,herr_von_kaltenbrunn,43745,43749,mein,herr_von_kaltenbrunn
+qd,nm24.0,43720,43902,herr_von_kaltenbrunn,43764,43781,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,43720,43902,herr_von_kaltenbrunn,43791,43794,mir,herr_von_kaltenbrunn
 qd,nm24.0,43720,43902,herr_von_kaltenbrunn,43889,43895,meiner,herr_von_kaltenbrunn
 qd,nm24.0,44082,44327,herr_von_kaltenbrunn,44105,44108,Ich,herr_von_kaltenbrunn
@@ -320,10 +339,13 @@ qd,nm24.0,44424,44553,herr_von_kaltenbrunn,44460,44463,Ich,herr_von_kaltenbrunn
 qd,nm24.0,44702,44855,herr_von_kaltenbrunn,44725,44728,Ich,herr_von_kaltenbrunn
 qd,nm24.0,44702,44855,herr_von_kaltenbrunn,44813,44816,mir,herr_von_kaltenbrunn
 qd,nm24.0,44702,44855,herr_von_kaltenbrunn,44832,44836,mein,herr_von_kaltenbrunn
+qd,nm24.0,44702,44855,herr_von_kaltenbrunn,44837,44854,Herr von Kreuzweg,herr_von_kreuzweg
+qd,nm24.0,45236,45311,_stage,45269,45288,Herr von Ziegendorf,herr_von_ziegendorf
 qd,nm24.0,45314,45519,frau_von_tiefenborn,45347,45350,Ich,frau_von_tiefenborn
 qd,nm24.0,45314,45519,frau_von_tiefenborn,45356,45362,meinem,frau_von_tiefenborn
 qd,nm24.0,45314,45519,frau_von_tiefenborn,45389,45392,ich,frau_von_tiefenborn
 qd,nm24.0,45525,45688,herr_von_ziegendorf,45555,45558,mir,herr_von_ziegendorf
+qd,nm24.0,45714,45778,_stage,45742,45761,Herr von Ziegendorf,herr_von_ziegendorf
 qd,nm24.0,45693,45864,frau_von_tiefenborn,45807,45811,mich,frau_von_tiefenborn
 qd,nm24.0,45693,45864,frau_von_tiefenborn,45823,45826,ich,frau_von_tiefenborn
 qd,nm24.0,45922,46152,frau_von_tiefenborn,46032,46035,mir,frau_von_tiefenborn
@@ -338,6 +360,7 @@ qd,nm24.0,46536,46651,frau_von_tiefenborn,46628,46632,mich,frau_von_tiefenborn
 qd,nm24.0,46656,46874,fräulein_karoline,46686,46689,ich,fräulein_karoline
 qd,nm24.0,46656,46874,fräulein_karoline,46716,46719,ich,fräulein_karoline
 qd,nm24.0,46656,46874,fräulein_karoline,46770,46773,ich,fräulein_karoline
+qd,nm24.0,46927,46976,_stage,46956,46975,Herr von Ziegendorf,herr_von_ziegendorf
 qd,nm24.0,46979,47200,frau_von_tiefenborn,47040,47043,Ich,frau_von_tiefenborn
 qd,nm24.0,46979,47200,frau_von_tiefenborn,47115,47118,mir,frau_von_tiefenborn
 qd,nm24.0,46979,47200,frau_von_tiefenborn,47125,47131,meinem,frau_von_tiefenborn
@@ -388,11 +411,15 @@ qd,nm24.0,53308,53571,frau_von_tiefenborn,53421,53424,ich,frau_von_tiefenborn
 qd,nm24.0,53576,53656,herr_von_ziegendorf,53608,53611,Ich,herr_von_ziegendorf
 qd,nm24.0,53716,54065,herr_von_ziegendorf,53766,53769,mir,herr_von_ziegendorf
 qd,nm24.0,54233,54401,frau_von_tiefenborn,54318,54321,Ich,frau_von_tiefenborn
+qd,nm24.0,54450,54472,_stage,54463,54471,Heinrich,heinrich
+qd,nm24.0,54681,54722,_stage,54681,54700,Frau von Tiefenborn,frau_von_tiefenborn
+qd,nm24.0,54681,54722,_stage,54702,54721,Herr von Ziegendorf,herr_von_ziegendorf
 qd,nm24.0,54803,55022,frau_von_tiefenborn,54831,54837,meinen,frau_von_tiefenborn
 qd,nm24.0,54803,55022,frau_von_tiefenborn,54883,54886,ich,frau_von_tiefenborn
 qd,nm24.0,54803,55022,frau_von_tiefenborn,54922,54925,mir,frau_von_tiefenborn
 qd,nm24.0,54803,55022,frau_von_tiefenborn,54964,54967,ich,frau_von_tiefenborn
 qd,nm24.0,54803,55022,frau_von_tiefenborn,54968,54972,mich,frau_von_tiefenborn
+qd,nm24.0,55250,55277,_stage,55263,55265,Dr,dr
 qd,nm24.0,55326,55433,frau_von_tiefenborn,55348,55351,Ich,frau_von_tiefenborn
 qd,nm24.0,55326,55433,frau_von_tiefenborn,55403,55407,mich,frau_von_tiefenborn
 qd,nm24.0,55469,55571,herr_von_ziegendorf,55491,55494,Ich,herr_von_ziegendorf
@@ -404,6 +431,10 @@ qd,nm24.0,56385,56500,frau_von_tiefenborn,56423,56428,meine,frau_von_tiefenborn
 qd,nm24.0,56385,56500,frau_von_tiefenborn,56440,56444,mich,frau_von_tiefenborn
 qd,nm24.0,56385,56500,frau_von_tiefenborn,56491,56494,mir,frau_von_tiefenborn
 qd,nm24.0,56603,56731,dr,56625,56628,Ich,dr
+qd,nm24.0,56781,56803,_stage,56794,56802,Heinrich,heinrich
+qd,nm24.0,56945,57019,_stage,56964,56983,Herr von Ziegendorf,herr_von_ziegendorf
+qd,nm24.0,57113,57166,_stage,57113,57133,Herr von Kaltenbrunn,herr_von_kaltenbrunn
+qd,nm24.0,57113,57166,_stage,57152,57154,Dr,dr
 qd,nm24.0,57169,57347,fräulein_amalie,57192,57196,mein,fräulein_amalie
 qd,nm24.0,57169,57347,fräulein_amalie,57217,57220,ich,fräulein_amalie
 qd,nm24.0,57352,57571,herr_von_kaltenbrunn,57483,57487,mein,herr_von_kaltenbrunn
@@ -519,6 +550,7 @@ qd,nm24.0,72420,72653,herr_von_kaltenbrunn,72509,72512,ich,herr_von_kaltenbrunn
 qd,nm24.0,72420,72653,herr_von_kaltenbrunn,72557,72560,ich,herr_von_kaltenbrunn
 qd,nm24.0,72420,72653,herr_von_kaltenbrunn,72579,72582,Ich,herr_von_kaltenbrunn
 qd,nm24.0,72659,72824,dr,72679,72682,ich,dr
+qd,nm24.0,73036,73081,_stage,73051,73071,Herr von Kaltenbrunn,herr_von_kaltenbrunn
 qd,nm24.0,73170,73250,fräulein_amalie,73188,73191,Ich,fräulein_amalie
 qd,nm24.0,73604,73661,fräulein_amalie,73647,73650,mir,fräulein_amalie
 qd,nm24.0,73666,73730,fräulein_karoline,73696,73699,ich,fräulein_karoline
@@ -554,6 +586,7 @@ qd,nm24.0,78425,78566,fräulein_amalie,78462,78465,ich,fräulein_amalie
 qd,nm24.0,78425,78566,fräulein_amalie,78519,78524,meine,fräulein_amalie
 qd,nm24.0,78425,78566,fräulein_amalie,78537,78542,meine,fräulein_amalie
 qd,nm24.0,78571,78615,fräulein_karoline,78599,78602,mir,fräulein_karoline
+qd,nm24.0,78888,78944,_stage,78888,78907,Frau von Tiefenborn,frau_von_tiefenborn
 qd,nm24.0,78947,79193,frau_von_tiefenborn,79034,79037,Ich,frau_von_tiefenborn
 qd,nm24.0,78947,79193,frau_von_tiefenborn,79164,79168,mich,frau_von_tiefenborn
 qd,nm24.0,79328,79542,frau_von_tiefenborn,79361,79364,mir,frau_von_tiefenborn
@@ -643,19 +676,25 @@ qd,nm24.0,88731,88908,fräulein_karoline,88874,88878,mein,fräulein_karoline
 qd,nm24.0,89039,89160,fräulein_karoline,89078,89082,mich,fräulein_karoline
 qd,nm24.0,89039,89160,fräulein_karoline,89105,89108,ich,fräulein_karoline
 qd,nm24.0,89039,89160,fräulein_karoline,89109,89112,mir,fräulein_karoline
+qd,nm24.0,89212,89280,_stage,89212,89231,Frau von Tiefenborn,frau_von_tiefenborn
 qd,nm24.0,89283,89392,herr_von_ziegendorf,89305,89308,Ich,herr_von_ziegendorf
 qd,nm24.0,89397,89710,frau_von_tiefenborn,89446,89449,ich,frau_von_tiefenborn
 qd,nm24.0,89397,89710,frau_von_tiefenborn,89450,89454,mich,frau_von_tiefenborn
 qd,nm24.0,89397,89710,frau_von_tiefenborn,89520,89523,ich,frau_von_tiefenborn
 qd,nm24.0,89397,89710,frau_von_tiefenborn,89639,89642,ich,frau_von_tiefenborn
+qd,nm24.0,89762,89803,_stage,89762,89781,Frau von Tiefenborn,frau_von_tiefenborn
+qd,nm24.0,89762,89803,_stage,89783,89802,Herr von Ziegendorf,herr_von_ziegendorf
 qd,nm24.0,89806,89951,herr_von_ziegendorf,89873,89876,ich,herr_von_ziegendorf
 qd,nm24.0,89806,89951,herr_von_ziegendorf,89901,89905,mein,herr_von_ziegendorf
+qd,nm24.0,89956,90020,frau_von_tiefenborn,90000,90008,Notarius,notarius
 qd,nm24.0,90157,90311,frau_von_tiefenborn,90247,90250,ich,frau_von_tiefenborn
 qd,nm24.0,90453,90756,frau_von_tiefenborn,90515,90518,Ich,frau_von_tiefenborn
 qd,nm24.0,90453,90756,frau_von_tiefenborn,90571,90574,mir,frau_von_tiefenborn
 qd,nm24.0,90453,90756,frau_von_tiefenborn,90737,90741,mich,frau_von_tiefenborn
 qd,nm24.0,90761,90927,herr_von_ziegendorf,90865,90869,mein,herr_von_ziegendorf
 qd,nm24.0,90933,91180,frau_von_tiefenborn,91100,91106,meiner,frau_von_tiefenborn
+qd,nm24.0,91245,91277,_stage,91245,91247,Dr,dr
+qd,nm24.0,91245,91277,_stage,91260,91262,Dr,dr
 qd,nm24.0,91280,91416,dr,91303,91306,mir,dr
 qd,nm24.0,91280,91416,dr,91333,91336,ich,dr
 qd,nm24.0,91421,91700,dr,91452,91456,mein,dr
@@ -721,6 +760,8 @@ qd,nm24.0,99043,99215,dr,99095,99098,mir,dr
 qd,nm24.0,99344,99505,dr,99378,99381,mir,dr
 qd,nm24.0,99815,99997,dr,99840,99844,mein,dr
 qd,nm24.0,99815,99997,dr,99933,99936,Ich,dr
+qd,nm24.0,100048,100104,_stage,100048,100050,Dr,dr
+qd,nm24.0,100048,100104,_stage,100066,100086,Herr von Kaltenbrunn,herr_von_kaltenbrunn
 qd,nm24.0,100218,100304,herr_von_kaltenbrunn,100274,100277,ich,herr_von_kaltenbrunn
 qd,nm24.0,100218,100304,herr_von_kaltenbrunn,100278,100281,mir,herr_von_kaltenbrunn
 qd,nm24.0,100309,100383,dr,100328,100331,Ich,dr
@@ -735,6 +776,7 @@ qd,nm24.0,101820,102017,dr,101852,101855,ich,dr
 qd,nm24.0,101820,102017,dr,101871,101875,mein,dr
 qd,nm24.0,101820,102017,dr,101896,101899,mir,dr
 qd,nm24.0,102022,102111,fräulein_amalie,102059,102062,ich,fräulein_amalie
+qd,nm24.0,102336,102593,dr,102529,102549,Herr von Kaltenbrunn,herr_von_kaltenbrunn
 qd,nm24.0,102598,102955,herr_von_kaltenbrunn,102636,102639,ich,herr_von_kaltenbrunn
 qd,nm24.0,102598,102955,herr_von_kaltenbrunn,102640,102644,mich,herr_von_kaltenbrunn
 qd,nm24.0,102598,102955,herr_von_kaltenbrunn,102677,102680,Ich,herr_von_kaltenbrunn
@@ -783,6 +825,7 @@ qd,nm24.0,108508,108694,herr_von_kaltenbrunn,108576,108579,ich,herr_von_kaltenbr
 qd,nm24.0,108508,108694,herr_von_kaltenbrunn,108609,108612,ich,herr_von_kaltenbrunn
 qd,nm24.0,108775,108927,herr_von_kaltenbrunn,108803,108806,ich,herr_von_kaltenbrunn
 qd,nm24.0,108775,108927,herr_von_kaltenbrunn,108868,108874,meinen,herr_von_kaltenbrunn
+qd,nm24.0,108977,109009,_stage,108995,108997,Dr,dr
 qd,nm24.0,109012,109101,dr,109028,109032,Mein,dr
 qd,nm24.0,109106,109181,dr,109125,109128,Ich,dr
 qd,nm24.0,109187,109311,herr_von_kaltenbrunn,109210,109213,Ich,herr_von_kaltenbrunn
@@ -793,7 +836,9 @@ qd,nm24.0,109467,109570,dr,109486,109489,Ich,dr
 qd,nm24.0,109467,109570,dr,109495,109499,mich,dr
 qd,nm24.0,109467,109570,dr,109513,109516,ich,dr
 qd,nm24.0,109467,109570,dr,109542,109547,meine,dr
+qd,nm24.0,109597,109604,_stage,109601,109603,Dr,dr
 qd,nm24.0,109714,109763,dr,109744,109749,meine,dr
+qd,nm24.0,109953,109991,_stage,109970,109990,Herr von Kaltenbrunn,herr_von_kaltenbrunn
 qd,nm24.0,109994,110176,herr_von_kaltenbrunn,110107,110111,mein,herr_von_kaltenbrunn
 qd,nm24.0,110260,110392,herr_von_kaltenbrunn,110373,110378,meine,herr_von_kaltenbrunn
 qd,nm24.0,111147,111284,fräulein_amalie,111213,111216,ich,fräulein_amalie
@@ -921,6 +966,7 @@ qd,nm24.0,122246,122565,herr_von_wagehals,122424,122427,ich,herr_von_wagehals
 qd,nm24.0,122246,122565,herr_von_wagehals,122454,122458,mich,herr_von_wagehals
 qd,nm24.0,122246,122565,herr_von_wagehals,122462,122466,mein,herr_von_wagehals
 qd,nm24.0,122246,122565,herr_von_wagehals,122550,122555,meine,herr_von_wagehals
+qd,nm24.0,122712,122745,_stage,122725,122744,Frau von Tiefenborn,frau_von_tiefenborn
 qd,nm24.0,122748,123084,frau_von_tiefenborn,122861,122864,Ich,frau_von_tiefenborn
 qd,nm24.0,122748,123084,frau_von_tiefenborn,122925,122928,ich,frau_von_tiefenborn
 qd,nm24.0,122748,123084,frau_von_tiefenborn,122999,123002,mir,frau_von_tiefenborn
@@ -957,6 +1003,7 @@ qd,nm24.0,125598,125861,herr_von_wagehals,125847,125850,ich,herr_von_wagehals
 qd,nm24.0,125866,126167,frau_von_tiefenborn,125892,125895,ich,frau_von_tiefenborn
 qd,nm24.0,125866,126167,frau_von_tiefenborn,125981,125986,meine,frau_von_tiefenborn
 qd,nm24.0,125866,126167,frau_von_tiefenborn,126077,126080,ich,frau_von_tiefenborn
+qd,nm24.0,126279,126450,herr_von_ziegendorf,126348,126356,Notarius,notarius
 qd,nm24.0,126456,126655,fräulein_amalie,126491,126495,mein,fräulein_amalie
 qd,nm24.0,126456,126655,fräulein_amalie,126510,126513,Ich,fräulein_amalie
 qd,nm24.0,126660,126762,herr_von_ziegendorf,126690,126695,meine,herr_von_ziegendorf
@@ -988,6 +1035,7 @@ qd,nm24.0,129076,129244,fräulein_amalie,129110,129113,Ich,fräulein_amalie
 qd,nm24.0,129076,129244,fräulein_amalie,129174,129177,ich,fräulein_amalie
 qd,nm24.0,129249,129405,herr_von_ziegendorf,129326,129329,ich,herr_von_ziegendorf
 qd,nm24.0,129249,129405,herr_von_ziegendorf,129350,129354,mein,herr_von_ziegendorf
+qd,nm24.0,129410,129522,fräulein_amalie,129474,129491,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,129410,129522,fräulein_amalie,129511,129515,mich,fräulein_amalie
 qd,nm24.0,129665,129923,herr_von_ziegendorf,129694,129697,ich,herr_von_ziegendorf
 qd,nm24.0,129665,129923,herr_von_ziegendorf,129742,129748,meinem,herr_von_ziegendorf
@@ -1009,6 +1057,8 @@ qd,nm24.0,130632,130925,herr_von_ziegendorf,130866,130869,ich,herr_von_ziegendor
 qd,nm24.0,130632,130925,herr_von_ziegendorf,130871,130874,ich,herr_von_ziegendorf
 qd,nm24.0,130930,130994,fräulein_amalie,130971,130974,ich,fräulein_amalie
 qd,nm24.0,130999,131284,herr_von_ziegendorf,131056,131059,Ich,herr_von_ziegendorf
+qd,nm24.0,131389,131420,_stage,131402,131419,Herr von Kreuzweg,herr_von_kreuzweg
+qd,nm24.0,131423,131493,herr_von_ziegendorf,131475,131492,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,131566,131698,herr_von_kreuzweg,131586,131589,Ich,herr_von_kreuzweg
 qd,nm24.0,131736,131817,herr_von_kreuzweg,131760,131763,ich,herr_von_kreuzweg
 qd,nm24.0,131913,132028,fräulein_amalie,131986,131989,mir,fräulein_amalie
@@ -1023,6 +1073,7 @@ qd,nm24.0,132677,132823,herr_von_kreuzweg,132697,132700,Ich,herr_von_kreuzweg
 qd,nm24.0,132677,132823,herr_von_kreuzweg,132709,132715,meinen,herr_von_kreuzweg
 qd,nm24.0,132677,132823,herr_von_kreuzweg,132724,132727,Ich,herr_von_kreuzweg
 qd,nm24.0,132677,132823,herr_von_kreuzweg,132748,132753,meine,herr_von_kreuzweg
+qd,nm24.0,132828,133081,fräulein_amalie,132853,132870,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,132828,133081,fräulein_amalie,132925,132928,mir,fräulein_amalie
 qd,nm24.0,132828,133081,fräulein_amalie,132947,132952,Meine,fräulein_amalie
 qd,nm24.0,132828,133081,fräulein_amalie,133013,133017,mein,fräulein_amalie
@@ -1030,10 +1081,13 @@ qd,nm24.0,133086,133248,herr_von_kreuzweg,133124,133127,ich,herr_von_kreuzweg
 qd,nm24.0,133086,133248,herr_von_kreuzweg,133133,133136,ich,herr_von_kreuzweg
 qd,nm24.0,133086,133248,herr_von_kreuzweg,133137,133141,mich,herr_von_kreuzweg
 qd,nm24.0,133086,133248,herr_von_kreuzweg,133182,133186,mich,herr_von_kreuzweg
+qd,nm24.0,133253,133410,herr_von_ziegendorf,133279,133296,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,133253,133410,herr_von_ziegendorf,133355,133361,meiner,herr_von_ziegendorf
+qd,nm24.0,133505,133720,herr_von_ziegendorf,133595,133612,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,133725,133827,herr_von_kreuzweg,133745,133748,Ich,herr_von_kreuzweg
 qd,nm24.0,133832,133984,fräulein_amalie,133911,133914,mir,fräulein_amalie
 qd,nm24.0,133989,134150,herr_von_ziegendorf,134027,134030,mir,herr_von_ziegendorf
+qd,nm24.0,133989,134150,herr_von_ziegendorf,134036,134053,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,134374,134685,herr_von_ziegendorf,134396,134399,Ich,herr_von_ziegendorf
 qd,nm24.0,134374,134685,herr_von_ziegendorf,134600,134603,ich,herr_von_ziegendorf
 qd,nm24.0,134766,135028,herr_von_ziegendorf,134966,134972,meiner,herr_von_ziegendorf
@@ -1063,13 +1117,17 @@ qd,nm24.0,135959,136109,herr_von_ziegendorf,136047,136050,ich,herr_von_ziegendor
 qd,nm24.0,135959,136109,herr_von_ziegendorf,136078,136084,meines,herr_von_ziegendorf
 qd,nm24.0,136186,136319,der_diener,136199,136203,Mein,der_diener
 qd,nm24.0,136324,136399,herr_von_ziegendorf,136346,136349,Ich,herr_von_ziegendorf
+qd,nm24.0,136405,136601,der_diener,136573,136581,Notarius,notarius
 qd,nm24.0,136606,136697,fräulein_amalie,136656,136659,Ich,fräulein_amalie
+qd,nm24.0,136678,136697,_stage,136678,136688,Der Diener,der_diener
+qd,nm24.0,136748,136783,_stage,136765,136782,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,136860,136938,herr_von_kreuzweg,136884,136887,ich,herr_von_kreuzweg
 qd,nm24.0,137559,137796,fräulein_amalie,137577,137580,Ich,fräulein_amalie
 qd,nm24.0,137559,137796,fräulein_amalie,137636,137639,mir,fräulein_amalie
 qd,nm24.0,137559,137796,fräulein_amalie,137646,137650,mein,fräulein_amalie
 qd,nm24.0,137840,137994,fräulein_amalie,137889,137892,mir,fräulein_amalie
 qd,nm24.0,138280,138338,fräulein_amalie,138315,138319,mein,fräulein_amalie
+qd,nm24.0,138280,138338,fräulein_amalie,138320,138337,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,138489,138565,fräulein_amalie,138518,138521,mir,fräulein_amalie
 qd,nm24.0,138571,138677,herr_von_kreuzweg,138628,138631,ich,herr_von_kreuzweg
 qd,nm24.0,138571,138677,herr_von_kreuzweg,138632,138635,mir,herr_von_kreuzweg
@@ -1084,6 +1142,9 @@ qd,nm24.0,139598,139661,fräulein_amalie,139640,139644,mich,fräulein_amalie
 qd,nm24.0,139716,139777,fräulein_amalie,139738,139741,ich,fräulein_amalie
 qd,nm24.0,139716,139777,fräulein_amalie,139746,139750,mich,fräulein_amalie
 qd,nm24.0,139848,139940,fräulein_amalie,139874,139877,ich,fräulein_amalie
+qd,nm24.0,139990,140047,_stage,140007,140024,Herr von Kreuzweg,herr_von_kreuzweg
+qd,nm24.0,139990,140047,_stage,140026,140046,Herr von Kaltenbrunn,herr_von_kaltenbrunn
+qd,nm24.0,140050,140305,herr_von_kaltenbrunn,140201,140218,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,140050,140305,herr_von_kaltenbrunn,140250,140253,Ich,herr_von_kaltenbrunn
 qd,nm24.0,140310,140378,herr_von_kreuzweg,140330,140333,Ich,herr_von_kreuzweg
 qd,nm24.0,140310,140378,herr_von_kreuzweg,140338,140342,mich,herr_von_kreuzweg
@@ -1092,6 +1153,7 @@ qd,nm24.0,140450,140594,herr_von_kaltenbrunn,140488,140491,ich,herr_von_kaltenbr
 qd,nm24.0,140450,140594,herr_von_kaltenbrunn,140504,140507,ich,herr_von_kaltenbrunn
 qd,nm24.0,140450,140594,herr_von_kaltenbrunn,140553,140556,ich,herr_von_kaltenbrunn
 qd,nm24.0,140599,140705,fräulein_amalie,140664,140667,ich,fräulein_amalie
+qd,nm24.0,140710,140841,herr_von_kaltenbrunn,140759,140776,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,140710,140841,herr_von_kaltenbrunn,140808,140811,ich,herr_von_kaltenbrunn
 qd,nm24.0,140917,140995,herr_von_kaltenbrunn,140958,140963,meine,herr_von_kaltenbrunn
 qd,nm24.0,140917,140995,herr_von_kaltenbrunn,140979,140982,mir,herr_von_kaltenbrunn
@@ -1109,16 +1171,24 @@ qd,nm24.0,141929,142007,herr_von_kaltenbrunn,141969,141975,meinen,herr_von_kalte
 qd,nm24.0,142147,142250,herr_von_kaltenbrunn,142183,142186,ich,herr_von_kaltenbrunn
 qd,nm24.0,142147,142250,herr_von_kaltenbrunn,142197,142200,ich,herr_von_kaltenbrunn
 qd,nm24.0,142147,142250,herr_von_kaltenbrunn,142231,142234,ich,herr_von_kaltenbrunn
+qd,nm24.0,142303,142440,herr_von_kreuzweg,142377,142397,Herr von Kaltenbrunn,herr_von_kaltenbrunn
 qd,nm24.0,142303,142440,herr_von_kreuzweg,142409,142412,ich,herr_von_kreuzweg
 qd,nm24.0,142670,142743,herr_von_kaltenbrunn,142693,142697,Mein,herr_von_kaltenbrunn
 qd,nm24.0,142748,142913,fräulein_amalie,142832,142835,ich,fräulein_amalie
 qd,nm24.0,143346,143442,herr_von_kaltenbrunn,143382,143385,mir,herr_von_kaltenbrunn
 qd,nm24.0,143508,143579,herr_von_kaltenbrunn,143546,143550,mich,herr_von_kaltenbrunn
+qd,nm24.0,143508,143579,herr_von_kaltenbrunn,143561,143578,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,143584,143659,herr_von_kreuzweg,143604,143607,Ich,herr_von_kreuzweg
 qd,nm24.0,143664,143759,herr_von_kaltenbrunn,143728,143733,meine,herr_von_kaltenbrunn
 qd,nm24.0,143822,143912,herr_von_kaltenbrunn,143878,143881,ich,herr_von_kaltenbrunn
 qd,nm24.0,144021,144083,herr_von_kaltenbrunn,144062,144065,Ich,herr_von_kaltenbrunn
 qd,nm24.0,144088,144153,fräulein_karoline,144118,144121,Ich,fräulein_karoline
+qd,nm24.0,144505,144532,_stage,144518,144520,Dr,dr
+qd,nm24.0,145165,145589,_stage,145365,145367,Dr,dr
+qd,nm24.0,145165,145589,_stage,145413,145421,Notarius,notarius
+qd,nm24.0,145165,145589,_stage,145445,145447,Dr,dr
+qd,nm24.0,145165,145589,_stage,145503,145511,Notarius,notarius
+qd,nm24.0,145592,145657,frau_von_tiefenborn,145648,145656,Notarius,notarius
 qd,nm24.0,145662,145834,notarius,145691,145694,ich,notarius
 qd,nm24.0,145905,146164,notarius,146131,146134,ich,notarius
 qd,nm24.0,145905,146164,notarius,146135,146138,mir,notarius
@@ -1133,8 +1203,10 @@ qd,nm24.0,147249,148612,notarius,147643,147646,ich,notarius
 qd,nm24.0,147249,148612,notarius,147647,147651,mich,notarius
 qd,nm24.0,147249,148612,notarius,147796,147802,meiner,notarius
 qd,nm24.0,147249,148612,notarius,147853,147856,ich,notarius
+qd,nm24.0,147249,148612,notarius,147890,147898,Notarius,notarius
 qd,nm24.0,147249,148612,notarius,147909,147913,mich,notarius
 qd,nm24.0,147249,148612,notarius,148412,148416,mich,notarius
+qd,nm24.0,148618,148670,frau_von_tiefenborn,148661,148669,Notarius,notarius
 qd,nm24.0,148675,148755,notarius,148718,148721,Ich,notarius
 qd,nm24.0,148805,148923,notarius,148845,148851,meinem,notarius
 qd,nm24.0,148805,148923,notarius,148866,148869,Ich,notarius
@@ -1149,24 +1221,29 @@ qd,nm24.0,150344,150419,herr_von_kreuzweg,150364,150368,Mein,herr_von_kreuzweg
 qd,nm24.0,150562,150636,herr_von_kreuzweg,150582,150585,Ich,herr_von_kreuzweg
 qd,nm24.0,150562,150636,herr_von_kreuzweg,150594,150598,mich,herr_von_kreuzweg
 qd,nm24.0,150562,150636,herr_von_kreuzweg,150612,150616,mein,herr_von_kreuzweg
+qd,nm24.0,150641,150728,notarius,150688,150690,Dr,dr
 qd,nm24.0,150733,150813,dr,150749,150754,Meine,dr
 qd,nm24.0,150946,151017,dr,150986,150989,ich,dr
 qd,nm24.0,150946,151017,dr,151013,151016,ich,dr
 qd,nm24.0,151022,151169,notarius,151134,151138,Mein,notarius
 qd,nm24.0,151174,151242,fräulein_amalie,151192,151195,Ich,fräulein_amalie
 qd,nm24.0,151402,151485,fräulein_karoline,151475,151478,ich,fräulein_karoline
+qd,nm24.0,151708,151866,notarius,151827,151829,Dr,dr
 qd,nm24.0,152074,152259,notarius,152136,152139,ich,notarius
+qd,nm24.0,152074,152259,notarius,152233,152241,Notarius,notarius
 qd,nm24.0,152264,152433,frau_von_tiefenborn,152351,152354,ich,frau_von_tiefenborn
 qd,nm24.0,152438,152910,notarius,152524,152528,mich,notarius
 qd,nm24.0,152438,152910,notarius,152638,152641,mir,notarius
 qd,nm24.0,152438,152910,notarius,152769,152773,mich,notarius
 qd,nm24.0,152438,152910,notarius,152856,152859,mir,notarius
+qd,nm24.0,153428,153440,_stage,153437,153439,Dr,dr
 qd,nm24.0,153407,153820,frau_von_tiefenborn,153491,153497,meines,frau_von_tiefenborn
 qd,nm24.0,153407,153820,frau_von_tiefenborn,153697,153700,ich,frau_von_tiefenborn
 qd,nm24.0,153407,153820,frau_von_tiefenborn,153706,153712,meinem,frau_von_tiefenborn
 qd,nm24.0,153825,153867,notarius,153836,153839,Ich,notarius
 qd,nm24.0,153825,153867,notarius,153846,153849,mir,notarius
 qd,nm24.0,154059,154188,frau_von_tiefenborn,154089,154095,meinem,frau_von_tiefenborn
+qd,nm24.0,154119,154188,_stage,154119,154139,Herr von Kaltenbrunn,herr_von_kaltenbrunn
 qd,nm24.0,154294,154388,herr_von_wagehals,154325,154328,ich,herr_von_wagehals
 qd,nm24.0,154294,154388,herr_von_wagehals,154369,154372,mir,herr_von_wagehals
 qd,nm24.0,154393,154735,frau_von_tiefenborn,154483,154487,mein,frau_von_tiefenborn
@@ -1174,9 +1251,15 @@ qd,nm24.0,154740,154892,herr_von_wagehals,154786,154789,ich,herr_von_wagehals
 qd,nm24.0,155017,155590,notarius,155289,155293,mich,notarius
 qd,nm24.0,155017,155590,notarius,155367,155373,meinem,notarius
 qd,nm24.0,155017,155590,notarius,155393,155399,meiner,notarius
+qd,nm24.0,155017,155590,notarius,155571,155579,Notarius,notarius
+qd,nm24.0,155595,155705,frau_von_tiefenborn,155640,155648,Notarius,notarius
 qd,nm24.0,155595,155705,frau_von_tiefenborn,155650,155654,Mein,frau_von_tiefenborn
 qd,nm24.0,155796,155864,frau_von_tiefenborn,155839,155842,Ich,frau_von_tiefenborn
 qd,nm24.0,155869,155948,notarius,155891,155894,ich,notarius
+qd,nm24.0,156000,156172,_stage,156000,156019,Frau von Tiefenborn,frau_von_tiefenborn
+qd,nm24.0,156000,156172,_stage,156117,156137,Herr von Kaltenbrunn,herr_von_kaltenbrunn
+qd,nm24.0,156000,156172,_stage,156139,156156,Herr von Kreuzweg,herr_von_kreuzweg
+qd,nm24.0,156000,156172,_stage,156158,156160,Dr,dr
 qd,nm24.0,156315,156420,fräulein_amalie,156348,156351,Ich,fräulein_amalie
 qd,nm24.0,156315,156420,fräulein_amalie,156379,156382,ich,fräulein_amalie
 qd,nm24.0,156425,157256,frau_von_tiefenborn,156522,156526,mich,frau_von_tiefenborn
@@ -1208,6 +1291,7 @@ qd,nm24.0,158226,158439,herr_von_kreuzweg,158317,158320,ich,herr_von_kreuzweg
 qd,nm24.0,158226,158439,herr_von_kreuzweg,158321,158324,mir,herr_von_kreuzweg
 qd,nm24.0,158226,158439,herr_von_kreuzweg,158396,158400,mich,herr_von_kreuzweg
 qd,nm24.0,158444,159073,fräulein_karoline,158503,158507,mein,fräulein_karoline
+qd,nm24.0,158444,159073,fräulein_karoline,158508,158525,Herr von Kreuzweg,herr_von_kreuzweg
 qd,nm24.0,158444,159073,fräulein_karoline,158527,158530,Ich,fräulein_karoline
 qd,nm24.0,158444,159073,fräulein_karoline,158676,158679,ich,fräulein_karoline
 qd,nm24.0,158444,159073,fräulein_karoline,158695,158700,meine,fräulein_karoline

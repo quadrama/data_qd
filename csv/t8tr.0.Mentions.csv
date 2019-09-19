@@ -1,4 +1,6 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,t8tr.0,461,476,_stage,461,467,Doctor,doctor
+qd,t8tr.0,461,476,_stage,469,475,Kilian,kilian
 qd,t8tr.0,479,532,kilian,512,515,Ich,kilian
 qd,t8tr.0,581,754,kilian,727,733,meinen,kilian
 qd,t8tr.0,581,754,kilian,750,753,mir,kilian
@@ -92,6 +94,7 @@ qd,t8tr.0,13095,18146,doctor,13646,13649,mir,doctor
 qd,t8tr.0,13095,18146,doctor,13703,13706,ich,doctor
 qd,t8tr.0,13095,18146,doctor,13707,13711,mich,doctor
 qd,t8tr.0,13095,18146,doctor,13771,13774,ich,doctor
+qd,t8tr.0,13095,18146,doctor,13779,13785,Kilian,kilian
 qd,t8tr.0,13095,18146,doctor,13874,13877,Ich,doctor
 qd,t8tr.0,13095,18146,doctor,13942,13945,mir,doctor
 qd,t8tr.0,13095,18146,doctor,13954,13957,ich,doctor
@@ -103,6 +106,7 @@ qd,t8tr.0,13095,18146,doctor,14149,14153,mich,doctor
 qd,t8tr.0,13095,18146,doctor,14348,14354,meines,doctor
 qd,t8tr.0,13095,18146,doctor,14405,14408,mir,doctor
 qd,t8tr.0,13095,18146,doctor,14425,14431,meines,doctor
+qd,t8tr.0,13095,18146,doctor,14470,14476,Doctor,doctor
 qd,t8tr.0,13095,18146,doctor,14481,14484,ich,doctor
 qd,t8tr.0,13095,18146,doctor,14619,14623,mein,doctor
 qd,t8tr.0,13095,18146,doctor,15473,15476,mir,doctor
@@ -153,6 +157,7 @@ qd,t8tr.0,23561,23778,doctor,23578,23581,ich,doctor
 qd,t8tr.0,23870,23970,doctor,23954,23957,ich,doctor
 qd,t8tr.0,24028,24264,doctor,24050,24053,Ich,doctor
 qd,t8tr.0,24270,24332,schlaukopf,24327,24331,mich,schlaukopf
+qd,t8tr.0,24337,24369,doctor,24357,24367,Schlaukopf,schlaukopf
 qd,t8tr.0,24770,24814,doctor,24790,24793,Ich,doctor
 qd,t8tr.0,24820,24877,schlaukopf,24863,24866,Ich,schlaukopf
 qd,t8tr.0,24883,24912,doctor,24907,24911,mich,doctor
@@ -202,6 +207,7 @@ qd,t8tr.0,29301,29349,doctor,29335,29341,meiner,doctor
 qd,t8tr.0,29525,29696,doctor,29555,29559,mich,doctor
 qd,t8tr.0,29525,29696,doctor,29602,29605,Ich,doctor
 qd,t8tr.0,29701,29888,schlaukopf,29785,29788,ich,schlaukopf
+qd,t8tr.0,29701,29888,schlaukopf,29826,29834,Germania,germania
 qd,t8tr.0,30063,30162,doctor,30152,30155,ich,doctor
 qd,t8tr.0,30063,30162,doctor,30156,30160,mich,doctor
 qd,t8tr.0,30212,30267,doctor,30246,30249,ich,doctor
@@ -226,6 +232,7 @@ qd,t8tr.0,32493,32992,doctor,32926,32930,mich,doctor
 qd,t8tr.0,32493,32992,doctor,32947,32950,mir,doctor
 qd,t8tr.0,33112,33352,doctor,33126,33131,meine,doctor
 qd,t8tr.0,33112,33352,doctor,33161,33164,mir,doctor
+qd,t8tr.0,33112,33352,doctor,33313,33321,Germania,germania
 qd,t8tr.0,33112,33352,doctor,33343,33346,ich,doctor
 qd,t8tr.0,33358,33683,schlaukopf,33402,33405,mir,schlaukopf
 qd,t8tr.0,33689,33783,doctor,33719,33722,ich,doctor
@@ -238,6 +245,7 @@ qd,t8tr.0,34863,35123,schlaukopf,34997,35000,ich,schlaukopf
 qd,t8tr.0,34863,35123,schlaukopf,35001,35005,mich,schlaukopf
 qd,t8tr.0,34863,35123,schlaukopf,35035,35038,ich,schlaukopf
 qd,t8tr.0,35159,35585,schlaukopf,35315,35320,meine,schlaukopf
+qd,t8tr.0,35159,35585,schlaukopf,35480,35488,Germania,germania
 qd,t8tr.0,35159,35585,schlaukopf,35513,35516,ich,schlaukopf
 qd,t8tr.0,35159,35585,schlaukopf,35529,35535,meines,schlaukopf
 qd,t8tr.0,35591,35856,doctor,35670,35674,mich,doctor
@@ -253,8 +261,16 @@ qd,t8tr.0,37024,37120,doctor,37077,37080,mir,doctor
 qd,t8tr.0,37348,37451,doctor,37379,37382,Ich,doctor
 qd,t8tr.0,37348,37451,doctor,37394,37397,Ich,doctor
 qd,t8tr.0,37573,37689,doctor,37592,37595,ich,doctor
+qd,t8tr.0,37815,37894,doctor,37833,37844,die Sklaven,die_sklaven
 qd,t8tr.0,37900,38290,schlaukopf,37958,37961,ich,schlaukopf
 qd,t8tr.0,38295,39121,doctor,38479,38482,ich,doctor
+qd,t8tr.0,38630,39110,_stage,38647,38657,Schlaukopf,schlaukopf
+qd,t8tr.0,38630,39110,_stage,38670,38681,die Sklaven,die_sklaven
+qd,t8tr.0,38630,39110,_stage,38715,38723,Germania,germania
+qd,t8tr.0,38630,39110,_stage,39050,39060,Schlaukopf,schlaukopf
+qd,t8tr.0,40455,40508,_stage,40459,40467,Germania,germania
+qd,t8tr.0,40443,40552,schlaukopf,40542,40550,Germania,germania
+qd,t8tr.0,41048,51193,der_dichter,41265,41276,der Dichter,der_dichter
 qd,t8tr.0,41048,51193,der_dichter,43231,43234,ich,der_dichter
 qd,t8tr.0,41048,51193,der_dichter,44300,44303,ich,der_dichter
 qd,t8tr.0,41048,51193,der_dichter,44611,44614,ich,der_dichter
@@ -295,6 +311,7 @@ qd,t8tr.0,51236,55102,kilian,51554,51558,mich,kilian
 qd,t8tr.0,51236,55102,kilian,51681,51684,mir,kilian
 qd,t8tr.0,51236,55102,kilian,51845,51851,meinen,kilian
 qd,t8tr.0,51236,55102,kilian,51867,51870,mir,kilian
+qd,t8tr.0,51236,55102,kilian,51893,51899,Doctor,doctor
 qd,t8tr.0,51236,55102,kilian,51904,51907,mir,kilian
 qd,t8tr.0,51236,55102,kilian,51967,51970,ich,kilian
 qd,t8tr.0,51236,55102,kilian,52273,52277,Mich,kilian
@@ -310,6 +327,8 @@ qd,t8tr.0,51236,55102,kilian,52950,52954,mich,kilian
 qd,t8tr.0,51236,55102,kilian,52978,52982,mein,kilian
 qd,t8tr.0,51236,55102,kilian,53075,53078,ich,kilian
 qd,t8tr.0,51236,55102,kilian,53168,53171,mir,kilian
+qd,t8tr.0,51236,55102,kilian,53216,53226,Die Fremde,die_fremde
+qd,t8tr.0,51236,55102,kilian,53220,53226,Fremde,fremde
 qd,t8tr.0,51236,55102,kilian,53228,53232,mein,kilian
 qd,t8tr.0,51236,55102,kilian,53234,53237,ich,kilian
 qd,t8tr.0,51236,55102,kilian,53465,53469,mich,kilian
@@ -319,7 +338,9 @@ qd,t8tr.0,51236,55102,kilian,53622,53625,mir,kilian
 qd,t8tr.0,51236,55102,kilian,53660,53663,mir,kilian
 qd,t8tr.0,51236,55102,kilian,53775,53778,ich,kilian
 qd,t8tr.0,51236,55102,kilian,53848,53851,mir,kilian
+qd,t8tr.0,51236,55102,kilian,54082,54088,Kilian,kilian
 qd,t8tr.0,51236,55102,kilian,54090,54094,Mein,kilian
+qd,t8tr.0,51236,55102,kilian,54095,54101,Kilian,kilian
 qd,t8tr.0,51236,55102,kilian,54116,54119,ich,kilian
 qd,t8tr.0,51236,55102,kilian,54160,54163,ich,kilian
 qd,t8tr.0,51236,55102,kilian,54279,54282,mir,kilian
@@ -331,8 +352,10 @@ qd,t8tr.0,51236,55102,kilian,54809,54812,ich,kilian
 qd,t8tr.0,51236,55102,kilian,54932,54936,mich,kilian
 qd,t8tr.0,51236,55102,kilian,54975,54978,Ich,kilian
 qd,t8tr.0,51236,55102,kilian,54979,54982,mir,kilian
+qd,t8tr.0,51236,55102,kilian,55089,55095,fremde,fremde
 qd,t8tr.0,55236,55263,kilian,55244,55247,Ich,kilian
 qd,t8tr.0,55268,55977,schlaukopf,55338,55341,ich,schlaukopf
+qd,t8tr.0,55360,55370,_stage,55360,55366,Kilian,kilian
 qd,t8tr.0,55268,55977,schlaukopf,55383,55386,mir,schlaukopf
 qd,t8tr.0,55268,55977,schlaukopf,55416,55419,ich,schlaukopf
 qd,t8tr.0,55268,55977,schlaukopf,55453,55456,ich,schlaukopf
@@ -341,6 +364,7 @@ qd,t8tr.0,55268,55977,schlaukopf,55656,55660,mich,schlaukopf
 qd,t8tr.0,55268,55977,schlaukopf,55685,55688,ich,schlaukopf
 qd,t8tr.0,55268,55977,schlaukopf,55689,55693,mein,schlaukopf
 qd,t8tr.0,55268,55977,schlaukopf,55745,55748,ich,schlaukopf
+qd,t8tr.0,55268,55977,schlaukopf,55785,55791,Doctor,doctor
 qd,t8tr.0,55268,55977,schlaukopf,55808,55811,ich,schlaukopf
 qd,t8tr.0,55268,55977,schlaukopf,55894,55897,mir,schlaukopf
 qd,t8tr.0,55268,55977,schlaukopf,55913,55917,mich,schlaukopf
@@ -384,6 +408,8 @@ qd,t8tr.0,63883,63954,doctor,63916,63920,mein,doctor
 qd,t8tr.0,63996,64068,doctor,64005,64008,Ich,doctor
 qd,t8tr.0,64074,64164,schlaukopf,64115,64118,mir,schlaukopf
 qd,t8tr.0,64342,64861,doctor,64358,64361,ich,doctor
+qd,t8tr.0,64342,64861,doctor,64393,64399,Kilian,kilian
+qd,t8tr.0,64556,64570,_stage,64559,64569,Schlaukopf,schlaukopf
 qd,t8tr.0,64342,64861,doctor,64604,64607,ich,doctor
 qd,t8tr.0,64342,64861,doctor,64669,64672,ich,doctor
 qd,t8tr.0,64342,64861,doctor,64749,64752,ich,doctor
@@ -391,10 +417,13 @@ qd,t8tr.0,64342,64861,doctor,64762,64765,mir,doctor
 qd,t8tr.0,64342,64861,doctor,64807,64810,ich,doctor
 qd,t8tr.0,64342,64861,doctor,64811,64815,mich,doctor
 qd,t8tr.0,65088,65306,doctor,65110,65114,mich,doctor
+qd,t8tr.0,65088,65306,doctor,65197,65205,Germania,germania
 qd,t8tr.0,65783,65890,schlaukopf,65856,65859,ich,schlaukopf
 qd,t8tr.0,66098,66186,schlaukopf,66154,66157,ich,schlaukopf
 qd,t8tr.0,66391,66429,schlaukopf,66424,66427,mir,schlaukopf
+qd,t8tr.0,66434,66569,erstes_frauenzimmer,66530,66535,Medea,medea
 qd,t8tr.0,66434,66569,erstes_frauenzimmer,66549,66552,ich,erstes_frauenzimmer
+qd,t8tr.0,66434,66569,erstes_frauenzimmer,66560,66568,Antigone,antigone
 qd,t8tr.0,66575,66679,doctor,66613,66616,ich,doctor
 qd,t8tr.0,66575,66679,doctor,66617,66620,mir,doctor
 qd,t8tr.0,66575,66679,doctor,66652,66658,meinem,doctor
@@ -407,6 +436,7 @@ qd,t8tr.0,67368,67497,medea,67469,67472,mir,medea
 qd,t8tr.0,67503,67562,antigone,67558,67561,ich,antigone
 qd,t8tr.0,67567,67690,doctor,67608,67613,meine,doctor
 qd,t8tr.0,67567,67690,doctor,67621,67624,mir,doctor
+qd,t8tr.0,67777,68414,doctor,67823,67829,Doctor,doctor
 qd,t8tr.0,68420,68611,antigone,68597,68600,ich,antigone
 qd,t8tr.0,68618,68832,medea,68659,68662,ich,medea
 qd,t8tr.0,68618,68832,medea,68663,68669,meinen,medea
@@ -414,11 +444,14 @@ qd,t8tr.0,68973,69087,doctor,69028,69031,mir,doctor
 qd,t8tr.0,69217,69381,doctor,69274,69277,ich,doctor
 qd,t8tr.0,69217,69381,doctor,69345,69348,ich,doctor
 qd,t8tr.0,69387,69449,schlaukopf,69407,69410,ich,schlaukopf
+qd,t8tr.0,69486,69500,_stage,69486,69496,Schlaukopf,schlaukopf
 qd,t8tr.0,69454,69923,doctor,69503,69506,Ich,doctor
 qd,t8tr.0,69454,69923,doctor,69507,69512,meine,doctor
 qd,t8tr.0,69454,69923,doctor,69525,69529,mein,doctor
 qd,t8tr.0,69454,69923,doctor,69611,69616,meine,doctor
 qd,t8tr.0,69454,69923,doctor,69647,69650,ich,doctor
+qd,t8tr.0,69837,69923,_stage,69867,69876,Philosoph,philosoph
+qd,t8tr.0,69837,69923,_stage,69885,69895,Romantiker,romantiker
 qd,t8tr.0,69928,70191,romantiker,69941,69945,Mein,romantiker
 qd,t8tr.0,69928,70191,romantiker,69981,69984,ich,romantiker
 qd,t8tr.0,69928,70191,romantiker,69985,69988,mir,romantiker
@@ -548,8 +581,11 @@ qd,t8tr.0,82054,82093,doctor,82078,82081,ich,doctor
 qd,t8tr.0,82098,82276,philosoph,82154,82158,mich,philosoph
 qd,t8tr.0,82282,82313,doctor,82295,82300,meine,doctor
 qd,t8tr.0,82318,82402,philosoph,82354,82357,ich,philosoph
+qd,t8tr.0,82409,82971,doctor,82674,82682,Germania,germania
 qd,t8tr.0,82409,82971,doctor,82751,82754,ich,doctor
+qd,t8tr.0,82409,82971,doctor,82839,82845,Kilian,kilian
 qd,t8tr.0,82409,82971,doctor,82941,82944,mir,doctor
+qd,t8tr.0,83083,83162,_stage,83087,83093,Kilian,kilian
 qd,t8tr.0,83347,83412,philosoph,83370,83374,mich,philosoph
 qd,t8tr.0,83347,83412,philosoph,83405,83408,ich,philosoph
 qd,t8tr.0,83417,83609,doctor,83529,83532,mir,doctor
@@ -591,6 +627,9 @@ qd,t8tr.0,86955,87184,philosoph,87039,87042,ich,philosoph
 qd,t8tr.0,86955,87184,philosoph,87127,87130,ich,philosoph
 qd,t8tr.0,87226,87394,philosoph,87274,87280,meines,philosoph
 qd,t8tr.0,87226,87394,philosoph,87373,87376,ich,philosoph
+qd,t8tr.0,87599,87663,_stage,87606,87612,Kilian,kilian
+qd,t8tr.0,87599,87663,_stage,87634,87644,Schlaukopf,schlaukopf
+qd,t8tr.0,87599,87663,_stage,87654,87662,Germania,germania
 qd,t8tr.0,87668,87887,schlaukopf,87816,87819,ich,schlaukopf
 qd,t8tr.0,87893,88021,germania,87918,87922,mich,germania
 qd,t8tr.0,87893,88021,germania,88007,88010,Mir,germania
@@ -609,10 +648,13 @@ qd,t8tr.0,88683,88839,germania,88786,88790,mich,germania
 qd,t8tr.0,88683,88839,germania,88819,88822,Ich,germania
 qd,t8tr.0,88896,89059,germania,88919,88923,mich,germania
 qd,t8tr.0,88896,89059,germania,88955,88958,ich,germania
+qd,t8tr.0,88896,89059,germania,89010,89018,Germania,germania
 qd,t8tr.0,89065,89134,schlaukopf,89122,89128,meiner,schlaukopf
 qd,t8tr.0,89140,89224,germania,89184,89187,ich,germania
 qd,t8tr.0,89230,89255,schlaukopf,89251,89254,mir,schlaukopf
 qd,t8tr.0,89260,89599,germania,89287,89290,Ich,germania
+qd,t8tr.0,89311,89334,_stage,89311,89321,Schlaukopf,schlaukopf
+qd,t8tr.0,89260,89599,germania,89364,89370,Kilian,kilian
 qd,t8tr.0,89260,89599,germania,89436,89439,mir,germania
 qd,t8tr.0,89260,89599,germania,89461,89464,ich,germania
 qd,t8tr.0,89604,99136,der_dichter,89651,89655,mein,der_dichter
@@ -630,6 +672,8 @@ qd,t8tr.0,89604,99136,der_dichter,93734,93737,ich,der_dichter
 qd,t8tr.0,89604,99136,der_dichter,93815,93819,mich,der_dichter
 qd,t8tr.0,89604,99136,der_dichter,94241,94245,Mich,der_dichter
 qd,t8tr.0,89604,99136,der_dichter,94281,94284,ich,der_dichter
+qd,t8tr.0,89604,99136,der_dichter,94612,94622,die fremde,die_fremde
+qd,t8tr.0,89604,99136,der_dichter,94616,94622,fremde,fremde
 qd,t8tr.0,89604,99136,der_dichter,95853,95856,ich,der_dichter
 qd,t8tr.0,89604,99136,der_dichter,95862,95866,mein,der_dichter
 qd,t8tr.0,89604,99136,der_dichter,95922,95925,ich,der_dichter
@@ -653,6 +697,7 @@ qd,t8tr.0,89604,99136,der_dichter,97179,97183,mich,der_dichter
 qd,t8tr.0,89604,99136,der_dichter,97267,97270,ich,der_dichter
 qd,t8tr.0,89604,99136,der_dichter,97329,97333,mein,der_dichter
 qd,t8tr.0,89604,99136,der_dichter,97581,97585,mein,der_dichter
+qd,t8tr.0,99178,99240,_stage,99197,99203,Fremde,fremde
 qd,t8tr.0,99243,100211,fremde,99387,99390,ich,fremde
 qd,t8tr.0,99243,100211,fremde,99391,99395,mich,fremde
 qd,t8tr.0,99243,100211,fremde,99461,99464,mir,fremde
@@ -677,6 +722,7 @@ qd,t8tr.0,100795,101369,germania,100907,100912,meine,germania
 qd,t8tr.0,100795,101369,germania,100952,100958,meinem,germania
 qd,t8tr.0,100795,101369,germania,101007,101010,ich,germania
 qd,t8tr.0,100795,101369,germania,101044,101048,mich,germania
+qd,t8tr.0,100795,101369,germania,101067,101073,Kilian,kilian
 qd,t8tr.0,100795,101369,germania,101104,101107,mir,germania
 qd,t8tr.0,100795,101369,germania,101183,101186,ich,germania
 qd,t8tr.0,100795,101369,germania,101211,101215,mich,germania
@@ -704,6 +750,8 @@ qd,t8tr.0,102687,102754,schlaukopf,102725,102728,ich,schlaukopf
 qd,t8tr.0,102687,102754,schlaukopf,102747,102750,ich,schlaukopf
 qd,t8tr.0,102759,102820,doctor,102793,102796,ich,doctor
 qd,t8tr.0,102759,102820,doctor,102813,102816,ich,doctor
+qd,t8tr.0,102885,102966,schlaukopf,102899,102905,DOCTOR,doctor
+qd,t8tr.0,103096,103136,schlaukopf,103110,103116,DOCTOR,doctor
 qd,t8tr.0,103142,103214,kilian,103173,103176,mir,kilian
 qd,t8tr.0,103219,103289,germania,103250,103253,ich,germania
 qd,t8tr.0,103377,103443,doctor,103407,103410,ich,doctor
@@ -714,6 +762,9 @@ qd,t8tr.0,103605,103665,germania,103653,103656,ich,germania
 qd,t8tr.0,103670,103731,schlaukopf,103707,103710,Ich,schlaukopf
 qd,t8tr.0,103796,103891,die_fremde,103845,103848,ich,die_fremde
 qd,t8tr.0,103796,103891,die_fremde,103849,103853,mich,die_fremde
+qd,t8tr.0,103898,103916,kilian,103906,103914,Germania,germania
+qd,t8tr.0,104026,104053,schlaukopf,104038,104046,Germania,germania
+qd,t8tr.0,104058,104081,doctor,104066,104074,Germania,germania
 qd,t8tr.0,104086,104118,germania,104106,104110,mich,germania
 qd,t8tr.0,104123,104159,die_fremde,104144,104147,ich,die_fremde
 qd,t8tr.0,104240,104339,kilian,104283,104286,ich,kilian
@@ -721,23 +772,33 @@ qd,t8tr.0,104240,104339,kilian,104310,104313,ich,kilian
 qd,t8tr.0,104409,104444,kilian,104421,104424,ich,kilian
 qd,t8tr.0,104449,104476,germania,104464,104467,ich,germania
 qd,t8tr.0,104481,104510,die_fremde,104498,104501,ich,die_fremde
+qd,t8tr.0,104572,104664,_stage,104640,104651,die Sklaven,die_sklaven
 qd,t8tr.0,104937,105031,schlaukopf,105026,105029,ich,schlaukopf
 qd,t8tr.0,105036,105075,die_fremde,105070,105073,ich,die_fremde
 qd,t8tr.0,105126,105153,die_fremde,105138,105142,Mein,die_fremde
+qd,t8tr.0,105232,105340,germania,105244,105250,KILIAN,kilian
 qd,t8tr.0,105232,105340,germania,105284,105287,ich,germania
 qd,t8tr.0,105232,105340,germania,105296,105299,ich,germania
 qd,t8tr.0,105232,105340,germania,105323,105327,mich,germania
 qd,t8tr.0,105346,105373,die_fremde,105358,105362,Mein,die_fremde
+qd,t8tr.0,105537,106235,schlaukopf,105571,105581,Schlaukopf,schlaukopf
 qd,t8tr.0,105537,106235,schlaukopf,105709,105712,mir,schlaukopf
 qd,t8tr.0,105537,106235,schlaukopf,105751,105754,ich,schlaukopf
 qd,t8tr.0,105537,106235,schlaukopf,105967,105971,mich,schlaukopf
+qd,t8tr.0,105537,106235,schlaukopf,105988,105996,Germania,germania
 qd,t8tr.0,105537,106235,schlaukopf,106003,106006,mir,schlaukopf
+qd,t8tr.0,105537,106235,schlaukopf,106056,106066,die Fremde,die_fremde
+qd,t8tr.0,105537,106235,schlaukopf,106060,106066,Fremde,fremde
 qd,t8tr.0,106241,106649,die_fremde,106308,106311,ich,die_fremde
 qd,t8tr.0,106241,106649,die_fremde,106381,106384,mir,die_fremde
+qd,t8tr.0,106241,106649,die_fremde,106453,106461,Germania,germania
 qd,t8tr.0,106241,106649,die_fremde,106607,106610,Ich,die_fremde
 qd,t8tr.0,106241,106649,die_fremde,106634,106637,ich,die_fremde
+qd,t8tr.0,106241,106649,die_fremde,106639,106647,Germania,germania
+qd,t8tr.0,106665,106679,_stage,106668,106678,Schlaukopf,schlaukopf
 qd,t8tr.0,106655,106748,germania,106711,106714,ich,germania
 qd,t8tr.0,106655,106748,germania,106734,106738,mich,germania
+qd,t8tr.0,106753,106816,doctor,106766,106774,Germania,germania
 qd,t8tr.0,106821,106891,kilian,106871,106874,mir,kilian
 qd,t8tr.0,107124,108093,schlaukopf,107190,107193,ich,schlaukopf
 qd,t8tr.0,107124,108093,schlaukopf,107272,107275,mir,schlaukopf
@@ -767,12 +828,21 @@ qd,t8tr.0,108099,109821,die_fremde,109645,109648,ich,die_fremde
 qd,t8tr.0,108099,109821,die_fremde,109693,109699,meines,die_fremde
 qd,t8tr.0,108099,109821,die_fremde,109770,109773,mir,die_fremde
 qd,t8tr.0,108099,109821,die_fremde,109817,109820,ich,die_fremde
+qd,t8tr.0,109845,109878,_stage,109856,109866,die Fremde,die_fremde
+qd,t8tr.0,109845,109878,_stage,109860,109866,Fremde,fremde
+qd,t8tr.0,109827,110519,die_sklaven,109898,109904,fremde,fremde
+qd,t8tr.0,110624,110636,_stage,110627,110635,Germania,germania
 qd,t8tr.0,110612,111037,schlaukopf,110656,110660,mein,schlaukopf
 qd,t8tr.0,111042,111101,germania,111068,111071,ich,germania
 qd,t8tr.0,111042,111101,germania,111086,111089,ich,germania
 qd,t8tr.0,111274,111384,doctor,111300,111303,ich,doctor
+qd,t8tr.0,111274,111384,doctor,111312,111322,Schlaukopf,schlaukopf
 qd,t8tr.0,111680,112074,germania,111883,111886,ich,germania
 qd,t8tr.0,111680,112074,germania,111982,111985,mir,germania
+qd,t8tr.0,111680,112074,germania,111998,112008,SCHLAUKOPF,schlaukopf
+qd,t8tr.0,111680,112074,germania,112010,112016,DOCTOR,doctor
+qd,t8tr.0,111680,112074,germania,112018,112024,KILIAN,kilian
+qd,t8tr.0,111680,112074,germania,112029,112033,Chor,chor
 qd,t8tr.0,112081,112389,germania,112195,112198,ich,germania
 qd,t8tr.0,112081,112389,germania,112236,112239,mir,germania
 qd,t8tr.0,112081,112389,germania,112350,112353,Ich,germania
@@ -820,11 +890,14 @@ qd,t8tr.0,114523,115101,die_fremde,115086,115090,mich,die_fremde
 qd,t8tr.0,115321,115396,die_fremde,115383,115387,mich,die_fremde
 qd,t8tr.0,115446,115474,germania,115470,115473,mir,germania
 qd,t8tr.0,115596,115625,germania,115620,115624,mich,germania
+qd,t8tr.0,115718,115785,doctor,115763,115769,Kilian,kilian
 qd,t8tr.0,115835,115883,schlaukopf,115851,115855,mich,schlaukopf
 qd,t8tr.0,116008,116052,germania,116041,116044,ich,germania
+qd,t8tr.0,116120,116306,_stage,116159,116167,Germania,germania
 qd,t8tr.0,117836,118140,ein_nachtwächter,117939,117943,mein,ein_nachtwächter
 qd,t8tr.0,117836,118140,ein_nachtwächter,117976,117980,mein,ein_nachtwächter
 qd,t8tr.0,117836,118140,ein_nachtwächter,118056,118060,mein,ein_nachtwächter
+qd,t8tr.0,118853,118872,_stage,118863,118871,Germania,germania
 qd,t8tr.0,118841,120249,die_fremde,118919,118922,ich,die_fremde
 qd,t8tr.0,118841,120249,die_fremde,118950,118953,ich,die_fremde
 qd,t8tr.0,118841,120249,die_fremde,118974,118977,mir,die_fremde
@@ -843,3 +916,4 @@ qd,t8tr.0,118841,120249,die_fremde,119690,119694,mich,die_fremde
 qd,t8tr.0,118841,120249,die_fremde,119705,119708,ich,die_fremde
 qd,t8tr.0,118841,120249,die_fremde,119722,119725,mir,die_fremde
 qd,t8tr.0,118841,120249,die_fremde,119726,119730,mein,die_fremde
+qd,t8tr.0,119849,119943,_stage,119853,119864,Die Sklaven,die_sklaven

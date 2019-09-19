@@ -1,6 +1,9 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,nsv5.0,538,559,_stage,538,542,Graf,der_graf
+qd,nsv5.0,538,559,_stage,552,558,Bertha,bertha
 qd,nsv5.0,562,1144,der_graf,697,700,ich,der_graf
 qd,nsv5.0,1150,1556,bertha,1191,1195,mein,bertha
+qd,nsv5.0,1563,1637,der_graf,1630,1636,Bertha,bertha
 qd,nsv5.0,2702,3305,der_graf,2735,2738,ich,der_graf
 qd,nsv5.0,3477,5830,der_graf,3541,3544,ich,der_graf
 qd,nsv5.0,3477,5830,der_graf,3723,3726,mir,der_graf
@@ -10,6 +13,8 @@ qd,nsv5.0,3477,5830,der_graf,3904,3907,ich,der_graf
 qd,nsv5.0,3477,5830,der_graf,3964,3967,mir,der_graf
 qd,nsv5.0,3477,5830,der_graf,4009,4015,meiner,der_graf
 qd,nsv5.0,3477,5830,der_graf,4150,4153,Mir,der_graf
+qd,nsv5.0,3477,5830,der_graf,4242,4253,die Ahnfrau,die_gestalt
+qd,nsv5.0,3477,5830,der_graf,4246,4253,Ahnfrau,die_gestalt
 qd,nsv5.0,3477,5830,der_graf,4499,4502,ich,der_graf
 qd,nsv5.0,3477,5830,der_graf,4602,4605,ich,der_graf
 qd,nsv5.0,3477,5830,der_graf,4699,4702,ich,der_graf
@@ -36,6 +41,8 @@ qd,nsv5.0,5862,6889,der_graf,6394,6397,ich,der_graf
 qd,nsv5.0,5862,6889,der_graf,6475,6478,mir,der_graf
 qd,nsv5.0,5862,6889,der_graf,6489,6495,Meines,der_graf
 qd,nsv5.0,5862,6889,der_graf,6750,6753,mir,der_graf
+qd,nsv5.0,5862,6889,der_graf,6831,6838,Jaromir,jaromir
+qd,nsv5.0,5862,6889,der_graf,6842,6849,Jaromir,jaromir
 qd,nsv5.0,5862,6889,der_graf,6867,6870,ich,der_graf
 qd,nsv5.0,6895,6916,bertha,6907,6910,ich,bertha
 qd,nsv5.0,6921,7461,der_graf,7026,7029,ich,der_graf
@@ -68,7 +75,10 @@ qd,nsv5.0,9338,9425,bertha,9360,9364,mich,bertha
 qd,nsv5.0,9502,9759,bertha,9657,9660,ich,bertha
 qd,nsv5.0,9765,10285,der_graf,9772,9775,Ich,der_graf
 qd,nsv5.0,9765,10285,der_graf,9840,9843,mir,der_graf
+qd,nsv5.0,9765,10285,der_graf,10029,10035,Bertha,bertha
 qd,nsv5.0,9765,10285,der_graf,10069,10075,meinen,der_graf
+qd,nsv5.0,10150,10285,_stage,10150,10156,Bertha,bertha
+qd,nsv5.0,10150,10285,_stage,10264,10270,Bertha,bertha
 qd,nsv5.0,10290,11378,bertha,10381,10387,meinen,bertha
 qd,nsv5.0,10290,11378,bertha,10460,10463,Ich,bertha
 qd,nsv5.0,10290,11378,bertha,10488,10492,Mein,bertha
@@ -87,14 +97,20 @@ qd,nsv5.0,10290,11378,bertha,11047,11050,ich,bertha
 qd,nsv5.0,10290,11378,bertha,11106,11109,ich,bertha
 qd,nsv5.0,10290,11378,bertha,11128,11131,ich,bertha
 qd,nsv5.0,10290,11378,bertha,11149,11152,ich,bertha
+qd,nsv5.0,11174,11378,_stage,11183,11194,Die Ahnfrau,die_gestalt
+qd,nsv5.0,11174,11378,_stage,11187,11194,Ahnfrau,die_gestalt
 qd,nsv5.0,11383,11712,der_graf,11419,11422,mir,der_graf
 qd,nsv5.0,11383,11712,der_graf,11474,11479,meine,der_graf
+qd,nsv5.0,11383,11712,der_graf,11480,11486,Bertha,bertha
 qd,nsv5.0,11383,11712,der_graf,11538,11541,mir,der_graf
+qd,nsv5.0,11383,11712,der_graf,11579,11585,Bertha,bertha
 qd,nsv5.0,11383,11712,der_graf,11588,11592,Mich,der_graf
+qd,nsv5.0,11622,11712,_stage,11622,11633,Die Gestalt,die_gestalt
 qd,nsv5.0,11717,12054,der_graf,11763,11766,mir,der_graf
 qd,nsv5.0,11717,12054,der_graf,11879,11882,mir,der_graf
 qd,nsv5.0,11717,12054,der_graf,11904,11907,ich,der_graf
 qd,nsv5.0,11717,12054,der_graf,11940,11944,mein,der_graf
+qd,nsv5.0,11987,12054,_stage,11987,11998,Die Gestalt,die_gestalt
 qd,nsv5.0,12059,12128,der_graf,12081,12084,ich,der_graf
 qd,nsv5.0,12059,12128,der_graf,12092,12096,mich,der_graf
 qd,nsv5.0,12227,12571,der_graf,12325,12328,ich,der_graf
@@ -104,6 +120,9 @@ qd,nsv5.0,12227,12571,der_graf,12381,12384,ich,der_graf
 qd,nsv5.0,12227,12571,der_graf,12414,12417,ich,der_graf
 qd,nsv5.0,12227,12571,der_graf,12424,12428,mein,der_graf
 qd,nsv5.0,12227,12571,der_graf,12493,12498,meine,der_graf
+qd,nsv5.0,12227,12571,der_graf,12518,12524,Bertha,bertha
+qd,nsv5.0,12227,12571,der_graf,12532,12538,Bertha,bertha
+qd,nsv5.0,12543,12571,_stage,12543,12549,Bertha,bertha
 qd,nsv5.0,12843,12867,bertha,12851,12854,Ich,bertha
 qd,nsv5.0,12843,12867,bertha,12856,12860,mein,bertha
 qd,nsv5.0,12872,12990,der_graf,12958,12961,Mir,der_graf
@@ -132,9 +151,12 @@ qd,nsv5.0,14624,15311,der_graf,14785,14788,ich,der_graf
 qd,nsv5.0,14624,15311,der_graf,14883,14886,ich,der_graf
 qd,nsv5.0,14624,15311,der_graf,14905,14908,ich,der_graf
 qd,nsv5.0,14624,15311,der_graf,14939,14944,meine,der_graf
+qd,nsv5.0,14624,15311,der_graf,14952,14958,Bertha,bertha
 qd,nsv5.0,14624,15311,der_graf,14974,14977,ich,der_graf
+qd,nsv5.0,14624,15311,der_graf,15019,15025,Bertha,bertha
 qd,nsv5.0,15317,15451,bertha,15352,15355,ich,bertha
 qd,nsv5.0,15457,15493,der_graf,15476,15479,mir,der_graf
+qd,nsv5.0,15457,15493,der_graf,15486,15492,Bertha,bertha
 qd,nsv5.0,15498,16817,bertha,15531,15535,mein,bertha
 qd,nsv5.0,15498,16817,bertha,15698,15701,ich,bertha
 qd,nsv5.0,15498,16817,bertha,15888,15892,mein,bertha
@@ -155,18 +177,29 @@ qd,nsv5.0,15498,16817,bertha,16563,16568,Meine,bertha
 qd,nsv5.0,15498,16817,bertha,16661,16664,mir,bertha
 qd,nsv5.0,15498,16817,bertha,16764,16767,mir,bertha
 qd,nsv5.0,15498,16817,bertha,16812,16816,mich,bertha
+qd,nsv5.0,16823,16849,günther,16837,16848,die Ahnfrau,die_gestalt
+qd,nsv5.0,16823,16849,günther,16841,16848,Ahnfrau,die_gestalt
+qd,nsv5.0,16854,16954,der_graf,16946,16953,Ahnfrau,die_gestalt
+qd,nsv5.0,16959,16988,bertha,16980,16987,Ahnfrau,die_gestalt
 qd,nsv5.0,17144,17269,bertha,17199,17202,mir,bertha
 qd,nsv5.0,17144,17269,bertha,17227,17230,mir,bertha
+qd,nsv5.0,17435,18586,günther,17582,17593,die Ahnfrau,die_gestalt
+qd,nsv5.0,17435,18586,günther,17586,17593,Ahnfrau,die_gestalt
+qd,nsv5.0,17435,18586,günther,17643,17649,Bertha,bertha
 qd,nsv5.0,18622,19832,günther,18651,18654,ich,günther
 qd,nsv5.0,18622,19832,günther,18702,18705,ich,günther
 qd,nsv5.0,18622,19832,günther,19019,19022,ich,günther
+qd,nsv5.0,19101,19202,_stage,19134,19140,Bertha,bertha
 qd,nsv5.0,18622,19832,günther,19247,19250,Ich,günther
 qd,nsv5.0,18622,19832,günther,19271,19277,Meinen,günther
 qd,nsv5.0,18622,19832,günther,19341,19344,ich,günther
 qd,nsv5.0,18622,19832,günther,19385,19389,mein,günther
+qd,nsv5.0,18622,19832,günther,19454,19461,Ahnfrau,die_gestalt
 qd,nsv5.0,20918,21490,der_graf,21160,21164,mein,der_graf
 qd,nsv5.0,20918,21490,der_graf,21186,21190,mich,der_graf
 qd,nsv5.0,20918,21490,der_graf,21196,21202,meinem,der_graf
+qd,nsv5.0,21342,21356,_stage,21349,21355,Bertha,bertha
+qd,nsv5.0,21359,21490,_stage,21475,21482,Jaromir,jaromir
 qd,nsv5.0,21495,21659,jaromir,21530,21533,Ich,jaromir
 qd,nsv5.0,21495,21659,jaromir,21570,21575,meine,jaromir
 qd,nsv5.0,21495,21659,jaromir,21598,21601,Ich,jaromir
@@ -186,7 +219,10 @@ qd,nsv5.0,22602,22809,günther,22695,22698,ich,günther
 qd,nsv5.0,22602,22809,günther,22704,22707,ich,günther
 qd,nsv5.0,22602,22809,günther,22714,22717,Ich,günther
 qd,nsv5.0,22814,22931,jaromir,22857,22860,ich,jaromir
+qd,nsv5.0,22903,22931,_stage,22903,22911,Der Graf,der_graf
+qd,nsv5.0,22903,22931,_stage,22907,22911,Graf,der_graf
 qd,nsv5.0,22936,23002,günther,22951,22955,mein,günther
+qd,nsv5.0,22984,23002,_stage,22984,22991,Jaromir,jaromir
 qd,nsv5.0,23007,23172,der_graf,23105,23108,mir,der_graf
 qd,nsv5.0,23178,23925,jaromir,23233,23239,meines,jaromir
 qd,nsv5.0,23178,23925,jaromir,23256,23260,mein,jaromir
@@ -205,6 +241,8 @@ qd,nsv5.0,23178,23925,jaromir,23873,23877,mich,jaromir
 qd,nsv5.0,23178,23925,jaromir,23905,23908,ich,jaromir
 qd,nsv5.0,24063,24142,bertha,24085,24088,ich,bertha
 qd,nsv5.0,24063,24142,bertha,24129,24133,Mein,bertha
+qd,nsv5.0,24063,24142,bertha,24134,24141,Jaromir,jaromir
+qd,nsv5.0,24148,24245,jaromir,24157,24163,Bertha,bertha
 qd,nsv5.0,24282,24387,bertha,24313,24317,mein,bertha
 qd,nsv5.0,24282,24387,bertha,24343,24347,mich,bertha
 qd,nsv5.0,24393,24878,der_graf,24573,24576,mir,der_graf
@@ -224,13 +262,18 @@ qd,nsv5.0,25332,25630,bertha,25415,25418,Ich,bertha
 qd,nsv5.0,25332,25630,bertha,25466,25469,mir,bertha
 qd,nsv5.0,25332,25630,bertha,25472,25477,Meine,bertha
 qd,nsv5.0,25332,25630,bertha,25566,25569,Ich,bertha
+qd,nsv5.0,25332,25630,bertha,25590,25596,Bertha,bertha
 qd,nsv5.0,25332,25630,bertha,25608,25612,mich,bertha
 qd,nsv5.0,25332,25630,bertha,25617,25621,mich,bertha
+qd,nsv5.0,25636,25652,jaromir,25645,25651,Bertha,bertha
 qd,nsv5.0,26098,26266,jaromir,26119,26122,ich,jaromir
 qd,nsv5.0,26098,26266,jaromir,26143,26146,ich,jaromir
 qd,nsv5.0,26098,26266,jaromir,26210,26213,ich,jaromir
 qd,nsv5.0,26273,26340,der_graf,26291,26295,mich,der_graf
+qd,nsv5.0,26390,26814,der_graf,26427,26433,Bertha,bertha
 qd,nsv5.0,26390,26814,der_graf,26754,26758,mein,der_graf
+qd,nsv5.0,26971,26990,_stage,26971,26975,Graf,der_graf
+qd,nsv5.0,26971,26990,_stage,26980,26986,Bertha,bertha
 qd,nsv5.0,26995,27069,günther,27019,27023,mein,günther
 qd,nsv5.0,26995,27069,günther,27039,27042,Ich,günther
 qd,nsv5.0,27075,27495,jaromir,27117,27121,mich,jaromir
@@ -262,8 +305,11 @@ qd,nsv5.0,27587,28969,jaromir,28676,28680,mich,jaromir
 qd,nsv5.0,27587,28969,jaromir,28739,28742,mir,jaromir
 qd,nsv5.0,27587,28969,jaromir,28770,28773,mir,jaromir
 qd,nsv5.0,27587,28969,jaromir,28835,28838,ich,jaromir
+qd,nsv5.0,28861,28969,_stage,28903,28914,die Ahnfrau,die_gestalt
+qd,nsv5.0,28861,28969,_stage,28907,28914,Ahnfrau,die_gestalt
 qd,nsv5.0,28974,29343,jaromir,29015,29018,Ich,jaromir
 qd,nsv5.0,28974,29343,jaromir,29051,29055,mich,jaromir
+qd,nsv5.0,29223,29343,_stage,29223,29234,Die Gestalt,die_gestalt
 qd,nsv5.0,29348,29957,jaromir,29358,29361,Ich,jaromir
 qd,nsv5.0,29348,29957,jaromir,29373,29376,Ich,jaromir
 qd,nsv5.0,29348,29957,jaromir,29406,29409,ich,jaromir
@@ -273,8 +319,17 @@ qd,nsv5.0,29348,29957,jaromir,29634,29638,mich,jaromir
 qd,nsv5.0,29348,29957,jaromir,29661,29664,ich,jaromir
 qd,nsv5.0,29348,29957,jaromir,29704,29710,meinen,jaromir
 qd,nsv5.0,29348,29957,jaromir,29724,29728,mich,jaromir
+qd,nsv5.0,29348,29957,jaromir,29828,29834,Bertha,bertha
 qd,nsv5.0,29348,29957,jaromir,29836,29841,Meine,jaromir
+qd,nsv5.0,29348,29957,jaromir,29842,29848,Bertha,bertha
+qd,nsv5.0,29852,29957,_stage,29881,29892,die Gestalt,die_gestalt
 qd,nsv5.0,30006,30317,bertha,30030,30033,ich,bertha
+qd,nsv5.0,30006,30317,bertha,30045,30052,Jaromir,jaromir
+qd,nsv5.0,30056,30317,_stage,30099,30110,die Gestalt,die_gestalt
+qd,nsv5.0,30056,30317,_stage,30193,30199,Bertha,bertha
+qd,nsv5.0,30056,30317,_stage,30224,30235,die Gestalt,die_gestalt
+qd,nsv5.0,30056,30317,_stage,30302,30309,Jaromir,jaromir
+qd,nsv5.0,30322,30373,bertha,30357,30364,Jaromir,jaromir
 qd,nsv5.0,30712,31464,jaromir,30735,30738,ich,jaromir
 qd,nsv5.0,30712,31464,jaromir,30754,30757,Ich,jaromir
 qd,nsv5.0,30712,31464,jaromir,30800,30803,mir,jaromir
@@ -286,7 +341,9 @@ qd,nsv5.0,30712,31464,jaromir,31023,31027,mich,jaromir
 qd,nsv5.0,30712,31464,jaromir,31154,31157,Ich,jaromir
 qd,nsv5.0,30712,31464,jaromir,31441,31445,mich,jaromir
 qd,nsv5.0,30712,31464,jaromir,31459,31463,mich,jaromir
+qd,nsv5.0,31470,31519,bertha,31497,31504,Jaromir,jaromir
 qd,nsv5.0,31470,31519,bertha,31506,31510,mein,bertha
+qd,nsv5.0,31470,31519,bertha,31511,31518,Jaromir,jaromir
 qd,nsv5.0,31524,31646,jaromir,31552,31555,ich,jaromir
 qd,nsv5.0,31524,31646,jaromir,31586,31589,ich,jaromir
 qd,nsv5.0,31524,31646,jaromir,31590,31594,mich,jaromir
@@ -330,6 +387,9 @@ qd,nsv5.0,34919,35342,jaromir,35148,35151,ich,jaromir
 qd,nsv5.0,34919,35342,jaromir,35205,35208,mir,jaromir
 qd,nsv5.0,34919,35342,jaromir,35237,35241,mich,jaromir
 qd,nsv5.0,34919,35342,jaromir,35319,35322,mir,jaromir
+qd,nsv5.0,35327,35342,_stage,35327,35335,Der Graf,der_graf
+qd,nsv5.0,35327,35342,_stage,35331,35335,Graf,der_graf
+qd,nsv5.0,35347,35407,der_graf,35387,35393,Bertha,bertha
 qd,nsv5.0,35413,35434,bertha,35421,35425,Mein,bertha
 qd,nsv5.0,35439,35742,jaromir,35454,35457,ich,jaromir
 qd,nsv5.0,35439,35742,jaromir,35472,35475,ich,jaromir
@@ -344,10 +404,13 @@ qd,nsv5.0,35930,36979,der_graf,36783,36787,mein,der_graf
 qd,nsv5.0,35930,36979,der_graf,36856,36860,mein,der_graf
 qd,nsv5.0,36985,37082,jaromir,37023,37026,Ich,jaromir
 qd,nsv5.0,37088,37831,der_graf,37144,37149,meine,der_graf
+qd,nsv5.0,37355,37465,_stage,37380,37387,Jaromir,jaromir
+qd,nsv5.0,37355,37465,_stage,37392,37398,Bertha,bertha
 qd,nsv5.0,37088,37831,der_graf,37513,37516,ich,der_graf
 qd,nsv5.0,37088,37831,der_graf,37529,37532,mir,der_graf
 qd,nsv5.0,37088,37831,der_graf,37716,37722,meiner,der_graf
 qd,nsv5.0,37088,37831,der_graf,37786,37789,mir,der_graf
+qd,nsv5.0,37836,37881,jaromir,37845,37851,Bertha,bertha
 qd,nsv5.0,37886,38053,bertha,38025,38029,mein,bertha
 qd,nsv5.0,38087,38309,bertha,38253,38256,ich,bertha
 qd,nsv5.0,38087,38309,bertha,38281,38285,mein,bertha
@@ -370,6 +433,9 @@ qd,nsv5.0,40220,40579,der_graf,40473,40477,mein,der_graf
 qd,nsv5.0,40220,40579,der_graf,40492,40496,mein,der_graf
 qd,nsv5.0,40585,40715,bertha,40662,40665,mir,bertha
 qd,nsv5.0,40585,40715,bertha,40688,40692,mich,bertha
+qd,nsv5.0,40721,40735,der_graf,40727,40734,Jaromir,jaromir
+qd,nsv5.0,40740,40786,jaromir,40781,40785,Graf,der_graf
+qd,nsv5.0,40791,41020,der_graf,40864,40871,Jaromir,jaromir
 qd,nsv5.0,40791,41020,der_graf,40973,40976,mir,der_graf
 qd,nsv5.0,40791,41020,der_graf,40977,40981,mein,der_graf
 qd,nsv5.0,40791,41020,der_graf,41009,41012,ich,der_graf
@@ -394,12 +460,17 @@ qd,nsv5.0,41338,42179,der_graf,41877,41881,mich,der_graf
 qd,nsv5.0,41338,42179,der_graf,42138,42141,ich,der_graf
 qd,nsv5.0,42185,42209,jaromir,42198,42202,mein,jaromir
 qd,nsv5.0,42236,42265,bertha,42253,42257,mich,bertha
+qd,nsv5.0,42606,42715,günther,42646,42655,Hauptmann,hauptmann
+qd,nsv5.0,42746,42769,günther,42764,42768,Graf,der_graf
 qd,nsv5.0,42774,42901,der_graf,42786,42789,ich,der_graf
 qd,nsv5.0,42774,42901,der_graf,42880,42883,mir,der_graf
+qd,nsv5.0,43073,43239,bertha,43082,43089,Jaromir,jaromir
 qd,nsv5.0,43073,43239,bertha,43149,43152,ich,bertha
 qd,nsv5.0,43245,43409,jaromir,43262,43265,ich,jaromir
 qd,nsv5.0,43245,43409,jaromir,43347,43350,mir,jaromir
+qd,nsv5.0,43360,43409,_stage,43389,43398,Hauptmann,hauptmann
 qd,nsv5.0,43414,43512,hauptmann,43441,43445,mein,hauptmann
+qd,nsv5.0,43414,43512,hauptmann,43451,43455,Graf,der_graf
 qd,nsv5.0,43414,43512,hauptmann,43462,43465,ich,hauptmann
 qd,nsv5.0,43518,43620,der_graf,43568,43572,mein,der_graf
 qd,nsv5.0,43518,43620,der_graf,43595,43599,mein,der_graf
@@ -409,10 +480,12 @@ qd,nsv5.0,43714,43895,hauptmann,43735,43738,ich,hauptmann
 qd,nsv5.0,43714,43895,hauptmann,43739,43743,mich,hauptmann
 qd,nsv5.0,43714,43895,hauptmann,43776,43781,meine,hauptmann
 qd,nsv5.0,43901,44212,der_graf,43958,43963,meine,der_graf
+qd,nsv5.0,43901,44212,der_graf,44064,44071,Jaromir,jaromir
 qd,nsv5.0,44405,44425,der_graf,44415,44419,mein,der_graf
 qd,nsv5.0,44971,45701,hauptmann,45096,45099,ich,hauptmann
 qd,nsv5.0,44971,45701,hauptmann,45137,45141,mich,hauptmann
 qd,nsv5.0,44971,45701,hauptmann,45346,45350,mein,hauptmann
+qd,nsv5.0,44971,45701,hauptmann,45357,45361,Graf,der_graf
 qd,nsv5.0,44971,45701,hauptmann,45368,45371,ich,hauptmann
 qd,nsv5.0,44971,45701,hauptmann,45398,45404,Meiner,hauptmann
 qd,nsv5.0,44971,45701,hauptmann,45497,45500,ich,hauptmann
@@ -435,6 +508,7 @@ qd,nsv5.0,47555,47595,hauptmann,47579,47582,ich,hauptmann
 qd,nsv5.0,47600,47642,jaromir,47630,47633,ich,jaromir
 qd,nsv5.0,47735,47779,hauptmann,47755,47758,ich,hauptmann
 qd,nsv5.0,47784,47823,jaromir,47818,47822,mich,jaromir
+qd,nsv5.0,47923,48281,der_graf,47930,47937,Jaromir,jaromir
 qd,nsv5.0,47923,48281,der_graf,47947,47950,ich,der_graf
 qd,nsv5.0,47923,48281,der_graf,47999,48005,meinen,der_graf
 qd,nsv5.0,47923,48281,der_graf,48130,48133,ich,der_graf
@@ -452,7 +526,9 @@ qd,nsv5.0,49286,49800,jaromir,49413,49416,Ich,jaromir
 qd,nsv5.0,49286,49800,jaromir,49638,49641,mir,jaromir
 qd,nsv5.0,49807,49884,bertha,49821,49824,ich,bertha
 qd,nsv5.0,49807,49884,bertha,49840,49844,mein,bertha
+qd,nsv5.0,50345,50378,der_graf,50351,50358,Jaromir,jaromir
 qd,nsv5.0,50383,50551,jaromir,50439,50442,mir,jaromir
+qd,nsv5.0,50563,50577,_stage,50567,50576,Hauptmann,hauptmann
 qd,nsv5.0,50557,50734,der_graf,50600,50604,mein,der_graf
 qd,nsv5.0,50969,51006,bertha,50983,50987,mein,bertha
 qd,nsv5.0,50969,51006,bertha,51002,51005,mir,bertha
@@ -463,13 +539,23 @@ qd,nsv5.0,51097,51231,hauptmann,51181,51184,ich,hauptmann
 qd,nsv5.0,51097,51231,hauptmann,51217,51221,mein,hauptmann
 qd,nsv5.0,51346,51718,hauptmann,51366,51369,Ich,hauptmann
 qd,nsv5.0,51346,51718,hauptmann,51556,51562,meiner,hauptmann
+qd,nsv5.0,51705,51718,_stage,51705,51711,Soldat,ein_soldat
+qd,nsv5.0,51723,51760,hauptmann,51734,51740,Walter,walter
+qd,nsv5.0,51750,51760,_stage,51750,51756,Soldat,ein_soldat
+qd,nsv5.0,51765,52052,der_graf,51804,51811,Jaromir,jaromir
+qd,nsv5.0,52058,52093,bertha,52066,52073,Jaromir,jaromir
 qd,nsv5.0,52098,52232,jaromir,52153,52156,ich,jaromir
 qd,nsv5.0,52098,52232,jaromir,52157,52161,mich,jaromir
+qd,nsv5.0,52179,52232,_stage,52219,52225,Walter,walter
 qd,nsv5.0,52237,52302,hauptmann,52298,52301,mir,hauptmann
+qd,nsv5.0,52309,52337,walter,52327,52336,Hauptmann,hauptmann
 qd,nsv5.0,52451,52489,walter,52471,52474,ich,walter
+qd,nsv5.0,52502,52518,_stage,52502,52509,Jaromir,jaromir
+qd,nsv5.0,52556,52600,_stage,52556,52563,Jaromir,jaromir
 qd,nsv5.0,52649,52961,hauptmann,52730,52733,mir,hauptmann
 qd,nsv5.0,52649,52961,hauptmann,52772,52775,ich,hauptmann
 qd,nsv5.0,52649,52961,hauptmann,52860,52864,Mein,hauptmann
+qd,nsv5.0,52649,52961,hauptmann,52870,52874,Graf,der_graf
 qd,nsv5.0,52649,52961,hauptmann,52900,52903,ich,hauptmann
 qd,nsv5.0,53009,53269,hauptmann,53041,53045,mein,hauptmann
 qd,nsv5.0,53009,53269,hauptmann,53153,53156,ich,hauptmann
@@ -494,10 +580,14 @@ qd,nsv5.0,54511,54881,der_graf,54525,54529,mein,der_graf
 qd,nsv5.0,54511,54881,der_graf,54546,54549,ich,der_graf
 qd,nsv5.0,54511,54881,der_graf,54608,54612,mein,der_graf
 qd,nsv5.0,54511,54881,der_graf,54644,54647,ich,der_graf
+qd,nsv5.0,54511,54881,der_graf,54648,54652,Graf,der_graf
+qd,nsv5.0,54860,54881,_stage,54871,54880,Hauptmann,hauptmann
 qd,nsv5.0,54886,58432,bertha,54936,54940,mich,bertha
 qd,nsv5.0,54886,58432,bertha,55027,55030,ich,bertha
 qd,nsv5.0,54886,58432,bertha,55131,55134,mir,bertha
+qd,nsv5.0,54886,58432,bertha,55182,55189,Jaromir,jaromir
 qd,nsv5.0,54886,58432,bertha,55191,55195,Mein,bertha
+qd,nsv5.0,54886,58432,bertha,55196,55203,Jaromir,jaromir
 qd,nsv5.0,54886,58432,bertha,55281,55284,ich,bertha
 qd,nsv5.0,54886,58432,bertha,55310,55313,ich,bertha
 qd,nsv5.0,54886,58432,bertha,55334,55337,mir,bertha
@@ -535,17 +625,24 @@ qd,nsv5.0,54886,58432,bertha,57750,57753,Ich,bertha
 qd,nsv5.0,54886,58432,bertha,57816,57819,mir,bertha
 qd,nsv5.0,54886,58432,bertha,57866,57869,ich,bertha
 qd,nsv5.0,54886,58432,bertha,57894,57897,ich,bertha
+qd,nsv5.0,54886,58432,bertha,57955,57962,Jaromir,jaromir
+qd,nsv5.0,54886,58432,bertha,57999,58005,Bertha,bertha
+qd,nsv5.0,54886,58432,bertha,58009,58016,Jaromir,jaromir
 qd,nsv5.0,54886,58432,bertha,58072,58076,mich,bertha
 qd,nsv5.0,54886,58432,bertha,58089,58092,ich,bertha
 qd,nsv5.0,54886,58432,bertha,58141,58144,ich,bertha
+qd,nsv5.0,58737,58831,_stage,58745,58752,Jaromir,jaromir
+qd,nsv5.0,58836,58997,bertha,58845,58852,Jaromir,jaromir
 qd,nsv5.0,58836,58997,bertha,58888,58891,mir,bertha
 qd,nsv5.0,58836,58997,bertha,58920,58923,ich,bertha
+qd,nsv5.0,59045,59143,bertha,59087,59094,Jaromir,jaromir
 qd,nsv5.0,59324,59462,bertha,59338,59342,mich,bertha
 qd,nsv5.0,59510,59851,jaromir,59560,59563,ich,jaromir
 qd,nsv5.0,59510,59851,jaromir,59605,59608,ich,jaromir
 qd,nsv5.0,59510,59851,jaromir,59649,59653,mein,jaromir
 qd,nsv5.0,59510,59851,jaromir,59799,59802,ich,jaromir
 qd,nsv5.0,59510,59851,jaromir,59830,59834,mich,jaromir
+qd,nsv5.0,59857,59960,bertha,59866,59873,Jaromir,jaromir
 qd,nsv5.0,59857,59960,bertha,59875,59878,ich,bertha
 qd,nsv5.0,59857,59960,bertha,59901,59904,mir,bertha
 qd,nsv5.0,59857,59960,bertha,59915,59918,mir,bertha
@@ -575,16 +672,19 @@ qd,nsv5.0,61716,62542,bertha,61874,61877,Ich,bertha
 qd,nsv5.0,61716,62542,bertha,61902,61905,mir,bertha
 qd,nsv5.0,61716,62542,bertha,61911,61914,ich,bertha
 qd,nsv5.0,61716,62542,bertha,61938,61941,mir,bertha
+qd,nsv5.0,61716,62542,bertha,62055,62062,Jaromir,jaromir
 qd,nsv5.0,61716,62542,bertha,62064,62067,ich,bertha
 qd,nsv5.0,61716,62542,bertha,62284,62287,ich,bertha
 qd,nsv5.0,61716,62542,bertha,62465,62469,mein,bertha
 qd,nsv5.0,62547,62768,bertha,62763,62767,mich,bertha
 qd,nsv5.0,62774,62807,jaromir,62798,62801,ich,jaromir
 qd,nsv5.0,63247,63359,ein_soldat,63344,63348,mein,ein_soldat
+qd,nsv5.0,63247,63359,ein_soldat,63349,63358,Hauptmann,hauptmann
 qd,nsv5.0,63364,63390,bertha,63378,63382,mein,bertha
 qd,nsv5.0,63553,63578,bertha,63565,63569,mein,bertha
 qd,nsv5.0,63583,64043,ein_soldat,63624,63628,mein,ein_soldat
 qd,nsv5.0,63583,64043,ein_soldat,63756,63759,ich,ein_soldat
+qd,nsv5.0,63583,64043,ein_soldat,63814,63823,Hauptmann,hauptmann
 qd,nsv5.0,63583,64043,ein_soldat,63851,63854,ich,ein_soldat
 qd,nsv5.0,63583,64043,ein_soldat,64006,64012,meiner,ein_soldat
 qd,nsv5.0,64078,64711,ein_soldat,64227,64230,ich,ein_soldat
@@ -601,6 +701,7 @@ qd,nsv5.0,64864,65898,ein_soldat,64970,64973,Ich,ein_soldat
 qd,nsv5.0,64864,65898,ein_soldat,65022,65025,ich,ein_soldat
 qd,nsv5.0,65921,66098,ein_soldat,66038,66041,ich,ein_soldat
 qd,nsv5.0,66103,66207,bertha,66115,66118,mir,bertha
+qd,nsv5.0,66212,66277,jaromir,66270,66276,Bertha,bertha
 qd,nsv5.0,66368,66406,jaromir,66392,66397,Meine,jaromir
 qd,nsv5.0,66489,67671,jaromir,66624,66627,ich,jaromir
 qd,nsv5.0,66489,67671,jaromir,66652,66655,ich,jaromir
@@ -617,11 +718,15 @@ qd,nsv5.0,66489,67671,jaromir,67223,67226,ich,jaromir
 qd,nsv5.0,66489,67671,jaromir,67254,67257,ich,jaromir
 qd,nsv5.0,66489,67671,jaromir,67527,67530,ich,jaromir
 qd,nsv5.0,66489,67671,jaromir,67558,67561,ich,jaromir
+qd,nsv5.0,66489,67671,jaromir,67663,67670,Jaromir,jaromir
 qd,nsv5.0,67677,67699,bertha,67689,67692,mir,bertha
 qd,nsv5.0,67704,68556,jaromir,67880,67883,ich,jaromir
 qd,nsv5.0,67704,68556,jaromir,68179,68182,ich,jaromir
 qd,nsv5.0,67704,68556,jaromir,68321,68324,ich,jaromir
+qd,nsv5.0,67704,68556,jaromir,68439,68445,Bertha,bertha
+qd,nsv5.0,67704,68556,jaromir,68447,68453,Bertha,bertha
 qd,nsv5.0,67704,68556,jaromir,68462,68465,mir,jaromir
+qd,nsv5.0,67704,68556,jaromir,68548,68555,Jaromir,jaromir
 qd,nsv5.0,68588,70617,jaromir,68630,68633,ich,jaromir
 qd,nsv5.0,68588,70617,jaromir,68639,68642,ich,jaromir
 qd,nsv5.0,68588,70617,jaromir,68874,68877,ich,jaromir
@@ -641,12 +746,18 @@ qd,nsv5.0,68588,70617,jaromir,70382,70386,mich,jaromir
 qd,nsv5.0,68588,70617,jaromir,70403,70406,mir,jaromir
 qd,nsv5.0,68588,70617,jaromir,70494,70498,mein,jaromir
 qd,nsv5.0,68588,70617,jaromir,70534,70538,mich,jaromir
+qd,nsv5.0,70622,70665,bertha,70645,70652,Jaromir,jaromir
 qd,nsv5.0,70670,70860,jaromir,70688,70691,ich,jaromir
 qd,nsv5.0,70670,70860,jaromir,70702,70708,meiner,jaromir
+qd,nsv5.0,70670,70860,jaromir,70709,70715,Bertha,bertha
 qd,nsv5.0,70670,70860,jaromir,70741,70744,mir,jaromir
 qd,nsv5.0,70670,70860,jaromir,70797,70800,mir,jaromir
+qd,nsv5.0,70670,70860,jaromir,70831,70837,Bertha,bertha
+qd,nsv5.0,70670,70860,jaromir,70839,70845,Bertha,bertha
 qd,nsv5.0,70670,70860,jaromir,70847,70852,Meine,jaromir
+qd,nsv5.0,70670,70860,jaromir,70853,70859,Bertha,bertha
 qd,nsv5.0,70865,71049,bertha,70877,70881,mich,bertha
+qd,nsv5.0,70885,71049,_stage,70923,70930,Jaromir,jaromir
 qd,nsv5.0,71054,72407,jaromir,71070,71073,ich,jaromir
 qd,nsv5.0,71054,72407,jaromir,71301,71305,mich,jaromir
 qd,nsv5.0,71054,72407,jaromir,71318,71322,mich,jaromir
@@ -663,10 +774,16 @@ qd,nsv5.0,71054,72407,jaromir,71801,71805,mich,jaromir
 qd,nsv5.0,71054,72407,jaromir,71863,71867,mich,jaromir
 qd,nsv5.0,71054,72407,jaromir,71881,71885,mich,jaromir
 qd,nsv5.0,71054,72407,jaromir,71899,71903,mich,jaromir
+qd,nsv5.0,71054,72407,jaromir,71929,71935,Bertha,bertha
+qd,nsv5.0,71054,72407,jaromir,71937,71943,Bertha,bertha
 qd,nsv5.0,71054,72407,jaromir,72022,72027,Meine,jaromir
+qd,nsv5.0,71054,72407,jaromir,72028,72034,Bertha,bertha
 qd,nsv5.0,71054,72407,jaromir,72186,72189,ich,jaromir
 qd,nsv5.0,71054,72407,jaromir,72227,72230,mir,jaromir
+qd,nsv5.0,71054,72407,jaromir,72299,72305,Bertha,bertha
 qd,nsv5.0,71054,72407,jaromir,72402,72406,mein,jaromir
+qd,nsv5.0,72413,72442,bertha,72421,72428,Jaromir,jaromir
+qd,nsv5.0,72413,72442,bertha,72434,72441,Jaromir,jaromir
 qd,nsv5.0,72447,73633,jaromir,72545,72549,mich,jaromir
 qd,nsv5.0,72447,73633,jaromir,72571,72574,ich,jaromir
 qd,nsv5.0,72447,73633,jaromir,72597,72602,Meine,jaromir
@@ -674,12 +791,14 @@ qd,nsv5.0,72447,73633,jaromir,72642,72645,ich,jaromir
 qd,nsv5.0,72447,73633,jaromir,72735,72738,ich,jaromir
 qd,nsv5.0,72447,73633,jaromir,73075,73078,ich,jaromir
 qd,nsv5.0,72447,73633,jaromir,73117,73122,meine,jaromir
+qd,nsv5.0,72447,73633,jaromir,73123,73129,Bertha,bertha
 qd,nsv5.0,72447,73633,jaromir,73147,73150,ich,jaromir
 qd,nsv5.0,72447,73633,jaromir,73171,73174,ich,jaromir
 qd,nsv5.0,72447,73633,jaromir,73262,73266,mein,jaromir
 qd,nsv5.0,72447,73633,jaromir,73311,73315,mein,jaromir
 qd,nsv5.0,72447,73633,jaromir,73342,73346,mich,jaromir
 qd,nsv5.0,72447,73633,jaromir,73370,73374,mich,jaromir
+qd,nsv5.0,72447,73633,jaromir,73433,73439,Bertha,bertha
 qd,nsv5.0,72447,73633,jaromir,73468,73471,ich,jaromir
 qd,nsv5.0,73639,73664,bertha,73660,73663,ich,bertha
 qd,nsv5.0,73669,73725,jaromir,73684,73687,ich,jaromir
@@ -714,6 +833,9 @@ qd,nsv5.0,75960,76068,bertha,75986,75989,mir,bertha
 qd,nsv5.0,75960,76068,bertha,76010,76013,ich,bertha
 qd,nsv5.0,75960,76068,bertha,76048,76052,mein,bertha
 qd,nsv5.0,76074,76191,jaromir,76172,76175,mir,jaromir
+qd,nsv5.0,76310,76786,bertha,76455,76462,Ahnfrau,die_gestalt
+qd,nsv5.0,76696,76786,_stage,76696,76707,Die Ahnfrau,die_gestalt
+qd,nsv5.0,76696,76786,_stage,76700,76707,Ahnfrau,die_gestalt
 qd,nsv5.0,76791,76980,bertha,76851,76854,Ich,bertha
 qd,nsv5.0,76791,76980,bertha,76886,76890,mich,bertha
 qd,nsv5.0,76791,76980,bertha,76916,76920,mich,bertha
@@ -736,6 +858,8 @@ qd,nsv5.0,77080,77971,jaromir,77859,77862,ich,jaromir
 qd,nsv5.0,77080,77971,jaromir,77886,77890,mein,jaromir
 qd,nsv5.0,77080,77971,jaromir,77929,77933,mein,jaromir
 qd,nsv5.0,77080,77971,jaromir,77947,77950,mir,jaromir
+qd,nsv5.0,78092,78137,_stage,78112,78123,Die Ahnfrau,die_gestalt
+qd,nsv5.0,78092,78137,_stage,78116,78123,Ahnfrau,die_gestalt
 qd,nsv5.0,78142,78667,jaromir,78440,78443,ich,jaromir
 qd,nsv5.0,78142,78667,jaromir,78451,78455,mich,jaromir
 qd,nsv5.0,78142,78667,jaromir,78490,78494,mich,jaromir
@@ -755,7 +879,10 @@ qd,nsv5.0,78715,79224,jaromir,78934,78938,mein,jaromir
 qd,nsv5.0,78715,79224,jaromir,78953,78956,Mir,jaromir
 qd,nsv5.0,78715,79224,jaromir,78995,78999,mich,jaromir
 qd,nsv5.0,78715,79224,jaromir,79076,79080,mein,jaromir
+qd,nsv5.0,79267,79401,_stage,79326,79332,Bertha,bertha
 qd,nsv5.0,79404,80086,günther,79437,79441,mein,günther
+qd,nsv5.0,79404,80086,günther,79955,79966,die Ahnfrau,die_gestalt
+qd,nsv5.0,79404,80086,günther,79959,79966,Ahnfrau,die_gestalt
 qd,nsv5.0,80570,80643,bertha,80624,80627,ich,bertha
 qd,nsv5.0,80902,81108,bertha,80965,80968,ich,bertha
 qd,nsv5.0,81280,81491,bertha,81332,81336,mich,bertha
@@ -766,11 +893,15 @@ qd,nsv5.0,81632,81852,bertha,81711,81714,mir,bertha
 qd,nsv5.0,81858,81991,günther,81987,81990,mir,günther
 qd,nsv5.0,82343,82575,bertha,82433,82436,ich,bertha
 qd,nsv5.0,82343,82575,bertha,82437,82442,meine,bertha
+qd,nsv5.0,82482,82575,_stage,82543,82549,Bertha,bertha
+qd,nsv5.0,82977,83201,bertha,83010,83017,GÜNTHER,günther
 qd,nsv5.0,82977,83201,bertha,83020,83023,Ich,bertha
 qd,nsv5.0,82977,83201,bertha,83146,83150,mich,bertha
 qd,nsv5.0,83233,83260,günther,83255,83259,mich,günther
 qd,nsv5.0,83309,83347,günther,83322,83325,ich,günther
 qd,nsv5.0,83352,83379,bertha,83366,83370,mein,bertha
+qd,nsv5.0,83352,83379,bertha,83371,83378,Jaromir,jaromir
+qd,nsv5.0,83578,83594,_stage,83578,83587,Hauptmann,hauptmann
 qd,nsv5.0,83732,83894,hauptmann,83759,83763,mein,hauptmann
 qd,nsv5.0,83732,83894,hauptmann,83793,83796,ich,hauptmann
 qd,nsv5.0,83732,83894,hauptmann,83827,83830,ich,hauptmann
@@ -794,6 +925,7 @@ qd,nsv5.0,86219,86337,bertha,86241,86245,mich,bertha
 qd,nsv5.0,86219,86337,bertha,86252,86256,mich,bertha
 qd,nsv5.0,86219,86337,bertha,86326,86330,mein,bertha
 qd,nsv5.0,86343,86447,der_graf,86379,86384,meine,der_graf
+qd,nsv5.0,86343,86447,der_graf,86385,86391,Bertha,bertha
 qd,nsv5.0,86453,86550,bertha,86469,86472,mir,bertha
 qd,nsv5.0,86453,86550,bertha,86499,86502,mir,bertha
 qd,nsv5.0,86453,86550,bertha,86537,86542,meine,bertha
@@ -802,7 +934,9 @@ qd,nsv5.0,86556,86765,der_graf,86635,86639,mein,der_graf
 qd,nsv5.0,86556,86765,der_graf,86674,86677,ich,der_graf
 qd,nsv5.0,86556,86765,der_graf,86678,86683,meine,der_graf
 qd,nsv5.0,86556,86765,der_graf,86743,86747,mich,der_graf
+qd,nsv5.0,86556,86765,der_graf,86757,86764,Jaromir,jaromir
 qd,nsv5.0,86771,86810,bertha,86795,86798,Ich,bertha
+qd,nsv5.0,86815,86847,der_graf,86828,86835,Jaromir,jaromir
 qd,nsv5.0,86815,86847,der_graf,86837,86841,mein,der_graf
 qd,nsv5.0,86917,87315,der_graf,86967,86972,Meine,der_graf
 qd,nsv5.0,86917,87315,der_graf,87276,87281,meine,der_graf
@@ -813,13 +947,19 @@ qd,nsv5.0,87422,87821,der_graf,87620,87624,Mich,der_graf
 qd,nsv5.0,87422,87821,der_graf,87680,87684,mich,der_graf
 qd,nsv5.0,87827,87991,bertha,87924,87927,ich,bertha
 qd,nsv5.0,87827,87991,bertha,87936,87940,mich,bertha
+qd,nsv5.0,88133,88150,_stage,88133,88143,Ein Soldat,ein_soldat
+qd,nsv5.0,88133,88150,_stage,88137,88143,Soldat,ein_soldat
+qd,nsv5.0,88163,88177,_stage,88167,88176,Hauptmann,hauptmann
+qd,nsv5.0,88398,88538,ein_soldat,88418,88422,Graf,der_graf
 qd,nsv5.0,88620,88846,der_graf,88674,88678,mich,der_graf
 qd,nsv5.0,88620,88846,der_graf,88696,88699,ich,der_graf
 qd,nsv5.0,88620,88846,der_graf,88749,88752,mir,der_graf
 qd,nsv5.0,88620,88846,der_graf,88788,88791,ich,der_graf
+qd,nsv5.0,88881,88891,_stage,88881,88887,Soldat,ein_soldat
 qd,nsv5.0,89015,89508,der_graf,89050,89053,ich,der_graf
 qd,nsv5.0,89015,89508,der_graf,89229,89235,meiner,der_graf
 qd,nsv5.0,89015,89508,der_graf,89251,89255,Mich,der_graf
+qd,nsv5.0,89469,89508,_stage,89469,89477,Boleslav,boleslav
 qd,nsv5.0,89513,89780,boleslav,89598,89602,mich,boleslav
 qd,nsv5.0,89513,89780,boleslav,89637,89641,mich,boleslav
 qd,nsv5.0,89513,89780,boleslav,89680,89683,ich,boleslav
@@ -849,9 +989,13 @@ qd,nsv5.0,91779,92230,der_graf,91985,91988,mir,der_graf
 qd,nsv5.0,91779,92230,der_graf,92087,92090,ich,der_graf
 qd,nsv5.0,91779,92230,der_graf,92191,92194,mir,der_graf
 qd,nsv5.0,91779,92230,der_graf,92222,92225,ich,der_graf
+qd,nsv5.0,92405,92421,bertha,92413,92420,Jaromir,jaromir
 qd,nsv5.0,92541,92570,boleslav,92560,92564,mein,boleslav
 qd,nsv5.0,92595,92626,boleslav,92605,92608,Ich,boleslav
+qd,nsv5.0,92719,92805,hauptmann,92761,92765,Graf,der_graf
+qd,nsv5.0,92769,92790,_stage,92773,92781,Boleslav,boleslav
 qd,nsv5.0,92810,92837,boleslav,92820,92824,Mein,boleslav
+qd,nsv5.0,92869,92893,_stage,92869,92877,Boleslav,boleslav
 qd,nsv5.0,92898,93125,der_graf,92953,92957,mich,der_graf
 qd,nsv5.0,93239,93684,der_graf,93254,93257,ich,der_graf
 qd,nsv5.0,93239,93684,der_graf,93288,93291,mir,der_graf
@@ -865,12 +1009,17 @@ qd,nsv5.0,93778,95101,der_graf,93937,93940,Ich,der_graf
 qd,nsv5.0,93778,95101,der_graf,93980,93986,meinem,der_graf
 qd,nsv5.0,93778,95101,der_graf,94011,94015,mich,der_graf
 qd,nsv5.0,93778,95101,der_graf,94046,94050,mein,der_graf
+qd,nsv5.0,93778,95101,der_graf,94188,94195,Ahnfrau,die_gestalt
 qd,nsv5.0,93778,95101,der_graf,94794,94797,ich,der_graf
 qd,nsv5.0,93778,95101,der_graf,94804,94808,mich,der_graf
 qd,nsv5.0,93778,95101,der_graf,94904,94908,mich,der_graf
 qd,nsv5.0,93778,95101,der_graf,94980,94984,mein,der_graf
+qd,nsv5.0,95656,95770,_stage,95698,95707,Hauptmann,hauptmann
 qd,nsv5.0,95950,96000,hauptmann,95967,95970,mir,hauptmann
+qd,nsv5.0,96005,96166,günther,96116,96122,Bertha,bertha
 qd,nsv5.0,96171,98123,bertha,96208,96211,mir,bertha
+qd,nsv5.0,96171,98123,bertha,96219,96225,Bertha,bertha
+qd,nsv5.0,96171,98123,bertha,96245,96251,Bertha,bertha
 qd,nsv5.0,96171,98123,bertha,96256,96260,mein,bertha
 qd,nsv5.0,96171,98123,bertha,96281,96284,ich,bertha
 qd,nsv5.0,96171,98123,bertha,96350,96354,mein,bertha
@@ -880,6 +1029,7 @@ qd,nsv5.0,96171,98123,bertha,96602,96605,ich,bertha
 qd,nsv5.0,96171,98123,bertha,96763,96767,mein,bertha
 qd,nsv5.0,96171,98123,bertha,96797,96801,mein,bertha
 qd,nsv5.0,96171,98123,bertha,96815,96819,mein,bertha
+qd,nsv5.0,96171,98123,bertha,96828,96835,Jaromir,jaromir
 qd,nsv5.0,96171,98123,bertha,97119,97123,mein,bertha
 qd,nsv5.0,96171,98123,bertha,97144,97148,Mein,bertha
 qd,nsv5.0,96171,98123,bertha,97361,97364,mir,bertha
@@ -918,6 +1068,7 @@ qd,nsv5.0,98348,100860,jaromir,100382,100385,mir,jaromir
 qd,nsv5.0,98348,100860,jaromir,100441,100444,ich,jaromir
 qd,nsv5.0,98348,100860,jaromir,100621,100625,mich,jaromir
 qd,nsv5.0,98348,100860,jaromir,100667,100670,Ich,jaromir
+qd,nsv5.0,100845,100860,_stage,100845,100853,Boleslav,boleslav
 qd,nsv5.0,100866,101258,boleslav,100920,100923,ich,boleslav
 qd,nsv5.0,100866,101258,boleslav,100924,100930,meiner,boleslav
 qd,nsv5.0,100866,101258,boleslav,100989,100994,meine,boleslav
@@ -925,8 +1076,10 @@ qd,nsv5.0,100866,101258,boleslav,101007,101010,ich,boleslav
 qd,nsv5.0,100866,101258,boleslav,101057,101060,ich,boleslav
 qd,nsv5.0,100866,101258,boleslav,101104,101107,ich,boleslav
 qd,nsv5.0,100866,101258,boleslav,101108,101112,mich,boleslav
+qd,nsv5.0,100866,101258,boleslav,101117,101124,Jaromir,jaromir
 qd,nsv5.0,100866,101258,boleslav,101245,101248,mir,boleslav
 qd,nsv5.0,101264,101318,jaromir,101297,101303,meines,jaromir
+qd,nsv5.0,101323,101353,boleslav,101333,101340,Jaromir,jaromir
 qd,nsv5.0,101358,101376,jaromir,101367,101370,Ich,jaromir
 qd,nsv5.0,101409,101586,jaromir,101511,101515,mein,jaromir
 qd,nsv5.0,101592,101824,boleslav,101608,101611,ich,boleslav
@@ -935,6 +1088,7 @@ qd,nsv5.0,101592,101824,boleslav,101797,101800,ich,boleslav
 qd,nsv5.0,101830,102101,jaromir,101865,101869,mein,jaromir
 qd,nsv5.0,101830,102101,jaromir,101890,101893,ich,jaromir
 qd,nsv5.0,101830,102101,jaromir,102046,102050,mein,jaromir
+qd,nsv5.0,102108,102189,boleslav,102159,102166,Jaromir,jaromir
 qd,nsv5.0,102108,102189,boleslav,102178,102182,mich,boleslav
 qd,nsv5.0,102195,102303,jaromir,102210,102213,ich,jaromir
 qd,nsv5.0,102195,102303,jaromir,102285,102288,mir,jaromir
@@ -942,12 +1096,14 @@ qd,nsv5.0,102309,102593,boleslav,102537,102540,ich,boleslav
 qd,nsv5.0,102678,102726,boleslav,102694,102698,mein,boleslav
 qd,nsv5.0,102678,102726,boleslav,102716,102720,mein,boleslav
 qd,nsv5.0,102731,103936,jaromir,102760,102763,Ich,jaromir
+qd,nsv5.0,102731,103936,jaromir,102794,102802,Boleslav,boleslav
 qd,nsv5.0,102731,103936,jaromir,102817,102820,ich,jaromir
 qd,nsv5.0,102731,103936,jaromir,102909,102912,Ich,jaromir
 qd,nsv5.0,102731,103936,jaromir,102954,102957,ich,jaromir
 qd,nsv5.0,102731,103936,jaromir,103009,103012,mir,jaromir
 qd,nsv5.0,102731,103936,jaromir,103030,103036,Meinen,jaromir
 qd,nsv5.0,102731,103936,jaromir,103125,103129,mein,jaromir
+qd,nsv5.0,103155,103179,_stage,103155,103163,Boleslav,boleslav
 qd,nsv5.0,102731,103936,jaromir,103244,103248,mich,jaromir
 qd,nsv5.0,102731,103936,jaromir,103551,103554,ich,jaromir
 qd,nsv5.0,102731,103936,jaromir,103607,103610,mir,jaromir
@@ -979,6 +1135,8 @@ qd,nsv5.0,104979,105725,jaromir,105596,105600,mich,jaromir
 qd,nsv5.0,104979,105725,jaromir,105671,105675,mein,jaromir
 qd,nsv5.0,104979,105725,jaromir,105716,105720,mich,jaromir
 qd,nsv5.0,105732,106158,boleslav,105764,105767,mir,boleslav
+qd,nsv5.0,105732,106158,boleslav,105974,105981,Jaromir,jaromir
+qd,nsv5.0,105732,106158,boleslav,106141,106145,Graf,der_graf
 qd,nsv5.0,106435,106853,boleslav,106460,106463,ich,boleslav
 qd,nsv5.0,106435,106853,boleslav,106481,106484,mir,boleslav
 qd,nsv5.0,106435,106853,boleslav,106630,106633,mir,boleslav
@@ -1028,6 +1186,7 @@ qd,nsv5.0,112396,112842,jaromir,112588,112592,mich,jaromir
 qd,nsv5.0,112396,112842,jaromir,112713,112716,Ich,jaromir
 qd,nsv5.0,112396,112842,jaromir,112750,112753,ich,jaromir
 qd,nsv5.0,113131,115596,jaromir,113195,113198,ich,jaromir
+qd,nsv5.0,113131,115596,jaromir,113598,113602,Chor,chor
 qd,nsv5.0,113131,115596,jaromir,113830,113834,mein,jaromir
 qd,nsv5.0,113131,115596,jaromir,113863,113867,mein,jaromir
 qd,nsv5.0,113131,115596,jaromir,113911,113914,ich,jaromir
@@ -1050,11 +1209,14 @@ qd,nsv5.0,113131,115596,jaromir,115021,115024,ich,jaromir
 qd,nsv5.0,113131,115596,jaromir,115232,115235,Ich,jaromir
 qd,nsv5.0,113131,115596,jaromir,115253,115256,mir,jaromir
 qd,nsv5.0,113131,115596,jaromir,115342,115346,mich,jaromir
+qd,nsv5.0,115523,115596,_stage,115546,115555,Hauptmann,hauptmann
+qd,nsv5.0,115523,115596,_stage,115580,115588,Boleslav,boleslav
 qd,nsv5.0,115779,115803,boleslav,115793,115797,mein,boleslav
 qd,nsv5.0,115842,116098,ein_soldat,115887,115890,ich,ein_soldat
 qd,nsv5.0,115842,116098,ein_soldat,115929,115933,mich,ein_soldat
 qd,nsv5.0,115842,116098,ein_soldat,116013,116016,ich,ein_soldat
 qd,nsv5.0,116104,116414,hauptmann,116224,116227,mir,hauptmann
+qd,nsv5.0,116267,116414,_stage,116317,116324,Ahnfrau,die_gestalt
 qd,nsv5.0,116419,117186,jaromir,116450,116453,ich,jaromir
 qd,nsv5.0,116419,117186,jaromir,116545,116551,meinem,jaromir
 qd,nsv5.0,116419,117186,jaromir,116602,116605,ich,jaromir
@@ -1064,6 +1226,8 @@ qd,nsv5.0,116419,117186,jaromir,116780,116783,Ich,jaromir
 qd,nsv5.0,116419,117186,jaromir,116860,116864,mich,jaromir
 qd,nsv5.0,116419,117186,jaromir,116872,116877,Meine,jaromir
 qd,nsv5.0,116419,117186,jaromir,116901,116906,meine,jaromir
+qd,nsv5.0,116419,117186,jaromir,117165,117171,Bertha,bertha
+qd,nsv5.0,116419,117186,jaromir,117173,117179,Bertha,bertha
 qd,nsv5.0,117245,117824,jaromir,117299,117302,mir,jaromir
 qd,nsv5.0,117245,117824,jaromir,117303,117307,mein,jaromir
 qd,nsv5.0,117245,117824,jaromir,117318,117322,mich,jaromir
@@ -1104,11 +1268,27 @@ qd,nsv5.0,119521,119801,jaromir,119607,119610,mir,jaromir
 qd,nsv5.0,119521,119801,jaromir,119756,119759,mir,jaromir
 qd,nsv5.0,119521,119801,jaromir,119770,119776,Meiner,jaromir
 qd,nsv5.0,119833,119896,jaromir,119852,119855,ich,jaromir
+qd,nsv5.0,119933,120010,jaromir,119964,119970,Bertha,bertha
+qd,nsv5.0,120102,120140,jaromir,120111,120117,Bertha,bertha
 qd,nsv5.0,120102,120140,jaromir,120127,120132,meine,jaromir
+qd,nsv5.0,120102,120140,jaromir,120133,120139,Bertha,bertha
+qd,nsv5.0,120145,120241,die_gestalt,120161,120167,Bertha,bertha
 qd,nsv5.0,120145,120241,die_gestalt,120172,120175,ich,die_gestalt
+qd,nsv5.0,120145,120241,die_gestalt,120188,120199,die Ahnfrau,die_gestalt
+qd,nsv5.0,120145,120241,die_gestalt,120192,120199,Ahnfrau,die_gestalt
 qd,nsv5.0,120247,120386,jaromir,120266,120272,meiner,jaromir
+qd,nsv5.0,120247,120386,jaromir,120273,120279,Bertha,bertha
 qd,nsv5.0,120247,120386,jaromir,120297,120303,meiner,jaromir
+qd,nsv5.0,120247,120386,jaromir,120304,120310,Bertha,bertha
 qd,nsv5.0,120392,120514,die_gestalt,120427,120430,ich,die_gestalt
+qd,nsv5.0,120441,120514,_stage,120488,120494,Bertha,bertha
 qd,nsv5.0,120519,120692,jaromir,120550,120553,mir,jaromir
 qd,nsv5.0,120519,120692,jaromir,120594,120597,Ich,jaromir
 qd,nsv5.0,120519,120692,jaromir,120658,120663,meine,jaromir
+qd,nsv5.0,120802,120995,_stage,120943,120951,Boleslav,boleslav
+qd,nsv5.0,120802,120995,_stage,120957,120966,Hauptmann,hauptmann
+qd,nsv5.0,121065,121150,_stage,121065,121076,Die Ahnfrau,die_gestalt
+qd,nsv5.0,121065,121150,_stage,121069,121076,Ahnfrau,die_gestalt
+qd,nsv5.0,121164,121190,_stage,121174,121181,Jaromir,jaromir
+qd,nsv5.0,121155,121695,die_gestalt,121529,121540,die Ahnfrau,die_gestalt
+qd,nsv5.0,121155,121695,die_gestalt,121533,121540,Ahnfrau,die_gestalt

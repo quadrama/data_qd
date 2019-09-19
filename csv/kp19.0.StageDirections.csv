@@ -1,9 +1,9 @@
 corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
-qd,kp19.0,285,336,_Stage,_Stage,Claudia,NE,claudia,6479,,
+qd,kp19.0,285,336,_Stage,_Stage,Claudia,NE,claudia,6479,,(0)
 qd,kp19.0,285,336,_Stage,_Stage,.,$.,--,6479,,
-qd,kp19.0,285,336,_Stage,_Stage,Laura,NE,laura,6479,,
+qd,kp19.0,285,336,_Stage,_Stage,Laura,NE,laura,6479,,(1)
 qd,kp19.0,285,336,_Stage,_Stage,.,$.,--,6479,,
-qd,kp19.0,285,336,_Stage,_Stage,Laura,NE,laura,6479,,
+qd,kp19.0,285,336,_Stage,_Stage,Laura,NE,laura,6479,,(1)
 qd,kp19.0,285,336,_Stage,_Stage,zuerst,ADV,zuerst,6479,,
 qd,kp19.0,285,336,_Stage,_Stage,in,APPR,in,6479,,
 qd,kp19.0,285,336,_Stage,_Stage,einiger,PIAT,einiger,6479,,
@@ -14,7 +14,7 @@ qd,kp19.0,348,378,CLAUDIA,claudia,einen,ART,ein,6479,,
 qd,kp19.0,348,378,CLAUDIA,claudia,Armstuhl,NN,armstuhl,6479,,
 qd,kp19.0,348,378,CLAUDIA,claudia,hingeworfen,VVINF,hinwerfen,6479,,
 qd,kp19.0,348,378,CLAUDIA,claudia,.,$.,--,6479,,
-qd,kp19.0,4862,4873,CLAUDIA,claudia,Laura,NE,laura,6479,,
+qd,kp19.0,4862,4873,CLAUDIA,claudia,Laura,NE,laura,6479,,(1)
 qd,kp19.0,4862,4873,CLAUDIA,claudia,geht,VVFIN,gehen,6479,,
 qd,kp19.0,4862,4873,CLAUDIA,claudia,.,$.,--,6479,,
 qd,kp19.0,4887,4894,CLAUDIA,claudia,allein,ADV,allein,6479,,
@@ -37,14 +37,14 @@ qd,kp19.0,5253,5279,CLAUDIA,claudia,gegen,APPR,gegen,6479,,
 qd,kp19.0,5253,5279,CLAUDIA,claudia,die,ART,der,6479,,
 qd,kp19.0,5253,5279,CLAUDIA,claudia,Thüre,NN,thüre,6479,,
 qd,kp19.0,5253,5279,CLAUDIA,claudia,.,$.,--,6479,,
-qd,kp19.0,5429,5479,_Stage,_Stage,Odoardo,NE,odoardo,6479,,
+qd,kp19.0,5429,5479,_Stage,_Stage,Odoardo,NE,odoardo,6479,,(2)
 qd,kp19.0,5429,5479,_Stage,_Stage,",","$,",--,6479,,
 qd,kp19.0,5429,5479,_Stage,_Stage,in,APPR,in,6479,,
 qd,kp19.0,5429,5479,_Stage,_Stage,einer,ART,ein,6479,,
 qd,kp19.0,5429,5479,_Stage,_Stage,finstern,ADJD,finstern,6479,,
 qd,kp19.0,5429,5479,_Stage,_Stage,Zufriedenheit,NN,zufriedenheit,6479,,
 qd,kp19.0,5429,5479,_Stage,_Stage,.,$.,--,6479,,
-qd,kp19.0,5429,5479,_Stage,_Stage,Claudia,NE,claudia,6479,,
+qd,kp19.0,5429,5479,_Stage,_Stage,Claudia,NE,claudia,6479,,(0)
 qd,kp19.0,5429,5479,_Stage,_Stage,.,$.,--,6479,,
 qd,kp19.0,6927,6957,CLAUDIA,claudia,indem,KOUS,indem,6479,,
 qd,kp19.0,6927,6957,CLAUDIA,claudia,sie,PPER,sie,6479,,
@@ -65,9 +65,9 @@ qd,kp19.0,8790,8827,ODOARDO,odoardo,Lauren,NE,lauren,6479,,
 qd,kp19.0,8790,8827,ODOARDO,odoardo,.,$.,--,6479,,
 qd,kp19.0,9023,9030,ODOARDO,odoardo,allein,ADV,allein,6479,,
 qd,kp19.0,9023,9030,ODOARDO,odoardo,.,$.,--,6479,,
-qd,kp19.0,11134,11151,_Stage,_Stage,Appiani,NE,appiani,6479,,
+qd,kp19.0,11134,11151,_Stage,_Stage,Appiani,NE,appiani,6479,,(3)
 qd,kp19.0,11134,11151,_Stage,_Stage,.,$.,--,6479,,
-qd,kp19.0,11134,11151,_Stage,_Stage,Odoardo,NE,odoardo,6479,,
+qd,kp19.0,11134,11151,_Stage,_Stage,Odoardo,NE,odoardo,6479,,(2)
 qd,kp19.0,11134,11151,_Stage,_Stage,.,$.,--,6479,,
 qd,kp19.0,11163,11318,APPIANI,appiani,von,APPR,von,6479,,
 qd,kp19.0,11163,11318,APPIANI,appiani,zweenen,ADJA,zween,6479,,
@@ -124,12 +124,12 @@ qd,kp19.0,17823,17872,APPIANI,appiani,die,ART,der,6479,,
 qd,kp19.0,17823,17872,APPIANI,appiani,Tropfen,NN,tropfen,6479,,
 qd,kp19.0,17823,17872,APPIANI,appiani,ein,PTKVZ,ein,6479,,
 qd,kp19.0,17823,17872,APPIANI,appiani,.,$.,--,6479,,
-qd,kp19.0,18942,18970,_Stage,_Stage,Der,ART,der,6479,,
-qd,kp19.0,18942,18970,_Stage,_Stage,Prinz,NN,prinz,6479,,
+qd,kp19.0,18942,18970,_Stage,_Stage,Der,ART,der,6479,,(4
+qd,kp19.0,18942,18970,_Stage,_Stage,Prinz,NN,prinz,6479,,4)
 qd,kp19.0,18942,18970,_Stage,_Stage,.,$.,--,6479,,
-qd,kp19.0,18942,18970,_Stage,_Stage,Odoardo,NE,odoardo,6479,,
+qd,kp19.0,18942,18970,_Stage,_Stage,Odoardo,NE,odoardo,6479,,(2)
 qd,kp19.0,18942,18970,_Stage,_Stage,.,$.,--,6479,,
-qd,kp19.0,18942,18970,_Stage,_Stage,Appiani,NE,appiani,6479,,
+qd,kp19.0,18942,18970,_Stage,_Stage,Appiani,NE,appiani,6479,,(3)
 qd,kp19.0,18942,18970,_Stage,_Stage,.,$.,--,6479,,
 qd,kp19.0,18984,19008,DER PRINZ,der_prinz,mit,APPR,mit,6479,,
 qd,kp19.0,18984,19008,DER PRINZ,der_prinz,ängstlicher,ADJA,ängstlich,6479,,

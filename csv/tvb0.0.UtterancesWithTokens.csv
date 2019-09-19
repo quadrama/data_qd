@@ -1047,8 +1047,8 @@ qd,tvb0.0,10446,11155,GRAF ABGRUND,graf_abgrund,heisse,VVFIN,heissen,7507,,
 qd,tvb0.0,10446,11155,GRAF ABGRUND,graf_abgrund,ich,PPER,ich,7507,graf_abgrund,(2)
 qd,tvb0.0,10446,11155,GRAF ABGRUND,graf_abgrund,auch,ADV,auch,7507,,
 qd,tvb0.0,10446,11155,GRAF ABGRUND,graf_abgrund,der,ART,der,7507,,
-qd,tvb0.0,10446,11155,GRAF ABGRUND,graf_abgrund,Graf,NN,graf,7507,,
-qd,tvb0.0,10446,11155,GRAF ABGRUND,graf_abgrund,Abgrund,NN,abgrund,7507,,
+qd,tvb0.0,10446,11155,GRAF ABGRUND,graf_abgrund,Graf,NN,graf,7507,graf_abgrund,(2
+qd,tvb0.0,10446,11155,GRAF ABGRUND,graf_abgrund,Abgrund,NN,abgrund,7507,graf_abgrund,2)
 qd,tvb0.0,10446,11155,GRAF ABGRUND,graf_abgrund,.,$.,--,7507,,
 qd,tvb0.0,10446,11155,GRAF ABGRUND,graf_abgrund,Ich,PPER,ich,7507,graf_abgrund,(2)
 qd,tvb0.0,10446,11155,GRAF ABGRUND,graf_abgrund,habe,VAFIN,haben,7507,,
@@ -3163,8 +3163,8 @@ qd,tvb0.0,27402,27725,GRAF ABGRUND,graf_abgrund,s,PPER,--,7507,,
 qd,tvb0.0,27402,27725,GRAF ABGRUND,graf_abgrund,gemacht,VVPP,machen,7507,,
 qd,tvb0.0,27402,27725,GRAF ABGRUND,graf_abgrund,habe,VAFIN,haben,7507,,
 qd,tvb0.0,27402,27725,GRAF ABGRUND,graf_abgrund,.,$.,--,7507,,
-qd,tvb0.0,27730,27787,ZWEITER RAT,zweiter_rat,Graf,NN,graf,7507,,
-qd,tvb0.0,27730,27787,ZWEITER RAT,zweiter_rat,Abgrund,NN,abgrund,7507,,
+qd,tvb0.0,27730,27787,ZWEITER RAT,zweiter_rat,Graf,NN,graf,7507,graf_abgrund,(2
+qd,tvb0.0,27730,27787,ZWEITER RAT,zweiter_rat,Abgrund,NN,abgrund,7507,graf_abgrund,2)
 qd,tvb0.0,27730,27787,ZWEITER RAT,zweiter_rat,",","$,",--,7507,,
 qd,tvb0.0,27730,27787,ZWEITER RAT,zweiter_rat,gehen,VVFIN,gehen,7507,,
 qd,tvb0.0,27730,27787,ZWEITER RAT,zweiter_rat,Sie,PPER,sie,7507,,

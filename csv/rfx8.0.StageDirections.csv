@@ -2,8 +2,8 @@ corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,To
 qd,rfx8.0,57,101,_Stage,_Stage,Der,ART,der,560,,
 qd,rfx8.0,57,101,_Stage,_Stage,Fürst,NN,fürst,560,,
 qd,rfx8.0,57,101,_Stage,_Stage,und,KON,und,560,,
-qd,rfx8.0,57,101,_Stage,_Stage,Der,ART,der,560,,
-qd,rfx8.0,57,101,_Stage,_Stage,Kammerherr,NN,kammerherr,560,,
+qd,rfx8.0,57,101,_Stage,_Stage,Der,ART,der,560,,(1
+qd,rfx8.0,57,101,_Stage,_Stage,Kammerherr,NN,kammerherr,560,,1)
 qd,rfx8.0,57,101,_Stage,_Stage,am,APPRART,an,560,,
 qd,rfx8.0,57,101,_Stage,_Stage,Schachbrett,NN,schachbrett,560,,
 qd,rfx8.0,57,101,_Stage,_Stage,.,$.,--,560,,

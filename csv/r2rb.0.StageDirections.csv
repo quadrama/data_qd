@@ -1,17 +1,17 @@
 corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
-qd,r2rb.0,621,637,_Stage,_Stage,Cathrine,NN,cathrine,30357,,
+qd,r2rb.0,621,637,_Stage,_Stage,Cathrine,NN,cathrine,30357,,(1)
 qd,r2rb.0,621,637,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,621,637,_Stage,_Stage,Peter,NE,peter,30357,,
+qd,r2rb.0,621,637,_Stage,_Stage,Peter,NE,peter,30357,,(0)
 qd,r2rb.0,621,637,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,647,654,PETER,peter,lustig,ADJD,lustig,30357,,
 qd,r2rb.0,647,654,PETER,peter,.,$.,--,30357,,
-qd,r2rb.0,8775,8797,PETER,peter,Peter,NE,peter,30357,,
+qd,r2rb.0,8775,8797,PETER,peter,Peter,NE,peter,30357,,(0)
 qd,r2rb.0,8775,8797,PETER,peter,läuft,VVFIN,laufen,30357,,
 qd,r2rb.0,8775,8797,PETER,peter,eilend,ADJD,eilend,30357,,
 qd,r2rb.0,8775,8797,PETER,peter,ab,PTKVZ,ab,30357,,
 qd,r2rb.0,8775,8797,PETER,peter,.,$.,--,30357,,
 qd,r2rb.0,9455,9548,_Stage,_Stage,Herr,NN,herr,30357,,
-qd,r2rb.0,9455,9548,_Stage,_Stage,Muffel,NE,muffel,30357,,
+qd,r2rb.0,9455,9548,_Stage,_Stage,Muffel,NE,muffel,30357,,(2)
 qd,r2rb.0,9455,9548,_Stage,_Stage,",","$,",--,30357,,
 qd,r2rb.0,9455,9548,_Stage,_Stage,hat,VAFIN,haben,30357,,
 qd,r2rb.0,9455,9548,_Stage,_Stage,eine,ART,ein,30357,,
@@ -27,7 +27,7 @@ qd,r2rb.0,9455,9548,_Stage,_Stage,und,KON,und,30357,,
 qd,r2rb.0,9455,9548,_Stage,_Stage,andre,PIS,andr,30357,,
 qd,r2rb.0,9455,9548,_Stage,_Stage,Gartenfrüchte,NN,gartenfrucht,30357,,
 qd,r2rb.0,9455,9548,_Stage,_Stage,.,$.,--,30357,,
-qd,r2rb.0,9455,9548,_Stage,_Stage,Cathrine,NE,cathrine,30357,,
+qd,r2rb.0,9455,9548,_Stage,_Stage,Cathrine,NE,cathrine,30357,,(1)
 qd,r2rb.0,9455,9548,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,10982,10995,MUFFEL,muffel,Will,NE,wollen,30357,,
 qd,r2rb.0,10982,10995,MUFFEL,muffel,abgehen,VVFIN,abgehen,30357,,
@@ -41,11 +41,11 @@ qd,r2rb.0,11594,11607,MUFFEL,muffel,.,$.,--,30357,,
 qd,r2rb.0,11768,11781,MUFFEL,muffel,bedenkt,VVFIN,bedenken,30357,,
 qd,r2rb.0,11768,11781,MUFFEL,muffel,sich,PRF,sich,30357,,
 qd,r2rb.0,11768,11781,MUFFEL,muffel,.,$.,--,30357,,
-qd,r2rb.0,16830,16854,_Stage,_Stage,Muffel,NE,muffel,30357,,
+qd,r2rb.0,16830,16854,_Stage,_Stage,Muffel,NE,muffel,30357,,(2)
 qd,r2rb.0,16830,16854,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,16830,16854,_Stage,_Stage,Cathrine,NN,cathrine,30357,,
+qd,r2rb.0,16830,16854,_Stage,_Stage,Cathrine,NN,cathrine,30357,,(1)
 qd,r2rb.0,16830,16854,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,16830,16854,_Stage,_Stage,Peter,NE,peter,30357,,
+qd,r2rb.0,16830,16854,_Stage,_Stage,Peter,NE,peter,30357,,(0)
 qd,r2rb.0,16830,16854,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,17128,17141,MUFFEL,muffel,Will,NE,wollen,30357,,
 qd,r2rb.0,17128,17141,MUFFEL,muffel,abgehen,VVFIN,abgehen,30357,,
@@ -76,9 +76,9 @@ qd,r2rb.0,18962,18986,PETER,peter,.,$.,--,30357,,
 qd,r2rb.0,19194,19202,MUFFEL,muffel,Geht,VVFIN,gehen,30357,,
 qd,r2rb.0,19194,19202,MUFFEL,muffel,ab,PTKVZ,ab,30357,,
 qd,r2rb.0,19194,19202,MUFFEL,muffel,.,$.,--,30357,,
-qd,r2rb.0,19253,19269,_Stage,_Stage,Cathrine,NN,cathrine,30357,,
+qd,r2rb.0,19253,19269,_Stage,_Stage,Cathrine,NN,cathrine,30357,,(1)
 qd,r2rb.0,19253,19269,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,19253,19269,_Stage,_Stage,Peter,NE,peter,30357,,
+qd,r2rb.0,19253,19269,_Stage,_Stage,Peter,NE,peter,30357,,(0)
 qd,r2rb.0,19253,19269,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,19279,19288,PETER,peter,für,APPR,für,30357,,
 qd,r2rb.0,19279,19288,PETER,peter,sich,PRF,sich,30357,,
@@ -98,11 +98,11 @@ qd,r2rb.0,28876,28907,PETER,peter,wieder,ADV,wieder,30357,,
 qd,r2rb.0,28876,28907,PETER,peter,furchtsam,ADJD,furchtsam,30357,,
 qd,r2rb.0,28876,28907,PETER,peter,um,PTKVZ,um,30357,,
 qd,r2rb.0,28876,28907,PETER,peter,.,$.,--,30357,,
-qd,r2rb.0,32146,32170,_Stage,_Stage,Cathrine,NN,cathrine,30357,,
+qd,r2rb.0,32146,32170,_Stage,_Stage,Cathrine,NN,cathrine,30357,,(1)
 qd,r2rb.0,32146,32170,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,32146,32170,_Stage,_Stage,Peter,NE,peter,30357,,
+qd,r2rb.0,32146,32170,_Stage,_Stage,Peter,NE,peter,30357,,(0)
 qd,r2rb.0,32146,32170,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,32146,32170,_Stage,_Stage,Muffel,NE,muffel,30357,,
+qd,r2rb.0,32146,32170,_Stage,_Stage,Muffel,NE,muffel,30357,,(2)
 qd,r2rb.0,32146,32170,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,32382,32406,PETER,peter,mit,APPR,mit,30357,,
 qd,r2rb.0,32382,32406,PETER,peter,einer,ART,ein,30357,,
@@ -116,9 +116,9 @@ qd,r2rb.0,33369,33405,PETER,peter,dieser,PDAT,dieser,30357,,
 qd,r2rb.0,33369,33405,PETER,peter,Rede,NN,rede,30357,,
 qd,r2rb.0,33369,33405,PETER,peter,zurück,PTKVZ,zurück,30357,,
 qd,r2rb.0,33369,33405,PETER,peter,.,$.,--,30357,,
-qd,r2rb.0,33999,34016,_Stage,_Stage,Muffel,NE,muffel,30357,,
+qd,r2rb.0,33999,34016,_Stage,_Stage,Muffel,NE,muffel,30357,,(2)
 qd,r2rb.0,33999,34016,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,33999,34016,_Stage,_Stage,Cathrine,NN,cathrine,30357,,
+qd,r2rb.0,33999,34016,_Stage,_Stage,Cathrine,NN,cathrine,30357,,(1)
 qd,r2rb.0,33999,34016,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,34027,34072,MUFFEL,muffel,will,VMFIN,wollen,30357,,
 qd,r2rb.0,34027,34072,MUFFEL,muffel,Petern,NN,peter,30357,,
@@ -132,9 +132,9 @@ qd,r2rb.0,34027,34072,MUFFEL,muffel,.,$.,--,30357,,
 qd,r2rb.0,35615,35628,MUFFEL,muffel,Will,NE,wollen,30357,,
 qd,r2rb.0,35615,35628,MUFFEL,muffel,abgehen,VVFIN,abgehen,30357,,
 qd,r2rb.0,35615,35628,MUFFEL,muffel,.,$.,--,30357,,
-qd,r2rb.0,35678,35698,_Stage,_Stage,Tempelstolz,NN,tempelstolz,30357,,
+qd,r2rb.0,35678,35698,_Stage,_Stage,Tempelstolz,NN,tempelstolz,30357,,(3)
 qd,r2rb.0,35678,35698,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,35678,35698,_Stage,_Stage,Muffel,NE,muffel,30357,,
+qd,r2rb.0,35678,35698,_Stage,_Stage,Muffel,NE,muffel,30357,,(2)
 qd,r2rb.0,35678,35698,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,45578,45591,MUFFEL,muffel,Sie,PPER,sie,30357,,
 qd,r2rb.0,45578,45591,MUFFEL,muffel,gehen,VVFIN,gehen,30357,,
@@ -145,11 +145,11 @@ qd,r2rb.0,45594,45619,MUFFEL,muffel,der,ART,der,30357,,
 qd,r2rb.0,45594,45619,MUFFEL,muffel,ersten,ADJA,erster,30357,,
 qd,r2rb.0,45594,45619,MUFFEL,muffel,Handlung,NN,handlung,30357,,
 qd,r2rb.0,45594,45619,MUFFEL,muffel,.,$.,--,30357,,
-qd,r2rb.0,45685,45720,_Stage,_Stage,Herr,NN,herr,30357,,
-qd,r2rb.0,45685,45720,_Stage,_Stage,Wahrmund,NE,wahrmund,30357,,
+qd,r2rb.0,45685,45720,_Stage,_Stage,Herr,NN,herr,30357,,(7
+qd,r2rb.0,45685,45720,_Stage,_Stage,Wahrmund,NE,wahrmund,30357,,7)|(7)
 qd,r2rb.0,45685,45720,_Stage,_Stage,",","$,",--,30357,,
 qd,r2rb.0,45685,45720,_Stage,_Stage,Fräulein,NN,fräulein,30357,,
-qd,r2rb.0,45685,45720,_Stage,_Stage,Wilhelmine,NN,wilhelmine,30357,,
+qd,r2rb.0,45685,45720,_Stage,_Stage,Wilhelmine,NN,wilhelmine,30357,,(6)
 qd,r2rb.0,45685,45720,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,51857,51866,WAHRMUND,herr_wahrmund,für,APPR,für,30357,,
 qd,r2rb.0,51857,51866,WAHRMUND,herr_wahrmund,sich,PRF,sich,30357,,
@@ -192,46 +192,46 @@ qd,r2rb.0,52778,52858,WILHELMINE,wilhelmine,.,$.,--,30357,,
 qd,r2rb.0,53018,53027,WAHRMUND,herr_wahrmund,für,APPR,für,30357,,
 qd,r2rb.0,53018,53027,WAHRMUND,herr_wahrmund,sich,PRF,sich,30357,,
 qd,r2rb.0,53018,53027,WAHRMUND,herr_wahrmund,.,$.,--,30357,,
-qd,r2rb.0,57124,57199,_Stage,_Stage,Frau,NN,frau,30357,,
+qd,r2rb.0,57124,57199,_Stage,_Stage,Frau,NN,frau,30357,,(4
 qd,r2rb.0,57124,57199,_Stage,_Stage,von,APPR,von,30357,,
-qd,r2rb.0,57124,57199,_Stage,_Stage,Birkenhayn,NN,birkenhayn,30357,,
+qd,r2rb.0,57124,57199,_Stage,_Stage,Birkenhayn,NN,birkenhayn,30357,,4)
 qd,r2rb.0,57124,57199,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,57124,57199,_Stage,_Stage,Herr,NN,herr,30357,,
+qd,r2rb.0,57124,57199,_Stage,_Stage,Herr,NN,herr,30357,,(5
 qd,r2rb.0,57124,57199,_Stage,_Stage,von,APPR,von,30357,,
-qd,r2rb.0,57124,57199,_Stage,_Stage,Roseneck,NE,roseneck,30357,,
+qd,r2rb.0,57124,57199,_Stage,_Stage,Roseneck,NE,roseneck,30357,,5)
 qd,r2rb.0,57124,57199,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,57124,57199,_Stage,_Stage,Herr,NN,herr,30357,,
-qd,r2rb.0,57124,57199,_Stage,_Stage,Wahrmund,NE,wahrmund,30357,,
+qd,r2rb.0,57124,57199,_Stage,_Stage,Herr,NN,herr,30357,,(7
+qd,r2rb.0,57124,57199,_Stage,_Stage,Wahrmund,NE,wahrmund,30357,,7)|(7)
 qd,r2rb.0,57124,57199,_Stage,_Stage,",","$,",--,30357,,
 qd,r2rb.0,57124,57199,_Stage,_Stage,Fräulein,NN,fräulein,30357,,
-qd,r2rb.0,57124,57199,_Stage,_Stage,Wilhelmine,NN,wilhelmine,30357,,
+qd,r2rb.0,57124,57199,_Stage,_Stage,Wilhelmine,NN,wilhelmine,30357,,(6)
 qd,r2rb.0,57124,57199,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,60551,60567,FRAU VON BIRKENHAYN,frau_von_birkenhayn,Läuft,NN,laufen,30357,,
 qd,r2rb.0,60551,60567,FRAU VON BIRKENHAYN,frau_von_birkenhayn,eilend,ADJD,eilend,30357,,
 qd,r2rb.0,60551,60567,FRAU VON BIRKENHAYN,frau_von_birkenhayn,ab,PTKVZ,ab,30357,,
 qd,r2rb.0,60551,60567,FRAU VON BIRKENHAYN,frau_von_birkenhayn,.,$.,--,30357,,
-qd,r2rb.0,60618,60672,_Stage,_Stage,Herr,NN,herr,30357,,
+qd,r2rb.0,60618,60672,_Stage,_Stage,Herr,NN,herr,30357,,(5
 qd,r2rb.0,60618,60672,_Stage,_Stage,von,APPR,von,30357,,
-qd,r2rb.0,60618,60672,_Stage,_Stage,Roseneck,NE,roseneck,30357,,
+qd,r2rb.0,60618,60672,_Stage,_Stage,Roseneck,NE,roseneck,30357,,5)
 qd,r2rb.0,60618,60672,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,60618,60672,_Stage,_Stage,Herr,NN,herr,30357,,
-qd,r2rb.0,60618,60672,_Stage,_Stage,Wahrmund,NE,wahrmund,30357,,
+qd,r2rb.0,60618,60672,_Stage,_Stage,Herr,NN,herr,30357,,(7
+qd,r2rb.0,60618,60672,_Stage,_Stage,Wahrmund,NE,wahrmund,30357,,7)|(7)
 qd,r2rb.0,60618,60672,_Stage,_Stage,",","$,",--,30357,,
 qd,r2rb.0,60618,60672,_Stage,_Stage,Fräulein,NN,fräulein,30357,,
-qd,r2rb.0,60618,60672,_Stage,_Stage,Wilhelmine,NN,wilhelmine,30357,,
+qd,r2rb.0,60618,60672,_Stage,_Stage,Wilhelmine,NN,wilhelmine,30357,,(6)
 qd,r2rb.0,60618,60672,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,66187,66196,HERR VON ROSENECK,herr_von_roseneck,lächelnd,ADJD,lächelnd,30357,,
 qd,r2rb.0,66187,66196,HERR VON ROSENECK,herr_von_roseneck,.,$.,--,30357,,
 qd,r2rb.0,66791,66801,WILHELMINE,wilhelmine,schamhaft,ADJD,schamhaft,30357,,
 qd,r2rb.0,66791,66801,WILHELMINE,wilhelmine,.,$.,--,30357,,
-qd,r2rb.0,67880,67916,_Stage,_Stage,Frau,NN,frau,30357,,
+qd,r2rb.0,67880,67916,_Stage,_Stage,Frau,NN,frau,30357,,(4
 qd,r2rb.0,67880,67916,_Stage,_Stage,von,APPR,von,30357,,
-qd,r2rb.0,67880,67916,_Stage,_Stage,Birkenhayn,NN,birkenhayn,30357,,
+qd,r2rb.0,67880,67916,_Stage,_Stage,Birkenhayn,NN,birkenhayn,30357,,4)
 qd,r2rb.0,67880,67916,_Stage,_Stage,und,KON,und,30357,,
 qd,r2rb.0,67880,67916,_Stage,_Stage,die,ART,der,30357,,
 qd,r2rb.0,67880,67916,_Stage,_Stage,vorigen,ADJA,vorig,30357,,
 qd,r2rb.0,67880,67916,_Stage,_Stage,.,$.,--,30357,,
-qd,r2rb.0,71541,71572,HERR VON ROSENECK,herr_von_roseneck,Wahrmund,NE,wahrmund,30357,,
+qd,r2rb.0,71541,71572,HERR VON ROSENECK,herr_von_roseneck,Wahrmund,NE,wahrmund,30357,,(7)
 qd,r2rb.0,71541,71572,HERR VON ROSENECK,herr_von_roseneck,führet,VVFIN,führen,30357,,
 qd,r2rb.0,71541,71572,HERR VON ROSENECK,herr_von_roseneck,Wilhelminen,NN,wilhelmine,30357,,
 qd,r2rb.0,71541,71572,HERR VON ROSENECK,herr_von_roseneck,ab,PTKVZ,ab,30357,,
@@ -243,19 +243,19 @@ qd,r2rb.0,71598,71639,FRAU VON BIRKENHAYN,frau_von_birkenhayn,Wahrmunds,NE,wahrm
 qd,r2rb.0,71598,71639,FRAU VON BIRKENHAYN,frau_von_birkenhayn,Hand,NN,hand,30357,,
 qd,r2rb.0,71598,71639,FRAU VON BIRKENHAYN,frau_von_birkenhayn,weg,PTKVZ,weg,30357,,
 qd,r2rb.0,71598,71639,FRAU VON BIRKENHAYN,frau_von_birkenhayn,.,$.,--,30357,,
-qd,r2rb.0,71930,71963,FRAU VON BIRKENHAYN,frau_von_birkenhayn,Wahrmund,NE,wahrmund,30357,,
+qd,r2rb.0,71930,71963,FRAU VON BIRKENHAYN,frau_von_birkenhayn,Wahrmund,NE,wahrmund,30357,,(7)
 qd,r2rb.0,71930,71963,FRAU VON BIRKENHAYN,frau_von_birkenhayn,und,KON,und,30357,,
-qd,r2rb.0,71930,71963,FRAU VON BIRKENHAYN,frau_von_birkenhayn,Wilhelmine,NN,wilhelmine,30357,,
+qd,r2rb.0,71930,71963,FRAU VON BIRKENHAYN,frau_von_birkenhayn,Wilhelmine,NN,wilhelmine,30357,,(6)
 qd,r2rb.0,71930,71963,FRAU VON BIRKENHAYN,frau_von_birkenhayn,gehen,VVFIN,gehen,30357,,
 qd,r2rb.0,71930,71963,FRAU VON BIRKENHAYN,frau_von_birkenhayn,ab,PTKVZ,ab,30357,,
 qd,r2rb.0,71930,71963,FRAU VON BIRKENHAYN,frau_von_birkenhayn,.,$.,--,30357,,
-qd,r2rb.0,72014,72053,_Stage,_Stage,Herr,NN,herr,30357,,
+qd,r2rb.0,72014,72053,_Stage,_Stage,Herr,NN,herr,30357,,(5
 qd,r2rb.0,72014,72053,_Stage,_Stage,von,APPR,von,30357,,
-qd,r2rb.0,72014,72053,_Stage,_Stage,Roseneck,NE,roseneck,30357,,
+qd,r2rb.0,72014,72053,_Stage,_Stage,Roseneck,NE,roseneck,30357,,5)
 qd,r2rb.0,72014,72053,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,72014,72053,_Stage,_Stage,Frau,NN,frau,30357,,
+qd,r2rb.0,72014,72053,_Stage,_Stage,Frau,NN,frau,30357,,(4
 qd,r2rb.0,72014,72053,_Stage,_Stage,von,APPR,von,30357,,
-qd,r2rb.0,72014,72053,_Stage,_Stage,Birkenhayn,NE,birkenhayn,30357,,
+qd,r2rb.0,72014,72053,_Stage,_Stage,Birkenhayn,NE,birkenhayn,30357,,4)
 qd,r2rb.0,72014,72053,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,79680,79700,FRAU VON BIRKENHAYN,frau_von_birkenhayn,Ist,VAFIN,sein,30357,,
 qd,r2rb.0,79680,79700,FRAU VON BIRKENHAYN,frau_von_birkenhayn,",","$,",--,30357,,
@@ -263,13 +263,13 @@ qd,r2rb.0,79680,79700,FRAU VON BIRKENHAYN,frau_von_birkenhayn,als,KOKOM,als,3035
 qd,r2rb.0,79680,79700,FRAU VON BIRKENHAYN,frau_von_birkenhayn,ohnmächtig,ADJD,ohnmächtig,30357,,
 qd,r2rb.0,79680,79700,FRAU VON BIRKENHAYN,frau_von_birkenhayn,.,$.,--,30357,,
 qd,r2rb.0,79752,79815,_Stage,_Stage,Fräulein,NE,fräulein,30357,,
-qd,r2rb.0,79752,79815,_Stage,_Stage,Wilhelmine,NE,wilhelmine,30357,,
+qd,r2rb.0,79752,79815,_Stage,_Stage,Wilhelmine,NE,wilhelmine,30357,,(6)
 qd,r2rb.0,79752,79815,_Stage,_Stage,",","$,",--,30357,,
 qd,r2rb.0,79752,79815,_Stage,_Stage,Herr,NN,herr,30357,,
-qd,r2rb.0,79752,79815,_Stage,_Stage,Muffel,NE,muffel,30357,,
+qd,r2rb.0,79752,79815,_Stage,_Stage,Muffel,NE,muffel,30357,,(2)
 qd,r2rb.0,79752,79815,_Stage,_Stage,",","$,",--,30357,,
 qd,r2rb.0,79752,79815,_Stage,_Stage,Herr,NN,herr,30357,,
-qd,r2rb.0,79752,79815,_Stage,_Stage,Tempelstolz,NE,tempelstolz,30357,,
+qd,r2rb.0,79752,79815,_Stage,_Stage,Tempelstolz,NE,tempelstolz,30357,,(3)
 qd,r2rb.0,79752,79815,_Stage,_Stage,",","$,",--,30357,,
 qd,r2rb.0,79752,79815,_Stage,_Stage,und,KON,und,30357,,
 qd,r2rb.0,79752,79815,_Stage,_Stage,vorige,VVFIN,vorig,30357,,
@@ -281,7 +281,7 @@ qd,r2rb.0,79830,79855,WILHELMINE,wilhelmine,Predigern,NN,prediger,30357,,
 qd,r2rb.0,79830,79855,WILHELMINE,wilhelmine,.,$.,--,30357,,
 qd,r2rb.0,79946,80003,TEMPELSTOLZ,tempelstolz,er,PPER,er,30357,,
 qd,r2rb.0,79946,80003,TEMPELSTOLZ,tempelstolz,und,KON,und,30357,,
-qd,r2rb.0,79946,80003,TEMPELSTOLZ,tempelstolz,Muffel,NE,muffel,30357,,
+qd,r2rb.0,79946,80003,TEMPELSTOLZ,tempelstolz,Muffel,NE,muffel,30357,,(2)
 qd,r2rb.0,79946,80003,TEMPELSTOLZ,tempelstolz,rauchen,VVFIN,rauch,30357,,
 qd,r2rb.0,79946,80003,TEMPELSTOLZ,tempelstolz,Toback,NE,toback,30357,,
 qd,r2rb.0,79946,80003,TEMPELSTOLZ,tempelstolz,",","$,",--,30357,,
@@ -293,9 +293,9 @@ qd,r2rb.0,79946,80003,TEMPELSTOLZ,tempelstolz,.,$.,--,30357,,
 qd,r2rb.0,80519,80602,MUFFEL,muffel,lauft,VVFIN,laufen,30357,,
 qd,r2rb.0,80519,80602,MUFFEL,muffel,geschwinde,ADJA,geschwinden,30357,,
 qd,r2rb.0,80519,80602,MUFFEL,muffel,zur,APPRART,zu,30357,,
-qd,r2rb.0,80519,80602,MUFFEL,muffel,Frau,NN,frau,30357,,
+qd,r2rb.0,80519,80602,MUFFEL,muffel,Frau,NN,frau,30357,,(4
 qd,r2rb.0,80519,80602,MUFFEL,muffel,von,APPR,von,30357,,
-qd,r2rb.0,80519,80602,MUFFEL,muffel,Birkenhayn,NN,birkenhayn,30357,,
+qd,r2rb.0,80519,80602,MUFFEL,muffel,Birkenhayn,NN,birkenhayn,30357,,4)
 qd,r2rb.0,80519,80602,MUFFEL,muffel,und,KON,und,30357,,
 qd,r2rb.0,80519,80602,MUFFEL,muffel,zieht,VVFIN,ziehen,30357,,
 qd,r2rb.0,80519,80602,MUFFEL,muffel,sein,PPOSAT,sein,30357,,
@@ -334,9 +334,9 @@ qd,r2rb.0,81706,81846,TEMPELSTOLZ,tempelstolz,viele,PIDAT,vieler,30357,,
 qd,r2rb.0,81706,81846,TEMPELSTOLZ,tempelstolz,Creutze,NN,creutze,30357,,
 qd,r2rb.0,81706,81846,TEMPELSTOLZ,tempelstolz,über,APPR,über,30357,,
 qd,r2rb.0,81706,81846,TEMPELSTOLZ,tempelstolz,die,ART,der,30357,,
-qd,r2rb.0,81706,81846,TEMPELSTOLZ,tempelstolz,Frau,NN,frau,30357,,
+qd,r2rb.0,81706,81846,TEMPELSTOLZ,tempelstolz,Frau,NN,frau,30357,,(4
 qd,r2rb.0,81706,81846,TEMPELSTOLZ,tempelstolz,von,APPR,von,30357,,
-qd,r2rb.0,81706,81846,TEMPELSTOLZ,tempelstolz,Birkenhayn,NN,birkenhayn,30357,,
+qd,r2rb.0,81706,81846,TEMPELSTOLZ,tempelstolz,Birkenhayn,NN,birkenhayn,30357,,4)
 qd,r2rb.0,81706,81846,TEMPELSTOLZ,tempelstolz,und,KON,und,30357,,
 qd,r2rb.0,81706,81846,TEMPELSTOLZ,tempelstolz,legen,VVFIN,legen,30357,,
 qd,r2rb.0,81706,81846,TEMPELSTOLZ,tempelstolz,ihr,PPER,ihr,30357,,
@@ -358,9 +358,9 @@ qd,r2rb.0,81850,81980,TEMPELSTOLZ,tempelstolz,ins,APPRART,in,30357,,
 qd,r2rb.0,81850,81980,TEMPELSTOLZ,tempelstolz,Gesichte,NN,gesichte,30357,,
 qd,r2rb.0,81850,81980,TEMPELSTOLZ,tempelstolz,.,$.,--,30357,,
 qd,r2rb.0,81850,81980,TEMPELSTOLZ,tempelstolz,Die,ART,der,30357,,
-qd,r2rb.0,81850,81980,TEMPELSTOLZ,tempelstolz,Frau,NN,frau,30357,,
+qd,r2rb.0,81850,81980,TEMPELSTOLZ,tempelstolz,Frau,NN,frau,30357,,(4
 qd,r2rb.0,81850,81980,TEMPELSTOLZ,tempelstolz,von,APPR,von,30357,,
-qd,r2rb.0,81850,81980,TEMPELSTOLZ,tempelstolz,Birkenhayn,NN,birkenhayn,30357,,
+qd,r2rb.0,81850,81980,TEMPELSTOLZ,tempelstolz,Birkenhayn,NN,birkenhayn,30357,,4)
 qd,r2rb.0,81850,81980,TEMPELSTOLZ,tempelstolz,ermuntert,VVFIN,ermuntern,30357,,
 qd,r2rb.0,81850,81980,TEMPELSTOLZ,tempelstolz,sich,PRF,sich,30357,,
 qd,r2rb.0,81850,81980,TEMPELSTOLZ,tempelstolz,etwas,PIS,etwas,30357,,
@@ -393,25 +393,25 @@ qd,r2rb.0,82879,82888,MUFFEL,muffel,.,$.,--,30357,,
 qd,r2rb.0,83618,83627,TEMPELSTOLZ,tempelstolz,für,APPR,für,30357,,
 qd,r2rb.0,83618,83627,TEMPELSTOLZ,tempelstolz,sich,PRF,sich,30357,,
 qd,r2rb.0,83618,83627,TEMPELSTOLZ,tempelstolz,.,$.,--,30357,,
-qd,r2rb.0,84272,84324,HERR VON ROSENECK,herr_von_roseneck,Muffel,NE,muffel,30357,,
+qd,r2rb.0,84272,84324,HERR VON ROSENECK,herr_von_roseneck,Muffel,NE,muffel,30357,,(2)
 qd,r2rb.0,84272,84324,HERR VON ROSENECK,herr_von_roseneck,",","$,",--,30357,,
-qd,r2rb.0,84272,84324,HERR VON ROSENECK,herr_von_roseneck,Tempelstolz,NN,tempelstolz,30357,,
+qd,r2rb.0,84272,84324,HERR VON ROSENECK,herr_von_roseneck,Tempelstolz,NN,tempelstolz,30357,,(3)
 qd,r2rb.0,84272,84324,HERR VON ROSENECK,herr_von_roseneck,",","$,",--,30357,,
 qd,r2rb.0,84272,84324,HERR VON ROSENECK,herr_von_roseneck,und,KON,und,30357,,
-qd,r2rb.0,84272,84324,HERR VON ROSENECK,herr_von_roseneck,Herr,NN,herr,30357,,
+qd,r2rb.0,84272,84324,HERR VON ROSENECK,herr_von_roseneck,Herr,NN,herr,30357,,(5
 qd,r2rb.0,84272,84324,HERR VON ROSENECK,herr_von_roseneck,von,APPR,von,30357,,
-qd,r2rb.0,84272,84324,HERR VON ROSENECK,herr_von_roseneck,Roseneck,NN,roseneck,30357,,
+qd,r2rb.0,84272,84324,HERR VON ROSENECK,herr_von_roseneck,Roseneck,NN,roseneck,30357,,5)
 qd,r2rb.0,84272,84324,HERR VON ROSENECK,herr_von_roseneck,gehen,VVFIN,gehen,30357,,
 qd,r2rb.0,84272,84324,HERR VON ROSENECK,herr_von_roseneck,ab,PTKVZ,ab,30357,,
 qd,r2rb.0,84272,84324,HERR VON ROSENECK,herr_von_roseneck,.,$.,--,30357,,
-qd,r2rb.0,84377,84418,_Stage,_Stage,Frau,NN,frau,30357,,
+qd,r2rb.0,84377,84418,_Stage,_Stage,Frau,NN,frau,30357,,(4
 qd,r2rb.0,84377,84418,_Stage,_Stage,von,APPR,von,30357,,
-qd,r2rb.0,84377,84418,_Stage,_Stage,Birkenhayn,NN,birkenhayn,30357,,
+qd,r2rb.0,84377,84418,_Stage,_Stage,Birkenhayn,NN,birkenhayn,30357,,4)
 qd,r2rb.0,84377,84418,_Stage,_Stage,",","$,",--,30357,,
 qd,r2rb.0,84377,84418,_Stage,_Stage,Fräulein,NN,fräulein,30357,,
-qd,r2rb.0,84377,84418,_Stage,_Stage,Wilhelmine,NN,wilhelmine,30357,,
+qd,r2rb.0,84377,84418,_Stage,_Stage,Wilhelmine,NN,wilhelmine,30357,,(6)
 qd,r2rb.0,84377,84418,_Stage,_Stage,.,$.,--,30357,,
-qd,r2rb.0,85732,85756,_Stage,_Stage,Muffel,NE,muffel,30357,,
+qd,r2rb.0,85732,85756,_Stage,_Stage,Muffel,NE,muffel,30357,,(2)
 qd,r2rb.0,85732,85756,_Stage,_Stage,",","$,",--,30357,,
 qd,r2rb.0,85732,85756,_Stage,_Stage,und,KON,und,30357,,
 qd,r2rb.0,85732,85756,_Stage,_Stage,die,ART,der,30357,,
@@ -441,7 +441,7 @@ qd,r2rb.0,87595,87602,FRAU VON BIRKENHAYN,frau_von_birkenhayn,.,$.,--,30357,,
 qd,r2rb.0,88217,88226,WILHELMINE,wilhelmine,für,APPR,für,30357,,
 qd,r2rb.0,88217,88226,WILHELMINE,wilhelmine,sich,PRF,sich,30357,,
 qd,r2rb.0,88217,88226,WILHELMINE,wilhelmine,.,$.,--,30357,,
-qd,r2rb.0,88764,88793,_Stage,_Stage,Tempelstolz,NN,tempelstolz,30357,,
+qd,r2rb.0,88764,88793,_Stage,_Stage,Tempelstolz,NN,tempelstolz,30357,,(3)
 qd,r2rb.0,88764,88793,_Stage,_Stage,",","$,",--,30357,,
 qd,r2rb.0,88764,88793,_Stage,_Stage,und,KON,und,30357,,
 qd,r2rb.0,88764,88793,_Stage,_Stage,die,ART,der,30357,,
@@ -492,10 +492,10 @@ qd,r2rb.0,93207,93216,MUFFEL,muffel,.,$.,--,30357,,
 qd,r2rb.0,93329,93337,MUFFEL,muffel,Geht,VVFIN,gehen,30357,,
 qd,r2rb.0,93329,93337,MUFFEL,muffel,ab,PTKVZ,ab,30357,,
 qd,r2rb.0,93329,93337,MUFFEL,muffel,.,$.,--,30357,,
-qd,r2rb.0,93390,93423,_Stage,_Stage,Tempelstolz,NN,tempelstolz,30357,,
+qd,r2rb.0,93390,93423,_Stage,_Stage,Tempelstolz,NN,tempelstolz,30357,,(3)
 qd,r2rb.0,93390,93423,_Stage,_Stage,",","$,",--,30357,,
 qd,r2rb.0,93390,93423,_Stage,_Stage,Fräulein,NN,fräulein,30357,,
-qd,r2rb.0,93390,93423,_Stage,_Stage,Wilhelmine,NN,wilhelmine,30357,,
+qd,r2rb.0,93390,93423,_Stage,_Stage,Wilhelmine,NN,wilhelmine,30357,,(6)
 qd,r2rb.0,93390,93423,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,93439,93494,TEMPELSTOLZ,tempelstolz,geht,VVFIN,gehen,30357,,
 qd,r2rb.0,93439,93494,TEMPELSTOLZ,tempelstolz,auf,PTKVZ,auf,30357,,
@@ -522,9 +522,9 @@ qd,r2rb.0,96409,96434,TEMPELSTOLZ,tempelstolz,der,ART,der,30357,,
 qd,r2rb.0,96409,96434,TEMPELSTOLZ,tempelstolz,zwoten,ADJA,zwot,30357,,
 qd,r2rb.0,96409,96434,TEMPELSTOLZ,tempelstolz,Handlung,NN,handlung,30357,,
 qd,r2rb.0,96409,96434,TEMPELSTOLZ,tempelstolz,.,$.,--,30357,,
-qd,r2rb.0,96500,96516,_Stage,_Stage,Brigitte,NE,brigitte,30357,,
+qd,r2rb.0,96500,96516,_Stage,_Stage,Brigitte,NE,brigitte,30357,,(8)
 qd,r2rb.0,96500,96516,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,96500,96516,_Stage,_Stage,Peter,NE,peter,30357,,
+qd,r2rb.0,96500,96516,_Stage,_Stage,Peter,NE,peter,30357,,(0)
 qd,r2rb.0,96500,96516,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,96529,96545,BRIGITTE,brigitte,klopft,ADJD,klopfen,30357,,
 qd,r2rb.0,96529,96545,BRIGITTE,brigitte,inwendig,ADJD,inwendig,30357,,
@@ -559,9 +559,9 @@ qd,r2rb.0,101087,101108,BRIGITTE,brigitte,Thüre,NN,thüre,30357,,
 qd,r2rb.0,101087,101108,BRIGITTE,brigitte,.,$.,--,30357,,
 qd,r2rb.0,101443,101469,_Stage,_Stage,Vorige,NN,vorige,30357,,
 qd,r2rb.0,101443,101469,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,101443,101469,_Stage,_Stage,Herr,NN,herr,30357,,
+qd,r2rb.0,101443,101469,_Stage,_Stage,Herr,NN,herr,30357,,(5
 qd,r2rb.0,101443,101469,_Stage,_Stage,von,APPR,von,30357,,
-qd,r2rb.0,101443,101469,_Stage,_Stage,Roseneck,NE,roseneck,30357,,
+qd,r2rb.0,101443,101469,_Stage,_Stage,Roseneck,NE,roseneck,30357,,5)
 qd,r2rb.0,101443,101469,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,102213,102222,HERR VON ROSENECK,herr_von_roseneck,für,APPR,für,30357,,
 qd,r2rb.0,102213,102222,HERR VON ROSENECK,herr_von_roseneck,sich,PRF,sich,30357,,
@@ -572,28 +572,28 @@ qd,r2rb.0,110990,111010,HERR VON ROSENECK,herr_von_roseneck,aus,APPR,aus,30357,,
 qd,r2rb.0,110990,111010,HERR VON ROSENECK,herr_von_roseneck,tiefen,ADJA,tief,30357,,
 qd,r2rb.0,110990,111010,HERR VON ROSENECK,herr_von_roseneck,Gedanken,NN,gedanke,30357,,
 qd,r2rb.0,110990,111010,HERR VON ROSENECK,herr_von_roseneck,.,$.,--,30357,,
-qd,r2rb.0,112780,112813,_Stage,_Stage,Herr,NN,herr,30357,,
-qd,r2rb.0,112780,112813,_Stage,_Stage,Wahrmund,NE,wahrmund,30357,,
+qd,r2rb.0,112780,112813,_Stage,_Stage,Herr,NN,herr,30357,,(7
+qd,r2rb.0,112780,112813,_Stage,_Stage,Wahrmund,NE,wahrmund,30357,,7)|(7)
 qd,r2rb.0,112780,112813,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,112780,112813,_Stage,_Stage,Herr,NN,herr,30357,,
+qd,r2rb.0,112780,112813,_Stage,_Stage,Herr,NN,herr,30357,,(5
 qd,r2rb.0,112780,112813,_Stage,_Stage,von,APPR,von,30357,,
-qd,r2rb.0,112780,112813,_Stage,_Stage,Roseneck,NE,roseneck,30357,,
+qd,r2rb.0,112780,112813,_Stage,_Stage,Roseneck,NE,roseneck,30357,,5)
 qd,r2rb.0,112780,112813,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,122447,122484,_Stage,_Stage,Vorige,NN,vorige,30357,,
 qd,r2rb.0,122447,122484,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,122447,122484,_Stage,_Stage,Peter,NE,peter,30357,,
+qd,r2rb.0,122447,122484,_Stage,_Stage,Peter,NE,peter,30357,,(0)
 qd,r2rb.0,122447,122484,_Stage,_Stage,",","$,",--,30357,,
 qd,r2rb.0,122447,122484,_Stage,_Stage,mit,APPR,mit,30357,,
 qd,r2rb.0,122447,122484,_Stage,_Stage,einigen,PIAT,einiger,30357,,
 qd,r2rb.0,122447,122484,_Stage,_Stage,Folianten,NN,foliant,30357,,
 qd,r2rb.0,122447,122484,_Stage,_Stage,.,$.,--,30357,,
-qd,r2rb.0,124320,124360,_Stage,_Stage,Herr,NN,herr,30357,,
+qd,r2rb.0,124320,124360,_Stage,_Stage,Herr,NN,herr,30357,,(5
 qd,r2rb.0,124320,124360,_Stage,_Stage,von,APPR,von,30357,,
-qd,r2rb.0,124320,124360,_Stage,_Stage,Roseneck,NE,roseneck,30357,,
+qd,r2rb.0,124320,124360,_Stage,_Stage,Roseneck,NE,roseneck,30357,,5)
 qd,r2rb.0,124320,124360,_Stage,_Stage,mit,APPR,mit,30357,,
 qd,r2rb.0,124320,124360,_Stage,_Stage,Büchern,NN,buch,30357,,
 qd,r2rb.0,124320,124360,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,124320,124360,_Stage,_Stage,Wahrmund,NE,wahrmund,30357,,
+qd,r2rb.0,124320,124360,_Stage,_Stage,Wahrmund,NE,wahrmund,30357,,(7)
 qd,r2rb.0,124320,124360,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,124370,124605,MUFFEL,muffel,setzt,VVFIN,setzen,30357,,
 qd,r2rb.0,124370,124605,MUFFEL,muffel,die,ART,der,30357,,
@@ -633,7 +633,7 @@ qd,r2rb.0,124370,124605,MUFFEL,muffel,mir,PPER,sich,30357,,
 qd,r2rb.0,124370,124605,MUFFEL,muffel,bey,VVFIN,bey,30357,,
 qd,r2rb.0,124370,124605,MUFFEL,muffel,der,ART,der,30357,,
 qd,r2rb.0,124370,124605,MUFFEL,muffel,Fräulein,NN,fräulein,30357,,
-qd,r2rb.0,124370,124605,MUFFEL,muffel,Wilhelmine,NN,wilhelmine,30357,,
+qd,r2rb.0,124370,124605,MUFFEL,muffel,Wilhelmine,NN,wilhelmine,30357,,(6)
 qd,r2rb.0,124370,124605,MUFFEL,muffel,versagen,VVFIN,versagen,30357,,
 qd,r2rb.0,124370,124605,MUFFEL,muffel,so,ADV,so,30357,,
 qd,r2rb.0,124370,124605,MUFFEL,muffel,muß,VMFIN,müssen,30357,,
@@ -661,9 +661,9 @@ qd,r2rb.0,130391,130399,WAHRMUND,herr_wahrmund,Geht,VVFIN,gehen,30357,,
 qd,r2rb.0,130391,130399,WAHRMUND,herr_wahrmund,ab,PTKVZ,ab,30357,,
 qd,r2rb.0,130391,130399,WAHRMUND,herr_wahrmund,.,$.,--,30357,,
 qd,r2rb.0,130451,130479,_Stage,_Stage,Fräulein,NE,fräulein,30357,,
-qd,r2rb.0,130451,130479,_Stage,_Stage,Wilhelmine,NE,wilhelmine,30357,,
+qd,r2rb.0,130451,130479,_Stage,_Stage,Wilhelmine,NE,wilhelmine,30357,,(6)
 qd,r2rb.0,130451,130479,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,130451,130479,_Stage,_Stage,Muffel,NE,muffel,30357,,
+qd,r2rb.0,130451,130479,_Stage,_Stage,Muffel,NE,muffel,30357,,(2)
 qd,r2rb.0,130451,130479,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,131038,131050,MUFFEL,muffel,Er,PPER,er,30357,,
 qd,r2rb.0,131038,131050,MUFFEL,muffel,blättert,VVFIN,blättern,30357,,
@@ -715,48 +715,48 @@ qd,r2rb.0,141964,141979,MUFFEL,muffel,Geht,VVFIN,gehen,30357,,
 qd,r2rb.0,141964,141979,MUFFEL,muffel,eilend,ADJD,eilend,30357,,
 qd,r2rb.0,141964,141979,MUFFEL,muffel,ab,PTKVZ,ab,30357,,
 qd,r2rb.0,141964,141979,MUFFEL,muffel,.,$.,--,30357,,
-qd,r2rb.0,143656,143686,_Stage,_Stage,Herr,NN,herr,30357,,
+qd,r2rb.0,143656,143686,_Stage,_Stage,Herr,NN,herr,30357,,(5
 qd,r2rb.0,143656,143686,_Stage,_Stage,von,APPR,von,30357,,
-qd,r2rb.0,143656,143686,_Stage,_Stage,Roseneck,NE,roseneck,30357,,
+qd,r2rb.0,143656,143686,_Stage,_Stage,Roseneck,NE,roseneck,30357,,5)
 qd,r2rb.0,143656,143686,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,143656,143686,_Stage,_Stage,Wilhelmine,NN,wilhelmine,30357,,
+qd,r2rb.0,143656,143686,_Stage,_Stage,Wilhelmine,NN,wilhelmine,30357,,(6)
 qd,r2rb.0,143656,143686,_Stage,_Stage,.,$.,--,30357,,
-qd,r2rb.0,146443,146471,_Stage,_Stage,Frau,NN,frau,30357,,
+qd,r2rb.0,146443,146471,_Stage,_Stage,Frau,NN,frau,30357,,(4
 qd,r2rb.0,146443,146471,_Stage,_Stage,von,APPR,von,30357,,
-qd,r2rb.0,146443,146471,_Stage,_Stage,Birkenhayn,NN,birkenhayn,30357,,
+qd,r2rb.0,146443,146471,_Stage,_Stage,Birkenhayn,NN,birkenhayn,30357,,4)
 qd,r2rb.0,146443,146471,_Stage,_Stage,",","$,",--,30357,,
 qd,r2rb.0,146443,146471,_Stage,_Stage,vorige,VVFIN,vorig,30357,,
 qd,r2rb.0,146443,146471,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,149504,149532,_Stage,_Stage,Vorige,NN,vorige,30357,,
 qd,r2rb.0,149504,149532,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,149504,149532,_Stage,_Stage,Tempelstolz,NN,tempelstolz,30357,,
+qd,r2rb.0,149504,149532,_Stage,_Stage,Tempelstolz,NN,tempelstolz,30357,,(3)
 qd,r2rb.0,149504,149532,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,149504,149532,_Stage,_Stage,Muffel,NE,muffel,30357,,
+qd,r2rb.0,149504,149532,_Stage,_Stage,Muffel,NE,muffel,30357,,(2)
 qd,r2rb.0,149504,149532,_Stage,_Stage,.,$.,--,30357,,
 qd,r2rb.0,150722,150731,TEMPELSTOLZ,tempelstolz,für,APPR,für,30357,,
 qd,r2rb.0,150722,150731,TEMPELSTOLZ,tempelstolz,sich,PRF,sich,30357,,
 qd,r2rb.0,150722,150731,TEMPELSTOLZ,tempelstolz,.,$.,--,30357,,
-qd,r2rb.0,151180,151197,_Stage,_Stage,Peter,NE,peter,30357,,
+qd,r2rb.0,151180,151197,_Stage,_Stage,Peter,NE,peter,30357,,(0)
 qd,r2rb.0,151180,151197,_Stage,_Stage,zu,APPR,zu,30357,,
 qd,r2rb.0,151180,151197,_Stage,_Stage,vorigen,ADJA,vorig,30357,,
 qd,r2rb.0,151180,151197,_Stage,_Stage,.,$.,--,30357,,
-qd,r2rb.0,153483,153588,_Stage,_Stage,Herr,NN,herr,30357,,
+qd,r2rb.0,153483,153588,_Stage,_Stage,Herr,NN,herr,30357,,(5
 qd,r2rb.0,153483,153588,_Stage,_Stage,von,APPR,von,30357,,
-qd,r2rb.0,153483,153588,_Stage,_Stage,Roseneck,NE,roseneck,30357,,
+qd,r2rb.0,153483,153588,_Stage,_Stage,Roseneck,NE,roseneck,30357,,5)
 qd,r2rb.0,153483,153588,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,153483,153588,_Stage,_Stage,Muffel,NE,muffel,30357,,
+qd,r2rb.0,153483,153588,_Stage,_Stage,Muffel,NE,muffel,30357,,(2)
 qd,r2rb.0,153483,153588,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,153483,153588,_Stage,_Stage,Tempelstolz,NN,tempelstolz,30357,,
+qd,r2rb.0,153483,153588,_Stage,_Stage,Tempelstolz,NN,tempelstolz,30357,,(3)
 qd,r2rb.0,153483,153588,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,153483,153588,_Stage,_Stage,Frau,NN,frau,30357,,
+qd,r2rb.0,153483,153588,_Stage,_Stage,Frau,NN,frau,30357,,(4
 qd,r2rb.0,153483,153588,_Stage,_Stage,von,APPR,von,30357,,
-qd,r2rb.0,153483,153588,_Stage,_Stage,Birkenhayn,NN,birkenhayn,30357,,
+qd,r2rb.0,153483,153588,_Stage,_Stage,Birkenhayn,NN,birkenhayn,30357,,4)
 qd,r2rb.0,153483,153588,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,153483,153588,_Stage,_Stage,Wilhelmine,NN,wilhelmine,30357,,
+qd,r2rb.0,153483,153588,_Stage,_Stage,Wilhelmine,NN,wilhelmine,30357,,(6)
 qd,r2rb.0,153483,153588,_Stage,_Stage,",","$,",--,30357,,
-qd,r2rb.0,153483,153588,_Stage,_Stage,Cathrine,NN,cathrine,30357,,
+qd,r2rb.0,153483,153588,_Stage,_Stage,Cathrine,NN,cathrine,30357,,(1)
 qd,r2rb.0,153483,153588,_Stage,_Stage,;,$.,--,30357,,
-qd,r2rb.0,153483,153588,_Stage,_Stage,Peter,NE,peter,30357,,
+qd,r2rb.0,153483,153588,_Stage,_Stage,Peter,NE,peter,30357,,(0)
 qd,r2rb.0,153483,153588,_Stage,_Stage,als,APPR,als,30357,,
 qd,r2rb.0,153483,153588,_Stage,_Stage,ein,ART,ein,30357,,
 qd,r2rb.0,153483,153588,_Stage,_Stage,Student,NN,student,30357,,
@@ -785,7 +785,7 @@ qd,r2rb.0,157851,157899,PETER,peter,ihm,PPER,ihm,30357,,
 qd,r2rb.0,157851,157899,PETER,peter,wieder,ADV,wieder,30357,,
 qd,r2rb.0,157851,157899,PETER,peter,.,$.,--,30357,,
 qd,r2rb.0,158012,158024,MUFFEL,muffel,zu,PTKZU,zu,30357,,
-qd,r2rb.0,158012,158024,MUFFEL,muffel,Cathrine,VVINF,cathrine,30357,,
+qd,r2rb.0,158012,158024,MUFFEL,muffel,Cathrine,VVINF,cathrine,30357,,(1)
 qd,r2rb.0,158012,158024,MUFFEL,muffel,.,$.,--,30357,,
 qd,r2rb.0,158328,158337,HERR VON ROSENECK,herr_von_roseneck,für,APPR,für,30357,,
 qd,r2rb.0,158328,158337,HERR VON ROSENECK,herr_von_roseneck,sich,PRF,sich,30357,,
@@ -804,7 +804,7 @@ qd,r2rb.0,160101,160137,CATHRINE,cathrine,.,$.,--,30357,,
 qd,r2rb.0,160932,160941,TEMPELSTOLZ,tempelstolz,für,APPR,für,30357,,
 qd,r2rb.0,160932,160941,TEMPELSTOLZ,tempelstolz,sich,PRF,sich,30357,,
 qd,r2rb.0,160932,160941,TEMPELSTOLZ,tempelstolz,.,$.,--,30357,,
-qd,r2rb.0,161188,161208,_Stage,_Stage,Brigitte,NE,brigitte,30357,,
+qd,r2rb.0,161188,161208,_Stage,_Stage,Brigitte,NE,brigitte,30357,,(8)
 qd,r2rb.0,161188,161208,_Stage,_Stage,kommt,VVFIN,kommen,30357,,
 qd,r2rb.0,161188,161208,_Stage,_Stage,dazu,PROAV,dazu,30357,,
 qd,r2rb.0,161188,161208,_Stage,_Stage,.,$.,--,30357,,
@@ -820,9 +820,9 @@ qd,r2rb.0,161221,161305,BRIGITTE,brigitte,beym,ADJD,beym,30357,,
 qd,r2rb.0,161221,161305,BRIGITTE,brigitte,Arme,NN,arm,30357,,
 qd,r2rb.0,161221,161305,BRIGITTE,brigitte,von,APPR,von,30357,,
 qd,r2rb.0,161221,161305,BRIGITTE,brigitte,der,ART,der,30357,,
-qd,r2rb.0,161221,161305,BRIGITTE,brigitte,Frau,NN,frau,30357,,
+qd,r2rb.0,161221,161305,BRIGITTE,brigitte,Frau,NN,frau,30357,,(4
 qd,r2rb.0,161221,161305,BRIGITTE,brigitte,von,APPR,von,30357,,
-qd,r2rb.0,161221,161305,BRIGITTE,brigitte,Birkenhayn,NN,birkenhayn,30357,,
+qd,r2rb.0,161221,161305,BRIGITTE,brigitte,Birkenhayn,NN,birkenhayn,30357,,4)
 qd,r2rb.0,161221,161305,BRIGITTE,brigitte,weg,PTKVZ,weg,30357,,
 qd,r2rb.0,161221,161305,BRIGITTE,brigitte,.,$.,--,30357,,
 qd,r2rb.0,162260,162286,FRAU VON BIRKENHAYN,frau_von_birkenhayn,Ende,NN,ende,30357,,

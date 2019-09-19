@@ -18,19 +18,19 @@ qd,x34j.0,3542,3590,MELCHIOR,melchior,entfernen,VVINF,entfernen,24163,,
 qd,x34j.0,3542,3590,MELCHIOR,melchior,sich,PRF,sich,24163,,
 qd,x34j.0,3542,3590,MELCHIOR,melchior,bis,APPR,bis,24163,,
 qd,x34j.0,3542,3590,MELCHIOR,melchior,auf,APPR,auf,24163,,
-qd,x34j.0,3542,3590,MELCHIOR,melchior,Moritz,NE,moritz,24163,,
+qd,x34j.0,3542,3590,MELCHIOR,melchior,Moritz,NE,moritz,24163,,(4)
 qd,x34j.0,3542,3590,MELCHIOR,melchior,und,KON,und,24163,,
-qd,x34j.0,3542,3590,MELCHIOR,melchior,Melchior,NE,melchior,24163,,
+qd,x34j.0,3542,3590,MELCHIOR,melchior,Melchior,NE,melchior,24163,,(2)
 qd,x34j.0,3542,3590,MELCHIOR,melchior,.,$.,--,24163,,
 qd,x34j.0,4161,4181,MELCHIOR,melchior,Sie,PPER,sie,24163,,
 qd,x34j.0,4161,4181,MELCHIOR,melchior,gehen,VVFIN,gehen,24163,,
 qd,x34j.0,4161,4181,MELCHIOR,melchior,spazieren,VVINF,spazieren,24163,,
 qd,x34j.0,4161,4181,MELCHIOR,melchior,.,$.,--,24163,,
-qd,x34j.0,14148,14208,_Stage,_Stage,Thea,NE,thea,24163,,
+qd,x34j.0,14148,14208,_Stage,_Stage,Thea,NE,thea,24163,,(9)
 qd,x34j.0,14148,14208,_Stage,_Stage,",","$,",--,24163,,
-qd,x34j.0,14148,14208,_Stage,_Stage,Wendla,NE,wendla,24163,,
+qd,x34j.0,14148,14208,_Stage,_Stage,Wendla,NE,wendla,24163,,(0)
 qd,x34j.0,14148,14208,_Stage,_Stage,und,KON,und,24163,,
-qd,x34j.0,14148,14208,_Stage,_Stage,Martha,NE,martha,24163,,
+qd,x34j.0,14148,14208,_Stage,_Stage,Martha,NE,martha,24163,,(8)
 qd,x34j.0,14148,14208,_Stage,_Stage,kommen,VVFIN,kommen,24163,,
 qd,x34j.0,14148,14208,_Stage,_Stage,Arm,NN,arm,24163,,
 qd,x34j.0,14148,14208,_Stage,_Stage,in,APPR,in,24163,,
@@ -39,7 +39,7 @@ qd,x34j.0,14148,14208,_Stage,_Stage,die,ART,der,24163,,
 qd,x34j.0,14148,14208,_Stage,_Stage,Straße,NN,straße,24163,,
 qd,x34j.0,14148,14208,_Stage,_Stage,herauf,PTKVZ,herauf,24163,,
 qd,x34j.0,14148,14208,_Stage,_Stage,.,$.,--,24163,,
-qd,x34j.0,19511,19543,WENDLA,wendla,Melchior,NE,melchior,24163,,
+qd,x34j.0,19511,19543,WENDLA,wendla,Melchior,NE,melchior,24163,,(2)
 qd,x34j.0,19511,19543,WENDLA,wendla,geht,VVFIN,gehen,24163,,
 qd,x34j.0,19511,19543,WENDLA,wendla,vorüber,ADV,vorüber,24163,,
 qd,x34j.0,19511,19543,WENDLA,wendla,und,KON,und,24163,,
@@ -51,20 +51,20 @@ qd,x34j.0,20598,20690,_Stage,_Stage,dem,ART,der,24163,,
 qd,x34j.0,20598,20690,_Stage,_Stage,Gymnasium,NN,gymnasium,24163,,
 qd,x34j.0,20598,20690,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,20598,20690,_Stage,_Stage,–,XY,–,24163,,
-qd,x34j.0,20598,20690,_Stage,_Stage,Melchior,NN,melchior,24163,,
+qd,x34j.0,20598,20690,_Stage,_Stage,Melchior,NN,melchior,24163,,(2)
 qd,x34j.0,20598,20690,_Stage,_Stage,",","$,",--,24163,,
-qd,x34j.0,20598,20690,_Stage,_Stage,Otto,NE,otto,24163,,
+qd,x34j.0,20598,20690,_Stage,_Stage,Otto,NE,otto,24163,,(3)
 qd,x34j.0,20598,20690,_Stage,_Stage,",","$,",--,24163,,
-qd,x34j.0,20598,20690,_Stage,_Stage,Georg,NE,georg,24163,,
+qd,x34j.0,20598,20690,_Stage,_Stage,Georg,NE,georg,24163,,(5)
 qd,x34j.0,20598,20690,_Stage,_Stage,",","$,",--,24163,,
-qd,x34j.0,20598,20690,_Stage,_Stage,Robert,NE,robert,24163,,
+qd,x34j.0,20598,20690,_Stage,_Stage,Robert,NE,robert,24163,,(6)
 qd,x34j.0,20598,20690,_Stage,_Stage,",","$,",--,24163,,
 qd,x34j.0,20598,20690,_Stage,_Stage,Hänschen,NN,hänsch,24163,,
 qd,x34j.0,20598,20690,_Stage,_Stage,Rilow,NE,rilow,24163,,
 qd,x34j.0,20598,20690,_Stage,_Stage,",","$,",--,24163,,
 qd,x34j.0,20598,20690,_Stage,_Stage,Lämmermeier,NE,lämmermeier,24163,,
 qd,x34j.0,20598,20690,_Stage,_Stage,.,$.,--,24163,,
-qd,x34j.0,22128,22164,MELCHIOR,melchior,Moritz,NE,moritz,24163,,
+qd,x34j.0,22128,22164,MELCHIOR,melchior,Moritz,NE,moritz,24163,,(4)
 qd,x34j.0,22128,22164,MELCHIOR,melchior,kommt,VVFIN,kommen,24163,,
 qd,x34j.0,22128,22164,MELCHIOR,melchior,in,APPR,in,24163,,
 qd,x34j.0,22128,22164,MELCHIOR,melchior,äußerster,ADJA,äußerer,24163,,
@@ -76,9 +76,9 @@ qd,x34j.0,24736,24750,MELCHIOR,melchior,eine,PIS,ein,24163,,
 qd,x34j.0,24736,24750,MELCHIOR,melchior,.,$.,--,24163,,
 qd,x34j.0,24946,25004,MELCHIOR,melchior,Die,ART,der,24163,,
 qd,x34j.0,24946,25004,MELCHIOR,melchior,Professoren,NN,professor,24163,,
-qd,x34j.0,24946,25004,MELCHIOR,melchior,Hungergurt,NN,hungergurt,24163,,
+qd,x34j.0,24946,25004,MELCHIOR,melchior,Hungergurt,NN,hungergurt,24163,,(13)
 qd,x34j.0,24946,25004,MELCHIOR,melchior,und,KON,und,24163,,
-qd,x34j.0,24946,25004,MELCHIOR,melchior,Knochenbruch,NN,knochenbruch,24163,,
+qd,x34j.0,24946,25004,MELCHIOR,melchior,Knochenbruch,NN,knochenbruch,24163,,(12)
 qd,x34j.0,24946,25004,MELCHIOR,melchior,gehen,VVFIN,gehen,24163,,
 qd,x34j.0,24946,25004,MELCHIOR,melchior,vorüber,ADV,vorüber,24163,,
 qd,x34j.0,24946,25004,MELCHIOR,melchior,.,$.,--,24163,,
@@ -86,9 +86,9 @@ qd,x34j.0,25251,25320,_Stage,_Stage,Sonniger,ADJA,sonniger,24163,,
 qd,x34j.0,25251,25320,_Stage,_Stage,Nachmittag,NN,nachmittag,24163,,
 qd,x34j.0,25251,25320,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,25251,25320,_Stage,_Stage,–,XY,–,24163,,
-qd,x34j.0,25251,25320,_Stage,_Stage,Melchior,NN,melchior,24163,,
+qd,x34j.0,25251,25320,_Stage,_Stage,Melchior,NN,melchior,24163,,(2)
 qd,x34j.0,25251,25320,_Stage,_Stage,und,KON,und,24163,,
-qd,x34j.0,25251,25320,_Stage,_Stage,Wendla,NE,wendla,24163,,
+qd,x34j.0,25251,25320,_Stage,_Stage,Wendla,NE,wendla,24163,,(0)
 qd,x34j.0,25251,25320,_Stage,_Stage,begegnen,VVFIN,begegnen,24163,,
 qd,x34j.0,25251,25320,_Stage,_Stage,einander,ADV,einander,24163,,
 qd,x34j.0,25251,25320,_Stage,_Stage,im,APPRART,in,24163,,
@@ -128,15 +128,15 @@ qd,x34j.0,32885,33016,_Stage,_Stage,dem,ART,der,24163,,
 qd,x34j.0,32885,33016,_Stage,_Stage,Tischs,NN,tisch,24163,,
 qd,x34j.0,32885,33016,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,32885,33016,_Stage,_Stage,–,XY,–,24163,,
-qd,x34j.0,32885,33016,_Stage,_Stage,Melchior,NN,melchior,24163,,
+qd,x34j.0,32885,33016,_Stage,_Stage,Melchior,NN,melchior,24163,,(2)
 qd,x34j.0,32885,33016,_Stage,_Stage,und,KON,und,24163,,
-qd,x34j.0,32885,33016,_Stage,_Stage,Moritz,NE,moritz,24163,,
+qd,x34j.0,32885,33016,_Stage,_Stage,Moritz,NE,moritz,24163,,(4)
 qd,x34j.0,32885,33016,_Stage,_Stage,auf,APPR,auf,24163,,
 qd,x34j.0,32885,33016,_Stage,_Stage,dem,ART,der,24163,,
 qd,x34j.0,32885,33016,_Stage,_Stage,Kanapee,NN,kanapee,24163,,
 qd,x34j.0,32885,33016,_Stage,_Stage,.,$.,--,24163,,
-qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,Frau,NN,frau,24163,,
-qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,Gabor,NE,gabor,24163,,
+qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,Frau,NN,frau,24163,,(14
+qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,Gabor,NE,gabor,24163,,14)
 qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,kommt,VVFIN,kommen,24163,,
 qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,mit,APPR,mit,24163,,
 qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,dem,ART,der,24163,,
@@ -146,9 +146,9 @@ qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,",","$,",--,24163,,
 qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,den,PRELS,der,24163,,
 qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,sie,PPER,sie,24163,,
 qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,vor,APPR,vor,24163,,
-qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,Moritz,NE,moritz,24163,,
+qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,Moritz,NE,moritz,24163,,(4)
 qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,und,KON,und,24163,,
-qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,Melchior,NN,melchior,24163,,
+qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,Melchior,NN,melchior,24163,,(2)
 qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,auf,APPR,auf,24163,,
 qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,den,ART,der,24163,,
 qd,x34j.0,37210,37303,MORITZ,moritz_stiefel,Tisch,NN,tisch,24163,,
@@ -253,7 +253,7 @@ qd,x34j.0,54247,54341,_Stage,_Stage,Ein,ART,ein,24163,,
 qd,x34j.0,54247,54341,_Stage,_Stage,Heuboden,NN,heuboden,24163,,
 qd,x34j.0,54247,54341,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,54247,54341,_Stage,_Stage,–,XY,–,24163,,
-qd,x34j.0,54247,54341,_Stage,_Stage,Melchior,NN,melchior,24163,,
+qd,x34j.0,54247,54341,_Stage,_Stage,Melchior,NN,melchior,24163,,(2)
 qd,x34j.0,54247,54341,_Stage,_Stage,liegt,VVFIN,liegen,24163,,
 qd,x34j.0,54247,54341,_Stage,_Stage,auf,APPR,auf,24163,,
 qd,x34j.0,54247,54341,_Stage,_Stage,dem,ART,der,24163,,
@@ -262,7 +262,7 @@ qd,x34j.0,54247,54341,_Stage,_Stage,im,APPRART,in,24163,,
 qd,x34j.0,54247,54341,_Stage,_Stage,frischen,ADJA,frisch,24163,,
 qd,x34j.0,54247,54341,_Stage,_Stage,Heu,NN,heu,24163,,
 qd,x34j.0,54247,54341,_Stage,_Stage,.,$.,--,24163,,
-qd,x34j.0,54247,54341,_Stage,_Stage,Wendla,NE,wendla,24163,,
+qd,x34j.0,54247,54341,_Stage,_Stage,Wendla,NE,wendla,24163,,(0)
 qd,x34j.0,54247,54341,_Stage,_Stage,kommt,VVFIN,kommen,24163,,
 qd,x34j.0,54247,54341,_Stage,_Stage,die,ART,der,24163,,
 qd,x34j.0,54247,54341,_Stage,_Stage,Leiter,NN,leiter,24163,,
@@ -365,13 +365,13 @@ qd,x34j.0,71867,72186,_Stage,_Stage,Affenschmalz,NE,affenschmalz,24163,,
 qd,x34j.0,71867,72186,_Stage,_Stage,",","$,",--,24163,,
 qd,x34j.0,71867,72186,_Stage,_Stage,Knüppeldick,NN,knüppeldick,24163,,
 qd,x34j.0,71867,72186,_Stage,_Stage,",","$,",--,24163,,
-qd,x34j.0,71867,72186,_Stage,_Stage,Hungergurt,NN,hungergurt,24163,,
+qd,x34j.0,71867,72186,_Stage,_Stage,Hungergurt,NN,hungergurt,24163,,(13)
 qd,x34j.0,71867,72186,_Stage,_Stage,",","$,",--,24163,,
-qd,x34j.0,71867,72186,_Stage,_Stage,Knochenbruch,NN,knochenbruch,24163,,
+qd,x34j.0,71867,72186,_Stage,_Stage,Knochenbruch,NN,knochenbruch,24163,,(12)
 qd,x34j.0,71867,72186,_Stage,_Stage,",","$,",--,24163,,
-qd,x34j.0,71867,72186,_Stage,_Stage,Zungenschlag,NN,zungenschlag,24163,,
+qd,x34j.0,71867,72186,_Stage,_Stage,Zungenschlag,NN,zungenschlag,24163,,(18)
 qd,x34j.0,71867,72186,_Stage,_Stage,und,KON,und,24163,,
-qd,x34j.0,71867,72186,_Stage,_Stage,Fliegentod,NN,fliegentod,24163,,
+qd,x34j.0,71867,72186,_Stage,_Stage,Fliegentod,NN,fliegentod,24163,,(20)
 qd,x34j.0,71867,72186,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,71867,72186,_Stage,_Stage,Am,APPRART,an,24163,,
 qd,x34j.0,71867,72186,_Stage,_Stage,oberen,ADJA,oberer,24163,,
@@ -379,26 +379,26 @@ qd,x34j.0,71867,72186,_Stage,_Stage,Ende,NN,ende,24163,,
 qd,x34j.0,71867,72186,_Stage,_Stage,auf,APPR,auf,24163,,
 qd,x34j.0,71867,72186,_Stage,_Stage,erhöhtem,ADJA,erhöht,24163,,
 qd,x34j.0,71867,72186,_Stage,_Stage,Sessel,NN,sessel,24163,,
-qd,x34j.0,71867,72186,_Stage,_Stage,Rektor,NN,rektor,24163,,
-qd,x34j.0,71867,72186,_Stage,_Stage,Sonnenstich,NE,sonnenstich,24163,,
+qd,x34j.0,71867,72186,_Stage,_Stage,Rektor,NN,rektor,24163,,(16
+qd,x34j.0,71867,72186,_Stage,_Stage,Sonnenstich,NE,sonnenstich,24163,,16)|(16)
 qd,x34j.0,71867,72186,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,71867,72186,_Stage,_Stage,Pedell,NN,pedell,24163,,
-qd,x34j.0,71867,72186,_Stage,_Stage,Habebald,NE,habebald,24163,,
+qd,x34j.0,71867,72186,_Stage,_Stage,Habebald,NE,habebald,24163,,(19)
 qd,x34j.0,71867,72186,_Stage,_Stage,kauert,VVFIN,kauern,24163,,
 qd,x34j.0,71867,72186,_Stage,_Stage,neben,APPR,neben,24163,,
 qd,x34j.0,71867,72186,_Stage,_Stage,der,ART,der,24163,,
 qd,x34j.0,71867,72186,_Stage,_Stage,Tür,NN,tür,24163,,
 qd,x34j.0,71867,72186,_Stage,_Stage,.,$.,--,24163,,
-qd,x34j.0,76379,76391,REKTOR SONNENSTICH,rektor_sonnenstich,Habebald,NE,habebald,24163,,
+qd,x34j.0,76379,76391,REKTOR SONNENSTICH,rektor_sonnenstich,Habebald,NE,habebald,24163,,(19)
 qd,x34j.0,76379,76391,REKTOR SONNENSTICH,rektor_sonnenstich,ab,PTKVZ,ab,24163,,
 qd,x34j.0,76379,76391,REKTOR SONNENSTICH,rektor_sonnenstich,.,$.,--,24163,,
-qd,x34j.0,77244,77334,REKTOR SONNENSTICH,rektor_sonnenstich,Habebald,NE,habebald,24163,,
+qd,x34j.0,77244,77334,REKTOR SONNENSTICH,rektor_sonnenstich,Habebald,NE,habebald,24163,,(19)
 qd,x34j.0,77244,77334,REKTOR SONNENSTICH,rektor_sonnenstich,öffnet,VVFIN,öffnen,24163,,
 qd,x34j.0,77244,77334,REKTOR SONNENSTICH,rektor_sonnenstich,die,ART,der,24163,,
 qd,x34j.0,77244,77334,REKTOR SONNENSTICH,rektor_sonnenstich,Türe,NN,türe,24163,,
 qd,x34j.0,77244,77334,REKTOR SONNENSTICH,rektor_sonnenstich,",","$,",--,24163,,
 qd,x34j.0,77244,77334,REKTOR SONNENSTICH,rektor_sonnenstich,worauf,PWAV,worauf,24163,,
-qd,x34j.0,77244,77334,REKTOR SONNENSTICH,rektor_sonnenstich,Melchior,NE,melchior,24163,,
+qd,x34j.0,77244,77334,REKTOR SONNENSTICH,rektor_sonnenstich,Melchior,NE,melchior,24163,,(2)
 qd,x34j.0,77244,77334,REKTOR SONNENSTICH,rektor_sonnenstich,",","$,",--,24163,,
 qd,x34j.0,77244,77334,REKTOR SONNENSTICH,rektor_sonnenstich,bleich,ADJD,bleich,24163,,
 qd,x34j.0,77244,77334,REKTOR SONNENSTICH,rektor_sonnenstich,",","$,",--,24163,,
@@ -421,8 +421,8 @@ qd,x34j.0,81481,81848,_Stage,_Stage,einem,ART,ein,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,offenen,ADJA,offen,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,Grabe,NN,grab,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,steht,VVFIN,stehen,24163,,
-qd,x34j.0,81481,81848,_Stage,_Stage,Pastor,NN,pastor,24163,,
-qd,x34j.0,81481,81848,_Stage,_Stage,Kahlbauch,NN,kahlbauch,24163,,
+qd,x34j.0,81481,81848,_Stage,_Stage,Pastor,NN,pastor,24163,,(21
+qd,x34j.0,81481,81848,_Stage,_Stage,Kahlbauch,NN,kahlbauch,24163,,21)
 qd,x34j.0,81481,81848,_Stage,_Stage,",","$,",--,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,den,ART,der,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,aufgespannten,ADJA,aufgespannt,24163,,
@@ -434,23 +434,23 @@ qd,x34j.0,81481,81848,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,Zu,APPR,zu,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,seiner,PPOSAT,sein,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,Rechten,NN,recht,24163,,
-qd,x34j.0,81481,81848,_Stage,_Stage,Rentier,NN,rentier,24163,,
-qd,x34j.0,81481,81848,_Stage,_Stage,Stiefel,NN,stiefel,24163,,
+qd,x34j.0,81481,81848,_Stage,_Stage,Rentier,NN,rentier,24163,,(22
+qd,x34j.0,81481,81848,_Stage,_Stage,Stiefel,NN,stiefel,24163,,22)
 qd,x34j.0,81481,81848,_Stage,_Stage,",","$,",--,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,dessen,PRELAT,der,24163,,
-qd,x34j.0,81481,81848,_Stage,_Stage,Freund,NN,freund,24163,,
-qd,x34j.0,81481,81848,_Stage,_Stage,Ziegenmelker,NN,ziegenmelker,24163,,
+qd,x34j.0,81481,81848,_Stage,_Stage,Freund,NN,freund,24163,,(24
+qd,x34j.0,81481,81848,_Stage,_Stage,Ziegenmelker,NN,ziegenmelker,24163,,24)
 qd,x34j.0,81481,81848,_Stage,_Stage,und,KON,und,24163,,
-qd,x34j.0,81481,81848,_Stage,_Stage,Onkel,NN,onkel,24163,,
-qd,x34j.0,81481,81848,_Stage,_Stage,Probst,NE,probst,24163,,
+qd,x34j.0,81481,81848,_Stage,_Stage,Onkel,NN,onkel,24163,,(23
+qd,x34j.0,81481,81848,_Stage,_Stage,Probst,NE,probst,24163,,23)
 qd,x34j.0,81481,81848,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,Zur,APPRART,zu,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,Linken,NN,linke,24163,,
-qd,x34j.0,81481,81848,_Stage,_Stage,Rektor,NN,rektor,24163,,
-qd,x34j.0,81481,81848,_Stage,_Stage,Sonnenstich,NE,sonnenstich,24163,,
+qd,x34j.0,81481,81848,_Stage,_Stage,Rektor,NN,rektor,24163,,(16
+qd,x34j.0,81481,81848,_Stage,_Stage,Sonnenstich,NE,sonnenstich,24163,,16)|(16)
 qd,x34j.0,81481,81848,_Stage,_Stage,mit,APPR,mit,24163,,
-qd,x34j.0,81481,81848,_Stage,_Stage,Professor,NN,professor,24163,,
-qd,x34j.0,81481,81848,_Stage,_Stage,Knochenbruch,NE,knochenbruch,24163,,
+qd,x34j.0,81481,81848,_Stage,_Stage,Professor,NN,professor,24163,,(12
+qd,x34j.0,81481,81848,_Stage,_Stage,Knochenbruch,NE,knochenbruch,24163,,12)|(12)
 qd,x34j.0,81481,81848,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,Gymnasiasten,NN,gymnasiasten,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,schließen,VVFIN,schließen,24163,,
@@ -464,9 +464,9 @@ qd,x34j.0,81481,81848,_Stage,_Stage,vor,APPR,vor,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,einem,ART,ein,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,halbverfallenen,ADJA,halbverfallen,24163,,
 qd,x34j.0,81481,81848,_Stage,_Stage,Grabmonument,NN,grabmonument,24163,,
-qd,x34j.0,81481,81848,_Stage,_Stage,Martha,NE,martha,24163,,
+qd,x34j.0,81481,81848,_Stage,_Stage,Martha,NE,martha,24163,,(8)
 qd,x34j.0,81481,81848,_Stage,_Stage,und,KON,und,24163,,
-qd,x34j.0,81481,81848,_Stage,_Stage,Ilse,NE,ilse,24163,,
+qd,x34j.0,81481,81848,_Stage,_Stage,Ilse,NE,ilse,24163,,(15)
 qd,x34j.0,81481,81848,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,82702,82774,RENTIER STIEFEL,rentier_stiefel,mit,APPR,mit,24163,,
 qd,x34j.0,82702,82774,RENTIER STIEFEL,rentier_stiefel,tränenerstickter,ADJA,tränenerstickt,24163,,
@@ -517,32 +517,32 @@ qd,x34j.0,83568,83611,FREUND ZIEGENMELKER,freund_ziegenmelker,in,APPR,in,24163,,
 qd,x34j.0,83568,83611,FREUND ZIEGENMELKER,freund_ziegenmelker,die,ART,der,24163,,
 qd,x34j.0,83568,83611,FREUND ZIEGENMELKER,freund_ziegenmelker,Gruft,NN,gruft,24163,,
 qd,x34j.0,83568,83611,FREUND ZIEGENMELKER,freund_ziegenmelker,.,$.,--,24163,,
-qd,x34j.0,83774,83808,PASTOR KAHLBAUCH,pastor_kahlbauch,Rentier,ADJA,rentier,24163,,
-qd,x34j.0,83774,83808,PASTOR KAHLBAUCH,pastor_kahlbauch,Stiefel,NN,stiefel,24163,,
+qd,x34j.0,83774,83808,PASTOR KAHLBAUCH,pastor_kahlbauch,Rentier,ADJA,rentier,24163,,(22
+qd,x34j.0,83774,83808,PASTOR KAHLBAUCH,pastor_kahlbauch,Stiefel,NN,stiefel,24163,,22)
 qd,x34j.0,83774,83808,PASTOR KAHLBAUCH,pastor_kahlbauch,die,ART,der,24163,,
 qd,x34j.0,83774,83808,PASTOR KAHLBAUCH,pastor_kahlbauch,Hand,NN,hand,24163,,
 qd,x34j.0,83774,83808,PASTOR KAHLBAUCH,pastor_kahlbauch,drückend,ADJD,drückend,24163,,
 qd,x34j.0,83774,83808,PASTOR KAHLBAUCH,pastor_kahlbauch,.,$.,--,24163,,
-qd,x34j.0,84029,84063,REKTOR SONNENSTICH,rektor_sonnenstich,Rentier,ADJA,rentier,24163,,
-qd,x34j.0,84029,84063,REKTOR SONNENSTICH,rektor_sonnenstich,Stiefel,NN,stiefel,24163,,
+qd,x34j.0,84029,84063,REKTOR SONNENSTICH,rektor_sonnenstich,Rentier,ADJA,rentier,24163,,(22
+qd,x34j.0,84029,84063,REKTOR SONNENSTICH,rektor_sonnenstich,Stiefel,NN,stiefel,24163,,22)
 qd,x34j.0,84029,84063,REKTOR SONNENSTICH,rektor_sonnenstich,die,ART,der,24163,,
 qd,x34j.0,84029,84063,REKTOR SONNENSTICH,rektor_sonnenstich,Hand,NN,hand,24163,,
 qd,x34j.0,84029,84063,REKTOR SONNENSTICH,rektor_sonnenstich,drückend,ADJD,drückend,24163,,
 qd,x34j.0,84029,84063,REKTOR SONNENSTICH,rektor_sonnenstich,.,$.,--,24163,,
-qd,x34j.0,84158,84192,KNOCHENBRUCH,knochenbruch,Rentier,ADJA,rentier,24163,,
-qd,x34j.0,84158,84192,KNOCHENBRUCH,knochenbruch,Stiefel,NN,stiefel,24163,,
+qd,x34j.0,84158,84192,KNOCHENBRUCH,knochenbruch,Rentier,ADJA,rentier,24163,,(22
+qd,x34j.0,84158,84192,KNOCHENBRUCH,knochenbruch,Stiefel,NN,stiefel,24163,,22)
 qd,x34j.0,84158,84192,KNOCHENBRUCH,knochenbruch,die,ART,der,24163,,
 qd,x34j.0,84158,84192,KNOCHENBRUCH,knochenbruch,Hand,NN,hand,24163,,
 qd,x34j.0,84158,84192,KNOCHENBRUCH,knochenbruch,drückend,ADJD,drückend,24163,,
 qd,x34j.0,84158,84192,KNOCHENBRUCH,knochenbruch,.,$.,--,24163,,
-qd,x34j.0,84318,84352,ONKEL PROBST,onkel_probst,Rentier,ADJA,rentier,24163,,
-qd,x34j.0,84318,84352,ONKEL PROBST,onkel_probst,Stiefel,NN,stiefel,24163,,
+qd,x34j.0,84318,84352,ONKEL PROBST,onkel_probst,Rentier,ADJA,rentier,24163,,(22
+qd,x34j.0,84318,84352,ONKEL PROBST,onkel_probst,Stiefel,NN,stiefel,24163,,22)
 qd,x34j.0,84318,84352,ONKEL PROBST,onkel_probst,die,ART,der,24163,,
 qd,x34j.0,84318,84352,ONKEL PROBST,onkel_probst,Hand,NN,hand,24163,,
 qd,x34j.0,84318,84352,ONKEL PROBST,onkel_probst,drückend,ADJD,drückend,24163,,
 qd,x34j.0,84318,84352,ONKEL PROBST,onkel_probst,.,$.,--,24163,,
-qd,x34j.0,84463,84497,FREUND ZIEGENMELKER,freund_ziegenmelker,Rentier,ADJA,rentier,24163,,
-qd,x34j.0,84463,84497,FREUND ZIEGENMELKER,freund_ziegenmelker,Stiefel,NN,stiefel,24163,,
+qd,x34j.0,84463,84497,FREUND ZIEGENMELKER,freund_ziegenmelker,Rentier,ADJA,rentier,24163,,(22
+qd,x34j.0,84463,84497,FREUND ZIEGENMELKER,freund_ziegenmelker,Stiefel,NN,stiefel,24163,,22)
 qd,x34j.0,84463,84497,FREUND ZIEGENMELKER,freund_ziegenmelker,die,ART,der,24163,,
 qd,x34j.0,84463,84497,FREUND ZIEGENMELKER,freund_ziegenmelker,Hand,NN,hand,24163,,
 qd,x34j.0,84463,84497,FREUND ZIEGENMELKER,freund_ziegenmelker,drückend,ADJD,drückend,24163,,
@@ -552,25 +552,25 @@ qd,x34j.0,84693,84718,RENTIER STIEFEL,rentier_stiefel,die,ART,der,24163,,
 qd,x34j.0,84693,84718,RENTIER STIEFEL,rentier_stiefel,Nase,NN,nase,24163,,
 qd,x34j.0,84693,84718,RENTIER STIEFEL,rentier_stiefel,schneuzend,ADJD,schneuzend,24163,,
 qd,x34j.0,84693,84718,RENTIER STIEFEL,rentier_stiefel,.,$.,--,24163,,
-qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Rentier,ADJA,rentier,24163,,
-qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Stiefel,NN,stiefel,24163,,
+qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Rentier,ADJA,rentier,24163,,(22
+qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Stiefel,NN,stiefel,24163,,22)
 qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,",","$,",--,24163,,
 qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,geleitet,VVPP,leiten,24163,,
 qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,von,APPR,von,24163,,
-qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Pastor,NN,pastor,24163,,
-qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Kahlbauch,NN,kahlbauch,24163,,
+qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Pastor,NN,pastor,24163,,(21
+qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Kahlbauch,NN,kahlbauch,24163,,21)
 qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,",","$,",--,24163,,
-qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Rektor,NN,rektor,24163,,
-qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Sonnenstich,NE,sonnenstich,24163,,
+qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Rektor,NN,rektor,24163,,(16
+qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Sonnenstich,NE,sonnenstich,24163,,16)|(16)
 qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,",","$,",--,24163,,
-qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Professor,NN,professor,24163,,
-qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Knochenbruch,NE,knochenbruch,24163,,
+qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Professor,NN,professor,24163,,(12
+qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Knochenbruch,NE,knochenbruch,24163,,12)|(12)
 qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,",","$,",--,24163,,
-qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Onkel,NN,onkel,24163,,
-qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Probst,NE,probst,24163,,
+qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Onkel,NN,onkel,24163,,(23
+qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Probst,NE,probst,24163,,23)
 qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,und,KON,und,24163,,
-qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Freund,NN,freund,24163,,
-qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Ziegenmelker,NN,ziegenmelker,24163,,
+qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Freund,NN,freund,24163,,(24
+qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,Ziegenmelker,NN,ziegenmelker,24163,,24)
 qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,ab,PTKVZ,ab,24163,,
 qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,.,$.,--,24163,,
 qd,x34j.0,84787,84942,RENTIER STIEFEL,rentier_stiefel,–,XY,–,24163,,
@@ -593,9 +593,9 @@ qd,x34j.0,86852,86907,OTTO,otto,Gymnasiasten,NN,gymnasiast,24163,,
 qd,x34j.0,86852,86907,OTTO,otto,ab,PTKVZ,ab,24163,,
 qd,x34j.0,86852,86907,OTTO,otto,.,$.,--,24163,,
 qd,x34j.0,86852,86907,OTTO,otto,–,XY,–,24163,,
-qd,x34j.0,86852,86907,OTTO,otto,Martha,NE,martha,24163,,
+qd,x34j.0,86852,86907,OTTO,otto,Martha,NE,martha,24163,,(8)
 qd,x34j.0,86852,86907,OTTO,otto,und,KON,und,24163,,
-qd,x34j.0,86852,86907,OTTO,otto,Ilse,NE,ilse,24163,,
+qd,x34j.0,86852,86907,OTTO,otto,Ilse,NE,ilse,24163,,(15)
 qd,x34j.0,86852,86907,OTTO,otto,kommen,VVFIN,kommen,24163,,
 qd,x34j.0,86852,86907,OTTO,otto,ans,APPRART,an,24163,,
 qd,x34j.0,86852,86907,OTTO,otto,Grab,NN,grab,24163,,
@@ -608,7 +608,7 @@ qd,x34j.0,87138,87261,MARTHA,martha,in,APPR,in,24163,,
 qd,x34j.0,87138,87261,MARTHA,martha,die,ART,der,24163,,
 qd,x34j.0,87138,87261,MARTHA,martha,Gruft,NN,gruft,24163,,
 qd,x34j.0,87138,87261,MARTHA,martha,.,$.,--,24163,,
-qd,x34j.0,87138,87261,MARTHA,martha,Ilse,NE,ilse,24163,,
+qd,x34j.0,87138,87261,MARTHA,martha,Ilse,NE,ilse,24163,,(15)
 qd,x34j.0,87138,87261,MARTHA,martha,öffnet,VVFIN,öffnen,24163,,
 qd,x34j.0,87138,87261,MARTHA,martha,ihre,PPOSAT,ihr,24163,,
 qd,x34j.0,87138,87261,MARTHA,martha,Schürze,NN,schürze,24163,,
@@ -625,8 +625,8 @@ qd,x34j.0,87138,87261,MARTHA,martha,regnen,VVINF,regnen,24163,,
 qd,x34j.0,87138,87261,MARTHA,martha,.,$.,--,24163,,
 qd,x34j.0,88339,88359,_Stage,_Stage,Herr,NN,herr,24163,,
 qd,x34j.0,88339,88359,_Stage,_Stage,und,KON,und,24163,,
-qd,x34j.0,88339,88359,_Stage,_Stage,Frau,NN,frau,24163,,
-qd,x34j.0,88339,88359,_Stage,_Stage,Gabor,NE,gabor,24163,,
+qd,x34j.0,88339,88359,_Stage,_Stage,Frau,NN,frau,24163,,(14
+qd,x34j.0,88339,88359,_Stage,_Stage,Gabor,NE,gabor,24163,,14)
 qd,x34j.0,88339,88359,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,97229,97249,FRAU GABOR,frau_gabor,bedeckt,VVFIN,bedecken,24163,,
 qd,x34j.0,97229,97249,FRAU GABOR,frau_gabor,ihr,PPOSAT,ihr,24163,,
@@ -639,17 +639,17 @@ qd,x34j.0,97315,97412,_Stage,_Stage,Ein,ART,ein,24163,,
 qd,x34j.0,97315,97412,_Stage,_Stage,Korridor,NN,korridor,24163,,
 qd,x34j.0,97315,97412,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,97315,97412,_Stage,_Stage,–,XY,–,24163,,
-qd,x34j.0,97315,97412,_Stage,_Stage,Diethelm,NE,diethelm,24163,,
+qd,x34j.0,97315,97412,_Stage,_Stage,Diethelm,NE,diethelm,24163,,(26)
 qd,x34j.0,97315,97412,_Stage,_Stage,",","$,",--,24163,,
-qd,x34j.0,97315,97412,_Stage,_Stage,Reinhold,NE,reinhold,24163,,
+qd,x34j.0,97315,97412,_Stage,_Stage,Reinhold,NE,reinhold,24163,,(27)
 qd,x34j.0,97315,97412,_Stage,_Stage,",","$,",--,24163,,
-qd,x34j.0,97315,97412,_Stage,_Stage,Ruprecht,NN,ruprecht,24163,,
+qd,x34j.0,97315,97412,_Stage,_Stage,Ruprecht,NN,ruprecht,24163,,(28)
 qd,x34j.0,97315,97412,_Stage,_Stage,",","$,",--,24163,,
-qd,x34j.0,97315,97412,_Stage,_Stage,Helmuth,NE,helmuth,24163,,
+qd,x34j.0,97315,97412,_Stage,_Stage,Helmuth,NE,helmuth,24163,,(29)
 qd,x34j.0,97315,97412,_Stage,_Stage,",","$,",--,24163,,
-qd,x34j.0,97315,97412,_Stage,_Stage,Gaston,NE,gaston,24163,,
+qd,x34j.0,97315,97412,_Stage,_Stage,Gaston,NE,gaston,24163,,(30)
 qd,x34j.0,97315,97412,_Stage,_Stage,und,KON,und,24163,,
-qd,x34j.0,97315,97412,_Stage,_Stage,Melchior,NE,melchior,24163,,
+qd,x34j.0,97315,97412,_Stage,_Stage,Melchior,NE,melchior,24163,,(2)
 qd,x34j.0,97315,97412,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,97768,97777,MELCHIOR,melchior,für,APPR,für,24163,,
 qd,x34j.0,97768,97777,MELCHIOR,melchior,sich,PRF,sich,24163,,
@@ -676,7 +676,7 @@ qd,x34j.0,98831,98865,MELCHIOR,melchior,das,ART,der,24163,,
 qd,x34j.0,98831,98865,MELCHIOR,melchior,Fenster,NN,fenster,24163,,
 qd,x34j.0,98831,98865,MELCHIOR,melchior,gewandt,VVPP,wenden,24163,,
 qd,x34j.0,98831,98865,MELCHIOR,melchior,.,$.,--,24163,,
-qd,x34j.0,99976,100029,MELCHIOR,melchior,Dr,NN,dr,24163,,
+qd,x34j.0,99976,100029,MELCHIOR,melchior,Dr,NN,dr,24163,,(31)
 qd,x34j.0,99976,100029,MELCHIOR,melchior,.,$.,--,24163,,
 qd,x34j.0,99976,100029,MELCHIOR,melchior,Prokrustes,NN,prokrust,24163,,
 qd,x34j.0,99976,100029,MELCHIOR,melchior,mit,APPR,mit,24163,,
@@ -689,26 +689,26 @@ qd,x34j.0,100526,100627,_Stage,_Stage,Ein,ART,ein,24163,,
 qd,x34j.0,100526,100627,_Stage,_Stage,Schlafgemach,NN,schlafgemach,24163,,
 qd,x34j.0,100526,100627,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,100526,100627,_Stage,_Stage,–,XY,–,24163,,
-qd,x34j.0,100526,100627,_Stage,_Stage,Frau,NN,frau,24163,,
-qd,x34j.0,100526,100627,_Stage,_Stage,Bergmann,NE,bergmann,24163,,
+qd,x34j.0,100526,100627,_Stage,_Stage,Frau,NN,frau,24163,,(1
+qd,x34j.0,100526,100627,_Stage,_Stage,Bergmann,NE,bergmann,24163,,1)
 qd,x34j.0,100526,100627,_Stage,_Stage,",","$,",--,24163,,
-qd,x34j.0,100526,100627,_Stage,_Stage,Ina,NE,ina,24163,,
+qd,x34j.0,100526,100627,_Stage,_Stage,Ina,NE,ina,24163,,(33)
 qd,x34j.0,100526,100627,_Stage,_Stage,Müller,NE,müller,24163,,
 qd,x34j.0,100526,100627,_Stage,_Stage,und,KON,und,24163,,
 qd,x34j.0,100526,100627,_Stage,_Stage,Medizinalrat,NN,medizinalrat,24163,,
-qd,x34j.0,100526,100627,_Stage,_Stage,Dr,NE,dr,24163,,
+qd,x34j.0,100526,100627,_Stage,_Stage,Dr,NE,dr,24163,,(31)
 qd,x34j.0,100526,100627,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,100526,100627,_Stage,_Stage,v,XY,v,24163,,
 qd,x34j.0,100526,100627,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,100526,100627,_Stage,_Stage,Brausepulver,NN,brausepulver,24163,,
 qd,x34j.0,100526,100627,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,100526,100627,_Stage,_Stage,–,XY,–,24163,,
-qd,x34j.0,100526,100627,_Stage,_Stage,Wendla,NE,wendla,24163,,
+qd,x34j.0,100526,100627,_Stage,_Stage,Wendla,NE,wendla,24163,,(0)
 qd,x34j.0,100526,100627,_Stage,_Stage,im,APPRART,in,24163,,
 qd,x34j.0,100526,100627,_Stage,_Stage,Bett,NN,bett,24163,,
 qd,x34j.0,100526,100627,_Stage,_Stage,.,$.,--,24163,,
-qd,x34j.0,102276,102315,DR,dr,Frau,NN,frau,24163,,
-qd,x34j.0,102276,102315,DR,dr,Bergmann,NE,bergmann,24163,,
+qd,x34j.0,102276,102315,DR,dr,Frau,NN,frau,24163,,(1
+qd,x34j.0,102276,102315,DR,dr,Bergmann,NE,bergmann,24163,,1)
 qd,x34j.0,102276,102315,DR,dr,geleitet,VVPP,leiten,24163,,
 qd,x34j.0,102276,102315,DR,dr,ihn,PPER,ihn,24163,,
 qd,x34j.0,102276,102315,DR,dr,vor,APPR,vor,24163,,
@@ -721,7 +721,7 @@ qd,x34j.0,102325,102336,INA,ina,.,$.,--,24163,,
 qd,x34j.0,103332,103345,FRAU BERGMANN,frau_bergmann,kommt,VVFIN,kommen,24163,,
 qd,x34j.0,103332,103345,FRAU BERGMANN,frau_bergmann,zurück,PTKVZ,zurück,24163,,
 qd,x34j.0,103332,103345,FRAU BERGMANN,frau_bergmann,.,$.,--,24163,,
-qd,x34j.0,103865,103872,WENDLA,wendla,Ina,NE,ina,24163,,
+qd,x34j.0,103865,103872,WENDLA,wendla,Ina,NE,ina,24163,,(33)
 qd,x34j.0,103865,103872,WENDLA,wendla,ab,PTKVZ,ab,24163,,
 qd,x34j.0,103865,103872,WENDLA,wendla,.,$.,--,24163,,
 qd,x34j.0,106781,106808,FRAU BERGMANN,frau_bergmann,Geht,VVFIN,gehen,24163,,
@@ -757,7 +757,7 @@ qd,x34j.0,107039,107288,_Stage,_Stage,–,XY,–,24163,,
 qd,x34j.0,107039,107288,_Stage,_Stage,Hänschen,NN,hänsch,24163,,
 qd,x34j.0,107039,107288,_Stage,_Stage,Rilow,NE,rilow,24163,,
 qd,x34j.0,107039,107288,_Stage,_Stage,und,KON,und,24163,,
-qd,x34j.0,107039,107288,_Stage,_Stage,Ernst,NE,ernst,24163,,
+qd,x34j.0,107039,107288,_Stage,_Stage,Ernst,NE,ernst,24163,,(7)
 qd,x34j.0,107039,107288,_Stage,_Stage,Röbel,NE,röbel,24163,,
 qd,x34j.0,107039,107288,_Stage,_Stage,im,APPRART,in,24163,,
 qd,x34j.0,107039,107288,_Stage,_Stage,höchstgelegenen,ADJA,höchstgelegen,24163,,
@@ -803,7 +803,7 @@ qd,x34j.0,110574,110727,_Stage,_Stage,Mond,NN,mond,24163,,
 qd,x34j.0,110574,110727,_Stage,_Stage,hin,PTKVZ,hin,24163,,
 qd,x34j.0,110574,110727,_Stage,_Stage,.,$.,--,24163,,
 qd,x34j.0,110574,110727,_Stage,_Stage,–,XY,–,24163,,
-qd,x34j.0,110574,110727,_Stage,_Stage,Melchior,NE,melchior,24163,,
+qd,x34j.0,110574,110727,_Stage,_Stage,Melchior,NE,melchior,24163,,(2)
 qd,x34j.0,110574,110727,_Stage,_Stage,klettert,VVFIN,klettern,24163,,
 qd,x34j.0,110574,110727,_Stage,_Stage,über,APPR,über,24163,,
 qd,x34j.0,110574,110727,_Stage,_Stage,die,ART,der,24163,,
@@ -833,7 +833,7 @@ qd,x34j.0,117572,117602,MORITZ,moritz_stiefel,tritt,VVFIN,treten,24163,,
 qd,x34j.0,117572,117602,MORITZ,moritz_stiefel,auf,PTKVZ,auf,24163,,
 qd,x34j.0,117572,117602,MORITZ,moritz_stiefel,.,$.,--,24163,,
 qd,x34j.0,117627,117639,DER VERMUMMTE HERR,der_vermummte_herr,zu,PTKZU,zu,24163,,
-qd,x34j.0,117627,117639,DER VERMUMMTE HERR,der_vermummte_herr,Melchior,VVINF,melchior,24163,,
+qd,x34j.0,117627,117639,DER VERMUMMTE HERR,der_vermummte_herr,Melchior,VVINF,melchior,24163,,(2)
 qd,x34j.0,117627,117639,DER VERMUMMTE HERR,der_vermummte_herr,.,$.,--,24163,,
 qd,x34j.0,119463,119472,MELCHIOR,melchior,für,APPR,für,24163,,
 qd,x34j.0,119463,119472,MELCHIOR,melchior,sich,PRF,sich,24163,,

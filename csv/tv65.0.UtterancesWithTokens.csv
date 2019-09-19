@@ -35,9 +35,9 @@ qd,tv65.0,1965,2084,DER ERZENGEL GABRIEL,der_erzengel_gabriel,nicht,PTKNEG,nicht
 qd,tv65.0,1965,2084,DER ERZENGEL GABRIEL,der_erzengel_gabriel,",","$,",--,764,,
 qd,tv65.0,1965,2084,DER ERZENGEL GABRIEL,der_erzengel_gabriel,dass,KOUS,daß,764,,
 qd,tv65.0,1965,2084,DER ERZENGEL GABRIEL,der_erzengel_gabriel,ich,PPER,ich,764,der_erzengel_gabriel,(0)
-qd,tv65.0,1965,2084,DER ERZENGEL GABRIEL,der_erzengel_gabriel,der,ART,der,764,,
-qd,tv65.0,1965,2084,DER ERZENGEL GABRIEL,der_erzengel_gabriel,Erzengel,NN,erzengel,764,,
-qd,tv65.0,1965,2084,DER ERZENGEL GABRIEL,der_erzengel_gabriel,Gabriel,NE,gabriel,764,,
+qd,tv65.0,1965,2084,DER ERZENGEL GABRIEL,der_erzengel_gabriel,der,ART,der,764,der_erzengel_gabriel,(0
+qd,tv65.0,1965,2084,DER ERZENGEL GABRIEL,der_erzengel_gabriel,Erzengel,NN,erzengel,764,der_erzengel_gabriel,
+qd,tv65.0,1965,2084,DER ERZENGEL GABRIEL,der_erzengel_gabriel,Gabriel,NE,gabriel,764,der_erzengel_gabriel,0)
 qd,tv65.0,1965,2084,DER ERZENGEL GABRIEL,der_erzengel_gabriel,bin,VAFIN,sein,764,,
 qd,tv65.0,1965,2084,DER ERZENGEL GABRIEL,der_erzengel_gabriel,?,$.,--,764,,
 qd,tv65.0,2089,2115,EIN MILLIONÄR,der_millionär_von_vorhin,Ich,PPER,ich,764,ein_millionär,(2)

@@ -1,4 +1,10 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,tg37.0,460,996,chor_der_fischer,956,966,Nonnenchor,chor_der_nonnen
+qd,tg37.0,1295,1324,_stage,1295,1304,Ghismonde,ghismonde
+qd,tg37.0,1450,1659,ghismonde,1651,1658,Manfred,manfred
+qd,tg37.0,1854,2002,ghismonde,1989,1996,Manfred,manfred
+qd,tg37.0,2008,2057,,2049,2056,Manfred,manfred
+qd,tg37.0,2474,2528,chor_der_verbannteen,2520,2527,Manfred,manfred
 qd,tg37.0,3747,4858,ghismonde,3799,3802,mir,ghismonde
 qd,tg37.0,3747,4858,ghismonde,3850,3853,mir,ghismonde
 qd,tg37.0,3747,4858,ghismonde,3875,3878,ich,ghismonde
@@ -8,6 +14,7 @@ qd,tg37.0,3747,4858,ghismonde,4033,4036,mir,ghismonde
 qd,tg37.0,3747,4858,ghismonde,4062,4065,ich,ghismonde
 qd,tg37.0,3747,4858,ghismonde,4094,4097,mir,ghismonde
 qd,tg37.0,3747,4858,ghismonde,4109,4112,ich,ghismonde
+qd,tg37.0,3747,4858,ghismonde,4142,4149,Manfred,manfred
 qd,tg37.0,3747,4858,ghismonde,4159,4162,ich,ghismonde
 qd,tg37.0,3747,4858,ghismonde,4313,4316,mir,ghismonde
 qd,tg37.0,3747,4858,ghismonde,4386,4389,mir,ghismonde
@@ -19,7 +26,9 @@ qd,tg37.0,3747,4858,ghismonde,4702,4706,mich,ghismonde
 qd,tg37.0,3747,4858,ghismonde,4736,4740,Mich,ghismonde
 qd,tg37.0,3747,4858,ghismonde,4836,4839,ich,ghismonde
 qd,tg37.0,3747,4858,ghismonde,4845,4851,meinem,ghismonde
+qd,tg37.0,6141,6215,manfred,6151,6157,Eckart,eckart
 qd,tg37.0,6221,6394,eckart,6242,6248,meiner,eckart
+qd,tg37.0,6221,6394,eckart,6297,6311,die Verbannten,chor_der_verbannteen
 qd,tg37.0,6400,6551,manfred,6516,6519,Ich,manfred
 qd,tg37.0,6685,6995,manfred,6731,6734,ich,manfred
 qd,tg37.0,6685,6995,manfred,6772,6775,ich,manfred
@@ -33,9 +42,11 @@ qd,tg37.0,7689,7768,ghismonde,7759,7762,mir,ghismonde
 qd,tg37.0,7774,7911,eckart,7869,7872,ich,eckart
 qd,tg37.0,7961,8004,ghismonde,7992,7995,ich,ghismonde
 qd,tg37.0,8206,8418,manfred,8393,8396,ich,manfred
+qd,tg37.0,8521,8549,manfred,8540,8548,Kardinal,kardinal
 qd,tg37.0,8554,8690,kardinal,8594,8597,ich,kardinal
 qd,tg37.0,8554,8690,kardinal,8608,8612,Mich,kardinal
 qd,tg37.0,8554,8690,kardinal,8678,8681,ich,kardinal
+qd,tg37.0,8947,9039,manfred,8961,8969,Kardinal,kardinal
 qd,tg37.0,8947,9039,manfred,8979,8983,mich,manfred
 qd,tg37.0,9100,9146,manfred,9135,9138,ich,manfred
 qd,tg37.0,9605,9633,manfred,9614,9617,Ich,manfred
@@ -49,6 +60,7 @@ qd,tg37.0,9871,9959,manfred,9929,9933,mich,manfred
 qd,tg37.0,10179,10602,manfred,10281,10284,ich,manfred
 qd,tg37.0,10179,10602,manfred,10311,10314,ich,manfred
 qd,tg37.0,10179,10602,manfred,10348,10352,mich,manfred
+qd,tg37.0,10179,10602,manfred,10373,10377,Page,page
 qd,tg37.0,10179,10602,manfred,10475,10478,Ich,manfred
 qd,tg37.0,10179,10602,manfred,10532,10535,ich,manfred
 qd,tg37.0,10179,10602,manfred,10549,10552,mir,manfred
@@ -57,7 +69,9 @@ qd,tg37.0,10818,11211,manfred,10851,10857,meinem,manfred
 qd,tg37.0,10818,11211,manfred,10893,10896,mir,manfred
 qd,tg37.0,10818,11211,manfred,10927,10930,ich,manfred
 qd,tg37.0,10818,11211,manfred,11129,11133,mich,manfred
+qd,tg37.0,10818,11211,manfred,11155,11159,Page,page
 qd,tg37.0,10818,11211,manfred,11178,11181,ich,manfred
+qd,tg37.0,11256,11272,manfred,11265,11271,Helene,helene
 qd,tg37.0,11277,11450,helene,11286,11290,Mein,helene
 qd,tg37.0,11277,11450,helene,11331,11334,mir,helene
 qd,tg37.0,11277,11450,helene,11371,11374,mir,helene
@@ -83,14 +97,18 @@ qd,tg37.0,12248,12330,manfred,12316,12322,meinem,manfred
 qd,tg37.0,12337,12573,helene,12485,12488,ich,helene
 qd,tg37.0,12579,12727,manfred,12624,12627,ich,manfred
 qd,tg37.0,12579,12727,manfred,12703,12706,Ich,manfred
+qd,tg37.0,12733,12772,helene,12741,12748,Manfred,manfred
+qd,tg37.0,12733,12772,helene,12764,12771,Manfred,manfred
 qd,tg37.0,12777,12848,manfred,12798,12801,mir,manfred
 qd,tg37.0,12777,12848,manfred,12827,12830,ich,manfred
 qd,tg37.0,12854,13098,helene,12888,12892,mein,helene
 qd,tg37.0,12854,13098,helene,12979,12982,ich,helene
 qd,tg37.0,12854,13098,helene,13031,13034,mir,helene
 qd,tg37.0,12854,13098,helene,13083,13086,ich,helene
+qd,tg37.0,13798,13881,chor_der_verbannteen,13853,13860,Manfred,manfred
 qd,tg37.0,14057,14178,kardinal,14089,14093,mich,kardinal
 qd,tg37.0,14057,14178,kardinal,14129,14133,mich,kardinal
+qd,tg37.0,14223,14502,chor_der_verbannteen,14245,14252,Manfred,manfred
 qd,tg37.0,14615,14748,manfred,14734,14740,meiner,manfred
 qd,tg37.0,14976,15082,manfred,14986,14990,Mein,manfred
 qd,tg37.0,14976,15082,manfred,15058,15063,Meine,manfred
@@ -103,10 +121,16 @@ qd,tg37.0,15517,15567,eckart,15534,15537,ich,eckart
 qd,tg37.0,15634,15770,manfred,15698,15702,mich,manfred
 qd,tg37.0,15634,15770,manfred,15760,15764,mich,manfred
 qd,tg37.0,15816,16031,eckart,15859,15864,Meine,eckart
+qd,tg37.0,15816,16031,eckart,16010,16016,Eckart,eckart
+qd,tg37.0,16078,16398,fasanella,16218,16223,FULCO,fulco
+qd,tg37.0,16078,16398,fasanella,16232,16241,FASANELLA,fasanella
+qd,tg37.0,16078,16398,fasanella,16246,16255,ANNIBALDI,annibaldi
+qd,tg37.0,16404,16707,fasanella,16430,16437,Borello,borello
 qd,tg37.0,16751,17434,manfred,16790,16793,ich,manfred
 qd,tg37.0,17497,17580,manfred,17532,17536,mein,manfred
 qd,tg37.0,17497,17580,manfred,17544,17549,Meine,manfred
 qd,tg37.0,17497,17580,manfred,17570,17573,mir,manfred
+qd,tg37.0,17819,17838,manfred,17828,17837,Ghismonde,ghismonde
 qd,tg37.0,17843,18143,ghismonde,17925,17930,meine,ghismonde
 qd,tg37.0,17843,18143,ghismonde,17944,17947,ich,ghismonde
 qd,tg37.0,17843,18143,ghismonde,17974,17977,ich,ghismonde
@@ -136,6 +160,8 @@ qd,tg37.0,19424,19598,ghismonde,19440,19443,mir,ghismonde
 qd,tg37.0,19424,19598,ghismonde,19462,19465,mir,ghismonde
 qd,tg37.0,19424,19598,ghismonde,19545,19549,mich,ghismonde
 qd,tg37.0,19424,19598,ghismonde,19581,19584,mir,ghismonde
+qd,tg37.0,20387,20681,helene,20471,20478,Manfred,manfred
+qd,tg37.0,20387,20681,helene,20480,20487,Manfred,manfred
 qd,tg37.0,20387,20681,helene,20513,20517,mein,helene
 qd,tg37.0,20387,20681,helene,20541,20545,mich,helene
 qd,tg37.0,20387,20681,helene,20626,20630,mich,helene
@@ -152,6 +178,8 @@ qd,tg37.0,21463,21543,page,21484,21487,ich,page
 qd,tg37.0,21463,21543,page,21496,21500,mein,page
 qd,tg37.0,21463,21543,page,21524,21527,ich,page
 qd,tg37.0,21463,21543,page,21533,21537,mein,page
+qd,tg37.0,21614,22821,chor_der_bacchantinnen,22093,22100,Manfred,manfred
+qd,tg37.0,21614,22821,chor_der_bacchantinnen,22102,22109,Manfred,manfred
 qd,tg37.0,22827,23084,manfred,22870,22874,mein,manfred
 qd,tg37.0,22827,23084,manfred,23045,23049,mein,manfred
 qd,tg37.0,23090,23415,ghismonde,23106,23109,mir,ghismonde
@@ -176,6 +204,7 @@ qd,tg37.0,24605,24698,manfred,24662,24665,mir,manfred
 qd,tg37.0,24605,24698,manfred,24689,24692,ich,manfred
 qd,tg37.0,25331,25553,manfred,25397,25403,meinen,manfred
 qd,tg37.0,25331,25553,manfred,25419,25422,mir,manfred
+qd,tg37.0,25331,25553,manfred,25469,25477,KARDINAL,kardinal
 qd,tg37.0,26020,26079,ghismonde,26040,26043,mir,ghismonde
 qd,tg37.0,26020,26079,ghismonde,26062,26065,ich,ghismonde
 qd,tg37.0,26124,26563,ghismonde,26288,26291,mir,ghismonde
@@ -194,6 +223,7 @@ qd,tg37.0,27408,27623,ghismonde,27530,27533,mir,ghismonde
 qd,tg37.0,27408,27623,ghismonde,27551,27554,Ich,ghismonde
 qd,tg37.0,27408,27623,ghismonde,27590,27593,mir,ghismonde
 qd,tg37.0,27408,27623,ghismonde,27609,27612,mir,ghismonde
+qd,tg37.0,27629,27993,manfred,27677,27683,Helene,helene
 qd,tg37.0,27629,27993,manfred,27685,27689,mein,manfred
 qd,tg37.0,27629,27993,manfred,27707,27710,ich,manfred
 qd,tg37.0,27629,27993,manfred,27813,27816,mir,manfred
@@ -207,6 +237,7 @@ qd,tg37.0,27999,28593,ghismonde,28518,28521,mir,ghismonde
 qd,tg37.0,27999,28593,ghismonde,28546,28549,mir,ghismonde
 qd,tg37.0,28599,28831,manfred,28652,28655,ich,manfred
 qd,tg37.0,28599,28831,manfred,28656,28660,mich,manfred
+qd,tg37.0,28599,28831,manfred,28680,28686,Helene,helene
 qd,tg37.0,28599,28831,manfred,28691,28695,mein,manfred
 qd,tg37.0,28599,28831,manfred,28743,28746,mir,manfred
 qd,tg37.0,28837,29267,ghismonde,28953,28957,mich,ghismonde
@@ -246,6 +277,7 @@ qd,tg37.0,30278,32165,manfred,30927,30930,mir,manfred
 qd,tg37.0,30278,32165,manfred,31028,31031,ich,manfred
 qd,tg37.0,30278,32165,manfred,31089,31092,Ich,manfred
 qd,tg37.0,30278,32165,manfred,31156,31160,mein,manfred
+qd,tg37.0,30278,32165,manfred,31176,31185,Ghismonde,ghismonde
 qd,tg37.0,30278,32165,manfred,31284,31290,meiner,manfred
 qd,tg37.0,30278,32165,manfred,31306,31310,mich,manfred
 qd,tg37.0,30278,32165,manfred,31356,31360,mich,manfred
@@ -256,13 +288,16 @@ qd,tg37.0,30278,32165,manfred,31478,31482,mich,manfred
 qd,tg37.0,30278,32165,manfred,31553,31556,mir,manfred
 qd,tg37.0,30278,32165,manfred,31672,31676,mich,manfred
 qd,tg37.0,30278,32165,manfred,31694,31700,meinen,manfred
+qd,tg37.0,30278,32165,manfred,31722,31728,Helene,helene
 qd,tg37.0,30278,32165,manfred,31739,31742,ich,manfred
 qd,tg37.0,30278,32165,manfred,31770,31774,Mein,manfred
 qd,tg37.0,30278,32165,manfred,31781,31785,mein,manfred
+qd,tg37.0,30278,32165,manfred,31795,31801,Helene,helene
 qd,tg37.0,30278,32165,manfred,31840,31843,mir,manfred
 qd,tg37.0,30278,32165,manfred,31885,31889,mein,manfred
 qd,tg37.0,30278,32165,manfred,31897,31901,Mein,manfred
 qd,tg37.0,30278,32165,manfred,31909,31913,mein,manfred
+qd,tg37.0,30278,32165,manfred,31921,31927,Helene,helene
 qd,tg37.0,30278,32165,manfred,31947,31950,mir,manfred
 qd,tg37.0,30278,32165,manfred,31974,31977,ich,manfred
 qd,tg37.0,30278,32165,manfred,31985,31989,mein,manfred
@@ -271,9 +306,15 @@ qd,tg37.0,30278,32165,manfred,32101,32104,ich,manfred
 qd,tg37.0,30278,32165,manfred,32112,32116,mich,manfred
 qd,tg37.0,30278,32165,manfred,32133,32137,Mein,manfred
 qd,tg37.0,30278,32165,manfred,32144,32148,mein,manfred
+qd,tg37.0,30278,32165,manfred,32158,32164,Helene,helene
 qd,tg37.0,32211,32392,eckart,32220,32224,Mein,eckart
+qd,tg37.0,32440,32665,manfred,32469,32475,Eckart,eckart
 qd,tg37.0,32440,32665,manfred,32507,32510,mir,manfred
 qd,tg37.0,32440,32665,manfred,32588,32591,ich,manfred
+qd,tg37.0,32671,32891,eckart,32680,32687,Manfred,manfred
+qd,tg37.0,32671,32891,eckart,32689,32696,Manfred,manfred
+qd,tg37.0,32897,33163,chor_der_sarazenen,32918,32925,Manfred,manfred
+qd,tg37.0,32897,33163,chor_der_sarazenen,32927,32934,Manfred,manfred
 qd,tg37.0,33224,33499,helene,33262,33265,Mir,helene
 qd,tg37.0,33224,33499,helene,33339,33343,mich,helene
 qd,tg37.0,33224,33499,helene,33417,33420,ich,helene
@@ -281,6 +322,7 @@ qd,tg37.0,33224,33499,helene,33456,33460,mein,helene
 qd,tg37.0,33553,33686,helene,33616,33620,mich,helene
 qd,tg37.0,33553,33686,helene,33673,33676,mir,helene
 qd,tg37.0,33692,34746,page,33728,33731,ich,page
+qd,tg37.0,34752,35168,helene,34761,34768,Manfred,manfred
 qd,tg37.0,34752,35168,helene,34770,34774,mein,helene
 qd,tg37.0,34752,35168,helene,34802,34805,ich,helene
 qd,tg37.0,34752,35168,helene,34838,34841,mir,helene
@@ -298,8 +340,10 @@ qd,tg37.0,35684,35998,ghismonde,35730,35733,ich,ghismonde
 qd,tg37.0,36004,36068,helene,36036,36041,meine,helene
 qd,tg37.0,36004,36068,helene,36051,36054,ich,helene
 qd,tg37.0,36176,36237,helene,36226,36229,ich,helene
+qd,tg37.0,36266,36296,helene,36288,36295,Manfred,manfred
 qd,tg37.0,36302,36350,ghismonde,36325,36329,mich,ghismonde
 qd,tg37.0,36302,36350,ghismonde,36332,36335,Ich,ghismonde
+qd,tg37.0,36302,36350,ghismonde,36340,36349,Ghismonde,ghismonde
 qd,tg37.0,36356,36373,helene,36369,36372,mir,helene
 qd,tg37.0,36644,36813,manfred,36671,36674,ich,manfred
 qd,tg37.0,36644,36813,manfred,36712,36717,meine,manfred
@@ -341,8 +385,11 @@ qd,tg37.0,38955,39078,manfred,39018,39022,mich,manfred
 qd,tg37.0,38955,39078,manfred,39033,39036,ich,manfred
 qd,tg37.0,38955,39078,manfred,39074,39077,mir,manfred
 qd,tg37.0,39084,39235,eckart,39099,39102,ich,eckart
+qd,tg37.0,39271,39538,chor_der_sarazenen,39292,39299,Manfred,manfred
+qd,tg37.0,39271,39538,chor_der_sarazenen,39301,39308,Manfred,manfred
 qd,tg37.0,39583,40299,ghismonde,39606,39609,ich,ghismonde
 qd,tg37.0,39583,40299,ghismonde,39648,39651,mir,ghismonde
+qd,tg37.0,39583,40299,ghismonde,39692,39699,Manfred,manfred
 qd,tg37.0,39583,40299,ghismonde,39893,39896,Mir,ghismonde
 qd,tg37.0,39583,40299,ghismonde,39913,39916,mir,ghismonde
 qd,tg37.0,39583,40299,ghismonde,39933,39936,Mir,ghismonde
@@ -356,3 +403,4 @@ qd,tg37.0,40715,41320,helene,41084,41088,mich,helene
 qd,tg37.0,40715,41320,helene,41132,41136,mein,helene
 qd,tg37.0,40715,41320,helene,41202,41206,mein,helene
 qd,tg37.0,40715,41320,helene,41243,41247,mein,helene
+qd,tg37.0,41373,41501,helene,41493,41500,Manfred,manfred

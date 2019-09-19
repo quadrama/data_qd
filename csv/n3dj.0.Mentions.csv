@@ -1,4 +1,8 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,n3dj.0,882,1114,dandau,1028,1032,CHOR,ganzer_chor
+qd,n3dj.0,1120,1382,,1256,1260,CHOR,ganzer_chor
+qd,n3dj.0,1388,1650,,1585,1589,CHOR,ganzer_chor
+qd,n3dj.0,1657,1848,,1794,1798,CHOR,ganzer_chor
 qd,n3dj.0,1898,2142,nadori,1917,1920,ich,nadori
 qd,n3dj.0,1898,2142,nadori,2079,2082,ich,nadori
 qd,n3dj.0,1898,2142,nadori,2131,2136,meine,nadori
@@ -7,7 +11,11 @@ qd,n3dj.0,2670,2801,nadori,2779,2782,mir,nadori
 qd,n3dj.0,2897,2986,nadori,2916,2919,ich,nadori
 qd,n3dj.0,3067,3147,nadori,3084,3087,ich,nadori
 qd,n3dj.0,3067,3147,nadori,3129,3132,mir,nadori
+qd,n3dj.0,3572,3643,nadori,3599,3612,die Bajaderen,die_bajaderen
+qd,n3dj.0,3572,3643,nadori,3603,3612,Bajaderen,die_bajaderen
 qd,n3dj.0,4097,4169,nadori,4106,4109,Ich,nadori
+qd,n3dj.0,4097,4169,nadori,4131,4139,Braminen,braminen
+qd,n3dj.0,4900,4914,_stage,4909,4913,Chor,ganzer_chor
 qd,n3dj.0,5762,6072,jessonda,5818,5822,mich,jessonda
 qd,n3dj.0,5762,6072,jessonda,5853,5856,ich,jessonda
 qd,n3dj.0,5762,6072,jessonda,5881,5884,Ich,jessonda
@@ -41,6 +49,7 @@ qd,n3dj.0,7130,8083,jessonda,8050,8054,mich,jessonda
 qd,n3dj.0,8088,8508,amazili,8226,8230,mich,amazili
 qd,n3dj.0,8088,8508,amazili,8242,8245,mir,amazili
 qd,n3dj.0,8514,8599,jessonda,8589,8593,mein,jessonda
+qd,n3dj.0,8686,8870,jessonda,8761,8770,Bajaderen,die_bajaderen
 qd,n3dj.0,9140,9177,jessonda,9155,9158,ich,jessonda
 qd,n3dj.0,9220,9507,nadori,9281,9284,mir,nadori
 qd,n3dj.0,9220,9507,nadori,9298,9301,mir,nadori
@@ -83,6 +92,7 @@ qd,n3dj.0,14102,14712,tristan,14582,14586,mich,tristan
 qd,n3dj.0,14717,14838,lopes,14725,14729,Mein,lopes
 qd,n3dj.0,14717,14838,lopes,14746,14749,ich,lopes
 qd,n3dj.0,14844,15267,tristan,14854,14857,Ich,tristan
+qd,n3dj.0,14844,15267,tristan,14871,14879,Braminen,braminen
 qd,n3dj.0,14844,15267,tristan,14884,14888,mich,tristan
 qd,n3dj.0,14844,15267,tristan,15164,15167,ich,tristan
 qd,n3dj.0,14844,15267,tristan,15203,15209,meiner,tristan
@@ -103,9 +113,12 @@ qd,n3dj.0,17010,18209,nadori,17033,17039,meiner,nadori
 qd,n3dj.0,17010,18209,nadori,17147,17150,mir,nadori
 qd,n3dj.0,17010,18209,nadori,17226,17230,mich,nadori
 qd,n3dj.0,17010,18209,nadori,17261,17264,ich,nadori
+qd,n3dj.0,17010,18209,nadori,17270,17278,Braminen,braminen
 qd,n3dj.0,17010,18209,nadori,17370,17373,Ich,nadori
 qd,n3dj.0,17010,18209,nadori,17391,17394,ich,nadori
+qd,n3dj.0,17010,18209,nadori,17421,17429,Jessonda,jessonda
 qd,n3dj.0,17010,18209,nadori,17470,17473,mir,nadori
+qd,n3dj.0,17010,18209,nadori,17491,17498,Amazili,amazili
 qd,n3dj.0,17010,18209,nadori,17545,17548,mir,nadori
 qd,n3dj.0,17010,18209,nadori,17578,17581,ich,nadori
 qd,n3dj.0,17010,18209,nadori,17651,17654,ich,nadori
@@ -135,6 +148,7 @@ qd,n3dj.0,19137,19211,nadori,19194,19197,Ich,nadori
 qd,n3dj.0,19217,19293,amazili,19242,19246,mein,amazili
 qd,n3dj.0,19217,19293,amazili,19289,19292,mir,amazili
 qd,n3dj.0,19299,19363,nadori,19343,19347,mich,nadori
+qd,n3dj.0,19369,19436,amazili,19422,19430,Braminen,braminen
 qd,n3dj.0,19442,19512,nadori,19462,19466,mich,nadori
 qd,n3dj.0,19442,19512,nadori,19494,19497,ich,nadori
 qd,n3dj.0,19670,20181,amazili,19698,19702,mich,amazili
@@ -147,9 +161,12 @@ qd,n3dj.0,19670,20181,amazili,20026,20031,meine,amazili
 qd,n3dj.0,19670,20181,amazili,20067,20070,Ich,amazili
 qd,n3dj.0,20340,20427,jessonda,20403,20406,ich,jessonda
 qd,n3dj.0,20533,20608,tristan,20566,20569,mir,tristan
+qd,n3dj.0,20614,20631,nadori,20622,20630,Jessonda,jessonda
+qd,n3dj.0,20654,20682,nadori,20662,20670,Jessonda,jessonda
 qd,n3dj.0,20687,20762,tristan,20710,20714,mich,tristan
 qd,n3dj.0,20687,20762,tristan,20749,20753,mich,tristan
 qd,n3dj.0,20914,21051,tristan,20983,20986,ich,tristan
+qd,n3dj.0,20914,21051,tristan,21002,21010,Jessonda,jessonda
 qd,n3dj.0,21435,21580,jessonda,21466,21469,Ich,jessonda
 qd,n3dj.0,21586,21667,tristan,21599,21605,meinen,tristan
 qd,n3dj.0,21586,21667,tristan,21617,21623,meiner,tristan
@@ -161,11 +178,15 @@ qd,n3dj.0,21990,22101,jessonda,22087,22090,ich,jessonda
 qd,n3dj.0,22107,22204,tristan,22138,22142,mein,tristan
 qd,n3dj.0,22107,22204,tristan,22196,22199,ich,tristan
 qd,n3dj.0,22378,22403,jessonda,22393,22396,mir,jessonda
+qd,n3dj.0,22561,22654,jessonda,22573,22580,AMAZILI,amazili
+qd,n3dj.0,22561,22654,jessonda,22582,22588,NADORI,nadori
 qd,n3dj.0,23112,23153,tristan,23126,23129,ich,tristan
 qd,n3dj.0,23112,23153,tristan,23135,23139,mein,tristan
 qd,n3dj.0,23158,23198,jessonda,23179,23182,ich,jessonda
 qd,n3dj.0,23158,23198,jessonda,23184,23187,ich,jessonda
 qd,n3dj.0,23578,23605,jessonda,23595,23599,mich,jessonda
+qd,n3dj.0,23610,23655,amazili,23621,23627,NADORI,nadori
+qd,n3dj.0,23610,23655,amazili,23629,23636,TRISTAN,tristan
 qd,n3dj.0,24345,24575,tristan,24432,24436,mich,tristan
 qd,n3dj.0,24345,24575,tristan,24474,24480,meiner,tristan
 qd,n3dj.0,24345,24575,tristan,24494,24498,mich,tristan
@@ -173,17 +194,22 @@ qd,n3dj.0,24345,24575,tristan,24563,24566,ich,tristan
 qd,n3dj.0,24677,25252,tristan,24696,24699,ich,tristan
 qd,n3dj.0,24677,25252,tristan,24789,24792,ich,tristan
 qd,n3dj.0,25343,25423,nadori,25409,25412,ich,nadori
+qd,n3dj.0,25457,25672,nadori,25508,25514,Dandau,dandau
 qd,n3dj.0,25678,25819,tristan,25700,25705,meine,tristan
 qd,n3dj.0,25678,25819,tristan,25730,25734,mein,tristan
 qd,n3dj.0,25678,25819,tristan,25746,25752,meinen,tristan
+qd,n3dj.0,25678,25819,tristan,25810,25818,Jessonda,jessonda
 qd,n3dj.0,25825,26008,nadori,25930,25933,ich,nadori
 qd,n3dj.0,26014,26056,tristan,26036,26039,ich,tristan
 qd,n3dj.0,26061,26151,nadori,26091,26094,ich,nadori
 qd,n3dj.0,26061,26151,nadori,26099,26103,mich,nadori
 qd,n3dj.0,26157,26441,tristan,26417,26420,mir,tristan
+qd,n3dj.0,26447,26608,tristan,26458,26464,NADORI,nadori
+qd,n3dj.0,26447,26608,tristan,26466,26471,LOPES,lopes
 qd,n3dj.0,27556,27818,dandau,27575,27579,mein,dandau
 qd,n3dj.0,28077,28219,dandau,28143,28147,mein,dandau
 qd,n3dj.0,28294,28503,dandau,28376,28379,ich,dandau
+qd,n3dj.0,28294,28503,dandau,28486,28494,Jessonda,jessonda
 qd,n3dj.0,28632,28731,jessonda,28655,28658,mir,jessonda
 qd,n3dj.0,28632,28731,jessonda,28694,28700,meinem,jessonda
 qd,n3dj.0,28838,29133,jessonda,28858,28861,ich,jessonda
@@ -209,6 +235,12 @@ qd,n3dj.0,30597,30868,jessonda,30797,30800,Ich,jessonda
 qd,n3dj.0,31164,31303,dandau,31222,31225,ich,dandau
 qd,n3dj.0,31455,31652,dandau,31602,31607,meine,dandau
 qd,n3dj.0,32160,32247,dandau,32233,32239,meinen,dandau
+qd,n3dj.0,32338,32474,chor_der_portugiesen,32402,32408,DANDAU,dandau
+qd,n3dj.0,32338,32474,chor_der_portugiesen,32410,32418,BRAMINEN,braminen
+qd,n3dj.0,32338,32474,chor_der_portugiesen,32423,32432,BAJADEREN,die_bajaderen
 qd,n3dj.0,32691,32789,nadori,32700,32703,Ich,nadori
 qd,n3dj.0,32691,32789,nadori,32779,32782,mir,nadori
 qd,n3dj.0,33131,33176,jessonda,33146,33151,meine,jessonda
+qd,n3dj.0,33339,33455,nadori,33349,33354,LOPES,lopes
+qd,n3dj.0,33339,33455,nadori,33359,33379,CHOR DER PORTUGIESEN,chor_der_portugiesen
+qd,n3dj.0,33339,33455,nadori,33359,33363,CHOR,ganzer_chor

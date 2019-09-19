@@ -1,9 +1,0 @@
-corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
-qd,93,6413,6455,_Stage,_Stage,Und,KON,und,8,,
-qd,93,6413,6455,_Stage,_Stage,dabei,PROAV,dabei,8,,
-qd,93,6413,6455,_Stage,_Stage,geht,VVFIN,gehen,8,,
-qd,93,6413,6455,_Stage,_Stage,langsam,ADJD,langsam,8,,
-qd,93,6413,6455,_Stage,_Stage,der,ART,der,8,,
-qd,93,6413,6455,_Stage,_Stage,Vorhang,NN,vorhang,8,,
-qd,93,6413,6455,_Stage,_Stage,runter,ADJD,runter,8,,
-qd,93,6413,6455,_Stage,_Stage,.,$.,--,8,,

@@ -1,13 +1,13 @@
 corpus,drama,begin,end,Speaker.figure_surface,Speaker.figure_id,Token.surface,Token.pos,Token.lemma,length,Mentioned.figure_surface,Mentioned.figure_id
-qd,mvqp.0,9895,9953,_Stage,_Stage,Der,ART,der,17837,,
-qd,mvqp.0,9895,9953,_Stage,_Stage,Fremde,NN,fremde,17837,,
+qd,mvqp.0,9895,9953,_Stage,_Stage,Der,ART,der,17837,,(0
+qd,mvqp.0,9895,9953,_Stage,_Stage,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,9895,9953,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,9895,9953,_Stage,_Stage,der,ART,der,17837,,
-qd,mvqp.0,9895,9953,_Stage,_Stage,alte,ADJA,alt,17837,,
+qd,mvqp.0,9895,9953,_Stage,_Stage,der,ART,der,17837,,(1
+qd,mvqp.0,9895,9953,_Stage,_Stage,alte,ADJA,alt,17837,,1)
 qd,mvqp.0,9895,9953,_Stage,_Stage,Mann,NN,mann,17837,,
 qd,mvqp.0,9895,9953,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,9895,9953,_Stage,_Stage,der,ART,der,17837,,
-qd,mvqp.0,9895,9953,_Stage,_Stage,alte,ADJA,alt,17837,,
+qd,mvqp.0,9895,9953,_Stage,_Stage,der,ART,der,17837,,(1
+qd,mvqp.0,9895,9953,_Stage,_Stage,alte,ADJA,alt,17837,,1)
 qd,mvqp.0,9895,9953,_Stage,_Stage,und,KON,und,17837,,
 qd,mvqp.0,9895,9953,_Stage,_Stage,der,ART,der,17837,,
 qd,mvqp.0,9895,9953,_Stage,_Stage,junge,ADJA,jung,17837,,
@@ -75,8 +75,8 @@ qd,mvqp.0,12673,12717,DER ALTE,der_alte,.,$.,--,17837,,
 qd,mvqp.0,13664,13674,DER ALTE,der_alte,Ab,APPR,ab,17837,,
 qd,mvqp.0,13664,13674,DER ALTE,der_alte,rechts,ADV,rechts,17837,,
 qd,mvqp.0,13664,13674,DER ALTE,der_alte,.,$.,--,17837,,
-qd,mvqp.0,13713,13742,_Stage,_Stage,Der,ART,der,17837,,
-qd,mvqp.0,13713,13742,_Stage,_Stage,Fremde,NN,fremde,17837,,
+qd,mvqp.0,13713,13742,_Stage,_Stage,Der,ART,der,17837,,(0
+qd,mvqp.0,13713,13742,_Stage,_Stage,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,13713,13742,_Stage,_Stage,",","$,",--,17837,,
 qd,mvqp.0,13713,13742,_Stage,_Stage,die,PRELS,der,17837,,
 qd,mvqp.0,13713,13742,_Stage,_Stage,zwei,CARD,zwei,17837,,
@@ -125,8 +125,8 @@ qd,mvqp.0,18205,18272,DIE STIMME DES FREMDEN,die_stimme_des_fremden,stehend,ADJD
 qd,mvqp.0,18205,18272,DIE STIMME DES FREMDEN,die_stimme_des_fremden,.,$.,--,17837,,
 qd,mvqp.0,18444,18466,_Stage,_Stage,Vorige,NN,vorige,17837,,
 qd,mvqp.0,18444,18466,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,18444,18466,_Stage,_Stage,der,ART,der,17837,,
-qd,mvqp.0,18444,18466,_Stage,_Stage,alte,ADJA,alt,17837,,
+qd,mvqp.0,18444,18466,_Stage,_Stage,der,ART,der,17837,,(1
+qd,mvqp.0,18444,18466,_Stage,_Stage,alte,ADJA,alt,17837,,1)
 qd,mvqp.0,18444,18466,_Stage,_Stage,Mann,NN,mann,17837,,
 qd,mvqp.0,18444,18466,_Stage,_Stage,.,$.,--,17837,,
 qd,mvqp.0,18479,18545,DER ALTE,der_alte,kommt,VVFIN,kommen,17837,,
@@ -187,8 +187,8 @@ qd,mvqp.0,19864,20048,DER ALTE GÄRTNER,der_alte_gärtner,weiter,ADV,weiter,1783
 qd,mvqp.0,19864,20048,DER ALTE GÄRTNER,der_alte_gärtner,",","$,",--,17837,,
 qd,mvqp.0,19864,20048,DER ALTE GÄRTNER,der_alte_gärtner,so,ADV,so,17837,,
 qd,mvqp.0,19864,20048,DER ALTE GÄRTNER,der_alte_gärtner,daß,KOUS,daß,17837,,
-qd,mvqp.0,19864,20048,DER ALTE GÄRTNER,der_alte_gärtner,der,ART,der,17837,,
-qd,mvqp.0,19864,20048,DER ALTE GÄRTNER,der_alte_gärtner,Fremde,NN,fremde,17837,,
+qd,mvqp.0,19864,20048,DER ALTE GÄRTNER,der_alte_gärtner,der,ART,der,17837,,(0
+qd,mvqp.0,19864,20048,DER ALTE GÄRTNER,der_alte_gärtner,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,19864,20048,DER ALTE GÄRTNER,der_alte_gärtner,stets,ADV,stets,17837,,
 qd,mvqp.0,19864,20048,DER ALTE GÄRTNER,der_alte_gärtner,in,APPR,in,17837,,
 qd,mvqp.0,19864,20048,DER ALTE GÄRTNER,der_alte_gärtner,der,ART,der,17837,,
@@ -211,28 +211,28 @@ qd,mvqp.0,20097,20437,_Stage,_Stage,rechts,ADV,rechts,17837,,
 qd,mvqp.0,20097,20437,_Stage,_Stage,vorn,ADV,vorn,17837,,
 qd,mvqp.0,20097,20437,_Stage,_Stage,kommen,VVFIN,kommen,17837,,
 qd,mvqp.0,20097,20437,_Stage,_Stage,:,$.,--,17837,,
-qd,mvqp.0,20097,20437,_Stage,_Stage,Der,ART,der,17837,,
-qd,mvqp.0,20097,20437,_Stage,_Stage,Herr,NN,herr,17837,,
+qd,mvqp.0,20097,20437,_Stage,_Stage,Der,ART,der,17837,,(5
+qd,mvqp.0,20097,20437,_Stage,_Stage,Herr,NN,herr,17837,,5)
 qd,mvqp.0,20097,20437,_Stage,_Stage,",","$,",--,17837,,
 qd,mvqp.0,20097,20437,_Stage,_Stage,der,ART,der,17837,,
 qd,mvqp.0,20097,20437,_Stage,_Stage,erste,ADJA,erster,17837,,
 qd,mvqp.0,20097,20437,_Stage,_Stage,und,KON,und,17837,,
-qd,mvqp.0,20097,20437,_Stage,_Stage,der,ART,der,17837,,
+qd,mvqp.0,20097,20437,_Stage,_Stage,der,ART,der,17837,,(6
 qd,mvqp.0,20097,20437,_Stage,_Stage,zweite,ADJA,zweiter,17837,,
-qd,mvqp.0,20097,20437,_Stage,_Stage,Freier,NN,freier,17837,,
+qd,mvqp.0,20097,20437,_Stage,_Stage,Freier,NN,freier,17837,,6)
 qd,mvqp.0,20097,20437,_Stage,_Stage,",","$,",--,17837,,
 qd,mvqp.0,20097,20437,_Stage,_Stage,etwas,ADV,etwas,17837,,
 qd,mvqp.0,20097,20437,_Stage,_Stage,später,ADJD,spät,17837,,
 qd,mvqp.0,20097,20437,_Stage,_Stage,das,ART,der,17837,,
 qd,mvqp.0,20097,20437,_Stage,_Stage,Fräulein,NN,fräulein,17837,,
 qd,mvqp.0,20097,20437,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,20097,20437,_Stage,_Stage,der,ART,der,17837,,
+qd,mvqp.0,20097,20437,_Stage,_Stage,der,ART,der,17837,,(7
 qd,mvqp.0,20097,20437,_Stage,_Stage,dritte,ADJA,dritter,17837,,
-qd,mvqp.0,20097,20437,_Stage,_Stage,Freier,NN,freier,17837,,
+qd,mvqp.0,20097,20437,_Stage,_Stage,Freier,NN,freier,17837,,7)
 qd,mvqp.0,20097,20437,_Stage,_Stage,und,KON,und,17837,,
-qd,mvqp.0,20097,20437,_Stage,_Stage,der,ART,der,17837,,
+qd,mvqp.0,20097,20437,_Stage,_Stage,der,ART,der,17837,,(8
 qd,mvqp.0,20097,20437,_Stage,_Stage,dichtende,ADJA,dichtend,17837,,
-qd,mvqp.0,20097,20437,_Stage,_Stage,Freier,NN,freier,17837,,
+qd,mvqp.0,20097,20437,_Stage,_Stage,Freier,NN,freier,17837,,8)
 qd,mvqp.0,20097,20437,_Stage,_Stage,.,$.,--,17837,,
 qd,mvqp.0,20097,20437,_Stage,_Stage,Das,ART,der,17837,,
 qd,mvqp.0,20097,20437,_Stage,_Stage,Gärtnermädchen,NN,gärtnermädchen,17837,,
@@ -358,13 +358,13 @@ qd,mvqp.0,23875,23903,DER ERSTE FREIER,der_erste_freier,.,$.,--,17837,,
 qd,mvqp.0,24302,24385,_Stage,_Stage,Das,ART,der,17837,,
 qd,mvqp.0,24302,24385,_Stage,_Stage,Fräulein,NN,fräulein,17837,,
 qd,mvqp.0,24302,24385,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,24302,24385,_Stage,_Stage,der,ART,der,17837,,
+qd,mvqp.0,24302,24385,_Stage,_Stage,der,ART,der,17837,,(7
 qd,mvqp.0,24302,24385,_Stage,_Stage,dritte,ADJA,dritter,17837,,
-qd,mvqp.0,24302,24385,_Stage,_Stage,Freier,NN,freier,17837,,
+qd,mvqp.0,24302,24385,_Stage,_Stage,Freier,NN,freier,17837,,7)
 qd,mvqp.0,24302,24385,_Stage,_Stage,und,KON,und,17837,,
-qd,mvqp.0,24302,24385,_Stage,_Stage,der,ART,der,17837,,
+qd,mvqp.0,24302,24385,_Stage,_Stage,der,ART,der,17837,,(8
 qd,mvqp.0,24302,24385,_Stage,_Stage,dichtende,ADJA,dichtend,17837,,
-qd,mvqp.0,24302,24385,_Stage,_Stage,Freier,NN,freier,17837,,
+qd,mvqp.0,24302,24385,_Stage,_Stage,Freier,NN,freier,17837,,8)
 qd,mvqp.0,24302,24385,_Stage,_Stage,kommen,VVFIN,kommen,17837,,
 qd,mvqp.0,24302,24385,_Stage,_Stage,zugleich,ADV,zugleich,17837,,
 qd,mvqp.0,24302,24385,_Stage,_Stage,nach,APPR,nach,17837,,
@@ -460,8 +460,8 @@ qd,mvqp.0,28290,28372,DER DICHTENDE FREIER,der_dichtende_freier,.,$.,--,17837,,
 qd,mvqp.0,28744,28764,DER DICHTENDE FREIER,der_dichtende_freier,beinahe,ADV,beinahe,17837,,
 qd,mvqp.0,28744,28764,DER DICHTENDE FREIER,der_dichtende_freier,erschrocken,VVFIN,erschrocken,17837,,
 qd,mvqp.0,28744,28764,DER DICHTENDE FREIER,der_dichtende_freier,.,$.,--,17837,,
-qd,mvqp.0,29588,29720,DAS FRÄULEIN,das_fräulein,Der,ART,der,17837,,
-qd,mvqp.0,29588,29720,DAS FRÄULEIN,das_fräulein,Fremde,NN,fremde,17837,,
+qd,mvqp.0,29588,29720,DAS FRÄULEIN,das_fräulein,Der,ART,der,17837,,(0
+qd,mvqp.0,29588,29720,DAS FRÄULEIN,das_fräulein,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,29588,29720,DAS FRÄULEIN,das_fräulein,ist,VAFIN,sein,17837,,
 qd,mvqp.0,29588,29720,DAS FRÄULEIN,das_fräulein,wieder,ADV,wieder,17837,,
 qd,mvqp.0,29588,29720,DAS FRÄULEIN,das_fräulein,nahe,PTKVZ,nahe,17837,,
@@ -500,8 +500,8 @@ qd,mvqp.0,29798,29855,DAS FRÄULEIN,das_fräulein,Traum,NN,traum,17837,,
 qd,mvqp.0,29798,29855,DAS FRÄULEIN,das_fräulein,.,$.,--,17837,,
 qd,mvqp.0,30122,30192,_Stage,_Stage,Vorige,NN,vorige,17837,,
 qd,mvqp.0,30122,30192,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,30122,30192,_Stage,_Stage,der,ART,der,17837,,
-qd,mvqp.0,30122,30192,_Stage,_Stage,Herr,NN,herr,17837,,
+qd,mvqp.0,30122,30192,_Stage,_Stage,der,ART,der,17837,,(5
+qd,mvqp.0,30122,30192,_Stage,_Stage,Herr,NN,herr,17837,,5)
 qd,mvqp.0,30122,30192,_Stage,_Stage,",","$,",--,17837,,
 qd,mvqp.0,30122,30192,_Stage,_Stage,der,ART,der,17837,,
 qd,mvqp.0,30122,30192,_Stage,_Stage,erste,ADJA,erster,17837,,
@@ -552,8 +552,8 @@ qd,mvqp.0,31022,31075,DER DRITTE FREIER,der_dritte_freier,sich,PRF,sich,17837,,
 qd,mvqp.0,31022,31075,DER DRITTE FREIER,der_dritte_freier,los,PTKVZ,los,17837,,
 qd,mvqp.0,31022,31075,DER DRITTE FREIER,der_dritte_freier,",","$,",--,17837,,
 qd,mvqp.0,31022,31075,DER DRITTE FREIER,der_dritte_freier,da,KOUS,da,17837,,
-qd,mvqp.0,31022,31075,DER DRITTE FREIER,der_dritte_freier,der,ART,der,17837,,
-qd,mvqp.0,31022,31075,DER DRITTE FREIER,der_dritte_freier,Fremde,NN,fremde,17837,,
+qd,mvqp.0,31022,31075,DER DRITTE FREIER,der_dritte_freier,der,ART,der,17837,,(0
+qd,mvqp.0,31022,31075,DER DRITTE FREIER,der_dritte_freier,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,31022,31075,DER DRITTE FREIER,der_dritte_freier,erscheint,VVFIN,erscheinen,17837,,
 qd,mvqp.0,31022,31075,DER DRITTE FREIER,der_dritte_freier,",","$,",--,17837,,
 qd,mvqp.0,31022,31075,DER DRITTE FREIER,der_dritte_freier,lächelt,VVFIN,lächeln,17837,,
@@ -565,15 +565,15 @@ qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,",","$,",--,17837,,
 qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,läuft,VVFIN,laufen,17837,,
 qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,ab,PTKVZ,ab,17837,,
 qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,.,$.,--,17837,,
-qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,Der,ART,der,17837,,
+qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,Der,ART,der,17837,,(7
 qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,dritte,ADJA,dritter,17837,,
-qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,Freier,NN,freier,17837,,
+qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,Freier,NN,freier,17837,,7)
 qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,schnell,ADJD,schnell,17837,,
 qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,nach,APPR,nach,17837,,
 qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,rechts,ADV,rechts,17837,,
 qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,.,$.,--,17837,,
-qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,Der,ART,der,17837,,
-qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,Fremde,NN,fremde,17837,,
+qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,Der,ART,der,17837,,(0
+qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,stellt,VVFIN,stellen,17837,,
 qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,sein,PPOSAT,sein,17837,,
 qd,mvqp.0,31079,31199,DER DRITTE FREIER,der_dritte_freier,Arbeitsgerät,NN,arbeitsgerät,17837,,
@@ -595,7 +595,7 @@ qd,mvqp.0,31218,31415,DAS FRÄULEIN,das_fräulein,zum,APPRART,zu,17837,,
 qd,mvqp.0,31218,31415,DAS FRÄULEIN,das_fräulein,Rosenstrauch,NN,rosenstrauch,17837,,
 qd,mvqp.0,31218,31415,DAS FRÄULEIN,das_fräulein,»,XY,»,17837,,
 qd,mvqp.0,31218,31415,DAS FRÄULEIN,das_fräulein,Prinzessin,NN,prinzessin,17837,,
-qd,mvqp.0,31218,31415,DAS FRÄULEIN,das_fräulein,Marpalye,NE,marpalye,17837,,
+qd,mvqp.0,31218,31415,DAS FRÄULEIN,das_fräulein,Marpalye,NE,marpalye,17837,,(17)
 qd,mvqp.0,31218,31415,DAS FRÄULEIN,das_fräulein,«,XY,«,17837,,
 qd,mvqp.0,31218,31415,DAS FRÄULEIN,das_fräulein,",","$,",--,17837,,
 qd,mvqp.0,31218,31415,DAS FRÄULEIN,das_fräulein,sieht,VVFIN,sehen,17837,,
@@ -645,9 +645,9 @@ qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,nehmen,VVINF
 qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,will,VMFIN,wollen,17837,,
 qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,",","$,",--,17837,,
 qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,kommen,VVFIN,kommen,17837,,
-qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,die,ART,der,17837,,
+qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,die,ART,der,17837,,(22
 qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,jungen,ADJA,jung,17837,,
-qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Bauleute,NN,bauleute,17837,,
+qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Bauleute,NN,bauleute,17837,,22)
 qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,unter,APPR,unter,17837,,
 qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Blitz,NE,blitz,17837,,
 qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,und,KON,und,17837,,
@@ -668,8 +668,8 @@ qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,nach,APPR,na
 qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,rechts,ADV,rechts,17837,,
 qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,mit,PTKVZ,mit,17837,,
 qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,.,$.,--,17837,,
-qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Der,ART,der,17837,,
-qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Fremde,NN,fremde,17837,,
+qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Der,ART,der,17837,,(0
+qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,",","$,",--,17837,,
 qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,die,ART,der,17837,,
 qd,mvqp.0,31580,31986,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Rose,NN,rose,17837,,
@@ -738,8 +738,8 @@ qd,mvqp.0,32237,32382,DER JUNGE GÄRTNER,der_junge_gärtner,nach,APPR,nach,17837
 qd,mvqp.0,32237,32382,DER JUNGE GÄRTNER,der_junge_gärtner,links,ADV,links,17837,,
 qd,mvqp.0,32237,32382,DER JUNGE GÄRTNER,der_junge_gärtner,ab,PTKVZ,ab,17837,,
 qd,mvqp.0,32237,32382,DER JUNGE GÄRTNER,der_junge_gärtner,.,$.,--,17837,,
-qd,mvqp.0,32237,32382,DER JUNGE GÄRTNER,der_junge_gärtner,Der,ART,der,17837,,
-qd,mvqp.0,32237,32382,DER JUNGE GÄRTNER,der_junge_gärtner,Fremde,NN,fremde,17837,,
+qd,mvqp.0,32237,32382,DER JUNGE GÄRTNER,der_junge_gärtner,Der,ART,der,17837,,(0
+qd,mvqp.0,32237,32382,DER JUNGE GÄRTNER,der_junge_gärtner,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,32237,32382,DER JUNGE GÄRTNER,der_junge_gärtner,sitzt,VVFIN,sitzen,17837,,
 qd,mvqp.0,32237,32382,DER JUNGE GÄRTNER,der_junge_gärtner,im,APPRART,in,17837,,
 qd,mvqp.0,32237,32382,DER JUNGE GÄRTNER,der_junge_gärtner,Turm,NN,turm,17837,,
@@ -816,17 +816,17 @@ qd,mvqp.0,36128,36169,DER ERSTE GEBLENDETE,stimme_des_ersten_geblendeten,klimper
 qd,mvqp.0,36128,36169,DER ERSTE GEBLENDETE,stimme_des_ersten_geblendeten,.,$.,--,17837,,
 qd,mvqp.0,36225,36270,_Stage,_Stage,Vorige,NN,vorige,17837,,
 qd,mvqp.0,36225,36270,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,36225,36270,_Stage,_Stage,die,ART,der,17837,,
+qd,mvqp.0,36225,36270,_Stage,_Stage,die,ART,der,17837,,(15
 qd,mvqp.0,36225,36270,_Stage,_Stage,stumme,ADJA,stumm,17837,,
-qd,mvqp.0,36225,36270,_Stage,_Stage,Sklavin,NN,sklavin,17837,,
+qd,mvqp.0,36225,36270,_Stage,_Stage,Sklavin,NN,sklavin,17837,,15)
 qd,mvqp.0,36225,36270,_Stage,_Stage,",","$,",--,17837,,
 qd,mvqp.0,36225,36270,_Stage,_Stage,ein,ART,ein,17837,,
 qd,mvqp.0,36225,36270,_Stage,_Stage,Kriegsknecht,NN,kriegsknecht,17837,,
 qd,mvqp.0,36225,36270,_Stage,_Stage,.,$.,--,17837,,
 qd,mvqp.0,36285,36478,DER KNECHT,der_knecht,führt,VVFIN,führen,17837,,
-qd,mvqp.0,36285,36478,DER KNECHT,der_knecht,die,ART,der,17837,,
+qd,mvqp.0,36285,36478,DER KNECHT,der_knecht,die,ART,der,17837,,(15
 qd,mvqp.0,36285,36478,DER KNECHT,der_knecht,stumme,ADJA,stumm,17837,,
-qd,mvqp.0,36285,36478,DER KNECHT,der_knecht,Sklavin,NN,sklavin,17837,,
+qd,mvqp.0,36285,36478,DER KNECHT,der_knecht,Sklavin,NN,sklavin,17837,,15)
 qd,mvqp.0,36285,36478,DER KNECHT,der_knecht,",","$,",--,17837,,
 qd,mvqp.0,36285,36478,DER KNECHT,der_knecht,das,ART,der,17837,,
 qd,mvqp.0,36285,36478,DER KNECHT,der_knecht,Gärtnermädchen,NN,gärtnermädchen,17837,,
@@ -884,9 +884,9 @@ qd,mvqp.0,37513,37534,DER SEHENDE WÄCHTER,der_sehende_wächter,vor,APPR,vor,178
 qd,mvqp.0,37513,37534,DER SEHENDE WÄCHTER,der_sehende_wächter,ihr,PPER,ihr,17837,,
 qd,mvqp.0,37513,37534,DER SEHENDE WÄCHTER,der_sehende_wächter,nieder,PTKVZ,nieder,17837,,
 qd,mvqp.0,37513,37534,DER SEHENDE WÄCHTER,der_sehende_wächter,.,$.,--,17837,,
-qd,mvqp.0,37938,38011,DER SEHENDE WÄCHTER,der_sehende_wächter,Die,ART,der,17837,,
+qd,mvqp.0,37938,38011,DER SEHENDE WÄCHTER,der_sehende_wächter,Die,ART,der,17837,,(15
 qd,mvqp.0,37938,38011,DER SEHENDE WÄCHTER,der_sehende_wächter,stumme,ADJA,stumm,17837,,
-qd,mvqp.0,37938,38011,DER SEHENDE WÄCHTER,der_sehende_wächter,Sklavin,NN,sklavin,17837,,
+qd,mvqp.0,37938,38011,DER SEHENDE WÄCHTER,der_sehende_wächter,Sklavin,NN,sklavin,17837,,15)
 qd,mvqp.0,37938,38011,DER SEHENDE WÄCHTER,der_sehende_wächter,beugt,VVFIN,beugen,17837,,
 qd,mvqp.0,37938,38011,DER SEHENDE WÄCHTER,der_sehende_wächter,sich,PRF,sich,17837,,
 qd,mvqp.0,37938,38011,DER SEHENDE WÄCHTER,der_sehende_wächter,nieder,PTKVZ,nieder,17837,,
@@ -898,11 +898,11 @@ qd,mvqp.0,37938,38011,DER SEHENDE WÄCHTER,der_sehende_wächter,Schultern,NN,sch
 qd,mvqp.0,37938,38011,DER SEHENDE WÄCHTER,der_sehende_wächter,.,$.,--,17837,,
 qd,mvqp.0,38050,38087,_Stage,_Stage,Vorige,NN,vorige,17837,,
 qd,mvqp.0,38050,38087,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,38050,38087,_Stage,_Stage,Belian,NE,belian,17837,,
+qd,mvqp.0,38050,38087,_Stage,_Stage,Belian,NE,belian,17837,,(16)
 qd,mvqp.0,38050,38087,_Stage,_Stage,und,KON,und,17837,,
-qd,mvqp.0,38050,38087,_Stage,_Stage,der,ART,der,17837,,
+qd,mvqp.0,38050,38087,_Stage,_Stage,der,ART,der,17837,,(7
 qd,mvqp.0,38050,38087,_Stage,_Stage,dritte,ADJA,dritter,17837,,
-qd,mvqp.0,38050,38087,_Stage,_Stage,Freier,NN,freier,17837,,
+qd,mvqp.0,38050,38087,_Stage,_Stage,Freier,NN,freier,17837,,7)
 qd,mvqp.0,38050,38087,_Stage,_Stage,.,$.,--,17837,,
 qd,mvqp.0,38098,38139,BELIAN,belian,noch,ADV,noch,17837,,
 qd,mvqp.0,38098,38139,BELIAN,belian,nicht,PTKNEG,nicht,17837,,
@@ -929,7 +929,7 @@ qd,mvqp.0,38300,38471,,,Fackelträger,NN,fackelträger,17837,,
 qd,mvqp.0,38300,38471,,,",","$,",--,17837,,
 qd,mvqp.0,38300,38471,,,hinter,APPR,hinter,17837,,
 qd,mvqp.0,38300,38471,,,ihm,PPER,ihm,17837,,
-qd,mvqp.0,38300,38471,,,Belian,NE,belian,17837,,
+qd,mvqp.0,38300,38471,,,Belian,NE,belian,17837,,(16)
 qd,mvqp.0,38300,38471,,,",","$,",--,17837,,
 qd,mvqp.0,38300,38471,,,gefolgt,VVPP,folgen,17837,,
 qd,mvqp.0,38300,38471,,,vom,APPRART,von,17837,,
@@ -1002,7 +1002,7 @@ qd,mvqp.0,41161,41336,BELIAN,belian,weggezogen,VVPP,wegziehen,17837,,
 qd,mvqp.0,41161,41336,BELIAN,belian,.,$.,--,17837,,
 qd,mvqp.0,41161,41336,BELIAN,belian,Man,PIS,man,17837,,
 qd,mvqp.0,41161,41336,BELIAN,belian,sieht,VVFIN,sehen,17837,,
-qd,mvqp.0,41161,41336,BELIAN,belian,Marpalye,NE,marpalye,17837,,
+qd,mvqp.0,41161,41336,BELIAN,belian,Marpalye,NE,marpalye,17837,,(17)
 qd,mvqp.0,41161,41336,BELIAN,belian,auf,APPR,auf,17837,,
 qd,mvqp.0,41161,41336,BELIAN,belian,einem,ART,ein,17837,,
 qd,mvqp.0,41161,41336,BELIAN,belian,üppigen,ADJA,üppig,17837,,
@@ -1080,7 +1080,7 @@ qd,mvqp.0,41665,41896,DER DRITTE FREIER,der_dritte_freier,.,$.,--,17837,,
 qd,mvqp.0,41665,41896,DER DRITTE FREIER,der_dritte_freier,Der,ART,der,17837,,
 qd,mvqp.0,41665,41896,DER DRITTE FREIER,der_dritte_freier,Vorhang,NN,vorhang,17837,,
 qd,mvqp.0,41665,41896,DER DRITTE FREIER,der_dritte_freier,vor,APPR,vor,17837,,
-qd,mvqp.0,41665,41896,DER DRITTE FREIER,der_dritte_freier,Marpalye,NN,marpalye,17837,,
+qd,mvqp.0,41665,41896,DER DRITTE FREIER,der_dritte_freier,Marpalye,NN,marpalye,17837,,(17)
 qd,mvqp.0,41665,41896,DER DRITTE FREIER,der_dritte_freier,schließt,VVFIN,schließen,17837,,
 qd,mvqp.0,41665,41896,DER DRITTE FREIER,der_dritte_freier,sich,PRF,sich,17837,,
 qd,mvqp.0,41665,41896,DER DRITTE FREIER,der_dritte_freier,wieder,ADV,wieder,17837,,
@@ -1140,7 +1140,7 @@ qd,mvqp.0,43256,43267,DIE KNECHTE,die_knechte,auf,PTKVZ,auf,17837,,
 qd,mvqp.0,43256,43267,DIE KNECHTE,die_knechte,.,$.,--,17837,,
 qd,mvqp.0,43306,43344,DER SEHENDE WÄCHTER,der_sehende_wächter,springt,VVFIN,springen,17837,,
 qd,mvqp.0,43306,43344,DER SEHENDE WÄCHTER,der_sehende_wächter,plötzlich,ADJD,plötzlich,17837,,
-qd,mvqp.0,43306,43344,DER SEHENDE WÄCHTER,der_sehende_wächter,Belian,NE,belian,17837,,
+qd,mvqp.0,43306,43344,DER SEHENDE WÄCHTER,der_sehende_wächter,Belian,NE,belian,17837,,(16)
 qd,mvqp.0,43306,43344,DER SEHENDE WÄCHTER,der_sehende_wächter,an,APPR,an,17837,,
 qd,mvqp.0,43306,43344,DER SEHENDE WÄCHTER,der_sehende_wächter,die,ART,der,17837,,
 qd,mvqp.0,43306,43344,DER SEHENDE WÄCHTER,der_sehende_wächter,Kehle,NN,kehle,17837,,
@@ -1151,7 +1151,7 @@ qd,mvqp.0,43391,43408,DER ERFAHRENE WÄCHTER,der_erfahrene_wächter,zurück,PTKV
 qd,mvqp.0,43391,43408,DER ERFAHRENE WÄCHTER,der_erfahrene_wächter,.,$.,--,17837,,
 qd,mvqp.0,43501,43510,BELIAN,belian,erstaunt,VVPP,erstaunen,17837,,
 qd,mvqp.0,43501,43510,BELIAN,belian,.,$.,--,17837,,
-qd,mvqp.0,44052,44157,BELIAN,belian,Belian,NE,belian,17837,,
+qd,mvqp.0,44052,44157,BELIAN,belian,Belian,NE,belian,17837,,(16)
 qd,mvqp.0,44052,44157,BELIAN,belian,",","$,",--,17837,,
 qd,mvqp.0,44052,44157,BELIAN,belian,die,ART,der,17837,,
 qd,mvqp.0,44052,44157,BELIAN,belian,beiden,PIDAT,beide,17837,,
@@ -1245,9 +1245,9 @@ qd,mvqp.0,47148,47294,DER SEHENDE WÄCHTER,der_sehende_wächter,langsam,ADJD,lan
 qd,mvqp.0,47148,47294,DER SEHENDE WÄCHTER,der_sehende_wächter,heller,ADJD,heller,17837,,
 qd,mvqp.0,47148,47294,DER SEHENDE WÄCHTER,der_sehende_wächter,wird,VAFIN,werden,17837,,
 qd,mvqp.0,47148,47294,DER SEHENDE WÄCHTER,der_sehende_wächter,",","$,",--,17837,,
-qd,mvqp.0,47148,47294,DER SEHENDE WÄCHTER,der_sehende_wächter,der,PRELS,der,17837,,
+qd,mvqp.0,47148,47294,DER SEHENDE WÄCHTER,der_sehende_wächter,der,PRELS,der,17837,,(13
 qd,mvqp.0,47148,47294,DER SEHENDE WÄCHTER,der_sehende_wächter,zweite,ADJA,zweiter,17837,,
-qd,mvqp.0,47148,47294,DER SEHENDE WÄCHTER,der_sehende_wächter,Geblendete,NN,geblendete,17837,,
+qd,mvqp.0,47148,47294,DER SEHENDE WÄCHTER,der_sehende_wächter,Geblendete,NN,geblendete,17837,,13)
 qd,mvqp.0,47148,47294,DER SEHENDE WÄCHTER,der_sehende_wächter,sichtbar,ADJD,sichtbar,17837,,
 qd,mvqp.0,47148,47294,DER SEHENDE WÄCHTER,der_sehende_wächter,",","$,",--,17837,,
 qd,mvqp.0,47148,47294,DER SEHENDE WÄCHTER,der_sehende_wächter,der,PRELS,der,17837,,
@@ -1458,7 +1458,7 @@ qd,mvqp.0,57229,57264,DER SEHENDE WÄCHTER,der_sehende_wächter,sich,PRF,sich,17
 qd,mvqp.0,57229,57264,DER SEHENDE WÄCHTER,der_sehende_wächter,.,$.,--,17837,,
 qd,mvqp.0,57773,57781,DER NARR,der_narr,lächelt,VVFIN,lächeln,17837,,
 qd,mvqp.0,57773,57781,DER NARR,der_narr,.,$.,--,17837,,
-qd,mvqp.0,57823,57861,DER SEHENDE WÄCHTER,der_sehende_wächter,Marpalye,NE,marpalye,17837,,
+qd,mvqp.0,57823,57861,DER SEHENDE WÄCHTER,der_sehende_wächter,Marpalye,NE,marpalye,17837,,(17)
 qd,mvqp.0,57823,57861,DER SEHENDE WÄCHTER,der_sehende_wächter,ansehend,ADJD,ansehend,17837,,
 qd,mvqp.0,57823,57861,DER SEHENDE WÄCHTER,der_sehende_wächter,",","$,",--,17837,,
 qd,mvqp.0,57823,57861,DER SEHENDE WÄCHTER,der_sehende_wächter,immer,ADV,immer,17837,,
@@ -1512,8 +1512,8 @@ qd,mvqp.0,59537,59617,MARPALYE,marpalye,leise,ADJD,leise,17837,,
 qd,mvqp.0,59537,59617,MARPALYE,marpalye,schmerzlich,ADJD,schmerzlich,17837,,
 qd,mvqp.0,59537,59617,MARPALYE,marpalye,.,$.,--,17837,,
 qd,mvqp.0,59632,59694,MARPALYE,marpalye,Während,KOUS,während,17837,,
-qd,mvqp.0,59632,59694,MARPALYE,marpalye,der,ART,der,17837,,
-qd,mvqp.0,59632,59694,MARPALYE,marpalye,Narr,NN,narr,17837,,
+qd,mvqp.0,59632,59694,MARPALYE,marpalye,der,ART,der,17837,,(20
+qd,mvqp.0,59632,59694,MARPALYE,marpalye,Narr,NN,narr,17837,,20)
 qd,mvqp.0,59632,59694,MARPALYE,marpalye,zu,PTKZU,zu,17837,,
 qd,mvqp.0,59632,59694,MARPALYE,marpalye,spielen,VVINF,spielen,17837,,
 qd,mvqp.0,59632,59694,MARPALYE,marpalye,anhebt,VVFIN,anheben,17837,,
@@ -1637,11 +1637,11 @@ qd,mvqp.0,67376,67427,DER SEHENDE WÄCHTER,der_sehende_wächter,ab,APPR,ab,17837
 qd,mvqp.0,67376,67427,DER SEHENDE WÄCHTER,der_sehende_wächter,nach,APPR,nach,17837,,
 qd,mvqp.0,67376,67427,DER SEHENDE WÄCHTER,der_sehende_wächter,rechts,ADV,rechts,17837,,
 qd,mvqp.0,67376,67427,DER SEHENDE WÄCHTER,der_sehende_wächter,.,$.,--,17837,,
-qd,mvqp.0,67466,67496,_Stage,_Stage,Der,ART,der,17837,,
-qd,mvqp.0,67466,67496,_Stage,_Stage,Fremde,NN,fremde,17837,,
+qd,mvqp.0,67466,67496,_Stage,_Stage,Der,ART,der,17837,,(0
+qd,mvqp.0,67466,67496,_Stage,_Stage,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,67466,67496,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,67466,67496,_Stage,_Stage,der,ART,der,17837,,
-qd,mvqp.0,67466,67496,_Stage,_Stage,Waffenmeister,NN,waffenmeister,17837,,
+qd,mvqp.0,67466,67496,_Stage,_Stage,der,ART,der,17837,,(21
+qd,mvqp.0,67466,67496,_Stage,_Stage,Waffenmeister,NN,waffenmeister,17837,,21)
 qd,mvqp.0,67466,67496,_Stage,_Stage,.,$.,--,17837,,
 qd,mvqp.0,67518,67537,DER WAFFENMEISTER,der_waffenmeister,sieht,VVFIN,sehen,17837,,
 qd,mvqp.0,67518,67537,DER WAFFENMEISTER,der_waffenmeister,den,ART,der,17837,,
@@ -1656,8 +1656,8 @@ qd,mvqp.0,67853,67973,DIE STIMME DES FREMDEN,die_stimme_des_fremden,rechts,ADV,r
 qd,mvqp.0,67853,67973,DIE STIMME DES FREMDEN,die_stimme_des_fremden,ab,PTKVZ,ab,17837,,
 qd,mvqp.0,67853,67973,DIE STIMME DES FREMDEN,die_stimme_des_fremden,.,$.,--,17837,,
 qd,mvqp.0,67853,67973,DIE STIMME DES FREMDEN,die_stimme_des_fremden,–,XY,–,17837,,
-qd,mvqp.0,67853,67973,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Der,ART,der,17837,,
-qd,mvqp.0,67853,67973,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Waffenmeister,NN,waffenmeister,17837,,
+qd,mvqp.0,67853,67973,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Der,ART,der,17837,,(21
+qd,mvqp.0,67853,67973,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Waffenmeister,NN,waffenmeister,17837,,21)
 qd,mvqp.0,67853,67973,DIE STIMME DES FREMDEN,die_stimme_des_fremden,will,VMFIN,wollen,17837,,
 qd,mvqp.0,67853,67973,DIE STIMME DES FREMDEN,die_stimme_des_fremden,nach,PTKVZ,nach,17837,,
 qd,mvqp.0,67853,67973,DIE STIMME DES FREMDEN,die_stimme_des_fremden,",","$,",--,17837,,
@@ -1748,9 +1748,9 @@ qd,mvqp.0,69923,70053,BELIAN,belian,den,ART,der,17837,,
 qd,mvqp.0,69923,70053,BELIAN,belian,Sternen,NN,stern,17837,,
 qd,mvqp.0,69923,70053,BELIAN,belian,hinauf,ADV,hinauf,17837,,
 qd,mvqp.0,69923,70053,BELIAN,belian,.,$.,--,17837,,
-qd,mvqp.0,70350,70367,_Stage,_Stage,Belian,NE,belian,17837,,
+qd,mvqp.0,70350,70367,_Stage,_Stage,Belian,NE,belian,17837,,(16)
 qd,mvqp.0,70350,70367,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,70350,70367,_Stage,_Stage,Marpalye,NE,marpalye,17837,,
+qd,mvqp.0,70350,70367,_Stage,_Stage,Marpalye,NE,marpalye,17837,,(17)
 qd,mvqp.0,70350,70367,_Stage,_Stage,.,$.,--,17837,,
 qd,mvqp.0,70380,70396,MARPALYE,marpalye,kommt,VVFIN,kommen,17837,,
 qd,mvqp.0,70380,70396,MARPALYE,marpalye,von,APPR,von,17837,,
@@ -1791,12 +1791,12 @@ qd,mvqp.0,73218,73255,DER SEHENDE WÄCHTER,der_sehende_wächter,auf,APPR,auf,178
 qd,mvqp.0,73218,73255,DER SEHENDE WÄCHTER,der_sehende_wächter,die,ART,der,17837,,
 qd,mvqp.0,73218,73255,DER SEHENDE WÄCHTER,der_sehende_wächter,Knie,NN,knie,17837,,
 qd,mvqp.0,73218,73255,DER SEHENDE WÄCHTER,der_sehende_wächter,.,$.,--,17837,,
-qd,mvqp.0,73415,73526,_Stage,_Stage,Belian,NE,belian,17837,,
+qd,mvqp.0,73415,73526,_Stage,_Stage,Belian,NE,belian,17837,,(16)
 qd,mvqp.0,73415,73526,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,73415,73526,_Stage,_Stage,Marpalye,NN,marpalye,17837,,
+qd,mvqp.0,73415,73526,_Stage,_Stage,Marpalye,NN,marpalye,17837,,(17)
 qd,mvqp.0,73415,73526,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,73415,73526,_Stage,_Stage,der,ART,der,17837,,
-qd,mvqp.0,73415,73526,_Stage,_Stage,Narr,NN,narr,17837,,
+qd,mvqp.0,73415,73526,_Stage,_Stage,der,ART,der,17837,,(20
+qd,mvqp.0,73415,73526,_Stage,_Stage,Narr,NN,narr,17837,,20)
 qd,mvqp.0,73415,73526,_Stage,_Stage,",","$,",--,17837,,
 qd,mvqp.0,73415,73526,_Stage,_Stage,die,ART,der,17837,,
 qd,mvqp.0,73415,73526,_Stage,_Stage,Wächter,NN,wächter,17837,,
@@ -1804,11 +1804,11 @@ qd,mvqp.0,73415,73526,_Stage,_Stage,und,KON,und,17837,,
 qd,mvqp.0,73415,73526,_Stage,_Stage,Krieger,NN,krieger,17837,,
 qd,mvqp.0,73415,73526,_Stage,_Stage,Belians,NE,belian,17837,,
 qd,mvqp.0,73415,73526,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,73415,73526,_Stage,_Stage,der,ART,der,17837,,
-qd,mvqp.0,73415,73526,_Stage,_Stage,Fremde,NN,fremde,17837,,
+qd,mvqp.0,73415,73526,_Stage,_Stage,der,ART,der,17837,,(0
+qd,mvqp.0,73415,73526,_Stage,_Stage,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,73415,73526,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,73415,73526,_Stage,_Stage,der,ART,der,17837,,
-qd,mvqp.0,73415,73526,_Stage,_Stage,Waffenmeister,NN,waffenmeister,17837,,
+qd,mvqp.0,73415,73526,_Stage,_Stage,der,ART,der,17837,,(21
+qd,mvqp.0,73415,73526,_Stage,_Stage,Waffenmeister,NN,waffenmeister,17837,,21)
 qd,mvqp.0,73415,73526,_Stage,_Stage,",","$,",--,17837,,
 qd,mvqp.0,73415,73526,_Stage,_Stage,die,ART,der,17837,,
 qd,mvqp.0,73415,73526,_Stage,_Stage,Frauen,NN,frau,17837,,
@@ -1848,15 +1848,15 @@ qd,mvqp.0,73529,74012,_Stage,_Stage,den,ART,der,17837,,
 qd,mvqp.0,73529,74012,_Stage,_Stage,Thron,NN,thron,17837,,
 qd,mvqp.0,73529,74012,_Stage,_Stage,gruppiert,VVPP,gruppieren,17837,,
 qd,mvqp.0,73529,74012,_Stage,_Stage,.,$.,--,17837,,
-qd,mvqp.0,73529,74012,_Stage,_Stage,Marpalye,NE,marpalye,17837,,
+qd,mvqp.0,73529,74012,_Stage,_Stage,Marpalye,NE,marpalye,17837,,(17)
 qd,mvqp.0,73529,74012,_Stage,_Stage,sitzt,VVFIN,sitzen,17837,,
 qd,mvqp.0,73529,74012,_Stage,_Stage,dicht,ADJD,dicht,17837,,
 qd,mvqp.0,73529,74012,_Stage,_Stage,zu,APPR,zu,17837,,
 qd,mvqp.0,73529,74012,_Stage,_Stage,Füßen,NN,fuß,17837,,
 qd,mvqp.0,73529,74012,_Stage,_Stage,Belians,NE,belian,17837,,
 qd,mvqp.0,73529,74012,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,73529,74012,_Stage,_Stage,der,ART,der,17837,,
-qd,mvqp.0,73529,74012,_Stage,_Stage,Narr,NN,narr,17837,,
+qd,mvqp.0,73529,74012,_Stage,_Stage,der,ART,der,17837,,(20
+qd,mvqp.0,73529,74012,_Stage,_Stage,Narr,NN,narr,17837,,20)
 qd,mvqp.0,73529,74012,_Stage,_Stage,nimmt,VVFIN,nehmen,17837,,
 qd,mvqp.0,73529,74012,_Stage,_Stage,seinen,PPOSAT,sein,17837,,
 qd,mvqp.0,73529,74012,_Stage,_Stage,Platz,NN,platz,17837,,
@@ -1888,7 +1888,7 @@ qd,mvqp.0,73529,74012,_Stage,_Stage,Gruppe,NN,gruppe,17837,,
 qd,mvqp.0,73529,74012,_Stage,_Stage,",","$,",--,17837,,
 qd,mvqp.0,73529,74012,_Stage,_Stage,vom,APPRART,von,17837,,
 qd,mvqp.0,73529,74012,_Stage,_Stage,goldbehängten,ADJA,goldbehängt,17837,,
-qd,mvqp.0,73529,74012,_Stage,_Stage,Belian,NE,belian,17837,,
+qd,mvqp.0,73529,74012,_Stage,_Stage,Belian,NE,belian,17837,,(16)
 qd,mvqp.0,73529,74012,_Stage,_Stage,gekrönt,VVPP,krönen,17837,,
 qd,mvqp.0,73529,74012,_Stage,_Stage,",","$,",--,17837,,
 qd,mvqp.0,73529,74012,_Stage,_Stage,ist,VAFIN,sein,17837,,
@@ -1913,11 +1913,11 @@ qd,mvqp.0,74015,74322,_Stage,_Stage,winkt,VVFIN,winken,17837,,
 qd,mvqp.0,74015,74322,_Stage,_Stage,nach,APPR,nach,17837,,
 qd,mvqp.0,74015,74322,_Stage,_Stage,rechts,ADV,rechts,17837,,
 qd,mvqp.0,74015,74322,_Stage,_Stage,und,KON,und,17837,,
-qd,mvqp.0,74015,74322,_Stage,_Stage,der,ART,der,17837,,
-qd,mvqp.0,74015,74322,_Stage,_Stage,Fremde,NN,fremde,17837,,
+qd,mvqp.0,74015,74322,_Stage,_Stage,der,ART,der,17837,,(0
+qd,mvqp.0,74015,74322,_Stage,_Stage,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,74015,74322,_Stage,_Stage,und,KON,und,17837,,
-qd,mvqp.0,74015,74322,_Stage,_Stage,der,ART,der,17837,,
-qd,mvqp.0,74015,74322,_Stage,_Stage,Waffenmeister,NN,waffenmeister,17837,,
+qd,mvqp.0,74015,74322,_Stage,_Stage,der,ART,der,17837,,(21
+qd,mvqp.0,74015,74322,_Stage,_Stage,Waffenmeister,NN,waffenmeister,17837,,21)
 qd,mvqp.0,74015,74322,_Stage,_Stage,treten,VVFIN,treten,17837,,
 qd,mvqp.0,74015,74322,_Stage,_Stage,von,APPR,von,17837,,
 qd,mvqp.0,74015,74322,_Stage,_Stage,dort,ADV,dort,17837,,
@@ -1930,8 +1930,8 @@ qd,mvqp.0,74015,74322,_Stage,_Stage,im,APPRART,in,17837,,
 qd,mvqp.0,74015,74322,_Stage,_Stage,vorigen,ADJA,vorig,17837,,
 qd,mvqp.0,74015,74322,_Stage,_Stage,Bilde,NN,bilde,17837,,
 qd,mvqp.0,74015,74322,_Stage,_Stage,.,$.,--,17837,,
-qd,mvqp.0,74015,74322,_Stage,_Stage,Der,ART,der,17837,,
-qd,mvqp.0,74015,74322,_Stage,_Stage,Fremde,NN,fremde,17837,,
+qd,mvqp.0,74015,74322,_Stage,_Stage,Der,ART,der,17837,,(0
+qd,mvqp.0,74015,74322,_Stage,_Stage,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,74015,74322,_Stage,_Stage,",","$,",--,17837,,
 qd,mvqp.0,74015,74322,_Stage,_Stage,ohne,KOUI,ohne,17837,,
 qd,mvqp.0,74015,74322,_Stage,_Stage,sich,PRF,sich,17837,,
@@ -1951,7 +1951,7 @@ qd,mvqp.0,74015,74322,_Stage,_Stage,Blicke,NN,blick,17837,,
 qd,mvqp.0,74015,74322,_Stage,_Stage,mit,APPR,mit,17837,,
 qd,mvqp.0,74015,74322,_Stage,_Stage,denen,PDS,der,17837,,
 qd,mvqp.0,74015,74322,_Stage,_Stage,der,ART,der,17837,,
-qd,mvqp.0,74015,74322,_Stage,_Stage,Marpalye,NN,marpalye,17837,,
+qd,mvqp.0,74015,74322,_Stage,_Stage,Marpalye,NN,marpalye,17837,,(17)
 qd,mvqp.0,74015,74322,_Stage,_Stage,und,KON,und,17837,,
 qd,mvqp.0,74015,74322,_Stage,_Stage,bleiben,VVFIN,bleiben,17837,,
 qd,mvqp.0,74015,74322,_Stage,_Stage,bewegungslos,ADJD,bewegungslos,17837,,
@@ -1962,7 +1962,7 @@ qd,mvqp.0,74489,74526,DIE STIMME DES FREMDEN,die_stimme_des_fremden,ohne,APPR,oh
 qd,mvqp.0,74489,74526,DIE STIMME DES FREMDEN,die_stimme_des_fremden,den,ART,der,17837,,
 qd,mvqp.0,74489,74526,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Blick,NN,blick,17837,,
 qd,mvqp.0,74489,74526,DIE STIMME DES FREMDEN,die_stimme_des_fremden,von,APPR,von,17837,,
-qd,mvqp.0,74489,74526,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Marpalye,NN,marpalye,17837,,
+qd,mvqp.0,74489,74526,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Marpalye,NN,marpalye,17837,,(17)
 qd,mvqp.0,74489,74526,DIE STIMME DES FREMDEN,die_stimme_des_fremden,zu,PTKZU,zu,17837,,
 qd,mvqp.0,74489,74526,DIE STIMME DES FREMDEN,die_stimme_des_fremden,lösen,VVINF,lösen,17837,,
 qd,mvqp.0,74489,74526,DIE STIMME DES FREMDEN,die_stimme_des_fremden,.,$.,--,17837,,
@@ -2178,8 +2178,8 @@ qd,mvqp.0,83628,83677,DIE STIMME DES FREMDEN,die_stimme_des_fremden,die,ART,der,
 qd,mvqp.0,83628,83677,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Türe,NN,türe,17837,,
 qd,mvqp.0,83628,83677,DIE STIMME DES FREMDEN,die_stimme_des_fremden,links,ADV,links,17837,,
 qd,mvqp.0,83628,83677,DIE STIMME DES FREMDEN,die_stimme_des_fremden,.,$.,--,17837,,
-qd,mvqp.0,83760,83835,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Der,ART,der,17837,,
-qd,mvqp.0,83760,83835,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Waffenmeister,NN,waffenmeister,17837,,
+qd,mvqp.0,83760,83835,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Der,ART,der,17837,,(21
+qd,mvqp.0,83760,83835,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Waffenmeister,NN,waffenmeister,17837,,21)
 qd,mvqp.0,83760,83835,DIE STIMME DES FREMDEN,die_stimme_des_fremden,nimmt,VVFIN,nehmen,17837,,
 qd,mvqp.0,83760,83835,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Schwert,NE,schwert,17837,,
 qd,mvqp.0,83760,83835,DIE STIMME DES FREMDEN,die_stimme_des_fremden,und,KON,und,17837,,
@@ -2191,13 +2191,13 @@ qd,mvqp.0,83760,83835,DIE STIMME DES FREMDEN,die_stimme_des_fremden,nach,APPR,na
 qd,mvqp.0,83760,83835,DIE STIMME DES FREMDEN,die_stimme_des_fremden,links,ADV,links,17837,,
 qd,mvqp.0,83760,83835,DIE STIMME DES FREMDEN,die_stimme_des_fremden,ab,PTKVZ,ab,17837,,
 qd,mvqp.0,83760,83835,DIE STIMME DES FREMDEN,die_stimme_des_fremden,.,$.,--,17837,,
-qd,mvqp.0,83874,83895,_Stage,_Stage,Der,ART,der,17837,,
-qd,mvqp.0,83874,83895,_Stage,_Stage,Fremde,NN,fremde,17837,,
+qd,mvqp.0,83874,83895,_Stage,_Stage,Der,ART,der,17837,,(0
+qd,mvqp.0,83874,83895,_Stage,_Stage,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,83874,83895,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,83874,83895,_Stage,_Stage,Marpalye,NE,marpalye,17837,,
+qd,mvqp.0,83874,83895,_Stage,_Stage,Marpalye,NE,marpalye,17837,,(17)
 qd,mvqp.0,83874,83895,_Stage,_Stage,.,$.,--,17837,,
-qd,mvqp.0,83898,84384,_Stage,_Stage,Der,ART,der,17837,,
-qd,mvqp.0,83898,84384,_Stage,_Stage,Fremde,NN,fremde,17837,,
+qd,mvqp.0,83898,84384,_Stage,_Stage,Der,ART,der,17837,,(0
+qd,mvqp.0,83898,84384,_Stage,_Stage,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,83898,84384,_Stage,_Stage,wendet,VVFIN,wenden,17837,,
 qd,mvqp.0,83898,84384,_Stage,_Stage,sich,PRF,sich,17837,,
 qd,mvqp.0,83898,84384,_Stage,_Stage,in,APPR,in,17837,,
@@ -2242,7 +2242,7 @@ qd,mvqp.0,83898,84384,_Stage,_Stage,die,ART,der,17837,,
 qd,mvqp.0,83898,84384,_Stage,_Stage,Türe,NN,türe,17837,,
 qd,mvqp.0,83898,84384,_Stage,_Stage,rechts,ADV,rechts,17837,,
 qd,mvqp.0,83898,84384,_Stage,_Stage,und,KON,und,17837,,
-qd,mvqp.0,83898,84384,_Stage,_Stage,Marpalye,NN,marpalye,17837,,
+qd,mvqp.0,83898,84384,_Stage,_Stage,Marpalye,NN,marpalye,17837,,(17)
 qd,mvqp.0,83898,84384,_Stage,_Stage,erscheint,VVFIN,erscheinen,17837,,
 qd,mvqp.0,83898,84384,_Stage,_Stage,auf,APPR,auf,17837,,
 qd,mvqp.0,83898,84384,_Stage,_Stage,den,ART,der,17837,,
@@ -2396,7 +2396,7 @@ qd,mvqp.0,87142,87215,DIE STIMME DES FREMDEN,die_stimme_des_fremden,umfängt,VVF
 qd,mvqp.0,87142,87215,DIE STIMME DES FREMDEN,die_stimme_des_fremden,mit,APPR,mit,17837,,
 qd,mvqp.0,87142,87215,DIE STIMME DES FREMDEN,die_stimme_des_fremden,einem,ART,ein,17837,,
 qd,mvqp.0,87142,87215,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Arm,NN,arm,17837,,
-qd,mvqp.0,87142,87215,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Marpalye,NN,marpalye,17837,,
+qd,mvqp.0,87142,87215,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Marpalye,NN,marpalye,17837,,(17)
 qd,mvqp.0,87142,87215,DIE STIMME DES FREMDEN,die_stimme_des_fremden,",","$,",--,17837,,
 qd,mvqp.0,87142,87215,DIE STIMME DES FREMDEN,die_stimme_des_fremden,weist,VVFIN,weisen,17837,,
 qd,mvqp.0,87142,87215,DIE STIMME DES FREMDEN,die_stimme_des_fremden,mit,APPR,mit,17837,,
@@ -2434,16 +2434,16 @@ qd,mvqp.0,88234,88244,,,anklagend,ADJD,anklagend,17837,,
 qd,mvqp.0,88234,88244,,,.,$.,--,17837,,
 qd,mvqp.0,88359,88417,_Stage,_Stage,Vorige,NN,vorige,17837,,
 qd,mvqp.0,88359,88417,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,88359,88417,_Stage,_Stage,Marpalye,NN,marpalye,17837,,
+qd,mvqp.0,88359,88417,_Stage,_Stage,Marpalye,NN,marpalye,17837,,(17)
 qd,mvqp.0,88359,88417,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,88359,88417,_Stage,_Stage,der,ART,der,17837,,
-qd,mvqp.0,88359,88417,_Stage,_Stage,Narr,NN,narr,17837,,
+qd,mvqp.0,88359,88417,_Stage,_Stage,der,ART,der,17837,,(20
+qd,mvqp.0,88359,88417,_Stage,_Stage,Narr,NN,narr,17837,,20)
 qd,mvqp.0,88359,88417,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,88359,88417,_Stage,_Stage,der,ART,der,17837,,
-qd,mvqp.0,88359,88417,_Stage,_Stage,Fremde,NN,fremde,17837,,
+qd,mvqp.0,88359,88417,_Stage,_Stage,der,ART,der,17837,,(0
+qd,mvqp.0,88359,88417,_Stage,_Stage,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,88359,88417,_Stage,_Stage,",","$,",--,17837,,
-qd,mvqp.0,88359,88417,_Stage,_Stage,der,ART,der,17837,,
-qd,mvqp.0,88359,88417,_Stage,_Stage,Waffenmeister,NN,waffenmeister,17837,,
+qd,mvqp.0,88359,88417,_Stage,_Stage,der,ART,der,17837,,(21
+qd,mvqp.0,88359,88417,_Stage,_Stage,Waffenmeister,NN,waffenmeister,17837,,21)
 qd,mvqp.0,88359,88417,_Stage,_Stage,.,$.,--,17837,,
 qd,mvqp.0,88443,88460,MARPALYE,marpalye,kommen,VVFIN,kommen,17837,,
 qd,mvqp.0,88443,88460,MARPALYE,marpalye,von,APPR,von,17837,,
@@ -2460,11 +2460,11 @@ qd,mvqp.0,88647,88729,MARPALYE,marpalye,gegen,APPR,gegen,17837,,
 qd,mvqp.0,88647,88729,MARPALYE,marpalye,rechts,ADV,rechts,17837,,
 qd,mvqp.0,88647,88729,MARPALYE,marpalye,",","$,",--,17837,,
 qd,mvqp.0,88647,88729,MARPALYE,marpalye,woher,PWAV,woher,17837,,
-qd,mvqp.0,88647,88729,MARPALYE,marpalye,der,ART,der,17837,,
-qd,mvqp.0,88647,88729,MARPALYE,marpalye,Fremde,NN,fremde,17837,,
+qd,mvqp.0,88647,88729,MARPALYE,marpalye,der,ART,der,17837,,(0
+qd,mvqp.0,88647,88729,MARPALYE,marpalye,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,88647,88729,MARPALYE,marpalye,und,KON,und,17837,,
-qd,mvqp.0,88647,88729,MARPALYE,marpalye,der,ART,der,17837,,
-qd,mvqp.0,88647,88729,MARPALYE,marpalye,Waffenmeister,NN,waffenmeister,17837,,
+qd,mvqp.0,88647,88729,MARPALYE,marpalye,der,ART,der,17837,,(21
+qd,mvqp.0,88647,88729,MARPALYE,marpalye,Waffenmeister,NN,waffenmeister,17837,,21)
 qd,mvqp.0,88647,88729,MARPALYE,marpalye,kommen,VVFIN,kommen,17837,,
 qd,mvqp.0,88647,88729,MARPALYE,marpalye,.,$.,--,17837,,
 qd,mvqp.0,88842,88943,DER WAFFENMEISTER,der_waffenmeister,kampfgerüstet,ADJD,kampfgerüsten,17837,,
@@ -2484,7 +2484,7 @@ qd,mvqp.0,88842,88943,DER WAFFENMEISTER,der_waffenmeister,Hand,NN,hand,17837,,
 qd,mvqp.0,88842,88943,DER WAFFENMEISTER,der_waffenmeister,des,ART,der,17837,,
 qd,mvqp.0,88842,88943,DER WAFFENMEISTER,der_waffenmeister,Wächters,NN,wächter,17837,,
 qd,mvqp.0,88842,88943,DER WAFFENMEISTER,der_waffenmeister,neben,APPR,neben,17837,,
-qd,mvqp.0,88842,88943,DER WAFFENMEISTER,der_waffenmeister,Belian,NE,belian,17837,,
+qd,mvqp.0,88842,88943,DER WAFFENMEISTER,der_waffenmeister,Belian,NE,belian,17837,,(16)
 qd,mvqp.0,88842,88943,DER WAFFENMEISTER,der_waffenmeister,.,$.,--,17837,,
 qd,mvqp.0,89402,89470,BELIAN,belian,springt,VVFIN,springen,17837,,
 qd,mvqp.0,89402,89470,BELIAN,belian,hinzu,PTKVZ,hinzu,17837,,
@@ -2529,7 +2529,7 @@ qd,mvqp.0,89928,89980,DIE STIMME DES FREMDEN,die_stimme_des_fremden,im,APPRART,i
 qd,mvqp.0,89928,89980,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Arm,NN,arm,17837,,
 qd,mvqp.0,89928,89980,DIE STIMME DES FREMDEN,die_stimme_des_fremden,",","$,",--,17837,,
 qd,mvqp.0,89928,89980,DIE STIMME DES FREMDEN,die_stimme_des_fremden,zu,PTKZU,zu,17837,,
-qd,mvqp.0,89928,89980,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Belian,VVINF,belian,17837,,
+qd,mvqp.0,89928,89980,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Belian,VVINF,belian,17837,,(16)
 qd,mvqp.0,89928,89980,DIE STIMME DES FREMDEN,die_stimme_des_fremden,.,$.,--,17837,,
 qd,mvqp.0,90050,90081,BELIAN,belian,steckt,VVFIN,stecken,17837,,
 qd,mvqp.0,90050,90081,BELIAN,belian,den,ART,der,17837,,
@@ -2598,7 +2598,7 @@ qd,mvqp.0,91433,91474,DER NARR,der_narr,des,ART,der,17837,,
 qd,mvqp.0,91433,91474,DER NARR,der_narr,Fremden,NN,fremde,17837,,
 qd,mvqp.0,91433,91474,DER NARR,der_narr,geschlichen,VVPP,schleichen,17837,,
 qd,mvqp.0,91433,91474,DER NARR,der_narr,.,$.,--,17837,,
-qd,mvqp.0,91539,91774,MARPALYE,marpalye,Belian,NE,belian,17837,,
+qd,mvqp.0,91539,91774,MARPALYE,marpalye,Belian,NE,belian,17837,,(16)
 qd,mvqp.0,91539,91774,MARPALYE,marpalye,hat,VAFIN,haben,17837,,
 qd,mvqp.0,91539,91774,MARPALYE,marpalye,das,ART,der,17837,,
 qd,mvqp.0,91539,91774,MARPALYE,marpalye,Messer,NN,messer,17837,,
@@ -2625,13 +2625,13 @@ qd,mvqp.0,91539,91774,MARPALYE,marpalye,steht,VVFIN,stehen,17837,,
 qd,mvqp.0,91539,91774,MARPALYE,marpalye,neben,APPR,neben,17837,,
 qd,mvqp.0,91539,91774,MARPALYE,marpalye,ihm,PPER,ihm,17837,,
 qd,mvqp.0,91539,91774,MARPALYE,marpalye,",","$,",--,17837,,
-qd,mvqp.0,91539,91774,MARPALYE,marpalye,Marpalye,NE,marpalye,17837,,
+qd,mvqp.0,91539,91774,MARPALYE,marpalye,Marpalye,NE,marpalye,17837,,(17)
 qd,mvqp.0,91539,91774,MARPALYE,marpalye,neben,APPR,neben,17837,,
 qd,mvqp.0,91539,91774,MARPALYE,marpalye,dem,ART,der,17837,,
 qd,mvqp.0,91539,91774,MARPALYE,marpalye,Fremden,NN,fremde,17837,,
 qd,mvqp.0,91539,91774,MARPALYE,marpalye,",","$,",--,17837,,
-qd,mvqp.0,91539,91774,MARPALYE,marpalye,der,ART,der,17837,,
-qd,mvqp.0,91539,91774,MARPALYE,marpalye,Narr,NN,narr,17837,,
+qd,mvqp.0,91539,91774,MARPALYE,marpalye,der,ART,der,17837,,(20
+qd,mvqp.0,91539,91774,MARPALYE,marpalye,Narr,NN,narr,17837,,20)
 qd,mvqp.0,91539,91774,MARPALYE,marpalye,unschlüssig,ADJD,unschlüssig,17837,,
 qd,mvqp.0,91539,91774,MARPALYE,marpalye,zwischen,APPR,zwischen,17837,,
 qd,mvqp.0,91539,91774,MARPALYE,marpalye,beiden,PIDAT,beide,17837,,
@@ -2661,7 +2661,7 @@ qd,mvqp.0,91778,92050,MARPALYE,marpalye,wirft,VVFIN,werfen,17837,,
 qd,mvqp.0,91778,92050,MARPALYE,marpalye,er,PPER,er,17837,,
 qd,mvqp.0,91778,92050,MARPALYE,marpalye,es,PPER,es,17837,,
 qd,mvqp.0,91778,92050,MARPALYE,marpalye,gegen,APPR,gegen,17837,,
-qd,mvqp.0,91778,92050,MARPALYE,marpalye,Belian,NE,belian,17837,,
+qd,mvqp.0,91778,92050,MARPALYE,marpalye,Belian,NE,belian,17837,,(16)
 qd,mvqp.0,91778,92050,MARPALYE,marpalye,.,$.,--,17837,,
 qd,mvqp.0,91778,92050,MARPALYE,marpalye,Ein,ART,ein,17837,,
 qd,mvqp.0,91778,92050,MARPALYE,marpalye,greller,ADJA,grell,17837,,
@@ -2672,7 +2672,7 @@ qd,mvqp.0,91778,92050,MARPALYE,marpalye,man,PIS,man,17837,,
 qd,mvqp.0,91778,92050,MARPALYE,marpalye,sieht,VVFIN,sehen,17837,,
 qd,mvqp.0,91778,92050,MARPALYE,marpalye,eben,ADV,eben,17837,,
 qd,mvqp.0,91778,92050,MARPALYE,marpalye,noch,ADV,noch,17837,,
-qd,mvqp.0,91778,92050,MARPALYE,marpalye,Belian,NE,belian,17837,,
+qd,mvqp.0,91778,92050,MARPALYE,marpalye,Belian,NE,belian,17837,,(16)
 qd,mvqp.0,91778,92050,MARPALYE,marpalye,niedersinken,VVFIN,niedersinken,17837,,
 qd,mvqp.0,91778,92050,MARPALYE,marpalye,",","$,",--,17837,,
 qd,mvqp.0,91778,92050,MARPALYE,marpalye,dann,ADV,dann,17837,,
@@ -2701,18 +2701,18 @@ qd,mvqp.0,92654,92740,MARPALYE,marpalye,hervorsieht,VVFIN,hervorsehen,17837,,
 qd,mvqp.0,92654,92740,MARPALYE,marpalye,.,$.,--,17837,,
 qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Man,PIS,man,17837,,
 qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,hört,VVFIN,hören,17837,,
-qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,die,ART,der,17837,,
+qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,die,ART,der,17837,,(22
 qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,jungen,ADJA,jung,17837,,
-qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Bauleute,NN,bauleute,17837,,
+qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Bauleute,NN,bauleute,17837,,22)
 qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,eine,ART,ein,17837,,
 qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,alte,ADJA,alt,17837,,
 qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Volksliedweise,NN,volksliedweise,17837,,
 qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,singen,VVINF,singen,17837,,
 qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,.,$.,--,17837,,
-qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Der,ART,der,17837,,
-qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Fremde,NN,fremde,17837,,
+qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Der,ART,der,17837,,(0
+qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Fremde,NN,fremde,17837,,0)
 qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,und,KON,und,17837,,
-qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Marpalye,NN,marpalye,17837,,
+qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Marpalye,NN,marpalye,17837,,(17)
 qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,gehen,VVFIN,gehen,17837,,
 qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,gegen,APPR,gegen,17837,,
 qd,mvqp.0,92961,93128,DIE STIMME DES FREMDEN,die_stimme_des_fremden,das,ART,der,17837,,
@@ -2761,13 +2761,13 @@ qd,mvqp.0,94052,94103,EIN JUNGES MÄDCHEN,ein_junges_mädchen,kamen,VVFIN,kommen
 qd,mvqp.0,94052,94103,EIN JUNGES MÄDCHEN,ein_junges_mädchen,.,$.,--,17837,,
 qd,mvqp.0,94268,94274,EIN JUNGES MÄDCHEN,ein_junges_mädchen,lacht,VVFIN,lachen,17837,,
 qd,mvqp.0,94268,94274,EIN JUNGES MÄDCHEN,ein_junges_mädchen,.,$.,--,17837,,
-qd,mvqp.0,94314,94342,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Marpalye,NE,marpalye,17837,,
+qd,mvqp.0,94314,94342,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Marpalye,NE,marpalye,17837,,(17)
 qd,mvqp.0,94314,94342,DIE STIMME DES FREMDEN,die_stimme_des_fremden,den,ART,der,17837,,
 qd,mvqp.0,94314,94342,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Arm,NN,arm,17837,,
 qd,mvqp.0,94314,94342,DIE STIMME DES FREMDEN,die_stimme_des_fremden,überlegend,ADJD,überlegend,17837,,
 qd,mvqp.0,94314,94342,DIE STIMME DES FREMDEN,die_stimme_des_fremden,.,$.,--,17837,,
-qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Die,ART,der,17837,,
-qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Bauleute,NN,bauleute,17837,,
+qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Die,ART,der,17837,,(22
+qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,Bauleute,NN,bauleute,17837,,22)
 qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,umringen,VVFIN,umringen,17837,,
 qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,beide,PIS,beide,17837,,
 qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,und,KON,und,17837,,
@@ -2795,8 +2795,8 @@ qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,hören,VVINF
 qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,ist,VAFIN,sein,17837,,
 qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,",","$,",--,17837,,
 qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,kommen,VVFIN,kommen,17837,,
-qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,der,ART,der,17837,,
-qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,alte,ADJA,alt,17837,,
+qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,der,ART,der,17837,,(1
+qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,alte,ADJA,alt,17837,,1)
 qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,und,KON,und,17837,,
 qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,der,ART,der,17837,,
 qd,mvqp.0,94764,94947,DIE STIMME DES FREMDEN,die_stimme_des_fremden,junge,ADJA,jung,17837,,
@@ -2855,8 +2855,8 @@ qd,mvqp.0,95707,95846,DIE JUNGEN BAULEUTE,die_jungen_bauleute,und,KON,und,17837,
 qd,mvqp.0,95707,95846,DIE JUNGEN BAULEUTE,die_jungen_bauleute,lachend,ADJD,lachend,17837,,
 qd,mvqp.0,95707,95846,DIE JUNGEN BAULEUTE,die_jungen_bauleute,heran,PTKVZ,heran,17837,,
 qd,mvqp.0,95707,95846,DIE JUNGEN BAULEUTE,die_jungen_bauleute,;,$.,--,17837,,
-qd,mvqp.0,95707,95846,DIE JUNGEN BAULEUTE,die_jungen_bauleute,der,ART,der,17837,,
-qd,mvqp.0,95707,95846,DIE JUNGEN BAULEUTE,die_jungen_bauleute,alte,ADJA,alt,17837,,
+qd,mvqp.0,95707,95846,DIE JUNGEN BAULEUTE,die_jungen_bauleute,der,ART,der,17837,,(1
+qd,mvqp.0,95707,95846,DIE JUNGEN BAULEUTE,die_jungen_bauleute,alte,ADJA,alt,17837,,1)
 qd,mvqp.0,95707,95846,DIE JUNGEN BAULEUTE,die_jungen_bauleute,Gärtner,NN,gärtner,17837,,
 qd,mvqp.0,95707,95846,DIE JUNGEN BAULEUTE,die_jungen_bauleute,winkt,VVFIN,winken,17837,,
 qd,mvqp.0,95707,95846,DIE JUNGEN BAULEUTE,die_jungen_bauleute,ihnen,PPER,ihnen,17837,,

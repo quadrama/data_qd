@@ -451,7 +451,7 @@ qd,v3vz.0,5445,5496,STUBENMÄDCHEN,stubenmädchen,Mantel,NE,mantel,43178,,
 qd,v3vz.0,5445,5496,STUBENMÄDCHEN,stubenmädchen,",","$,",--,43178,,
 qd,v3vz.0,5445,5496,STUBENMÄDCHEN,stubenmädchen,den,PRELS,der,43178,,
 qd,v3vz.0,5445,5496,STUBENMÄDCHEN,stubenmädchen,sie,PPER,sie,43178,,
-qd,v3vz.0,5445,5496,STUBENMÄDCHEN,stubenmädchen,Genia,NE,genia,43178,,
+qd,v3vz.0,5445,5496,STUBENMÄDCHEN,stubenmädchen,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,5445,5496,STUBENMÄDCHEN,stubenmädchen,umgibt,VVFIN,umgeben,43178,,
 qd,v3vz.0,5445,5496,STUBENMÄDCHEN,stubenmädchen,.,$.,--,43178,,
 qd,v3vz.0,5570,5580,FRAU WAHL,frau_wahl,leutselig,ADJD,leutselig,43178,,
@@ -461,11 +461,11 @@ qd,v3vz.0,5638,5655,ERNA,erna,ab,PTKVZ,ab,43178,,
 qd,v3vz.0,5638,5655,ERNA,erna,.,$.,--,43178,,
 qd,v3vz.0,5966,5975,GENIA,genia,lächelnd,ADJD,lächelnd,43178,,
 qd,v3vz.0,5966,5975,GENIA,genia,.,$.,--,43178,,
-qd,v3vz.0,6178,6230,GENIA,genia,Erna,NE,erna,43178,,
+qd,v3vz.0,6178,6230,GENIA,genia,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,6178,6230,GENIA,genia,beinahe,ADV,beinahe,43178,,
 qd,v3vz.0,6178,6230,GENIA,genia,zärtlich,ADJD,zärtlich,43178,,
-qd,v3vz.0,6178,6230,GENIA,genia,Frau,NN,frau,43178,,
-qd,v3vz.0,6178,6230,GENIA,genia,Genia,NE,genia,43178,,
+qd,v3vz.0,6178,6230,GENIA,genia,Frau,NN,frau,43178,,(0
+qd,v3vz.0,6178,6230,GENIA,genia,Genia,NE,genia,43178,,0)|(0)
 qd,v3vz.0,6178,6230,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,6178,6230,GENIA,genia,Küßt,NE,küßen,43178,,
 qd,v3vz.0,6178,6230,GENIA,genia,ihr,PPOSAT,ihr,43178,,
@@ -496,17 +496,17 @@ qd,v3vz.0,11340,11368,MAUER,doktor_mauer,schnell,ADJD,schnell,43178,,
 qd,v3vz.0,11340,11368,MAUER,doktor_mauer,begrüßend,ADJD,begrüßend,43178,,
 qd,v3vz.0,11340,11368,MAUER,doktor_mauer,.,$.,--,43178,,
 qd,v3vz.0,12884,12903,GENIA,genia,zu,APPR,zu,43178,,
-qd,v3vz.0,12884,12903,GENIA,genia,Otto,NE,otto,43178,,
+qd,v3vz.0,12884,12903,GENIA,genia,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,12884,12903,GENIA,genia,",","$,",--,43178,,
 qd,v3vz.0,12884,12903,GENIA,genia,erklärend,ADJD,erklärend,43178,,
 qd,v3vz.0,12884,12903,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,13117,13126,OTTO,otto,zu,PTKZU,zu,43178,,
-qd,v3vz.0,13117,13126,OTTO,otto,Genia,NE,genia,43178,,
+qd,v3vz.0,13117,13126,OTTO,otto,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,13117,13126,OTTO,otto,.,$.,--,43178,,
 qd,v3vz.0,13194,13207,ERNA,erna,nachdenklich,ADJD,nachdenklich,43178,,
 qd,v3vz.0,13194,13207,ERNA,erna,.,$.,--,43178,,
 qd,v3vz.0,13284,13292,GENIA,genia,zu,APPR,zu,43178,,
-qd,v3vz.0,13284,13292,GENIA,genia,Otto,NE,otto,43178,,
+qd,v3vz.0,13284,13292,GENIA,genia,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,13284,13292,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,13667,13680,MAUER,doktor_mauer,Kleine,ADJA,klein,43178,,
 qd,v3vz.0,13667,13680,MAUER,doktor_mauer,Pause,NN,pause,43178,,
@@ -519,17 +519,17 @@ qd,v3vz.0,14188,14210,ERNA,erna,auffordernd,ADJD,auffordernd,43178,,
 qd,v3vz.0,14188,14210,ERNA,erna,.,$.,--,43178,,
 qd,v3vz.0,14875,14916,ERNA,erna,Verabschiedung,NN,verabschiedung,43178,,
 qd,v3vz.0,14875,14916,ERNA,erna,.,$.,--,43178,,
-qd,v3vz.0,14875,14916,ERNA,erna,Frau,NN,frau,43178,,
-qd,v3vz.0,14875,14916,ERNA,erna,Wahl,NN,wahl,43178,,
+qd,v3vz.0,14875,14916,ERNA,erna,Frau,NN,frau,43178,,(2
+qd,v3vz.0,14875,14916,ERNA,erna,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,14875,14916,ERNA,erna,",","$,",--,43178,,
-qd,v3vz.0,14875,14916,ERNA,erna,Erna,NE,erna,43178,,
+qd,v3vz.0,14875,14916,ERNA,erna,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,14875,14916,ERNA,erna,",","$,",--,43178,,
-qd,v3vz.0,14875,14916,ERNA,erna,Otto,NE,otto,43178,,
+qd,v3vz.0,14875,14916,ERNA,erna,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,14875,14916,ERNA,erna,ab,PTKVZ,ab,43178,,
 qd,v3vz.0,14875,14916,ERNA,erna,.,$.,--,43178,,
-qd,v3vz.0,14919,14932,ERNA,erna,Genia,NE,genia,43178,,
+qd,v3vz.0,14919,14932,ERNA,erna,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,14919,14932,ERNA,erna,",","$,",--,43178,,
-qd,v3vz.0,14919,14932,ERNA,erna,Mauer,NN,mauer,43178,,
+qd,v3vz.0,14919,14932,ERNA,erna,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,14919,14932,ERNA,erna,.,$.,--,43178,,
 qd,v3vz.0,14944,14991,MAUER,doktor_mauer,nach,APPR,nach,43178,,
 qd,v3vz.0,14944,14991,MAUER,doktor_mauer,einer,ART,ein,43178,,
@@ -537,7 +537,7 @@ qd,v3vz.0,14944,14991,MAUER,doktor_mauer,kleinen,ADJA,klein,43178,,
 qd,v3vz.0,14944,14991,MAUER,doktor_mauer,Pause,NN,pause,43178,,
 qd,v3vz.0,14944,14991,MAUER,doktor_mauer,",","$,",--,43178,,
 qd,v3vz.0,14944,14991,MAUER,doktor_mauer,hat,VAFIN,haben,43178,,
-qd,v3vz.0,14944,14991,MAUER,doktor_mauer,Erna,NE,erna,43178,,
+qd,v3vz.0,14944,14991,MAUER,doktor_mauer,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,14944,14991,MAUER,doktor_mauer,nachgesehen,VVPP,nachgesehen,43178,,
 qd,v3vz.0,14944,14991,MAUER,doktor_mauer,.,$.,--,43178,,
 qd,v3vz.0,15290,15305,MAUER,doktor_mauer,halb,ADJD,halb,43178,,
@@ -558,9 +558,9 @@ qd,v3vz.0,15791,15825,MAUER,doktor_mauer,.,$.,--,43178,,
 qd,v3vz.0,16456,16469,MAUER,doktor_mauer,Kleine,ADJA,klein,43178,,
 qd,v3vz.0,16456,16469,MAUER,doktor_mauer,Pause,NN,pause,43178,,
 qd,v3vz.0,16456,16469,MAUER,doktor_mauer,.,$.,--,43178,,
-qd,v3vz.0,16472,16510,MAUER,doktor_mauer,Genia,NE,genia,43178,,
+qd,v3vz.0,16472,16510,MAUER,doktor_mauer,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,16472,16510,MAUER,doktor_mauer,sieht,VVFIN,sehen,43178,,
-qd,v3vz.0,16472,16510,MAUER,doktor_mauer,Mauer,NN,mauer,43178,,
+qd,v3vz.0,16472,16510,MAUER,doktor_mauer,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,16472,16510,MAUER,doktor_mauer,schwach,ADJD,schwach,43178,,
 qd,v3vz.0,16472,16510,MAUER,doktor_mauer,lächelnd,ADJD,lächelnd,43178,,
 qd,v3vz.0,16472,16510,MAUER,doktor_mauer,an,PTKVZ,an,43178,,
@@ -585,7 +585,7 @@ qd,v3vz.0,21148,21215,FRIEDRICH,friedrich,die,ART,der,43178,,
 qd,v3vz.0,21148,21215,FRIEDRICH,friedrich,Veranda,NN,veranda,43178,,
 qd,v3vz.0,21148,21215,FRIEDRICH,friedrich,",","$,",--,43178,,
 qd,v3vz.0,21148,21215,FRIEDRICH,friedrich,küßt,VVFIN,küssen,43178,,
-qd,v3vz.0,21148,21215,FRIEDRICH,friedrich,Genia,NE,genia,43178,,
+qd,v3vz.0,21148,21215,FRIEDRICH,friedrich,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,21148,21215,FRIEDRICH,friedrich,flüchtig,ADJD,flüchtig,43178,,
 qd,v3vz.0,21148,21215,FRIEDRICH,friedrich,auf,APPR,auf,43178,,
 qd,v3vz.0,21148,21215,FRIEDRICH,friedrich,die,ART,der,43178,,
@@ -628,9 +628,9 @@ qd,v3vz.0,29485,29511,GENIA,genia,am,APPRART,an,43178,,
 qd,v3vz.0,29485,29511,GENIA,genia,der,ART,der,43178,,
 qd,v3vz.0,29485,29511,GENIA,genia,Hand,NN,hand,43178,,
 qd,v3vz.0,29485,29511,GENIA,genia,.,$.,--,43178,,
-qd,v3vz.0,29933,29950,MAUER,doktor_mauer,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,29933,29950,MAUER,doktor_mauer,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,29933,29950,MAUER,doktor_mauer,",","$,",--,43178,,
-qd,v3vz.0,29933,29950,MAUER,doktor_mauer,Genia,NE,genia,43178,,
+qd,v3vz.0,29933,29950,MAUER,doktor_mauer,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,29933,29950,MAUER,doktor_mauer,.,$.,--,43178,,
 qd,v3vz.0,30400,30415,GENIA,genia,reicht,VVFIN,reichen,43178,,
 qd,v3vz.0,30400,30415,GENIA,genia,sie,PPER,sie,43178,,
@@ -743,9 +743,9 @@ qd,v3vz.0,44119,44170,PAUL,paul_kreindl,erscheint,VVFIN,erscheinen,43178,,
 qd,v3vz.0,44119,44170,PAUL,paul_kreindl,am,APPRART,an,43178,,
 qd,v3vz.0,44119,44170,PAUL,paul_kreindl,Tor,NN,tor,43178,,
 qd,v3vz.0,44119,44170,PAUL,paul_kreindl,.,$.,--,43178,,
-qd,v3vz.0,45132,45162,PAUL,paul_kreindl,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,45132,45162,PAUL,paul_kreindl,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,45132,45162,PAUL,paul_kreindl,und,KON,und,43178,,
-qd,v3vz.0,45132,45162,PAUL,paul_kreindl,Genia,NE,genia,43178,,
+qd,v3vz.0,45132,45162,PAUL,paul_kreindl,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,45132,45162,PAUL,paul_kreindl,im,APPRART,in,43178,,
 qd,v3vz.0,45132,45162,PAUL,paul_kreindl,Garten,NN,garten,43178,,
 qd,v3vz.0,45132,45162,PAUL,paul_kreindl,.,$.,--,43178,,
@@ -754,18 +754,18 @@ qd,v3vz.0,45165,45171,PAUL,paul_kreindl,.,$.,--,43178,,
 qd,v3vz.0,46861,46871,GENIA,genia,nimmt,VVFIN,nehmen,43178,,
 qd,v3vz.0,46861,46871,GENIA,genia,ihn,PPER,ihn,43178,,
 qd,v3vz.0,46861,46871,GENIA,genia,.,$.,--,43178,,
-qd,v3vz.0,46874,46886,GENIA,genia,Mauer,NN,mauer,43178,,
+qd,v3vz.0,46874,46886,GENIA,genia,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,46874,46886,GENIA,genia,kommt,VVFIN,kommen,43178,,
 qd,v3vz.0,46874,46886,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,47003,47016,FRIEDRICH,friedrich,ihm,PPER,ihm,43178,,
 qd,v3vz.0,47003,47016,FRIEDRICH,friedrich,entgegen,PTKVZ,entgegen,43178,,
 qd,v3vz.0,47003,47016,FRIEDRICH,friedrich,.,$.,--,43178,,
 qd,v3vz.0,47915,47924,FRIEDRICH,friedrich,zu,APPR,zu,43178,,
-qd,v3vz.0,47915,47924,FRIEDRICH,friedrich,Mauer,NN,mauer,43178,,
+qd,v3vz.0,47915,47924,FRIEDRICH,friedrich,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,47915,47924,FRIEDRICH,friedrich,.,$.,--,43178,,
-qd,v3vz.0,48068,48085,GENIA,genia,Mauer,NN,mauer,43178,,
+qd,v3vz.0,48068,48085,GENIA,genia,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,48068,48085,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,48068,48085,GENIA,genia,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,48068,48085,GENIA,genia,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,48068,48085,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,48101,48118,FRIEDRICH,friedrich,nach,APPR,nach,43178,,
 qd,v3vz.0,48101,48118,FRIEDRICH,friedrich,einer,ART,ein,43178,,
@@ -928,18 +928,18 @@ qd,v3vz.0,50828,51106,GENIA,genia,im,APPRART,in,43178,,
 qd,v3vz.0,50828,51106,GENIA,genia,Gang,NN,gang,43178,,
 qd,v3vz.0,50828,51106,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,50828,51106,GENIA,genia,Links,NE,links,43178,,
-qd,v3vz.0,50828,51106,GENIA,genia,Friedrich,NE,friedrich,43178,,
-qd,v3vz.0,50828,51106,GENIA,genia,Hofreiter,NN,hofreiter,43178,,
+qd,v3vz.0,50828,51106,GENIA,genia,Friedrich,NE,friedrich,43178,,(6|(6)
+qd,v3vz.0,50828,51106,GENIA,genia,Hofreiter,NN,hofreiter,43178,,6)
 qd,v3vz.0,50828,51106,GENIA,genia,und,KON,und,43178,,
-qd,v3vz.0,50828,51106,GENIA,genia,Adele,NE,adel,43178,,
-qd,v3vz.0,50828,51106,GENIA,genia,Natter,NE,natter,43178,,
+qd,v3vz.0,50828,51106,GENIA,genia,Adele,NE,adel,43178,,(9)
+qd,v3vz.0,50828,51106,GENIA,genia,Natter,NE,natter,43178,,(11)
 qd,v3vz.0,50828,51106,GENIA,genia,",","$,",--,43178,,
 qd,v3vz.0,50828,51106,GENIA,genia,rechts,ADV,rechts,43178,,
-qd,v3vz.0,50828,51106,GENIA,genia,Erna,NE,erna,43178,,
+qd,v3vz.0,50828,51106,GENIA,genia,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,50828,51106,GENIA,genia,Wahl,NN,wahl,43178,,
 qd,v3vz.0,50828,51106,GENIA,genia,und,KON,und,43178,,
-qd,v3vz.0,50828,51106,GENIA,genia,Paul,NE,paul,43178,,
-qd,v3vz.0,50828,51106,GENIA,genia,Kreindl,NE,kreindl,43178,,
+qd,v3vz.0,50828,51106,GENIA,genia,Paul,NE,paul,43178,,(7|(7)
+qd,v3vz.0,50828,51106,GENIA,genia,Kreindl,NE,kreindl,43178,,7)
 qd,v3vz.0,50828,51106,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,50828,51106,GENIA,genia,Die,ART,der,43178,,
 qd,v3vz.0,50828,51106,GENIA,genia,weißen,ADJA,weiß,43178,,
@@ -984,9 +984,9 @@ qd,v3vz.0,51109,51252,GENIA,genia,aufgegangen,VVPP,aufgehen,43178,,
 qd,v3vz.0,51109,51252,GENIA,genia,ist,VAFIN,sein,43178,,
 qd,v3vz.0,51109,51252,GENIA,genia,",","$,",--,43178,,
 qd,v3vz.0,51109,51252,GENIA,genia,kommt,VVFIN,kommen,43178,,
-qd,v3vz.0,51109,51252,GENIA,genia,Otto,NE,otto,43178,,
+qd,v3vz.0,51109,51252,GENIA,genia,Otto,NE,otto,43178,,(4|(4)
 qd,v3vz.0,51109,51252,GENIA,genia,von,APPR,von,43178,,
-qd,v3vz.0,51109,51252,GENIA,genia,Aigner,NE,aigner,43178,,
+qd,v3vz.0,51109,51252,GENIA,genia,Aigner,NE,aigner,43178,,4)|(21)
 qd,v3vz.0,51109,51252,GENIA,genia,",","$,",--,43178,,
 qd,v3vz.0,51109,51252,GENIA,genia,diesmal,ADV,diesmal,43178,,
 qd,v3vz.0,51109,51252,GENIA,genia,in,APPR,in,43178,,
@@ -1015,7 +1015,7 @@ qd,v3vz.0,51256,51420,GENIA,genia,begeben,VVPP,begeben,43178,,
 qd,v3vz.0,51256,51420,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,51256,51420,GENIA,genia,Er,PPER,er,43178,,
 qd,v3vz.0,51256,51420,GENIA,genia,gewahrt,VVPP,wahren,43178,,
-qd,v3vz.0,51256,51420,GENIA,genia,Genia,NE,genia,43178,,
+qd,v3vz.0,51256,51420,GENIA,genia,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,51256,51420,GENIA,genia,",","$,",--,43178,,
 qd,v3vz.0,51256,51420,GENIA,genia,die,PRELS,der,43178,,
 qd,v3vz.0,51256,51420,GENIA,genia,seine,PPOSAT,sein,43178,,
@@ -1040,7 +1040,7 @@ qd,v3vz.0,51571,51626,GENIA,genia,Ein,ART,ein,43178,,
 qd,v3vz.0,51571,51626,GENIA,genia,Ball,NN,ball,43178,,
 qd,v3vz.0,51571,51626,GENIA,genia,fliegt,VVFIN,fliegen,43178,,
 qd,v3vz.0,51571,51626,GENIA,genia,vor,APPR,vor,43178,,
-qd,v3vz.0,51571,51626,GENIA,genia,Otto,NE,otto,43178,,
+qd,v3vz.0,51571,51626,GENIA,genia,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,51571,51626,GENIA,genia,hin,PTKVZ,hin,43178,,
 qd,v3vz.0,51571,51626,GENIA,genia,",","$,",--,43178,,
 qd,v3vz.0,51571,51626,GENIA,genia,er,PPER,er,43178,,
@@ -1055,8 +1055,8 @@ qd,v3vz.0,52920,52929,OTTO,otto,.,$.,--,43178,,
 qd,v3vz.0,53653,53667,GENIA,genia,sich,PRF,sich,43178,,
 qd,v3vz.0,53653,53667,GENIA,genia,erhebend,ADJD,erhebend,43178,,
 qd,v3vz.0,53653,53667,GENIA,genia,.,$.,--,43178,,
-qd,v3vz.0,53762,53799,GENIA,genia,Frau,NN,frau,43178,,
-qd,v3vz.0,53762,53799,GENIA,genia,Wahl,NN,wahl,43178,,
+qd,v3vz.0,53762,53799,GENIA,genia,Frau,NN,frau,43178,,(2
+qd,v3vz.0,53762,53799,GENIA,genia,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,53762,53799,GENIA,genia,aus,APPR,aus,43178,,
 qd,v3vz.0,53762,53799,GENIA,genia,dem,ART,der,43178,,
 qd,v3vz.0,53762,53799,GENIA,genia,Haus,NN,haus,43178,,
@@ -1067,9 +1067,9 @@ qd,v3vz.0,53762,53799,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,54537,54551,GENIA,genia,matt,ADJD,matt,43178,,
 qd,v3vz.0,54537,54551,GENIA,genia,lächelnd,ADJD,lächelnd,43178,,
 qd,v3vz.0,54537,54551,GENIA,genia,.,$.,--,43178,,
-qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,und,KON,und,43178,,
-qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,Erna,NE,erna,43178,,
+qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,vom,APPRART,von,43178,,
 qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,Tennisplatz,NN,tennisplatz,43178,,
 qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,mit,APPR,mit,43178,,
@@ -1078,10 +1078,10 @@ qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,in,APPR,in,43178,,
 qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,der,ART,der,43178,,
 qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,Hand,NN,hand,43178,,
 qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,.,$.,--,43178,,
-qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,Genia,NE,genia,43178,,
+qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,",","$,",--,43178,,
-qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,Frau,NN,frau,43178,,
-qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,Wahl,NN,wahl,43178,,
+qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,Frau,NN,frau,43178,,(2
+qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,54705,54782,FRAU WAHL,frau_wahl,.,$.,--,43178,,
 qd,v3vz.0,54798,54830,FRIEDRICH,friedrich,in,APPR,in,43178,,
 qd,v3vz.0,54798,54830,FRIEDRICH,friedrich,seiner,PPOSAT,sein,43178,,
@@ -1090,25 +1090,25 @@ qd,v3vz.0,54798,54830,FRIEDRICH,friedrich,boshaften,ADJA,boshaft,43178,,
 qd,v3vz.0,54798,54830,FRIEDRICH,friedrich,Art,NN,Art,43178,,
 qd,v3vz.0,54798,54830,FRIEDRICH,friedrich,.,$.,--,43178,,
 qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Frau,NN,frau,43178,,
-qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Adele,NE,adele,43178,,
+qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Paul,NE,paul,43178,,
-qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Kreindl,NE,kreindl,43178,,
+qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Paul,NE,paul,43178,,(7|(7)
+qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Kreindl,NE,kreindl,43178,,7)
 qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,mit,APPR,mit,43178,,
 qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Raketts,NN,rakett,43178,,
 qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,vom,APPRART,von,43178,,
 qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Tennisplatz,NN,tennisplatz,43178,,
 qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,.,$.,--,43178,,
-qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Genia,NE,genia,43178,,
+qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Otto,NE,otto,43178,,
+qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Frau,NN,frau,43178,,
-qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Wahl,NN,wahl,43178,,
+qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Frau,NN,frau,43178,,(2
+qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Erna,NE,erna,43178,,
+qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,.,$.,--,43178,,
 qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,Begrüßung,NN,begrüßung,43178,,
 qd,v3vz.0,55596,55701,FRIEDRICH,friedrich,.,$.,--,43178,,
@@ -1126,62 +1126,62 @@ qd,v3vz.0,55713,55775,ADELE,adele,roter,ADJA,rot,43178,,
 qd,v3vz.0,55713,55775,ADELE,adele,Schlips,NN,schlips,43178,,
 qd,v3vz.0,55713,55775,ADELE,adele,.,$.,--,43178,,
 qd,v3vz.0,55836,55860,PAUL,paul_kreindl,küßt,ADJD,küssen,43178,,
-qd,v3vz.0,55836,55860,PAUL,paul_kreindl,Frau,NN,frau,43178,,
-qd,v3vz.0,55836,55860,PAUL,paul_kreindl,Wahl,NN,wahl,43178,,
+qd,v3vz.0,55836,55860,PAUL,paul_kreindl,Frau,NN,frau,43178,,(2
+qd,v3vz.0,55836,55860,PAUL,paul_kreindl,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,55836,55860,PAUL,paul_kreindl,die,ART,der,43178,,
 qd,v3vz.0,55836,55860,PAUL,paul_kreindl,Hand,NN,hand,43178,,
 qd,v3vz.0,55836,55860,PAUL,paul_kreindl,.,$.,--,43178,,
 qd,v3vz.0,56781,56790,ADELE,adele,zu,PTKZU,zu,43178,,
-qd,v3vz.0,56781,56790,ADELE,adele,Genia,NE,genia,43178,,
+qd,v3vz.0,56781,56790,ADELE,adele,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,56781,56790,ADELE,adele,.,$.,--,43178,,
-qd,v3vz.0,57097,57155,ADELE,adele,Doktor,PROAV,doktor,43178,,
-qd,v3vz.0,57097,57155,ADELE,adele,Mauer,NN,mauer,43178,,
+qd,v3vz.0,57097,57155,ADELE,adele,Doktor,PROAV,doktor,43178,,(5
+qd,v3vz.0,57097,57155,ADELE,adele,Mauer,NN,mauer,43178,,5)|(5)
 qd,v3vz.0,57097,57155,ADELE,adele,kommt,VVFIN,kommen,43178,,
 qd,v3vz.0,57097,57155,ADELE,adele,",","$,",--,43178,,
 qd,v3vz.0,57097,57155,ADELE,adele,zugleich,ADV,zugleich,43178,,
 qd,v3vz.0,57097,57155,ADELE,adele,mit,APPR,mit,43178,,
 qd,v3vz.0,57097,57155,ADELE,adele,ihm,PPER,ihm,43178,,
-qd,v3vz.0,57097,57155,ADELE,adele,Stanzides,NN,stanzide,43178,,
+qd,v3vz.0,57097,57155,ADELE,adele,Stanzides,NN,stanzide,43178,,(10)
 qd,v3vz.0,57097,57155,ADELE,adele,in,APPR,in,43178,,
 qd,v3vz.0,57097,57155,ADELE,adele,Uniform,NN,uniform,43178,,
 qd,v3vz.0,57097,57155,ADELE,adele,.,$.,--,43178,,
 qd,v3vz.0,57158,57168,ADELE,adele,Begrüßung,NN,begrüßung,43178,,
 qd,v3vz.0,57158,57168,ADELE,adele,.,$.,--,43178,,
 qd,v3vz.0,57180,57193,GENIA,genia,zu,PTKZU,zu,43178,,
-qd,v3vz.0,57180,57193,GENIA,genia,Stanzides,VVINF,stanzide,43178,,
+qd,v3vz.0,57180,57193,GENIA,genia,Stanzides,VVINF,stanzide,43178,,(10)
 qd,v3vz.0,57180,57193,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,57557,57566,STANZIDES,stanzides,zu,APPR,zu,43178,,
-qd,v3vz.0,57557,57566,STANZIDES,stanzides,Adele,NE,adele,43178,,
+qd,v3vz.0,57557,57566,STANZIDES,stanzides,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,57557,57566,STANZIDES,stanzides,.,$.,--,43178,,
 qd,v3vz.0,58236,58245,ERNA,erna,zu,APPR,zu,43178,,
-qd,v3vz.0,58236,58245,ERNA,erna,Mauer,NN,mauer,43178,,
+qd,v3vz.0,58236,58245,ERNA,erna,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,58236,58245,ERNA,erna,.,$.,--,43178,,
 qd,v3vz.0,58394,58412,FRIEDRICH,friedrich,ehrlich,ADJD,ehrlich,43178,,
 qd,v3vz.0,58394,58412,FRIEDRICH,friedrich,entrüstet,VVPP,entrüsten,43178,,
 qd,v3vz.0,58394,58412,FRIEDRICH,friedrich,.,$.,--,43178,,
 qd,v3vz.0,59000,59006,PAUL,paul_kreindl,kommt,VVFIN,kommen,43178,,
 qd,v3vz.0,59000,59006,PAUL,paul_kreindl,.,$.,--,43178,,
-qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Erna,NE,erna,43178,,
+qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Adele,NE,adele,43178,,
+qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Otto,NE,otto,43178,,
+qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Paul,NE,paul,43178,,
+qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,zum,APPRART,zu,43178,,
 qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Tennis,NN,tennis,43178,,
 qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,.,$.,--,43178,,
-qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Frau,NN,frau,43178,,
-qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Wahl,NN,wahl,43178,,
+qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Frau,NN,frau,43178,,(2
+qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,und,KON,und,43178,,
-qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Stanzides,NN,stanzide,43178,,
+qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,Stanzides,NN,stanzide,43178,,(10)
 qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,folgen,VVFIN,folgen,43178,,
 qd,v3vz.0,59309,59387,FRIEDRICH,friedrich,.,$.,--,43178,,
-qd,v3vz.0,59390,59403,FRIEDRICH,friedrich,Genia,NE,genia,43178,,
+qd,v3vz.0,59390,59403,FRIEDRICH,friedrich,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,59390,59403,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,59390,59403,FRIEDRICH,friedrich,Mauer,NN,mauer,43178,,
+qd,v3vz.0,59390,59403,FRIEDRICH,friedrich,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,59390,59403,FRIEDRICH,friedrich,.,$.,--,43178,,
 qd,v3vz.0,59527,59543,MAUER,doktor_mauer,stehen,VVFIN,stehen,43178,,
 qd,v3vz.0,59527,59543,MAUER,doktor_mauer,bleibend,ADJD,bleibend,43178,,
@@ -1200,22 +1200,22 @@ qd,v3vz.0,62585,62591,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,63126,63211,GENIA,genia,Vom,APPRART,von,43178,,
 qd,v3vz.0,63126,63211,GENIA,genia,Tennisplatz,NN,tennisplatz,43178,,
 qd,v3vz.0,63126,63211,GENIA,genia,her,APZR,her,43178,,
-qd,v3vz.0,63126,63211,GENIA,genia,Otto,NE,otto,43178,,
+qd,v3vz.0,63126,63211,GENIA,genia,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,63126,63211,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,63126,63211,GENIA,genia,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,63126,63211,GENIA,genia,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,63126,63211,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,63126,63211,GENIA,genia,Adele,NE,adele,43178,,
+qd,v3vz.0,63126,63211,GENIA,genia,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,63126,63211,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,63126,63211,GENIA,genia,Stanzides,NN,stanzide,43178,,
+qd,v3vz.0,63126,63211,GENIA,genia,Stanzides,NN,stanzide,43178,,(10)
 qd,v3vz.0,63126,63211,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,63126,63211,GENIA,genia,Frau,NN,frau,43178,,
-qd,v3vz.0,63126,63211,GENIA,genia,Wahl,NN,wahl,43178,,
+qd,v3vz.0,63126,63211,GENIA,genia,Frau,NN,frau,43178,,(2
+qd,v3vz.0,63126,63211,GENIA,genia,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,63126,63211,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,63126,63211,GENIA,genia,Paul,NE,paul,43178,,
+qd,v3vz.0,63126,63211,GENIA,genia,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,63126,63211,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,63126,63211,GENIA,genia,Genia,NE,genia,43178,,
+qd,v3vz.0,63126,63211,GENIA,genia,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,63126,63211,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,63126,63211,GENIA,genia,Mauer,NN,mauer,43178,,
+qd,v3vz.0,63126,63211,GENIA,genia,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,63126,63211,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,63222,63255,PAUL,paul_kreindl,während,KOUS,während,43178,,
 qd,v3vz.0,63222,63255,PAUL,paul_kreindl,sie,PPER,sie,43178,,
@@ -1223,14 +1223,14 @@ qd,v3vz.0,63222,63255,PAUL,paul_kreindl,sich,PRF,sich,43178,,
 qd,v3vz.0,63222,63255,PAUL,paul_kreindl,nähern,VVFIN,nähern,43178,,
 qd,v3vz.0,63222,63255,PAUL,paul_kreindl,",","$,",--,43178,,
 qd,v3vz.0,63222,63255,PAUL,paul_kreindl,zu,PTKZU,zu,43178,,
-qd,v3vz.0,63222,63255,PAUL,paul_kreindl,Erna,NE,erna,43178,,
+qd,v3vz.0,63222,63255,PAUL,paul_kreindl,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,63222,63255,PAUL,paul_kreindl,.,$.,--,43178,,
 qd,v3vz.0,63551,63584,ERNA,erna,zu,APPR,zu,43178,,
 qd,v3vz.0,63551,63584,ERNA,erna,den,ART,der,43178,,
 qd,v3vz.0,63551,63584,ERNA,erna,andern,NN,anderer,43178,,
 qd,v3vz.0,63551,63584,ERNA,erna,",","$,",--,43178,,
 qd,v3vz.0,63551,63584,ERNA,erna,insbesondere,ADV,insbesondere,43178,,
-qd,v3vz.0,63551,63584,ERNA,erna,Paul,NE,paul,43178,,
+qd,v3vz.0,63551,63584,ERNA,erna,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,63551,63584,ERNA,erna,.,$.,--,43178,,
 qd,v3vz.0,63821,63831,FRIEDRICH,friedrich,beiläufig,ADJD,beiläufig,43178,,
 qd,v3vz.0,63821,63831,FRIEDRICH,friedrich,.,$.,--,43178,,
@@ -1242,20 +1242,20 @@ qd,v3vz.0,63931,63980,GENIA,genia,eine,ART,ein,43178,,
 qd,v3vz.0,63931,63980,GENIA,genia,Meldung,NN,meldung,43178,,
 qd,v3vz.0,63931,63980,GENIA,genia,erhielt,VVFIN,erhalten,43178,,
 qd,v3vz.0,63931,63980,GENIA,genia,.,$.,--,43178,,
-qd,v3vz.0,64101,64218,GENIA,genia,Frau,NN,frau,43178,,
-qd,v3vz.0,64101,64218,GENIA,genia,Wahl,NN,wahl,43178,,
+qd,v3vz.0,64101,64218,GENIA,genia,Frau,NN,frau,43178,,(2
+qd,v3vz.0,64101,64218,GENIA,genia,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,64101,64218,GENIA,genia,mit,APPR,mit,43178,,
-qd,v3vz.0,64101,64218,GENIA,genia,Stanzides,NN,stanzide,43178,,
+qd,v3vz.0,64101,64218,GENIA,genia,Stanzides,NN,stanzide,43178,,(10)
 qd,v3vz.0,64101,64218,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,64101,64218,GENIA,genia,Genia,NE,genia,43178,,
+qd,v3vz.0,64101,64218,GENIA,genia,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,64101,64218,GENIA,genia,mit,APPR,mit,43178,,
-qd,v3vz.0,64101,64218,GENIA,genia,Otto,NE,otto,43178,,
+qd,v3vz.0,64101,64218,GENIA,genia,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,64101,64218,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,64101,64218,GENIA,genia,Paul,NE,paul,43178,,
+qd,v3vz.0,64101,64218,GENIA,genia,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,64101,64218,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,64101,64218,GENIA,genia,Erna,NE,erna,43178,,
+qd,v3vz.0,64101,64218,GENIA,genia,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,64101,64218,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,64101,64218,GENIA,genia,Mauer,NN,mauer,43178,,
+qd,v3vz.0,64101,64218,GENIA,genia,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,64101,64218,GENIA,genia,im,APPRART,in,43178,,
 qd,v3vz.0,64101,64218,GENIA,genia,Haus,NN,haus,43178,,
 qd,v3vz.0,64101,64218,GENIA,genia,.,$.,--,43178,,
@@ -1264,16 +1264,16 @@ qd,v3vz.0,64101,64218,GENIA,genia,bleiben,VVFIN,bleiben,43178,,
 qd,v3vz.0,64101,64218,GENIA,genia,als,APPR,als,43178,,
 qd,v3vz.0,64101,64218,GENIA,genia,letzte,ADJA,letzter,43178,,
 qd,v3vz.0,64101,64218,GENIA,genia,zurück,ADV,zurück,43178,,
-qd,v3vz.0,64101,64218,GENIA,genia,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,64101,64218,GENIA,genia,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,64101,64218,GENIA,genia,und,KON,und,43178,,
-qd,v3vz.0,64101,64218,GENIA,genia,Adele,NE,adele,43178,,
+qd,v3vz.0,64101,64218,GENIA,genia,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,64101,64218,GENIA,genia,.,$.,--,43178,,
-qd,v3vz.0,64221,64238,GENIA,genia,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,64221,64238,GENIA,genia,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,64221,64238,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,64221,64238,GENIA,genia,Adele,NE,adele,43178,,
+qd,v3vz.0,64221,64238,GENIA,genia,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,64221,64238,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,64254,64302,FRIEDRICH,friedrich,zu,APPR,zu,43178,,
-qd,v3vz.0,64254,64302,FRIEDRICH,friedrich,Adele,NE,adele,43178,,
+qd,v3vz.0,64254,64302,FRIEDRICH,friedrich,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,64254,64302,FRIEDRICH,friedrich,",","$,",--,43178,,
 qd,v3vz.0,64254,64302,FRIEDRICH,friedrich,wie,PWAV,wie,43178,,
 qd,v3vz.0,64254,64302,FRIEDRICH,friedrich,sie,PPER,sie,43178,,
@@ -1300,9 +1300,9 @@ qd,v3vz.0,68027,68049,FRIEDRICH,friedrich,.,$.,--,43178,,
 qd,v3vz.0,68078,68094,ADELE,adele,sehr,ADV,sehr,43178,,
 qd,v3vz.0,68078,68094,ADELE,adele,freundlich,ADJD,freundlich,43178,,
 qd,v3vz.0,68078,68094,ADELE,adele,.,$.,--,43178,,
-qd,v3vz.0,68518,68567,HERR NATTER,natter,Mauer,NN,mauer,43178,,
+qd,v3vz.0,68518,68567,HERR NATTER,natter,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,68518,68567,HERR NATTER,natter,und,KON,und,43178,,
-qd,v3vz.0,68518,68567,HERR NATTER,natter,Erna,NE,erna,43178,,
+qd,v3vz.0,68518,68567,HERR NATTER,natter,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,68518,68567,HERR NATTER,natter,kommen,VVFIN,kommen,43178,,
 qd,v3vz.0,68518,68567,HERR NATTER,natter,aus,APPR,aus,43178,,
 qd,v3vz.0,68518,68567,HERR NATTER,natter,dem,ART,der,43178,,
@@ -1312,19 +1312,19 @@ qd,v3vz.0,68518,68567,HERR NATTER,natter,–,XY,–,43178,,
 qd,v3vz.0,68518,68567,HERR NATTER,natter,Begrüßung,NN,begrüßung,43178,,
 qd,v3vz.0,68518,68567,HERR NATTER,natter,.,$.,--,43178,,
 qd,v3vz.0,68578,68591,ERNA,erna,zu,APPR,zu,43178,,
-qd,v3vz.0,68578,68591,ERNA,erna,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,68578,68591,ERNA,erna,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,68578,68591,ERNA,erna,.,$.,--,43178,,
-qd,v3vz.0,69382,69415,HERR NATTER,natter,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,69382,69415,HERR NATTER,natter,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,69382,69415,HERR NATTER,natter,",","$,",--,43178,,
-qd,v3vz.0,69382,69415,HERR NATTER,natter,Adele,NE,adele,43178,,
+qd,v3vz.0,69382,69415,HERR NATTER,natter,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,69382,69415,HERR NATTER,natter,",","$,",--,43178,,
-qd,v3vz.0,69382,69415,HERR NATTER,natter,Natter,NN,natter,43178,,
+qd,v3vz.0,69382,69415,HERR NATTER,natter,Natter,NN,natter,43178,,(11)
 qd,v3vz.0,69382,69415,HERR NATTER,natter,im,APPRART,in,43178,,
 qd,v3vz.0,69382,69415,HERR NATTER,natter,Haus,NN,haus,43178,,
 qd,v3vz.0,69382,69415,HERR NATTER,natter,.,$.,--,43178,,
-qd,v3vz.0,69418,69459,HERR NATTER,natter,Mauer,NN,mauer,43178,,
+qd,v3vz.0,69418,69459,HERR NATTER,natter,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,69418,69459,HERR NATTER,natter,",","$,",--,43178,,
-qd,v3vz.0,69418,69459,HERR NATTER,natter,Erna,NE,erna,43178,,
+qd,v3vz.0,69418,69459,HERR NATTER,natter,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,69418,69459,HERR NATTER,natter,",","$,",--,43178,,
 qd,v3vz.0,69418,69459,HERR NATTER,natter,die,PRELS,der,43178,,
 qd,v3vz.0,69418,69459,HERR NATTER,natter,schon,ADV,schon,43178,,
@@ -1336,46 +1336,46 @@ qd,v3vz.0,73350,73468,ERNA,erna,Aus,APPR,aus,43178,,
 qd,v3vz.0,73350,73468,ERNA,erna,dem,ART,der,43178,,
 qd,v3vz.0,73350,73468,ERNA,erna,Hause,NN,haus,43178,,
 qd,v3vz.0,73350,73468,ERNA,erna,:,$.,--,43178,,
-qd,v3vz.0,73350,73468,ERNA,erna,Adele,NE,adele,43178,,
+qd,v3vz.0,73350,73468,ERNA,erna,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,73350,73468,ERNA,erna,",","$,",--,43178,,
-qd,v3vz.0,73350,73468,ERNA,erna,Natter,NN,natter,43178,,
+qd,v3vz.0,73350,73468,ERNA,erna,Natter,NN,natter,43178,,(11)
 qd,v3vz.0,73350,73468,ERNA,erna,",","$,",--,43178,,
-qd,v3vz.0,73350,73468,ERNA,erna,Stanzides,NN,stanzide,43178,,
+qd,v3vz.0,73350,73468,ERNA,erna,Stanzides,NN,stanzide,43178,,(10)
 qd,v3vz.0,73350,73468,ERNA,erna,",","$,",--,43178,,
 qd,v3vz.0,73350,73468,ERNA,erna,ihnen,PPER,ihnen,43178,,
 qd,v3vz.0,73350,73468,ERNA,erna,folgen,VVFIN,folgen,43178,,
 qd,v3vz.0,73350,73468,ERNA,erna,allmählich,ADJD,allmählich,43178,,
-qd,v3vz.0,73350,73468,ERNA,erna,Genia,NE,genia,43178,,
+qd,v3vz.0,73350,73468,ERNA,erna,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,73350,73468,ERNA,erna,",","$,",--,43178,,
-qd,v3vz.0,73350,73468,ERNA,erna,Otto,NE,otto,43178,,
+qd,v3vz.0,73350,73468,ERNA,erna,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,73350,73468,ERNA,erna,",","$,",--,43178,,
-qd,v3vz.0,73350,73468,ERNA,erna,Paul,NE,paul,43178,,
+qd,v3vz.0,73350,73468,ERNA,erna,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,73350,73468,ERNA,erna,",","$,",--,43178,,
-qd,v3vz.0,73350,73468,ERNA,erna,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,73350,73468,ERNA,erna,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,73350,73468,ERNA,erna,",","$,",--,43178,,
-qd,v3vz.0,73350,73468,ERNA,erna,Frau,NN,frau,43178,,
-qd,v3vz.0,73350,73468,ERNA,erna,Wahl,NN,wahl,43178,,
+qd,v3vz.0,73350,73468,ERNA,erna,Frau,NN,frau,43178,,(2
+qd,v3vz.0,73350,73468,ERNA,erna,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,73350,73468,ERNA,erna,",","$,",--,43178,,
-qd,v3vz.0,73350,73468,ERNA,erna,Mauer,NN,mauer,43178,,
+qd,v3vz.0,73350,73468,ERNA,erna,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,73350,73468,ERNA,erna,",","$,",--,43178,,
-qd,v3vz.0,73350,73468,ERNA,erna,Erna,NE,erna,43178,,
+qd,v3vz.0,73350,73468,ERNA,erna,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,73350,73468,ERNA,erna,.,$.,--,43178,,
 qd,v3vz.0,74329,74337,ADELE,adele,lachend,ADJD,lachend,43178,,
 qd,v3vz.0,74329,74337,ADELE,adele,.,$.,--,43178,,
-qd,v3vz.0,74783,74817,HERR NATTER,natter,Natter,NE,natter,43178,,
+qd,v3vz.0,74783,74817,HERR NATTER,natter,Natter,NE,natter,43178,,(11)
 qd,v3vz.0,74783,74817,HERR NATTER,natter,",","$,",--,43178,,
-qd,v3vz.0,74783,74817,HERR NATTER,natter,Adele,NE,adele,43178,,
+qd,v3vz.0,74783,74817,HERR NATTER,natter,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,74783,74817,HERR NATTER,natter,und,KON,und,43178,,
-qd,v3vz.0,74783,74817,HERR NATTER,natter,Stanzides,NN,stanzide,43178,,
+qd,v3vz.0,74783,74817,HERR NATTER,natter,Stanzides,NN,stanzide,43178,,(10)
 qd,v3vz.0,74783,74817,HERR NATTER,natter,gehen,VVINF,gehen,43178,,
 qd,v3vz.0,74783,74817,HERR NATTER,natter,.,$.,--,43178,,
 qd,v3vz.0,74828,74836,PAUL,paul_kreindl,zu,APPR,zu,43178,,
-qd,v3vz.0,74828,74836,PAUL,paul_kreindl,Otto,NE,otto,43178,,
+qd,v3vz.0,74828,74836,PAUL,paul_kreindl,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,74828,74836,PAUL,paul_kreindl,.,$.,--,43178,,
 qd,v3vz.0,75007,75031,PAUL,paul_kreindl,Spricht,NN,spricht,43178,,
 qd,v3vz.0,75007,75031,PAUL,paul_kreindl,weiter,ADV,weiter,43178,,
 qd,v3vz.0,75007,75031,PAUL,paul_kreindl,mit,APPR,mit,43178,,
-qd,v3vz.0,75007,75031,PAUL,paul_kreindl,Otto,NE,otto,43178,,
+qd,v3vz.0,75007,75031,PAUL,paul_kreindl,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,75007,75031,PAUL,paul_kreindl,.,$.,--,43178,,
 qd,v3vz.0,75043,75059,MAUER,doktor_mauer,sich,PRF,sich,43178,,
 qd,v3vz.0,75043,75059,MAUER,doktor_mauer,empfehlend,ADJD,empfehlend,43178,,
@@ -1384,14 +1384,14 @@ qd,v3vz.0,75781,75796,FRIEDRICH,friedrich,rasch,ADJD,rasch,43178,,
 qd,v3vz.0,75781,75796,FRIEDRICH,friedrich,ins,APPRART,in,43178,,
 qd,v3vz.0,75781,75796,FRIEDRICH,friedrich,Haus,NN,haus,43178,,
 qd,v3vz.0,75781,75796,FRIEDRICH,friedrich,.,$.,--,43178,,
-qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,Erna,NE,erna,43178,,
+qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,Paul,NE,paul,43178,,
+qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,Otto,NE,otto,43178,,
+qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,Frau,NN,frau,43178,,
-qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,Wahl,NN,wahl,43178,,
+qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,Frau,NN,frau,43178,,(2
+qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,stehen,VVFIN,stehen,43178,,
 qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,zusammen,PTKVZ,zusammen,43178,,
 qd,v3vz.0,75799,75843,FRIEDRICH,friedrich,.,$.,--,43178,,
@@ -1400,20 +1400,20 @@ qd,v3vz.0,75854,75877,ERNA,erna,manchmal,ADV,manchmal,43178,,
 qd,v3vz.0,75854,75877,ERNA,erna,hingehört,VVPP,hingehören,43178,,
 qd,v3vz.0,75854,75877,ERNA,erna,.,$.,--,43178,,
 qd,v3vz.0,75889,75910,GENIA,genia,sieht,VVFIN,sehen,43178,,
-qd,v3vz.0,75889,75910,GENIA,genia,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,75889,75910,GENIA,genia,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,75889,75910,GENIA,genia,nach,PTKVZ,nach,43178,,
 qd,v3vz.0,75889,75910,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,75971,75987,GENIA,genia,antwortet,VVFIN,antworten,43178,,
 qd,v3vz.0,75971,75987,GENIA,genia,nicht,PTKNEG,nicht,43178,,
 qd,v3vz.0,75971,75987,GENIA,genia,.,$.,--,43178,,
-qd,v3vz.0,76059,76109,PAUL,paul_kreindl,Erna,NE,erna,43178,,
+qd,v3vz.0,76059,76109,PAUL,paul_kreindl,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,76059,76109,PAUL,paul_kreindl,",","$,",--,43178,,
-qd,v3vz.0,76059,76109,PAUL,paul_kreindl,Otto,NE,otto,43178,,
+qd,v3vz.0,76059,76109,PAUL,paul_kreindl,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,76059,76109,PAUL,paul_kreindl,",","$,",--,43178,,
-qd,v3vz.0,76059,76109,PAUL,paul_kreindl,Paul,NE,paul,43178,,
+qd,v3vz.0,76059,76109,PAUL,paul_kreindl,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,76059,76109,PAUL,paul_kreindl,",","$,",--,43178,,
-qd,v3vz.0,76059,76109,PAUL,paul_kreindl,Frau,NN,frau,43178,,
-qd,v3vz.0,76059,76109,PAUL,paul_kreindl,Wahl,NN,wahl,43178,,
+qd,v3vz.0,76059,76109,PAUL,paul_kreindl,Frau,NN,frau,43178,,(2
+qd,v3vz.0,76059,76109,PAUL,paul_kreindl,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,76059,76109,PAUL,paul_kreindl,gegen,APPR,gegen,43178,,
 qd,v3vz.0,76059,76109,PAUL,paul_kreindl,den,ART,der,43178,,
 qd,v3vz.0,76059,76109,PAUL,paul_kreindl,Tennisplatz,NN,tennisplatz,43178,,
@@ -1438,14 +1438,14 @@ qd,v3vz.0,76160,76261,GENIA,genia,",","$,",--,43178,,
 qd,v3vz.0,76160,76261,GENIA,genia,da,ADV,da,43178,,
 qd,v3vz.0,76160,76261,GENIA,genia,tritt,VVFIN,treten,43178,,
 qd,v3vz.0,76160,76261,GENIA,genia,ihr,PPOSAT,ihr,43178,,
-qd,v3vz.0,76160,76261,GENIA,genia,Frau,NN,frau,43178,,
-qd,v3vz.0,76160,76261,GENIA,genia,Meinhold,NE,meinhold,43178,,
+qd,v3vz.0,76160,76261,GENIA,genia,Frau,NN,frau,43178,,(13
+qd,v3vz.0,76160,76261,GENIA,genia,Meinhold,NE,meinhold,43178,,13)
 qd,v3vz.0,76160,76261,GENIA,genia,entgegen,PTKVZ,entgegen,43178,,
 qd,v3vz.0,76160,76261,GENIA,genia,.,$.,--,43178,,
-qd,v3vz.0,76264,76285,GENIA,genia,Frau,NN,frau,43178,,
-qd,v3vz.0,76264,76285,GENIA,genia,Meinhold,NE,meinhold,43178,,
+qd,v3vz.0,76264,76285,GENIA,genia,Frau,NN,frau,43178,,(13
+qd,v3vz.0,76264,76285,GENIA,genia,Meinhold,NE,meinhold,43178,,13)
 qd,v3vz.0,76264,76285,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,76264,76285,GENIA,genia,Genia,NE,genia,43178,,
+qd,v3vz.0,76264,76285,GENIA,genia,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,76264,76285,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,76305,76394,FRAU MEINHOLD,frau_meinhold,etwa,ADV,etwa,43178,,
 qd,v3vz.0,76305,76394,FRAU MEINHOLD,frau_meinhold,vierundvierzig,ADJD,vierundvierzig,43178,,
@@ -1526,32 +1526,32 @@ qd,v3vz.0,84235,84277,FRIEDRICH,friedrich,montiert,VVPP,montieren,43178,,
 qd,v3vz.0,84235,84277,FRIEDRICH,friedrich,.,$.,--,43178,,
 qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,Vom,APPRART,von,43178,,
 qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,Tennisplatz,NN,tennisplatz,43178,,
-qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,Otto,NE,otto,43178,,
+qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,Paul,NE,paul,43178,,
+qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,Erna,NE,erna,43178,,
+qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,Frau,NN,frau,43178,,
-qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,Wahl,NN,wahl,43178,,
+qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,Frau,NN,frau,43178,,(2
+qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,Mauer,NN,mauer,43178,,
+qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,.,$.,--,43178,,
 qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,Begrüßung,NN,begrüßung,43178,,
 qd,v3vz.0,84541,84603,FRIEDRICH,friedrich,.,$.,--,43178,,
-qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Mauer,NN,mauer,43178,,
+qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,85116,85181,MAUER,doktor_mauer,",","$,",--,43178,,
-qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Erna,NE,erna,43178,,
+qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,85116,85181,MAUER,doktor_mauer,",","$,",--,43178,,
-qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Frau,NN,frau,43178,,
-qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Meinhold,NE,meinhold,43178,,
+qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Frau,NN,frau,43178,,(13
+qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Meinhold,NE,meinhold,43178,,13)
 qd,v3vz.0,85116,85181,MAUER,doktor_mauer,",","$,",--,43178,,
-qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Otto,NE,otto,43178,,
+qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,85116,85181,MAUER,doktor_mauer,",","$,",--,43178,,
-qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Frau,NN,frau,43178,,
-qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Wahl,NN,wahl,43178,,
+qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Frau,NN,frau,43178,,(2
+qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,85116,85181,MAUER,doktor_mauer,",","$,",--,43178,,
-qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Paul,NE,paul,43178,,
+qd,v3vz.0,85116,85181,MAUER,doktor_mauer,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,85116,85181,MAUER,doktor_mauer,entfernen,VVINF,entfernen,43178,,
 qd,v3vz.0,85116,85181,MAUER,doktor_mauer,sich,PRF,sich,43178,,
 qd,v3vz.0,85116,85181,MAUER,doktor_mauer,.,$.,--,43178,,
@@ -1615,7 +1615,7 @@ qd,v3vz.0,93093,93147,FRAU MEINHOLD,frau_meinhold,Verständigung,NN,verständigu
 qd,v3vz.0,93093,93147,FRAU MEINHOLD,frau_meinhold,gewechselt,VVPP,wechseln,43178,,
 qd,v3vz.0,93093,93147,FRAU MEINHOLD,frau_meinhold,.,$.,--,43178,,
 qd,v3vz.0,93158,93185,OTTO,otto,zu,PTKZU,zu,43178,,
-qd,v3vz.0,93158,93185,OTTO,otto,Genia,NE,genia,43178,,
+qd,v3vz.0,93158,93185,OTTO,otto,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,93158,93185,OTTO,otto,",","$,",--,43178,,
 qd,v3vz.0,93158,93185,OTTO,otto,Abschied,NN,abschied,43178,,
 qd,v3vz.0,93158,93185,OTTO,otto,nehmend,ADJD,nehmend,43178,,
@@ -1807,8 +1807,8 @@ qd,v3vz.0,94682,95118,_Stage,_Stage,.,$.,--,43178,,
 qd,v3vz.0,94682,95118,_Stage,_Stage,–,XY,–,43178,,
 qd,v3vz.0,94682,95118,_Stage,_Stage,Am,APPRART,an,43178,,
 qd,v3vz.0,94682,95118,_Stage,_Stage,Lift,NN,lift,43178,,
-qd,v3vz.0,94682,95118,_Stage,_Stage,ein,ART,ein,43178,,
-qd,v3vz.0,94682,95118,_Stage,_Stage,Boy,NN,boy,43178,,
+qd,v3vz.0,94682,95118,_Stage,_Stage,ein,ART,ein,43178,,(28
+qd,v3vz.0,94682,95118,_Stage,_Stage,Boy,NN,boy,43178,,28)
 qd,v3vz.0,94682,95118,_Stage,_Stage,.,$.,--,43178,,
 qd,v3vz.0,94682,95118,_Stage,_Stage,Hinter,APPR,hinter,43178,,
 qd,v3vz.0,94682,95118,_Stage,_Stage,dem,ART,der,43178,,
@@ -1817,7 +1817,7 @@ qd,v3vz.0,94682,95118,_Stage,_Stage,am,APPRART,an,43178,,
 qd,v3vz.0,94682,95118,_Stage,_Stage,Eingang,NN,eingang,43178,,
 qd,v3vz.0,94682,95118,_Stage,_Stage,der,ART,der,43178,,
 qd,v3vz.0,94682,95118,_Stage,_Stage,Portier,NN,portier,43178,,
-qd,v3vz.0,94682,95118,_Stage,_Stage,Rosenstock,NN,rosenstock,43178,,
+qd,v3vz.0,94682,95118,_Stage,_Stage,Rosenstock,NN,rosenstock,43178,,(14)
 qd,v3vz.0,94682,95118,_Stage,_Stage,",","$,",--,43178,,
 qd,v3vz.0,94682,95118,_Stage,_Stage,rotbäckiger,ADJA,rotbäckig,43178,,
 qd,v3vz.0,94682,95118,_Stage,_Stage,ziemlich,ADV,ziemlich,43178,,
@@ -1877,7 +1877,7 @@ qd,v3vz.0,95122,95549,_Stage,_Stage,dem,ART,der,43178,,
 qd,v3vz.0,95122,95549,_Stage,_Stage,Speisesaal,NN,speisesaal,43178,,
 qd,v3vz.0,95122,95549,_Stage,_Stage,zu,PTKVZ,zu,43178,,
 qd,v3vz.0,95122,95549,_Stage,_Stage,.,$.,--,43178,,
-qd,v3vz.0,95122,95549,_Stage,_Stage,Rosenstock,NN,rosenstock,43178,,
+qd,v3vz.0,95122,95549,_Stage,_Stage,Rosenstock,NN,rosenstock,43178,,(14)
 qd,v3vz.0,95122,95549,_Stage,_Stage,macht,VVFIN,machen,43178,,
 qd,v3vz.0,95122,95549,_Stage,_Stage,Notizen,NN,notiz,43178,,
 qd,v3vz.0,95122,95549,_Stage,_Stage,in,APPR,in,43178,,
@@ -1889,14 +1889,14 @@ qd,v3vz.0,95122,95549,_Stage,_Stage,Über,APPR,über,43178,,
 qd,v3vz.0,95122,95549,_Stage,_Stage,die,ART,der,43178,,
 qd,v3vz.0,95122,95549,_Stage,_Stage,Stiege,NN,stiege,43178,,
 qd,v3vz.0,95122,95549,_Stage,_Stage,.,$.,--,43178,,
-qd,v3vz.0,95122,95549,_Stage,_Stage,Doktor,NE,doktor,43178,,
-qd,v3vz.0,95122,95549,_Stage,_Stage,Meyer,NE,meyer,43178,,
+qd,v3vz.0,95122,95549,_Stage,_Stage,Doktor,NE,doktor,43178,,(19
+qd,v3vz.0,95122,95549,_Stage,_Stage,Meyer,NE,meyer,43178,,19)|(19)
 qd,v3vz.0,95122,95549,_Stage,_Stage,",","$,",--,43178,,
 qd,v3vz.0,95122,95549,_Stage,_Stage,kleiner,ADJA,klein,43178,,
 qd,v3vz.0,95122,95549,_Stage,_Stage,",","$,",--,43178,,
 qd,v3vz.0,95122,95549,_Stage,_Stage,etwas,ADV,etwas,43178,,
 qd,v3vz.0,95122,95549,_Stage,_Stage,schüchterner,ADJA,schüchtern,43178,,
-qd,v3vz.0,95122,95549,_Stage,_Stage,Herr,NN,herr,43178,,
+qd,v3vz.0,95122,95549,_Stage,_Stage,Herr,NN,herr,43178,,(18)
 qd,v3vz.0,95122,95549,_Stage,_Stage,in,APPR,in,43178,,
 qd,v3vz.0,95122,95549,_Stage,_Stage,nachlässigem,ADJA,nachlässig,43178,,
 qd,v3vz.0,95122,95549,_Stage,_Stage,Sommeranzug,NN,sommeranzug,43178,,
@@ -1934,8 +1934,8 @@ qd,v3vz.0,95637,95695,ROSENSTOCK,roseenstock,Überlegenheit,NN,überlegenheit,43
 qd,v3vz.0,95637,95695,ROSENSTOCK,roseenstock,.,$.,--,43178,,
 qd,v3vz.0,96141,96150,ROSENSTOCK,roseenstock,lächelnd,ADJD,lächelnd,43178,,
 qd,v3vz.0,96141,96150,ROSENSTOCK,roseenstock,.,$.,--,43178,,
-qd,v3vz.0,96866,96975,ROSENSTOCK,roseenstock,Doktor,NE,doktor,43178,,
-qd,v3vz.0,96866,96975,ROSENSTOCK,roseenstock,Meyer,NE,meyer,43178,,
+qd,v3vz.0,96866,96975,ROSENSTOCK,roseenstock,Doktor,NE,doktor,43178,,(19
+qd,v3vz.0,96866,96975,ROSENSTOCK,roseenstock,Meyer,NE,meyer,43178,,19)|(19)
 qd,v3vz.0,96866,96975,ROSENSTOCK,roseenstock,entfernt,VVFIN,entfernen,43178,,
 qd,v3vz.0,96866,96975,ROSENSTOCK,roseenstock,sich,PRF,sich,43178,,
 qd,v3vz.0,96866,96975,ROSENSTOCK,roseenstock,",","$,",--,43178,,
@@ -2016,7 +2016,7 @@ qd,v3vz.0,99014,99060,ZWEITER TOURIST,der_zweite_tourist,bald,ADV,bald,43178,,
 qd,v3vz.0,99014,99060,ZWEITER TOURIST,der_zweite_tourist,ein,PTKVZ,ein,43178,,
 qd,v3vz.0,99014,99060,ZWEITER TOURIST,der_zweite_tourist,.,$.,--,43178,,
 qd,v3vz.0,99081,99095,ERSTER TOURIST,erster_tourist,zu,PTKZU,zu,43178,,
-qd,v3vz.0,99081,99095,ERSTER TOURIST,erster_tourist,Rosenstock,VVINF,rosenstock,43178,,
+qd,v3vz.0,99081,99095,ERSTER TOURIST,erster_tourist,Rosenstock,VVINF,rosenstock,43178,,(14)
 qd,v3vz.0,99081,99095,ERSTER TOURIST,erster_tourist,.,$.,--,43178,,
 qd,v3vz.0,99238,99241,ERSTER TOURIST,erster_tourist,Ab,APPR,ab,43178,,
 qd,v3vz.0,99238,99241,ERSTER TOURIST,erster_tourist,.,$.,--,43178,,
@@ -2078,11 +2078,11 @@ qd,v3vz.0,101338,101351,PAUL,paul_kreindl,ihr,PPOSAT,ihr,43178,,
 qd,v3vz.0,101338,101351,PAUL,paul_kreindl,entgegen,PTKVZ,entgegen,43178,,
 qd,v3vz.0,101338,101351,PAUL,paul_kreindl,.,$.,--,43178,,
 qd,v3vz.0,101549,101557,FRAU WAHL,frau_wahl,zu,APPR,zu,43178,,
-qd,v3vz.0,101549,101557,FRAU WAHL,frau_wahl,Paul,NE,paul,43178,,
+qd,v3vz.0,101549,101557,FRAU WAHL,frau_wahl,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,101549,101557,FRAU WAHL,frau_wahl,.,$.,--,43178,,
 qd,v3vz.0,103462,103476,ROSENSTOCK,roseenstock,zur,APPRART,zu,43178,,
-qd,v3vz.0,103462,103476,ROSENSTOCK,roseenstock,Frau,NN,frau,43178,,
-qd,v3vz.0,103462,103476,ROSENSTOCK,roseenstock,Wahl,NN,wahl,43178,,
+qd,v3vz.0,103462,103476,ROSENSTOCK,roseenstock,Frau,NN,frau,43178,,(2
+qd,v3vz.0,103462,103476,ROSENSTOCK,roseenstock,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,103462,103476,ROSENSTOCK,roseenstock,.,$.,--,43178,,
 qd,v3vz.0,104522,104553,FRAU WAHL,frau_wahl,setzt,VVFIN,setzen,43178,,
 qd,v3vz.0,104522,104553,FRAU WAHL,frau_wahl,sich,PRF,sich,43178,,
@@ -2134,9 +2134,9 @@ qd,v3vz.0,106415,106438,DIE SPANIERIN,die_spanierin,",","$,",--,43178,,
 qd,v3vz.0,106415,106438,DIE SPANIERIN,die_spanierin,fährt,VVFIN,fahren,43178,,
 qd,v3vz.0,106415,106438,DIE SPANIERIN,die_spanierin,hinauf,ADV,hinauf,43178,,
 qd,v3vz.0,106415,106438,DIE SPANIERIN,die_spanierin,.,$.,--,43178,,
-qd,v3vz.0,106441,106653,DIE SPANIERIN,die_spanierin,Doktor,NN,doktor,43178,,
+qd,v3vz.0,106441,106653,DIE SPANIERIN,die_spanierin,Doktor,NN,doktor,43178,,(21
 qd,v3vz.0,106441,106653,DIE SPANIERIN,die_spanierin,von,APPR,von,43178,,
-qd,v3vz.0,106441,106653,DIE SPANIERIN,die_spanierin,Aigner,NE,aigner,43178,,
+qd,v3vz.0,106441,106653,DIE SPANIERIN,die_spanierin,Aigner,NE,aigner,43178,,21)|(21)
 qd,v3vz.0,106441,106653,DIE SPANIERIN,die_spanierin,",","$,",--,43178,,
 qd,v3vz.0,106441,106653,DIE SPANIERIN,die_spanierin,ein,ART,ein,43178,,
 qd,v3vz.0,106441,106653,DIE SPANIERIN,die_spanierin,Mann,NN,mann,43178,,
@@ -2194,7 +2194,7 @@ qd,v3vz.0,109091,109103,DOKTOR VON AIGNER,doktor_von_aigner,.,$.,--,43178,,
 qd,v3vz.0,111246,111370,ALBERT RHON,rhon,mittelgroßer,ADJA,mittelgroß,43178,,
 qd,v3vz.0,111246,111370,ALBERT RHON,rhon,",","$,",--,43178,,
 qd,v3vz.0,111246,111370,ALBERT RHON,rhon,dicker,ADJA,dick,43178,,
-qd,v3vz.0,111246,111370,ALBERT RHON,rhon,Herr,NN,herr,43178,,
+qd,v3vz.0,111246,111370,ALBERT RHON,rhon,Herr,NN,herr,43178,,(18)
 qd,v3vz.0,111246,111370,ALBERT RHON,rhon,",","$,",--,43178,,
 qd,v3vz.0,111246,111370,ALBERT RHON,rhon,mit,APPR,mit,43178,,
 qd,v3vz.0,111246,111370,ALBERT RHON,rhon,schwarzem,ADJA,schwarz,43178,,
@@ -2218,15 +2218,15 @@ qd,v3vz.0,111665,111717,EINE SEHR SCHÖNE ENGLÄNDERIN,eine_sehr_schöne_englän
 qd,v3vz.0,111665,111717,EINE SEHR SCHÖNE ENGLÄNDERIN,eine_sehr_schöne_engländerin,Nähe,NN,nähe,43178,,
 qd,v3vz.0,111665,111717,EINE SEHR SCHÖNE ENGLÄNDERIN,eine_sehr_schöne_engländerin,",","$,",--,43178,,
 qd,v3vz.0,111665,111717,EINE SEHR SCHÖNE ENGLÄNDERIN,eine_sehr_schöne_engländerin,zu,APPR,zu,43178,,
-qd,v3vz.0,111665,111717,EINE SEHR SCHÖNE ENGLÄNDERIN,eine_sehr_schöne_engländerin,Aigner,NE,aigner,43178,,
+qd,v3vz.0,111665,111717,EINE SEHR SCHÖNE ENGLÄNDERIN,eine_sehr_schöne_engländerin,Aigner,NE,aigner,43178,,(21)
 qd,v3vz.0,111665,111717,EINE SEHR SCHÖNE ENGLÄNDERIN,eine_sehr_schöne_engländerin,",","$,",--,43178,,
 qd,v3vz.0,111665,111717,EINE SEHR SCHÖNE ENGLÄNDERIN,eine_sehr_schöne_engländerin,mit,APPR,mit,43178,,
 qd,v3vz.0,111665,111717,EINE SEHR SCHÖNE ENGLÄNDERIN,eine_sehr_schöne_engländerin,englischem,ADJA,englisch,43178,,
 qd,v3vz.0,111665,111717,EINE SEHR SCHÖNE ENGLÄNDERIN,eine_sehr_schöne_engländerin,Akzent,NN,akzent,43178,,
 qd,v3vz.0,111665,111717,EINE SEHR SCHÖNE ENGLÄNDERIN,eine_sehr_schöne_engländerin,.,$.,--,43178,,
 qd,v3vz.0,111833,111847,ALBERT RHON,rhon,zur,APPRART,zu,43178,,
-qd,v3vz.0,111833,111847,ALBERT RHON,rhon,Frau,NN,frau,43178,,
-qd,v3vz.0,111833,111847,ALBERT RHON,rhon,Wahl,NN,wahl,43178,,
+qd,v3vz.0,111833,111847,ALBERT RHON,rhon,Frau,NN,frau,43178,,(2
+qd,v3vz.0,111833,111847,ALBERT RHON,rhon,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,111833,111847,ALBERT RHON,rhon,.,$.,--,43178,,
 qd,v3vz.0,113092,113118,DOKTOR VON AIGNER,doktor_von_aigner,ist,VAFIN,sein,43178,,
 qd,v3vz.0,113092,113118,DOKTOR VON AIGNER,doktor_von_aigner,wieder,ADV,wieder,43178,,
@@ -2281,12 +2281,12 @@ qd,v3vz.0,116908,116938,ALBERT RHON,rhon,dem,ART,der,43178,,
 qd,v3vz.0,116908,116938,ALBERT RHON,rhon,Boy,NN,boy,43178,,
 qd,v3vz.0,116908,116938,ALBERT RHON,rhon,.,$.,--,43178,,
 qd,v3vz.0,116949,116974,ALBERT RHON,rhon,zieht,VVFIN,ziehen,43178,,
-qd,v3vz.0,116949,116974,ALBERT RHON,rhon,Frau,NN,frau,43178,,
-qd,v3vz.0,116949,116974,ALBERT RHON,rhon,Wahl,NN,wahl,43178,,
+qd,v3vz.0,116949,116974,ALBERT RHON,rhon,Frau,NN,frau,43178,,(2
+qd,v3vz.0,116949,116974,ALBERT RHON,rhon,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,116949,116974,ALBERT RHON,rhon,beiseite,ADV,beiseite,43178,,
 qd,v3vz.0,116949,116974,ALBERT RHON,rhon,.,$.,--,43178,,
 qd,v3vz.0,117251,117259,DOKTOR VON AIGNER,doktor_von_aigner,zu,PTKZU,zu,43178,,
-qd,v3vz.0,117251,117259,DOKTOR VON AIGNER,doktor_von_aigner,Penn,VVINF,penn,43178,,
+qd,v3vz.0,117251,117259,DOKTOR VON AIGNER,doktor_von_aigner,Penn,VVINF,penn,43178,,(25)
 qd,v3vz.0,117251,117259,DOKTOR VON AIGNER,doktor_von_aigner,.,$.,--,43178,,
 qd,v3vz.0,117934,118001,MEYER,doktor_meyer,mit,APPR,mit,43178,,
 qd,v3vz.0,117934,118001,MEYER,doktor_meyer,der,ART,der,43178,,
@@ -2320,12 +2320,12 @@ qd,v3vz.0,118146,118282,GUSTL WAHL,gustl_wahl,.,$.,--,43178,,
 qd,v3vz.0,120611,120617,FRAU ROHN,frau_rhon,kommt,VVFIN,kommen,43178,,
 qd,v3vz.0,120611,120617,FRAU ROHN,frau_rhon,.,$.,--,43178,,
 qd,v3vz.0,120721,120731,GUSTL WAHL,gustl_wahl,zu,APPR,zu,43178,,
-qd,v3vz.0,120721,120731,GUSTL WAHL,gustl_wahl,Aigner,NE,aigner,43178,,
+qd,v3vz.0,120721,120731,GUSTL WAHL,gustl_wahl,Aigner,NE,aigner,43178,,(21)
 qd,v3vz.0,120721,120731,GUSTL WAHL,gustl_wahl,.,$.,--,43178,,
 qd,v3vz.0,120956,120961,ALBERT RHON,rhon,kühl,ADJD,kühl,43178,,
 qd,v3vz.0,120956,120961,ALBERT RHON,rhon,.,$.,--,43178,,
 qd,v3vz.0,122087,122095,FRAU ROHN,frau_rhon,zu,PTKZU,zu,43178,,
-qd,v3vz.0,122087,122095,FRAU ROHN,frau_rhon,Rhon,VVINF,rhon,43178,,
+qd,v3vz.0,122087,122095,FRAU ROHN,frau_rhon,Rhon,VVINF,rhon,43178,,(23)
 qd,v3vz.0,122087,122095,FRAU ROHN,frau_rhon,.,$.,--,43178,,
 qd,v3vz.0,123056,123096,FRIEDRICH,friedrich,kommt,VVFIN,kommen,43178,,
 qd,v3vz.0,123056,123096,FRIEDRICH,friedrich,in,APPR,in,43178,,
@@ -2354,14 +2354,14 @@ qd,v3vz.0,125066,125088,FRIEDRICH,friedrich,.,$.,--,43178,,
 qd,v3vz.0,125657,125663,DOKTOR VON AIGNER,doktor_von_aigner,ruhig,ADJD,ruhig,43178,,
 qd,v3vz.0,125657,125663,DOKTOR VON AIGNER,doktor_von_aigner,.,$.,--,43178,,
 qd,v3vz.0,126673,126681,PAUL,paul_kreindl,zu,PTKZU,zu,43178,,
-qd,v3vz.0,126673,126681,PAUL,paul_kreindl,Rhon,VVINF,rhon,43178,,
+qd,v3vz.0,126673,126681,PAUL,paul_kreindl,Rhon,VVINF,rhon,43178,,(23)
 qd,v3vz.0,126673,126681,PAUL,paul_kreindl,.,$.,--,43178,,
 qd,v3vz.0,126809,126821,ALBERT RHON,rhon,folgt,VVFIN,folgen,43178,,
 qd,v3vz.0,126809,126821,ALBERT RHON,rhon,ihnen,PPER,ihnen,43178,,
 qd,v3vz.0,126809,126821,ALBERT RHON,rhon,.,$.,--,43178,,
-qd,v3vz.0,126824,126842,ALBERT RHON,rhon,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,126824,126842,ALBERT RHON,rhon,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,126824,126842,ALBERT RHON,rhon,",","$,",--,43178,,
-qd,v3vz.0,126824,126842,ALBERT RHON,rhon,Aigner,NE,aigner,43178,,
+qd,v3vz.0,126824,126842,ALBERT RHON,rhon,Aigner,NE,aigner,43178,,(21)
 qd,v3vz.0,126824,126842,ALBERT RHON,rhon,.,$.,--,43178,,
 qd,v3vz.0,126858,126903,FRIEDRICH,friedrich,zündet,VVFIN,zünden,43178,,
 qd,v3vz.0,126858,126903,FRIEDRICH,friedrich,sich,PRF,sich,43178,,
@@ -2386,7 +2386,7 @@ qd,v3vz.0,134151,134179,ERNA,erna,weißen,ADJA,weiß,43178,,
 qd,v3vz.0,134151,134179,ERNA,erna,Sommerkleid,NN,sommerkleid,43178,,
 qd,v3vz.0,134151,134179,ERNA,erna,.,$.,--,43178,,
 qd,v3vz.0,134393,134414,ERNA,erna,küßt,VVFIN,küssen,43178,,
-qd,v3vz.0,134393,134414,ERNA,erna,Aigner,NE,aigner,43178,,
+qd,v3vz.0,134393,134414,ERNA,erna,Aigner,NE,aigner,43178,,(21)
 qd,v3vz.0,134393,134414,ERNA,erna,die,ART,der,43178,,
 qd,v3vz.0,134393,134414,ERNA,erna,Hand,NN,hand,43178,,
 qd,v3vz.0,134393,134414,ERNA,erna,.,$.,--,43178,,
@@ -2396,7 +2396,7 @@ qd,v3vz.0,135042,135149,ERNA,erna,die,ART,der,43178,,
 qd,v3vz.0,135042,135149,ERNA,erna,Pott,NN,pott,43178,,
 qd,v3vz.0,135042,135149,ERNA,erna,angelangt,VVPP,anlangen,43178,,
 qd,v3vz.0,135042,135149,ERNA,erna,.,$.,--,43178,,
-qd,v3vz.0,135042,135149,ERNA,erna,Rosenstock,NN,rosenstock,43178,,
+qd,v3vz.0,135042,135149,ERNA,erna,Rosenstock,NN,rosenstock,43178,,(14)
 qd,v3vz.0,135042,135149,ERNA,erna,ordnet,VVFIN,ordnen,43178,,
 qd,v3vz.0,135042,135149,ERNA,erna,Briefe,NN,brief,43178,,
 qd,v3vz.0,135042,135149,ERNA,erna,Hotelgäste,NN,hotelgast,43178,,
@@ -2419,16 +2419,16 @@ qd,v3vz.0,135483,135531,DOKTOR VON AIGNER,doktor_von_aigner,etwas,ADV,etwas,4317
 qd,v3vz.0,135483,135531,DOKTOR VON AIGNER,doktor_von_aigner,abseits,ADV,abseits,43178,,
 qd,v3vz.0,135483,135531,DOKTOR VON AIGNER,doktor_von_aigner,.,$.,--,43178,,
 qd,v3vz.0,135542,135555,ALBERT RHON,rhon,zu,APPR,zu,43178,,
-qd,v3vz.0,135542,135555,ALBERT RHON,rhon,Frau,NN,frau,43178,,
-qd,v3vz.0,135542,135555,ALBERT RHON,rhon,Wahl,NN,wahl,43178,,
+qd,v3vz.0,135542,135555,ALBERT RHON,rhon,Frau,NN,frau,43178,,(2
+qd,v3vz.0,135542,135555,ALBERT RHON,rhon,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,135542,135555,ALBERT RHON,rhon,.,$.,--,43178,,
 qd,v3vz.0,135642,135708,ERNA,erna,zu,APPR,zu,43178,,
-qd,v3vz.0,135642,135708,ERNA,erna,Frau,NN,frau,43178,,
-qd,v3vz.0,135642,135708,ERNA,erna,Wahl,NN,wahl,43178,,
+qd,v3vz.0,135642,135708,ERNA,erna,Frau,NN,frau,43178,,(2
+qd,v3vz.0,135642,135708,ERNA,erna,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,135642,135708,ERNA,erna,die,ART,der,43178,,
 qd,v3vz.0,135642,135708,ERNA,erna,sich,PRF,sich,43178,,
 qd,v3vz.0,135642,135708,ERNA,erna,von,APPR,von,43178,,
-qd,v3vz.0,135642,135708,ERNA,erna,Rosenstock,NN,rosenstock,43178,,
+qd,v3vz.0,135642,135708,ERNA,erna,Rosenstock,NN,rosenstock,43178,,(14)
 qd,v3vz.0,135642,135708,ERNA,erna,ihre,PPOSAT,ihr,43178,,
 qd,v3vz.0,135642,135708,ERNA,erna,Briefe,NN,brief,43178,,
 qd,v3vz.0,135642,135708,ERNA,erna,hat,VAFIN,haben,43178,,
@@ -2446,10 +2446,10 @@ qd,v3vz.0,136040,136072,GUSTL WAHL,gustl_wahl,die,ART,der,43178,,
 qd,v3vz.0,136040,136072,GUSTL WAHL,gustl_wahl,Stirne,NN,stirne,43178,,
 qd,v3vz.0,136040,136072,GUSTL WAHL,gustl_wahl,.,$.,--,43178,,
 qd,v3vz.0,136088,136097,FRAU ROHN,frau_rhon,zu,APPR,zu,43178,,
-qd,v3vz.0,136088,136097,FRAU ROHN,frau_rhon,Gustl,NE,gustl,43178,,
+qd,v3vz.0,136088,136097,FRAU ROHN,frau_rhon,Gustl,NE,gustl,43178,,(26)
 qd,v3vz.0,136088,136097,FRAU ROHN,frau_rhon,.,$.,--,43178,,
 qd,v3vz.0,136265,136278,FRAU WAHL,frau_wahl,zu,APPR,zu,43178,,
-qd,v3vz.0,136265,136278,FRAU WAHL,frau_wahl,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,136265,136278,FRAU WAHL,frau_wahl,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,136265,136278,FRAU WAHL,frau_wahl,.,$.,--,43178,,
 qd,v3vz.0,136518,136554,ALBERT RHON,rhon,sitzt,VVFIN,sitzen,43178,,
 qd,v3vz.0,136518,136554,ALBERT RHON,rhon,und,KON,und,43178,,
@@ -2472,7 +2472,7 @@ qd,v3vz.0,137175,137188,DOKTOR VON AIGNER,doktor_von_aigner,.,$.,--,43178,,
 qd,v3vz.0,137638,137644,DOKTOR VON AIGNER,doktor_von_aigner,lacht,VVFIN,lachen,43178,,
 qd,v3vz.0,137638,137644,DOKTOR VON AIGNER,doktor_von_aigner,.,$.,--,43178,,
 qd,v3vz.0,138458,138487,EIN BOY,ein_boy,bringt,VVFIN,bringen,43178,,
-qd,v3vz.0,138458,138487,EIN BOY,ein_boy,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,138458,138487,EIN BOY,ein_boy,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,138458,138487,EIN BOY,ein_boy,einen,ART,ein,43178,,
 qd,v3vz.0,138458,138487,EIN BOY,ein_boy,Brief,NN,brief,43178,,
 qd,v3vz.0,138458,138487,EIN BOY,ein_boy,.,$.,--,43178,,
@@ -2498,24 +2498,24 @@ qd,v3vz.0,138695,138727,GUSTL WAHL,gustl_wahl,einen,PIS,ein,43178,,
 qd,v3vz.0,138695,138727,GUSTL WAHL,gustl_wahl,seiner,PPOSAT,sein,43178,,
 qd,v3vz.0,138695,138727,GUSTL WAHL,gustl_wahl,Briefe,NN,brief,43178,,
 qd,v3vz.0,138695,138727,GUSTL WAHL,gustl_wahl,.,$.,--,43178,,
-qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,Frau,NN,frau,43178,,
-qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,Rhon,NE,rhon,43178,,
+qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,Frau,NN,frau,43178,,(27
+qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,Rhon,NE,rhon,43178,,27)|(23)
 qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,und,KON,und,43178,,
-qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,Gustl,NE,gustl,43178,,
+qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,Gustl,NE,gustl,43178,,(26)
 qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,nach,APPR,nach,43178,,
 qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,rückwärts,ADV,rückwärts,43178,,
 qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,",","$,",--,43178,,
 qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,dann,ADV,dann,43178,,
 qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,ab,PTKVZ,ab,43178,,
 qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,.,$.,--,43178,,
-qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,Aigner,NE,aigner,43178,,
+qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,Aigner,NE,aigner,43178,,(21)
 qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,zu,PTKZU,zu,43178,,
-qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,Rosenstock,VVINF,rosenstock,43178,,
+qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,Rosenstock,VVINF,rosenstock,43178,,(14)
 qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,",","$,",--,43178,,
 qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,dann,ADV,dann,43178,,
 qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,ab,PTKVZ,ab,43178,,
 qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,.,$.,--,43178,,
-qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,Rhon,NE,rhon,43178,,
+qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,Rhon,NE,rhon,43178,,(23)
 qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,entfernt,VVFIN,entfernen,43178,,
 qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,sich,PRF,sich,43178,,
 qd,v3vz.0,138867,139014,GUSTL WAHL,gustl_wahl,gleichfalls,ADV,gleichfalls,43178,,
@@ -2594,7 +2594,7 @@ qd,v3vz.0,146341,146388,SERKNITZ,serknitz,weißer,ADJD,weiß,43178,,
 qd,v3vz.0,146341,146388,SERKNITZ,serknitz,Krawatte,NN,krawatte,43178,,
 qd,v3vz.0,146341,146388,SERKNITZ,serknitz,",","$,",--,43178,,
 qd,v3vz.0,146341,146388,SERKNITZ,serknitz,zu,APPR,zu,43178,,
-qd,v3vz.0,146341,146388,SERKNITZ,serknitz,Aigner,NE,aigner,43178,,
+qd,v3vz.0,146341,146388,SERKNITZ,serknitz,Aigner,NE,aigner,43178,,(21)
 qd,v3vz.0,146341,146388,SERKNITZ,serknitz,hin,PTKVZ,hin,43178,,
 qd,v3vz.0,146341,146388,SERKNITZ,serknitz,.,$.,--,43178,,
 qd,v3vz.0,146663,146681,SERKNITZ,serknitz,in,APPR,in,43178,,
@@ -2605,14 +2605,14 @@ qd,v3vz.0,146708,146720,FRAU WAHL,frau_wahl,gleichfalls,ADV,gleichfalls,43178,,
 qd,v3vz.0,146708,146720,FRAU WAHL,frau_wahl,.,$.,--,43178,,
 qd,v3vz.0,146708,146720,DOKTOR VON AIGNER,doktor_von_aigner,gleichfalls,ADV,gleichfalls,43178,,
 qd,v3vz.0,146708,146720,DOKTOR VON AIGNER,doktor_von_aigner,.,$.,--,43178,,
-qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,Frau,NN,frau,43178,,
-qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,Rhon,NE,rhon,43178,,
+qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,Frau,NN,frau,43178,,(27
+qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,Rhon,NE,rhon,43178,,27)|(23)
 qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,und,KON,und,43178,,
-qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,Gustl,NE,gustl,43178,,
+qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,Gustl,NE,gustl,43178,,(26)
 qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,",","$,",--,43178,,
-qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,Rhon,NN,rhon,43178,,
+qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,Rhon,NN,rhon,43178,,(23)
 qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,",","$,",--,43178,,
-qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,Meyer,NE,meyer,43178,,
+qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,Meyer,NE,meyer,43178,,(19)
 qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,",","$,",--,43178,,
 qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,verschiedene,ADJA,verschieden,43178,,
 qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,andere,ADJA,anderer,43178,,
@@ -2627,14 +2627,14 @@ qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,in,APPR,in,43178,,
 qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,den,ART,der,43178,,
 qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,Speisesaal,NN,speisesaal,43178,,
 qd,v3vz.0,146723,146831,FRAU WAHL,frau_wahl,.,$.,--,43178,,
-qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,Frau,NN,frau,43178,,
-qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,Rhon,NE,rhon,43178,,
+qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,Frau,NN,frau,43178,,(27
+qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,Rhon,NE,rhon,43178,,27)|(23)
 qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,und,KON,und,43178,,
-qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,Gustl,NE,gustl,43178,,
+qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,Gustl,NE,gustl,43178,,(26)
 qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,",","$,",--,43178,,
-qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,Rhon,NN,rhon,43178,,
+qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,Rhon,NN,rhon,43178,,(23)
 qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,",","$,",--,43178,,
-qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,Meyer,NE,meyer,43178,,
+qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,Meyer,NE,meyer,43178,,(19)
 qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,",","$,",--,43178,,
 qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,verschiedene,ADJA,verschieden,43178,,
 qd,v3vz.0,146723,146831,DOKTOR VON AIGNER,doktor_von_aigner,andere,ADJA,anderer,43178,,
@@ -2685,10 +2685,10 @@ qd,v3vz.0,147719,147878,_Stage,_Stage,dem,ART,der,43178,,
 qd,v3vz.0,147719,147878,_Stage,_Stage,Nußbaum,NN,nußbaum,43178,,
 qd,v3vz.0,147719,147878,_Stage,_Stage,die,ART,der,43178,,
 qd,v3vz.0,147719,147878,_Stage,_Stage,zwei,CARD,zwei,43178,,
-qd,v3vz.0,147719,147878,_Stage,_Stage,Kinder,NN,kind,43178,,
+qd,v3vz.0,147719,147878,_Stage,_Stage,Kinder,NN,kind,43178,,(29)
 qd,v3vz.0,147719,147878,_Stage,_Stage,der,ART,der,43178,,
 qd,v3vz.0,147719,147878,_Stage,_Stage,Frau,NN,frau,43178,,
-qd,v3vz.0,147719,147878,_Stage,_Stage,Natter,NE,natter,43178,,
+qd,v3vz.0,147719,147878,_Stage,_Stage,Natter,NE,natter,43178,,(11)
 qd,v3vz.0,147719,147878,_Stage,_Stage,",","$,",--,43178,,
 qd,v3vz.0,147719,147878,_Stage,_Stage,ein,ART,ein,43178,,
 qd,v3vz.0,147719,147878,_Stage,_Stage,neunjähriges,ADJA,neunjährig,43178,,
@@ -2718,27 +2718,27 @@ qd,v3vz.0,147881,148004,_Stage,_Stage,kommen,VVFIN,kommen,43178,,
 qd,v3vz.0,147881,148004,_Stage,_Stage,nach,APPR,nach,43178,,
 qd,v3vz.0,147881,148004,_Stage,_Stage,und,KON,und,43178,,
 qd,v3vz.0,147881,148004,_Stage,_Stage,nach,APPR,nach,43178,,
-qd,v3vz.0,147881,148004,_Stage,_Stage,Genia,NE,genia,43178,,
+qd,v3vz.0,147881,148004,_Stage,_Stage,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,147881,148004,_Stage,_Stage,",","$,",--,43178,,
-qd,v3vz.0,147881,148004,_Stage,_Stage,Natter,NN,natter,43178,,
+qd,v3vz.0,147881,148004,_Stage,_Stage,Natter,NN,natter,43178,,(11)
 qd,v3vz.0,147881,148004,_Stage,_Stage,",","$,",--,43178,,
-qd,v3vz.0,147881,148004,_Stage,_Stage,Frau,NN,frau,43178,,
-qd,v3vz.0,147881,148004,_Stage,_Stage,Wahl,NN,wahl,43178,,
+qd,v3vz.0,147881,148004,_Stage,_Stage,Frau,NN,frau,43178,,(2
+qd,v3vz.0,147881,148004,_Stage,_Stage,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,147881,148004,_Stage,_Stage,",","$,",--,43178,,
 qd,v3vz.0,147881,148004,_Stage,_Stage,Demeter,NE,demeter,43178,,
-qd,v3vz.0,147881,148004,_Stage,_Stage,Stanzides,NE,stanzide,43178,,
+qd,v3vz.0,147881,148004,_Stage,_Stage,Stanzides,NE,stanzide,43178,,(10)
 qd,v3vz.0,147881,148004,_Stage,_Stage,",","$,",--,43178,,
-qd,v3vz.0,147881,148004,_Stage,_Stage,Gustl,NE,gustl,43178,,
+qd,v3vz.0,147881,148004,_Stage,_Stage,Gustl,NE,gustl,43178,,(26)
 qd,v3vz.0,147881,148004,_Stage,_Stage,",","$,",--,43178,,
-qd,v3vz.0,147881,148004,_Stage,_Stage,Paul,NE,paul,43178,,
+qd,v3vz.0,147881,148004,_Stage,_Stage,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,147881,148004,_Stage,_Stage,",","$,",--,43178,,
-qd,v3vz.0,147881,148004,_Stage,_Stage,Erna,NE,erna,43178,,
+qd,v3vz.0,147881,148004,_Stage,_Stage,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,147881,148004,_Stage,_Stage,",","$,",--,43178,,
-qd,v3vz.0,147881,148004,_Stage,_Stage,Otto,NE,otto,43178,,
+qd,v3vz.0,147881,148004,_Stage,_Stage,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,147881,148004,_Stage,_Stage,",","$,",--,43178,,
 qd,v3vz.0,147881,148004,_Stage,_Stage,Frau,NN,frau,43178,,
-qd,v3vz.0,147881,148004,_Stage,_Stage,Adele,NE,adele,43178,,
-qd,v3vz.0,147881,148004,_Stage,_Stage,Natter,NE,natter,43178,,
+qd,v3vz.0,147881,148004,_Stage,_Stage,Adele,NE,adele,43178,,(9)
+qd,v3vz.0,147881,148004,_Stage,_Stage,Natter,NE,natter,43178,,(11)
 qd,v3vz.0,147881,148004,_Stage,_Stage,.,$.,--,43178,,
 qd,v3vz.0,150315,150347,ADELE,adele,Das,ART,der,43178,,
 qd,v3vz.0,150315,150347,ADELE,adele,Fräulein,NN,fräulein,43178,,
@@ -2748,7 +2748,7 @@ qd,v3vz.0,150315,150347,ADELE,adele,Kindern,NN,kind,43178,,
 qd,v3vz.0,150315,150347,ADELE,adele,ab,PTKVZ,ab,43178,,
 qd,v3vz.0,150315,150347,ADELE,adele,.,$.,--,43178,,
 qd,v3vz.0,150350,150622,ADELE,adele,Demeter,NE,demeter,43178,,
-qd,v3vz.0,150350,150622,ADELE,adele,Stanzides,NE,stanzides,43178,,
+qd,v3vz.0,150350,150622,ADELE,adele,Stanzides,NE,stanzides,43178,,(10)
 qd,v3vz.0,150350,150622,ADELE,adele,hat,VAFIN,haben,43178,,
 qd,v3vz.0,150350,150622,ADELE,adele,sich,PRF,sich,43178,,
 qd,v3vz.0,150350,150622,ADELE,adele,auf,APPR,auf,43178,,
@@ -2777,7 +2777,7 @@ qd,v3vz.0,150350,150622,ADELE,adele,links,ADV,links,43178,,
 qd,v3vz.0,150350,150622,ADELE,adele,nach,APPR,nach,43178,,
 qd,v3vz.0,150350,150622,ADELE,adele,rechts,ADV,rechts,43178,,
 qd,v3vz.0,150350,150622,ADELE,adele,:,$.,--,43178,,
-qd,v3vz.0,150350,150622,ADELE,adele,Stanzides,NN,stanzide,43178,,
+qd,v3vz.0,150350,150622,ADELE,adele,Stanzides,NN,stanzide,43178,,(10)
 qd,v3vz.0,150350,150622,ADELE,adele,links,ADV,links,43178,,
 qd,v3vz.0,150350,150622,ADELE,adele,auf,APPR,auf,43178,,
 qd,v3vz.0,150350,150622,ADELE,adele,der,ART,der,43178,,
@@ -2786,23 +2786,23 @@ qd,v3vz.0,150350,150622,ADELE,adele,.,$.,--,43178,,
 qd,v3vz.0,150350,150622,ADELE,adele,In,APPR,in,43178,,
 qd,v3vz.0,150350,150622,ADELE,adele,seiner,PPOSAT,sein,43178,,
 qd,v3vz.0,150350,150622,ADELE,adele,Nähe,NN,nähe,43178,,
-qd,v3vz.0,150350,150622,ADELE,adele,Frau,NN,frau,43178,,
-qd,v3vz.0,150350,150622,ADELE,adele,Wahl,NN,wahl,43178,,
+qd,v3vz.0,150350,150622,ADELE,adele,Frau,NN,frau,43178,,(2
+qd,v3vz.0,150350,150622,ADELE,adele,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,150350,150622,ADELE,adele,und,KON,und,43178,,
-qd,v3vz.0,150350,150622,ADELE,adele,Otto,NE,otto,43178,,
+qd,v3vz.0,150350,150622,ADELE,adele,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,150350,150622,ADELE,adele,.,$.,--,43178,,
 qd,v3vz.0,150350,150622,ADELE,adele,Dann,ADV,dann,43178,,
-qd,v3vz.0,150350,150622,ADELE,adele,Paul,NE,paul,43178,,
+qd,v3vz.0,150350,150622,ADELE,adele,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,150350,150622,ADELE,adele,",","$,",--,43178,,
-qd,v3vz.0,150350,150622,ADELE,adele,Erna,NE,erna,43178,,
+qd,v3vz.0,150350,150622,ADELE,adele,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,150350,150622,ADELE,adele,.,$.,--,43178,,
 qd,v3vz.0,150350,150622,ADELE,adele,Ganz,ADV,ganz,43178,,
 qd,v3vz.0,150350,150622,ADELE,adele,rechts,ADV,rechts,43178,,
-qd,v3vz.0,150350,150622,ADELE,adele,Gustl,NE,gustl,43178,,
+qd,v3vz.0,150350,150622,ADELE,adele,Gustl,NE,gustl,43178,,(26)
 qd,v3vz.0,150350,150622,ADELE,adele,",","$,",--,43178,,
-qd,v3vz.0,150350,150622,ADELE,adele,Adele,NE,adele,43178,,
+qd,v3vz.0,150350,150622,ADELE,adele,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,150350,150622,ADELE,adele,",","$,",--,43178,,
-qd,v3vz.0,150350,150622,ADELE,adele,Genia,NE,genia,43178,,
+qd,v3vz.0,150350,150622,ADELE,adele,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,150350,150622,ADELE,adele,.,$.,--,43178,,
 qd,v3vz.0,151511,151524,STANZIDES,stanzides,liest,VVFIN,lesen,43178,,
 qd,v3vz.0,151511,151524,STANZIDES,stanzides,weiter,ADV,weiter,43178,,
@@ -2810,7 +2810,7 @@ qd,v3vz.0,151511,151524,STANZIDES,stanzides,.,$.,--,43178,,
 qd,v3vz.0,151982,152011,GENIA,genia,mit,APPR,mit,43178,,
 qd,v3vz.0,151982,152011,GENIA,genia,Blick,NN,blick,43178,,
 qd,v3vz.0,151982,152011,GENIA,genia,auf,APPR,auf,43178,,
-qd,v3vz.0,151982,152011,GENIA,genia,Erna,NE,erna,43178,,
+qd,v3vz.0,151982,152011,GENIA,genia,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,151982,152011,GENIA,genia,",","$,",--,43178,,
 qd,v3vz.0,151982,152011,GENIA,genia,lächelnd,ADJD,lächelnd,43178,,
 qd,v3vz.0,151982,152011,GENIA,genia,.,$.,--,43178,,
@@ -2833,8 +2833,8 @@ qd,v3vz.0,152427,152491,GENIA,genia,zur,APPRART,zu,43178,,
 qd,v3vz.0,152427,152491,GENIA,genia,Mitte,NN,mitte,43178,,
 qd,v3vz.0,152427,152491,GENIA,genia,",","$,",--,43178,,
 qd,v3vz.0,152427,152491,GENIA,genia,wo,PWAV,wo,43178,,
-qd,v3vz.0,152427,152491,GENIA,genia,Frau,NN,frau,43178,,
-qd,v3vz.0,152427,152491,GENIA,genia,Wahl,NN,wahl,43178,,
+qd,v3vz.0,152427,152491,GENIA,genia,Frau,NN,frau,43178,,(2
+qd,v3vz.0,152427,152491,GENIA,genia,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,152427,152491,GENIA,genia,steht,VVFIN,stehen,43178,,
 qd,v3vz.0,152427,152491,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,152799,152805,FRAU WAHL,frau_wahl,liest,VVFIN,lesen,43178,,
@@ -2847,9 +2847,9 @@ qd,v3vz.0,153631,153637,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,154038,154055,FRAU WAHL,frau_wahl,versteht,VVFIN,verstehen,43178,,
 qd,v3vz.0,154038,154055,FRAU WAHL,frau_wahl,endlich,ADV,endlich,43178,,
 qd,v3vz.0,154038,154055,FRAU WAHL,frau_wahl,.,$.,--,43178,,
-qd,v3vz.0,154355,154457,GUSTL WAHL,gustl_wahl,Adele,NE,adele,43178,,
+qd,v3vz.0,154355,154457,GUSTL WAHL,gustl_wahl,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,154355,154457,GUSTL WAHL,gustl_wahl,und,KON,und,43178,,
-qd,v3vz.0,154355,154457,GUSTL WAHL,gustl_wahl,Stanzides,NN,stanzide,43178,,
+qd,v3vz.0,154355,154457,GUSTL WAHL,gustl_wahl,Stanzides,NN,stanzide,43178,,(10)
 qd,v3vz.0,154355,154457,GUSTL WAHL,gustl_wahl,sind,VAFIN,sein,43178,,
 qd,v3vz.0,154355,154457,GUSTL WAHL,gustl_wahl,schon,ADV,schon,43178,,
 qd,v3vz.0,154355,154457,GUSTL WAHL,gustl_wahl,auf,APPR,auf,43178,,
@@ -2864,32 +2864,32 @@ qd,v3vz.0,154355,154457,GUSTL WAHL,gustl_wahl,von,APPR,von,43178,,
 qd,v3vz.0,154355,154457,GUSTL WAHL,gustl_wahl,der,ART,der,43178,,
 qd,v3vz.0,154355,154457,GUSTL WAHL,gustl_wahl,Szene,NN,szene,43178,,
 qd,v3vz.0,154355,154457,GUSTL WAHL,gustl_wahl,.,$.,--,43178,,
-qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,Frau,NN,frau,43178,,
-qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,Wahl,NN,wahl,43178,,
+qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,Frau,NN,frau,43178,,(2
+qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,",","$,",--,43178,,
-qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,Gustl,NE,gustl,43178,,
+qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,Gustl,NE,gustl,43178,,(26)
 qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,",","$,",--,43178,,
 qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,ihnen,PPER,ihnen,43178,,
 qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,gleich,ADV,gleich,43178,,
 qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,nach,APPR,nach,43178,,
-qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,Herr,NN,herr,43178,,
-qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,Natter,NE,natter,43178,,
+qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,Herr,NN,herr,43178,,(11|(18)
+qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,Natter,NE,natter,43178,,11)|(11)
 qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,auch,ADV,auch,43178,,
 qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,gegen,APPR,gegen,43178,,
 qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,den,ART,der,43178,,
 qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,Tennisplatz,NN,tennisplatz,43178,,
 qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,zu,PTKVZ,zu,43178,,
 qd,v3vz.0,154603,154681,FRAU WAHL,frau_wahl,.,$.,--,43178,,
-qd,v3vz.0,154684,154721,FRAU WAHL,frau_wahl,Otto,NE,otto,43178,,
+qd,v3vz.0,154684,154721,FRAU WAHL,frau_wahl,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,154684,154721,FRAU WAHL,frau_wahl,und,KON,und,43178,,
-qd,v3vz.0,154684,154721,FRAU WAHL,frau_wahl,Genia,NE,genia,43178,,
+qd,v3vz.0,154684,154721,FRAU WAHL,frau_wahl,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,154684,154721,FRAU WAHL,frau_wahl,bleiben,VVFIN,bleiben,43178,,
 qd,v3vz.0,154684,154721,FRAU WAHL,frau_wahl,allein,ADV,allein,43178,,
 qd,v3vz.0,154684,154721,FRAU WAHL,frau_wahl,zurück,PTKVZ,zurück,43178,,
 qd,v3vz.0,154684,154721,FRAU WAHL,frau_wahl,.,$.,--,43178,,
-qd,v3vz.0,154724,154736,FRAU WAHL,frau_wahl,Otto,NE,otto,43178,,
+qd,v3vz.0,154724,154736,FRAU WAHL,frau_wahl,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,154724,154736,FRAU WAHL,frau_wahl,",","$,",--,43178,,
-qd,v3vz.0,154724,154736,FRAU WAHL,frau_wahl,Genia,NE,genia,43178,,
+qd,v3vz.0,154724,154736,FRAU WAHL,frau_wahl,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,154724,154736,FRAU WAHL,frau_wahl,.,$.,--,43178,,
 qd,v3vz.0,155561,155574,GENIA,genia,sieht,VVFIN,sehen,43178,,
 qd,v3vz.0,155561,155574,GENIA,genia,ihn,PPER,ihn,43178,,
@@ -2905,9 +2905,9 @@ qd,v3vz.0,159006,159047,FRIEDRICH,friedrich,",","$,",--,43178,,
 qd,v3vz.0,159006,159047,FRIEDRICH,friedrich,spricht,VVFIN,sprechen,43178,,
 qd,v3vz.0,159006,159047,FRIEDRICH,friedrich,gleich,ADV,gleich,43178,,
 qd,v3vz.0,159006,159047,FRIEDRICH,friedrich,.,$.,--,43178,,
-qd,v3vz.0,159087,159159,FRIEDRICH,friedrich,Genia,NE,genia,43178,,
+qd,v3vz.0,159087,159159,FRIEDRICH,friedrich,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,159087,159159,FRIEDRICH,friedrich,und,KON,und,43178,,
-qd,v3vz.0,159087,159159,FRIEDRICH,friedrich,Otto,NE,otto,43178,,
+qd,v3vz.0,159087,159159,FRIEDRICH,friedrich,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,159087,159159,FRIEDRICH,friedrich,sind,VAFIN,sein,43178,,
 qd,v3vz.0,159087,159159,FRIEDRICH,friedrich,am,APPRART,an,43178,,
 qd,v3vz.0,159087,159159,FRIEDRICH,friedrich,Schlusse,NN,schluß,43178,,
@@ -2927,9 +2927,9 @@ qd,v3vz.0,159764,159788,FRIEDRICH,friedrich,Verschwindet,NN,verschwinden,43178,,
 qd,v3vz.0,159764,159788,FRIEDRICH,friedrich,vom,APPRART,von,43178,,
 qd,v3vz.0,159764,159788,FRIEDRICH,friedrich,Balkon,NN,balkon,43178,,
 qd,v3vz.0,159764,159788,FRIEDRICH,friedrich,.,$.,--,43178,,
-qd,v3vz.0,159791,159845,FRIEDRICH,friedrich,Otto,NE,otto,43178,,
+qd,v3vz.0,159791,159845,FRIEDRICH,friedrich,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,159791,159845,FRIEDRICH,friedrich,und,KON,und,43178,,
-qd,v3vz.0,159791,159845,FRIEDRICH,friedrich,Genia,NE,genia,43178,,
+qd,v3vz.0,159791,159845,FRIEDRICH,friedrich,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,159791,159845,FRIEDRICH,friedrich,hinüber,ADV,hinüber,43178,,
 qd,v3vz.0,159791,159845,FRIEDRICH,friedrich,.,$.,--,43178,,
 qd,v3vz.0,159791,159845,FRIEDRICH,friedrich,Das,ART,der,43178,,
@@ -2947,23 +2947,23 @@ qd,v3vz.0,160566,160581,OTTO,otto,erleuchtet,VVPP,erleuchten,43178,,
 qd,v3vz.0,160566,160581,OTTO,otto,.,$.,--,43178,,
 qd,v3vz.0,160652,160760,OTTO,otto,Es,PPER,es,43178,,
 qd,v3vz.0,160652,160760,OTTO,otto,kommen,VVFIN,kommen,43178,,
+qd,v3vz.0,160652,160760,OTTO,otto,Frau,NN,frau,43178,,(2
+qd,v3vz.0,160652,160760,OTTO,otto,Wahl,NN,wahl,43178,,2)
+qd,v3vz.0,160652,160760,OTTO,otto,",","$,",--,43178,,
+qd,v3vz.0,160652,160760,OTTO,otto,Natter,NN,natter,43178,,(11)
+qd,v3vz.0,160652,160760,OTTO,otto,",","$,",--,43178,,
 qd,v3vz.0,160652,160760,OTTO,otto,Frau,NN,frau,43178,,
-qd,v3vz.0,160652,160760,OTTO,otto,Wahl,NN,wahl,43178,,
+qd,v3vz.0,160652,160760,OTTO,otto,Natter,NE,natter,43178,,(11)
 qd,v3vz.0,160652,160760,OTTO,otto,",","$,",--,43178,,
-qd,v3vz.0,160652,160760,OTTO,otto,Natter,NN,natter,43178,,
-qd,v3vz.0,160652,160760,OTTO,otto,",","$,",--,43178,,
-qd,v3vz.0,160652,160760,OTTO,otto,Frau,NN,frau,43178,,
-qd,v3vz.0,160652,160760,OTTO,otto,Natter,NE,natter,43178,,
-qd,v3vz.0,160652,160760,OTTO,otto,",","$,",--,43178,,
-qd,v3vz.0,160652,160760,OTTO,otto,Stanzides,NN,stanzide,43178,,
+qd,v3vz.0,160652,160760,OTTO,otto,Stanzides,NN,stanzide,43178,,(10)
 qd,v3vz.0,160652,160760,OTTO,otto,und,KON,und,43178,,
-qd,v3vz.0,160652,160760,OTTO,otto,Gustl,NE,gustl,43178,,
+qd,v3vz.0,160652,160760,OTTO,otto,Gustl,NE,gustl,43178,,(26)
 qd,v3vz.0,160652,160760,OTTO,otto,vom,APPRART,von,43178,,
 qd,v3vz.0,160652,160760,OTTO,otto,Tennisplatz,NN,tennisplatz,43178,,
 qd,v3vz.0,160652,160760,OTTO,otto,.,$.,--,43178,,
-qd,v3vz.0,160652,160760,OTTO,otto,Erna,NE,erna,43178,,
+qd,v3vz.0,160652,160760,OTTO,otto,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,160652,160760,OTTO,otto,und,KON,und,43178,,
-qd,v3vz.0,160652,160760,OTTO,otto,Paul,NE,paul,43178,,
+qd,v3vz.0,160652,160760,OTTO,otto,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,160652,160760,OTTO,otto,spielen,VVFIN,spielen,43178,,
 qd,v3vz.0,160652,160760,OTTO,otto,weiter,PTKVZ,weiter,43178,,
 qd,v3vz.0,160652,160760,OTTO,otto,.,$.,--,43178,,
@@ -2971,29 +2971,29 @@ qd,v3vz.0,160776,160802,FRIEDRICH,friedrich,erscheint,VVFIN,erscheinen,43178,,
 qd,v3vz.0,160776,160802,FRIEDRICH,friedrich,im,APPRART,in,43178,,
 qd,v3vz.0,160776,160802,FRIEDRICH,friedrich,Tenniskostüm,NN,tenniskostüm,43178,,
 qd,v3vz.0,160776,160802,FRIEDRICH,friedrich,.,$.,--,43178,,
-qd,v3vz.0,162369,162399,GENIA,genia,Erna,NE,erna,43178,,
+qd,v3vz.0,162369,162399,GENIA,genia,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,162369,162399,GENIA,genia,und,KON,und,43178,,
-qd,v3vz.0,162369,162399,GENIA,genia,Paul,NE,paul,43178,,
+qd,v3vz.0,162369,162399,GENIA,genia,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,162369,162399,GENIA,genia,vom,APPRART,von,43178,,
 qd,v3vz.0,162369,162399,GENIA,genia,Tennisplatz,NN,tennisplatz,43178,,
 qd,v3vz.0,162369,162399,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,163959,164003,PAUL,paul_kreindl,der,ART,der,43178,,
 qd,v3vz.0,163959,164003,PAUL,paul_kreindl,mit,APPR,mit,43178,,
-qd,v3vz.0,163959,164003,PAUL,paul_kreindl,Erna,NE,erna,43178,,
+qd,v3vz.0,163959,164003,PAUL,paul_kreindl,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,163959,164003,PAUL,paul_kreindl,und,KON,und,43178,,
-qd,v3vz.0,163959,164003,PAUL,paul_kreindl,Frau,NN,frau,43178,,
-qd,v3vz.0,163959,164003,PAUL,paul_kreindl,Wahl,NN,wahl,43178,,
+qd,v3vz.0,163959,164003,PAUL,paul_kreindl,Frau,NN,frau,43178,,(2
+qd,v3vz.0,163959,164003,PAUL,paul_kreindl,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,163959,164003,PAUL,paul_kreindl,stand,VVFIN,stehen,43178,,
 qd,v3vz.0,163959,164003,PAUL,paul_kreindl,",","$,",--,43178,,
 qd,v3vz.0,163959,164003,PAUL,paul_kreindl,tritt,VVFIN,treten,43178,,
 qd,v3vz.0,163959,164003,PAUL,paul_kreindl,her,PTKVZ,her,43178,,
 qd,v3vz.0,163959,164003,PAUL,paul_kreindl,.,$.,--,43178,,
-qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Herr,NN,herr,43178,,
-qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Natter,NE,natter,43178,,
+qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Herr,NN,herr,43178,,(11|(18)
+qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Natter,NE,natter,43178,,11)|(11)
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Stanzides,NN,stanzide,43178,,
+qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Stanzides,NN,stanzide,43178,,(10)
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Genia,NE,genia,43178,,
+qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,–,XY,–,43178,,
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,nach,APPR,nach,43178,,
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,den,ART,der,43178,,
@@ -3001,12 +3001,12 @@ qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,ersten,ADJA,erster,43178,,
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Worten,NN,wort,43178,,
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Friedrichs,NE,friedrich,43178,,
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,an,APPR,an,43178,,
-qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Otto,NE,otto,43178,,
+qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,über,APPR,über,43178,,
-qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Aigner,NE,aigner,43178,,
+qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Aigner,NE,aigner,43178,,(21)
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,–,XY,–,43178,,
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,und,KON,und,43178,,
-qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Gustl,NE,gustl,43178,,
+qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Gustl,NE,gustl,43178,,(26)
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,sind,VAFIN,sein,43178,,
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,schon,ADV,schon,43178,,
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,etwas,ADV,etwas,43178,,
@@ -3015,15 +3015,15 @@ qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,weggegangen,VVPP,weggehen,43178,,
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,",","$,",--,43178,,
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,jetzt,ADV,jetzt,43178,,
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,folgen,VVFIN,folgen,43178,,
-qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Paul,NE,paul,43178,,
+qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Adele,NE,adele,43178,,
+qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,und,KON,und,43178,,
-qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Otto,NE,otto,43178,,
+qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,164398,164567,FRIEDRICH,friedrich,.,$.,--,43178,,
-qd,v3vz.0,164570,164586,FRIEDRICH,friedrich,Erna,NE,erna,43178,,
+qd,v3vz.0,164570,164586,FRIEDRICH,friedrich,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,164570,164586,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,164570,164586,FRIEDRICH,friedrich,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,164570,164586,FRIEDRICH,friedrich,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,164570,164586,FRIEDRICH,friedrich,.,$.,--,43178,,
 qd,v3vz.0,164597,164638,ERNA,erna,ist,VAFIN,sein,43178,,
 qd,v3vz.0,164597,164638,ERNA,erna,hinter,APPR,hinter,43178,,
@@ -3042,9 +3042,9 @@ qd,v3vz.0,169287,169293,ERNA,erna,.,$.,--,43178,,
 qd,v3vz.0,169326,169342,MAUER,doktor_mauer,ganz,ADV,ganz,43178,,
 qd,v3vz.0,169326,169342,MAUER,doktor_mauer,unbefangen,ADJD,unbefangen,43178,,
 qd,v3vz.0,169326,169342,MAUER,doktor_mauer,.,$.,--,43178,,
-qd,v3vz.0,169512,169529,ERNA,erna,Mauer,NN,mauer,43178,,
+qd,v3vz.0,169512,169529,ERNA,erna,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,169512,169529,ERNA,erna,",","$,",--,43178,,
-qd,v3vz.0,169512,169529,ERNA,erna,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,169512,169529,ERNA,erna,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,169512,169529,ERNA,erna,.,$.,--,43178,,
 qd,v3vz.0,169807,169820,FRIEDRICH,friedrich,sieht,VVFIN,sehen,43178,,
 qd,v3vz.0,169807,169820,FRIEDRICH,friedrich,ihn,PPER,ihn,43178,,
@@ -3061,9 +3061,9 @@ qd,v3vz.0,179438,179444,HERR NATTER,natter,.,$.,--,43178,,
 qd,v3vz.0,179713,179729,MAUER,doktor_mauer,zum,APPRART,zu,43178,,
 qd,v3vz.0,179713,179729,MAUER,doktor_mauer,Tennisplatz,NN,tennisplatz,43178,,
 qd,v3vz.0,179713,179729,MAUER,doktor_mauer,.,$.,--,43178,,
-qd,v3vz.0,179733,179751,MAUER,doktor_mauer,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,179733,179751,MAUER,doktor_mauer,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,179733,179751,MAUER,doktor_mauer,",","$,",--,43178,,
-qd,v3vz.0,179733,179751,MAUER,doktor_mauer,Natter,NE,natter,43178,,
+qd,v3vz.0,179733,179751,MAUER,doktor_mauer,Natter,NE,natter,43178,,(11)
 qd,v3vz.0,179733,179751,MAUER,doktor_mauer,.,$.,--,43178,,
 qd,v3vz.0,180741,180764,FRIEDRICH,friedrich,Sie,PPER,sie,43178,,
 qd,v3vz.0,180741,180764,FRIEDRICH,friedrich,stehn,VVFIN,stehn,43178,,
@@ -3094,17 +3094,17 @@ qd,v3vz.0,183358,183382,MAUER,doktor_mauer,will,VMFIN,wollen,43178,,
 qd,v3vz.0,183358,183382,MAUER,doktor_mauer,sich,PRF,sich,43178,,
 qd,v3vz.0,183358,183382,MAUER,doktor_mauer,verabschieden,VVINF,verabschieden,43178,,
 qd,v3vz.0,183358,183382,MAUER,doktor_mauer,.,$.,--,43178,,
-qd,v3vz.0,183530,183570,FRIEDRICH,friedrich,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,183530,183570,FRIEDRICH,friedrich,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,183530,183570,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,183530,183570,FRIEDRICH,friedrich,Paul,NE,paul,43178,,
+qd,v3vz.0,183530,183570,FRIEDRICH,friedrich,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,183530,183570,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,183530,183570,FRIEDRICH,friedrich,Natter,NN,natter,43178,,
+qd,v3vz.0,183530,183570,FRIEDRICH,friedrich,Natter,NN,natter,43178,,(11)
 qd,v3vz.0,183530,183570,FRIEDRICH,friedrich,zum,APPRART,zu,43178,,
 qd,v3vz.0,183530,183570,FRIEDRICH,friedrich,Tennisplatz,NN,tennisplatz,43178,,
 qd,v3vz.0,183530,183570,FRIEDRICH,friedrich,.,$.,--,43178,,
-qd,v3vz.0,183574,183587,FRIEDRICH,friedrich,Mauer,NN,mauer,43178,,
+qd,v3vz.0,183574,183587,FRIEDRICH,friedrich,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,183574,183587,FRIEDRICH,friedrich,",","$,",--,43178,,
-qd,v3vz.0,183574,183587,FRIEDRICH,friedrich,Genia,NE,genia,43178,,
+qd,v3vz.0,183574,183587,FRIEDRICH,friedrich,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,183574,183587,FRIEDRICH,friedrich,.,$.,--,43178,,
 qd,v3vz.0,183848,183861,GENIA,genia,sieht,VVFIN,sehen,43178,,
 qd,v3vz.0,183848,183861,GENIA,genia,ihn,PPER,ihn,43178,,
@@ -3127,24 +3127,24 @@ qd,v3vz.0,187319,187349,GENIA,genia,zusammenfaßt,VVFIN,zusammenfassen,43178,,
 qd,v3vz.0,187319,187349,GENIA,genia,sich,PRF,sich,43178,,
 qd,v3vz.0,187319,187349,GENIA,genia,rasch,ADJD,rasch,43178,,
 qd,v3vz.0,187319,187349,GENIA,genia,.,$.,--,43178,,
-qd,v3vz.0,187352,187443,GENIA,genia,Paul,NE,paul,43178,,
+qd,v3vz.0,187352,187443,GENIA,genia,Paul,NE,paul,43178,,(7)
 qd,v3vz.0,187352,187443,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,187352,187443,GENIA,genia,Gustl,NE,gustl,43178,,
+qd,v3vz.0,187352,187443,GENIA,genia,Gustl,NE,gustl,43178,,(26)
 qd,v3vz.0,187352,187443,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,187352,187443,GENIA,genia,Erna,NE,erna,43178,,
+qd,v3vz.0,187352,187443,GENIA,genia,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,187352,187443,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,187352,187443,GENIA,genia,Stanzides,NN,stanzide,43178,,
+qd,v3vz.0,187352,187443,GENIA,genia,Stanzides,NN,stanzide,43178,,(10)
 qd,v3vz.0,187352,187443,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,187352,187443,GENIA,genia,Adele,NE,adele,43178,,
+qd,v3vz.0,187352,187443,GENIA,genia,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,187352,187443,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,187352,187443,GENIA,genia,Frau,NN,frau,43178,,
-qd,v3vz.0,187352,187443,GENIA,genia,Wahl,NN,wahl,43178,,
+qd,v3vz.0,187352,187443,GENIA,genia,Frau,NN,frau,43178,,(2
+qd,v3vz.0,187352,187443,GENIA,genia,Wahl,NN,wahl,43178,,2)
 qd,v3vz.0,187352,187443,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,187352,187443,GENIA,genia,Natter,NN,natter,43178,,
+qd,v3vz.0,187352,187443,GENIA,genia,Natter,NN,natter,43178,,(11)
 qd,v3vz.0,187352,187443,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,187352,187443,GENIA,genia,Otto,NE,otto,43178,,
+qd,v3vz.0,187352,187443,GENIA,genia,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,187352,187443,GENIA,genia,und,KON,und,43178,,
-qd,v3vz.0,187352,187443,GENIA,genia,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,187352,187443,GENIA,genia,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,187352,187443,GENIA,genia,vom,APPRART,von,43178,,
 qd,v3vz.0,187352,187443,GENIA,genia,Tennisplatz,NN,tennisplatz,43178,,
 qd,v3vz.0,187352,187443,GENIA,genia,.,$.,--,43178,,
@@ -3176,13 +3176,13 @@ qd,v3vz.0,190315,190365,PAUL,paul_kreindl,sagt,VVFIN,sagen,43178,,
 qd,v3vz.0,190315,190365,PAUL,paul_kreindl,leise,ADJD,leise,43178,,
 qd,v3vz.0,190315,190365,PAUL,paul_kreindl,etwas,PIS,etwas,43178,,
 qd,v3vz.0,190315,190365,PAUL,paul_kreindl,zu,PTKZU,zu,43178,,
-qd,v3vz.0,190315,190365,PAUL,paul_kreindl,Gustl,NE,gustl,43178,,
+qd,v3vz.0,190315,190365,PAUL,paul_kreindl,Gustl,NE,gustl,43178,,(26)
 qd,v3vz.0,190315,190365,PAUL,paul_kreindl,",","$,",--,43178,,
 qd,v3vz.0,190315,190365,PAUL,paul_kreindl,folgt,VVFIN,folgen,43178,,
 qd,v3vz.0,190315,190365,PAUL,paul_kreindl,mit,APPR,mit,43178,,
 qd,v3vz.0,190315,190365,PAUL,paul_kreindl,ihm,PPER,ihm,43178,,
 qd,v3vz.0,190315,190365,PAUL,paul_kreindl,dem,ART,der,43178,,
-qd,v3vz.0,190315,190365,PAUL,paul_kreindl,Otto,NE,otto,43178,,
+qd,v3vz.0,190315,190365,PAUL,paul_kreindl,Otto,NE,otto,43178,,(4)
 qd,v3vz.0,190315,190365,PAUL,paul_kreindl,.,$.,--,43178,,
 qd,v3vz.0,190376,190393,ERNA,erna,steht,VVFIN,stehen,43178,,
 qd,v3vz.0,190376,190393,ERNA,erna,regungslos,ADJD,regungslos,43178,,
@@ -3197,14 +3197,14 @@ qd,v3vz.0,190432,190475,FRAU WAHL,frau_wahl,",","$,",--,43178,,
 qd,v3vz.0,190432,190475,FRAU WAHL,frau_wahl,wendet,VVFIN,wenden,43178,,
 qd,v3vz.0,190432,190475,FRAU WAHL,frau_wahl,sich,PRF,sich,43178,,
 qd,v3vz.0,190432,190475,FRAU WAHL,frau_wahl,an,APPR,an,43178,,
-qd,v3vz.0,190432,190475,FRAU WAHL,frau_wahl,Adele,NE,adele,43178,,
+qd,v3vz.0,190432,190475,FRAU WAHL,frau_wahl,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,190432,190475,FRAU WAHL,frau_wahl,.,$.,--,43178,,
 qd,v3vz.0,190784,190802,MAUER,doktor_mauer,zuckt,VVFIN,zucken,43178,,
 qd,v3vz.0,190784,190802,MAUER,doktor_mauer,die,ART,der,43178,,
 qd,v3vz.0,190784,190802,MAUER,doktor_mauer,Achseln,NN,achsel,43178,,
 qd,v3vz.0,190784,190802,MAUER,doktor_mauer,.,$.,--,43178,,
 qd,v3vz.0,191013,191036,FRIEDRICH,friedrich,zieht,VVFIN,ziehen,43178,,
-qd,v3vz.0,191013,191036,FRIEDRICH,friedrich,Natter,NE,natter,43178,,
+qd,v3vz.0,191013,191036,FRIEDRICH,friedrich,Natter,NE,natter,43178,,(11)
 qd,v3vz.0,191013,191036,FRIEDRICH,friedrich,nach,APPR,nach,43178,,
 qd,v3vz.0,191013,191036,FRIEDRICH,friedrich,vorn,ADV,vorn,43178,,
 qd,v3vz.0,191013,191036,FRIEDRICH,friedrich,.,$.,--,43178,,
@@ -3213,7 +3213,7 @@ qd,v3vz.0,191349,191398,GENIA,genia,einem,ART,ein,43178,,
 qd,v3vz.0,191349,191398,GENIA,genia,plötzlichen,ADJA,plötzlich,43178,,
 qd,v3vz.0,191349,191398,GENIA,genia,Entschluß,NN,entschluß,43178,,
 qd,v3vz.0,191349,191398,GENIA,genia,zu,APPR,zu,43178,,
-qd,v3vz.0,191349,191398,GENIA,genia,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,191349,191398,GENIA,genia,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,191349,191398,GENIA,genia,hin,PTKVZ,hin,43178,,
 qd,v3vz.0,191349,191398,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,191473,191487,FRIEDRICH,friedrich,zu,APPR,zu,43178,,
@@ -3221,7 +3221,7 @@ qd,v3vz.0,191473,191487,FRIEDRICH,friedrich,den,ART,der,43178,,
 qd,v3vz.0,191473,191487,FRIEDRICH,friedrich,andern,VVINF,anderer,43178,,
 qd,v3vz.0,191473,191487,FRIEDRICH,friedrich,.,$.,--,43178,,
 qd,v3vz.0,191544,191592,FRAU WAHL,frau_wahl,zu,APPR,zu,43178,,
-qd,v3vz.0,191544,191592,FRAU WAHL,frau_wahl,Erna,NE,erna,43178,,
+qd,v3vz.0,191544,191592,FRAU WAHL,frau_wahl,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,191544,191592,FRAU WAHL,frau_wahl,hin,PTKVZ,hin,43178,,
 qd,v3vz.0,191544,191592,FRAU WAHL,frau_wahl,",","$,",--,43178,,
 qd,v3vz.0,191544,191592,FRAU WAHL,frau_wahl,will,VMFIN,wollen,43178,,
@@ -3237,14 +3237,14 @@ qd,v3vz.0,191603,191647,ERNA,erna,",","$,",--,43178,,
 qd,v3vz.0,191603,191647,ERNA,erna,steht,VVFIN,stehen,43178,,
 qd,v3vz.0,191603,191647,ERNA,erna,an,APPR,an,43178,,
 qd,v3vz.0,191603,191647,ERNA,erna,der,ART,der,43178,,
-qd,v3vz.0,191603,191647,ERNA,erna,Mauer,NN,mauer,43178,,
+qd,v3vz.0,191603,191647,ERNA,erna,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,191603,191647,ERNA,erna,des,ART,der,43178,,
 qd,v3vz.0,191603,191647,ERNA,erna,Hauses,NN,haus,43178,,
 qd,v3vz.0,191603,191647,ERNA,erna,.,$.,--,43178,,
 qd,v3vz.0,191663,191740,FRAU WAHL,frau_wahl,wendet,VVFIN,wenden,43178,,
 qd,v3vz.0,191663,191740,FRAU WAHL,frau_wahl,sich,PRF,sich,43178,,
 qd,v3vz.0,191663,191740,FRAU WAHL,frau_wahl,zu,APPR,zu,43178,,
-qd,v3vz.0,191663,191740,FRAU WAHL,frau_wahl,Adele,NE,adele,43178,,
+qd,v3vz.0,191663,191740,FRAU WAHL,frau_wahl,Adele,NE,adele,43178,,(9)
 qd,v3vz.0,191663,191740,FRAU WAHL,frau_wahl,",","$,",--,43178,,
 qd,v3vz.0,191663,191740,FRAU WAHL,frau_wahl,die,PRELS,der,43178,,
 qd,v3vz.0,191663,191740,FRAU WAHL,frau_wahl,unter,APPR,unter,43178,,
@@ -3268,7 +3268,7 @@ qd,v3vz.0,191800,191813,MAUER,doktor_mauer,steht,VVFIN,stehen,43178,,
 qd,v3vz.0,191800,191813,MAUER,doktor_mauer,allein,ADV,allein,43178,,
 qd,v3vz.0,191800,191813,MAUER,doktor_mauer,.,$.,--,43178,,
 qd,v3vz.0,191829,191838,FRIEDRICH,friedrich,zu,PTKZU,zu,43178,,
-qd,v3vz.0,191829,191838,FRIEDRICH,friedrich,Genia,NE,genia,43178,,
+qd,v3vz.0,191829,191838,FRIEDRICH,friedrich,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,191829,191838,FRIEDRICH,friedrich,.,$.,--,43178,,
 qd,v3vz.0,192306,192328,GENIA,genia,steht,VVFIN,stehen,43178,,
 qd,v3vz.0,192306,192328,GENIA,genia,vorn,ADV,vorn,43178,,
@@ -3277,7 +3277,7 @@ qd,v3vz.0,192306,192328,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,192339,192369,ERNA,erna,steht,VVFIN,stehen,43178,,
 qd,v3vz.0,192339,192369,ERNA,erna,an,APPR,an,43178,,
 qd,v3vz.0,192339,192369,ERNA,erna,der,ART,der,43178,,
-qd,v3vz.0,192339,192369,ERNA,erna,Mauer,NN,mauer,43178,,
+qd,v3vz.0,192339,192369,ERNA,erna,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,192339,192369,ERNA,erna,des,ART,der,43178,,
 qd,v3vz.0,192339,192369,ERNA,erna,Hauses,NN,haus,43178,,
 qd,v3vz.0,192339,192369,ERNA,erna,.,$.,--,43178,,
@@ -3437,10 +3437,10 @@ qd,v3vz.0,197339,197354,GENIA,genia,zusammen,PTKVZ,zusammen,43178,,
 qd,v3vz.0,197339,197354,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,197682,197688,FRAU MEINHOLD,frau_meinhold,kommt,VVFIN,kommen,43178,,
 qd,v3vz.0,197682,197688,FRAU MEINHOLD,frau_meinhold,.,$.,--,43178,,
-qd,v3vz.0,198023,198044,ERNA,erna,Genia,NE,genia,43178,,
+qd,v3vz.0,198023,198044,ERNA,erna,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,198023,198044,ERNA,erna,",","$,",--,43178,,
-qd,v3vz.0,198023,198044,ERNA,erna,Frau,NN,frau,43178,,
-qd,v3vz.0,198023,198044,ERNA,erna,Meinhold,NE,meinhold,43178,,
+qd,v3vz.0,198023,198044,ERNA,erna,Frau,NN,frau,43178,,(13
+qd,v3vz.0,198023,198044,ERNA,erna,Meinhold,NE,meinhold,43178,,13)
 qd,v3vz.0,198023,198044,ERNA,erna,.,$.,--,43178,,
 qd,v3vz.0,198056,198090,GENIA,genia,mit,APPR,mit,43178,,
 qd,v3vz.0,198056,198090,GENIA,genia,ungeheurer,ADJA,ungeheuer,43178,,
@@ -3487,9 +3487,9 @@ qd,v3vz.0,205596,205628,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,205735,205748,GENIA,genia,rasch,ADJD,rasch,43178,,
 qd,v3vz.0,205735,205748,GENIA,genia,zurück,PTKVZ,zurück,43178,,
 qd,v3vz.0,205735,205748,GENIA,genia,.,$.,--,43178,,
-qd,v3vz.0,205751,205768,GENIA,genia,Genia,NE,genia,43178,,
+qd,v3vz.0,205751,205768,GENIA,genia,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,205751,205768,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,205751,205768,GENIA,genia,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,205751,205768,GENIA,genia,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,205751,205768,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,205784,205801,FRIEDRICH,friedrich,stand,VVFIN,stehen,43178,,
 qd,v3vz.0,205784,205801,FRIEDRICH,friedrich,regungslos,ADJD,regungslos,43178,,
@@ -3518,7 +3518,7 @@ qd,v3vz.0,207696,207721,ERNA,erna,stehen,VVFIN,stehen,43178,,
 qd,v3vz.0,207696,207721,ERNA,erna,.,$.,--,43178,,
 qd,v3vz.0,207733,207769,MAUER,doktor_mauer,rasch,ADJD,rasch,43178,,
 qd,v3vz.0,207733,207769,MAUER,doktor_mauer,zu,PTKZU,zu,43178,,
-qd,v3vz.0,207733,207769,MAUER,doktor_mauer,Genia,NE,genia,43178,,
+qd,v3vz.0,207733,207769,MAUER,doktor_mauer,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,207733,207769,MAUER,doktor_mauer,",","$,",--,43178,,
 qd,v3vz.0,207733,207769,MAUER,doktor_mauer,drückt,VVFIN,drücken,43178,,
 qd,v3vz.0,207733,207769,MAUER,doktor_mauer,ihr,PPER,ihr,43178,,
@@ -3534,14 +3534,14 @@ qd,v3vz.0,209002,209016,GENIA,genia,an,PTKVZ,an,43178,,
 qd,v3vz.0,209002,209016,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,209155,209161,GENIA,genia,nickt,VVFIN,nicken,43178,,
 qd,v3vz.0,209155,209161,GENIA,genia,.,$.,--,43178,,
-qd,v3vz.0,209195,209214,GENIA,genia,Mauer,NN,mauer,43178,,
+qd,v3vz.0,209195,209214,GENIA,genia,Mauer,NN,mauer,43178,,(5)
 qd,v3vz.0,209195,209214,GENIA,genia,und,KON,und,43178,,
-qd,v3vz.0,209195,209214,GENIA,genia,Genia,NE,genia,43178,,
+qd,v3vz.0,209195,209214,GENIA,genia,Genia,NE,genia,43178,,(0)
 qd,v3vz.0,209195,209214,GENIA,genia,ab,PTKVZ,ab,43178,,
 qd,v3vz.0,209195,209214,GENIA,genia,.,$.,--,43178,,
-qd,v3vz.0,209217,209233,GENIA,genia,Erna,NE,erna,43178,,
+qd,v3vz.0,209217,209233,GENIA,genia,Erna,NE,erna,43178,,(3)
 qd,v3vz.0,209217,209233,GENIA,genia,",","$,",--,43178,,
-qd,v3vz.0,209217,209233,GENIA,genia,Friedrich,NE,friedrich,43178,,
+qd,v3vz.0,209217,209233,GENIA,genia,Friedrich,NE,friedrich,43178,,(6)
 qd,v3vz.0,209217,209233,GENIA,genia,.,$.,--,43178,,
 qd,v3vz.0,209249,209277,FRIEDRICH,friedrich,steht,VVFIN,stehen,43178,,
 qd,v3vz.0,209249,209277,FRIEDRICH,friedrich,noch,ADV,noch,43178,,

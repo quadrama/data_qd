@@ -1,4 +1,6 @@
 corpus,drama,utteranceBegin,utteranceEnd,utteranceSpeakerId,mentionBegin,mentionEnd,mentionSurface,entityId
+qd,x3b4.0,886,1019,_stage,975,990,Prinzessin Alma,alma
+qd,x3b4.0,886,1019,_stage,986,990,Alma,alma
 qd,x3b4.0,1022,1643,könig_nicolo,1091,1094,ich,könig_nicolo
 qd,x3b4.0,1022,1643,könig_nicolo,1108,1111,ich,könig_nicolo
 qd,x3b4.0,1022,1643,könig_nicolo,1470,1473,Ich,könig_nicolo
@@ -8,11 +10,22 @@ qd,x3b4.0,2106,2380,könig_nicolo,2146,2149,ich,könig_nicolo
 qd,x3b4.0,2386,3055,alma,2418,2421,ich,alma
 qd,x3b4.0,2386,3055,alma,2860,2863,ich,alma
 qd,x3b4.0,3062,3326,könig_nicolo,3160,3163,Ich,könig_nicolo
+qd,x3b4.0,3534,3568,_stage,3534,3549,Prinzessin Alma,alma
+qd,x3b4.0,3534,3568,_stage,3545,3549,Alma,alma
+qd,x3b4.0,4431,4587,_stage,4517,4530,Pietro Folchi,könig_pietro
+qd,x3b4.0,4431,4587,_stage,4532,4545,Filipo Folchi,prinz_filipo
+qd,x3b4.0,4431,4587,_stage,4532,4538,Filipo,prinz_filipo
+qd,x3b4.0,4431,4587,_stage,4547,4560,Andrea Valori,andrea_valori
+qd,x3b4.0,5287,5322,die_bürger,5308,5321,Pietro Folchi,könig_pietro
 qd,x3b4.0,5327,5891,andrea_valori,5752,5755,ich,andrea_valori
+qd,x3b4.0,6054,6133,die_bürger,6089,6102,Pietro Folchi,könig_pietro
+qd,x3b4.0,7188,7242,die_bürger,7228,7241,Pietro Folchi,könig_pietro
+qd,x3b4.0,7290,7368,die_bürger,7332,7345,Pietro Folchi,könig_pietro
 qd,x3b4.0,7555,8054,könig_pietro,7631,7634,ich,könig_pietro
 qd,x3b4.0,7555,8054,könig_pietro,7658,7662,mich,könig_pietro
 qd,x3b4.0,7555,8054,könig_pietro,7874,7877,Ich,könig_pietro
 qd,x3b4.0,7555,8054,könig_pietro,8037,8041,mein,könig_pietro
+qd,x3b4.0,7555,8054,könig_pietro,8047,8053,Filipo,prinz_filipo
 qd,x3b4.0,8059,8127,prinz_filipo,8116,8120,mein,prinz_filipo
 qd,x3b4.0,8132,8793,könig_pietro,8199,8202,ich,könig_pietro
 qd,x3b4.0,8132,8793,könig_pietro,8265,8268,Ich,könig_pietro
@@ -20,6 +33,7 @@ qd,x3b4.0,8132,8793,könig_pietro,8526,8529,mir,könig_pietro
 qd,x3b4.0,8132,8793,könig_pietro,8575,8578,mir,könig_pietro
 qd,x3b4.0,8132,8793,könig_pietro,8764,8767,ich,könig_pietro
 qd,x3b4.0,8890,8946,könig_pietro,8912,8916,mein,könig_pietro
+qd,x3b4.0,8890,8946,könig_pietro,8932,8945,Andrea Valori,andrea_valori
 qd,x3b4.0,8951,9022,andrea_valori,8986,8990,mein,andrea_valori
 qd,x3b4.0,8951,9022,andrea_valori,9002,9005,ich,andrea_valori
 qd,x3b4.0,9027,10017,könig_pietro,9042,9045,Ich,könig_pietro
@@ -28,6 +42,8 @@ qd,x3b4.0,9027,10017,könig_pietro,9310,9315,meine,könig_pietro
 qd,x3b4.0,9027,10017,könig_pietro,9417,9420,mir,könig_pietro
 qd,x3b4.0,9027,10017,könig_pietro,9495,9498,ich,könig_pietro
 qd,x3b4.0,9027,10017,könig_pietro,9575,9581,meinen,könig_pietro
+qd,x3b4.0,9845,10017,_stage,9967,9980,Filipo Folchi,prinz_filipo
+qd,x3b4.0,9845,10017,_stage,9967,9973,Filipo,prinz_filipo
 qd,x3b4.0,10874,10916,könig_pietro,10891,10894,mir,könig_pietro
 qd,x3b4.0,10874,10916,könig_pietro,10895,10899,mein,könig_pietro
 qd,x3b4.0,11037,11407,könig_pietro,11089,11095,meiner,könig_pietro
@@ -66,11 +82,17 @@ qd,x3b4.0,13989,14383,könig_pietro,14176,14180,mich,könig_pietro
 qd,x3b4.0,13989,14383,könig_pietro,14200,14206,meinen,könig_pietro
 qd,x3b4.0,14388,14716,alma,14452,14455,Ich,alma
 qd,x3b4.0,14721,15157,könig_pietro,15040,15046,meinem,könig_pietro
+qd,x3b4.0,14721,15157,könig_pietro,15053,15066,Filipo Folchi,prinz_filipo
+qd,x3b4.0,14721,15157,könig_pietro,15053,15059,Filipo,prinz_filipo
 qd,x3b4.0,14721,15157,könig_pietro,15072,15076,mein,könig_pietro
 qd,x3b4.0,15162,15243,könig_pietro,15192,15196,mein,könig_pietro
 qd,x3b4.0,15248,15312,alma,15257,15261,mein,alma
 qd,x3b4.0,15317,15899,könig_pietro,15417,15423,meines,könig_pietro
+qd,x3b4.0,15665,15899,_stage,15665,15678,Filipo Folchi,prinz_filipo
+qd,x3b4.0,15665,15899,_stage,15665,15671,Filipo,prinz_filipo
+qd,x3b4.0,15665,15899,_stage,15847,15862,Benedetto Nardi,benedetto_nardi
 qd,x3b4.0,15904,16320,benedetto_nardi,15926,15929,ich,benedetto_nardi
+qd,x3b4.0,15904,16320,benedetto_nardi,15983,15996,Pietro Folchi,könig_pietro
 qd,x3b4.0,15904,16320,benedetto_nardi,16052,16056,mein,benedetto_nardi
 qd,x3b4.0,15904,16320,benedetto_nardi,16150,16156,meiner,benedetto_nardi
 qd,x3b4.0,16325,16381,könig_pietro,16371,16375,mein,könig_pietro
@@ -78,8 +100,11 @@ qd,x3b4.0,16431,16926,könig_pietro,16483,16489,meinem,könig_pietro
 qd,x3b4.0,16431,16926,könig_pietro,16507,16510,ich,könig_pietro
 qd,x3b4.0,16431,16926,könig_pietro,16511,16516,meine,könig_pietro
 qd,x3b4.0,16431,16926,könig_pietro,16730,16733,mir,könig_pietro
+qd,x3b4.0,16797,16926,_stage,16850,16854,Alma,alma
 qd,x3b4.0,16931,17492,der_söldner,17391,17394,ich,der_söldner
 qd,x3b4.0,16931,17492,der_söldner,17395,17399,mich,der_söldner
+qd,x3b4.0,17901,17957,_stage,17915,17930,Prinzessin Alma,alma
+qd,x3b4.0,17901,17957,_stage,17926,17930,Alma,alma
 qd,x3b4.0,17960,18062,könig_pietro,18004,18007,ich,könig_pietro
 qd,x3b4.0,17960,18062,könig_pietro,18048,18052,mich,könig_pietro
 qd,x3b4.0,18140,18275,könig_pietro,18199,18203,mich,könig_pietro
@@ -164,6 +189,7 @@ qd,x3b4.0,24042,24141,alma,24133,24136,mir,alma
 qd,x3b4.0,24210,24337,ein_landstreicher,24301,24304,ich,ein_landstreicher
 qd,x3b4.0,24426,24482,ein_landstreicher,24446,24449,Ich,ein_landstreicher
 qd,x3b4.0,24487,24584,könig_pietro,24521,24524,ich,könig_pietro
+qd,x3b4.0,24550,24584,_stage,24550,24567,Der Landstreicher,ein_landstreicher
 qd,x3b4.0,24589,24717,alma,24638,24642,mein,alma
 qd,x3b4.0,24589,24717,alma,24650,24653,Ich,alma
 qd,x3b4.0,24589,24717,alma,24660,24664,mich,alma
@@ -188,7 +214,9 @@ qd,x3b4.0,26012,26431,könig_pietro,26054,26057,ich,könig_pietro
 qd,x3b4.0,26012,26431,könig_pietro,26145,26148,ich,könig_pietro
 qd,x3b4.0,26012,26431,könig_pietro,26155,26159,mein,könig_pietro
 qd,x3b4.0,26012,26431,könig_pietro,26195,26198,mir,könig_pietro
+qd,x3b4.0,26505,26666,_stage,26625,26641,Meister Pandolfo,meister_pandolfo
 qd,x3b4.0,26809,27369,meister_pandolfo,26843,26846,mir,meister_pandolfo
+qd,x3b4.0,26809,27369,meister_pandolfo,26856,26868,die Gesellen,die_gesellen
 qd,x3b4.0,26809,27369,meister_pandolfo,27178,27181,Ich,meister_pandolfo
 qd,x3b4.0,26809,27369,meister_pandolfo,27300,27303,mir,meister_pandolfo
 qd,x3b4.0,27374,27444,könig_pietro,27391,27394,ich,könig_pietro
@@ -202,14 +230,20 @@ qd,x3b4.0,27777,28459,meister_pandolfo,27959,27962,ich,meister_pandolfo
 qd,x3b4.0,27777,28459,meister_pandolfo,27987,27990,mir,meister_pandolfo
 qd,x3b4.0,27777,28459,meister_pandolfo,28033,28037,mich,meister_pandolfo
 qd,x3b4.0,27777,28459,meister_pandolfo,28054,28057,ich,meister_pandolfo
+qd,x3b4.0,27777,28459,meister_pandolfo,28131,28147,Meister Pandolfo,meister_pandolfo
 qd,x3b4.0,27777,28459,meister_pandolfo,28376,28380,Mein,meister_pandolfo
 qd,x3b4.0,27777,28459,meister_pandolfo,28433,28436,ich,meister_pandolfo
+qd,x3b4.0,28464,28607,könig_pietro,28481,28497,Meister Pandolfo,meister_pandolfo
 qd,x3b4.0,28464,28607,könig_pietro,28499,28502,ich,könig_pietro
 qd,x3b4.0,28464,28607,könig_pietro,28529,28532,mir,könig_pietro
 qd,x3b4.0,28612,29102,meister_pandolfo,28646,28649,ich,meister_pandolfo
 qd,x3b4.0,28612,29102,meister_pandolfo,28671,28674,ich,meister_pandolfo
 qd,x3b4.0,28612,29102,meister_pandolfo,28698,28701,ich,meister_pandolfo
+qd,x3b4.0,28905,29102,_stage,28932,28948,Meister Pandolfo,meister_pandolfo
+qd,x3b4.0,28905,29102,_stage,29038,29053,Prinzessin Alma,alma
+qd,x3b4.0,28905,29102,_stage,29049,29053,Alma,alma
 qd,x3b4.0,29142,29190,könig_pietro,29177,29181,Mein,könig_pietro
+qd,x3b4.0,29290,29726,könig_pietro,29344,29356,die Gesellen,die_gesellen
 qd,x3b4.0,29290,29726,könig_pietro,29391,29395,mein,könig_pietro
 qd,x3b4.0,29290,29726,könig_pietro,29406,29409,ich,könig_pietro
 qd,x3b4.0,29290,29726,könig_pietro,29445,29450,meine,könig_pietro
@@ -240,6 +274,7 @@ qd,x3b4.0,31084,31621,alma,31467,31470,ich,alma
 qd,x3b4.0,31084,31621,alma,31561,31566,meine,alma
 qd,x3b4.0,31626,33382,könig_pietro,31701,31705,mein,könig_pietro
 qd,x3b4.0,31626,33382,könig_pietro,31767,31770,ich,könig_pietro
+qd,x3b4.0,31626,33382,könig_pietro,31775,31791,Meister Pandolfo,meister_pandolfo
 qd,x3b4.0,31626,33382,könig_pietro,31847,31850,ich,könig_pietro
 qd,x3b4.0,31626,33382,könig_pietro,31874,31877,ich,könig_pietro
 qd,x3b4.0,31626,33382,könig_pietro,31878,31882,mein,könig_pietro
@@ -274,6 +309,7 @@ qd,x3b4.0,34688,34805,alma,34730,34736,meiner,alma
 qd,x3b4.0,34688,34805,alma,34764,34767,ich,alma
 qd,x3b4.0,34810,35109,könig_pietro,35049,35053,mein,könig_pietro
 qd,x3b4.0,34810,35109,könig_pietro,35060,35063,Ich,könig_pietro
+qd,x3b4.0,34810,35109,könig_pietro,35069,35081,die Gesellen,die_gesellen
 qd,x3b4.0,35276,35493,michele,35357,35360,ich,michele
 qd,x3b4.0,35832,35977,könig_pietro,35844,35847,Mir,könig_pietro
 qd,x3b4.0,36211,36341,könig_pietro,36242,36246,mich,könig_pietro
@@ -289,14 +325,24 @@ qd,x3b4.0,37254,37408,noè,37325,37328,Ich,noè
 qd,x3b4.0,37254,37408,noè,37336,37340,mich,noè
 qd,x3b4.0,37254,37408,noè,37358,37361,ich,noè
 qd,x3b4.0,37413,38033,michele,37423,37426,Ich,michele
+qd,x3b4.0,37922,38033,_stage,38010,38022,die Gesellen,die_gesellen
 qd,x3b4.0,38119,38620,könig_pietro,38281,38285,mich,könig_pietro
 qd,x3b4.0,38119,38620,könig_pietro,38295,38299,mich,könig_pietro
 qd,x3b4.0,38119,38620,könig_pietro,38367,38371,mich,könig_pietro
 qd,x3b4.0,38119,38620,könig_pietro,38418,38421,ich,könig_pietro
 qd,x3b4.0,38119,38620,könig_pietro,38450,38454,mich,könig_pietro
 qd,x3b4.0,38119,38620,könig_pietro,38493,38497,mich,könig_pietro
+qd,x3b4.0,38579,38620,_stage,38579,38591,Die Gesellen,die_gesellen
+qd,x3b4.0,38765,38874,michele,38808,38824,Meister Pandolfo,meister_pandolfo
+qd,x3b4.0,38765,38874,michele,38828,38844,Meister Pandolfo,meister_pandolfo
+qd,x3b4.0,39301,39347,die_gesellen,39330,39346,Meister Pandolfo,meister_pandolfo
 qd,x3b4.0,39352,39391,könig_pietro,39375,39379,Mein,könig_pietro
+qd,x3b4.0,39396,39761,meister_pandolfo,39597,39614,Der Landstreicher,ein_landstreicher
 qd,x3b4.0,39396,39761,meister_pandolfo,39623,39626,mir,meister_pandolfo
+qd,x3b4.0,39824,40206,_stage,39839,39854,der Oberrichter,der_oberrichter
+qd,x3b4.0,39824,40206,_stage,39905,39920,Prinzessin Alma,alma
+qd,x3b4.0,39824,40206,_stage,39916,39920,Alma,alma
+qd,x3b4.0,39824,40206,_stage,40084,40100,Meister Pandolfo,meister_pandolfo
 qd,x3b4.0,40209,40502,der_oberrichter,40227,40230,Ich,der_oberrichter
 qd,x3b4.0,40209,40502,der_oberrichter,40351,40354,Ich,der_oberrichter
 qd,x3b4.0,40508,41173,der_prokurator_des_königs,40971,40974,ich,der_prokurator_des_königs
@@ -307,8 +353,12 @@ qd,x3b4.0,41920,42501,der_gerichtsaktuar,42211,42217,meiner,der_gerichtsaktuar
 qd,x3b4.0,41920,42501,der_gerichtsaktuar,42234,42240,meinen,der_gerichtsaktuar
 qd,x3b4.0,41920,42501,der_gerichtsaktuar,42266,42269,mir,der_gerichtsaktuar
 qd,x3b4.0,41920,42501,der_gerichtsaktuar,42395,42398,ich,der_gerichtsaktuar
+qd,x3b4.0,42739,42910,_stage,42794,42809,Prinzessin Alma,alma
+qd,x3b4.0,42739,42910,_stage,42805,42809,Alma,alma
+qd,x3b4.0,43419,43427,_stage,43422,43426,Alma,alma
 qd,x3b4.0,43399,43495,der_gerichtsaktuar,43464,43468,mein,der_gerichtsaktuar
 qd,x3b4.0,43711,43745,könig_pietro,43733,43738,meine,könig_pietro
+qd,x3b4.0,43770,43778,_stage,43773,43777,Alma,alma
 qd,x3b4.0,43750,43891,der_gerichtsaktuar,43792,43797,meine,der_gerichtsaktuar
 qd,x3b4.0,44103,44270,meister_pandolfo,44152,44156,mich,meister_pandolfo
 qd,x3b4.0,44103,44270,meister_pandolfo,44194,44198,Mich,meister_pandolfo
@@ -337,18 +387,21 @@ qd,x3b4.0,46428,47666,könig_pietro,47581,47584,ich,könig_pietro
 qd,x3b4.0,47927,50055,der_verteidiger,48043,48048,Meine,der_verteidiger
 qd,x3b4.0,47927,50055,der_verteidiger,48120,48123,mir,der_verteidiger
 qd,x3b4.0,47927,50055,der_verteidiger,48706,48709,ich,der_verteidiger
+qd,x3b4.0,47927,50055,der_verteidiger,48710,48726,Meister Pandolfo,meister_pandolfo
 qd,x3b4.0,47927,50055,der_verteidiger,49005,49008,ich,der_verteidiger
 qd,x3b4.0,47927,50055,der_verteidiger,49666,49669,ich,der_verteidiger
 qd,x3b4.0,50060,50187,der_oberrichter,50078,50081,Ich,der_oberrichter
 qd,x3b4.0,50192,51941,der_prokurator_des_königs,50777,50780,ich,der_prokurator_des_königs
 qd,x3b4.0,50192,51941,der_prokurator_des_königs,50832,50836,mich,der_prokurator_des_königs
 qd,x3b4.0,50192,51941,der_prokurator_des_königs,51605,51609,mich,der_prokurator_des_königs
+qd,x3b4.0,52276,52376,_stage,52322,52326,Alma,alma
 qd,x3b4.0,52256,52569,der_gerichtsaktuar,52384,52387,mir,der_gerichtsaktuar
 qd,x3b4.0,52256,52569,der_gerichtsaktuar,52424,52427,mir,der_gerichtsaktuar
 qd,x3b4.0,52256,52569,der_gerichtsaktuar,52460,52464,mein,der_gerichtsaktuar
 qd,x3b4.0,52574,52662,alma,52597,52601,mein,alma
 qd,x3b4.0,52574,52662,alma,52627,52630,Ich,alma
 qd,x3b4.0,52825,52979,könig_pietro,52869,52874,Meine,könig_pietro
+qd,x3b4.0,53004,53012,_stage,53007,53011,Alma,alma
 qd,x3b4.0,53242,53586,der_gerichtsaktuar,53381,53384,ich,der_gerichtsaktuar
 qd,x3b4.0,53591,54402,der_verteidiger,53929,53932,ich,der_verteidiger
 qd,x3b4.0,53591,54402,der_verteidiger,54002,54005,mir,der_verteidiger
@@ -358,6 +411,8 @@ qd,x3b4.0,53591,54402,der_verteidiger,54069,54075,meiner,der_verteidiger
 qd,x3b4.0,53591,54402,der_verteidiger,54221,54224,ich,der_verteidiger
 qd,x3b4.0,54408,54597,könig_pietro,54420,54423,Ich,könig_pietro
 qd,x3b4.0,54408,54597,könig_pietro,54434,54440,meinen,könig_pietro
+qd,x3b4.0,55189,55243,_stage,55189,55193,Alma,alma
+qd,x3b4.0,55653,55661,_stage,55656,55660,Alma,alma
 qd,x3b4.0,55633,55730,der_gerichtsaktuar,55677,55681,mein,der_gerichtsaktuar
 qd,x3b4.0,55735,56333,der_oberrichter,56269,56272,ich,der_oberrichter
 qd,x3b4.0,56409,57449,könig_pietro,56503,56506,Ich,könig_pietro
@@ -389,6 +444,9 @@ qd,x3b4.0,60134,61308,könig_pietro,60720,60724,mich,könig_pietro
 qd,x3b4.0,60134,61308,könig_pietro,60752,60755,ich,könig_pietro
 qd,x3b4.0,60134,61308,könig_pietro,60832,60835,ich,könig_pietro
 qd,x3b4.0,60134,61308,könig_pietro,60925,60928,mir,könig_pietro
+qd,x3b4.0,61115,61308,_stage,61157,61172,Prinzessin Alma,alma
+qd,x3b4.0,61115,61308,_stage,61168,61172,Alma,alma
+qd,x3b4.0,61313,61395,könig_pietro,61354,61358,Alma,alma
 qd,x3b4.0,61313,61395,könig_pietro,61361,61365,Mein,könig_pietro
 qd,x3b4.0,61400,61485,alma,61416,61419,ich,alma
 qd,x3b4.0,61400,61485,alma,61448,61451,Ich,alma
@@ -483,6 +541,8 @@ qd,x3b4.0,66611,67402,könig_pietro,67240,67244,mein,könig_pietro
 qd,x3b4.0,66611,67402,könig_pietro,67295,67298,mir,könig_pietro
 qd,x3b4.0,66611,67402,könig_pietro,67333,67336,mir,könig_pietro
 qd,x3b4.0,67491,67683,könig_pietro,67588,67591,Ich,könig_pietro
+qd,x3b4.0,67751,67809,_stage,67762,67777,Prinzessin Alma,alma
+qd,x3b4.0,67751,67809,_stage,67773,67777,Alma,alma
 qd,x3b4.0,68364,68496,der_kunstreiter,68382,68385,Mir,der_kunstreiter
 qd,x3b4.0,68501,68659,könig_pietro,68552,68556,Mein,könig_pietro
 qd,x3b4.0,68501,68659,könig_pietro,68646,68649,mir,könig_pietro
@@ -503,8 +563,10 @@ qd,x3b4.0,70603,70941,der_kunstreiter,70658,70661,ich,der_kunstreiter
 qd,x3b4.0,70603,70941,der_kunstreiter,70713,70716,ich,der_kunstreiter
 qd,x3b4.0,70603,70941,der_kunstreiter,70717,70721,mich,der_kunstreiter
 qd,x3b4.0,70603,70941,der_kunstreiter,70757,70760,ich,der_kunstreiter
+qd,x3b4.0,70603,70941,der_kunstreiter,70815,70819,Alma,alma
 qd,x3b4.0,70603,70941,der_kunstreiter,70826,70830,mein,der_kunstreiter
 qd,x3b4.0,70603,70941,der_kunstreiter,70928,70931,mir,der_kunstreiter
+qd,x3b4.0,71176,71420,_stage,71351,71364,die Zuschauer,die_zuschauer
 qd,x3b4.0,71831,71996,der_erste_theaterbesitzer,71903,71906,mir,der_erste_theaterbesitzer
 qd,x3b4.0,71831,71996,der_erste_theaterbesitzer,71929,71933,mein,der_erste_theaterbesitzer
 qd,x3b4.0,72001,72061,der_schauspieler,72020,72023,Ich,der_schauspieler
@@ -512,6 +574,10 @@ qd,x3b4.0,72066,72227,der_erste_theaterbesitzer,72182,72186,Mein,der_erste_theat
 qd,x3b4.0,72232,72300,der_schauspieler,72251,72254,Ich,der_schauspieler
 qd,x3b4.0,72232,72300,der_schauspieler,72279,72285,meiner,der_schauspieler
 qd,x3b4.0,72305,72594,der_erste_theaterbesitzer,72348,72354,meinen,der_erste_theaterbesitzer
+qd,x3b4.0,72497,72594,_stage,72497,72513,Der Schauspieler,der_schauspieler
+qd,x3b4.0,73286,73322,_stage,73286,73302,Der Schauspieler,der_schauspieler
+qd,x3b4.0,73510,73567,_stage,73521,73536,Prinzessin Alma,alma
+qd,x3b4.0,73510,73567,_stage,73532,73536,Alma,alma
 qd,x3b4.0,73572,73723,die_kupplerin,73632,73635,mir,die_kupplerin
 qd,x3b4.0,73572,73723,die_kupplerin,73709,73715,meiner,die_kupplerin
 qd,x3b4.0,73728,73954,könig_pietro,73755,73758,mir,könig_pietro
@@ -521,11 +587,15 @@ qd,x3b4.0,73728,73954,könig_pietro,73860,73863,ich,könig_pietro
 qd,x3b4.0,73959,74869,die_kupplerin,73980,73984,mich,die_kupplerin
 qd,x3b4.0,73959,74869,die_kupplerin,74028,74031,ich,die_kupplerin
 qd,x3b4.0,73959,74869,die_kupplerin,74111,74114,mir,die_kupplerin
+qd,x3b4.0,73959,74869,die_kupplerin,74191,74195,Alma,alma
 qd,x3b4.0,73959,74869,die_kupplerin,74217,74221,mein,die_kupplerin
 qd,x3b4.0,73959,74869,die_kupplerin,74241,74244,Ich,die_kupplerin
 qd,x3b4.0,73959,74869,die_kupplerin,74499,74502,mir,die_kupplerin
 qd,x3b4.0,73959,74869,die_kupplerin,74616,74619,mir,die_kupplerin
 qd,x3b4.0,73959,74869,die_kupplerin,74854,74857,mir,die_kupplerin
+qd,x3b4.0,74885,74936,_stage,74889,74902,die Kupplerin,die_kupplerin
+qd,x3b4.0,74874,75598,könig_pietro,74985,74989,Alma,alma
+qd,x3b4.0,75618,75626,_stage,75621,75625,Alma,alma
 qd,x3b4.0,75603,76029,die_kupplerin,75638,75642,mein,die_kupplerin
 qd,x3b4.0,75603,76029,die_kupplerin,75744,75748,mein,die_kupplerin
 qd,x3b4.0,75603,76029,die_kupplerin,75860,75863,mir,die_kupplerin
@@ -585,6 +655,7 @@ qd,x3b4.0,79323,81353,könig_pietro,80864,80867,mir,könig_pietro
 qd,x3b4.0,79323,81353,könig_pietro,80882,80885,Ich,könig_pietro
 qd,x3b4.0,79323,81353,könig_pietro,80985,80988,ich,könig_pietro
 qd,x3b4.0,79323,81353,könig_pietro,81266,81271,meine,könig_pietro
+qd,x3b4.0,81286,81318,_stage,81313,81317,Alma,alma
 qd,x3b4.0,79323,81353,könig_pietro,81326,81329,mir,könig_pietro
 qd,x3b4.0,79323,81353,könig_pietro,81343,81347,mein,könig_pietro
 qd,x3b4.0,81358,81496,der_erste_theaterbesitzer,81392,81395,Ich,der_erste_theaterbesitzer
@@ -617,6 +688,9 @@ qd,x3b4.0,84426,84458,könig_pietro,84438,84441,Ich,könig_pietro
 qd,x3b4.0,84463,84707,der_erste_theaterbesitzer,84491,84494,Ich,der_erste_theaterbesitzer
 qd,x3b4.0,84463,84707,der_erste_theaterbesitzer,84609,84615,meiner,der_erste_theaterbesitzer
 qd,x3b4.0,84463,84707,der_erste_theaterbesitzer,84663,84668,meine,der_erste_theaterbesitzer
+qd,x3b4.0,84681,84707,_stage,84699,84703,Alma,alma
+qd,x3b4.0,84969,85713,_stage,85485,85500,Prinzessin Alma,alma
+qd,x3b4.0,84969,85713,_stage,85496,85500,Alma,alma
 qd,x3b4.0,85716,85849,könig_pietro,85803,85807,mein,könig_pietro
 qd,x3b4.0,86193,86763,könig_pietro,86232,86235,mir,könig_pietro
 qd,x3b4.0,86193,86763,könig_pietro,86266,86269,ich,könig_pietro
@@ -653,8 +727,11 @@ qd,x3b4.0,89123,89375,alma,89258,89261,mir,alma
 qd,x3b4.0,89123,89375,alma,89337,89340,ich,alma
 qd,x3b4.0,89123,89375,alma,89341,89346,meine,alma
 qd,x3b4.0,89380,89698,könig_pietro,89445,89448,ich,könig_pietro
+qd,x3b4.0,89483,89698,_stage,89622,89641,der Theaterbesitzer,der_erste_theaterbesitzer
 qd,x3b4.0,89703,90648,der_erste_theaterbesitzer,89842,89845,ich,der_erste_theaterbesitzer
+qd,x3b4.0,89703,90648,der_erste_theaterbesitzer,90021,90027,Filipo,prinz_filipo
 qd,x3b4.0,89703,90648,der_erste_theaterbesitzer,90070,90073,ich,der_erste_theaterbesitzer
+qd,x3b4.0,89703,90648,der_erste_theaterbesitzer,90117,90121,Alma,alma
 qd,x3b4.0,89703,90648,der_erste_theaterbesitzer,90318,90324,meines,der_erste_theaterbesitzer
 qd,x3b4.0,89703,90648,der_erste_theaterbesitzer,90435,90438,ich,der_erste_theaterbesitzer
 qd,x3b4.0,90653,91055,könig_pietro,90687,90690,Ich,könig_pietro
@@ -679,6 +756,8 @@ qd,x3b4.0,92657,93593,könig_pietro,93435,93439,Mein,könig_pietro
 qd,x3b4.0,93599,93707,alma,93641,93645,mein,alma
 qd,x3b4.0,93599,93707,alma,93678,93681,ich,alma
 qd,x3b4.0,93712,93904,könig_pietro,93766,93769,ich,könig_pietro
+qd,x3b4.0,93805,93904,_stage,93822,93834,Prinz Filipo,prinz_filipo
+qd,x3b4.0,93805,93904,_stage,93828,93834,Filipo,prinz_filipo
 qd,x3b4.0,93999,94067,könig_pietro,94036,94039,Ich,könig_pietro
 qd,x3b4.0,93999,94067,könig_pietro,94046,94050,mich,könig_pietro
 qd,x3b4.0,94072,94816,alma,94195,94198,Ich,alma
@@ -728,6 +807,7 @@ qd,x3b4.0,97882,97995,könig_pietro,97950,97953,ich,könig_pietro
 qd,x3b4.0,98001,98341,alma,98058,98061,ich,alma
 qd,x3b4.0,98001,98341,alma,98092,98096,mein,alma
 qd,x3b4.0,98001,98341,alma,98196,98199,mir,alma
+qd,x3b4.0,98361,98369,_stage,98364,98368,Alma,alma
 qd,x3b4.0,98650,99561,alma,98675,98678,Ich,alma
 qd,x3b4.0,98650,99561,alma,98720,98723,ich,alma
 qd,x3b4.0,98650,99561,alma,98740,98744,mein,alma
@@ -747,6 +827,7 @@ qd,x3b4.0,100099,100578,könig_pietro,100309,100315,meinem,könig_pietro
 qd,x3b4.0,100099,100578,könig_pietro,100420,100424,mein,könig_pietro
 qd,x3b4.0,100099,100578,könig_pietro,100499,100502,ich,könig_pietro
 qd,x3b4.0,100584,100824,könig_pietro,100621,100624,ich,könig_pietro
+qd,x3b4.0,100584,100824,könig_pietro,100728,100732,Alma,alma
 qd,x3b4.0,100584,100824,könig_pietro,100741,100744,mir,könig_pietro
 qd,x3b4.0,100584,100824,könig_pietro,100751,100755,mein,könig_pietro
 qd,x3b4.0,100584,100824,könig_pietro,100781,100786,meine,könig_pietro
@@ -759,6 +840,7 @@ qd,x3b4.0,100829,101688,alma,101139,101142,ich,alma
 qd,x3b4.0,100829,101688,alma,101150,101153,mir,alma
 qd,x3b4.0,100829,101688,alma,101210,101213,ich,alma
 qd,x3b4.0,100829,101688,alma,101260,101263,ich,alma
+qd,x3b4.0,101521,101669,_stage,101580,101593,der Zuschauer,der_zuschauer
 qd,x3b4.0,101693,101896,könig_pietro,101733,101738,meine,könig_pietro
 qd,x3b4.0,101901,102081,alma,101996,102000,mein,alma
 qd,x3b4.0,101901,102081,alma,102042,102045,ich,alma
@@ -767,6 +849,8 @@ qd,x3b4.0,102087,102146,der_zuschauer,102111,102114,ich,der_zuschauer
 qd,x3b4.0,102151,102557,könig_pietro,102234,102239,meine,könig_pietro
 qd,x3b4.0,102151,102557,könig_pietro,102309,102312,ich,könig_pietro
 qd,x3b4.0,102151,102557,könig_pietro,102324,102327,mir,könig_pietro
+qd,x3b4.0,102472,102557,_stage,102491,102495,Alma,alma
+qd,x3b4.0,102888,103079,_stage,102888,102892,Alma,alma
 qd,x3b4.0,102562,103180,könig_pietro,103131,103137,meinen,könig_pietro
 qd,x3b4.0,102562,103180,könig_pietro,103166,103170,mich,könig_pietro
 qd,x3b4.0,103186,103262,alma,103244,103247,Ich,alma
@@ -782,6 +866,7 @@ qd,x3b4.0,104181,104213,könig_pietro,104201,104204,ich,könig_pietro
 qd,x3b4.0,104239,104282,könig_pietro,104267,104270,Mir,könig_pietro
 qd,x3b4.0,104455,104552,alma,104500,104503,ich,alma
 qd,x3b4.0,104603,104674,alma,104646,104649,mir,alma
+qd,x3b4.0,104691,104718,_stage,104696,104700,Alma,alma
 qd,x3b4.0,104680,104781,könig_pietro,104726,104731,meine,könig_pietro
 qd,x3b4.0,104880,105321,könig_pietro,104967,104970,mir,könig_pietro
 qd,x3b4.0,104880,105321,könig_pietro,104996,104999,Ich,könig_pietro
@@ -826,6 +911,7 @@ qd,x3b4.0,107652,108624,könig_pietro,108568,108574,meinem,könig_pietro
 qd,x3b4.0,107652,108624,könig_pietro,108594,108597,mir,könig_pietro
 qd,x3b4.0,109162,109398,könig_pietro,109206,109209,ich,könig_pietro
 qd,x3b4.0,109403,109623,könig_pietro,109426,109430,mein,könig_pietro
+qd,x3b4.0,109403,109623,könig_pietro,109451,109455,Alma,alma
 qd,x3b4.0,109403,109623,könig_pietro,109493,109496,ich,könig_pietro
 qd,x3b4.0,110030,112361,könig_pietro,110132,110135,ich,könig_pietro
 qd,x3b4.0,110030,112361,könig_pietro,110147,110153,meines,könig_pietro
@@ -866,11 +952,13 @@ qd,x3b4.0,110030,112361,könig_pietro,112195,112198,ich,könig_pietro
 qd,x3b4.0,110030,112361,könig_pietro,112209,112212,Ich,könig_pietro
 qd,x3b4.0,110030,112361,könig_pietro,112245,112248,ich,könig_pietro
 qd,x3b4.0,110030,112361,könig_pietro,112249,112253,mich,könig_pietro
+qd,x3b4.0,112317,112361,_stage,112343,112349,Filipo,prinz_filipo
 qd,x3b4.0,112366,112626,könig_pietro,112381,112384,Ich,könig_pietro
 qd,x3b4.0,112366,112626,könig_pietro,112495,112498,ich,könig_pietro
 qd,x3b4.0,112631,112814,prinz_filipo,112661,112665,mein,prinz_filipo
 qd,x3b4.0,112631,112814,prinz_filipo,112687,112690,ich,prinz_filipo
 qd,x3b4.0,112631,112814,prinz_filipo,112738,112741,ich,prinz_filipo
+qd,x3b4.0,112631,112814,prinz_filipo,112783,112787,Alma,alma
 qd,x3b4.0,112819,112939,könig_pietro,112860,112866,meines,könig_pietro
 qd,x3b4.0,112944,113019,prinz_filipo,112963,112967,mich,prinz_filipo
 qd,x3b4.0,112944,113019,prinz_filipo,112999,113003,mein,prinz_filipo
@@ -896,6 +984,7 @@ qd,x3b4.0,115174,115343,könig_pietro,115186,115190,Mein,könig_pietro
 qd,x3b4.0,115174,115343,könig_pietro,115221,115224,mir,könig_pietro
 qd,x3b4.0,115174,115343,könig_pietro,115272,115275,mir,könig_pietro
 qd,x3b4.0,115348,115475,könig_pietro,115372,115375,ich,könig_pietro
+qd,x3b4.0,115480,115541,prinz_filipo,115509,115513,Alma,alma
 qd,x3b4.0,115574,115630,könig_pietro,115586,115589,Ich,könig_pietro
 qd,x3b4.0,115692,115757,könig_pietro,115720,115724,mein,könig_pietro
 qd,x3b4.0,115692,115757,könig_pietro,115734,115737,mir,könig_pietro
@@ -927,6 +1016,7 @@ qd,x3b4.0,117849,117903,könig_pietro,117870,117873,ich,könig_pietro
 qd,x3b4.0,117908,118054,könig_pietro,117945,117948,Ich,könig_pietro
 qd,x3b4.0,118059,118114,könig_pietro,118071,118074,Ich,könig_pietro
 qd,x3b4.0,118059,118114,könig_pietro,118093,118096,Ich,könig_pietro
+qd,x3b4.0,118133,118143,_stage,118136,118142,Filipo,prinz_filipo
 qd,x3b4.0,118284,118530,könig_pietro,118385,118388,mir,könig_pietro
 qd,x3b4.0,118284,118530,könig_pietro,118430,118433,ich,könig_pietro
 qd,x3b4.0,118284,118530,könig_pietro,118457,118460,ich,könig_pietro
@@ -979,9 +1069,11 @@ qd,x3b4.0,120695,121504,könig_pietro,121082,121085,ich,könig_pietro
 qd,x3b4.0,120695,121504,könig_pietro,121112,121115,ich,könig_pietro
 qd,x3b4.0,120695,121504,könig_pietro,121203,121206,ich,könig_pietro
 qd,x3b4.0,120695,121504,könig_pietro,121354,121357,ich,könig_pietro
+qd,x3b4.0,121664,121704,prinz_filipo,121699,121703,Alma,alma
 qd,x3b4.0,121742,121905,könig_pietro,121778,121782,mein,könig_pietro
 qd,x3b4.0,121910,122012,alma,121917,121920,Ich,alma
 qd,x3b4.0,121910,122012,alma,121953,121957,mein,alma
+qd,x3b4.0,122017,122076,prinz_filipo,122071,122075,Alma,alma
 qd,x3b4.0,122152,122389,könig_pietro,122176,122180,mein,könig_pietro
 qd,x3b4.0,122152,122389,könig_pietro,122231,122234,ich,könig_pietro
 qd,x3b4.0,122152,122389,könig_pietro,122235,122241,meinen,könig_pietro
@@ -991,6 +1083,9 @@ qd,x3b4.0,122643,122853,könig_pietro,122676,122680,mein,könig_pietro
 qd,x3b4.0,122643,122853,könig_pietro,122749,122752,ich,könig_pietro
 qd,x3b4.0,122643,122853,könig_pietro,122827,122832,meine,könig_pietro
 qd,x3b4.0,122858,123035,alma,122939,122943,Mein,alma
+qd,x3b4.0,123041,123143,prinz_filipo,123094,123098,Alma,alma
+qd,x3b4.0,123159,123253,_stage,123196,123200,Alma,alma
+qd,x3b4.0,123159,123253,_stage,123205,123211,Filipo,prinz_filipo
 qd,x3b4.0,123148,123479,könig_pietro,123269,123272,ich,könig_pietro
 qd,x3b4.0,123148,123479,könig_pietro,123375,123378,Ich,könig_pietro
 qd,x3b4.0,123148,123479,könig_pietro,123414,123418,mein,könig_pietro
@@ -1009,6 +1104,7 @@ qd,x3b4.0,123748,124077,alma,124041,124044,mir,alma
 qd,x3b4.0,123748,124077,alma,124050,124053,mir,alma
 qd,x3b4.0,123748,124077,alma,124062,124066,mich,alma
 qd,x3b4.0,124082,124142,könig_pietro,124108,124111,Ich,könig_pietro
+qd,x3b4.0,124147,124190,prinz_filipo,124185,124189,Alma,alma
 qd,x3b4.0,124195,124335,könig_pietro,124210,124213,Ich,könig_pietro
 qd,x3b4.0,124195,124335,könig_pietro,124228,124234,meinen,könig_pietro
 qd,x3b4.0,124195,124335,könig_pietro,124315,124319,mein,könig_pietro

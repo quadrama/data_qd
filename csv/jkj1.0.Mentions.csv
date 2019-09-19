@@ -28,6 +28,10 @@ qd,jkj1.0,235,2236,wächter,1976,1979,ich,wächter
 qd,jkj1.0,235,2236,wächter,1981,1984,mir,wächter
 qd,jkj1.0,235,2236,wächter,2133,2136,ich,wächter
 qd,jkj1.0,235,2236,wächter,2178,2181,ich,wächter
+qd,jkj1.0,2206,2236,_stage,2210,2214,Chor,chor
+qd,jkj1.0,2242,4058,chorführer,2341,2350,Agamemnon,agamemnon
+qd,jkj1.0,3946,4058,_stage,4045,4057,Klytaimestra,klytaimestra
+qd,jkj1.0,4064,4926,chorführer,4123,4135,Klytaimestra,klytaimestra
 qd,jkj1.0,4064,4926,chorführer,4626,4629,mir,chorführer
 qd,jkj1.0,4064,4926,chorführer,4678,4681,mir,chorführer
 qd,jkj1.0,4064,4926,chorführer,4707,4711,mich,chorführer
@@ -46,6 +50,7 @@ qd,jkj1.0,4932,10622,chor,10222,10225,ich,chor
 qd,jkj1.0,4932,10622,chor,10237,10240,ich,chor
 qd,jkj1.0,4932,10622,chor,10387,10390,ich,chor
 qd,jkj1.0,10628,10944,chorführer,10641,10644,Ich,chorführer
+qd,jkj1.0,10628,10944,chorführer,10663,10675,Klytaimestra,klytaimestra
 qd,jkj1.0,10628,10944,chorführer,10900,10903,ich,chorführer
 qd,jkj1.0,10628,10944,chorführer,10933,10937,mich,chorführer
 qd,jkj1.0,11158,11214,chor,11190,11193,mir,chor
@@ -77,13 +82,16 @@ qd,jkj1.0,16219,20447,chor,19875,19878,ich,chor
 qd,jkj1.0,16219,20447,chor,19906,19910,mich,chor
 qd,jkj1.0,20453,21072,klytaimestra,20532,20538,meiner,klytaimestra
 qd,jkj1.0,20453,21072,klytaimestra,20657,20660,Ich,klytaimestra
+qd,jkj1.0,20453,21072,klytaimestra,20669,20675,Herold,herold
 qd,jkj1.0,20453,21072,klytaimestra,21011,21014,ich,klytaimestra
+qd,jkj1.0,21201,21222,_stage,21205,21211,Herold,herold
 qd,jkj1.0,21228,22940,herold,21239,21244,meine,herold
 qd,jkj1.0,21228,22940,herold,21313,21316,ich,herold
 qd,jkj1.0,21228,22940,herold,21401,21404,ich,herold
 qd,jkj1.0,21228,22940,herold,21458,21461,mir,herold
 qd,jkj1.0,21228,22940,herold,21809,21812,ich,herold
 qd,jkj1.0,21228,22940,herold,21814,21820,meinen,herold
+qd,jkj1.0,21228,22940,herold,21848,21854,Herold,herold
 qd,jkj1.0,21228,22940,herold,21986,21992,meiner,herold
 qd,jkj1.0,23001,23067,herold,23020,23023,ich,herold
 qd,jkj1.0,23001,23067,herold,23058,23061,ich,herold
@@ -101,6 +109,7 @@ qd,jkj1.0,23748,25301,herold,24725,24729,Mich,herold
 qd,jkj1.0,23748,25301,herold,24735,24738,ich,herold
 qd,jkj1.0,25307,25498,chor,25337,25340,ich,chor
 qd,jkj1.0,25307,25498,chor,25346,25350,mich,chor
+qd,jkj1.0,25307,25498,chor,25424,25436,Klytaimestra,klytaimestra
 qd,jkj1.0,25504,26833,klytaimestra,25542,25545,ich,klytaimestra
 qd,jkj1.0,25504,26833,klytaimestra,25574,25580,meines,klytaimestra
 qd,jkj1.0,25504,26833,klytaimestra,25836,25839,ich,klytaimestra
@@ -111,13 +120,19 @@ qd,jkj1.0,25504,26833,klytaimestra,26167,26170,ich,klytaimestra
 qd,jkj1.0,25504,26833,klytaimestra,26172,26178,meinen,klytaimestra
 qd,jkj1.0,25504,26833,klytaimestra,26406,26412,meinem,klytaimestra
 qd,jkj1.0,25504,26833,klytaimestra,26784,26787,ich,klytaimestra
+qd,jkj1.0,26817,26833,_stage,26817,26829,Klytaimestra,klytaimestra
 qd,jkj1.0,26954,27209,chor,27080,27083,mir,chor
+qd,jkj1.0,26954,27209,chor,27085,27091,Herold,herold
 qd,jkj1.0,27215,27317,herold,27250,27253,ich,herold
 qd,jkj1.0,28117,30383,herold,28708,28711,ich,herold
 qd,jkj1.0,28117,30383,herold,28735,28738,ich,herold
 qd,jkj1.0,28117,30383,herold,29441,29444,ich,herold
+qd,jkj1.0,30356,30366,_stage,30356,30362,Herold,herold
 qd,jkj1.0,30389,33748,chor,32185,32188,ich,chor
 qd,jkj1.0,30389,33748,chor,32798,32802,mein,chor
+qd,jkj1.0,33629,33748,_stage,33657,33666,Agamemnon,agamemnon
+qd,jkj1.0,33629,33748,_stage,33690,33699,Kassandra,kassandra
+qd,jkj1.0,33629,33748,_stage,33720,33732,Klytaimestra,klytaimestra
 qd,jkj1.0,33754,34894,chorführer,33767,33771,Mein,chorführer
 qd,jkj1.0,33754,34894,chorführer,33842,33845,ich,chorführer
 qd,jkj1.0,33754,34894,chorführer,33863,33866,ich,chorführer
@@ -152,6 +167,7 @@ qd,jkj1.0,37117,40116,klytaimestra,37363,37366,ich,klytaimestra
 qd,jkj1.0,37117,40116,klytaimestra,37963,37966,ich,klytaimestra
 qd,jkj1.0,37117,40116,klytaimestra,38160,38166,meinen,klytaimestra
 qd,jkj1.0,37117,40116,klytaimestra,38174,38178,Mich,klytaimestra
+qd,jkj1.0,38223,38236,_stage,38226,38235,Agamemnon,agamemnon
 qd,jkj1.0,37117,40116,klytaimestra,38267,38270,mir,klytaimestra
 qd,jkj1.0,37117,40116,klytaimestra,38295,38299,mein,klytaimestra
 qd,jkj1.0,37117,40116,klytaimestra,38343,38346,mir,klytaimestra
@@ -222,6 +238,8 @@ qd,jkj1.0,43491,45451,chor,44065,44070,Meine,chor
 qd,jkj1.0,43491,45451,chor,44186,44190,Mein,chor
 qd,jkj1.0,43491,45451,chor,44260,44263,ich,chor
 qd,jkj1.0,43491,45451,chor,45231,45235,mein,chor
+qd,jkj1.0,45411,45451,_stage,45411,45423,Klytaimestra,klytaimestra
+qd,jkj1.0,45457,46051,klytaimestra,45497,45506,Kassandra,kassandra
 qd,jkj1.0,46225,46392,klytaimestra,46332,46335,ich,klytaimestra
 qd,jkj1.0,46502,46853,klytaimestra,46527,46530,ich,klytaimestra
 qd,jkj1.0,46502,46853,klytaimestra,46781,46785,mein,klytaimestra
@@ -364,6 +382,7 @@ qd,jkj1.0,62335,62442,siebenter,62369,62372,ich,siebenter
 qd,jkj1.0,62335,62442,siebenter,62389,62392,ich,siebenter
 qd,jkj1.0,62560,62670,neunter,62576,62579,ich,neunter
 qd,jkj1.0,62897,63147,zwölfter,62929,62932,ich,zwölfter
+qd,jkj1.0,63008,63147,_stage,63041,63053,Klytaimestra,klytaimestra
 qd,jkj1.0,63153,64546,klytaimestra,63186,63189,ich,klytaimestra
 qd,jkj1.0,63153,64546,klytaimestra,63235,63238,ich,klytaimestra
 qd,jkj1.0,63153,64546,klytaimestra,63430,63433,Mir,klytaimestra
@@ -381,6 +400,7 @@ qd,jkj1.0,64661,64995,klytaimestra,64676,64680,Mich,klytaimestra
 qd,jkj1.0,64661,64995,klytaimestra,64724,64727,Ich,klytaimestra
 qd,jkj1.0,64661,64995,klytaimestra,64807,64811,mich,klytaimestra
 qd,jkj1.0,64661,64995,klytaimestra,64828,64831,Mir,klytaimestra
+qd,jkj1.0,64661,64995,klytaimestra,64859,64868,Agamemnon,agamemnon
 qd,jkj1.0,64661,64995,klytaimestra,64870,64874,mein,klytaimestra
 qd,jkj1.0,64661,64995,klytaimestra,64914,64920,meiner,klytaimestra
 qd,jkj1.0,65283,66014,klytaimestra,65311,65314,mir,klytaimestra
@@ -401,6 +421,7 @@ qd,jkj1.0,66304,67138,klytaimestra,66435,66438,ich,klytaimestra
 qd,jkj1.0,66304,67138,klytaimestra,66479,66482,ich,klytaimestra
 qd,jkj1.0,66304,67138,klytaimestra,66483,66487,mich,klytaimestra
 qd,jkj1.0,66304,67138,klytaimestra,66529,66535,meinem,klytaimestra
+qd,jkj1.0,66304,67138,klytaimestra,66557,66566,Aigisthos,aigisthos
 qd,jkj1.0,66304,67138,klytaimestra,66588,66591,mir,klytaimestra
 qd,jkj1.0,66304,67138,klytaimestra,66682,66686,mein,klytaimestra
 qd,jkj1.0,66304,67138,klytaimestra,67059,67065,meinen,klytaimestra
@@ -430,6 +451,7 @@ qd,jkj1.0,71958,72425,klytaimestra,72085,72088,ich,klytaimestra
 qd,jkj1.0,71958,72425,klytaimestra,72124,72127,Ich,klytaimestra
 qd,jkj1.0,71958,72425,klytaimestra,72261,72264,ich,klytaimestra
 qd,jkj1.0,71958,72425,klytaimestra,72309,72312,mir,klytaimestra
+qd,jkj1.0,72389,72425,_stage,72389,72398,Aigisthos,aigisthos
 qd,jkj1.0,72431,74252,aigisthos,72500,72503,ich,aigisthos
 qd,jkj1.0,72431,74252,aigisthos,72629,72632,ich,aigisthos
 qd,jkj1.0,72431,74252,aigisthos,72662,72665,mir,aigisthos
@@ -446,6 +468,7 @@ qd,jkj1.0,72431,74252,aigisthos,74077,74080,ich,aigisthos
 qd,jkj1.0,72431,74252,aigisthos,74081,74085,mich,aigisthos
 qd,jkj1.0,72431,74252,aigisthos,74182,74185,mir,aigisthos
 qd,jkj1.0,72431,74252,aigisthos,74212,74215,ich,aigisthos
+qd,jkj1.0,74258,74518,chorführer,74271,74280,Aigisthos,aigisthos
 qd,jkj1.0,74258,74518,chorführer,74312,74315,ich,chorführer
 qd,jkj1.0,74258,74518,chorführer,74416,74419,Ich,chorführer
 qd,jkj1.0,74524,74937,aigisthos,74536,74539,Mir,aigisthos
@@ -453,6 +476,7 @@ qd,jkj1.0,74943,75114,chor,75101,75107,meinem,chor
 qd,jkj1.0,75543,75916,aigisthos,75603,75606,Ich,aigisthos
 qd,jkj1.0,75543,75916,aigisthos,75730,75733,mir,aigisthos
 qd,jkj1.0,75543,75916,aigisthos,75757,75760,Ich,aigisthos
+qd,jkj1.0,76296,76447,chor,76368,76377,AIGISTHOS,aigisthos
 qd,jkj1.0,76296,76447,chor,76411,76414,mir,chor
 qd,jkj1.0,76529,76604,aigisthos,76540,76544,Mein,aigisthos
 qd,jkj1.0,76529,76604,aigisthos,76580,76583,ich,aigisthos
@@ -467,3 +491,4 @@ qd,jkj1.0,77597,77671,aigisthos,77612,77615,ich,aigisthos
 qd,jkj1.0,77756,77827,aigisthos,77773,77776,mir,aigisthos
 qd,jkj1.0,77756,77827,aigisthos,77808,77811,mir,aigisthos
 qd,jkj1.0,77909,78095,klytaimestra,77964,77967,ich,klytaimestra
+qd,jkj1.0,78049,78095,_stage,78077,78081,Chor,chor
